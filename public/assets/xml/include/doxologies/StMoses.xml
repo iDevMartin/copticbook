@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMoses:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Strong Abba Moses</Language>
+            <Language id="Arabic">ذوكصولوجية الشهيد أنبا موسى الأسود</Language>
+            <Language id="Coptic">Pisorp m~marturoc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Moses
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Pisorp m~marturoc e#y#u#: e~tafjwk e~bol n~kalwc: qen pitwou n~te Sih/t: pe peniwt e#y#u# abba Mwc/.
+            </Language>
+            <Language id="English">
+               The first holy martyr, who was well perfected, on the mountain of Shiheet, is our holy father Abba Moses.
+            </Language>
+            <Language id="Arabic">
+               الشهيد الأول القديس الذي كمل حسنا في جبل شيهات هو أبونا القديس أنبا موسى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afswpi gar n~ouref]: efoi n~ho] oube nidemwn: afo~hi e~ratf hijen ]petra: kata p~tupoc m~pic~tauroc.
+            </Language>
+            <Language id="English">
+               He became a fighter, whom the demons fear. He stood upon the rock, as a type of the Cross.
+            </Language>
+            <Language id="Arabic">
+               لأنه صار محاربا مخوفا ضد الشياطين ووقف على الصخرة كمثال الصليب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hiten tefnis] n~hupomon/: nem piqici n~te nibacanoc: afervorin m~pi,~lom: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               Through his great patience, of the travails of his torments, he wore the crown, of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               بعظم صبره وتعب العذابات لبس إكليل الشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afhwl e~p~[ici qen pip#n#a#: e~qoun e~nefman~emton: e~tafcebtwtou n~je Po#c#: n~n/eymei m~pefran e#y#u#.
+            </Language>
+            <Language id="English">
+               He flew in the spirit to the heights, to the place of rest, which the Lord has prepared, for those who love His Holy Name.
+            </Language>
+            <Language id="Arabic">
+               ذهب بالروح إلي العلو إلي مواضع النياح التي أعدها الرب لمحبي اسمه القدوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afcwjp nan m~pefcwma: nem pefc~p/leon e#y#u#: eyrenjwk e~bol n~q/tf: m~peferv~meui~ ettai/out.
+            </Language>
+            <Language id="English">
+               He left for us his holy body, and his holy cave, that we may complete in it, his honored memorial.
+            </Language>
+            <Language id="Arabic">
+               وأبقى لنا جسده ومغارته المقدسة لنكمل فيها تذكاره المكرم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Enws e~bol enjw m~moc: je V] n~abba Mwc/: nem n/e~taujwk e~bol nemaf: a~riounai nem nen'u,/.
+            </Language>
+            <Language id="English">
+               Proclaiming and saying, “O God of Abba Moses, and those who were perfected with him, have mercy upon our souls.”
+            </Language>
+            <Language id="Arabic">
+               إذ نصرخ قائلين يا اله أنبا موسى والذين كملوا معه اصنع رحمة مع نفوسنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh n~tensasni e~niws: e~tafcebtwtou n~n/e#y#u#: e~tauranaf icjen p~e~neh: eybe toua~gap/ e~qoun e~rof.
+            </Language>
+            <Language id="English">
+               That we may win the promises, which He has prepared for the saints, who have pleased Him since the beginning, because of their love for Him.
+            </Language>
+            <Language id="Arabic">
+               ونفوز بالمواعيد المعدة للقديسين الذين أرضوه منذ البدء لأجل حبهم فيه.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMoses"/>
+      </Section>
+   </Season>
+</Document>

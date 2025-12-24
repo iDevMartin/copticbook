@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Section>
+               <Title>
+                  <Language id="English">A Prayer of Thanksgiving</Language>
+                  <Language id="Arabic">صلاة شكر</Language>
+               </Title>
+               
+               <Comment>
+                  <Language id="English">
+                     After distributing the Holy Mysteries, the priest says this prayer of thanksgiving to God, which is addressed to the Father.
+                  </Language>
+                  <Language id="Arabic">
+                     يقول الكاهن هذه الأوشية شكراً لله من بعد تناول الأسرار المقدسة، وهي للآب:
+                  </Language>
+               </Comment>
+               
+               <Group>
+                  <Season id="CovenantThursday">
+                     <Comment>
+                        <Language id="English">
+                           For Covenant Thursday:
+                        </Language>
+                        <Language id="Arabic">
+                           في يوم خميس العهد:
+                        </Language>
+                     </Comment>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Tenseph~mot n~totk Poc# pimairwmi: pireferpeynanef n~te nen'u,/. V/etakaiten n~emp~sa m~v~r/] qen paiehoou vai: n~nekmuct/rion n~epouranion ouoh n~aymou.
+                        </Language>
+                        <Language id="English">
+                           We thank You, O Lord, Lover of Mankind, beneficent for our souls, O You who—on that very day—made us worthy of Your heavenly and immortal Mysteries.
+                        </Language>
+                        <Language id="Arabic">
+                           نشكركَ أيها الربُّ محبُّ البشرِ صانعُ الخيراتِ لنفوسِنا. يا من جعلتنا مستحِقين في مثلِ هذا اليومِ لأسرارِكَ السمائيةِ والغيرِ المائتةِ.
+                        </Language>         
+                     </Text>
+                  </Season>
+                  
+                  <Season id="Other">
+                     <Text>
+                        <Language id="Coptic">
+                           Rwn afmoh n~rasi: ouoh penlac qen ouyel/l: e~h~r/i e~jen penjin[i e~bolqen nekmuct/rion n~aymou P[oic.
+                        </Language>
+                        <Language id="English">
+                           Our mouth is filled with gladness and our tongue with rejoicing from our partaking of Your immortal Mysteries, O Lord.
+                        </Language>
+                        <Language id="Arabic">
+                           فمُنا امتلأ فرحاً ولسانُنا تهليلاً، من جهةِ تناولِنا من أسرارِكَ غيرِ المائِتَةِ ياربُّ.
+                        </Language>         
+                     </Text>
+                  </Season>
+               </Group>
+               
+               <Text>
+                  <Language id="Coptic">
+                     N/ gar e~te m~pe bal nau e~rwou: oude m~pe masj coymou: oude m~poui~ e~h~r/i e~jen p~h/t n~rwmi.
+                  </Language>
+                  <Language id="English">
+                     For that which an eye has not seen nor ear heard—neither have entered into the heart of man,
+                  </Language>
+                  <Language id="Arabic">
+                     لأن ما لم تَرَهُ عينٌ، ولم تسمعْ به أذن، ولم يخطُرْ على قلبِ بشرٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     N/e~takcebtwtou Vnou] n~n/eymei m~pekran eyouab: ak[orpou e~bol n~hankouji n~a~lwoui~ n~te tekekk~l/cia~ eyouab.
+                  </Language>
+                  <Language id="English">
+                     the things which You, O God, have prepared for those who love Your holy name—You have revealed to the little children of Your holy Church.
+                  </Language>
+                  <Language id="Arabic">
+                     ما أعددْتَهُ يا اللهُ لمحبي اسمِكَ القدوس، أعلنتَهُ للأطفالِ الصغارِ الذين لكنيستِكَ المقدسةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aha Viwt je vai pe pi]ma] e~tafswpi m~pekm~yo: je n~yok ouna/t gar.
+                  </Language>
+                  <Language id="English">
+                     Yea, O Father, this is the pleasure before You, for You are merciful.
+                  </Language>
+                  <Language id="Arabic">
+                     نعم أيها الآبُ، إن هذه هي المسرةُ التي كانت أمامَكَ، لأنك رحيمٌ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh tenouwrp nak e~p~swi m~piw~ou nem pitaio~ Viwt nem Ps/ri nem Pip~neuma eyouab.}nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     We send up unto You the glory and honor, O Father and Son and Holy Spirit, now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     ونرسِلُ لكَ إلى فوقُ المجدَ والإكرامَ، أيها الآبُ والابنُ والروحُ القدس، الآنَ وكل أوانٍ وإلى دهر الدهور كلِّها. آمين.
+                  </Language>         
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Section>
+               <Title>
+                  <Language id="English">A Prayer of Thanksgiving to the Son After the Distribution Of The Holy Mysteries</Language>
+                  <Language id="Arabic">صلاة شكر للإبن بعد التناول من الأسرار المقدسة</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Tenseph~mot n~totk P[oic Pi,rictoc Pennou] Pilogoc n~a~l/yinon pie~bolqen ]oucia m~piatywleb Viwt eyouab.
+                  </Language>
+                  <Language id="English">
+                     We give thanks to You, O Lord Christ our God, the true Logos who is of the essence of the holy and spotless Father.
+                  </Language>
+                  <Language id="Arabic">
+                     نشكُرُكَ أيها السيدُ المسيحُ إلهُنا، الكلمةُ الحقيقيةُ الذي من جوهرِ الآبِ غيرِ الدنسِ القدوسِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je akmenriten m~pair/] ouoh akt/ik e~p~qolqel eybe nennobi.
+                  </Language>
+                  <Language id="English">
+                     For You have loved us and have given Yourself unto slaughter for our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     لأنكَ أحببتَنا هكذا، وبذلتَ ذاتَكَ للذبحِ من أجلِ خطايانا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aktal[on qen nekerqot: ouoh anoujai hiten neklele,/mi.
+                  </Language>
+                  <Language id="English">
+                     By Your stripes You have  healed us and through Your bruises we have become whole.
+                  </Language>
+                  <Language id="Arabic">
+                     شَفيتَنا بضرباتِكَ فَبَرِئْنَا بجراحاتِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eaker,arizecye nan m~pitanqo e~bol hiten pekcwma eyouab nem pekc~nof ettai/out.
+                  </Language>
+                  <Language id="English">
+                     You have granted us life through Your holy Body and Your precious Blood,
+                  </Language>
+                  <Language id="Arabic">
+                     إذ أنعمتَ علينا بالحياةِ من قِبَلِ جسدِكَ المقدسِ، ودمِكَ الكريمِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nai e~takaiten n~emp~sa on ]nou e~[i e~bol n~q/tou.
+                  </Language>
+                  <Language id="English">
+                     of which You have now also made us worthy to partake.
+                  </Language>
+                  <Language id="Arabic">
+                     هذين اللذيْن جعلتنا مستحقينَ أيضاً الآنَ أن ننالَ منهُما.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eybe vai tenouwnh nak e~bol Vnou] pimaipefp~lacma.
+                  </Language>
+                  <Language id="English">
+                     Therefore, we give thanks to You, O God, the lover of Your creation.
+                  </Language>
+                  <Language id="Arabic">
+                     من أجلِ هذا نشكرُكَ يا اللهُ محبُّ جبلتِهِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh tenouwrp nak e~p~swi m~piw~ou nem pitaio nem ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+                  </Language>
+                  <Language id="English">
+                     And unto You we send up the glory, the honor, and the worship with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+                  </Language>
+                  <Language id="Arabic">
+                     ونرسلُ لكَ إلى فوقُ المجدَ والكرامةَ والسجودَ مع أبيكَ الصالحِ والروحِ القدسِ المُحيي  المساوِي لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }nou nem n~c/ou niben nem sa e~neh nte nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+                  </Language>         
+               </Text>
+            </Section>                        
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Section>
+               <Title>
+                  <Language id="English">A Prayer of Thanksgiving to the Father After the Distribution of the Holy Mysteries</Language>
+                  <Language id="Arabic">صلاة شكر للآببعد التناول من الأسرار المقدسة</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     As n~c~mou ie as n~humnoc ie as m~metrefseph~mot: e~tennast/itou nak n~sebiw w~ Vnou] pimairwmi.
+                  </Language>
+                  <Language id="English">
+                     What blessing, what praise, what thanksgiving, can we give You in return, O God, the Lover of Mankind?
+                  </Language>
+                  <Language id="Arabic">
+                     أَيَّةُ بركةٍ وأَيُّ تسبيحٍ وأَيُّ شكرٍ نستطيعُ أن نكافِئَكَ بهِ يااللهُ محبُّ البشرِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je enhwoui~ e~p~hap m~v~mou: ouoh enwmc qen p~sik n~te nennobi.
+                  </Language>
+                  <Language id="English">
+                     For, while we were cast into the sentence of death and overwhelmed in the depth of our sins,
+                  </Language>
+                  <Language id="Arabic">
+                     إذ ونحنُ مطروحونَ لحكمِ الموتِ، ومغموسونَ في حفرةِ خطايانا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Akerh~mot nan n~oumetremhe: ouoh ak] nan e~bolqen tait~rov/ yai n~aymou ouoh n~e~pouranion.
+                  </Language>
+                  <Language id="English">
+                     You have granted us freedom, and gave us this immortal, heavenly Food.
+                  </Language>
+                  <Language id="Arabic">
+                     أَنعمْتَ لنا بالحريةِ، وأعطيتنا من هذا الطعامِ الغيرِ المائتِ السمائي.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh akouwnh nan e~bol m~paimuct/rion t/rf vai eth/p icjen nie~neh nem nigenea~.
+                  </Language>
+                  <Language id="English">
+                     And You manifested to us this whole Mystery, hidden since the ages and the generations,
+                  </Language>
+                  <Language id="Arabic">
+                     وأَظهرْتَ لنا هذا السرَّ كُلَّهُ المُخْفَى منذُ الدهورِ والأجيالِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Hina n~tecouwnh e~bol ]nou n~niar,/ nem niexoucia qen na niv/oui~: e~bol hiten ]ekk~l/cia: n~je ]covia etoi n~ouyo n~r/] n~tak.
+                  </Language>
+                  <Language id="English">
+                     so that through the Church Your manifold wisdom might now be made known to the rulers and authorities in the heavenly realms.
+                  </Language>
+                  <Language id="Arabic">
+                     لكي تظهرَ الآنَ للرؤساءِ والسلاطينِ في السماوياتِ، حكمتُكَ المتنوِّعَةُ بواسِطَةِ الكنيسةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Vnou] v/eteroikonomin n~nenh~b/oui~ qen oucovia: nem e~hote pir/] etennas~tahof.
+                  </Language>
+                  <Language id="English">
+                     O God, who manages our affairs in wisdom, and in a manner more than what we can comprehend,
+                  </Language>
+                  <Language id="Arabic">
+                     يااللهُ الذي يدبرُ أعمالَنا بحكمةٍ، وأكثرَ من الحدِّ الذي نستطيع أن نُدرِكَهُ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ou te taimetrefsenh/t t/rc: ou te tainis] m~metfairwous n~te tekmetiwt: ie ou pe paipelagoc n~te tekmeta~gayoc.
+                  </Language>
+                  <Language id="English">
+                     what is all this compassion! What is this great care of Your fatherhood! Or what is this ocean of Your goodness!
+                  </Language>
+                  <Language id="Arabic">
+                     ما هذه الرأفةُ كلُّها، وما هذا الاهتمامُ العظيمُ الذي لأُبوتِكَ، وما هذه اللجَّةُ التي لصلاحِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Al/ywc n~yok pe e~teferp~repi nak n~je piw~ou t/rf: ]metnis]: pia~mahi: nem piersisi: qajen pie~neh t/rf.
+                  </Language>
+                  <Language id="English">
+                     Truly, You are He unto whom is due the glory, the greatness, the might, and the authority, before all time.
+                  </Language>
+                  <Language id="Arabic">
+                     بالحقيقةِ أَنتَ الذي ينبغي لكَ كلُّ المجدِ والعظمةِ والعزِّ والسلطانِ قَبْلَ الدهرِ كلِّهِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Viwt nem Ps/ri nem Pip~neuma eyouab: ]nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     O Father, Son, and Holy Spirit, now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     أيها الآبُ والابنُ والروحُ القدسُ. الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+                  </Language>         
+               </Text>
+            </Section>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Section>
+      <Title>
+         <Language id="English">The Prayer of the Laying-on of the Hands After the Distribution Of The Holy Mysteries</Language>
+         <Language id="Arabic">صلاة وضع يد  بعد التناول من الاسرار المقدسة</Language>
+      </Title>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Comment>
+               <Language id="English">
+                  A prayer of submission addressed to the Father is said before the laying-on of hands after receiving from the Holy Mysteries.
+               </Language>
+               <Language id="Arabic">
+                  وهي صلاة خضوع تقال قبل وضع اليد بعد التناول من الأسرار المقدسة، موحهة للآب.
+               </Language>
+            </Comment>   
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Comment>
+               <Language id="English">
+                  The following is a prayer of submission by Saint Severus, patriarch of Antioch, addressed to the Son. It is said before the laying-on of hands, after receiving from the Holy Mysteries.
+               </Language>
+               <Language id="Arabic">
+                  وهي صلاة خضوع، للقديس ساويرس، بطريرك أنطاكية، موجهة للابن، تقال قبل وضع اليد بعد التناول من الأسرار المقدسة.
+               </Language>
+            </Comment>   
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Comment>
+               <Language id="English">
+                  The following is a prayer of submission by the thrice-blessed John, bishop of Bostra, (a contemporary of Saint Severus of Antioch), addressed to the Father. It is said before the laying-on of hands, after receiving from the Holy Mysteries.
+               </Language>
+               <Language id="Arabic">
+                  وهي صلاة خضوع ليوحنا المثلث الطوبى أسقف بصرة (المعاصر للقديس ساويرس الأنطاكي)، موجهة للآب، تقال قبل وضع اليد بعد التناول من الأسرار المقدسة.
+               </Language>
+            </Comment>   
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/BowYourHeads"/>
+      
+      <Role id="People">      
+         <Text>
+            <Language id="Coptic">
+               Enwpion cou Kurie.
+            </Language>
+            <Language id="English">
+               Before You, O Lord.
+            </Language>
+            <Language id="Arabic">
+               أمامَكَ ياربُّ.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <Group>
+            <Season id="StBasilLiturgy">      
+               <Text>
+                  <Language id="Coptic">
+                     Neke~biaik P[oic nai etsemsi m~mok: ouoh ettwbh m~pekran eyouab: ouoh eujwbc n~jwou nak.
+                  </Language>
+                  <Language id="English">
+                     Your servants, O Lord, who are serving You, entreating Your holy name, and bowing down their heads to You,
+                  </Language>
+                  <Language id="Arabic">
+                     عبيدُكَ ياربُّ هؤلاء الذين يخدمونَكَ ويطلبونَ اسمَكَ القدوس ويخضعونَ لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Swpi n~q/tou P[oic: ouoh mosi n~q/tou: matotk nemwou qen hwb niben n~a~gayon.
+                  </Language>
+                  <Language id="English">
+                     dwell in them, O Lord, walk among them, aid them in every good deed,
+                  </Language>
+                  <Language id="Arabic">
+                     حِلَّ فيهم ياربُّ وسِرْ بينهم. ساعِدْهم في كُلِّ عملٍ صالحٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Matounoc pouh/t e~bolha meui~ niben ethwou n~te p~kahi: m/ic nwou eyrouwnq: ouoh n~toumeui~ e~na n/etonq: ouoh n~touka] e~n/e~te nouk.
+                  </Language>
+                  <Language id="English">
+                     awaken their heart from every vile earthly thought, grant them to live and think of that which pertains to the living and to understand the things that are Yours.
+                  </Language>
+                  <Language id="Arabic">
+                     أَنهِضْ قلبَهُم من كلِّ فكرٍ رديءٍ أرضيٍ. امنحْهُم أن يحيوا، ويفكروا فيما للأحياءِ، ويفهموا الذي لكَ.
+                  </Language>         
+               </Text>
+      
+               <Text>
+                  <Language id="Coptic">
+                     Hiten pekmonogen/c n~S/ri Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc. Vai e~te a~non nem peklaoc t/rf enws e~bol enjw m~moc: je nai nan Vnou] pencwt/r.
+                  </Language>
+                  <Language id="English">
+                     Through Your only-begotten Son, our Lord, God, and Savior Jesus Christ, to whom we and all Your people cry out, saying, “Have mercy upon us, O God, our Savior.”
+                  </Language>
+                  <Language id="Arabic">
+                     بابنِكَ الوحيد ربِّنا وإلهِنا ومخلِّصِنا يسوعَ المسيحِ، هذا الذي نحنُ وكلُّ شعبِكَ نصرخُ قائلين: ارحَمْنا يا اللهُ مخلِّصُنا.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StGregoryLiturgy">      
+               <Text>
+                  <Language id="Coptic">
+                     V/etsop v/e~nafsop v/e~tafi~ palin on f~n/ou.
+                  </Language>
+                  <Language id="English">
+                     O You, THE BEING, who was, who came, and who is coming again;
+                  </Language>
+                  <Language id="Arabic">
+                     أيها الكائنُ الذي كانَ الذي أتى وأيضاً يأتي.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/e~taf[icarx ouoh aferrwmi: ouoh auasf e~pic~tauroc eyb/ten.
+                  </Language>
+                  <Language id="English">
+                     who was incarnate and became man, and was crucified for us on the Cross;
+                  </Language>
+                  <Language id="Arabic">
+                     الذي تجسدَ، وتأنسَ، وصُلِبَ على الصليبِ من أجلِنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Af[im~kah qen pefouws qen t~carx: ouoh afswpi efoi n~atm~kah hwc nou].
+                  </Language>
+                  <Language id="English">
+                     who suffered by His will in the flesh but suffered not in His divinity;
+                  </Language>
+                  <Language id="Arabic">
+                     تألم بإرادتِهِ بالجسدِ وكانَ غيرَ متألمٍ كإله.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aukocf ouoh au,af qen pim~hau: aftwnf e~bolqen n/eymwout qen pie~hoou m~mah 3 (somt).
+                  </Language>
+                  <Language id="English">
+                     who was buried and put in the tomb, and on the third day rose from the dead;
+                  </Language>
+                  <Language id="Arabic">
+                     دُفِنَ وَوُضِعَ في القبرِ، وقامَ من الأمواتِ في اليومِ الثالثِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Afsenaf e~p~swi e~niv/oui~ ouoh afhemci caouinam n~]metnis] n~te Viwt.
+                  </Language>
+                  <Language id="English">
+                     who ascended into the heavens and sat at the right hand of the majesty of the Father;
+                  </Language>
+                  <Language id="Arabic">
+                     وصعدَ إلى السمواتِ، وجلسَ عن يمينِ عظمةِ الآبِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh f~n/ou e~]hap e~n/etonq nem n/eymwout.
+                  </Language>
+                  <Language id="English">
+                     and who shall come to judge the living and the dead;
+                  </Language>
+                  <Language id="Arabic">
+                     وسيأتي ليدينَ الأحياءَ والأموات.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/e~touc~mou e~rof n~je niaggeloc: euhwc n~je niar,iaggeloc.
+                  </Language>
+                  <Language id="English">
+                     whom the angels bless and the archangels praise;
+                  </Language>
+                  <Language id="Arabic">
+                     الذي تبارِكه الملائكةُ، وتسبحه رؤساءُ الملائكةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/etoucaji m~pefw~ou n~je niceravim: euouwst m~mof n~je ni,eroubim.
+                  </Language>
+                  <Language id="English">
+                     whose glory the seraphim declare, and who is worshiped by the cherubim;
+                  </Language>
+                  <Language id="Arabic">
+                     الذي تنطقُ بمجدِه السارافيم، وتَسجُدُ له الشاروبيم.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/etouenhour ouoh euc~yerter qatefh/ n~je vucic niben: Pis/ri ouoh n~Logoc n~te Vnou] Viwt: I/couc Pi,rictoc Pen[oic.
+                  </Language>
+                  <Language id="English">
+                     before whom the nature of every thing fears and trembles—the Son and Logos of God the Father, Jesus Christ our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     الذي تخافُ وترتعدُ منه جميعُ الطبائعِ، الابنُ كلمةُ اللهِ الآبِ يسوعُ المسيحُ ربُّنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nyok pe e~tou[~non n~jwou nak n~je peklaoc nem tekk~l/ronomia: nai e~takj~vwou nak qa v/e~te vwk n~c~nof ettai/out.
+                  </Language>
+                  <Language id="English">
+                     You are He before whom Your people and Your inheritance submit themselves, those whom You have acquired to Yourself by Your precious Blood.
+                  </Language>
+                  <Language id="Arabic">
+                     أنتَ الذي يخضعُ لكَ شعبُكَ وميراثُك، هؤلاء الذين اقتنيتَهُم لكَ بدمِكَ الكريمِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Comc e~q~r/i e~jwn t/ren P[oic e~bolqen tekve eyouab nem e~bolqen pekman~swpi etcebtwt.
+                  </Language>
+                  <Language id="English">
+                     Look upon us all, O Lord, from Your holy heaven and from Your prepared mansion.
+                  </Language>
+                  <Language id="Arabic">
+                     اطَّلِعْ علينا كلِّنا ياربُّ من سمائِكَ المقدسةِ، ومن مسكنِكَ المستعِد.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Cmou e~neke~biaik qen c~mou niben m~p~neumatikon: a~reh e~rwou qa tekjij eta~mahi: matajrwou qen v/e~te vwk n~nah].
+                  </Language>
+                  <Language id="English">
+                     Bless Your servants with every spiritual blessing, keep them by Your mighty hand, and confirm them in Your faith.
+                  </Language>
+                  <Language id="Arabic">
+                     بارِكْ عبيدَكَ بكلِّ بركةٍ روحيةٍ، واحفظْهُم بيدِكَ العزيزةِ، وثبتْهُم في إيمانِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Arih~mot nwou neman hwn m~p~toubo n~te nen'u,/ nem nencwma nem nenp~neuma.
+                  </Language>
+                  <Language id="English">
+                     Grant them and us the purity of our souls, bodies, and spirits, 
+                  </Language>
+                  <Language id="Arabic">
+                     أنعِمْ عليهم وعلينا أيضاً بطهارةِ أنفسِنا، وأجسادِنا، وأرواحِنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh moi nan m~penjwk n~,~rictianoc efranak m~pekm~yo.
+                  </Language>
+                  <Language id="English">
+                     and give us our Christian perfection that would be pleasing to You.
+                  </Language>
+                  <Language id="Arabic">
+                     وأَعطنا كمالَنا المسيحيَّ الذي يُرضيكَ أمامكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je c~toub/out ouoh c~meh n~w~ou n~je tekmetouro Pi,rictoc Pennou]: yai e~tenerhelpic e~sasni e~roc t/rou.
+                  </Language>
+                  <Language id="English">
+                     For Your kingdom, which we all hope to attain, is pure and full of glory, O Christ our God. 
+                  </Language>
+                  <Language id="Arabic">
+                     لأن ملكوتَكَ نقيٌّ ومملوءٌ مجداً، أيها المسيحُ إلـهُنا هذا الذي نرجو أن ننالَه كلُّنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh n~yok petenouwrp nak e~p~swi: m~p~w~ou nem pitaio nem ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak. 
+                  </Language>
+                  <Language id="English">
+                     And unto You we send up the glory, the honor, and the worship, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You, 
+                  </Language>
+                  <Language id="Arabic">
+                     وأنتَ الذي نرسلُ لكَ إلى فوقُ، المجدَ والإكرامَ والسجودَ مع أبيكَ الصالحِ والروحِ القدسِ المحيي المساوِي لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StCyrilLiturgy">      
+               <Text>
+                  <Language id="Coptic">
+                     Nyok pe e~tan,w m~penwnq qatotk P[oic. P[oic v/eymoh m~p~t/rf a~reh e~ron qen mai niben e~tennaraouw~ n~q/tf.
+                  </Language>
+                  <Language id="English">
+                     You are He, O Lord, with whom we have laid our life. O Lord, who fills all, guard us in every place where we shall go.
+                  </Language>
+                  <Language id="Arabic">
+                     أنتَ الذي وَضَعْنا حياتَنا عندَكَ ياربُّ، أيها الربُّ الذي يملأُ الكلَّ احفظْنا في كلِّ موضعٍ نحضرُ فيه.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh ]katanuxic e~tacswpi nan e~bol hiten pis~l/l: nem piywt n~h/t e~qoun e~paibioc etcoutwn: a~reh e~rwou nan n~atkolpou nem oumetatouwm n~h~y/f.
+                  </Language>
+                  <Language id="English">
+                     And the compunction that has become ours through prayer, and the contentment of heart of upright living, guard them for us, unstolen and without regret,
+                  </Language>
+                  <Language id="Arabic">
+                     والخشوعُ الذي صارَ لنا بالصلاةِ، وطيبِ القلبِ بهذهِ الحياةِ المستقيمةِ، إحفظْهما لنا غيرَ مسروقينِ وبلا ندمٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Hina n~c/ou niben nem qen mai niben n~te tekmetn/b encomc e~rok: ouoh enmosi qen n/eyranak nem n/e~tekoua~sou.
+                  </Language>
+                  <Language id="English">
+                     so that—at every time and in every place of Your dominion, as we are looking toward You, and following after that which pleases You, and that which You desire—
+                  </Language>
+                  <Language id="Arabic">
+                     لكي في كلِّ زمانٍ، وكلِّ مكانٍ لربوبيتِكَ ننظرَ إِليكَ ونَسلُكَ في ما يُرضيكَ وما تَهواه.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Hina n~tens~tem[isipi qen pie~hoou n~te pihap m~m/i: vai e~sare piouai piouai [i n~ousebiw n~q/tf.
+                  </Language>
+                  <Language id="English">
+                     we may not be put to shame on the Day of righteous judgment, when everyone shall receive retribution,
+                  </Language>
+                  <Language id="Arabic">
+                     لكي لا نخزى في يومِ الحكمِ الحقيقي، هذا الذي فيه ينالُ كلُّ واحدٍ مجازاةً.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Euo~hi e~ratou n~je hanaggeloc: ouoh ef]hap n~je pekmonogen/c n~S/ri Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.
+                  </Language>
+                  <Language id="English">
+                     when the angels shall stand, and Your only-begotten Son, our Lord, God, and Savior, Jesus Christ, shall judge.
+                  </Language>
+                  <Language id="Arabic">
+                     إذ تقفُ الملائكةُ ويدينُ إبنُكَ الوحيدُ ربُُّنا والَهُنا ومخلِّصُنا يسوعُ المسيحُ.
+                  </Language>         
+               </Text>
+               
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Season>
+         </Group>
+      </Role>
+   </Section>
+</Document>

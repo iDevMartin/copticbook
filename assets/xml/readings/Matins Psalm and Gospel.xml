@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="readings/StandInTheFear"/>
+   <InsertDocument path="readings/FromThePsalms"/>
+   <InsertDocument path="readings/Matins Psalm"/>
+   <InsertDocument path="readings/GospelIntro"/>
+   <InsertDocument path="readings/Matins Gospel"/>
+</Document>

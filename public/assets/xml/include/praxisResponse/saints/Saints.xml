@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/praxisResponse/saints/ArchangelMichael"/>
+   <InsertDocument path="include/praxisResponse/saints/ArchangelGabriel"/>
+   <InsertDocument path="include/praxisResponse/saints/ArchangelRaphael"/>
+   <InsertDocument path="include/praxisResponse/saints/FourIncorporealCreatures"/>
+   <InsertDocument path="include/praxisResponse/saints/TwentyFourPriests"/>
+   <InsertDocument path="include/praxisResponse/saints/StJohnTheBaptist"/>
+   <InsertDocument path="include/praxisResponse/ApostlesFast"/>
+   <InsertDocument path="include/praxisResponse/saints/StJohnTheEvangelist"/>
+   <InsertDocument path="include/praxisResponse/saints/StStephen"/>
+   <InsertDocument path="include/praxisResponse/saints/StMark"/>
+   <InsertDocument path="include/praxisResponse/saints/StMaryMagdalene"/>   
+   <InsertDocument path="include/praxisResponse/saints/StGeorge"/>
+   <InsertDocument path="include/praxisResponse/saints/StTheodoreShotep"/>
+   <InsertDocument path="include/praxisResponse/saints/StPhilopaterMercurius"/>
+   <InsertDocument path="include/praxisResponse/saints/StMena"/>
+   <InsertDocument path="include/praxisResponse/saints/StMaurice"/>
+   <InsertDocument path="include/praxisResponse/saints/StDemiana"/>
+   <InsertDocument path="include/praxisResponse/saints/StRebecca"/>
+   <InsertDocument path="include/praxisResponse/saints/StAnthony"/>   
+   <InsertDocument path="include/praxisResponse/saints/StThomasTheHermit"/>
+   <InsertDocument path="include/praxisResponse/saints/StMoses"/>
+   <InsertDocument path="include/praxisResponse/saints/PopeKyrillos"/>
+</Document>

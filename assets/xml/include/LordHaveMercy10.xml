@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Kurie e~le/~con. (i#)
+         </Language>
+         <Language id="English">
+            Lord have mercy. (10)
+         </Language>
+         <Language id="Arabic">
+            يارب ارحم. (10)
+         </Language>         
+      </Text>
+   </Role>
+</Document>

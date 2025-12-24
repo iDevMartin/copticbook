@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Vn/b P[oic Vnou] pipantokratwr: Viwt m~Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc. 
+      </Language>
+      <Language id="English">
+         O Master, Lord, God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ,
+      </Language>
+      <Language id="Arabic">
+         أيها السيدُ الربُّ الإلهُ ضابطَ الكلِّ، أبو ربِنا وإلَهِنا ومخلصِنا يسوعَ المسيحِ.
+      </Language>         
+   </Text>   
+   
+   <Text>
+      <Language id="Coptic">
+         Tenseph~mot n~totk kata hwb niben nem eybe hwb niben nem qen hwb niben.
+      </Language>
+      <Language id="English">
+         we thank You for everything, concerning everything, and in everything.
+      </Language>
+      <Language id="Arabic">
+         نشكرُكَ على كلِّ حالٍ، ومن أجلِ كلِّ حالٍ، وفي كلِّ حالٍ.
+      </Language>         
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Je akerc~kepazin e~jwn: akerbo/~yin e~ron: aka~reh e~ron: aksopten e~rok: ak]a~co e~ron: ak]toten akenten sa e~h~r/i e~taiounou yai.
+      </Language>
+      <Language id="English">
+         For You have covered us, helped us, guarded us, accepted us to Yourself, spared us, supported us, and have brought us to this hour.
+      </Language>
+      <Language id="Arabic">
+         لأنك سترتنا وأعنتنا وحفظتنا، وقبلتنا إليك، وأشفقت علينا وعضدتنا وأتيت بنا إلى هذه الساعة. 
+      </Language>         
+   </Text>
+</Document>

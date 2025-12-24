@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/psalies/NonFeastsOfTheLord"/>      
+   </Group>
+
+   <Group>
+      <InsertDocument path="include/psalies/StMaryFeast"/>
+   </Group>
+       
+   <Group>
+      <InsertDocument path="include/psalies/FeastsOfTheLord"/>
+      <InsertDocument path="include/psalies/Monday"/>
+      <InsertDocument path="include/psalies/Tuesday"/>
+      <InsertDocument path="include/psalies/Wednesday"/>
+      <InsertDocument path="include/psalies/Thursday"/>
+      <InsertDocument path="include/psalies/Friday"/>
+      <InsertDocument path="include/psalies/Saturday"/>
+      <InsertDocument path="include/psalies/Sunday"/>
+   </Group>
+   
+   <Group>
+      <Season id="Sundays">
+         <InsertDocument path="include/psalies/Aikoti"/>
+         <InsertDocument path="include/praises/koiahk/IOpenMyMouth"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="AdamDays">
+         <InsertDocument path="include/psalies/ConclusionAdam"/>
+      </Season>
+      
+      <Season id="WatosDays">
+         <InsertDocument path="include/psalies/ConclusionWatos"/>
+      </Season>
+   </Group>
+</Document>

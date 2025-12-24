@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere B/eyleem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere B/eyleem: t~polic n~nip~rov/t/c: y/etaumec Pi,~rictoc n~q/tc: pimahc~nau n~Adam
+            </Language>
+            <Language id="English">
+               Hail to Bethlehem, the city of the prophets, in which Christ was born, the second Adam.
+            </Language>
+            <Language id="Arabic">
+               السلام لبيت لحم مدينة الأنبياء التي ولد فيها المسيح آدم الثاني.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

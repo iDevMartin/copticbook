@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true" FuneralPriests="true">
+   <Title>
+      <Language id="English">The Funeral for Hegumens and Priests</Language>
+      <Language id="Arabic">تجنيز القمامصة والقسوس</Language>
+   </Title>
+   
+   <InsertDocument path="funeral/include/FuneralContent"/>
+</Document>

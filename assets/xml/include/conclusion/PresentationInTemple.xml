@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PresentationInTemple">
+      <Comment>
+         <Language id="English">
+            On the Feast of the Presentation of the Lord in the Temple:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V] afse e~qoun e~piervei: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God entered into the temple. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            ابن الله دخل الي الهيكل. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

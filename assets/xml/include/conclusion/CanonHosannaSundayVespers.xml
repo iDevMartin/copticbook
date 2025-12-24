@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday ^ Vespers">
+      <Comment>
+         <Language id="English">
+            The service is concluded by chanting the canon for Hosanna Sunday:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi ounof Ciwn ]baki : [ierouot ouoh yel/l: h/ppe gar Peouro efn/ou: eftal/out ejen ouc/j: euhwc qajwf n~je nia~lwoui~: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Rejoice and be glad, O city of Zion. Exult and rejoice for, behold, your King comes riding on a colt. Before Him the children praise saying, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            افرحي وتهللي ياصهيون المدينة اجذلي وتهللي لأن هوذا ملكك يأتي راكباً على جحش وتسبح قدامه الأطفال قائلين أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/DoxaPatriNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Etafi~ n~je Pen[oic I/couc Pi,~rictoc: e]baki n~te Il#/#m#: ejwk e~bol n~nigrav/: n~te nicwtp m~p~rov/t/c: nia~lwoui~ fai n~hanbai: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            When our Lord Jesus Christ came to the city of Jerusalem to  fulfill of the scriptures of the elect prophets, then the children carried palm (leaves) saying, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            فلما جاء ربنا يسوع المسيح إلى مدينة أورشليم لكمال كتب الأنبياء المختارين حمل الأطفال سعفاً قائلين أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ahanoun vwrs n~nouh~bwc: hijen pimwit m~pefm~yo: hina n~tefmosi e~h~r/i ejwou: n~je I/#c# piNazwreoc: ere han kouji w~s e~bol: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Some spread their vestments on the road before Him that Jesus the Nazarene may walk on them. And the little ones proclaim and say, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            والبعض فرشوا ثيابهم على الطريق أمامه لكي يسير عليها يسوع الناصري والصغار يصرخون قائلين أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Tote ecjwk e~bol m~voou: n~je ]nis] m~p~rov/tia: je e~bolqen rwou n~hankouji nia~lwoui~: n~yok akcebte pic~mou: euw~s e~bol n~je nia~lwoui~: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Then was fulfilled the great prophecy today, “Out of the mouths of babes, You have prepared praise.” And the children proclaim and say, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            حينئذ كملت اليوم النبوة العظيمة من أفواه الأطفال الصغار أعددت سبحاً والأطفال يصرخون قائلين أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Tote afjoc n~je Dauid: qen p~jwm n~te ni'almoc: je f~c~marwout n~je v/eyn/ou: qen v~ran m~P[oic V]: ere nia~lwoui~ hwc e~rof: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Thence said David in the Book of the Psalms, “Blessed is He who comes in the name of the Lord God.” And the children praise Him saying, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            حينئذ قال داود في كتاب المزامير مبارك الآتي باسم الرب الإله والأطفال تسبحه قائلين: أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Etafi~ n~je I/#c# e~qoun e~Il#/#m#: ]baki t/rc s~yorter: eybe nim/s etkw] e~rof: ere nia~lwoui~ w~s e~bol: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            When Jesus entered into Jerusalem, the whole city trembled because of the multitudes surrounding Him. And the children proclaim and say, “Hosanna in the Highest! This is the King of Israel!”
+         </Language>
+         <Language id="Arabic">
+            لما دخل يسوع إلى أورشليم ارتجت المدينة كلها من أجل الجموع المحيطين به والأطفال يصبحون: أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Tote niIoudai nanomoc: aumoh qen ounis] n~,oh: pe jwou m~P[#c# I/#c#: je marou,arwou qen naiw~s: n~je nikouji nia~lwoui~: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Then the lawless Jews were filled with great jealousy and said unto our Lord Jesus saying,  “Let the little children stop saying, ‘Hosanna in the Highest! This is the King of Israel!’”
+         </Language>
+         <Language id="Arabic">
+            حينئذ اليهود المخالفين امتلأوا غيرة عظيمة وقالوا للرب يسوع فليسكت هؤلاء من هنا الصياح والأطفال الصغار قائلين: أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Peje I/#c# n~niIoudai je eswp ausan ,arwou: n~je nikouji nia~lwoui: sauw~s e~bol n~je niw~ni: ouoh n~touhwc e~roi: je w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l.
+         </Language>
+         <Language id="English">
+            Then said Jesus to the Jews, “If these little children hold their peace, the stones would cry out and praise Me saying, ‘Hosanna in the Highest! This is the King of Israel!’”
+         </Language>
+         <Language id="Arabic">
+            فقال يسوع لليهود إذا سكت هؤلاء الصغار لصرخت الحجارة وسبحتني قائلة: أوصنا في الأعالي هذا هو ملك إسرائيل.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Enws e~bol enjw m~moc: je w~ Pen[oic I/#c# P,#c#.
+         </Language>
+         <Language id="English">
+            We cry out saying, O our Lord Jesus Christ. 
+         </Language>
+         <Language id="Arabic">
+            نصرخ قائلين يا ربنا يسوع المسيح
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            P~s/ri m~V~nou] v/etafse e~qoun e Il#/#m#. Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God, Who entered into Jerusalem. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            ابن الله الذي دخل أورشليم.خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

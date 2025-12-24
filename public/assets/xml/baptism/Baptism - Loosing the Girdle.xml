@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Baptism="true" LoosingTheGirdle="true">
+   <Title>
+      <Language id="English">Loosing of the Girdle of Those Who Have Been Baptized</Language>
+      <Language id="Arabic">صلاة حل زنار المعمدين</Language>
+   </Title>
+
+   <Comment>
+      <Language id="English">
+         That is a prayer over them that have been baptized, after the laver, on the eighth day.
+      </Language>
+      <Language id="Arabic">
+         تقال على المعمدين بعد الحميم في اليوم الثامن من العماد
+      </Language>
+   </Comment>
+
+   <Comment>
+      <Language id="English">
+         A basin is set containing clean water, and around it are set lit candles. And the priest says the Prayer of Thanksgiving and offers Incense by the Mystery of the Pauline Epistle. Note that in the original rite <span class="Coptic">Doxa Patri</span>, the Lord's Prayer, and Psalm 50 are also recited.
+      </Language>
+      <Language id="Arabic">
+         يوضع إناء فيه ماء، وتوقد حوله الشموع، ثم يبتدئ الكاهن بصلاة الشكر ويرفع البخور وهو يقول أوشية سر لبولس: ويقول المرتلون: (ذكصابترى) وأبانا الذي.. والمزمور الخمسين ثم يقرأ البولس.
+      </Language>
+   </Comment>
+
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Deacon">
+      <BibleReference reference="1 Corinthians 10:1-5" type="section"/>
+   </Role>
+      
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Gospel Response
+         </Language>
+         <Language id="Arabic">
+            مرد الانجيل
+         </Language>
+      </Title>
+
+      <Role id="People">
+         <Text>
+            <Language id="English">
+               This is my beloved Son in Whom my soul is pleased, and He has done my will. Hear ye Him for He is the Life-giver.
+            </Language>
+            <Language id="Coptic">
+               Je vai pe pas/ri pamenrit: eta ta'u,/ ]ma] n~q/tf: aferpaouws cwtem n~cwf: je n~yof pe pireftanqo.
+            </Language>
+            <Language id="Arabic">
+               أن هذا هو ابني حبيبي الذي به سرت نفسي وصنع إرادتي. فأسمعوا له لأنه هو المحيى.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then the priest shall say this prayer (and if they go to another village, let it be read over them after communion of the holy mysteries, namely, after the prayer of the laying on of the hands:
+         </Language>
+         <Language id="Arabic">
+            ثم يقول الكاهن هذه الصلاة لوضع اليد، بعد التناول من الأسرار المقدسة:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            O Master Lord our God, Giver of peace and blessing, to Whom alone belongs goodness and love of mankind. 
+         </Language>
+         <Language id="Coptic">
+            Vn/b P[oic pennou] v~ref] n~]hir/n/ nem nic~mou va ]meta~gayoc m~mauatf nem ]metmairwmi.
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب إلهنا مانح السلام والبركة، ذو الصلاح وحده محب البشر. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Who have blessed us and sanctified us and enlightened us with the light of His Godhead. 
+         </Language>
+         <Language id="Coptic">
+            V/etafc~mou e~ron: afera~gia~zin m~mon: afe~rouwini e~ron qen v~ouwini n~te tefmeynou].
+         </Language>
+         <Language id="Arabic">
+            الذي باركنا وقدسنا وأضاء علينا بنور لاهوته. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Who has made His servants worthy to receive the ineffable light from on high of Your Christ Jesus our saviour.
+         </Language>
+         <Language id="Coptic">
+            V/e~tafy~renef e~biaik erp~emp~sa eyrou[i m~piouwini etcap~swi n~atcaji m~mof n~te pek,~rictoc I/couc pencwt/r.
+         </Language>
+         <Language id="Arabic">
+            الذي جعل عبيده مستحقين أن ينالوا النور الذي من فوق، غير الموصوف، الذي لمسيحك يسوع مخلصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Enlighten them with the light of the blessing, purify them, bless them, renew them by Your grace, through the Baptism they have received in the power of Your life-giving Holy Spirit, 
+         </Language>
+         <Language id="Coptic">
+            Eke~e~rouwini e~rwou qen ououwini n~c~mou: eke~toubwou eke~c~mou e~rwou: eke~aitou m~beri qen pekh~mot: hiten piwmc e~tau[itf: qen ]jom n~te pekp~neuma e~youab n~reftanqo.
+         </Language>
+         <Language id="Arabic">
+            أنر عليهم بنور البركة، طهرهم. باركهم. جددهم بنعمتك من جهة الصبغة التي نالوها بقوة روحك القدوس المحيي.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            O You Who have purified them from all defilement of the body and the soul.
+         </Language>
+         <Language id="Coptic">
+            V/e~taftoubwou e~bol ha ywleb niben n~te ]carx nem ]'u,/.
+         </Language>
+         <Language id="Arabic">
+            يا من طهرتهم من كل دنس الجسد والنفس.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Yea, O Holy Master, bless them with Your blessing, confirm them in Your orthodox faith unto the end. 
+         </Language>
+         <Language id="Coptic">
+            Ce penn/b v/e~youab c~mou e~rwou qen pekc~mou: matajrwou qen peknah] n~oryodoxoc sae~bol.
+         </Language>
+         <Language id="Arabic">
+            نعم أيها السيد القدوس باركهم ببركتك. ثبتهم في إيمانك الأرثوذكسي إلى الانقضاء.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Bring them to maturity and manhood. May they be watched over by good angels forever.
+         </Language>
+         <Language id="Coptic">
+            Anitou e~ousi n~te ]mai/~ nem ]hul/kia~: marouswpi eurwic e~rwou n~je hanaggeloc n~a~gayoc sae~bol.
+         </Language>
+         <Language id="Arabic">
+            ات بهم إلى حد القامة والبلوغ. وليكونوا محروسين من ملائكة صالحين إلى الانقضاء.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fill them with knowledge and all understanding. Preserve their life unto pleasing You. 
+         </Language>
+         <Language id="Coptic">
+            Mahou e~bol qen pie~mi nem ka] niben: a~reh e~poujinwnq euranak.
+         </Language>
+         <Language id="Arabic">
+            املأهم من المعرفة ومن كل فهم. احفظ حياتهم ليرضوك. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Bless them, O Master with Your holy blessing and take away from their hearts the spirit of turbulence and every spirit of error. 
+         </Language>
+         <Language id="Coptic">
+            C~mou e~rwou penn/b qen pekc~mou m~makarion ouoh w~li e~bol qen pouh/t m~pip~neuma n~te pis~yorter: nem p~neuma niben m~p~lanoc.
+         </Language>
+         <Language id="Arabic">
+            باركهم يا سيد ببركتك الطوباوية. انزع من قلوبهم روح القلق وكل الأرواح المضلة. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            May their heart be enlightened by the light of Your Lordship. Make them worth of eternal life and the kingdom of the heavens. In Christ Jesus our Lord.
+         </Language>
+         <Language id="Coptic">
+            Marefe~rouwini e~pouh/t n~je v~ouwini: n~te tekmet[oic. Aritou n~emp~sa m~piwnq n~e~neh: nem ]metouro n~te niv/oui~: qen Pi,~rictoc I/couc Pen[oic
+         </Language>
+         <Language id="Arabic">
+            وليضئ قلبهم نور ربوبيتك. اجعلهم مستحقين الحياة الأبدية وملكوت السموات، بالمسيح يسوع ربنا. 
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusionEnding"/>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Final Prayer for the Baptized</Language>
+      </Title>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               A Psali that is sung for those who have been baptized in the eighth day or the day of Baptism after crowning before the commandment, or after the communion and its two prayers:
+            </Language>
+            <Language id="Arabic">
+               طرح يرتل لأجل المعمدين بطريقة الشعانين يقال في اليوم الثامن، أو في يوم العماد بعد وضع الأكاليل قبل الوصية، أو بعد التناول:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Magnify the Lord with me, And let us exalt his name together, For the grace which has been received By this blessed little one, (...) 
+            </Language>
+            <Language id="Coptic">
+               Ma oumetnis] m~P[oic nem/i: ouoh maren[ici m~pefran hi oucop: kata pih~mot e~tafsopf e~rof: n~je pai kouji (nim) etc~marwout.
+            </Language>
+            <Language id="Arabic">
+               عظموا الرب معي، ولنرفعن اسمه جميعا، من أجل النعمة التي نالها هذا الطفل (...) المبارك. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               And let us proclaim openly With a voice of rejoicing (saying) Be glad and rejoice in the Lord, O blessed child.
+            </Language>
+            <Language id="Coptic">
+               Ouoh n~tenws e~bol r/twc: qen ouc~m/ n~te p~yel/l: je rasi ouoh yel/l qen P[oic: w~ pia~lou etc~marwout.
+            </Language>
+            <Language id="Arabic">
+               فلنصرخ جهراً بصوت التهليل قائلين افرح وتهلل بالرب أيها الطفل المبارك
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Jesus Christ give You, Constancy and fruit, And peace be unto you O little one (...) 
+            </Language>
+            <Language id="Coptic">
+               I/couc Pi,~rictoc efe~] nak: n~ou cemni nem oukarpoc: nem ouhir/p/ ece~swpi nak: w~pikouji (nim).
+            </Language>
+            <Language id="Arabic">
+               يسوع المسيح يمنحك ثباتا وثمرا، وليكن لك السلام أيها الطفل (...). 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Let us gather together, O our spiritual fathers, And our orthodox brethren, That we may sing in canticles and doxologies, And spiritual words.
+            </Language>
+            <Language id="Coptic">
+               Marenywou] w~ nenio] m~p~neumatikon: nem nenc~n/ou n~oryodoxon: hina n~tener'alin qen nihwc nem nidoxologia~: nem nijw m~p~neumatikon.
+            </Language>
+            <Language id="Arabic">
+               فلتجتمع أيها الآباء الروحانيون والأخوة الأرثوذكسيون لنرتل بالتسابيح والتماجيد والأناشيد الروحية
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               In the catholic and apostolic, orthodox church, For the divine joy which has come to this blessed son (...), who is of pure Christian stock.
+            </Language>
+            <Language id="Coptic">
+               Qen ]ekk~l/cia~ n~oryodoxia~: ouoh n~kayolik/ n~a~poctolik/: eybe pai rasi n~nou] e~tafswpi m~pai s/ri etc~marwout (nim): v/ e~te e~bol qen y~nouni ettob/out n~,~rictia~noc.
+            </Language>
+            <Language id="Arabic">
+               في الكنيسة الأرثوذكسية الجامعة الرسولية، من أجل هذا الفرح الإلهي الذي صار لهذا الابن المبارك (...) الذي من النسل الطاهر المسيحي. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Who bath been crowned with an heavenly crown, Of the grace of Holy Baptism, Through Christ the Lorrd, Glory be to him, Who was baptized in the river Jordan.
+            </Language>
+            <Language id="Coptic">
+               Vai e~tau]hiwtf n~,~lom n~te t~ve: n~te pih~mot m~piw~mc e~youab e~bol hiten Pi,~rictoc P[oic piw~ou naf: v/e~taf[iwmc qen v~iaro m~piiordan/c.
+            </Language>
+            <Language id="Arabic">
+               الذي لبس الإكليل السماوي الذي لنعمة المعمودية المقدسة، من قبل السيد المسيح له المجد، الذي اعتمد في نهر الأردن
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               At the hand of the Baptist forerunner, John the baptizer, The priest the son of the priest, The cousin of Immanuel.
+            </Language>
+            <Language id="Coptic">
+               Ebol qen t~jij m~pip~rodromoc: m~bantict/c Iwann/c piref]wmc piou/b p~s/ri m~piou/b: picuggen/c n~Emmanou/l.
+            </Language>
+            <Language id="Arabic">
+               من يد السابق الصابغ يوحنا المعمدان الكاهن ابن الكاهن نسيب عمانوئيل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Hail to You, O John, Son of Zacharias, Who was worthy to lay Your hand, On the head of our good Saviour. 
+            </Language>
+            <Language id="Coptic">
+               &lt;ere nak w~ Iwann/c: p~s/ri n~Za,ariac: v/e~takerpemp~sa n~,a tekjij: e~h~r/i e~jen t~a~ve m~pencwt/r n~a~gayoc.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا يوحنا بن زكريا الذي استحققت أن تضع يدك على رأس مخلصنا الصالح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               You are higher than the patriarchs, Honored above all the prophets, For our Saviour lauded You, With his holy mouth saying,
+            </Language>
+            <Language id="Coptic">
+               K[oci e~nipatriar,/c: k~taiout e~nip~rov/t/c t/rou: je a~ pencwt/r eregkwmiazin nak: e~bol qen rwf e~youab efjw m~moc.
+            </Language>
+            <Language id="Arabic">
+               أنت متعال أكثر من رؤساء الآباء، وأجل من كافة الأنبياء، لأن مخلصنا مدحك من فمه الطاهر قائلا:
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               None hath arisen among them born Of women  Who is like unto You, Nor greater than You, O John the Baptist.
+            </Language>
+            <Language id="Coptic">
+               Je m~peouon twnf qen nijinmici: n~te nihio~mi efo~ni m~mok: oude peynaaf e~rok: w~ Iwann/c piref]wmc.
+            </Language>
+            <Language id="Arabic">
+               إنه لم يقم في مواليد النساء من يشبهك، ولا أعظم منك يايوحنا المعمدان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Hail to him that has seen the heavens opened, And heard the voice of the Father, Crying out and saying,
+            </Language>
+            <Language id="Coptic">
+               &lt;ere v/e~tafnau e~niv/oui~ euou/n: ouoh afcwtem e~t~c~m/ n~te v~iwt: ecws e~bol ecjw m~moc: je vai pe pas/ri pamenrit e~tai]ma] n~q/tf.
+            </Language>
+            <Language id="Arabic">
+               السلام للذي رأى السموات مفتوحة، وسمع صوت الآب يصرخ قائلا:
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               This is my beloved Son in whom I am well pleased. And the Son standing, In the river Jordan, And the Holy Spirit coming down, On his head like a dove.
+            </Language>
+            <Language id="Coptic">
+               Ouoh e~p~s/ri efo~hie~ratf: qen v~iaro n~te piiordan/c: ouoh e~pip~neuma eyouab efn/ou e~pec/t: e~h~r/i e~jen tefa~ve m~v~r/] n~ou[rompi.
+            </Language>
+            <Language id="Arabic">
+               هذا هو أبني الحبيب الذي به سررت. والابن قائم في نهر الأردن، والروح القدس نازل على رأسه شبه حمامة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               And You said, O John, concerning him, Behold the Lamb of God, Which shall take away the sin of the world. 
+            </Language>
+            <Language id="Coptic">
+               Ouoh akjoc n~yok Iwann/c eyb/tf: ic pihi/b n~te Vnou]: v/eynaw~li m~v~nobi n~te pikocmoc.
+            </Language>
+            <Language id="Arabic">
+               وقد قلت أنت يايوحنا من أجله: هذا هو حمل الله الذي يرفع خطية العالم. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               You witnessed again of him saying, This is he of whom I spake, He that cometh after me is preferred before me,  For he was before me.
+            </Language>
+            <Language id="Coptic">
+               Akermeyre on eyb/tf ekjw m~moc: je vai pe v/e~taijoc eyb/tf: je v/eyn/ou menencwi afersorp e~roi: je ne ousorp e~roi rw pe.
+            </Language>
+            <Language id="Arabic">
+               وشهدت أيضا من أجله قائلا: هذا الذي قلت عنه أن الذي يأتي بعدي كان قبلي، لأنه أقدم مني.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               And the Lord Christ (to him be glory) bade us with his pure mouth to perfect all good. And then he bade his pure disciples, Go ye into all the world, and preach the Gospel to them, and baptize them in the name of the Father and of the Son and of the Holy Spirit; and every one that believeth and is baptized shall be saved.  Fore this Baptism is derived from the Lord Christ, and our lords the pure Apostles handed it down in Holy Baptism, for by it is forgiveness of sins, and entry into the kingdom of heaven, for it is a key to the heavenly paradise. Let us laud therefore this child with joyful voice, saying
+            </Language>
+            <Language id="Arabic">
+               والسيد المسيح له المجد قال بفمه الطاهر: يجب علينا أن نكمل كل بر. وقال أيضا لتلاميذه الأطهار: أمضوا إلى كل الأمم وبشروهم بالإنجيل، وعمدوهم باسم الآب والابن والروح القدس، وكل من آمن واعتمد خلص. فصار هذا العماد متوارثا من السيد المسيح وخلفائه سادتنا الرسل الأطهار بالمعمودية المقدسة. لأن بها غفران الخطايا والدخول إلى ملكوت السموات، لأنها مفاتيح الفردوس السمائي. فلنمدحن إذن الابن بصوت الفرح هكذا قائلين:
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Worthy, worthy, worthy, is (...), the christian.
+            </Language>
+            <Language id="Coptic">
+               Axioc: axioc: axioc: (nim) ou,~rictianoc.
+            </Language>
+            <Language id="Arabic">
+               مستحق مستحق مستحق (...) المسيحي
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Rejoice therefore christian brethren, in this divine grace of which your children have been deemed worthy, the grace of Holy Baptism; and their reception of the divine Mysteries, the Body and Blood of Christ the only-begotten Son, the  creator of every creature, which he hath poured out for the race of Adam. And this grace hath come, which belongeth to Holy Baptism, and the partaking of the life-giving divine mysteries unto eternal life for the forgiveness of sins, and the divine seal, the pledge of eternity in the abodes of light. So let us laud this beloved brother, saying thus,
+            </Language>
+            <Language id="Arabic">
+               افرحوا أيها الأخوة المسيحيون بهذه النعمة الإلهية التي استحقها أولادكم، التي هي نعمة المعمودية المقدسة، وتناولهم من الأسرار الإلهية التي هي جسد ودم المسيح الابن الوحيد خالق كل البرية، اللذان اهرقهما عن الجبلة الآدمية. وصارت هذه النعمة التي للمعمودية والتناول من الأسرار المحيية الإلهية إلى آخر الأدهار لمغفرة الخطايا. والخاتم الإلهي عربون الخلود في المساكن النورانية. فلنمدحن هذا الابن الحبيب هكذا قائلين (مستحق مستحق مستحق).
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Worthy, worthy, worthy, is (...), the christian.
+            </Language>
+            <Language id="Coptic">
+               Axioc: axioc: axioc: (nim) ou,~rictianoc.
+            </Language>
+            <Language id="Arabic">
+               مستحق مستحق مستحق (...) المسيحي
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Let us give praise then, with Moses the prophet saying, Praise the Lord for he is gloriously glorified. And let us sing with David the Singer in the psalm thus, Wherefore God, even Your God, had anointed You with the oil of gladness above Your fellows. For the oil of gladness is the oil of Chrism, the oil of the divine seal. Receive then the Holy Spirit, ye who have received the divine grace which belongs to Holy Baptism. Receive the glorious crowns from Jesus Christ, the king of kings and Lord of lords: Receive the grace, of the Holy Spirit, the Comforter, the giver of purity.  Receive the angelic crown and the earnest of the Spirit. And You, O baptized one, have received the pledge of the kingdom of heaven in truth, and have become a vessel for the Holy Spirit.  So let us give praise saying thus,
+            </Language>
+            <Language id="Arabic">
+               فلنسبح إذن مع موسى النبي قائلين: سبحوا الرب لأنه بالمجد قد تمجد. ولنرتلن مع داود المرتل بالمزمور قائلين: (لذلك مسحك الله إلهك بدهن الفرح أفضل من أصحابك) فدهن الفرح هو دهن المسحة، دهن الخاتم الإلهي. اقبلوا إذن الروح القدس يا من قد نلتم النعمة الإلهية التي للمعمودية المقدسة. اقبلوا الأكاليل المملوءة مجدا، من قبل يسوع المسيح ملك الملوك ورب الأرباب. اقبلوا نعمة الروح القدس المعزي الكلي الطهارة. اقبلوا الإكليل الملائكي والعربون الروحي. وأنت أيها المعمد قد أخذت عربون ملكوت السموات حقا، وصرت إناء للروح القدس. فلنمدحن قائلين:
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Worthy, worthy, worthy, is (...), the christian.
+            </Language>
+            <Language id="Coptic">
+               Axioc: axioc: axioc: (nim) ou,~rictianoc.
+            </Language>
+            <Language id="Arabic">
+               مستحق مستحق مستحق (...) المسيحي
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Let us worship the Holy Trinity, and let us entreat the multitude of His goodness, that this blessed child may grow in goodness; and that he may grant him a profitable and prosperous age, and give him increase in days and raise him in works well pleasing to him. And that he may be promoted to the priestly orders. May He assemble in union the children of the orthodox church, in harmony and spiritual love, and that her children may grow with a growth that is good and well pleasing; that they may be like unto good fruitful, ever growing trees. May He incline the hearts of them that rule over us towards us. And that he bring to nought counsels of our adversaries, and everyone that meditates against us evil thoughts.
+            </Language>
+            <Language id="Arabic">
+               فلنسجد للثالوث الأقدس ونسأل عظم صلاحه أن ينشيء هذا الابن المبارك نشأة صالحة ويمنحه زمانا ناجحا. ويعطيه العمر الطويل، وينميه في الأعمال المرضية، وليرتق إلى الدرجات الكهنوتية ويجمع شتات أولاد الكنيسة الأرثوذكسية، بالألفة والمحبة الروحية وينشيء أولادها النشأة الصالحة المرضية، ليكونوا كالشجرة المثمرة الطيبة النامية. ونسأله أن يعطف قلوب المتولين علينا. ويبدد مشورة المعاندين لنا، وكل من يفكر فينا أفكارا رديئة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Through the intercessions of the Lady, the pure virgin Lady Mary, ‘the undefiled, and all the angels of light, and the holy John, who baptized in the river Jordan and the rest of the fathers and the prophets, and all that do the works of pleasing (to the Lord) and our lords the pure apostles, and all the martyrs and holy saints, now and always and for ever and ever. Amen.
+            </Language>
+            <Language id="Arabic">
+               بشفاعة السيدة العذراء الطاهرة مريم البتول الزكية وكافة الملائكة النورانيين. والقديس يوحنا المعمد في المياه الأردنية. وجميع الآباء والأنبياء وكافة ذوى الأعمال المرضية. وسادتنا الرسل الأطهار. وجميع الشهداء والقديسين الأبرار. الآن وكل أوان إلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And the priest shall sign the water in the form of the holy Cross three times, and shall say,
+         </Language>
+         <Language id="Arabic">
+            يرشم الكاهن الماء بالصليب المقدس ثلاث مرات وهو يقول:
+         </Language>
+      </Comment>
+   
+      <InsertDocument path="include/OneIsTheHoly"/>
+   </Role>
+   
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            Then they shall say,
+         </Language>
+         <Language id="Arabic">
+            ويقولون هذا اللحن
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            Behold, John the Baptist testified, “I baptized the Lord in the waters of the Jordan.”
+         </Language>
+         <Language id="Coptic">
+            H/ppe afermeyre n~je Iwann/c pibaptict/c je ai]wmc m~P[oic qen pimwou n~te piiodan/c
+         </Language>
+         <Language id="Arabic">
+            ها قد شهد يوحنا المعمدان أني قد عمدت الرب في مياه الأردن.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And I heard the Father’s voice crying out, saying, “This is My Son, My beloved, in whom I am pleased.”
+         </Language>
+         <Language id="Coptic">
+            Ouoh aicwtem e~t~c~m/ n~te Viwt ecws e~bol je vai pe pas/ri pamenrit e~tai]ma] n~h/tf.
+         </Language>
+         <Language id="Arabic">
+            وسمعت صوت الآب صارخا: هذا هو ابني حبيبي الذي به سررت.
+         </Language>
+      </Text>   
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And he shall bathe the child in the water, and his girdle, and his baptismal robe that is on his body. And the water should flow away into the sea or stream or into a holy place.
+         </Language>
+         <Language id="Arabic">
+            ثم يحمون الطفل في الماء، هو وزناره والقميص الذي تعمد فيه، ثم يطرحون الماء في البحر، أو في حقل طاهر.
+         </Language>
+      </Comment>
+   </Role>
+</Document>

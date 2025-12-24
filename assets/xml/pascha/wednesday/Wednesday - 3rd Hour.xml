@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday (The Third Hour)</Language>
+         <Language id="Arabic">يوم الأربعاء (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~hoou m~Pf~tou (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 13:17-22</Language>
+               <Language id="Arabic">خروج 13: 17-22</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Qen p~jiny~re varaw~ ,w m~pilaoc e~bol m~pef[imwit qajwou n~je Vnou] e~v~mwit m~Vulictin: je nafqent pe:
+               </Language>
+               <Language id="English">
+                  Thus when Pharaoh let the people go, God did not lead them by way of the land of the Philistines, although that was near;
+               </Language>
+               <Language id="Arabic">
+                  وعندما اطلق فرعون الشعب لم يهدهم الله الى طريق فلسطين مع انها كانت قريبة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eafjoc gar n~je P[oic: je m/pote n~tefouwmn~h~y/f n~je pilaoc afsannau e~oupolemoc n~tefkotf e~q~r/i e~,/mi:
+               </Language>
+               <Language id="English">
+                  for God said, "Lest perhaps the people change their minds when they see war' and return to Egypt."
+               </Language>
+               <Language id="Arabic">
+                  لان الرب قال لئلا يندم الشعب اذا رأى حربا فيرجع الى مصر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A Vnou] tacyo mpilaoc e~v~mwit etjajw e~q~r/i e~v~iom n~sari: qen pijwou de mmah t~iou a~nens/ri m~p~Icra/l i e~h~r/i e~bolqen ,/mi.
+               </Language>
+               <Language id="English">
+                  So God led the people around by way of the desert to the Red Sea, and in the fifth generation the children of Israel went up from the land of Egypt.
+               </Language>
+               <Language id="Arabic">
+                  فادار الله الشعب الى الطريق الوعرة الى البحر الأحمر. فى الجيل الخامس خرج بنو اسرائيل من مصر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afw~li de n~je Mwu~c/c n~nikac n~te Iwc/v nemaf: qen oua~nas gar a~Iwc/v tarko n~nens/ri mp~Icra/l efjwmmoc: 
+               </Language>
+               <Language id="English">
+                  Now Moses took the bones of Joseph with him, for he had placed the children of Israel under solemn oath, saying, 
+               </Language>
+               <Language id="Arabic">
+                  وحمل موسي عظام يوسف معه، لان يوسف كان قد استحلف بني اسرائيل بحلف قائلا: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  je qen oujem p~sini f~najempetensini n~je P[oic e~retenw~li n~nakac nemwten:
+               </Language>
+               <Language id="English">
+                  "God will surely visit you, and you shall carry up my bones from here with you."
+               </Language>
+               <Language id="Arabic">
+                  إن الرب سيفتقدكم افتقادا فاحملوا عظامى من هنا معكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Autwounou de n~je nens/ri m~p~Icra/l e~bolqen Co,wy aumosi e~q~r/i qen Oyom qaten p~safe. 
+               </Language>
+               <Language id="English">
+                  So they took their journey from Succoth and camped in Etham by the desert. 
+               </Language>
+               <Language id="Arabic">
+                  وارتحل بنو اسرائيل من سكوت) العريش( ونزلوا فى إيثام عند البرية.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vnou] de nafmosi qajwou qen pie~hoou qen ouc~tulloc n[/pi e~tamwou e~v~mwit: m~pie~jwrh de qen ouc~tulloc n~,rwm:
+               </Language>
+               <Language id="English">
+                  Moreover, God led them, by day in a pillar of cloud to show them the way, and by night in a pillar of fire.
+               </Language>
+               <Language id="Arabic">
+                  وكان الله يسير أمامهم نهارا بعمود سحاب ليهديهم الطريق وليلا فى عمود نار
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpefmounk n~je pic~tulloc n~[/pi qen pie~hoou ouoh pic~tulloc n~,rwm m~pie~jwrh m~pem~yo e~bol m~pilaoc t/rf.
+               </Language>
+               <Language id="English">
+                  Thus the pillar of cloud by day and the pillar of fire by night did not depart from before all the people.
+               </Language>
+               <Language id="Arabic">
+                  ولم يزل عمود السحاب نهارا وعمود النار ليلا من أمام الشعب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 22:7-18</Language>
+               <Language id="Arabic">سيراخ 22: 7-18</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  V/et ]cbw garn~oucojf~oi m~vr/] m~v/ettem velj e~velj: nem m~v~r/] mvettounoc v/etenkot qen ouhunim efhors:
+               </Language>
+               <Language id="English">
+                  He who teaches a fool is like one who glues pottery together, or like trying to arouse one from a sound sleep.
+               </Language>
+               <Language id="Arabic">
+                  الذي يؤدب الأحمق كمن يلصق شقفة علي شقفة وكمن ينبه مستغرقاً في نوم ثقيل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  v/etcaji nem oucoj f~oi m~v~r/] m~v/etcaji nem ouai efhunim: ouoh t~qae safjoc je ou petsop:
+               </Language>
+               <Language id="English">
+                  He who tells something to a fool tells it to a drowsy man, and at the end he will say, "What is it?" 
+               </Language>
+               <Language id="Arabic">
+                  من يكلم الأحمق كمن يكلم متناعسا وفى النهاية يقول: ماذا حدث؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rimi e~jen ourefmwout je af,w n~cwf n~piouwini: ouoh rimi e~jen oucoj je af,w n~cwf n~]metcabe.
+               </Language>
+               <Language id="English">
+                  Weep for a dead man, for he left the light behind; but weep over a fool, for he left intelligence behind.
+               </Language>
+               <Language id="Arabic">
+                  ابك على الميت لأنه ترك النور وابك على الأحمق ,لأنه ترك الأدب 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nane ourimi e~jen ourevmwout jeafm~ton m~mof: p~wnq de m~picoj f~hwou e~hotepefmou:
+               </Language>
+               <Language id="English">
+                  Weep gladly for a dead man, because he is at rest; but the life of the fool is worse than death.
+               </Language>
+               <Language id="Arabic">
+                  افضل البكاء على الميت لأنه استراح اما الأحمق فحياته أشقى من موته 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Sasf n~e~hoou pe p~h/bi n~ouref mwout: vapicoj de nem pia~ceb/c pe peva~ji t/rf
+               </Language>
+               <Language id="English">
+                  Mourning for a dead man lasts seven days, but mourning for a fool or an ungodly man lasts all his life.
+               </Language>
+               <Language id="Arabic">
+                  النوح على الميت سبعة ايام والنوح على الأحمق والمنافق جميع ايام حياته 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  m~per era~sai n~caji nem oucoj: ouoh m~perse e~ratf n~ouat//t: 
+               </Language>
+               <Language id="English">
+                  Do not hold a conversation with a fool, and do not visit with a senseless man.
+               </Language>
+               <Language id="Arabic">
+                  لا تكثر الكلام مع الأحمق ولا تخالط الجاهل تحفظ منه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  a~reh e~rok e~bolharof hopwc n~nekqici ouoh n~nek ywleb:
+               </Language>
+               <Language id="English">
+                  Beware of him, so as to avoid trouble, and you will not be defiled when he shakes himself off. 
+               </Language>
+               <Language id="Arabic">
+                  لئلا تتعب وتتدنس اذا شد الرحال 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afsanahf e~bolhenk cabol m~mof tarekjimi n~ouemton ouoh n~nek erm~kah n~h/t qen teva~nomia~.
+               </Language>
+               <Language id="English">
+                  Stay away from him, and you will find rest and not be exhausted by his insanity.
+               </Language>
+               <Language id="Arabic">
+                  اعرض عنة فتجد راحة ولا تحزن بأثامه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oupethors p~itath: ouoh oupe pefran hwf e~b/l e~picoj: c~moten n~fai qaousw nem ouh~mou: nem outaj m~benipi e~hote ourwmi n~ath/t:
+               </Language>
+               <Language id="English">
+                  What will be heavier than lead? And what will be his name but "Fool"? Sand, salt, and a piece of iron are easier to bear than a senseless man.
+               </Language>
+               <Language id="Arabic">
+                  ما هو الأثقل من الرصاص وما اسمه  أيضا إلا الأحمق الرمل والملح وقرمة الحديد أخف حملا من الرجل الجاهل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] n~oulajlej n~se efm/r qen oukwt n~nefkim qen oumonmen: vai pe m~f~r/t n~ouh/t eftajr/out e~jen ouco[ni: 
+               </Language>
+               <Language id="English">
+                  A wooden beam bound together in a building will not be broken loose in an earthquake; so a heart strengthened by reasonable counsel will not be afraid in a crisis. 
+               </Language>
+               <Language id="Arabic">
+                  مثل رباط الخشب مشدود فى البناء لا يتفكك فى الزلزلة كذلك القلب الثابت بالمشورة 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem ouh/t eftajr/out e~jen oumeui~ n~ka] n~neferho] sae~neh:
+               </Language>
+               <Language id="English">
+                  A heart settled on intelligent thought is like a plaster decoration on a smooth wall.
+               </Language>
+               <Language id="Arabic">
+                  والقلب الثابت بفكر الفهم لا يجزع الى الأبد كزينة الجدار المشيد
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] m~p~cai n~oujoi ec[eh: m~v~r/] n~han kas hijen ouma evca p~[wi n~nouheri nahren y/ou niben: vai pe m~v~r/] n~ouh/t n~jwb: nem oumeui~ n~coj: n~nefheri nahren ho] niben.
+               </Language>
+               <Language id="English">
+                  As fences set on a high place will not stand firm against the wind, so a cowardly heart in the thought of a fool cannot stand firm against any kind of fear.
+               </Language>
+               <Language id="Arabic">
+                  وكمثل قضيب على مكان مرتفع لا يهدأ أمام كل ريح كذلك القلب الضعيف وفكر الأحمق لا يهدأ أمام كل هول.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 41:6, 1</Language>
+               <Language id="Arabic">مزمور 41: 6, 1</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nafn/ou e~qoun pe e~nau nafcaji n~oumet e~v~l/ou: ouoh pefh/t afywou] naf n~ouanomia~. 
+               </Language>
+               <Language id="English">
+                  And if he comes to see us, he speaks in vain; his heart gathered lawlessness to itself. 
+               </Language>
+               <Language id="Arabic">
+                  كان يدخل لينظر فكان يتكلم باطلاً, وقلبه جمع له إثماً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Wouniatf m~v/eynaka] e~jen ouh/ki nem oujwb: qen pie~hoou ethwou efe~nahmef n~je P[oic: All/louia.
+               </Language>
+               <Language id="English">
+                  Blessed is he who understands the poor and needy; the Lord will deliver him in an evil day. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  طوبي لمن يتفهم في أمر المسكين والضعيف, في يوم السوء ينجيه الرب. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:1-6</Language>
+            <Language id="Arabic">لوقا 22: 1-6</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nafqent de pe n~je p~sai n~te niatsem/r v/e~toumou] e~rof je pipac,a:
+               </Language>
+               <Language id="English">
+                  Now the Feast of Unleavened Bread drew near, which is called Passover.
+               </Language>
+               <Language id="Arabic">
+                  وكان قد قرب عيد الفطير, الذي يقال له الفصح,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naukw] pe n~je niar,/e~reuc nem nicaq je aunatakof n~as n~r/] nauerho] gar pe qat~h/ m~pilaoc: 
+               </Language>
+               <Language id="English">
+                  And the chief priests and the scribes sought how they might kill Him, for they feared the people. 
+               </Language>
+               <Language id="Arabic">
+                  وكان رؤساء الكهنة والكتبة يطلبون كيف يهلكونه, لأنهم كانوا يخافون الشعب, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A p~catanac de se e~qoun e~p~h/t n~Ioudac v/e~toumou] e~rof je piickariwt/c eouai pe e~bol qen pim/t cnau.
+               </Language>
+               <Language id="English">
+                  Then Satan entered Judas, surnamed Iscariot, who was numbered among the twelve.
+               </Language>
+               <Language id="Arabic">
+                  فدخل الشيطان قلب يهوذا الذي يدعي الإسخريوطي وهو أحد الإثني عشر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afsenaf afcaji nem niar,/e~reuc nem nicat/gouc eybe pir/] e~tefnat/if e~totou: 
+               </Language>
+               <Language id="English">
+                  So he went his way and conferred with the chief priests and captains, how he might betray Him to them. 
+               </Language>
+               <Language id="Arabic">
+                  فمضي وفاوض رؤساء الكهنة وقواد الجند كيف يسلمه إليهم, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aurasi ouoh aucemn/tc nemaf e~] naf n~ouhat ouoh afere~xomologin ouoh nafkw] pe n~ca oueukeria~ hina n~teft/if e~totou at[ne m/s.
+               </Language>
+               <Language id="English">
+                  And they were glad, and agreed to give him money. So he promised and sought opportunity to betray Him to them in the absence of the multitude.
+               </Language>
+               <Language id="Arabic">
+                  ففرحوا وعاهدوه أن يعطوه فضة, وكان يتحين فرصة ليسلمه إليهم بمعزل عن الجميع.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  When the Feast of the unleavened bread, which is the Passover of the Jews, was near, the scribes and the chief priests sought a way to kill Jesus, but they did not know what to do because they feared the public. 
+               </Language>
+               <Language id="Arabic">
+                  ولما قرب عيد الفطير الذى هو فصح اليهود كان الكتبة ورؤساء الكهنة يطلبون كيف يهلكون يسوع ولم يعلموا ماذا يصنعون فانهم كانوا يخافون من الجمع 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  But Satan found himself a place in the heart of his accomplice, Judas Iscariot, who was counted among the disciples but was a Satan as the Lord described him. He went to the chief priests and the Sadducees to make a deal to deliver Jesus to them.
+               </Language>
+               <Language id="Arabic">
+                  فوجد الشيطان له مسكنا فى قلب رفيقه يهوذا الاسخريوطى وكان هذا محسوبا فى عد التلاميذ وكان شيطانا كقول الرب فمضى وخاطب رؤساء الكهنة والصدوقيين أن يسلمه اليهم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The evil natured disciple discussed with his evil friends how to deliver to them the Savior of the World. They were more than pleased and paid him silver so that he may deliver him to them in absence of the people.
+               </Language>
+               <Language id="Arabic">
+                  فتكلم النجس مع اصحابه ان يسلم اليهم مخلص العالم ففرح الأنجاس الممتلئون غشا فرحا عظيما وقرروا معه ان يعطوه فضة حتى يسلمه اليهم خلوا من الجمع.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

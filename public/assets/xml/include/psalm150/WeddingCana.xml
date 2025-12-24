@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Text>
+         <Language id="Coptic">
+            I/couc Pi,~rictoc p~s/ri m~V]: afc~mou e~nimwou afaitou n~/rp 
+         </Language>
+         <Language id="English">
+            Jesus Christ, the Son of God, blessed the water and turned it into wine
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح ابن الله بارك المياه فصيرها خمراً
+         </Language>
+      </Text>         
+   </Season>
+</Document>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StAbraam:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Anba Abraam</Language>
+            <Language id="Arabic">ذوكصولوجية الأنبا أبرآم</Language>
+            <Language id="Coptic">Piq/bc ete~rouwini...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Anba Abraam Bishop of Fayoum:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Piq/bc ete~rouwini: qen V~iom nem &lt;/mi t/rc: eybe nefs~v/ri nem nefm/ni: nem pefmei m~P,#c#.
+            </Language>
+            <Language id="English">
+               The shining lamp, in Fayoum and all Egypt, because of his signs and miracles, and his love for Christ.
+            </Language>
+            <Language id="Arabic">
+               المصباح المنير، في الفيوم وكل مصر، من أجل عجائبه وآياته، ومحبته للمسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Va pi,~lom m~margarit/c: pis~v/r n~nia~na,writ/c: nem niy~m/i nem nip~rov/t/c: v/e~tafmosi nca penDucpot/c.
+            </Language>
+            <Language id="English">
+               He who has the expensive crown, the friend of the hermits, the righteous and the prophets, who follow our Master.
+            </Language>
+            <Language id="Arabic">
+               ذو الإكليل الجوهر، صديق السواح، والأبرار والأنبياء، الذي تبع سيدنا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyof pe abba Abraam: piepickopoc n~te Viom: pimanecwou n~tav~m/i: picaq n~te nia~ret/.
+            </Language>
+            <Language id="English">
+               He is Abba Abraam, bishop of Fayoum, the true shepherd, the teacher of virtues.
+            </Language>
+            <Language id="Arabic">
+               هو الانبا ابرآم, اسقف الفيوم, الراعى الحقيقى, معلم الفضائل.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Dauid aftamon qen oumeym/: je w~ouniatf m~v/eynaka]: e~jen oujwb nem ouh/ki: ouoh efe~nahmef n~je v].  
+            </Language>
+            <Language id="English">
+               David taught with truth, saying “blessed are those, who care for the weak and the poor, the Lord God saves them”.
+            </Language>
+            <Language id="Arabic">
+               داؤد علمنا بالحقيقة, أنه طوبى للذى يتفهم, فى امر المسكين و الفقير, الله يخلصه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               M~v~r/] m~peniwt Abraam: v~iwt n~Icaak nem Iakwb: akmenre ]meyna/~t: ouoh akjwk e~bol n~nie~ntol/.
+            </Language>
+            <Language id="English">
+               Like our father Abraham, the father of Isaac and Jacob, you loved mercy, and completed the commandments.
+            </Language>
+            <Language id="Arabic">
+               مثل أبونا أبرآم، أبونا إسحق ويعقوب، أنت أحببت الرحمة، وأكملت الوصايا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Sakermeyre n~]meym/i: sakouwm nem nih/ki: qen ounis] n~yebio: akmere neke~cwou.
+            </Language>
+            <Language id="English">
+               You witnessed the truth, and you ate with the poor, with great humility, you loved your sheep.
+            </Language>
+            <Language id="Arabic">
+               تعودت الشهادة للحق، وتعودت الأكل مع الفقراء، بإتضاع عظيم، أحببت رعيتك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               N/e~ymei n~na p~kahi: aukw] n~ca hanjinkwt m~beri: alla akkwt qen niv/oui~: n~nijinkwt n~na niv/oui~.
+            </Language>
+            <Language id="English">
+               The lovers of worldly things, sought for new buildings, but you built in heaven, many heavenly buildings.
+            </Language>
+            <Language id="Arabic">
+               محبو الأرضيات، بحثوا عن أبنية جديدة، لكنك بنيت في السماء، أبنية سمائية.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ou/~r ne neks~v/ri: aktal[o n~n/e~tswni: akerp~rocvetevin n~nis~v/ri: nidemwn akhitou e~bol.
+            </Language>
+            <Language id="English">
+               How many are your miracles, you healed the sick, you prophesied great things, and you cast out demons.
+            </Language>
+            <Language id="Arabic">
+               كم هي عجائبك، شفيت المرضي، تنبأت بالعظائم، وأخرجت الشياطين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Akswpi nan n~outupoc: qen pekjinmosi ettoub/out: qen ]a~gap/ nem ]meyna/t: nem ]metmeyre n~]meym/i.
+            </Language>
+            <Language id="English">
+               You became a type for us, by your pure ways, by love and mercy, and testimony of the truth.
+            </Language>
+            <Language id="Arabic">
+               صرت لنا قدوة، بسيرتك الطاهرة، بالمحبة والرحمة، والشهادة للحق.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StAbraam"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The First Explanation</Language>
+               <Language id="Arabic">التفسير الأول</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  I start in the Name of God / Who dwells in light / Who spoke to Moses / Upon Mount Tabor
+               </Language>
+               <Language id="Arabic">
+                  أبدأ باسم الله / الساكن فى النور / الذى كلم موسى / من فوق جبــل الطــــور
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Saying O Moses / Arise joyfully / So I may show you / a place Prophesied about
+               </Language>
+               <Language id="Arabic">
+                  قائلاً ياموسى / انهض فرحا ًمسروراً / لأعلمك بما كان / كمــــــا عنـــه تنبـــــأون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Arise O Moses / And ascend to the highest mount / There upon it build a dome / To resemble a tabernacle
+               </Language>
+               <Language id="Arabic">
+                  انهض ياموسى / واصعد إلى اعلى الجبال / وابن هناك قبة / تكون لك شبة مظـــــــال
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And all I say to you / Immediately write down / This is a testimony / For the Israelites
+               </Language>
+               <Language id="Arabic">
+                  وجميع ما قلته لك / اكتبه فى الحال / هذه هى شهادة / للإســــــــــــــــــــرائيليين
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Hasten, O Moses / And observe the place / Build there a dome / With granite stone
+               </Language>
+               <Language id="Arabic">
+                  إسرع ياموسى / انظر هذا المكان / وابن فيه قبة / بالحجر الصوان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Elevate its height / And for it make four corners / And gather what is needed / For the builders
+               </Language>
+               <Language id="Arabic">
+                  وعلى شوارعها / واعمل لها أربعة أركان / واجمع مايحتاج / إليه البناؤون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Make the outside of the dome / And widen its hallway / Overlay it, O Moses / With pure gold
+               </Language>
+               <Language id="Arabic">
+                  واعمل خارج القبة / فسحة كالدهليز / واطليها ياموسى / بالذهب الإبريز
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Within and without / Honor for consecration / From the height to the base / With the precious gold
+               </Language>
+               <Language id="Arabic">
+                  داخل مع خارج / كرامة للتكريس / من أعلى إلى أسفل / بالذهب الموزون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Make the inside of the dome / An altar for the showbread / And around the altar / Make four pillars
+               </Language>
+               <Language id="Arabic">
+                  واعمل داخل القبة / مذبح للقربان / واعمل حول المذبح / أربعة عمدان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Make there upon it / Cherubs made out of gold / With their wings spread / Upon the cover
+               </Language>
+               <Language id="Arabic">
+                  يكون من فوقها / من الذهب كاروبان / بأجنحة مفروشة / إيجين بى إيللاستيريون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And in it place / The overlaid ark of covenant / And in it the golden vessel / With the hidden manna
+               </Language>
+               <Language id="Arabic">
+                  واجعل فيها / تابوت العهد المطلى / وفيه القسط الذهب / بالمن المخفى
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And in it Aaron's censer / From the pure gold / And the tablets of the covenant / With Aaron's rod
+               </Language>
+               <Language id="Arabic">
+                  وفيه شورية هرون / من الذهب المصفى / وفيه لوحا العهد / مع عصاة هارون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And in it the lampstand / With the chosen gold / And the golden vessel / Burning as the ember
+               </Language>
+               <Language id="Arabic">
+                  وفيه المنارة / من الذهب المختار / وفيه المايدة ذهب / تشعل كجمر النار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Decorate it, O Moses / With various lights / Make also in it / Seven burning candles
+               </Language>
+               <Language id="Arabic">
+                  وزينها ياموسى / بسائر كل الأنوار / واجعل فيها أيضاً / سبعة سرج ينيرون
+               </Language>
+            </Text>
+         </Section>
+         
+         <InsertDocument path="include/praises/koiahk/ExplanationRefrain"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Gospel</Language>
+               <Language id="Arabic">الانجيل</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  Holy, Holy, Holy; a reading from the Gospel according to our teacher St. Luke [1:46-50] the Evangelist. May his blessings be with us all. Amen.
+               </Language>
+               <Language id="Arabic">
+                  قدوس قدوس قدوس. فصل من الانجيل بحسب لوقا (1: 46-50) البشير . بركاته تكون معنا . آمين.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And Mary said, "My soul magnifies the Lord. And my spirit has rejoiced in God my Savior. For He has regarded the low estate of His handmaiden. For behold, from henceforth all generations shall call me blessed. For He that is mighty has done great things and Holy is His Name. And His mercy is on them that fear Him from generation to generation. And Glory be to God forever. Amen
+               </Language>
+               <Language id="Arabic">
+                  فقالت مريم تعظم نفسى الرب. وتتهلل روحى بالله مخلصى لأنه نظر إلى تواضع أمته. هوذا منذ الآن تعطينى الطوبى. جميع الأجيال. صنع بى القوى عظائم. قدوس اسمه ورحمته إلى جيل الأجيال لخائفيه" والمجد لله دائماً أبدياً. آمين.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

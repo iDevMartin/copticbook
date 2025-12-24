@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="AllSaints:Doxology">
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Struggle-mantled Saints, the Cross-bearers</Language>
+            <Language id="Arabic">ذوكصولوجية للقديسين المجاهدين لابسي الصليب</Language>
+            <Language id="Coptic">Ym/i niben...</Language>
+         </Title>
+      
+         <Text>
+            <Language id="Coptic">
+               Ym/i niben e~taujwk e~bol: n~niqici n~te noua~ret/: euhejhwj eu[im~kah: e~re pikocmoc m~p~sa m~mwou an.
+            </Language>
+            <Language id="English">
+               All the just who perfected: the struggle of their virtues: while troubled and afflicted: the world not being worth of them;
+            </Language>
+            <Language id="Arabic">
+               كل الأبرار الذين كمّلوا أتعاب فضائلهم متضايقين متألمين والعالم لا يستحقهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eucwrem e~bol hi nisafeu: nem nib/b nem ni,ol n~te p~kahi: nai e~tauermeyre qarwou: je e~bolhiten pounah].
+            </Language>
+            <Language id="English">
+               They wandered in the wilderness: the caves and the holes of the earth: these witness to them: For through their faith,
+            </Language>
+            <Language id="Arabic">
+               تائهين في البراري والمغائر وشقوق الأرض هؤلاء الذين شهد لهم أنه من قبل إيمانهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nem touhupomon/: maren[oji n~ca poua~gwn: n~tenjouwst e~p~ar,/goc n~te v~nah]: nem pefrefjwk e~bol I/#c#.
+            </Language>
+            <Language id="English">
+               And their patience: let us chase after their struggle: that we may look to the Author: and Finisher of the faith, Jesus.
+            </Language>
+            <Language id="Arabic">
+               وصبرهم فلنسرع في طريق جهادهم وننطر إلي رئيس الإيمان ومكمّله يسوع.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn: ni,oroc n~te nic~taurovoroc: e~taujwk e~bolhi nisafeu: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf: O choruses of the cross-bearers: perfected in the wilderness: that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               إطلبوا من الرب عنا يامصاف لباس الصليب الذين كملوا فى البرارى ليغفر لنا خطايانا.
+            </Language>
+         </Text>         
+      </Section>
+   </Season>
+</Document>

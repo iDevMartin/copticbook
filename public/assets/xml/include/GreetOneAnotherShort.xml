@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!LiturgyOfTheWaters">
+         <Comment>
+            <Language id="English">         
+               Then the deacon, holding the cross, says:
+            </Language>
+            <Language id="Arabic">         
+               ثم يقول الشماس وهو رافع الصليب:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Acpazecye all/louc en vil/mati agiw.
+            </Language>
+            <Language id="English">
+               Greet one another with a holy kiss.
+            </Language>
+            <Language id="Arabic">
+               قبلوا بعضكم بعضا بقبلة مقدسة
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con.
+            </Language>
+            <Language id="English">
+               Lord have mercy. Lord have mercy. Lord have mercy.
+            </Language>
+            <Language id="Arabic">
+               ياربُّ ارحَم. ياربُّ ارحَم. ياربُّ ارحَم.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ce Kurie~: e~te vai pe I/couc Pi,rictoc Ps/ri m~Vnou]: cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Yea, Lord, who are Jesus Christ, the Son of God, hear us and have mercy upon us. 
+            </Language>
+            <Language id="Arabic">
+               نعم ياربُّ، الذي هو يسوعُ المسيحُ ابنُ اللهِ، اسمعْنا وارحَمْنا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StBasilLiturgy | LiturgyOfTheWaters">
+         <Text>
+            <Language id="Coptic">
+               Procverin: [procverin: procverin] kata t~ropon: c~tay/te kata t~romou: ic a~natolac b~le'ate: p~roc,wmen.
+            </Language>
+            <Language id="English">
+               Offer, [offer, offer] in order. Stand with trembling. Look toward the East. Let us attend.
+            </Language>
+            <Language id="Arabic">
+               تقدموا. [تقدموا. تقدموا] على الرسمِ، قفوا برعدةٍ، وإلى الشرقِ انظروا. ننصِتْ.
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <Text>
+            <Language id="Coptic">
+               Ctwmen kalwc: c~twmen eulabwc: c~twmen ektenwc: c~twmen en i~r/n/: c~twmen meta vobou Yeou ke t~romou ke katanuxewc.
+            </Language>
+            <Language id="English">
+               Let us stand well, let us stand reverently, let us stand earnestly, let us stand in peace, let us stand in the fear of God, trembling and stunned.
+            </Language>
+            <Language id="Arabic">
+               فلنقفْ حسناً، لنقفْ بتقوَى، نقفْ باتصالٍ، نقفْ بسلامٍ، نقفْ بخوفِ اللهِ ورعدةٍ وخُشُوعٍ.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/OfferInOrder"/>
+      </Season>
+      
+      <Season id="StCyrilLiturgy">
+         <Text>
+            <Language id="Coptic">
+               Procverin: procverin: procverin kata t~ropon: c~tay/te kata t~romou: ic a~natolac b~le'ate: p~roc,wmen.
+            </Language>
+            <Language id="English">
+               Offer, offer, offer in order. Stand with trembling. Look toward the East. Let us attend.
+            </Language>
+            <Language id="Arabic">
+               تقدموا. تقدموا. تقدموا على الرسمِ، قفوا برعدةٍ، وإلى الشرقِ انظروا. ننصِتْ.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

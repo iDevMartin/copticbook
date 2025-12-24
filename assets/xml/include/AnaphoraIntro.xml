@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/AnaphoraIntro.1"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/AnaphoraIntro.1"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Ke meta tou p~neumatoc cou.
+         </Language>
+         <Language id="English">
+            And with your spirit.
+         </Language>
+         <Language id="Arabic">
+            ومع روحك ايضاً
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/LiftUpYourHearts"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <Comment>         
+               <Language id="English">
+                  The priest turns to the East and signs the deacons on his right once with the sign of the cross, saying:
+               </Language>
+               <Language id="Arabic">
+                  يرشم الكاهن الخدام شرقاً عن يمينه رشماً واحداً وهو يقول:
+               </Language>         
+            </Comment>
+            
+            <InsertDocument path="include/LiftUpYourHearts"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            E,wmen p~roc ton Kurion.
+         </Language>
+         <Language id="English">
+            We have them with the Lord.
+         </Language>
+         <Language id="Arabic">
+            هي عند الرب
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/LetUsGiveThanks"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest signs himself once with the sign of the cross, saying:
+               </Language>
+               <Language id="Arabic">
+                  ثم يرشم الكاهن ذاته رشماً واحداّ وهو يقول:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/LetUsGiveThanks"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Axion ke dikeon.
+         </Language>
+         <Language id="English">
+            It is meet and right.
+         </Language>
+         <Language id="Arabic">
+            مستحق وعادل
+         </Language>         
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TwentyFourPriests:Doxology | FuneralPriests | FuneralMonkPriests | FuneralBishops | ReceptionNewPriest">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Twenty Four Priests</Language>
+            <Language id="Arabic">ذوكصولوجية للأربعة والعشرين قسيسا</Language>
+            <Language id="Coptic">Ounis] gar...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of the Twenty Four Priests:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ounis] gar pe pitaio~: n~te n/e#y#u# n~a~cwmatoc: niou/b n~te ]meym/i: pijout f~tou m~p~recbuteroc.
+            </Language>
+            <Language id="English">
+               For great is the honor, of the incorporeal saints, the priests of Truth, the twenty four presbyters.
+            </Language>
+            <Language id="Arabic">
+               عظيمة هي كرامة القديسين غير المتجسدين كهنة الحق ال ٢٤ قسيسا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe je ceqent e~qoun V]: ouoh eu,/ nahren pefy~ronoc: euhwc e~rof qen oumetatmounk: m~pie~hoou nem pie~jwrh.
+            </Language>
+            <Language id="English">
+               Because they are close to God, and near to His Throne, they praise him unceasingly, by day and by night.
+            </Language>
+            <Language id="Arabic">
+               من أجل أنهم قريبون من الله وكائنون أمام كرسيه يسبحون بلافتور النهار والليل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Euhemci hijen jout f~tou n~y~ronoc: e~re han,~lom hijen noua~v/oui~: e~re hanvua~l/ n~noub qen noujij: eumeh n~c~yoinoufi efcwtp.
+            </Language>
+            <Language id="English">
+               They sit upon twenty four thrones, with crowns upon their heads, and with golden bowls in their hands, full of chosen incense.
+            </Language>
+            <Language id="Arabic">
+               جالسين على ٢٤ كرسيا وأكاليل على رؤوسهم وجامات ذهب بأيديهم مملوءة بخورا مختارا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ete nai ne nip~roceu,/: n~te nia~gioc hijen pikahi: euerp~rockunin m~mwou: e~qoun sa pihi/b m~m/i.
+            </Language>
+            <Language id="English">
+               Which are the prayers, of the saints who lived on the earth, and they offer them, unto the True Lamb.
+            </Language>
+            <Language id="Arabic">
+               الذي هو صلوات القديسين الذين على الأرض يقدمونها إلى الحمل الحقيقي.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               N/eynaouwnh n~nouran e~bol: e~ti euswp hijen pikahi: cenatwbh m~Po#c# e~h~r/i e~jwou: eybe je ceqent e~qoun e~V].
+            </Language>
+            <Language id="English">
+               And those who lived on the earth, their names will be revealed, they will ask the Lord for them, for they are close to God.
+            </Language>
+            <Language id="Arabic">
+               الذين يظهرون أسماءهم وهم كائنون على الأرض يطلبون من الرب عنهم من أجل أنهم قريبون من الله.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/TwentyFourPriests"/>
+      </Section>
+   </Season>
+</Document>

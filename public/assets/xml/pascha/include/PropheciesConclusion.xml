@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            P[oic nai nan: a~m/n.
+         </Language>
+         <Language id="English">
+            Lord have mercy upon us. Amen.
+         </Language>
+         <Language id="Arabic">
+            يارب ارحمنا. آمين.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            All/louia~: Qen v~ran m~Viwt nem Ps/ri nem Pip~neuma eyouab ounou] n~ouwt: am/n.
+         </Language>
+         <Language id="English">
+            Alleluia. In the name of the Father, the Son and the Holy Spirit, one God. Amen.
+         </Language>
+         <Language id="Arabic">
+            الليلويا , بإسم الآب والإبن والروح القدس إله واحد. آمين.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/DoxaPatri"/>      
+   </Role>
+</Document>

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ GreatFriday ^ Fridays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Great Friday Eve (The Sixth Hour)</Language>
+         <Language id="Arabic">ليلة الجمعة  العظيمة (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~jwrh n~]nis] m~parackeu/ (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 22:23-28</Language>
+               <Language id="Arabic">حزقيال 22: 23-28</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~oucaji n~te P[oic swpi haroi efjwmmoc: je p~s/ri m~v~rwmi a~joc nac: je n~yo pe pikahi e~te m~pef[imwou: oude m~pemounhwoui~ e~jw qen p~e~hoou mpajwnt.
+               </Language>
+               <Language id="English">
+                  Again the word of the Lord came to me, saying,  "Son of man, say to her, 'You are the land not rained on, neither has rain come upon you in the day of wrath.'  
+               </Language>
+               <Language id="Arabic">
+                  وصارت إلى كلمة الرب قائلا: يا إبن الإنسان قل لها: أنت هي الأرض التي لم تقبل ماء ولم يأت عليك مطر في يوم غضبي، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Y/e~te nechugoumenoc qen tecm/] m~v~r/] n~hanmoui euhwlem euhwlem nhanlhwem: euouwm n~ni.u/ qen oumetjwri: eu[i n~outaio: ouoh ne ,/ra aua~sai n~q/].
+               </Language>
+               <Language id="English">
+                  Who devour souls by domination and receive honors in wrongdoing; and your widows multiply in your midst.  Her priests reject My law and desecrate My holy things.
+               </Language>
+               <Language id="Arabic">
+                  التي مدبروها في وسطها كالأسود المفترسة. يخطفون اختطافا، يأكلون النفوس بقوة، ويقبلون الكرامآتٍ (الرشوة) وقد كثرت أراملك فيك وكهنتك رذلوا ناموسي ودنسوا مقادسي،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh neou/b au]sws m~panomoc: ouoh auwreb n~n/eyouab n~t/i: naukw] e~bol an pe oute v/eyouab nem v/etw~reb: nem oute v/et[a~qem nem v~/ettoub/out:
+               </Language>
+               <Language id="English">
+                  They no longer distinguish between the holy and the profane, nor between the unclean and the clean.
+               </Language>
+               <Language id="Arabic">
+                  ولم يميزوا بين البار والفاجر، وبين النجس والطاهر,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nauhwbc n~noubal e~bolha nacabbaton: ouoh nauw~reb m~moi pe qen tem/].
+               </Language>
+               <Language id="English">
+                  They have hidden their eyes from My Sabbaths, and I am desecrated in their midst.
+               </Language>
+               <Language id="Arabic">
+                  وحجبوا عيونهم عن سبوتي ونجسوني في وسطك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Necar,wn eu,/ qen tecm/] m~vr/] n~hanouwns euhwlem n~hanhwlem: e~p~jinvwn n~han c~nof e~bol: hopwc n~tou[ihouo~ qen ouhouo. 
+               </Language>
+               <Language id="English">
+                  Her rulers in her midst are like wolves seizing their prey, so as to shed blood and exploit others for greed.  
+               </Language>
+               <Language id="Arabic">
+                   ورؤساؤها في وسطها كالذئاب الخاطفة للفريسة، ليسفك الدم، لاحتساب كسب لكي يأخذوا بالأفضل كثيراً، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh necp~rov/t/c euywhc m~mwou cenahei: eunau e~han mete~v~l/ou ouoh euersenhin n~han meynouj.
+               </Language>
+               <Language id="English">
+                  Her prophets who anoint them will fall because they see worthless and false prophecies.
+               </Language>
+               <Language id="Arabic">
+                  وانبياؤها الذين مسحوهم يسقطون، لأنهم يرون الباطل وينمون الكذب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.3"/>
+         
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 58:1,68:20</Language>
+               <Language id="Arabic">مزمور 58: 1 ,68: 20</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nahmet Vnou] e~bol n~totou n~najaji: ouoh cott e~bod n~totou n~n/ettwoun e~h~r/i e~jwi.
+               </Language>
+               <Language id="English">
+                  Rescue me from my enemies, O God, And redeem me from those who rise up against me.
+               </Language>
+               <Language id="Arabic">
+                  خلصني من أعدائي يا الله ومن الذين يقومون على أنقذني،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aio~hi m~v/eynaer m~kah n~h/t nem/i ouoh nafsop an pe: ouoh v/e~yna] nom] n/i ouoh m~pijemf: All/louia.
+               </Language>
+               <Language id="English">
+                  And I waited for someone to sympathize with me; but no one was there, And for comforters, but I found not one. Alleluia
+               </Language>
+               <Language id="Arabic">
+                  وانتظرت من يحزن معي فلم يوجد، ومن يعزيني فلم أصب: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+            
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 26:36-46</Language>
+            <Language id="Arabic">متى 26: 36-46</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Tote afi nemwou n~je I/couc e~ouiohi eumou] erof je G/ycemani: ouoh pejaf n~nefmay/t/c je hemci m~paima sa]sen/i sam~nai ntatwbh.
+               </Language>
+               <Language id="English">
+                  Then Jesus came with them to a place called Gethsemane, and said to the disciples, "Sit here while I go and pray over there."
+               </Language>
+               <Language id="Arabic">
+                  حينئذ جاء معهم يسوع إلى حقل يقال له جشيماني، فقال لتلاميذه أمكثوا ههنا حتى أمضى لأصلى هناك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afw~li m~Petroc nemaf nem nens/ri n~Zebedeoc: ouoh aferh/tc n~erm~kahnh/t nem e~ers~lah n~h/t.
+               </Language>
+               <Language id="English">
+                  And He took with Him Peter and the two sons of Zebedee, and He began to be sorrowful and deeply distressed.
+               </Language>
+               <Language id="Arabic">
+                  وأخذ معه بطرس وإبنى زيدى، وابتدأ يحزن ويكتئب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote pejaf nwou je ta'u,/ mokhn~h/t sa e~q~r/i e~v~mou: ohi m~paima ouoh rwic nem/i.
+               </Language>
+               <Language id="English">
+                  Then He said to them, "My soul is exceedingly sorrowful, even to death. Stay here and watch with Me."
+               </Language>
+               <Language id="Arabic">
+                  حينئذ قال لهم: إن نفسى حزينة حتى الموت، أمكثوا ههنا واسهروا معي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafhenf e~t~h/ noukouji afhitf e~jen pefho eftwbh efjw m~moc: je paiwt icje ouons~jom mare paia~vot cent: p~l/n m~v~r/] e~tehn/i a~nok an: alla m~v~r/] e~tehnak n~yok.
+               </Language>
+               <Language id="English">
+                  He went a little farther and fell on His face, and prayed, saying, "O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will."
+               </Language>
+               <Language id="Arabic">
+                  ثم إبتعد قليلاً وخر على وجهه يصلى قائلاً: يا إبتاه إن أمكن فلتعبر عنى هذه الكأس، ولكن ليس كما أريد أنا بل كما تريد انت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ ha nefmay/t/c afjemou euenkot: ouoh pejaf m~Petroc je pair/t m~petens~jemjom n~rwic nem/i n~ouounou: Rwic oun ouoh a~rip~roceu,ecye hina n~tetens~temi~ e~qoun e~piracmoc:
+               </Language>
+               <Language id="English">
+                  Then He came to the disciples and found them asleep, and said to Peter, "What? Could you not watch with Me one hour? Watch and pray, lest you enter into temptation.
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء إلى تلاميذه فوجدهم نياماً فقال لبطرس. أهكذا ما قدرتم أن تسهروا معي ساعة واحدة اسهروا وصلوا لئلا تدخلوا فى التجارب
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pip~neuma menfrwout: ]carx de ouacyen/c te. Palin afsenaf aftwbh m~v~mah cop c~nau efjwmmoc: je paiwt icje m~mons~jom n~te paia~vot cent e~b/l n~tacof: mare petehnak swpi.
+               </Language>
+               <Language id="English">
+                  The spirit indeed is willing, but the flesh is weak." Again, a second time, He went away and prayed, saying, "O My Father, if this cup cannot pass away from Me unless I drink it, Your will be done."
+               </Language>
+               <Language id="Arabic">
+                  أما الروح فنشيط، وأما الجسد فضعيف. فمضى أيضاً وصلى ثانياً قائلاً: يا أبتاه إن كان لا يمكن ان تعبر عني هذه الكأس إلا أن أشربها فلتكن مشيئتك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ on hanefmay/t/c afjemou euenkot: nare noubal gar hors pe. 
+               </Language>
+               <Language id="English">
+                  And He came and found them asleep again, for their eyes were heavy. 
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء أيضاً إلى تلاميذه فوجدهم نياماً، لأن أعينهم كانت ثقيلة، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh af,au on afsenaf aftwbh m~v~mah somt n~cop: efjw m~paicaji rw on.
+               </Language>
+               <Language id="English">
+                  So He left them, went away again, and prayed the third time, saying the same words.
+               </Language>
+               <Language id="Arabic">
+                  فتركهم ومضى أيضاً وصلى ثالثة قائلاً ذلك الكلام يعينه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote afi~ ha nefmay/t/c pejaf nwou: je enkot je oueh mton mmwten: 
+               </Language>
+               <Language id="English">
+                  Then He came to His disciples and said to them, "Are you still sleeping and resting?
+               </Language>
+               <Language id="Arabic">
+                  حينئذ جاء إلى تلاميذه وقال لهم: ناموا الآن واستريحوا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ic h/ppe acqwnt n~je ]ounou: n~nirefernobi. ouoh p~s/ri m~v~rwmi cenat/if e~q~r/i e~nenjij Teny/nou maron: h/ppe afqwnt n~je v/eynat/it.
+               </Language>
+               <Language id="English">
+                  Behold, the hour is at hand, and the Son of Man is being betrayed into the hands of sinners. Rise, let us be going. See, My betrayer is at hand."
+               </Language>
+               <Language id="Arabic">
+                  هوذا الساعة قد اقتربت، وإبن الإنسان يسلم إلى ايدي الخطاة. قوموا ننطلق، هوذا الذي يسلمنى قد إقترب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationMark"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 14:32-42</Language>
+            <Language id="Arabic">مرقس 14: 32-42</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aui~ e~ouiohi e~pefran pe G/ycemani: ouoh pejaf nnefmay/t/c je hemci ham~nai hwc ]erp~roc eu,ecye.
+               </Language>
+               <Language id="English">
+                  Then they came to a place which was named Gethsemane; and He said to His disciples, “Sit here while I pray.”
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء إلى حقل إسمه جشيماني، فقال لتلاميذه: أجلسوا ههنا حتى أصلى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afwli nemaf m~Petroc nem Iakwboc nem Iwann/c: ouoh aferh/tc n~s~yorter neme~erm~kahn~h/t:
+               </Language>
+               <Language id="English">
+                  And He took Peter, James, and John with Him, and He began to be troubled and deeply distressed.
+               </Language>
+               <Language id="Arabic">
+                  ثم أخذ معه بطرس ويعقوب يوحنا، وابتدأ يرتاع ويحزن.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou je ta'u,/ mokh sa e~q~r/i e~v~mou: o~hi m~paima ouoh rwic.
+               </Language>
+               <Language id="English">
+                  Then He said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch.”
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم: إن نفسى حزينة حتى الموت، أمكثوا ههنا واسهروا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafcini e~t~h/ n~oukouji nafhi m~mof e~q~r/i hijen pikahi: ouoh naferp~roceu,ecye hina icje ouons~jom n~te ]ounou cini e~bol harof.
+               </Language>
+               <Language id="English">
+                  He went a little farther, and fell on the ground, and prayed that if it were possible, the hour might pass from Him.
+               </Language>
+               <Language id="Arabic">
+                  ثم تقدم قليلاً وخر على الأرض، وكان يصلى لكى تعبر عنه الساعة إن أمكن،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nafjwm~moc je abba v~iwt: ouons~jom n~hwb niben qatotk: mare paia~vot cini e~bolharoi: alla mvr/] e~tehn/i a~nok an: alla m~v~r/] e~tehnak n~yok.
+               </Language>
+               <Language id="English">
+                  And He said, "Abba, Father, all things are possible for You. Take this cup away from Me; nevertheless, not what I will, but what You will."
+               </Language>
+               <Language id="Arabic">
+                  وكان يقول: يا أبا الآب إن كل شيء مستطاع لك، فلتعبر عني هذه الكأس، ولكن ليس كما أريد أنا بل كما تريد انت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ afjemou euenkot: ouoh pejaf m~Petroc je Cimwn k~enkot: m~peks~jemjom n~rwic nem/i n~ouounou.
+               </Language>
+               <Language id="English">
+                  Then He came and found them sleeping, and said to Peter, "Simon, are you sleeping? Could you not watch one hour?
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء فوجدهم نياماً، فقال لبطرس: أتنام يا سمعان؟ ألم تقدر أن تسهر معي ساعة؟!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rwic oun n~tetenerp~roceu,ecye hina n~teten s~temi~ e~qoun e~piracmoc: pipna men f~rwout: ]carx de ouacyen/cte.
+               </Language>
+               <Language id="English">
+                  Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak."
+               </Language>
+               <Language id="Arabic">
+                  إسهروا وصلوا لئلا تدخلوا في تجربة. أما الروح فنشيط وأما الجسد فضعيف،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh palin e~tafsenaf naferp~roceu,ecye afje paicaji rw on.
+               </Language>
+               <Language id="English">
+                  Again He went away and prayed, and spoke the same words.
+               </Language>
+               <Language id="Arabic">
+                  ومضى أيضاً وصلى قائلاً هذا الكلام بعينه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ on afjemou euenkot: nare noubal gar hors pe: ouoh naue~mi an je ou pe e~tounae~rouw~ m~mof naf.
+               </Language>
+               <Language id="English">
+                  And when He returned, He found them asleep again, for their eyes were heavy; and they did not know what to answer Him.
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء فوجدهم نياما، لأن أعينهم كانت ثقيلة، ولم يعلموا بماذا يجيبونه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afi~ on m~v~mah somt n~cop ouoh pejaf nwou: je enkot je ouoh m~ton m~mwten: acouw~ aci~ n~je ]ounou: 
+               </Language>
+               <Language id="English">
+                  Then He came the third time and said to them, "Are you still sleeping and resting? It is enough!
+               </Language>
+               <Language id="Arabic">
+                  ثم جاء المرة الثالثه وقال لهم: ناموا الآن واستريحوا، يكفى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  h/ppe cena] m~p~s/ri m~v~rwmi e~nenjij n~nirefernobi.Teny/nou maron: h/ppe afqwnt n~je v/eynat/it.
+               </Language>
+               <Language id="English">
+                  The hour has come; behold, the Son of Man is being betrayed into the hands of sinners. Rise, let us be going. See, My betrayer is at hand."
+               </Language>
+               <Language id="Arabic">
+                  قد أتت الساعة. هوذا إبن الإنسان يسلم إلى ايدي الخطاة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationLuke"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:40-46</Language>
+            <Language id="Arabic">لوقا 22: 40-46</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Etafi~ de e~pima pejaf nwou: je twbh je n~netense e~qoun e~piracmoc.
+               </Language>
+               <Language id="English">
+                  When He came to the place, He said to them, "Pray that you may not enter into temptation."
+               </Language>
+               <Language id="Arabic">
+                  فلما جاء إلى المكان قال لهم: صلوا لئلا تدخلوا في تجربة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de afouw~] e~bol m~mwou nau vouws n~hioui~ n~ouw~ni e~bol: ouoh e~tafhitf ejen nefkeli aftwbh. Efjwm~moc je paiwt icje ,ouws mare paia~vot cent: p~l/n petehn/i an: alla vwk marefswpi.
+               </Language>
+               <Language id="English">
+                  And He was withdrawn from them about a stone's throw, and He knelt down and prayed, saying, "Father, if it is Your will, take this cup away from Me; nevertheless not My will, but Yours, be done."
+               </Language>
+               <Language id="Arabic">
+                  وإنفرد عنهم نحو رمية حجر، وجثا على ركبتيه وصلى قائلا: يا أبتاه إن شئت فلتعبر عني هذه الكأس، لكن لا إرادتي بل إرادتك أنت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afouonhf e~rof n~je ouaggeloc e~bolqen t~ve eyref]jom naf. ouoh acswpi ef[isswou e~erp~roceu,ecye qen nefkeli:
+               </Language>
+               <Language id="English">
+                  Then an angel appeared to Him from heaven, strengthening Him. And being in agony, He prayed more earnestly.
+               </Language>
+               <Language id="Arabic">
+                  وظهر له ملاك من السماء ليقويه. وحدث وهو يصلى باشتياق جاثيا على ركبتيه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nare peff] m~v~r/] m~pia~ouan n~te pic~nof efsouo e~jen pikahi:
+               </Language>
+               <Language id="English">
+                  Then His sweat became like great drops of blood falling down to the ground.
+               </Language>
+               <Language id="Arabic">
+                  أن صار عرقه كلون الدم نازلاً على الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taftwnf e~bol qen ]p~roceu,/: afi~ ha nimay/t/c afjemou euenkot e~bolqen pim~kahnh/t. 
+               </Language>
+               <Language id="English">
+                  When He rose up from prayer, and had come to His disciples, He found them sleeping from sorrow. 
+               </Language>
+               <Language id="Arabic">
+                  ولما قام من الصلوة جاء إلى تلاميذه فوجدهم نياماً من الحزن، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou je eybeou eretenenkot: ten y/nou a~rip~roceu,ecye: hina n~tetens~temi~ e~qoun e~piracmoc.
+               </Language>
+               <Language id="English">
+                  Then He said to them, "Why do you sleep? Rise and pray, lest you enter into temptation."
+               </Language>
+               <Language id="Arabic">
+                  قال لهم: لماذا أنتم نيام؟!. قوموا وصلوا لئلا تدخلوا في تجربة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+         
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 18:3-9</Language>
+            <Language id="Arabic">يوحنا 18: 3-9</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ioudac oun e~taf[i m~pim/s nem nihuperet/c ebol qen niar,/e~reuc nem nivariceoc: afi emau nem hanvanoc nem hanlampac nem hanhoplon.
+               </Language>
+               <Language id="English">
+                  Then Judas, having received a detachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons.
+               </Language>
+               <Language id="Arabic">
+                  وأن يهوذا أخذ الجند وخادما من عند رؤساء الكهنة والفريسيين، وجاء إلى هناك بمشاعل ومصابيح وسلاح،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc de f~cwoun n~hwb niben eyn/ou e~h~r/i e~jwf: afi e~bol pejaf nwou: je a~retenkw] n~canim.
+               </Language>
+               <Language id="English">
+                  Jesus therefore, knowing all things that would come upon Him, went forward and said to them, "Whom are you seeking?"
+               </Language>
+               <Language id="Arabic">
+                  وأن يسوع كان عالماً بكل ما يأتي عليه، فخرج وقال لهم: من تطلبون؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aue~rouw~ pejwou naf je I/couc pinazwreoc: peje I/couc nwou je a~nok pe:
+               </Language>
+               <Language id="English">
+                  They answered Him, "Jesus of Nazareth." Jesus said to them, "I am He."
+               </Language>
+               <Language id="Arabic">
+                  أجابوا وقالوا له: يسوع الناصري. فقال لهم يسوع: أنا هو.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nafohi de e~ratf nemwou n~je Ioudac v/e~nafnat/if. Hote oun e~tafjoc nwou je a~nok pe: auvwt e~vahou ouoh auhei e~pec/t:
+               </Language>
+               <Language id="English">
+                  And Judas, who betrayed Him, also stood with them. Now when He said to them, "I am He," they drew back and fell to the ground.
+               </Language>
+               <Language id="Arabic">
+                  وكان واقفاً معهم يهوذا المزمع أن يسلمه، فلما قال لهم اني أنا هو، رجعوا إلى الوراء وسقطوا على الأرض،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Palin on afsenwou je a~retenkw] n~ca nim: n~ywou de pejwou je I/couc pinazwreoc. Afe~rouw~ n~je I/couc je aijoc nwten je a~nok pe:
+               </Language>
+               <Language id="English">
+                  Then He asked them again, "Whom are you seeking?" And they said, "Jesus of Nazareth." Jesus answered, "I have told you that I am He.
+               </Language>
+               <Language id="Arabic">
+                  فسألهم أيضاً مرة ثانية: من تطبلون؟ فقالوا: يسوع الناصرى. أجابهم يسوع: قد قلت لكم أني أنا هو،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje a~retenkw] n~cwi ,a nai e~bol marousenwou: hina n~te picaji jwk e~bol e~tafjof: je n/e~takt/itou n/i m~pitake h~li e~bol n~q/tou.
+               </Language>
+               <Language id="English">
+                  Therefore, if you seek Me, let these go their way," that the saying might be fulfilled which He spoke, “Of those whom You gave Me I have lost none.”
+               </Language>
+               <Language id="Arabic">
+                  فإن كنتم تطلبوني فدعوا هؤلاء يذهبون، ليتم القول الذي قاله أن الذين أعطيتنى لم يهلك منهم أحد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Our Savior came down Mount Olive and went to Gethsemane with the disciples. Then he told his disciples to wait there and took Peter together with the two brothers the sons of Zebedee. Then He started to pray for his sufferings.
+               </Language>
+               <Language id="Arabic">
+                  ثم ترك مخلصنا يسوع جبل الزيتون وأتى إلى الجثسمانية مع الرسل، وهكذا قال لتلاميذه: اجلسوا ههنا حتى أمضى لأصلى. وأخذ معه بطرس مع الأخوين الطاهرين إبنى زيدى، وبدأ يقول في صلاته من أجل آلامه التي سينالها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He said to them My soul is exceedingly sorrowful, even to death. Stay here and watch with me. He went a little farther and fell on his face and prayed saying; "O My Father, if it is possible let this cup pass from me; nevertheless, not as I will but as you will."
+               </Language>
+               <Language id="Arabic">
+                  وهكذا قال لخواصه: اسهروا معي في الصلاة. وإبتعد قليلاً وخر على وجهه وصلى قائلاً بحزن قلب: يا إبتاه إن كان يمكن أن تعبر عني هذه الكأس، ولكن ليس إرادتي بل إرادتك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then he came back to his disciples and found them asleep in great sadness. He awoke Peter and said to his disciples; "What could you not watch with me one hour?" Watch and pray lest you enter into temptation."
+               </Language>
+               <Language id="Arabic">
+                  ثم عاد وجاء إلى تلاميذه فوجدهم نياماً بحزن عظيم، فأيقظ بطرس وقال: ألا يجب عليك أن تسهر معي ساعة واحدة؟! صلوا بلا فتور لكي لا تدخلوا في تجربة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The second time, he prayed again that if it is at all possible to let the cup pass from him. In the third time, he prayed again then he came to his disciples and said to them, "Are you still sleeping and resting? Behold the hour is at hand and the Son of Man is being betrayed into the hands of sinners.
+               </Language>
+               <Language id="Arabic">
+                  والمرة الثانية صلى هكذا من أجل الكأس لكى تعبر عنه. والمرة الثالثة هكذا صلى بهذا الكلام الذي قاله: قوموا إسهروا معي وأتركوا النوم  فقد اقترب الذي يسلمني.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Rise let us be going. See he who betrays me is at hand." Woe to you Judas more than anyone else because your sins have multiplied as well as your parents' sins. You have rejected the blessing and loved damnation. It will be with you unto the ages of ages.
+               </Language>
+               <Language id="Arabic">
+                  الويل لك يا يهوذا أكثر من جميع الناس فإن خطاياك تضاعفت وخطايا والديك، جحدت البركة وأحببت اللعنة فحلت عليك اللعنة إلى آخر الدهور. 
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

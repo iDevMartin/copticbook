@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+   </Role>
+   
+   <Role id="Reader">
+      <InsertDocument path="readings/Pauline Epistle"/>
+   </Role>
+   
+   <InsertDocument path="include/OLordOfKnowledge"/>
+</Document>

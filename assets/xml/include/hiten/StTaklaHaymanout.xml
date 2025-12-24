@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StTaklaHaymanout:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Takla Haymanout:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+                Hiten nieu,/ n~te peniwt eyouab n~dikeoc: abba Yekla Humanoy pip~recbuteroc: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of our saintly father and righteous, Abba Takla Haymanout the priest, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات ابينا القديس الصديق البار تكلا هيمانوت القس. يارب انعم لنا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

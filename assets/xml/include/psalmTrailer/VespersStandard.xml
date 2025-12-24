@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Vespers">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">Po#c# aiws...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               During the Evening Raising of Incense (Psalm 141:1, 2):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Po#c# aiws oub/k cwtem e~roi: mah~y/k e~t~c~m/ n~te pa]ho: e~p~jin taws e~p~swi harok.
+            </Language>
+            <Language id="English">
+               Lord, I cry out to You; make haste to me!  Give ear to my voice when I cry out to You.
+            </Language>
+            <Language id="Arabic">
+               يَارَبُّ إِلَيْكَ دَعَوْتُ، فَأَسْرِعْ لإِغَاثَتِي. أَصْغِ إِلَى صَوْتِي عِنْدَمَا أَصْرُخُ إِلَيْكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Marec cwouten m~pekm~yo n~je tap~roceu,/ m~v~r/] n~ouc~yoinofi: p~twnf e~p~swi p~tenajij ousouswousi n~te han a~rouhi pe.
+            </Language>
+            <Language id="English">
+               Let my prayer be set before You as incense, the lifting up of my hands as the evening sacrifice
+            </Language>
+            <Language id="Arabic">
+               لِتَكُنْ صَلاَتِي أَمَامَكَ كَالْبَخُورِ، وَرَفْعُ يَدَيَّ مِثْلَ تَقْدِمَةِ الْمَسَاءِ..
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Eighth Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة الثامنـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               O how beloved is the taste of prayers / 
+               Better than the sweetest honey / 
+               Sweeter in my mouth than sugar / 
+               More beautiful than wedding garments
+            </Language>
+            <Language id="Arabic">
+               نعم ما أحلى طعم الصلوات / 
+               أحلى من عسل الأقراص / 
+               داخل فمى كسكر نبات / 
+               وهى أجمل من حلل الأعراس
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The spring of blessing flows from them / 
+               As the word of <span class="Coptic">Dauid pip~rov/t/c</span><sup>1</sup> / 
+               They are the perfection of liturgies / 
+               The souls will live by them
+            </Language>
+            <Language id="Arabic">
+               منها يفيض ينبوع البركات / 
+               كقول دافيد بى إبروفىتيس / 
+               وهى تكمل القداسات / 
+               وبها تحيا كل نفوس
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               <ol start="1">
+                  <li>Daveed pi-ep-ro-phee-tees = David the prophet</li>                  
+               </ol>
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               When Judas the cursed became / 
+               A vessel for Satan and was lost / 
+               He went to the evil people / 
+               And plotted with them against the worshipped One
+            </Language>
+            <Language id="Arabic">
+               يهوذا اللعين بعد ما صار / 
+               أتاه الشيطان وصبح مفقود / 
+               ومضى إلى القوم الأشرار / 
+               وتآمر معهم على المعبود
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               In the Praetorium his mind was perverted / 
+               He took thirty pieces of silver / 
+               His name was stricken from among the righteous / 
+               And he was deposed from his office
+            </Language>
+            <Language id="Arabic">
+               فى دار الولاية عقله إندار / 
+               وأخذ ثلاثين فضة بعدود / 
+               وإنشطب إسمه دون الأبرار / 
+               وصار من مرتبته مطرود
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The love of silver makes the prudent lost / 
+               Those who desired it became blind / 
+               Like Ananias and Sapphira the greedy / 
+               Saint Peter’s judgment befell them
+            </Language>
+            <Language id="Arabic">
+               بحب الفضة عدم الدارين / 
+               والراغبين فيها تعميهم / 
+               حنانيا وسفيرة الطماعين / 
+               دعا بطرس قد حاق فيهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

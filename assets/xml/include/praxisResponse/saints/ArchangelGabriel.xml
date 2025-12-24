@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="(ArchangelGabriel:PraxisResponse ^ !KoiahkSeason) | SecondWeekOfKoiahk | FourthWeekOfKoiahk">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Gabriel:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Gabri/l pifaisennoufi: pinis] qen niaggeloc: nem nitagma eyouab et[oci: etfaiqa t~c/fi n~sah n~,~rwm
+            </Language>
+            <Language id="English">
+               Hail to Gabriel, the herald of glad tidings, the great among the angels and the exalted holy orders, who carry fiery flaming swords.
+            </Language>
+            <Language id="Arabic">
+               السلام لغبريال المبشر العظيم في الملائكة والطغمات المقدسة العلوية حامل السيف الملتهب ناراً
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="FirstWeekOfKoiahk | ThirdWeekOfKoiahk">
+         <InsertDocument path="include/versesofthecymbals/saints/ArchangelGabriel"/>
+      </Season>
+   </Group>
+</Document>

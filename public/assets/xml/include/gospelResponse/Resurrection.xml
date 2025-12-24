@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="RaisingOfIncense ^ Resurrection">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>            
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">&lt;~ouab P[oic...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Resurrection:
+            </Language>
+         </Comment>
+                     
+         <Text>
+            <Language id="Coptic">
+               &lt;~ouab P[oic ouoh k~c~marwout: ak[i m~kah ouoh m~pekjwnt: aktwnk e~bol qen n/eymwout: qen pie~hoou m~mah somt.
+            </Language>
+            <Language id="English">
+               You are Holy O Lord and blessed, for You suffered and were not angred, you rose from the dead, on the third day.
+            </Language>
+            <Language id="Arabic">
+               قدوس أنت يارب ومبارك ، لأنك تألمت ولم تغضب، وقمت من بين الأموات ، في الوم الثالث
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/ResurrectionConclusion"/>
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+</Document>

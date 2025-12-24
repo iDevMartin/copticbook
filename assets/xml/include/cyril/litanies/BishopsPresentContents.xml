@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Litany of the Bishops in the Presence of a Bishop</Language>
+      <Language id="Arabic">أوشية الأساقفة</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         In the presence of a metropolitan or bishop.
+      </Language>         
+      <Language id="Arabic">
+         في وجود الأب المطران أو الأسقف.
+      </Language>
+   </Comment>
+   
+   <Role id="Priest">
+      <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic m~peniwt n~e~pickopoc (m~m/tropolit/c) abba (...) nem nikee~pickopoc n~oryodoxoc etqen mai niben.
+         </Language>
+         <Language id="English">
+            Remember, O Lord, our father the bishop (metropolitan), Abba (...), and the other orthodox bishops in all places—
+         </Language>         
+         <Language id="Arabic">
+            اذكر ياربُّ أبانا الأسقفَ (المطرانَ) المكرمَ أنبا (...)، وسائرَ الأساقفةِ الأرثوذكسيينَ الذينَ في كلِّ موضعٍ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen peniwt n~e~pickopoc (m~m/tropolit/c) abba (...): nem nenio] n~e~pickopoc n~oryodoxoc etqen mai niben n~te ]oikoumen/ t/rc: nem nih/goumenoc nem nip~recbuteroc nem nidiakwn: nem p~tagma t/rf n~te ]ekk~l/cia~: hina n~te Pi,rictoc Pennou] a~reh e~rwou e~bolha pethwou niben: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray for our father the bishop (metropolitan), Abba (...), and our fathers the orthodox bishops in every place of the whole world, and the hegumens, the priests, the deacons, and every order of the Church, that Christ our God may keep them from every evil, and forgive us our sins.
+         </Language>         
+         <Language id="Arabic">
+            اطلبوا عن أبينا الأسقفِ (المطرانِ) أنبا (...)، وعن كلِّ أبائِنا الأساقفةِ الأرثوذكسيينَ الذين في كلِّ مواضعِ المسكونةِ، والقمامصَةِ، والقسوسِ، والشمامِسَةِ، وكلِّ طغماتِ الكنيسةِ، لكي يحفظَهُم المسيحُ إلَهُنا من كلِّ شرٍ، ويغفرَ لنا خطايانا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   <InsertDocument path="include/cyril/litanies/BishopsAbsentConclusion"/>
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of Those Who are Standing in this Place</Language>
+         <Language id="Arabic">أوشية القيام ههنا</Language>
+      </Title>
+      
+      <Role id="Priest">          
+         <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~n/eto~hi e~ratou m~paima ouoh etoi n~s~v/r n~twbh neman.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, those who are standing in this place and who are partners with us in prayer—
+            </Language>         
+            <Language id="Arabic">
+               اذكر ياربُّ القيامَ هَهُنا، والمشاركينَ لنا في الطلبةِ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/eto~hi e~ratou m~paima ouoh etoi n~s~v/r n~twbh neman: hina n~te Pi,rictoc Pennou] a~reh e~rwou: n~tefrwic e~rwou: n~tefswp e~rof n~noutwbh: ouoh n~tefnai nwou: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for those who are standing in this place and who are partners with us in prayer, that Christ our God may keep them and guard them, receive their prayers to Himself, and have mercy upon them, and forgive us our sins.
+            </Language>         
+            <Language id="Arabic">
+               اطلبوا عن القيامِ في هذا الموضعِ، والمشتركينَ في الطلبةِ معنا، لكي يحفظَهُم المسيحُ إلَهُنا ويحرسَهُم، ويَقْبَلَ إليهِ طلباتِهِم ويرحَمَهُم، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Nenio] nem nenc~n/ou: nem p~cwjp n~n/etqen mai niben n~te ]oikoumen/.
+            </Language>
+            <Language id="English">
+               our fathers and brethren, and the rest who are in every place of the world.
+            </Language>         
+            <Language id="Arabic">
+               آباءَنا وإِخوتَنا وبقيةَ الذينَ في كلِّ موضعٍ من المسكونَةِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Areh de e~rwou neman qen hanparembol/ n~te hanjom euouab.
+            </Language>
+            <Language id="English">
+               And keep them with us by the armies of the holy powers,
+            </Language>         
+            <Language id="Arabic">
+               إحفظْهُم، وإيانا بمعسكرِاتِ القواتِ المقدسةِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh nahmen e~bolha nicoynef et[er/out n~,~rwm n~te pidiaboloc.
+            </Language>
+            <Language id="English">
+               and save us from the fiery, blazing darts of the Devil,
+            </Language>         
+            <Language id="Arabic">
+               ونجنا من سهامِ إبليسِ المتقدةِ ناراً.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nem jorjc niben n~dia~bolikon: nem pivas n~te piy~maio~ n~nouj.
+            </Language>
+            <Language id="English">
+               from every diabolic ambush, and from the trap of false justification.
+            </Language>         
+            <Language id="Arabic">
+               وكلِّ المصايدِ الشيطانيةِ، ومن فخِ التزكيةِ الكاذبةِ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>      
+   </Section>
+</Document>

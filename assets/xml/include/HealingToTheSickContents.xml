@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">Healing to the Sick</Language>
+      <Language id="Arabic">شفاءً للمرضى</Language>         
+      <Language id="Coptic">Ououjai n~n/etswni</Language>
+   </Title>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Ououjai n~n/etswni: oum~ton n~n/etsat.
+         </Language>
+         <Language id="English">
+            Healing to the sick, rest to the needy.
+         </Language>
+         <Language id="Arabic">
+            شفاءً للمرضى، راحةً للمعوزين.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Oubwl e~bol n~n/etqen niexorictia: oumetrefswp e~rok nnio~rvanoc.
+         </Language>
+         <Language id="English">
+            Release to those in captivity, acceptance to the orphans.
+         </Language>
+         <Language id="Arabic">
+            إطلاقاً للذين في السبي، قبولاً [مِنْكَ] للأيتامِ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Oumetref] totou n~ni,/ra: n/ethejhwj rwsi e~rwou e~pia~gayon.
+         </Language>
+         <Language id="English">
+            Help to the widows; satisfy the distressed with good things.
+         </Language>
+         <Language id="Arabic">
+            مساعدةً للأراملِ، المتضيقونَ اكفِهُم بالخيراتِ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            N/etauhei matahwou e~ratou: n/eto~hi e~ratou matajrwou.
+         </Language>
+         <Language id="English">
+            Raise the fallen, confirm the upright.
+         </Language>
+         <Language id="Arabic">
+            الساقطونَ أقمْهُم، القيام ثبِّتْهم.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            N/etauenkot a~ripoumeui~: n/etqen ]o~mologia swp e~rok n~noutwbh.
+         </Language>
+         <Language id="English">
+            Remember those who have fallen asleep, accept to Yourself the prayers of the confessors.
+         </Language>
+         <Language id="Arabic">
+            الراقدونَ اذكرْهُم، المعترفونَ إقبلْ إليكَ طلباتِهم.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Nirefernobi e~tauermetanoin o~pou nem nekpictoc: nekpictoc o~pou nem nekmarturoc.
+         </Language>
+         <Language id="English">
+            The sinners who have repented, count them with Your faithful; Your faithful, count with Your martyrs.
+         </Language>
+         <Language id="Arabic">
+            الخطاة الذينَ تابوا عدَّهُم مع مؤمنيكَ، مؤمنوكَ إحصِهم مع شهدائِكَ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            N/etqen paima a~ritou eutenywnt e~nekaggeloc: anon de hwn qa n/e~tauyahmou qen pekh~mot e~qoun e~tekdiakonia enoi n~atm~p~sa sopten e~rok.
+         </Language>
+         <Language id="English">
+            Those who are in this place, conform them to Your angels. And we also, who have been called by Your grace into Your service while unworthy, accept us to Yourself.
+         </Language>
+         <Language id="Arabic">
+            الذين هَهنا اجعلهم متشبهينَ بملائكتِكَ. ونحنُ أيضاً المدعُوينَ بنعمتِكَ إلى خدمتِكَ ونحنُ غيرَ مستحقينَ، اقبلْنا إليكَ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Kurie e~le/~con: Kurie e~le/~con: Kurie e~le/~con.
+         </Language>
+         <Language id="English">
+            Lord have mercy. Lord have mercy. Lord have mercy.
+         </Language>
+         <Language id="Arabic">
+            يارب ارحم. يارب ارحم. يارب ارحم
+         </Language>         
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Eybe vai ten]hoouoh tentwbh n~tekmeta~gayoc pimairwmi: m/ic nan eyrenjwk e~bol m~paikee~hoou eyouab vai: nem nie~hoou t/rou n~te penwnq: qen hir/n/ niben nem tekho].
+      </Language>
+      <Language id="English">
+         Therefore, we ask and entreat Your goodness, O Lover of Mankind, grant us to complete this holy day and all the days of our life in all peace with Your fear.
+      </Language>
+      <Language id="Arabic">
+         من أجل هذا نسأل ونطلب من صلاحك يا محب البشر، إمنحنا أن نكمل هذا اليوم المقدس، وكل أيام حياتنا بكل سلام مع خوفك.
+      </Language>         
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Vyonoc niben: piracmoc niben: e~nergia niben n~te p~catanac: p~co[ni n~te hanrwmi euhwou: nem p~twnf e~p~swi n~te hanjaji n/eth/p nem n/eyouwnh e~bol.
+      </Language>
+      <Language id="English">
+         All envy, all temptation, all the work of Satan, the counsel of wicked men and the rising up of enemies, hidden and manifest,
+      </Language>
+      <Language id="Arabic">
+         كلَّ حسدٍ وكلَّ تجربةٍ وكلَّ فعلِ الشيطانِ، ومؤامرةَ الناسِ الأشرارِ، وقيامَ الأعداءِ الخفيينَ والظاهرينَ.
+      </Language>         
+   </Text>
+   
+   <Group>
+      <Season id="!Agpeya">
+         <Comment>         
+            <Language id="English">
+               The priest bows his head toward the East and signs himself with the sign of the cross, saying:
+            </Language>
+            <Language id="Arabic">
+               يطامن الكاهن رأسـه إلى الشرق ويرشم ذاته بمثال الصليب قائلاً:
+            </Language>         
+         </Comment>         
+      </Season>
+   </Group>
+   
+   <Text>
+      <Language id="Coptic">
+         a~litou e~bolharon.
+      </Language>
+      <Language id="English">
+         take them away from us
+      </Language>
+      <Language id="Arabic">
+         انزعها عنَّا.
+      </Language>         
+   </Text>
+   
+   <Group>
+      <Season id="!Agpeya">
+         <Comment>         
+            <Language id="English">
+               Then he turns toward the west from his right and makes the sign of the cross over the people, saying the following. If the Pope, a metropolitan, or a bishop is present, he makes the sign of the cross over the people and says the following instead of the priest.
+            </Language>
+            <Language id="Arabic">
+               ثم يلتفت إلى الغرب عن يمينه ويرشم الشعب قائلاً:[إذا كان الأب البابا أو المطران أو الأسقف حاضراً فهو الذي يرشم الشعب ويقول ذلك.]
+            </Language>         
+         </Comment>
+      </Season>
+   </Group>
+   
+   <Text>
+      <Language id="Coptic">
+         nem e~bolha peklaoc t/rf.
+      </Language>
+      <Language id="English">
+         and from all Your people,
+      </Language>
+      <Language id="Arabic">
+         وعن سائرِ شعبِكَ.
+      </Language>         
+   </Text>
+   
+   <Group>
+      <Season id="Baptism | Unction | LiturgyOfTheWaters | Engagement | Crowning | FuneralPrayer | GeneralFuneralPrayer">
+         <Group>
+            <Season id="ConsecrationOfWaters | BathingPrayer | LiturgyOfTheWaters">
+               <Text>
+                  <Language id="Coptic">
+                     nem e~bol ha taikolumb/yra yai.
+                  </Language>
+                  <Language id="English">
+                     and from this basin,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن هذه الفسقيةِ.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="AbsolutionOfWoman">
+               <Text>
+                  <Language id="Coptic">
+                     nem e~bol ha taic~himi yai.
+                  </Language>
+                  <Language id="English">
+                     and from this woman,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن هذه المرأةِ.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="Unction">
+               <Text>
+                  <Language id="Coptic">
+                     nem e~bol ha vai etswni. 
+                  </Language>
+                  <Language id="English">
+                     and from this infirm person,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن هذا المريضِ.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="Engagement">
+               <Text>
+                  <Language id="English">
+                     and from this betrothed couple,
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="Crowning">
+               <Text>
+                  <Language id="Coptic">
+                     nem e~bol ha naipatselet nai.
+                  </Language>
+                  <Language id="English">
+                     and from this bridegroom and bride,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن هذين العروسين.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="(FuneralPrayer ^ !FuneralMemorial) | GeneralFuneralPrayer">
+               <Text>
+                  <Language id="Coptic">
+                     nem e~bol ha tai'u,/ yai. 
+                  </Language>
+                  <Language id="English">
+                     and from this soul,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن هذه النفسِ.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="!Agpeya">
+               <Comment>         
+                  <Language id="English">
+                     Then he turns towards the East, making the sign of the cross, saying:
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يلتفت إلى الشرق قائلا:
+                  </Language>         
+               </Comment>
+            </Season>
+         </Group>
+      </Season>
+      
+      <Season id="!OfferingOfLamb ^ !Agpeya">
+         <Text>
+            <Language id="Coptic">
+               nem e~bolha taiekk~l/cia yai.
+            </Language>
+            <Language id="English">
+               and from this church,
+            </Language>
+            <Language id="Arabic">
+               وعن هذه الكنيسةِ.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               Then he turns toward the East, making the sign of the cross on the altar, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يلتفت إلى الشرق ويرشم على المذبح قائلاً:
+            </Language>         
+         </Comment>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="OfferingOfLamb">
+         <Text>
+            <Language id="Coptic">
+               nem e~bolha tait~rapeza yai
+            </Language>
+            <Language id="English">
+               and from this table,
+            </Language>
+            <Language id="Arabic">
+               وعن هذه المائدة،
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+   
+   <Text>
+      <Language id="Coptic">
+         nem e~bolha paima eyouab n~tak vai.
+      </Language>
+      <Language id="English">
+         and from this Your holy place.
+      </Language>
+      <Language id="Arabic">
+         وعن موضعِكَ المقدس هذا.
+      </Language>         
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         N/ de eynaneu nem n/eternofri cahni m~mwou nan: je n~yok pe e~tak] m~piersisi nan: e~hwmi e~jen nihof nem ni[~l/: nem e~jen ]jom t/rc n~te pijaji.
+      </Language>
+      <Language id="English">
+         But those things which are good and profitable do provide for us, for it is You who have given us the authority to tread on serpents and scorpions, and upon all the power of the enemy.
+      </Language>
+      <Language id="Arabic">
+         أما الصالحاتِ والنافعاتِ فارزقنا إياها لأنكَ أنتَ الذي أعطيتنا السلطانَ أن ندوسَ على الحياتِ والعقاربِ وعلى كلِّ قوةِ العدوِ. 
+      </Language>         
+   </Text>
+</Document>

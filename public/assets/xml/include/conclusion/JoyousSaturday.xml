@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">      
+      <Comment>
+         <Language id="English">
+            For Joyous Saturday:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            V/etau,af qen pim~hau eke~qomqem n~q~r/i n~q/ten n~]couri n~te v~mou: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who was placed in the tomb, destroy for us the thorn of death. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            يا من وضع في القبر إسحق عنا شوكة الموت. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

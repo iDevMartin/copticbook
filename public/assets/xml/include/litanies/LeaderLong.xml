@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Leader</Language>
+         <Language id="Arabic">أوشية الرئيس</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="LiturgyOfTheWaters | SecondProstration">
+               <Text>
+                  <Language id="Coptic">
+                     Ariv~meui P[oic m~pianjwj n~te penkahi pekbwk.
+                  </Language>
+                  <Language id="English">
+                     Remember, O Lord, the ruler of our land, Your servant.
+                  </Language>
+                  <Language id="Arabic">
+                     اذكر ياربُ رئيسَ ارضِنا عبدَكَ.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/AgainLetUsAsk"/>    
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: ariv~meui P[oic m~pianjwj n~te penkahi pekbwk.
+                  </Language>
+                  <Language id="English">
+                     We ask and entreat Your Goodness, O Lover of Mankind: remember, O Lord, the ruler of our land, Your servant.
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُ ونطلبُ من صلاحِكَ يا مُحبَ البشرِ، اذكر ياربُ رئيسَ ارضِنا عبدَكَ.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh hina n~te Vnou] t/iten n~hannai nem hanmetsenh/t m~pem~yo n~niexoucia etamahi: n~tefermalazin m~pouh/t e~qoun e~ron e~piagayon n~c/ou niben: n~tef,a nennobi nam e~bol.
+            </Language>
+            <Language id="English">
+               Pray that Christ our God may give us mercy and compassion before the mighty sovereigns, and soften their hearts towards us, for that which is good at all times, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا لكى يعطينا المسيحُ الهنا رحمةً ورأفةً امامَ الرؤساءِ الأعزاءِ، ويعطفَ قلوبَهُم علينا بالصلاحِ فى كلِّ حينٍ، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Areh e~rof qen ouhir/n/ nem oumeym/i nem oumetjwri: marou[~nejwou naf n~je nibarabaroc nieynoc n/eyouws n~nibwtc: p~roc y/e~te ywn t/rou n~euyenia.
+            </Language>
+            <Language id="English">
+               Keep him in peace, truth and strength. Subject under him all the barbarians, the nations who desire war against all our fertile (lands).
+            </Language>
+            <Language id="Arabic">
+               احفظه فى سلامٍ وعدلٍ وقوةٍ، وتُخضِع له كلَّ البربرِ، الامم الذين يريدون الحربَ فى جميعِ ما لنا من الخصبِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Caji e~q~r/i e~pefh/t eybe ]hir/n/ n~te tekoui~ m~mauatc eyouab n~kayolik/ n~apoctolik/ n~ekk~l/cia.
+            </Language>
+            <Language id="English">
+               Speak to his heart concerning the peace of Your One, Only, Holy, Catholic and Apostolic Church.
+            </Language>
+            <Language id="Arabic">
+               تَكَلمْ فى قلبِه من اجلِ سلامِ كنيستِكَ الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               M/ic naf e~meui~ n~hanhir/nikon e~qoun e~ron nem e~qoun e~pekran eyouab: hina a~non hwn enwnq qen oubioc efhourwou ouoh efwrf: n~cejemtom ensop qen meteuceb/c niben nem metcemnoc niben e~qoun e~rok qen pih~mot.
+            </Language>
+            <Language id="English">
+               Give him that he may think peacefully towards us and towards Your Holy Name, that we too may lead a quiet and peaceable life, and may be found in all piety and all chastity in You.
+            </Language>
+            <Language id="Arabic">
+               اعطه ان يفكرَ بالسلامِ فينا وفى اسمِكَ القدوسِ، لكى نعيشَ نحنُ ايضاً فى سيرةٍ هادئةٍ، ونوجدَ ساكنينَ بكلِّ تقوى وكلِّ عفافٍ بِكَ.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </Section>
+</Document>

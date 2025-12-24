@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Tenouwst m~Viwt n~a~gayoc: nem Pefs/ri I/#c# P,#c#: nem Pip#n#a# m~parakl/ton: }t~riac e#y#u# n~omooucioc.
+      </Language>
+      <Language id="English">
+         We worship the Father and the Son and the Holy Spirit, the Holy Trinity, one in essence.
+      </Language>
+      <Language id="Arabic">
+         نسجدُ للابِ والابنِ والروحِ القدس. الثالوث القدوس المساوي في الجوهرِ.
+      </Language>
+   </Text>
+         
+   <Text>
+      <Language id="Coptic">
+         &lt;ere ne w~]paryenoc: ]ourw m~m/i n~a~l/yin/: ,ere p~sousou n~te pengenoc: a~rej~vo nan n~Emmanou/l.
+      </Language>
+      <Language id="English">
+         Hail to you, O Virgin, / the true Queen indeed. / Hail to the pride of our race, / who has borne for us Immanuel.
+      </Language>
+      <Language id="Arabic">
+         السلام لكِ أيتها العذراء، الملكة الحقيقية الحقانية. السلام لفخر جنسنا، لأنك ولدتِ لنا عمانوئيل.
+      </Language>
+   </Text>
+</Document>

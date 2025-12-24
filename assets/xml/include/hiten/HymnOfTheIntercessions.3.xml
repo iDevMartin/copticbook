@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/hiten/ApostlesFeast"/>
+   <InsertDocument path="include/hiten/StStephen"/>
+   <InsertDocument path="include/hiten/StMark"/>
+   <InsertDocument path="include/hiten/StMaryMagdalene"/>
+   <InsertDocument path="include/hiten/Lazarus"/>
+   <InsertDocument path="include/hiten/PentecostPeriod"/>
+</Document>

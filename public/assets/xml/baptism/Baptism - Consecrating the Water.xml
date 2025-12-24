@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Baptism="true" ConsecrationOfWaters="true">
+   <Title>
+      <Language id="English">Consecrating the Water of Baptism</Language>
+      <Language id="Arabic">تقديس ماء العماد</Language>
+   </Title>
+
+   <Comment>
+      <Language id="English">
+         The priest shall enter into the baptistery, and take the unmixed oil, and pour it into the baptismal tank in the form of the cross three times, saying,
+      </Language>
+      <Language id="Arabic">
+         يدخل الكاهن إلى المعمودية ثم يأخذ الزيت الساذج (العادي) ويسكب منه فيها بمثال الصليب قائلاً:
+      </Language>
+   </Comment>
+
+   <Role id="Priest">
+      <InsertDocument path="include/KhenEfran"/>
+         
+      <Text>
+         <Language id="English">
+            Blessed be God the Father, the Pantocrator. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Vnou] Viwt pipantokratwr: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الله الآب ضابطَ الكلِّ. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be His only-begotten Son, Jesus Christ our Lord. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je pefmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ إبنُه الوحيد يسوع المسيح ربَنَا. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be the Holy Spirit, the Paraclete. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Pip~neuma eyouab m~parakl/ton: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الروحُ القدس المعزي. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Glory and honor, honor and glory to the All-Holy Trinity, the Father and the Son and the Holy Spirit.
+         </Language>
+         <Language id="Coptic">
+            Ouwou nem outaio: outaio nem ouwou: n~]pana~gia~ t~riac Viwt nem Ps/ri nem Pip~neuma eyouab.
+         </Language>
+         <Language id="Arabic">
+            مجداً وإكراماً، إكراماً ومجداً، للثالوث القدوس، الآب والابن والروح القدس.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Now and at all times and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Coptic">
+            }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            الان وكل أوان والى دهرِ الدهور كلها. آمين.
+         </Language>
+      </Text>   
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            And he shall say this prayer secretly.
+         </Language>
+         <Language id="Arabic">
+            ثم يقول هذه الصلاة سراً:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            Call Your servants, O my Master, to Your holy light. Make them worthy of this great grace of holy Baptism. Strip off from them the old man. Beget them again to eternal life.
+         </Language>
+         <Language id="Coptic">
+            Ywhem n~neke~biaik pan/b e~pekouwini e~youab: aritou n~emp~sa m~painis] n~h~mot n~te piwmc eyouab: basou m~pirwmi n~a~pac: oua~hem j~vwou e~piwnq n~e~neh. 
+         </Language>
+         <Language id="Arabic">
+            ادع عبيدَكَ يا سيدي إلى نورِكَ الطاهرِ. اجعلهُم مستحقينَ هذه النعمةَ العظيمةَ التي للعمادِ المقدسِ. عرهُم من الإنسانِ العتيقِ، وجددْ ميلادَهم بالحياةِ الأبديةِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fill them with the power of Your Holy Spirit unto the knowledge of Your Christ, that they may be no more natural sons, but sons of Your kingdom. Through the goodwill of the grace of Your Only-begotten Son Jesus Christ our Lord.
+         </Language>
+         <Language id="Coptic">
+            Mahou e~bol qen oujom n~te Pekp~neuma e~youab eue~mi n~te Pek,~rictoc: hina n~tous~temswpi je n~hans/ri n~cwma alla hans/ri n~te tekmetouro: qen p~]ma] m~pih~mot n~te pekmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic.
+         </Language>
+         <Language id="Arabic">
+            املأهُم من قوةِ روحِكَ القدوس، بمعرفةِ مسيحِكَ، لكي لا يصيروا بعد أبناءَ الجسدِ بل أبناءَ الملكوتِ، بمسرةِ نعمةِ إبنِكَ الوحيد يسوع المسيح ربنا.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/SilentPriestConclusionEnding"/>
+   </Role>
+   
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Titus 2:11-3:7" type="section"/>
+      <BibleReference reference="1 John 5:5-14" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/SilentPrayerCatholicEpistle"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Acts 8:26-39" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/SilentPrayerPraxisBaptism"/>
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/SevenGreatLitanies"/>
+ 
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            A Prayer of Laying On of Hands
+         </Language>
+         <Language id="Arabic">
+            صلاة وضع يد
+         </Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Your servants, O Lord, who are serving You, entreating Your Holy Name, and bowing down their heads to You,
+            </Language>
+            <Language id="Coptic">
+               Neke~biaik P[oic nai etsemsi m~mok ouoh ettwbh m~pekran eyouab ouoh eujwbc n~jwou nak.
+            </Language>
+            <Language id="Arabic">
+               عبيدك ياربُ الذين يخدمونك ويدعون اسمَكَ القدوس ويخضعون لك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               dwell in them O Lord; walk among them; aid them in every good deed; wake their heart from every vile earthly thought.
+            </Language>
+            <Language id="Coptic">
+               Swpi n~q/tou P[oic: ouoh mosi n~q/tou: matotk nemwou qen hwb niben n~a~gayon: matounoc pouh/t e~bolha meui~ niben e~thwou n~te p~kahi.
+            </Language>
+            <Language id="Arabic">
+               حلْ فيهم يارب وسرْ بينهم وساعدهم في كلِّ عملٍ صالحٍ. انهض قلبَهم من كلِّ فكرٍ أرضيٍ رديءٍ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Grant them to live and think pertaining to the living, and understand the things that are Your Through Your Only-begotten Son, our Lord, God and Saviour Jesus Christ.
+            </Language>
+            <Language id="Coptic">
+               M/ic nwou eyrouw~nq ouoh n~toumeui~ ena n/etonq: ouoh n~touka] e~n/e~te nouk: hiten pekmonogen/c n~S/ri pen[oic ouoh pennou] ouoh pencwt/r I/couc Pi,~rictoc.
+            </Language>
+            <Language id="Arabic">
+               امنحهم أن يحيوا ويفكروا في ما للاحياءِ ويفهموا الذي لكَ. بابنِكَ الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح.
+            </Language>
+         </Text>   
+      </Role>
+   
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusionEnding"/>
+      </Role>
+   
+      <Role id="People">
+         <InsertDocument path="include/SavedAmenShort"/>
+      </Role>   
+   </Section>
+   
+   <Section silent="true">
+      <Title>
+         <Language id="English">
+            O merciful, compassionate...
+         </Language>         
+         <Language id="Arabic">
+            أيها الرحيم الرؤوف...
+         </Language>
+      </Title>
+      
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">
+               The priest shall prostrate himself over the Baptismal font and say this invocation, secretly,
+            </Language>
+            <Language id="Arabic">
+               يقول الكاهن سراً عن نفسه وهو منطرح على الأردن (جرن المعمودية)
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               O merciful, compassionate, long suffering God, who search the hearts and reins, and alone know the secrets of men, for no deeds of men are unrevealed before You, but all are laid bare and laid open before You.
+            </Language>
+            <Language id="Coptic">
+               Pina/t pisanah~y/f pisany~maqt: Vnou] v/etqotqet n~nih/t nem ni[~lwt: ouoh ete~mi e~n/eth/p n~te nirwmi m~mauatf: m~mon hwb gar n~te nirwmi oi n~ayouwnh m~pekm~yo: alla ceb/s e~bol t/rou ceoi n~jareb nahbi m~pekm~yo.
+            </Language>
+            <Language id="Arabic">
+               أيها الرحيم الرؤوف المتحنن، الله فاحص القلوب والكلى، الذي يعرف خفايا البشرِ وحده، وليس شيءٌ من أمورِ البشرِ غيرَ ظاهرٍ أمامَكَ، بل عراة كلهم، ومذلولي الأعناق أمامَكَ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               O You Who know all else of me, despise me not, nor turn Your face away from me, but let all my transgressions flee away from me in this hour, O You who forgive the sins of men and lead them to repentance.
+            </Language>
+            <Language id="Coptic">
+               V/etcwoun n~nike,wouni n~t/i: m~perelksai n~cwi: oude m~perv~wnh m~pekho cabol m~moi: alla marouvwt cabol m~moi qen taiounou yai n~je naparap~twma t/rou: v/et,w e~bol n~ninobi n~te nirwmi: ouoh eki~ni m~mwou eumetanoia~.
+            </Language>
+            <Language id="Arabic">
+               يا من يعرفُ الأشياءَ الأخرى التي لي، لا تمقتني ولا تصرف وجهك عني، بل لتهرب عني في هذه الساعةِ جميعُ سيئاتي، يا من يغفرُ خطايا البشرِ ويقبلُ بهم إلى التوبةِ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Wash away the defilement of my soul and body, cleanse me perfectly by Your invisible power, and Your spiritual right hand,
+            </Language>
+            <Language id="Coptic">
+               Eke~iwi e~bol m~p~ywleb n~te ta'u,/ nem pacwma matoboi qen oujwk qen tekjom n~aynau e~roc nem tekoui~nam m~p~neumatik/.
+            </Language>
+            <Language id="Arabic">
+               أغسلْ دنسَ نفسي وجسدي، وطهرني بالكمالِ، بقوتِكَ غيِر المرئيةِ الروحية، ويمينِكَ الروحيةِ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               in order that I may not read an absolution to those who seek it at my hands, namely, the faith which Your great and unspeakable love of mankind has prepared, while I myself as a servant of sin remain under examination.
+            </Language>
+            <Language id="Coptic">
+               Je hina n~tas~temws n~hankeouon eukw] n~ca oumetremhe n~tot yai n~tat/ic nwou: ete pinah] pe etaccebtwtf n~je teknis] m~metmairwmi n~ats~caji m~moc anok de m~v~r/] n~oubwk n~te v~nobi n~taswpi eioi n~adokimoc.
+            </Language>
+            <Language id="Arabic">
+               لكي لا اقرأ لآخرينَ تحليلاً يطلبونَ مني أن أعطيه لهم، الذي هو الإيمان الذي هيأته عِظَم محبتِكَ للبشرِ التي لا ينطق بها. وأنا مثل عبد الخطيةِ اكون مداناً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Nay, O Master, alone without sin, the Only Good One and Lover of Mankind, let not him that is humbled and ashamed be rejected, but be unto me a forgiver.
+            </Language>
+            <Language id="Coptic">
+               Mmon v~n/b pia~ynobi m~mauatf piagayoc m~mauatf ouoh m~mairwmi: m~peny~reftacyo n~je v/etyebi/~out e~af[isipi alla swpi n/i n~ouref,w e~bol.
+            </Language>
+            <Language id="Arabic">
+               كلا أيها السيد الذي بلا خطية وحده، الصالح وحده، المحب البشر، لا يرجعن المذلولُ خازياً بل كن لي غافراً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Send down from Your holy place on high Your power. Strengthen me that I may fulfill the ministry of this great mystery which was first constituted in heaven.
+            </Language>
+            <Language id="Coptic">
+               Ouwrp e~bol qen p~[ici eyouab n~tak n~tekjom: majom n/i e~p~jintai~ri n~taidiakonia n~te painis] m~muct/rion etersorp n~,/ e~q~r/i n~te t~ve.
+            </Language>
+            <Language id="Arabic">
+               أرسل قوتَكَ من علوكَ المقدس، وقوني لكي أعملَ خدمةَ هذا السر العظيم السمائي.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               May Christ take form in them that are to receive the baptism of the new birth through me, I, who myself receive of Him.
+            </Language>
+            <Language id="Coptic">
+               Maref[i mor/ n~je Pi,~rictoc qen n/eyna[i m~piwmc n~te piouahemmici: e~bol hitot anok qa v/et[i n~ouai e~rof.
+            </Language>
+            <Language id="Arabic">
+               فليتصور المسيح في الذين ينالون صبغة الميلاد الجديد مني أنا الذى اخذ منه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Build them upon the foundation of the apostles and prophets, and root them not up ever.
+            </Language>
+            <Language id="Coptic">
+               Kotou e~jen ]cen] n~te nia~poctoloc nem nip~rov/t/c ouoh n~nekserswrou je.
+            </Language>
+            <Language id="Arabic">
+               أبنهم على أساسِ الرسلِ والأنبياءِ، ولا تهدمهم بعد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Plant them in a planting of the truth in Your one only catholic apostolic Church,
+            </Language>
+            <Language id="Coptic">
+               {wou qen ou[o n~te ]meym/i qen tekoui~ m~mauatc n~kayolik/ n~apoctolik/ n~ekk~l/cia.
+            </Language>
+            <Language id="Arabic">
+               اغرسهم غرس الحق في كنيستك الواحدة الوحيدة الجامعة الرسولية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               that advancing in godliness, in every place, Your Holy Name, glorious before all the ages, may be glorified, O Father, Son, and Holy Spirit.
+            </Language>
+            <Language id="Coptic">
+               Hopwc e~aui~ e~t~h/ qen ]meteuceb/c n~tef[iw~ou qen mai niben n~je pekran eyouab ouoh eymeh n~w~ou qajwou n~nie~neh t/rou: Viwt nem Ps/ri nem Pip~neuma eyouab.
+            </Language>
+            <Language id="Arabic">
+               لكي يتقدموا في العبادة، وليتمجد في كل مكان اسمك القدوس المملوء مجدا قبل كل الدهور أيها الآب والابن والروح القدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Now and at all times and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Coptic">
+               }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+            </Language>
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور آمين.
+            </Language>
+         </Text>
+      </Role>   
+   </Section>
+   
+   <InsertDocument path="include/ThreeGreatLitanies"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/CreedPeople"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And the priest shall take the holy oil, (the Hagielaion or oil of gladness) and pour it in the Jordan (that is the font) three times in the form of the Cross, for the hallowing of the water, saying,
+         </Language>
+         <Language id="Arabic">
+            ثم يأخذ الزيت المقدس (زيت الغاليلون أو زيت الفرح) ويسكب منه في جرن المعمودية ثلاث مرات بمثال الصليب لتقديس الماء قائلاً:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/KhenEfran"/>
+   
+      <Text>
+         <Language id="English">
+            Blessed be God the Father, the Pantocrator. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Vnou] Viwt pipantokratwr: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الله الآب ضابطَ الكلِّ. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be His only-begotten Son, Jesus Christ our Lord. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je pefmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ إبنُه الوحيد يسوع المسيح ربَنَا. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be the Holy Spirit, the Paraclete. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Pip~neuma eyouab m~parakl/ton: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الروحُ القدس المعزي. آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LetUsEntreat"/>
+
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            O Creator of the waters, Maker of all, we call upon Your holy and eternal power, the Name which is above every name, of Your Only-begotten Son Jesus Christ our Lord,
+         </Language>
+         <Language id="Coptic">
+            Vrefcwnt n~te nimwou pid/miorgoc n~te p~t/rf: tenws oube tekjom e~youab n~aidion: piran e~tca p~swi n~ran niben: n~te pekmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic.
+         </Language>
+         <Language id="Arabic">
+            يا جابلَ المياهِ وخالقَ الكلِّ، ندعو قوتَكَ الطاهرةَ الذاتيةَ، الاسمَ الذي يفوقُ كلَّ الأسماءِ الذي لابنِكَ الوحيد يسوع المسيح ربنا.
+         </Language>
+      </Text>
+
+      <Text>
+         <Language id="English">
+            who was crucified for us under Pontius Pilate.
+         </Language>
+         <Language id="Coptic">
+            V/etaferc~taurwnin m~mof e~h~r/i e~jwn nahren pontioc Pilatoc.
+         </Language>
+         <Language id="Arabic">
+            الذي صُلِبَ عنا على عهدِ بيلاطس البنطي.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We pray to You, O our Master, for Your servants, change, transform, hallow them, give them power,
+         </Language>
+         <Language id="Coptic">
+            Ten]ho e~rok penn/b e~h~r/i ejen nekebiaik: ouoybou sobtou aria~giazin m~mwou majom nwou.
+         </Language>
+         <Language id="Arabic">
+            نسألُكَ يا ملكَنا عن عبيدِكَ: انقلهم وابدلهم وقدسهم وقوهم.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            that through this water and this oil, all adverse powers may be brought to nought, all evil spirits restrain, confound, and render helpless; all magic, all sorcery, all idolatry, all witchcraft bring to nought.
+         </Language>
+         <Language id="Coptic">
+            Hina e~bol hiten paimwou nem paineh n~toukwrf n~je jom niben n~antion p~neuma niben m~pon/ron: tahno m~mwou sosfou arikolin m~mwou: magia niben varmagia niben metsamse i~dwlon niben meta,w niben korfou.
+         </Language>
+         <Language id="Arabic">
+            لكي من جهةِ هذا الماءِ وهذا الزيتِ تُبطِلُ كلَّ القواتِ المضادةِ. والارواح الخبيثة امنعها وارذلها وصدها. كل سحر وكل رقاء وكل عبادة الأصنام وكل تعزيم أبطله.
+         </Language>
+      </Text>
+   
+      <Comment>
+         <Language id="English">
+            Here he shall breathe upon the water three times in the form of the cross, saying the following. The people respond with “amen.”
+         </Language>
+         <Language id="Arabic">
+            هنا ينفخ في الماء ثلاث مرات مثال الصليب وهو يقول الصلاة التالية. يرد الشعب ”آمين“
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            Hallow this water and this oil that they may be for the washing of the new birth. Amen.
+         </Language>
+         <Language id="Coptic">
+            Ariagiazin m~paimwou vai nem paineh vai: hina n~touswpi n~oujwkem n~te piouahemmici: am/n.
+         </Language>
+         <Language id="Arabic">
+            قدس هذا الماءَ وهذا الزيتَ ليكونا لحميمِ الميلادِ الجديدِ. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Unto eternal life. Amen.
+         </Language>
+         <Language id="Coptic">
+            Eouwnq n~e~neh: am/n.
+         </Language>
+         <Language id="Arabic">
+            حياة أبدية. آمين
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            A garment of incorruption. Amen.
+         </Language>
+         <Language id="Coptic">
+            Ouhebcw n~te oumetattako: am/n.
+         </Language>
+         <Language id="Arabic">
+            لباس غير فاسد. آمين. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            A grace of Sonship. Amen.
+         </Language>
+         <Language id="Coptic">
+            Ouh~mot n~te oumets/ri: am/n.
+         </Language>
+         <Language id="Arabic">
+            نعمة البنوة. آمين. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            A renewing of the Holy Spirit. Amen.
+         </Language>
+         <Language id="Coptic">
+            Oumetberi n~te Pip~neuma eyouab: am/n.
+         </Language>
+         <Language id="Arabic">
+            تجديد الروح القدس. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            For it was Your Only-begotten Son our Lord Jesus Christ, who went down into Jordan and purified it. He bore witness saying, “except a man be born of water and spirit, he cannot enter into the kingdom of God.”
+         </Language>
+         <Language id="Coptic">
+            Nyof gar pe pekmonogen/c n~S/ri pen[oic I/couc Pi,~rictoc: v/etafse e~q~r/i e~piiordan/c aftoubof: afermeyre efjw m~moc: je aus~temmec ouai e~bol qen oumwou nem oup~neuma m~mon s~jom m~mof e~i~ e~qoun e~]metouro n~te Vnou].
+         </Language>
+         <Language id="Arabic">
+            لأن إبنَّكَ الوحيد ربنَا يسوع المسيح الذي نزَلَ إلى الأردنِ وطهره شَهَدَ قائلاً: ”إن لم يولدْ من الماءِ والروحِ لا يستطيعُ أن يدخلَ ملكوتِ الله.“
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Again he commanded his holy disciples and saintly apostles, saying, “Go teach all the nations baptizing them.”
+         </Language>
+         <Language id="Coptic">
+            Palin afhonhen e~totou n~nefa~gioc m~may/t/c ouoh n~apoctoloc eyouab efjw m~moc: je masenwten mac~bw n~nieynoc t/rou: e~retenwmc m~mwou.
+         </Language>
+         <Language id="Arabic">
+            وأيضا أمَرَ تلاميذَه القديسينَ ورسلَه الاطهار قائلاً: ”أذهبوا وتلمذوا جميعَ الأممِ وعمدوهم.“
+         </Language>
+      </Text>
+   
+      <Comment>
+         <Language id="English">
+            Here he shall seal the water thrice with the cross.
+         </Language>
+         <Language id="Arabic">
+            هنا يرشم الماء ثلاث مرات بالصليب ويقول:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            In the name of the Father and the Son and the Holy Spirit.
+         </Language>
+         <Language id="Coptic">
+            Qen v~ran m~Viwt nem Ps/ri nem Pip~neuma e~youab:
+         </Language>
+         <Language id="Arabic">
+            باسم الآب والابن والروح القدس.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Receive us, O Mighty One, and save us, O Holy One.
+         </Language>
+         <Language id="Coptic">
+            {itten e~qoun v/etouons~jom m~mof ouoh nahmen v/e~youab.
+         </Language>
+         <Language id="Arabic">
+            أدخلنا أيها القادرُ، ونجنا أيها القدوسُ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Thunder, O God the Father the Pantocrator, upon these waters, that through them and Your Holy Spirit You may beget again in Your divine power Your servants who have presented themselves to You.
+         </Language>
+         <Language id="Coptic">
+            Ariqarabai Vnou] Viwt pipantokratwr hijen naimwou nai: hina e~bol n~q/tou nem Pekp~neuma eyouab: eke~ouahemj~vo qen tekjom n~nou] n~neke~biaik e~tau] m~pououoi e~rok.
+         </Language>
+         <Language id="Arabic">
+            أرعد يا الله الآب الضابط الكلِّ على هذه المياهِ، لكي بها وبروحِ قدسِكَ تُجَدد ميلادَ عبيدِكَ الذين تقدموا إليكَ بقوتِكَ الإلهيةِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Make them worthy of the remission of their sins and of the garment of incorruption.
+         </Language>
+         <Language id="Coptic">
+            Aritou n~emp~sa m~pi,w e~bol n~te nounobi nem ]hebcw n~te ]metattako.
+         </Language>
+         <Language id="Arabic">
+            إجعلهم مستحقينَ غفرانَ خطاياهُم واللباس غير الفاسد.
+         </Language>
+      </Text>   
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfReconciliationResponse"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Adam Aspasmos
+         </Language>
+         <Language id="Arabic">
+            الاسبسمس الآدام
+         </Language>
+      </Title>
+
+      <Role id="People">
+         <Text>
+            <Language id="English">
+               Behold John the Baptist had witnessed saying, “I have baptized the Lord in the waters of the Jordan;
+            </Language>
+            <Language id="Coptic">
+               H/ppe afermeyre: n~je Iwann/c pibaptict/c: je ai]wmc m~pacwt/r: qen nimwou n~te Piiordan/c.
+            </Language>
+            <Language id="Arabic">
+               هوذا يوحنا الصابغ قد شهد قائلاً: ”إنى عمدت مخلصي في مياه الأردن.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               And heard the voice of the Father saying, ‘This is my beloved Son, in Whom I am pleased.’”
+            </Language>
+            <Language id="Coptic">
+               Ouoh aicwtem e~t~c~m/: n~te Viwt ecws e~bol: je vai pe Pas/ri pamenrit: e~tai]ma] n~q/tf.
+            </Language>
+            <Language id="Arabic">
+               وسمعتُ صوتِ الآبِ صارخاً قائلاً: ”هذا هو ابني حبيبي به سررتُ.“
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               O our Lord Jesus Christ who was baptized in the river Jordan, cleanse us from all blemish, and forgive us our sins.
+            </Language>
+            <Language id="Coptic">
+               W Pen[oic I/couc Pi,~rictoc: v/etaf[iwmc: qen v~iaro n~te Piiordan/c eke~toubon: e~bolha ywleb niben ouoh ,a nennobi nan e~bol.
+            </Language>
+            <Language id="Arabic">
+               ياربنا يسوع المسيح، الذي اعتمدَ في نهرِ الاردن، طهرنا من كلِّ دنسٍ واغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">
+               Greet one another with a holy kiss.
+            </Language>
+            <Language id="Coptic">
+               Acpazecye all/louc en vil/mati aّ~giw.
+            </Language>
+            <Language id="Arabic">
+               قبلوا بعضَكُمْ بعضاً بقبلةٍ مقدسةٍ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Offer in order. Stand with trembling. Look towards the East. Let us attend.
+            </Language>
+            <Language id="Coptic">
+               Procverin kata t~ropon: c~tay/te kata t~romou: ic a~natolac b~le’ate: p~roc,wmen.
+            </Language>
+            <Language id="Arabic">
+               تقدموا على الرسم، قفوا برعدةٍ، وإلى الشرقِ أنظروا. ننصت.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/hiten/StMary"/>
+      
+         <Text>
+            <Language id="English">
+               Through the intercessions of the three holy luminaries, Michael, Gabriel and Raphael, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Coptic">
+               Hiten nip~recbia n~te pisomt n~referouwini eyouab Mi,a/l nem Gabri/l nem Rava/l: P[oic a~rih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="Arabic">
+               بشفاعات الثلاثة المضيئين ميخائيل وغبريال وروفائيل، ياربُ انعم لنا بمغفرةِ خطايانا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Through the intercessions of the forerunner, the baptist, John the baptizer, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Coptic">
+               Hiten nip~recbia n~te pip~rodromoc m~baptict/c piref]wmc: P[oic a~rih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="Arabic">
+               بشفاعات السابق الصابغ يوحنا المعمدان، ياربُ انعم لنا بمغفرةِ خطايانا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+         
+         <Text>
+            <Language id="English">
+               A mercy of peace, a baptism of praise.
+            </Language>
+            <Language id="Coptic">
+               Eleoc ir/n/c bapticma ene~cewc.
+            </Language>
+            <Language id="Arabic">
+               رحمة السلامة ومعمودية التسبيح.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/AnaphoraIntro"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Meet and right, meet and right, meet and right.
+         </Language>
+         <Language id="Coptic">
+            Axion ke dikeon: axion ke dikeon: axion ke dikeon.
+         </Language>
+         <Language id="Arabic">
+            مستحقٌ وعادلٌ. مستحقٌ وعادلٌ. مستحقٌ وعادلٌ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We lift up our eyes unto You, O Lord, and the eyes of our souls look up to You O Lord our God.
+         </Language>
+         <Language id="Coptic">
+            Anfai n~nenbal e~p~swi harok P[oic ouoh nibal n~te nen'u,/ encomc e~p~swi harok P[oic pennou].
+         </Language>
+         <Language id="Arabic">
+            رفعنا أعينَنا إليكَ ياربُ. وأعينُ أنفسِنا ناظرةٌ نحوكَ أيها الربُ إلهنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And we pray You O Lord the Pantocrator, God of our fathers,
+         </Language>
+         <Language id="Coptic">
+            Ouoh tentwbh m~mok P[oic pipantokratwr Vnou] n~te nenio].
+         </Language>
+         <Language id="Arabic">
+            ونسألُكَ أيها الربُ الضابطُ الكل، إله آبائنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Who have created heaven and earth and all their adornments, Who have created the waters above the heaven, Who have established the earth upon the water, Who gathered the water into one gathering place,
+         </Language>
+         <Language id="Coptic">
+            V/e~tafyamio~ n~t~ve nem p~kahi nem poucolcel t/rf v/etafyamio~ n~nimwou etca p~swi n~t~ve: aftajro m~pikahi hijen nimwou: v/e~tafywou] n~nimwou e~ouma n~ywou] n~ouwt.
+         </Language>
+         <Language id="Arabic">
+            الذي خلقَ السماءَ والأرضَ وكلَّ زينتهما، الذي خلقَ المياهَ التي فوقَ السماءِ وثَبَتَ الأرضَ على المياهِ، الذي جَمَعَ المياهَ إلى مكانٍ واحدٍ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Who has bound the sea and confined the depths, and sealed them with His glorious and fearful Name, before Whose power all things fear and tremble. 
+         </Language>
+         <Language id="Coptic">
+            V/e~tafcwnh m~v~iom afmasyom n~ninoun: ouoh aftobou qen pefran eymeh n~w~ou nem ouho]: v/e~te en,ai niben enhor ouoh euc~yerter qath/ m~p~ho n~te tefjom.
+         </Language>
+         <Language id="Arabic">
+            الذي رَبَطَ البحرَ وغَلَقَ الأعماقَ وختمها باسمِه، المملوءِ مجداً وخوفاً، الذي كلُّ شيءٍ يخافُ ويرتعدُ من قدامِ وجهِ قوتِه.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            You, O our Master, have established the sea by Your power, You have broken the heads of the dragon in the waters.
+         </Language>
+         <Language id="Coptic">
+            Nyok penn/b aktajro m~v~iom qen tekjom: n~yok akqomqem n~niv/oui~ n~te pid~rakwn hijen nimwou.
+         </Language>
+         <Language id="Arabic">
+            أنتَ يا سيدَنا، ثبت البحرَ بقوتِكَ. أنتَ رضضت رؤوسَ التنين على المياهِ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/YouWhoAreSeated"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            You divided the fountains and the torrents, and made a path through the waters.
+         </Language>
+         <Language id="Coptic">
+            Nyok akvwji n~nimoumi nem nimouncwrem: ouoh ak] n~oumwit e~bol n~te hanmwou.
+         </Language>
+         <Language id="Arabic">
+            أنتَ فلقتَ الينابيعَ والأوديةَ، وأعطيت مخرجاً للمياهِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            O God, the waters saw You and were afraid, and the depths were troubled.
+         </Language>
+         <Language id="Coptic">
+            Vnou] aunau e~rok n~je hanmwou auerho]: ouoh aus~yorter n~je ninoun n~ten t~c~m/ n~te hanmwou euos.
+         </Language>
+         <Language id="Arabic">
+            اللهم أن المياهَ رأتكَ فخافت، وقلقت الأعماقُ من صوتِ المياهِ الكثيرةِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            You looked upon the waters of the Red Sea, and through fear of You You made them to stand, and made Israel to pass over, and by Moses You have baptized them all.
+         </Language>
+         <Language id="Coptic">
+            Nyok akcomc hijen nimwou n~te v~iom n~sari qen tekho] aktahwou e~ratou akerjinior m~p~Icra/l ouoh qen Mwu~c/c ak]wmc nwou t/rou.
+         </Language>
+         <Language id="Arabic">
+            أنتَ نظرتَ إلى مياهِ البحرِ الأحمرِ برهبتِكَ فأقمتها وعبَرَتْ إسرائيل، وبموسى عمدتُهم جميعاً.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LookTowardsTheEast"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            You have commanded the hard rock, and it did pour forth water for Your people, and the bitter waters also You have changed into sweet waters.
+         </Language>
+         <Language id="Coptic">
+            Nyok akouahcahni n~]petra n~koh p~swt: acjes mwou m~peklaoc: ouoh nikemwou etensasi akouoybou e~bol e~hanmwou euholj.
+         </Language>
+         <Language id="Arabic">
+            أنت أمرتَ الصخرةَ الصماءَ فأفاضتْ الماءَ لشعبِكَ، وأيضاً المياهُ المرةُ نقلتَها إلى مياهٍ حلوةٍ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            You again through Joshua son of Nun have turned back the streams of running water.
+         </Language>
+         <Language id="Coptic">
+            Nyok on e~bolhiten I/cou n~te Nau/~ a~ktacyo e~vahou n~niiarwou m~mwou etcekqa].
+         </Language>
+         <Language id="Arabic">
+            أنتَ أيضاً بيشوع بن نون رددتَ إلى خلفِ مياهَ الأنهارِ الجاريةِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            For You are fearful, who can stand before Your face?
+         </Language>
+         <Language id="Coptic">
+            Nyok gar etoi n~ho]: nim pe e~te ouons~jom m~mof e~o~hi e~ratf qath/ m~pekho.
+         </Language>
+         <Language id="Arabic">
+            أنتَ المخوفُ، فمن هو الذي يستطيعُ أن يقفَ أمامَ وجهِكَ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And the sacrifice of Elijah out of water You have received with fire from heaven.
+         </Language>
+         <Language id="Coptic">
+            Ouoh ]yucia~ n~te ?liac ] e~bolqen oumwou: aksopc e~rok qen ou,~rwm e~bolqen t~ve.
+         </Language>
+         <Language id="Arabic">
+            وصعيدة إيليا التي بالماءِ قَبِلتَها بالنارِ من السماءِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            You again O our Master, through Your prophet Elisha have manifested forth water giving birth to life, and Naaman the Syrian You have cleansed by the waters of the Jordan.
+         </Language>
+         <Language id="Coptic">
+            Nyok on penn/b e~bol hiten pekp~rov/t/c Eliceoc akouwnh e~bol n~oumwou m~mici n~wnq: ouoh Neman picuroc aktoubof e~bol hiten nimwou n~te piiordan/c.
+         </Language>
+         <Language id="Arabic">
+            أنتَ أيضاً يا سيدنا بواسطةِ نبيكَ أليشع أظهرتَ ماءَ ميلادِ الحياةِ. ونعمان السرياني طهرتَه بمياهِ الأردنِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            For You have power over all things, and nothing is impossible with You.
+         </Language>
+         <Language id="Coptic">
+            Nyok gar e~te ouons~jom m~mok qen hwb niben: ouoh m~mon h~li oi n~atjom n/~totk.
+         </Language>
+         <Language id="Arabic">
+            فأنتَ القادرُ على كلِّ شيءٍ، ولا يعسرُ عليكَ أمرٌ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Watos Aspasmos
+         </Language>
+         <Language id="Arabic">
+            الأسبسمس الواطس
+         </Language>
+      </Title>
+
+      <Role id="People">
+         <Text>
+            <Language id="English">
+               Rejoice like lambs, O the Jordan (river) and its wilderness, for unto you came the lamb, Who lifts the sin of the world.
+            </Language>
+            <Language id="Coptic">
+               Yel/l m~v~r/] n~hanhi/b: w~ Piiordan/c nem pefd~rimoc: je afi~ sarok n~je pihi/b: v/etw~li m~v~nobi m~pikocmoc.
+            </Language>
+            <Language id="Arabic">
+               تهلل مثلَ الحملانِ أيها الأردن وبريته، لأنه قد أتى إليكَ الحملُ الحاملُ خطيةَ العالمِ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ, the Son of God, was baptized in the Jordan. Have mercy on us according to Your great mercy.
+            </Language>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: I/couc Pi,~rictoc: Ps/ri m~Vnou]: af[iwmc qen Piiordan/c: nai nan kata peknis] n~nai.
+            </Language>
+            <Language id="Arabic">
+               هلليلويا. هلليلويا. هلليلويا يسوع المسيح ابن الله اعتمدَ في نهر الأردن. ارحمنا كعظيمِ رحمتِكَ.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Holy, holy, holy, Lord of hosts, heaven and earth are full of Your holy glory.
+            </Language>
+            <Language id="Coptic">
+               A~gioc a~gioc a~gioc: Kurioc cabawy: p~l/r/c o~ ouranoc ke /~ g/: t/c a~giac cou dox/c.
+            </Language>
+            <Language id="Arabic">
+               قدوسٌ. قدوسٌ. قدوسٌ. ربُ الصاباؤوت. السماءُ والأرضُ مملوءتان من مجدِكَ الأقدس.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/Agios3"/>
+   
+      <Text>
+         <Language id="English">
+            Holy, Holy, O Lord, and Holy are You in every thing. 
+         </Language>
+         <Language id="Coptic">
+            &lt;ouab ,~ouab P[oic ouoh ,~ouab qen hwb niben.
+         </Language>
+         <Language id="Arabic">
+            قدوسٌ قدوسٌ أيها الربُ، وقدوسٌ في كلِّ شيءٍ. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Now also, O our Master, the Lord of hosts, and King of the heavenly orders, behold, O You Who sit upon the Cherubim, manifest Yourself and look upon this, Your creature, this water, 
+         </Language>
+         <Language id="Coptic">
+            }nou on penn/b P[oic n~te nijom: p~ouro n~te nic~tratia n~te t~ve: joust v/et~hemci hijen ni,eroubim ouonhk anau e~paicwnt n~tak e~te paimwou vai.
+         </Language>
+         <Language id="Arabic">
+            الآن أيضاً ياملكَنا ربَ القواتِ، ملكَ الجنودِ السمائيةِ، إطَّلِع أيها الجالسُ على الشاروبيم، أظهر وأنظر إلى جبلتك هذه أي هذا الماء. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            give unto it the grace of the Jordan and the power and the strength of heaven.
+         </Language>
+         <Language id="Coptic">
+            Moi naf m~pih~mot n~te Piiordan/c nem ]jom nem ]nom] n~te t~ve.
+         </Language>
+         <Language id="Arabic">
+            إمنحه نعمةَ الأردن والقوةَ والعزاءَ السمائي.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And upon the coming down of Your Holy Spirit upon it, grant it the blessing of the Jordan. Amen.
+         </Language>
+         <Language id="Coptic">
+            Ouoh qen p~jini~ n~te Pekp~neuma eyouab e~h~r/i e~jwf: arih~mot naf m~pic~mou n~te Piiordan/c: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            وعند حلولِ روحِكَ القدوس عليه، هبه بركةَ الأردن. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Give it power that it may become water of life. Amen.
+         </Language>
+         <Language id="Coptic">
+            Moi naf n~oujom eyrefswpi n~oumwou n~wnq: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            أعطه قوةً ليصيرَ ماءً محيياً. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Holy water. Amen.
+         </Language>
+         <Language id="Coptic">
+            Oumwou e~fouab: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            ماءً طاهراً. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Water that cleanses sins. Amen.
+         </Language>
+         <Language id="Coptic">
+            Oumwou eftoubo n~ninobi: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            ماءً يطهرُ الخطايا. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Water of the washing of the new birth. Amen.
+         </Language>
+         <Language id="Coptic">
+            Oumwou n~te pijwkem n~te piouha~memici a~m/n.
+         </Language>
+         <Language id="Arabic">
+            ماءَ حميمِ الميلادِ الجديدِ. آمين. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Water of sonship. Amen.
+         </Language>
+         <Language id="Coptic">
+            Oumwou n~te oumets/ri: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            ماءَ البنوةٍ. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Grant unto this water that there remain not in it, nor descend into it with him that shall be baptized therein any evil spirit, or any unclean spirit,
+         </Language>
+         <Language id="Coptic">
+            Arih~mot m~pai mwou vai e~s~tem,w n~q~r/i n~q/tf: oude e~s~temse e~q~r/i nem v/eyna[iwmc n~q/tf n~je oup~neuma efhwou.
+         </Language>
+         <Language id="Arabic">
+            أنعم على هذا الماءِ لكي لا يوضع فيه ولا ينزل مع الذي يعتمد فيه روحٌ رديءٌ، ولا روحٌ نجسٌ،
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            or any spirit of the day, or any spirit of the noonday, or any spirit of the evening or any spirit of the night, or any spirit of the air, or any spirit of the deep, or any of the diabolical spirits which are beneath the earth, but rebuke them with Your power which is mighty. 
+         </Language>
+         <Language id="Coptic">
+            Oup~neuma n~te pie~hoou: ie oup~neuma n~te hanameri: ie oup~neuma n~te hanarouhi: ie oup~neuma  n~te pie~jwrh: ie oup~neuma n~te pia/r: ie oup~neuma n~wmc e~q~r/i ie oup~neuma n~iq n~te n/etcapec/t m~p~kahi: alla a~rie~pituman nwou qen tekjom etoi n~nis].
+         </Language>
+         <Language id="Arabic">
+            ولا روحُ النهارِ، ولا روحُ الظهيرةِ، ولا روحُ المساءِ، ولا روحُ الليلِ، ولا روحُ الهواءِ ولا روحُ الغرقِ، ولا روحُ الشيطانِ من الذين تحتَ الأرضِ، بل إنتهرهم بقوتِكَ العظيمة.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Let them be crushed before the sign of Your Cross and Your Holy Name which we entreat, which is full of glory and fearsome towards them that are against us.  
+         </Language>
+         <Language id="Coptic">
+            Ouoh marouswpi euqemqwm e~bol qat~hi m~v~m/ini n~te pekc~tauroc nem pekran eyouab v/e~tentwbh m~mof: v/eymeh n~w~ou ouoh etoi n~ho] qatotou n~n/et] oub/n.
+         </Language>
+         <Language id="Arabic">
+            وليصيروا مشدوخين أمامَ علامةِ صليبِكَ واسمِكَ القدوس الذي ندعوه، المملوء مجداً، المخوف عند المقامين لنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            That those who shall be baptized therein may put off the old man that is corruptible according to the deceitful lusts, and put on the new man which is renewed once again after the image of Him that created him, 
+         </Language>
+         <Language id="Coptic">
+            Hina n/eyna[iwmc n~q~r/i n~q/tf n~ce,w e~q~r/i m~pirwmi n~a~pac: v/eynatako kata nie~piyumia n~te ]metreferhal: n~tou] hiw~tou m~pirwmi m~beri: v/eynaerberi n~kecop kata t~hikwn m~v/e~tafcontf.
+         </Language>
+         <Language id="Arabic">
+            لكي يخلعَ الذين يعتمدونَ فيه الإنسانَ العتيقَ الذي يفسدُ كشهواتِ الضلالةِ. ويلبسوا الإنسانَ الجديدَ الذي يتجدد مرةً أخرى كصورةِ خالقِه. 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            and that the light of the Truth may shine within them through the Holy Spirit, and that they may gain eternal life and the blessed hope.
+         </Language>
+         <Language id="Coptic">
+            Ouoh n~teferouwini n~q~r/i n~q/tou n~je piouwni n~te ]meym/i: hiten pip~neuma eyouab n~cesasni e~piwnq n~e~neh nem ]niatc n~helpic.
+         </Language>
+         <Language id="Arabic">
+            ويضيء فيه نورُ الحقِ من قِبَلِ الروح القدس ويفوزوا بالحياةِ الأبديةِ والرجاءِ السعيدِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And may stand before the judgment seat of Christ and receive the heavenly crown and the forgiveness of their sins.
+         </Language>
+         <Language id="Coptic">
+            Ouoh n~ceo~hi e~ratou m~pekm~yo hijen pib/ma n~te Pi,~rictoc: n~ce[i m~pi,~lom n~te niv/oui~: nem p~,w e~bol n~te nounobi.
+         </Language>
+         <Language id="Arabic">
+            ويقفوا أمامَكَ على منبرِ المسيح وينالوا الإكليل السمائي وغفران خطاياهم.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            May this oil and this water blessed, full of glory and purified.
+         </Language>
+         <Language id="Coptic">
+            Marefswpi n~je paimwou vai nem pain~eh vai euc~marwout eumeh n~wou eutoub/out.
+         </Language>
+         <Language id="Arabic">
+            وليكن هذا الماء وهذا الزيت مباركين مملوئين مجداً مطهرين.
+         </Language>
+      </Text>
+   
+      <Comment>
+         <Language id="English">
+            Here he shall sign the water with the cross thrice saying,
+         </Language>
+         <Language id="Arabic">
+            هنا يرشم الكاهن الماء بالصليب ثلاث مرات ويقول
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            In the Name of the Father and the Son and the Holy Spirit.
+         </Language>
+         <Language id="Coptic">
+            Qen v~ran m~Viwt nem Ps/ri nem Pip~neuma e~youab.
+         </Language>
+         <Language id="Arabic">
+            باسم الآب والابن والروح القدس
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The thanksgiving of all Your people, and those who have brought to You Your servants their children, to the glory and honor of Your Holy Name,
+         </Language>
+         <Language id="Coptic">
+            Piseph~mot n~te peklaoc t/rf nem n/etaui~ni nak e~qoun n~n/e~te nouk n~e~biaik nous/ri: e~ouw~ou nem outaio~ m~pekran eyouab.
+         </Language>
+         <Language id="Arabic">
+            وشكر شعبك أجميعن، وعبيدك الذين قدموا لك بنيهم. مجداً واكرما لاسمك القدوس.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Receive them upon Your holy, rational altar of heaven as a sweet savor of incense before Your greatness in the heavens, through the service of Your holy angels and archangels.
+         </Language>
+         <Language id="Coptic">
+            Sopou e~rok e~jen pekyuciact/rion e~youab: n~ellogimwn n~te t~ve e~ouc~yoi n~c~yoinoufi e~qoun etekmetnis] e~tqen niv/oui~ e~bolhiten p~semsi n~te nekaggeloc nem nekar,iaggeloc eyouab.
+         </Language>
+         <Language id="Arabic">
+            إقبلهم على مذبَحِكَ المقدس الناطق السمائي كرائحةِ بخورٍ، يدخلُ إلى عظمتِكَ التي في السمواتِ بخدمةِ ملائكتِكَ ورؤساءِ ملائكتِكَ الأطهار.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            O Lord save Your people, bless Your inheritance, pasture them, and raise them up forever.
+         </Language>
+         <Language id="Coptic">
+            P[oic nohem m~peklaoc c~mou e~tekk~l/ronomia~ a~moni m~mwou [acou sa e~neh.
+         </Language>
+         <Language id="Arabic">
+            يارب خلص شعبَكَ. بارك ميراثَكَ. إرعهم وارفعهم إلى الأبدِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Keep them in the upright faith all the days of their life, set them in the love that surpasses everything and the peace which surpasses all understanding.
+         </Language>
+         <Language id="Coptic">
+            Areh e~rwou qen pinah] etcoutwn n~nie~hoou t/rou n~te pouwnq ouoh ,au qen ]a~gap/ y/et[oci e~hwb niben nem ]hir/n/ y/et[oci e~nouc niben.
+         </Language>
+         <Language id="Arabic">
+            إحفظهم في الإيمانِ المستقيمِ كل أيام حياتِهم. واجعلهم في المحبةِ التي تفوقُ كلَّ شيءٍ، والسلامِ الذي يعلو كلَّ عقلٍ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through the intercessions and prayers of the holy and full of glory Mother of God Mary, and the holy baptizer John the Baptist, and my lords and fathers the Apostles, and all the saints who have pleased You.
+         </Language>
+         <Language id="Coptic">
+            Hiten nip~recbia~ nem ni]ho n~te y/e~youab eymeh nw~ou ]macnou] Maria: nem v/e~youab m~baptict/c Iwann/c piref]wmc nem na[oic n~io] n~a~poctoloc nem n/ey~ouab t/rou e~tauranak.
+         </Language>
+         <Language id="Arabic">
+            بالشفاعات والطلبات التي للقديسة المملوءة مجدا والدة الإله مريم، والقديس الصابغ يوحنا المعمدان، وسادتي الآباء الرسل وسائر القديسين الذين أرضوك.
+         </Language>
+      </Text>   
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+   
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/OneIsTheHoly"/>
+   </Role>
+    
+   <Role id="People">
+      <Text>
+         <Language id="English">
+            Amen
+         </Language>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="Arabic">
+            آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then let the priest take the holy Myron, and pour a very little of it in the font thrice in the form of the cross to hallow the water each time. 
+         </Language>
+         <Language id="Arabic">
+            يأخذ الكاهن الميرون المقدس ويسكب منه قليلا جداً في المعمودية ثلاث مرات مثال الصلب ليتقدس الماء وفي كل مرة يقول:
+         </Language>
+      </Comment>
+   
+      <InsertDocument path="include/KhenEfran"/>
+   
+      <Text>
+         <Language id="English">
+            Blessed be God the Father, the Pantocrator. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Vnou] Viwt pipantokratwr: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الله الآب ضابطَ الكلِّ. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be His only-begotten Son, Jesus Christ our Lord. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je pefmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ إبنُه الوحيد يسوع المسيح ربَنَا. آمين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Blessed be the Holy Spirit, the Paraclete. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je Pip~neuma eyouab m~parakl/ton: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الروحُ القدس المعزي. آمين.
+         </Language>
+      </Text>
+   
+      <Comment>
+         <Language id="English">
+            Then let him say the Alleluia and the proper verses of the psalms, and let him stir the water, saying,
+         </Language>
+         <Language id="Arabic">
+            ثم يقول هذه القطع من المزامير وهو يحرك المياه:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            The voice of the Lord is upon the waters; the God of glory thunders, the Lord, upon many waters. The voice of the Lord is powerful, the voice of the Lord is full of majesty. (Psalms 28: 3,4)
+         </Language>
+         <Language id="Coptic">
+            Pq~rwou m~P[oic hijen nimwou: Vnou] n~te p~wou aferqarabai: P[oic hijen hanmwou euos: All/louia: p~q~rwou m~P[oic qen oujom: p~q~rwou m~P[oic qen ounis] m~metcaie: All/louia.
+         </Language>
+         <Language id="Arabic">
+            صوت الرب على المياه. إله المجد أرعد. الرب على المياه الكثيرة الليلويا. صوت الرب بقوة. صوت الرب بجلال عظيم الليلويا. (مزمور 28: 4،3)
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Look to him, and be radiant; so your faces shall never be ashamed. Come, O sons, listen to me, I will teach you the fear of the Lord. (Psalms 33: 4, 10)
+         </Language>
+         <Language id="Coptic">
+            Amwini harof n~taretenerouwini ouoh n~nou[isipi n~je netenho: All/louia:  amwini nas/ri cwtem e~roi n~ta]c~bw nwten e~]ho] n~te P[oic: All/louia.
+         </Language>
+         <Language id="Arabic">
+            تعالوا إليه لنستنيروا ولا تخزى وجوهكم الليلويا. تعالوا يا أبنائي واسمعوني لأعلمكم مخافة الرب الليلويا. (مزمور 4:33، 10)
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We went through fire and through water; yet You have brought us forth to a spacious place. (Psalms 65: 11)
+         </Language>
+         <Language id="Coptic">
+            Ancini e~bol hiten ou,~rwm nem oumwou ouoh akenten e~bol e~p~emton: All/louia.
+         </Language>
+         <Language id="Arabic">
+            جزنا في النار والماء وأخرجتنا إلى الراحة الليلويا. (مزمور 11:65)
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow. Hide Your face from my sins, and blot out all my iniquities. Create in me a clean heart, O God, and put a new and right spirit within me. (Psalms 50: 7, 9, 10)
+         </Language>
+         <Language id="Coptic">
+            Eke~noujq e~jwi m~peksenhucwpon: eie~toubo eke~raqt eie~oubas e~hote ou,iwn: All/louia: matacyo m~pekho cabol n~nanobi: ouoh naa~nomia~ t/rou eke~coljou: All/louia: ouh/t efouab eke~contf n~q/t Vnou]: oup~neuma efcoutwn a~ritf m~beri qen n/etcaqoun m~moi: All/louia.
+         </Language>
+         <Language id="Arabic">
+            انضح على بزوفاك فاطهر وأغسلني فأبيض أكثر من الثلج الليلويا. اصرف وجهك عن خطاياى وامح كل آثامي الليلويا. قلبا نقيا اخلقه في يا الله وروحا مستقيما جدده في أحشائي الليلويا. (مزمور 50: 7، 9، 10)
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            For the Lord has chosen Zion; he has desired it for his habitation (Psalms 131: 10)
+         </Language>
+         <Language id="Coptic">
+            Je a P[oic cwtp n~ciwn afcwtp m~moc euman~swpi naf: All/louia.
+         </Language>
+         <Language id="Arabic">
+            الرب اختار صهيون ورضيها مسكنا له الليلويا. (مزمور 10:131)
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Bless me. Lo, the repentance. Forgive me my fathers and my brethren, pray on my behalf.
+         </Language>
+         <Language id="Coptic">
+            Cmou e~roi: ic ]metanoia: ,w n/i e~bol: naio] nem nac~n/ou: s~l/l e~jwi.
+         </Language>
+         <Language id="Arabic">
+            باركوا على. ها مطانية. اغفروا لي يا آبائي واخوتي. صلوا عني.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/DoxaPatri"/>
+      
+      <Text>
+         <Language id="English">
+            Blessed be the Lord that enlightens every man that comes into the world. Now and at all times and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Coptic">
+            Fc~marwout n~je P[oic v/eterouwini e~rwmi niben: eyn/ou e~pikocmoc: ]nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="Arabic">
+            مبارك الرب الذي يضيء لكل إنسان آت إلى العالم الآن وكل أوان وإلى دهر الدهور آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   
+   
+</Document>

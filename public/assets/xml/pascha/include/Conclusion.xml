@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/"> 
+   <InsertDocument path="pascha/include/EvnotiNaiNan"/>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Conclusion</Language>
+         <Language id="Arabic">ختام</Language>
+      </Title>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/Pouro.1"/>
+      </Role>   
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/Pouro.2"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">   
+         <InsertDocument path="include/Pouro.3"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">   
+         <InsertDocument path="include/Pouro.4"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">   
+         <InsertDocument path="include/TenouwstSeasonalResponseShort"/>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+</Document>

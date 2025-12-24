@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Transfiguration:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="English">
+                     O Who transfigured on Mount Tabor / Calling Moses out of the tomb / And Elijah from the Heaven / Revealing Your majesty to your holy apostles.
+                  </Language>
+                  <Language id="Arabic">
+                     يا من تجليت علي طور تابور:  داعيا موسى من وسط القبور:  و من السماء إيليا الغيور:  مظهرا جلالك أمام رسلك القديسين.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V]: afsobtf e~jen pitwou n~Yabwr.
+            </Language>
+            <Language id="English">
+               Alleluia (4) Jesus Christ, the Son of God, was transfigured on mount Tabor.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله تجلي علي طور تابور.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

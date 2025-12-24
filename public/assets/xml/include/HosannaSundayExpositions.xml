@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Role id="Reader">
+      <Title>
+         <Language id="English">Exposition of Hosanna Sunday</Language>
+         <Language id="Arabic">طرح أحد الشعانين</Language>
+      </Title>
+      
+      <InsertDocument path="include/praises/ExpositionIntroduction"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Masenak hijen nitwou et[oci: v/ethisennoufi n~Ciwn: [ac n~tekc~m/ qen oujom: hisennoufi n~Il#/#m#
+         </Language>
+         <Language id="English">
+            Ascend upon a high mountain, O Who announces Zion. Raise your voice with strength and preach to Jerusalem.   
+         </Language>
+         <Language id="Arabic">
+            أصعد على الجبال العالية يا مبشر صهيون وارفع صوتك بقوة وبشر أورشليم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ajoc n~nibaki n~te Iouda: je ic petenouro efn/ou: e~re pefbe,e nemaf: ouoh pefhwb m~pefm~yo…
+         </Language>
+         <Language id="English">
+            Say to the cities of Judah, "Here is your King coming, carrying his wage and handiwork before His presence
+         </Language>
+         <Language id="Arabic">
+            قل لمدن يهوذا هوذا ملكك يأتيكِ وأجرته معه وعمله قدامه...
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The expositions are continued. At each mention of the phrase “Hosanna to the Son of David”, the response <span class="Coptic">W~canna qen n/et[oci</span>... is chanted.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Watos Exposition</Language>
+         <Language id="Arabic">طرح واطس</Language>
+      </Title>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               Ascend upon a high mountain, O Who announces Zion. Raise your voice with strength and preach to Jerusalem.
+            </Language>
+            <Language id="Arabic">
+               إصعد إلي الجبال العالية يا مبشر صهيون. إرفع صوتك بقوة و بشر أورشليم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">            
+               Say to the cities of Judah, "Here is your King coming, carrying his wage and handiwork before His presence, like a shepherd who shepherds his flock and with his hands gathers the lambs. 
+            </Language>
+            <Language id="Arabic">
+               و قل لمدن يهوذا ”هوذا ملكك يأتيك و أجرته معه. مثل الراعي الذي يرعي قطيع غنمه و بذراعه العاليه يجمع الحملان.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Arise and decorate your gates for the Son of God is coming. With purity and peace, He will save you. Here are all your children coming to Him rejoicing while crying and saying, `Hosanna to the Son of David.'
+            </Language>
+            <Language id="Arabic">
+               قومي زيّني ابوابك لانه سيأتي ابن الله. و هو الذي بالطهارة و السلامة ينجيك. هوذا كل بنيك يقبلون اليه بفرح و يصرخون قائلين أوصنا لابن داود. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               Now when they drew near to Jerusalem, and came to Bethphage at the Mount of Olives, Jesus sent two disciples, saying to them,  
+            </Language>
+            <Language id="Arabic">
+               و لما قرب من بيت فاجي عند جبل الزيتون أرسل يسوع اثنين من تلاميذه. و قال:
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               "Go into the village opposite you; and as soon as you have entered it, you will find a colt tied, on which no one has sat. 
+            </Language>
+            <Language id="Arabic">
+               “إمضيا إلي هذه القرية التي امامكما، فتجدان أتاناً و جحشاَ ابن أتان.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">            
+               Loose it and bring it. And if anyone says to you, "Why are you doing this?" say, "The Lord has need of it, and immediately he will send it here." All this was done that it might be fulfilled which was spoken of by Zechariah, the prophet, saying,
+            </Language>
+            <Language id="Arabic">
+               فحلاهما و أتياني بهما. فان قال لكما أحد شيئاَ فقولا له ان الرب يحتاج جاء التلميذان اليهما“. فلما كما أمر هما وجدا الأتان و الجحش مربوطين، فحلاهما و أتيا بهما اليه كي يكمل ما قاله الرب من قبل النبي.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               "Shout, O daughter of Jerusalem! Behold, your King is coming to you; lowly and riding on a donkey, a colt, the foal of a donkey." How great is this wonder! He, Who sits on the Cherubim rode on a colt according to the economy. He sat on the earth and never left the heavens.
+            </Language>
+            <Language id="Arabic">
+               قولو الإبنة صهيون هوذا ملكك يأتيك راكباً علي اتان و جحش ابن اتان. فيالعِظَم هذه الاعجوبة. الجالس علي الشاروبيم ركب علي جحش اتان كالتدبير. هو جالس علي الارض و لم يترك عنه السموات. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">            
+               He sits in the bosom of His Father and was present in Jerusalem. The sons of the Hebrews spread their garments in His way. The Cherubim were covering their faces with their wings. They were worthily glorifying with unceasing lips saying, 
+            </Language>
+            <Language id="Arabic">
+               جالس في حضن ابيه و حاضر في أورشليم. اولاد العبرانيين فرشوا ثيابهم قدامُه. و الشاروبيم معاً يسترون وجوههم بأجنحتهم. و كانوا يمجدون باستحقاق بشفاة غير ساكتة ويقولون
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               "Blessed is the Glory of Lord in Salmon, the mount of His Holiness.“ They were praising and saying, "Hosanna to the Son of David." Blessed is the Lord Jesus Christ, Who came to save us. Glory be to Him forever. Amen.
+            </Language>
+            <Language id="Arabic">
+               تبارك مجد الرب في صلمون جبل قدسه. و كان هؤلاء يسبحون و يقولون أوصنا لابن داود. مبارك الرب يسوع المسيح الذي أتي ليخلصنا. له المجد.
+            </Language>
+         </Text>         
+      </Role>      
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Adam Exposition</Language>
+         <Language id="Arabic">طرح آدام</Language>
+      </Title>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               Then, as He was now drawing near the Mount of Olives, the whole multitude began to rejoice and praise God with a loud voice for all the mighty works they had seen, saying, "Hosanna to the son of David. Hosanna in the Highest. This is the King of Israel."
+            </Language>
+            <Language id="Arabic">
+               ما قرب يسوع المسيح من منحدر جبل الزيتون صاعداً إلي أورشليم ابتدأ كل جمع التلاميذ يفرحون و يسبحون الله بصوت عظيم من اجل القوات التي رأوها صارخين قائلين ”اوصنا لابن داود. اوصنا في الاعالي هذا هو ملك اسرائيل.“.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               The next day, when the great multitude that had come to the feast heard that Jesus was coming to Jerusalem, they took branches of palm trees and went out to meet Him, and cried out, "Hosanna to the Son of David."
+            </Language>
+            <Language id="Arabic">
+               و للغد الجمع الكثير الذي جاء الي العيد لما سمعوا أن يسوع سيأتي إلي أورشليم، اخذوا سعفاً بأيديهم و خرجوا للقائة يصرخون قائلين اوصنا لابن داود. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               And a very great multitude spread their garments on the road; others cut down branches from the trees and spread them on the road. Then the multitudes that went before Him, and those who followed Him cried out saying, "Hosanna to the Son of David."
+            </Language>
+            <Language id="Arabic">
+               و آخرون منهم قطعوا أغصاناً من الشجر و جاؤا بها بفرح و فرشوها في الطريق. و الذين كانوا يسيرون أمامه و الذين خلفه كانوا يصرخون قائلين أوصنا لابن داود.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               Rejoice greatly, O daughter of Zion! Behold, your King is coming to you, lowly, and sitting on a donkey, a colt, the foal of a donkey.” Then the multitudes went before and cried out, saying:
+            </Language>
+            <Language id="Arabic">
+               افرحي يا ابنة صهيون فانة قد جاء ملكك بمجد و كرامة و عظم بهاء راكباً علي جحش. و الجمع يمشي امامه صارخين قائلين: 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               “Hosanna to the Son of David! Blessed is He who comes in the Name of the LORD! Hosanna in the Highest, this is the King of Israel.”
+            </Language>
+            <Language id="Arabic">
+               اوصنا لاين داود. مبارك الملك الآتي باسم الرب. اوصنا في الاعالي هذا هو ملك اسرائيل..
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">            
+               There shall come forth a Rod from the stem of Jesse, and a Branch shall grow out of his roots. The Spirit of the Lord shall rest on Him; the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and of the fear of the Lord.  
+            </Language>
+            <Language id="Arabic">
+               يزهر قضيب من اصل يسي و تصعد زهرة و تطلع من وسطه و يستريح عليه روح الله روح الحكمة و روح القوة، روح الفهم و المشورة و روح العبادة. ويملأه الروح من مخافة الله..
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">            
+               O what a great wonder! He, Who sits on the Cherubim, and whom the Seraphim praise, and cover their faces for His divinity, rode a colt, as planned for our salvation. They bless You in the heavens and they glorify You on the earth
+            </Language>
+            <Language id="Arabic">
+               يالهذه الاعجوبة العظيمة. الجالس علي الشاروبيم و السيرافيم يسبحونه و يغطون وجوههم من أجل لاهوت، تفضل اليوم و ركب علي جحش أتان كالتدبير من أجل خلاصنا. يباركونك في السموات و يمجدونك علي الارض
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               and they shout saying, "Hosanna to the Son of David. Hosanna in the Highest. This is the King of Israel. Blessed is He, Who comes in the Name of the Lord of Hosts." To Him is glory, forever. Amen.
+            </Language>
+            <Language id="Arabic">
+               و يصرخون قائلين: أوصنا لابن داود أوصنا في الاعالي هذا هو ملك اسرائيل مبارك الآتي باسم رب القوات. و لعظمتة المجد دائماً آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Role>
+   </Section>
+</Document>

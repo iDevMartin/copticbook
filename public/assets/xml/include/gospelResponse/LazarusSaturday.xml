@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="RaisingOfIncense ^ LazarusSaturday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>       
+            <Language id="Arabic">مرد الإنجيل</Language>     
+            <Language id="Coptic">Zeos n~te hans~v/ri...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Lazarus Saturday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Zeos n~te hans~v/ri n/e~tauiri m~mwou: ]nah] e~tefmetjwri: je n~yof pe p~ouro n~te p~wou. 
+            </Language>
+            <Language id="English">
+               Many are the wonders, which were performed, I believe in His might, for He is the King of Glory.
+            </Language>
+            <Language id="Arabic">
+               كثيرة هي الأعاجيب التي صنعها أومن بجبروتة لأنه هو ملك المجد.
+            </Language>
+         </Text>
+                     
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>      
+   </Season>
+   
+   <Season id="Liturgy ^ LazarusSaturday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>     
+            <Language id="Arabic">مرد الإنجيل</Language>       
+            <Language id="Coptic">&lt;ere Lazaroc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Lazarus Saturday:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/gospelResponse/LazarusSaturdayLiturgy"/>                     
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>      
+   </Season>
+</Document>

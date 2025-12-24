@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday (The First Hour)</Language>
+         <Language id="Arabic">يوم الأثنين (الساعة الاولى)</Language>
+         <Language id="Coptic">Pie~hoou m~p~c~nau (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Genesis 1:1-2:3</Language>
+               <Language id="Arabic">تکوين 1: 1-2: 3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Genesis"/>
+      
+            <Text>
+               <Language id="Coptic">
+                  Qen ouar,/ a~v] yamio n~tve nem p~kahi: p~kahi de ne ouaynau e~rof pe ouoh n~atcob]. ouoh ou,aki naf,/ hijen v~noun. ouoh oup~neuma n~te Vnou] nafn/ou hijen nimwou.
+               </Language>
+               <Language id="English">
+                  In the beginning God made heaven and earth. The earth was invisible and unfinished; and darkness was over the deep. The Spirit of God was hovering over the face of the water.
+               </Language>
+               <Language id="Arabic">
+                  فى البدء خلق الله السماء والأرض. وكانت الأرض غير مرئية وغير مستعدة وعلى وجه الغمر ظلام وروح الله يرف على وجه المياه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je marefswpi n~je ououwini ouoh afwwpi n~je piouwini: Ouoh afnau n~je Vnou] e~piouwini je nanef: 
+               </Language>
+               <Language id="English">
+                  Then God said, "Let there be light"; and there was light. God saw the light; it was good; 
+               </Language>
+               <Language id="Arabic">
+                  وقال الله ليكن نور فكان نور. ورأى الله النور أنه حسن. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afvwrj ebol n~je Vnou] oute piouwini nem oute pi,ahi. Ouoh a~Vnou] mout e~piouwini je pie~hoou. Ouoh pi,aki afmou] e~rof je pie~jwrh. Ouoh a~rouhi swpi ouoh a~tooui~ supi m~pie~hoou n~hoit.
+               </Language>
+               <Language id="English">
+                  And God divided the light from the darkness. God called the light Day; the darkness He called Night; and there was evening and morning, one day. 
+               </Language>
+               <Language id="Arabic">
+                  وفصل الله بين النور والظلام. ودعا الله النور نهاراً والظلام دعاه ليلاً. وكان مساء وكان صباح يوماً أولاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je marefswpi n~je outajro. Oute y~m/] n~nimwou. Ouoh n~tef swpi efvwrj e~bol oute mwou nem oumwou. Ouoh acswpi m~pair/].
+               </Language>
+               <Language id="English">
+                  Then God said, "Let there be a firmament in the midst of the water, and let it divide the water from the water"; and it was so.
+               </Language>
+               <Language id="Arabic">
+                  وقال الله ليكن جلد متوسط بين المياه وليكن فاصل بين مياه ومياه فكان كذلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Vnou] yamio~ m~pitajro qen y~m/] m~pimwou. Ouoh afvwrj e~bol n~je Vnou] oute pimwou etcap~swi m~pitajro. Ouoh a~Vnou] mou] e~pitajro je t~ve.
+               </Language>
+               <Language id="English">
+                  Thus God made the firmament, and God divided the water under the firmament from the water above the firmament. So God called the firmament Heaven,
+               </Language>
+               <Language id="Arabic">
+                  فخلق الله الجلد فى وسط المياه وفصل الله بين المياه التى تحت الجلد والمياه التى فوق الجلد. ودعا الله الجلد سماء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau Vnou] je nanef. Ouoh a~rouhi swpi ouoh a~tooui swpi m~piehoou m~mah c~nau.
+               </Language>
+               <Language id="English">
+                  And God saw that it was good; and there was evening and morning, the second day.
+               </Language>
+               <Language id="Arabic">
+                  ورأى الله أن ذلك حسن. وكان مساء وكان صباح يوماً ثانياً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je marefywou] n~je pimwou etcaq~r/i n~t~fve e~ouma n~ywou] n~ouwt. Ouoh maref ouwnh e~bol n~je pisouie. Ouoh acswpi m~pair/]. 
+               </Language>
+               <Language id="English">
+                  Then God said, "Let the water under heaven be gathered together into one place, and let the dry land appear"; and it was so. 
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لتجتمع المياه التى تحت السماء إلى مجمع واحد وليظهر اليبس. وكان كذلك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auywou] n~je nimwou etcaq~r/i e~t~ve e~ouma n~you]: afouwnh e~bol n~je pisouie: 
+               </Language>
+               <Language id="English">
+                  The water under heaven was gathered into its places, and the dry land appeared.
+               </Language>
+               <Language id="Arabic">
+                  فاجتمعت المياه التى تحت السماء مجمعاً واحداً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afmou] n~je Vnou] e~pisouie je kahi.Ouoh niman~ywou] n~te nimwou afmou] e~rwou je nia~maiou: ouoh afnau n~je Vnou] je nanef.
+               </Language>
+               <Language id="English">
+                  So God called the dry land Earth, and the gathering together of the waters He called Seas; and God saw that it was good.
+               </Language>
+               <Language id="Arabic">
+                  وظهر اليبس ودعا الله اليبس أرضاً. ومجتمع المياه سماه بحاراً. ورأى الله ذلك أنه حسن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je mare p~kahi i~ni e~bol n~hanc~meh n~cim n~ci] n~jroj kata genoc nem kata i~ni: nem ous~s/n m~macoutah: efi~ri n~ououtah e~re pefjroj n~q/tf kata genoc hijen p~kahi: ouoh acswpi m~pair/]:
+               </Language>
+               <Language id="English">
+                  Then God said, "Let the earth bring forth the herb of grass, bearing seed according to its kind and likeness. Let the fruit tree bear fruit, whose seed is in itself according to its kind on earth." It was so.
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لتنبت الأرض نباتاً عشباً يبزر بزراً كجنسه وشكله وشجراً ذا ثمر يخرج ثمراً كجنسه بزره فيه على الأرض. وكان كذلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ap~kahi i~ni ebol nhanc~meh n~cim n~ci] n~jroj kata genoc nem kata i~ni: nem ouss/n m~macoutah efiri n~ououtah e~repefjroj n~q/tf kata genoc hijen p~kahi.
+               </Language>
+               <Language id="English">
+                  Thus the earth brought forth the herb of grass, bearing seed according to its kind and likeness. The fruit tree bore fruit, whose seed is in itself according to its kind on earth.
+               </Language>
+               <Language id="Arabic">
+                  فأخرجت الأرض نباتاً عشباً يبزر بزراً كجنسه وشجراً مثمراً يعمل ثمراً بزره فيه كجنسه على الأرض
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau n~je Vnou] je nanef: Ouoh a~rouhi swpi ouoh a~tooui~ swpi m~pie~hoou m~mah somt.
+               </Language>
+               <Language id="English">
+                  God saw that it was good. So evening and morning were the third day.
+               </Language>
+               <Language id="Arabic">
+                  ورأى الله ذلك أنه حسن. وكان مساء وكان صباح يوماً ثالثاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je marouswpi n~je hanreferouwini qen pitajro n~te t~ve eyrouerouwini hijen p~kahi ouoh n~tou vwrj ebol oute pie~hoou nem oute piwrh: 
+               </Language>
+               <Language id="English">
+                  Then God said, "Let there be lights in the firmament of heaven for illumination to divide day from night.
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لتكن أنوار فى جلد السماء لتنير على الأرض ولتفصل بين النهار والليل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh marouswpi e~hanm/ini nem hanc/ou nemhanehoou nem hanrompi: Ouoh marouswpi euerouwini qen pitajro n~te t~ve e~p~jin touerouwini hijen p~kahi. ouoh acswpi m~pair/]: 
+               </Language>
+               <Language id="English">
+                  Let them be for signs and seasons, and for days and years. Let them be for illumination in the firmament of heaven to give light on the earth." It was so.
+               </Language>
+               <Language id="Arabic">
+                  وتكون لآيات  أوقات وأيام وسنين. وتكون أنوار فى جلد السماء لتضئ على الأرض. فكان كذلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afyamio[oic n~je Vnou] m~pinis] c~nau n~referouwini: pinis] n~ref erouwini e~ouar,/ n~te pie~hoou: ouoh pikouji n~referouwini e~ouar,/ n~te pie~jwrh nem niciou:
+               </Language>
+               <Language id="English">
+                  Then God made two great lights: the greater light to rule the day, and the lesser light to rule the night. He made the stars also. 
+               </Language>
+               <Language id="Arabic">
+                  فخلق الله النيرين العظيمين. النور الأكبر لسلطان الـنهار. والنـور الأصغر لسلطان الليل مع النجوم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh af,au n~je Vnou] qen pitajro n~te t~ve hwc de n~touerouwini hijen p~kahi:
+               </Language>
+               <Language id="English">
+                  God set them in the firmament of heaven to give light on the earth, 
+               </Language>
+               <Language id="Arabic">
+                  وجعلها الله فى جلد السما لتضئ عـلى الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~touerar,wn e~pie~hoou nem pie~jwrh: ouoh n~tou vwrj e~bol oute piouwini nem oute pi,aki:
+               </Language>
+               <Language id="English">
+                  And to rule over the day and over the night, and to divide the light from the darkness.
+               </Language>
+               <Language id="Arabic">
+                  وتتسـلط على النهـار والليل ولتفصل بين النور والظلام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau n~je Vnou] je nanef:  Ouoh a~rouh swpi ouoh a~tooui~ swpi m~pie~hoou m~mah f~tou. 
+               </Language>
+               <Language id="English">
+                  God saw that it was good. So evening and morning were the fourth day.
+               </Language>
+               <Language id="Arabic">
+                  ورأى الله ذلك حسن. وكان مساء وكان صباح يوماً رابعاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je mare nimwou i~ni ebol n~han [atfi m~'u,/ euonq nem hanhala] euh/l hijen p~kahi kata pitajro n~te t~ve ouoh acswpi m~pair/]: 
+               </Language>
+               <Language id="English">
+                  Then God said, "Let the waters bring forth creatures having life, and let birds fly above the earth across the face of heaven's firmament." It was so.
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لتفض المياه زحافات ذات أنفس حية وطيوراً تطير فوق الأرض على وجه جلد السماء وكان كذلك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afyamio~ n~je Vnou] n~ninis] n~k/toc nem'u,/ niben etonq n~te ni[a~tfi n/eta nimwou e~nou e~bol kata genoc: nem hal/t niben e]h/l kata genoc: ouoh afnau n~je Vnou] je naneu.
+               </Language>
+               <Language id="English">
+                  Thus God made great sea creatures and every living thing that moves with which the waters abounded, according to their kind, and every winged bird according to its kind. God saw that it was good.
+               </Language>
+               <Language id="Arabic">
+                  فخلق الله الحيتان العظام. وكل ذى نفس حية من الهوام التى فاضت بها المياه كأجناسها. وكل طائر ذى جناح كجنسه. ورأى الله ذلك أنه حسن 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afc~mou e~rwou n~je Vnou] efjw m~moc je aiai ouoh a~sai ouoh mah nimwou etqen niamaiou. ouoh nihala] maroua~sai hijen p~kahi:
+               </Language>
+               <Language id="English">
+                  God blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on earth."
+               </Language>
+               <Language id="Arabic">
+                  وباركها الله قائلاً : إنمى وإكثرى واملأى المياه فى البحار وليكثر الطير على الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~rouhi swpi ouoh a~tooui swpi m~pie~hoou m~mah t~iou.
+               </Language>
+               <Language id="English">
+                  So evening and morning were the fifth day.
+               </Language>
+               <Language id="Arabic">
+                  وكان مساء وكان صباح يوماً خامساً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je mare p~kahi i~ni e~bol nou'u,/ econq hanftevat nem han[atfi nem hany/rion n~te p~kahi kata genoc nem [atfi t/rou n~te p~kahi kata genoc: ouoh acswpi m~pair/]: 
+               </Language>
+               <Language id="English">
+                  Then God said, "Let the earth bring forth the living creature according to its kind: the quadrupeds, the creeping things, and the wild animals of the earth according to their kind." It was so. 
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لتخرج الأرض أنفس حية ذوات أربع وهوام ووحوش الأرض كأجناسها 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afyamio n~je Vnou] n~niy/rion t/rou nte p~kahi kata genoc nem nitebnwoui~ kata genoc nem ni[atfi t/rou n~te p~kahi kata genoc: ouoh afnau n~je Vnou] je naneu.
+               </Language>
+               <Language id="English">
+                  So God made the wild animals of the earth according to their kind, the cattle according to their kind, and all the creeping things on earth according to their kind. God saw that it was good.
+               </Language>
+               <Language id="Arabic">
+                  وكل دبابات الأرض كأجناسها. والبهائم كأجناسها. وكل دبابات الأرض كأجناسها. ورأى الله ذلك أنه حسن.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je marenyamio n~ourwmi kata tenhukwn nem kata peni~ni ouoh marouera,wn enitebt nte v~iom nem nihala] n~te t~ve nem nitebnwoui nem p~kahi t/rf: nem [a~tfi niben etkim hijen p~kahi:
+               </Language>
+               <Language id="English">
+                  Then God said, "Let Us make man in Our image, according to Our likeness. Let them have dominion over the fish of the sea, over the birds of heaven, over the cattle, and over all the earth, and over every creeping thing that moves on the earth."
+               </Language>
+               <Language id="Arabic">
+                  وقال الله لنخلق أنساناً على صورتنا وكمثالنا. وليتسلط على سمك البحر وطير السماء. والبهائم وعلى جميع الأرض. وكل ما يدب ويتحرك على الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Vnou] yamio m~pirwmi kata ]hukwn n~te Vnou] afyamiof: afyamiwou n~ouhwout nem ouc~himi:
+               </Language>
+               <Language id="English">
+                  God made man; in the image of God He made him; male and female He made them.
+               </Language>
+               <Language id="Arabic">
+                  فخلق الله الإنسان على صورته على صورة الله خلقه. ذكراً وأنثى خلقهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afc~mou e~rwou n~je Vnou] eujw m~moc je aiai ouoh a~sai ouoh mah p~kahi ouoh a~ri [oic e~jwf
+               </Language>
+               <Language id="English">
+                  Then God blessed them; and God said to them, "Be fruitful and multiply; fill the earth and subdue it,
+               </Language>
+               <Language id="Arabic">
+                  وباركهم الله قائلاً : إنموا وإكثروا وإملأوا الأرض وسودوا عليها,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~riar,wn e~nitebt n~te v~iom: nem nihala] n~te t~ve: nem nitebnwoui~ t/rou nem p~kahi t/rf: nem [a~tniben etkim hijen pikahi:
+               </Language>
+               <Language id="English">
+                  And have dominion over the fish of the sea, over the birds of heaven, and over every living thing that moves on the earth."
+               </Language>
+               <Language id="Arabic">
+                  وتسلطوا على سمك البحر وطير السماء وجميع البهائم وسائر الأرض. وكل الهوام التى تدب على الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje Vnou] je h/ppe ai]nwten n~cim niben n~ci] m~pci] n~oujroj v/et,/ hijen p~kahi t/rf.
+               </Language>
+               <Language id="English">
+                  Then God said, "Behold, I have given you every seed-bearing herb that sows seed on the face of all the earth,
+               </Language>
+               <Language id="Arabic">
+                  وقال الله: ها قد أعطيتكم كل عشب مزروع يبزر بزراً على وجه الأرض كلها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem ss/n niben e~te pefoutah n~q/tf n~jroj n~ci] eue~ swpi nwten euq~re:
+               </Language>
+               <Language id="English">
+                  And every tree whose fruit yields seed; to you it shall be for food.
+               </Language>
+               <Language id="Arabic">
+                  وكل شجرة فيه ثمر يبزر بزراً يكون لكم طعاماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                    Nem niy/rion t/rou n~te p~kahi nem nihala] t/rou n~te t~ve nem [a~tfi niben etkim hijen pkahi e~touon ou'u,/ n~wnq ,/ m~mof nem cim niben e~touetouwt e~ouq~re ouoh acswpi m~pair/]:
+               </Language>
+               <Language id="English">
+                  I also give every green plant as food for all the wild animals of the earth, for all the birds of heaven, and for everything that creeps on the earth in which is the breath of life." It was so.
+               </Language>
+               <Language id="Arabic">
+                  ولجميع وحوش الأرض وكل طير السماء. وكل ما يدب ويتحرك على الأرض. مما فيه نفس حية. أعطيت كل عشـب أخضر طعاماً. وكان كذلك.  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau n~je Vnou] e~hwb niben e~tafyamiw~ou ouoh h/ppe naneu emasw ouoh a~rouhi swpi ouoh a~tooui~ swpi m~piehoou m~mah coou.
+               </Language>
+               <Language id="English">
+                  Then God saw everything He had made, and indeed, it was very good. So evening and morning were the sixth day.
+               </Language>
+               <Language id="Arabic">
+                  رأى الله جميع ما خلقه فأذا هو حسن جداً. وكان مساء وكان صباح يوماً سادساً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aujwk e~bol n~je t~ve nem p~kahi nem poucolcel t/rf:
+               </Language>
+               <Language id="English">
+                  Thus heaven and earth and all their adornment were finished.
+               </Language>
+               <Language id="Arabic">
+                  فأكملت السماء والأرض وكل زينتها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Vnou] jek n~nef h~b/oui~ e~bol n/e~t afyamiwou qen pie~hoou m~mah coou: 
+               </Language>
+               <Language id="English">
+                  And on the seventh day God finished the works He made,
+               </Language>
+               <Language id="Arabic">
+                  وأكمل الله أعماله التى خلقها فى اليوم السادس. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afm~ton m~mof m~pie~hoou m~mah sasf e~bolha nefhb/oui~ t/rou n/e~tafyamiw~ou:
+               </Language>
+               <Language id="English">
+                  And He rested on the seventh day from all the works He made.
+               </Language>
+               <Language id="Arabic">
+                  وأستراح فى اليوم السابع من جميع أعماله التى صنعها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Vnou] c~mou e~pie~hoou m~mah sasf ouoh: aftoubof je n~q~r/i n~q/tf am~ton m~mof e~bol ha nefhb/oui~ t/rou: n/e~taferh/tc n~yamiw~ou n~je Vnou].
+               </Language>
+               <Language id="English">
+                   Then God blessed the seventh day and sanctified it, because in it He rested from all His works God began to make.
+               </Language>
+               <Language id="Arabic">
+                  وبارك الله اليوم السابع وقدسه. لأن فيه أستراح من جميع أعماله التى ابتدأ الله بخلقتها.
+               </Language>
+            </Text>
+               
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 5:1-9</Language>
+               <Language id="Arabic">إشعياء 5: 1-9</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eie~]w~ou m~v/e~taumenritf qen oujw n~te pimenrit n~te pai iaha~loli:
+               </Language>
+               <Language id="English">
+                  "Now I will sing to My Beloved a song of My Beloved regarding My vineyard:
+               </Language>
+               <Language id="Arabic">
+                  أمجد الذى أحبه بنشيد حبيب هذا الكرم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouma n~a~loli afswpi m~pimenrit qen ouhwp qen ouma efkeniw~out: ouoh aitakto n~ou[~lo e~rof ouoh aitalof e~p~kas
+               </Language>
+               <Language id="English">
+                  There was a vineyard for My Beloved, a place in power and richness. He placed a wall around it and fortified it.
+               </Language>
+               <Language id="Arabic">
+                  كان للحبيب كرم فى رابية. فى موضع خصب. فاحطت به سياجاً ورفعته على القصب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ai[o n~oubw n~a~loli qen Ewr/, ouoh aikwt n~oupurgoc n~q/tf qen tefm/]: 
+               </Language>
+               <Language id="English">
+                  He planted it with the choicest vine. He built a tower in its midst and also made a winepress in it.
+               </Language>
+               <Language id="Arabic">
+                  وغرست كرماً فى سورق وبنيت فيه برجاً فى وسطه. وحفرت فيه معصرة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ouoh aiswk n~ouhrwt n~q/tf. Ouoh aiohi je f~naera~loli afercouri.
+               </Language>
+               <Language id="English">
+                   So I waited for it to bring forth grapes, but it produced thorn-plants.
+               </Language>
+               <Language id="Arabic">
+                  وأنتظرت أن يخرج عنباً فأخرج شوكاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou v~rwmi n~Iouda nem n/etsop qen Ieroucal/m mahap outwi nem oute paiah a~loli aiohi je f~naera~loli afercouri. 
+               </Language>
+               <Language id="English">
+                  And now, man of Judah and inhabitants of Jerusalem, judge between Me and My vineyard.
+               </Language>
+               <Language id="Arabic">
+                  والآن يا رجال يهوذا وسكان أورشليم. أحكموا بينى وبين كرمى 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oupe ]naaif m~paiaha~loli: ouoh m~piaif e~rof. 
+               </Language>
+               <Language id="English">
+                  What shall I yet do for My vineyard that I have not done for it?
+               </Language>
+               <Language id="Arabic">
+                  أى شئ يصنع لكرمى وأنا لم أصنعه به.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                    }narwqt m~pef[~lo je aioh~i je f~naer a~loli afercouri:
+               </Language>
+               <Language id="English">
+                  For I waited for it to bring forth grapes, but it produced thorn-plants.
+               </Language>
+               <Language id="Arabic">
+                   لأنى رجوت أن يخرج عنباً فأخرج شوكاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou de ]natamwten.je oupe]naaif m~pa iaha~loli: ouoh efe~swpi e~p~hwlem: ]nasorser n~tefjoi ouoh efe~swpi e~p~qomqem: 
+               </Language>
+               <Language id="English">
+                  But now I will tell you what I shall do to My vineyard: I shall remove its wall and it shall be for booty. I shall break down its wall and it shall be trampled underfoot.
+               </Language>
+               <Language id="Arabic">
+                  فالآن أعلمكم ماذا أفعل بكرمى. أقلع سياجه فيصير للنهب. وأهدم جوسقه فيكون مدوساً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~cwjp m~pai iaha~loli m~v~r/] n~ouesensatf oude n~nou [~r/ m~mof: ouoh eue~rwt n~q/tf n~je hancouri m~v~r/] n~ou kapso: eie~honhen e~totou n~ni[/pi e~s~temhwou n~oumou n~w~si e~h~r/i e~jwf.
+               </Language>
+               <Language id="English">
+                  I will forsake My vineyard. It shall not be pruned or cultivated, but thorns shall sprout forth as in a barren land. I will also command the clouds not to rain on it."
+               </Language>
+               <Language id="Arabic">
+                  وأهمل هذا الكرم لا يقضب ولا يفلح وينبت فيه الشوك مثل السلا. وأوصى السحاب ألا تمطر عليه مطراً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piiaha~loli gar n~te P[oic cabawy pe p~/i m~p~Icra/l: ouoh v~rwmi n~Iouda pitwji m~beri pee~taumenritf:
+               </Language>
+               <Language id="English">
+                  For the vineyard of the Lord of hosts is the house of Israel, and the man of Judah is His beloved plant. 
+               </Language>
+               <Language id="Arabic">
+                  لأن كرم رب الصباؤوت هو بيت اسرائيل. ورجال يهوذا الغرس الجديد المحبوب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aiohi je f~nai~ri n~ouhap afi~ri n~oua~nomia~: ouoh n~oumeym/i an alla ouqrwou: 
+               </Language>
+               <Language id="English">
+                  I waited for it to bring forth judgment, but it brought forth lawlessness, and not righteousness, but a cry. 
+               </Language>
+               <Language id="Arabic">
+                  رجوت أن يصنع إنصافاً فصنع إثماً. وعدلاً فاذا صراخ.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi n~n/ettem /i e~/i nem n/etqent iohi eiohi hina n~touwli n~nien,ai n~te nous~v/r: 
+               </Language>
+               <Language id="English">
+                  Woe to those who join house to house, who add field to field, to take something from their neighbor. 
+               </Language>
+               <Language id="Arabic">
+                  ويل للذين يصلون بيتاً ببيت. ويقرنون حقلاً بحقل. لكى يسلبوا أصحابهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ teten naswpi m~maua~ten y/nou hijen p~kahi: aucwtem nai gar qen nenmasj m~P[oic cabawy.
+               </Language>
+               <Language id="English">
+                  Surely you will not dwell alone in the land. For these things reached the ears of the Lord of hosts.
+               </Language>
+               <Language id="Arabic">
+                  إذن أنتم تسكنون الأرض وحدكم. قد سمع هذا فى مسامع رب الصباؤوت.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 1:1-24</Language>
+               <Language id="Arabic">سيراخ 1: 1-24</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Tcovia~ t/rc ou e~bol hiten P[oic: ouoh c~sop nemaf sa e~neh: nim eynaswp m~pisw n~te v~iom nem niteltili m~mounhwou nem nie~hoou n~te nie~neh:
+               </Language>
+               <Language id="English">
+                  All wisdom comes from the Lord and is with Him forever. Who can count the sand of the seas, the drops of rain, and the days of eternity?
+               </Language>
+               <Language id="Arabic">
+                  كل الحكمة فهى من قبل الرب. وهى دائمة معه إلي الأبد. من يقدر أن يحصى رمل البحر. وقطرات المطر وأيام الدهور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem eynas~qotqet m~pi[ici n~te t~ve: nem p~tajro m~pikahi nem p~s/k m~v~noun nem ]covia~:
+               </Language>
+               <Language id="English">
+                  Who can search out the height of heaven, the breadth of the earth, the abyss, and wisdom? 
+               </Language>
+               <Language id="Arabic">
+                  من يستطيع أن يمسح علو السماء. ورحب الأرض وعمق الغمر والحكمة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qajen en,ai niben aucwnt n~]covia~ ouoh ]metcabe nem pika] icjen p~e~neh: }moumi n~te ]covia~ pe picaji n~te Vnou] qen n/e[oci: ouoh necmwit: ne nientol/ sa e~neh. Ynouni n~]covia~ e~tac[wrp e~nim ouoh nim pee~tafe~mi e~neckotc: p~ka] n~]covia e~tafouwnh e~nim:
+               </Language>
+               <Language id="English">
+                  Wisdom was created before all things, and the insight of prudence was from eternity. To whom has the root of wisdom been revealed? And who has come to know her great deeds?
+               </Language>
+               <Language id="Arabic">
+                  قبل كل شئ حيزت الحكمة. لمن أستعلن أصل الحكمة. ومن عرف خفاياها لمن تجلت معرفة الحكمة. ومن أدرك كثرة خبرتها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pece~mi t/rf nim pee~taf couwnf ouwt pe oucovoc ef] ho] e~masw efhemci hijen pefy~ronoc:
+               </Language>
+               <Language id="English">
+                  There is one who is wise and is feared exceedingly, He who sits upon His throne.
+               </Language>
+               <Language id="Arabic">
+                  واحد هو حكيم عظيم المهابة جالس على عرشه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic de n~yof v/e~tafcontc ouoh afnau e~roc afopc: ouoh afvwn m~moc e~h~r/i e~jen nech~b/oui~ t/rou:
+               </Language>
+               <Language id="English">
+                  The Lord Himself created wisdom. He saw and numbered her and poured her out on all His works,
+               </Language>
+               <Language id="Arabic">
+                  الرب هو الذى حازها ورآها وأحصاها. وأفاضها على جميع أعمالها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cswp nem carx niben kata v~r/] e~tefnat/ic. ouoh saft/ic n~n/eymei m~mof.
+               </Language>
+               <Language id="English">
+                  In the midst of all flesh according to His gift; and He provided her for those who love Him.
+               </Language>
+               <Language id="Arabic">
+                  فهى مع كل ذى جسد على حسب عطيته. وقد منحها لمحبيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }ho] n~te P[oic ouwou te nem ou sousou: nem ouounof te nem ou ,~lom n~yel/l.
+               </Language>
+               <Language id="English">
+                  The fear of the Lord is glory and boasting, and gladness and a crown of rejoicing.
+               </Language>
+               <Language id="Arabic">
+                  مخافة الرب هى مجد وفخر. وسرور وأكليل فرح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Sare ]ho] n~te P[oic ]erouwt m~pih/t: sac] n~ouounof nem ourasi ne ouei n~te hane~hoou: v/eterho] qath/ m~P[oic: pipeynanef naswpi naf qen te qae~: ouoh eue~a~moni m~mof qen pie~hoou n~]e pefmou: 
+               </Language>
+               <Language id="English">
+                  The fear of the Lord will cheer the heart and will give gladness, joy, and long life. For those who fear the Lord, it shall be well to the utmost, and on the day of his death, he will be blessed. 
+               </Language>
+               <Language id="Arabic">
+                  مخافة الرب تبهج القـلب. وتـعطى فرحاً وسروراً وطول أيام. المتقى الـرب يكون لـه الخير فى آخرته. وينـال حظـوة فـى مـوته.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tar,/ n~]covia pe e~erho] qath/ m~P[oic: ouoh aucontc nem nipictoc qen to]: auhicen] m~moc saeneh nem nirwm ouoh c~naten houtc nem poujroj. 
+               </Language>
+               <Language id="English">
+                  The beginning of wisdom is to fear the Lord, and she was joined with the faithful in the womb. She constructed a foundation of life among men and will be trusted among their seed. 
+               </Language>
+               <Language id="Arabic">
+                  رأس الحكمة مخافة الرب. أنها تولدت فى الرحم مع المؤمنين وتأسست مع البشر مدى الدهر. وهى تثبت مع نسلهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pcai n~]covia~ pe e~erho] qath/ m~P[oic: ouoh ouon ouounof e~bol qen neckarpoc: 
+               </Language>
+               <Language id="English">
+                  The gratification of wisdom is to fear the Lord, and she intoxicates them with her fruits.
+               </Language>
+               <Language id="Arabic">
+                  كمـال الـحكمة مخافة الرب. والفـرح من ثمارها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Sacmah pec/i t/rf n~n/etcwtp: ouoh nec twbi hane~bolqen necgen/ma ne:
+               </Language>
+               <Language id="English">
+                  She will fill every house of theirs with objects of desire and their storehouses with her harvest.
+               </Language>
+               <Language id="Arabic">
+                  تملأ كل بيتها من المختارين. وترويهم مـن عصيرها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P,lom n~]covia~ pe ]ho] n~te Vnou] ec]ouw n~ouh~r/ ri nem ouh~mot n~tal[o: afnau e~roc afopc: afbebi m~pika] nem pie~mi nem ]metcabe: af[ici m~p~w~ou m~v/et a~moni m~moc.
+               </Language>
+               <Language id="English">
+                  The fear of the Lord is the crown of wisdom, making peace and soundness of health to flourish. The Lord saw and numbered her, and poured out the power of comprehension; and He exalted the glory of those who hold fast to her.
+               </Language>
+               <Language id="Arabic">
+                  تاج الحكمة مخافـة الله. وهى تنشئ زهرة ونعمة الشفاء. قد رآها وأحصاها وأفاض الفهم والمعرفة والعلم. ورفع مجد المتمسك بها.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba Shenouda the Archimandrite</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا شنودة رئيس المتوحدين</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaIntro"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eswp je ]nou w~ni e~n/ou tenouws e~er e~bol e~nenjij m~Vnou] ouoh n~tenjimi n~ounai nahraf marenhemci e~q~r/ n~rouhi m~m/ni ca p~ca m~maua~ten: menenca p~jwk m~pie~hoou n~tenqetqwten m~min m~mon: je e~tan] nou m~piaggeloc eterdiakonin e~ron eyref enf e~p~swi haP[oic.
+               </Language>
+               <Language id="English">
+                  Brethren, if we want to escape God’s punishment and find mercy in his eyes, let us sit every evening alone by ourselves and search our souls for what we presented to our guardian angel to offer to the Lord.
+               </Language>
+               <Language id="Arabic">
+                  يا أخوة. إن كنا نريد الآن أن نفلت من يدى عقاب الله. ونجد رحمة أمامه. فلنجلس بالعشاء كل يوم منفردين وحدنا عند كمال النهار. ونفتش ذواتنا عما قدمناه للملاك الذى يخدمنا (الملازم لنا) ليصعده إلى الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh on aresan pie~jwrh jwkebol. ntefi~ e~p~swi n~,e piouwini n~tenqetqwten m~mauaten ouoh n~tene~mi jeoupe e~tennat/if m~piaggeloc ety/s e~ron: eyrefenf ep~swi ha Vnou]: 
+               </Language>
+               <Language id="English">
+                  Again, as the night goes by and a new day dawns and light prevails, let us search ourselves to know what we presented to our companion angel to offer to God. 
+               </Language>
+               <Language id="Arabic">
+                  وأيضاً إذا إنقضى الليل وطلع النهار (وأشرق النور) نفتش ذواتنا وحدنا ونعلم ما الذى قدمناه للملاك الموكل بنا ليصعده إلى الله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh mper[icanic holwc e~bol: je rwmi niben i~tehwout: i~te c~himi i~tekouji: ite nis]: e~af[iwmc e~v~ran m~v~iwt nem p~s/ri nem pip~neuma eyouab: sare Vnou] ,w n~oua~ggeloc efy/s e~rof: sapie~hoou ntepefmou: 
+               </Language>
+               <Language id="English">
+                  Let it be beyond doubt that everyone of us—male or female—young or old, who was baptized in the name of the Father, the Son and the Holy Spirit has been assigned to a designated angel until the day of his death;
+               </Language>
+               <Language id="Arabic">
+                  ولا نشك البتة لأن كل أنسان ذكراً كان أو أنثى صغيراً أو كبيراً. قد أعتمد بإسم الآب والإبن والروح القدس قد جعل الله له ملاكاً موكلاً به إلى يوم وفاته. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  efi~ni e ps~wi harof m~m/ni n~nih~b/oui~ n~te pirwmi e~tefjal/out e~rof napiehoou nem napiejwrh:
+               </Language>
+               <Language id="English">
+                  To report to him every day what his assigned individual has done by day or by night.
+               </Language>
+               <Language id="Arabic">
+                  وليصعد إليه كل يوم أعمال الإنسان الموكل به (الليلية والنهارية)
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  e~boljenafoi n~ate~mi an n~jeVnou] e~nenhb/oui~ n~necswpi: alla fcwoun m~mwou n~qouo: 
+               </Language>
+               <Language id="English">
+                  Not that God is unaware of what we have done. Heavens forbid. He is more knowledgeable about it. 
+               </Language>
+               <Language id="Arabic">
+                  ليس لأن الله غير عارف بأعمالنا. حاشا. بل هو عارف بها أكثر. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kata v~r/] etc~q/out: jeic nenbal m~P[oic cejoust n~c/ou niben qen mai niben e~jen n/eti~ri mpipethwou nem n/eti~ri m~pipeynanef:
+               </Language>
+               <Language id="English">
+                  As is written, the eyes of the Lord are watching all the time everywhere on those who commit evil and on those who do good.
+               </Language>
+               <Language id="Arabic">
+                  كما هو مكتوب أن عينى الرب ناظرة كل حين فى كل مكان على صانعى الشر وفاعلى الخير.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla hanrefsemsi ne e~tafyasou hi nai n~je pidumiourgoc m~p~t/rf: eybe n/eynaer k~l/ronomin n~ounohem.
+               </Language>
+               <Language id="English">
+                  Rather the angels are servants installed by the Creator of the universe for those who will inherit the salvation.
+               </Language>
+               <Language id="Arabic">
+                  إنما الملائكة هم خدام قد أقامهم خالق الكل. من أجل المزمعين لوراثة الخلاص.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الاولى، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 71:18-19</Language>
+               <Language id="Arabic">مزمور 71: 18-19</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  F~c~marwout n~je P[oic Vnou] m~piIcra/l: v/eti~ri n~hansv/ri m~mauatf. 
+               </Language>
+               <Language id="English">
+                  Blessed is the Lord God, the God of Israel, who alone does wondrous things; 
+               </Language>
+               <Language id="Arabic">
+                  مبارك الرب إله اسرائيل الصانع العجائب وحده. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  F~c~marwout n~je piran eyouab n~te pefw~ou sae~neh: ece~swpi ece~swpi: All/louia.
+               </Language>
+               <Language id="English">
+                  And blessed is the name of His glory forever and unto ages of ages. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  مبارك أسم مجده القدوس إلى الأبد يكون يكون. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 11:12-24</Language>
+            <Language id="Arabic">مرقس 11: 12-24</Language>
+         </Title>
+            
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~pefrac] e~taui[oic ebol qen e~B/ya~nia~ afh~ko: 
+               </Language>
+               <Language id="English">
+                  Now the next day, when they had come out from Bethany, He was hungry. 
+               </Language>
+               <Language id="Arabic">
+                  وفى الغد لما خرجوا من بيت عنيا جاع. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafnau e~oubw n~kente hivouei e~ouon hanjwbi hiwtc afi~ de hara afnajem h~li hiwtc 
+               </Language>
+               <Language id="English">
+                  And seeing from afar a fig tree having leaves, He went to see if perhaps He would find something on it.
+               </Language>
+               <Language id="Arabic">
+                  فرأى شجرة تين عن بعد وكان عليها ورق. فجاء إليها لعله يجد فيها شيئا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ e~jwc m~pefjem h~li e~b/l e~hanjwbi: ne p~c/ou gar n~kente an pe: 
+               </Language>
+               <Language id="English">
+                  When He came to it, He found nothing but leaves, for it was not the season for figs. 
+               </Language>
+               <Language id="Arabic">
+                  فلما جاء إليها لم يجد شيئا إلا ورقا لأنه لم يكن وقت التين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafe~rouw~ n~je I/couc pejaf nac je n~neh~li je ouem outah hiw~] sae~neh ouoh naucwtem n~je nefmay/t/c.
+               </Language>
+               <Language id="English">
+                  In response Jesus said to it, “Let no one eat fruit from you ever again.” And His disciples heard it.
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال لها لا يأكل أحد منك ثمرة بعد إلى الأبد. وكان تلاميذه يسمعون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aui~ e~Ieroucal/m ouoh e~tafi~ e~qoun n~je I/couc e~piervei aferh/tc n~hioui~ e~bol n~n/t/rou et] e~bol nem n/etswp qen piervei
+               </Language>
+               <Language id="English">
+                  So they came to Jerusalem. Then Jesus went into the temple and began to drive out those who bought and sold in the temple,
+               </Language>
+               <Language id="Arabic">
+                  وجاءوا إلى أورشليم ولما دخل يسوع الهيكل ابتدأ يخرج الذين كانوا يبيعون ويشترون فى الهيكل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nit~rapeza n~te nikolibict/c nem nikayedra n~te n/et] [~rompi e~bol afcocou:
+               </Language>
+               <Language id="English">
+                   And overturned the tables of the money changers and the seats of those who sold doves.
+               </Language>
+               <Language id="Arabic">
+                   وقلب موائد الصيارفة وكراسى باعة الحمام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naf,w nhli an pe hina ntefen ouc~keuoc e~bolhiten piervei: 
+               </Language>
+               <Language id="English">
+                  And He would not allow anyone to carry wares through the temple. 
+               </Language>
+               <Language id="Arabic">
+                  ولم يدع أحداً يجتاز الهيكل بمتاع. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naf]c~bw ouoh nafjw m~moc nwou je c~cq/out je pa/i eue~mou] e~rof je ou/i m~p~roceu,/ n~nieynoc t/rou n~ywten de a~retenaif m~b/b n~coni.
+               </Language>
+               <Language id="English">
+                  Then He taught, saying to them, “Is it not written, ‘My house shall be called a house of prayer for all nations’? But you have made it a ‘den of thieves.’”
+               </Language>
+               <Language id="Arabic">
+                  وكان يعلم قائلاً لهم أليس مكتوباً أن بيتى بيت الصلاة يدعى لجميع الأمم. وأنتم جعلتموه مغارة للصوص.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aucwtem n~je niar,/e~reuc nem nicaq ouoh naukw] je aunatakof n~as n~r/] nauerho] gar pe qatefh/ pim/s gar t/rf nauers~v/ri e~jen tefc~bw: 
+               </Language>
+               <Language id="English">
+                  And the scribes and chief priests heard it and sought how they might destroy Him; for they feared Him, because all the people were astonished at His teaching. 
+               </Language>
+               <Language id="Arabic">
+                  وسمع رؤساء الكهنة والكتبة وكانوا يطلبون بأى نوع يهلكونه لأنهم كانو يخافونه لأن الجمع كله كان يتعجب من تعليمه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~swp n~te rouhi swpi nafh/l cabol n~]baki:
+               </Language>
+               <Language id="English">
+                  When evening had come, He went out of the city.
+               </Language>
+               <Language id="Arabic">
+                  وإذا كان المساء خرج إلى خارج المدينة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh euciniw~ou n~hana~tooi~ afnau e~]bw n~kente e~acswoui~ hi tecnouni:
+               </Language>
+               <Language id="English">
+                  Now in the morning, as they passed by, they saw the fig tree dried up from the roots.
+               </Language>
+               <Language id="Arabic">
+                  وفى الصباح إذ كانوا مجتازين رأوا التينة قد يبست من أصلها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~etafervmeui n~je Petroc pejaf naf je rabbi ic ]bw n~kente etakcahoui~ e~roc acswoui~:
+               </Language>
+               <Language id="English">
+                  And Peter, remembering, said to Him, “Rabbi, look! The fig tree which You cursed has withered away.”
+               </Language>
+               <Language id="Arabic">
+                  فتذكر بطرس وقال له. ربى ها أن التينة التى لعنتها قد يبست.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taferouw~ n~je I/couc pejaf nwou je ,aounah] n~te Vnou] n~teny/nou: A~m/n gar ]jwm~moc nwten je v/eynajoc m~paitwou je fitk ouoh hitk e~v~iom ouoh n~tefs~tem [icanic qen pefh/t alla n~tefnah] je v/e~tefjwm~mof f~naswpi efe~swpi naf:
+               </Language>
+               <Language id="English">
+                  So Jesus answered and said to them, “Have faith in God. For assuredly, I say to you, whoever says to this mountain, ‘Be removed and be cast into the sea,’ and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says.
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال لهم ليكن لكم إيمان بالله. لأنى الحق أقول لكم أن من يقول لهذا الجبل إنتقل وإنطرح فى البحر وهو لا يشك فى قلبه بل يؤمن بأن ما يقوله يكون فإنه يكون له.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai ]jwm~moc nwten je hwb niben e~tetennaere~tin m~mof qen oup~roceu,/ nah] je a~reten[i ouoh ece~swpi nwten.
+               </Language>
+               <Language id="English">
+                  Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them.
+               </Language>
+               <Language id="Arabic">
+                  فلأجل ذلك أقول لكم أن كل شئ تسألونه فى الصلاة آمنوا أنكم تنالونه فيكون لكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  In the beginning God created the heavens and the earth and adorned them with His Spirit. He covered darkness and unveiled the light, and distinguished between them with new names. He called the light day and the darkness night. He created all these in the same day with wisdom and prudence. 
+               </Language>
+               <Language id="Arabic">
+                  فى البدء خلق الله السماء والأرض وزينها هكذا بروح فيه وغطى الظلمة وأخرج النور وفرق بينهما بأسماء جديدة. ودعا النور نهاراً ودعا الظلمة ليلاً. وفى ذلك اليوم خلق هذه جميعها بحكمة وفهم رفيع. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  On the second day God created the firmament and separated between waters and waters. God established the waters above the firmament and called them Heaven.
+               </Language>
+               <Language id="Arabic">
+                  وفى اليوم الثانى خلق الله جلد السماء وفصل بين مياه ومياه. وبعد هذا ثبت الله الماء العلوى وأسماه سماء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  On the third day He gathered the waters and made the land appear over the waters, and on the fourth day God created the sun, the moon and the multitude of stars.
+               </Language>
+               <Language id="Arabic">
+                  وفى اليوم الثالث جمع المياه وثبت الأرض فوق المياه والشمس والقمر وكثرة النجوم خلقها الله فى اليوم الرابع.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  On the fifth day God created the birds, the big whales, the farm animals and all kinds of grass, plants and fruit yielding trees.
+               </Language>
+               <Language id="Arabic">
+                  والهوام و الطير والحيتان الكبار وحيوانات الحقل فى اليوم الخامس. وأجناس الشجر وزرع الحقل والعشب المزروع المثمر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  On the sixth day God created Adam the first man and a companion for him from his own flesh, male and female as designated; and gave them dominion over all the creatures He created.
+               </Language>
+               <Language id="Arabic">
+                  وفى اليوم السادس خلق المخلوق الحي العظيم آدم أول البشر ومعينة له من جسده ذكراً وأنثى كالتدبير. هذان جعلهما رؤساء على جميع أعماله التى خلقها الخالق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  God rested on the seventh day from all the work which He had done. These are the designs of the Creator and the Initiator of all creation.
+               </Language>
+               <Language id="Arabic">
+                  وأستراح فى اليوم السابع لأن فيه أكمل جميع أعماله. هذا تدبير الخالق ومؤسس كل الموجودات.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

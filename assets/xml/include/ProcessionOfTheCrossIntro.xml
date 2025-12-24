@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">   
+      <Group>
+         <Season id="HosannaSunday">
+            <Group>
+               <Season id="Vespers">
+                  <Comment>
+                     <Language id="English">
+                        There is no procession around the church during Vespers on Hosanna Sunday. The icon of Christ entering into Jerusalem is censed and the hymn <span class="Coptic">Eulogimenoc</span> is chanted.
+                     </Language>
+                  </Comment>
+               </Season>
+               
+               <Season id="Matins">
+                  <Comment>
+                     <Language id="English">
+                        They then carry the icon of Christ’s entry into Jerusalem along with the palms and olive branches and proceed around the altar three times while chanting <span class="Coptic">Eulogimenoc</span>:
+                     </Language>
+                  </Comment>
+               </Season>
+            </Group>
+            
+            <InsertDocument path="include/Eulogimenoc"/>         
+         </Season>
+         
+         <Season id="FeastOfTheCross">         
+            <InsertDocument path="include/HymnOfConstantine"/>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="Reader">             
+      <Comment>
+         <Language id="English">
+            The expositions are read, the introduction may be chanted:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Group>
+      <Season id="HosannaSunday">
+         <InsertDocument path="include/HosannaSundayExpositions"/>
+      </Season>
+      
+      <Season id="FeastOfTheCross">
+         <InsertDocument path="include/FeastOfTheCrossExpositions"/>
+      </Season>
+   </Group>
+</Document>

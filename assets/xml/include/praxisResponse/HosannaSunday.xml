@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">W~canna qen n/et[oci...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/HosannaInTheHighest"/>                              
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

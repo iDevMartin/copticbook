@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Ninth Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة التاسعـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Remember me, O Lord, in Your kingdom / 
+               As You remembered Joseph and Nicodemus / 
+               As the right-hand thief heard Your voice / 
+               Saying, “Today you will be with Me in Paradise”
+            </Language>
+            <Language id="Arabic">
+               أذكرنى يارب فى ملكوتك / 
+               كما ذكرت يوسف ونيقوديموس / 
+               واللص اليمين سمع صوتك / 
+               القائل إمضى إلى الفردوس
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               O who gave us life through Your Crucifixion / 
+               Put to shame <span class="Coptic">pidia~boloc</span><sup>1</sup> / 
+               Keep us by the power of Your divinity / 
+               Through the prayers of Mary <span class="Coptic">]paryenoc</span><sup>2</sup>
+            </Language>
+            <Language id="Arabic">
+               يا من أحييتنا بصلبوتك / 
+               إخزى عنا بى ذيافلوس / 
+               وإحفظنا بقوة لاهوتك / 
+               بصلاة مريم تى بارثينوس
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               <ol start="1">
+                  <li>Pi-thia-vo-los = the devil</li>                  
+                  <li>Ti-par-the-nos = the virgin</li>
+               </ol>
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               May Christ’s congregation be in peace / 
+               Filled with divine grace / 
+               O Physician of the sick and weak / 
+               Purify us from all sins
+            </Language>
+            <Language id="Arabic">
+               شعب المسيح يكون فى سلام / 
+               مشمول بالنعمة الإلهية / 
+               يا طبيب المرضى والأسقام / 
+               طهرنا من كل خطية
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               O who accepted suffering for us / 
+               And was crucified between two thieves / 
+               Remember us on Judgment Day / 
+               Grant us Your heavenly kingdom
+            </Language>
+            <Language id="Arabic">
+               يا من قبل عنا الآلام / 
+               وصُلِب بين لصين حرامية / 
+               أذكرنا فى يوم الزحام / 
+               وهبنا ملكوتك الأبدية
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Our father the patriarch, the pillar of faith / 
+               The bishops and all the priests / 
+               The children, brethren, and parents / 
+               And heal the sick of the church
+            </Language>
+            <Language id="Arabic">
+               البابا بطركنا عمود الدين / 
+               والأساقفة والكهنة بأجمعهم / 
+               والبنين والأخوة والوالدين / 
+               ومرضى البيعة إشفيهم
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               We ask of our Lord Jesus / 
+               To hear our requests / 
+               We supplicate Him with all awe / 
+               To gain His eternal delight
+            </Language>
+            <Language id="Arabic">
+               ونسأل من ربنا يسوع / 
+               أن يجعل دعاءنا مسموع / 
+               ونتضرع إليه بكل خشوع / 
+               لنفوز بنعيمه السرمدية
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

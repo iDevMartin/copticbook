@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="SeasonOfHerbs">
+      <Comment>
+         <Language id="English">
+            From 10 Paope to 10 Tobe:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            C~mou e~nici] nem nicim: Mare peknai nem tekhir/n/ oi n~cobt m~peklaoc: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            Bless the seeds and the herbs: May Your mercy and peace be a fortress unto Your people: Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            بارك الزروع والعشب ولتكن رحمتك وسلامك حصنا لشعبك. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">C~mou e~pi,~lom...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Coptic New Year:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               C~mou e~pi,~lom n~te ]rompi hiten tekmet,~r/ctoc P[oic: niiarwou nem nimoumi: nem nici] nem nikarpoc
+            </Language>
+            <Language id="English">
+               Bless the crown of the year with Your goodness, O Lord; the rivers, the springs, the plants and the fruits.
+            </Language>
+            <Language id="Arabic">
+               بارك اكليل السنة بصلاحك، يارب الأنهار والينابيع والزروع والأثمار.
+            </Language>         
+         </Text>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

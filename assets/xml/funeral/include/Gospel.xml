@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FuneralMen">
+         <BibleReference reference="John 5:19-29" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralWomen">
+         <BibleReference reference="Matthew 26:6-13" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralWomenDelivery">
+         <BibleReference reference="John 16:20-23" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralBoys">
+         <BibleReference reference="Luke 7:11-16" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralGirls">
+         <BibleReference reference="Matthew 9:18-26" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralDeacons">
+         <BibleReference reference="John 12:20-26" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralPriests">
+         <BibleReference reference="Matthew 25:14-23" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralBishops">
+         <BibleReference reference="Luke 22:24-30" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralMonks | FuneralMonkPriests">
+         <BibleReference reference="Luke 20:27-38" type="section" hideIntroConclusion="true"/>
+         <BibleReference reference="John 17:1-12" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralNuns">
+         <BibleReference reference="Luke 10:38-42" type="section" hideIntroConclusion="true"/>
+      </Season>
+      
+      <Season id="FuneralMemorial">
+         <BibleReference reference="John 11:38-45" type="section" hideIntroConclusion="true"/>
+      </Season>
+   </Group>
+</Document>

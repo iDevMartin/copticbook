@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFast | ApostlesFeast">       
+      <Role id="People">  
+         <InsertDocument path="include/Niromi"/>
+         <InsertDocument path="include/Nywten"/>
+      </Role>         
+   </Season>
+</Document>

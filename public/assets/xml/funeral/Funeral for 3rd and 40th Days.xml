@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true" FuneralMemorial="true">
+   <Title>
+      <Language id="English">The Prayers on the Third and Fortieth Days</Language>
+      <Language id="Arabic">صلاة الثالث والاربعين</Language>
+   </Title>
+
+   <InsertDocument path="funeral/include/FuneralContent"/>
+</Document>

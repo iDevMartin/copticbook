@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Ic a~natolac b~le'ate.
+         </Language>
+         <Language id="English">
+            Look towards the East.
+         </Language>
+         <Language id="Arabic">
+            وإلى الشرق انظروا
+         </Language>         
+      </Text>
+   </Role>
+</Document>

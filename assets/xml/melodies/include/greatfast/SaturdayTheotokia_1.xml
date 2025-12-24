@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis from the 13th Century (First Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة الأولـى)
+            </Language>
+         </Title>
+      
+         <Text>
+            <Language id="English">
+               Fasting and prayer shame Satan / 
+               Ascetism defeats his evil plots / 
+               Love is the foundation of all growth / 
+               Humility quenches his fires
+            </Language>
+            <Language id="Arabic">
+               الصوم والصلاة يخزيان الشيطان / 
+               والزهد يهزم طغيانه / 
+               والمحبة أساس كل البنيان / 
+               والتواضع يخمد نيرانه
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He said, “Do not worry about tomorrow / 
+               Tomorrow will worry about itself / 
+               Seek first the Kingdom of God / 
+               And all these will be added to you”
+            </Language>
+            <Language id="Arabic">
+               قال لا تهتموا للغد بشأن / 
+               فإن الغد يهتم بشأنه / 
+               أطلبوا أولاً ملكوت الله / 
+               وهذا كله تزدادونه
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Give alms to the orphans / 
+               Partake with them in the inheritance<sup>1</sup> / 
+               Be confirmed in the faith / 
+               Labor with the ten talents
+            </Language>
+            <Language id="Arabic">
+               أعطوا صدقة للمنقطعين / 
+               لتشاركوهم فى الميراث / 
+               وكونوا فى الإيمان ثابتين / 
+               وتاجروا فى العشرة وزنات
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               <ol start="1">
+                  <li>The heavenly inheritance</li>                  
+               </ol>
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Crowns are prepared for the victorious / 
+               In the place of grace, they shall wear them / 
+               Eternal punishment is for the apostate / 
+               Unceasing worms comparable to serpents
+            </Language>
+            <Language id="Arabic">
+               أكاليل معدة للفائزين / 
+               فى دار النعيم لابسين تاجات / 
+               وعذاباً مخلد للحائدين / 
+               ودوداً لا ينام شبه الحيات
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Do not be double-tongued / 
+               Do not break the laws / 
+               Do not be hypocritical / 
+               For the works of the sinners will shame them
+            </Language>
+            <Language id="Arabic">
+               لا تكونوا ذوى لسانين / 
+               والشرائع لا تحابوا فيها / 
+               ولا تمشوا أيضاً بوجهين / 
+               فإن الأثمة أعمالهم تخزيهم
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

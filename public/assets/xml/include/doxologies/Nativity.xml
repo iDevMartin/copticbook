@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod | Joyful29thOfTheMonth">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Nativity</Language>
+            <Language id="Arabic">ذوكصولوجية عيد الميلاد المجيد</Language>
+            <Language id="Coptic">Tote rwn afmoh n~rasi...</Language>
+         </Title>         
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>      
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Tote rwn afmoh n~rasi: ouoh penlac qen ouyel/l: je Peno#c# I/#c# P,#c#: aumacf qen B/yleem.
+            </Language>
+            <Language id="English">
+               Then our mouths are filled with joy, and our tongues with rejoicing, for Our Lord Jesus Christ, was born in Bethlehem.
+            </Language>
+            <Language id="Arabic">
+               حينئذ امتلأ فُمنا فرحاً ولساننا تهليلاً لأن ربنا يسوع المسيح وُلد في بيت لحم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]baki m~Pennou]: t~polic n~te n/etonq: v~man~swpi n~nidikeoc: e~te yai te Ieroucal/m.
+            </Language>
+            <Language id="English">
+               Hail to the city of our Lord, the City of the Living, the dwelling of the righteous, which is Jerusalem.
+            </Language>
+            <Language id="Arabic">
+               السلام لمدينة إلهنا مدينة الأحياء مسكن الصديقين التي هي أورشليم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne w~ B/yleem: t~polic n~nip~rov/t/c: n/etauerp~rov/teuin: eybe p~jinmici n~Emmanou/l.
+            </Language>
+            <Language id="English">
+               Hail to you O Bethlehem, the city of the prophets, who has foretold of, the birth of Immanuel.
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ يابيت لحم مدينة الأنبياء الذين تنبأوا عن ميلاد عمانوئيل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Apiouwini n~tav~m/i: afsai nan hwn m~voou: qen ]paryenoc Mariam: ]selet n~kayaroc.
+            </Language>
+            <Language id="English">
+               Today the True Light, has shone upon us, from the Virgin Mary, the pure Bride.
+            </Language>
+            <Language id="Arabic">
+               اليوم أشرق لنا نحن أيضاً النور الحقيقي من مريم العذراء العروس النقية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Maria~ acmici m~Pencwt/r: pimairwmi n~a~gayoc: qen B/yleem n~te }iodea: kata nic~m/ n~te nip~rov/t/c.
+            </Language>
+            <Language id="English">
+               Mary gave birth to our Savior, the Good Lover of man, in Bethlehem of Judea, according to the sayings of the prophets.
+            </Language>
+            <Language id="Arabic">
+               مريم ولدت مخلصنا محب البشر الصالح في بيت لحم اليهودية كأقوال الأنبياء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               ?ca/~ac pip~rov/t/c: ws e~bol qen ouc~m/ n~yel/l: je ece~mici n~Emmanou/l: Pencwt/r n~a~gayoc.
+            </Language>
+            <Language id="English">
+               Isaiah the Prophet, proclaimed with a voice of joy, saying "She will give birth to Immanuel, our Good Savior."
+            </Language>
+            <Language id="Arabic">
+               أشعياء النبي يصرخ بصوت التهليل قائلا إنها تلد عمانوئيل مخلصنا الصالح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ic niv/oui~ eue~ounof: nem p~kahi yel/l: je acmici nan n~Emmanou/l: a~non qa ni,~rictia~noc.
+            </Language>
+            <Language id="English">
+               Now the heavens rejoice, and the earth is glad, for she has born Immanuel for us, we the Christian people.
+            </Language>
+            <Language id="Arabic">
+               ها السموات تفرح والأرض تتهلل لأنها ولدت لنا عمانوئيل نحن المسيحيين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tenoi n~ramao~: qen nia~gayon etj/k e~bol: qen ounah] tener'alin: enjw m~moc je All/louia~.
+            </Language>
+            <Language id="English">
+               Therefore we are wealthy, with perfect gifts, and we sing with faith, saying Alleluia.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا نحن أغنياء بالخيرات الكاملة وبإيمان نرتل قائلين الليلويا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia~ All/louia~ All/louia~ All/louia~: I/#c# P,#c# Ps/ri m~V]: aumacf qen B/yleem.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Jesus Christ the Son of God, was born in Bethlehem.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا يسوع المسيح إبن الله ولد فى بيت لحم.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Second Doxology for the Nativity</Language>            
+            <Language id="Arabic">ذوكصولوجية ثانية لعيد الميلاد المجيد</Language>
+            <Language id="Coptic">Piouai e~bolqen...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity
+            </Language>      
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Piouai e~bolqen }t~riac: pio~mooucioc nem Viwt: e~tafnau e~penyebio: nem tenmetbwk etoi n~sasi.
+            </Language>
+            <Language id="English">
+               The One out of the Trinity, co-essential with the Father, when He beheld our humiliation, and our bitter bondage.
+            </Language>
+            <Language id="Arabic">
+               الواحد من الثالوث المساوي للآب لما نظر إلي ذلنا وعبوديتنا المرة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afrek niv/oui~ n~te niv/oui~: afi~ e~y~m/tra n~]paryenoc: aferrwmi m~penr/]: saten v~nobi m~mauatf.
+            </Language>
+            <Language id="English">
+               He bound the heaven of heavens, and came from the womb of the Virgin, and He became a human like us, without sin.
+            </Language>
+            <Language id="Arabic">
+               طأطا سماء السموات وأتي إلي بطن العذراء وصار إنساناً مثلنا بدون الخطية وحدها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etaumacf qen B/yleem: kata nic~m/ n~te nip~rov/t/c: aftoujon afcw] m~mon: je anon pe peflaoc.
+            </Language>
+            <Language id="English">
+               He was born in Bethlehem, according to the sayings of the prophets, and rescued and saved us, for we are His people.
+            </Language>
+            <Language id="Arabic">
+               لما ولد في بيت لحم كأقوال الأنبياء أنقذنا وخلصنا لأننا نحن شعبه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etafk/n an efoi n~nou]: afi~ afswpi n~s/ri n~rwmi: alla n~yof pe V] m~m/i: afi~ ouoh afcw] m~mon.
+            </Language>
+            <Language id="English">
+               He did not cease to be divine, He came and became the Son of men, for He is the true God, He came and saved us.
+            </Language>
+            <Language id="Arabic">
+               لم يزل إلهاً أتى وصار ابن بشر لكنه هو الإله الحقيقي أتى وخلصنا.
+            </Language>
+         </Text>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Third Doxology for the Nativity</Language>
+            <Language id="Arabic">ذوكصولوجية ثالثة لعيد الميلاد المجيد</Language>
+            <Language id="Coptic">Amwini t/rou...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>      
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Amwini t/rou n~tenouwst: m~Peno#c# I/#c# P,#c#: v/etacmacf n~je ]paryenoc: ectob n~je tecparyenia~.
+            </Language>
+            <Language id="English">
+               Come all you to worship, our Lord Jesus Christ, who was born of the Virgin, and her virginity is sealed.
+            </Language>
+            <Language id="Arabic">
+               تعالوا حميعاً لنسجد لربنا يسوع المسيح الذي ولدته العذراء وبتوليتها مختومة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aui~ n~je nimagoc: auouwst m~Vnou] qen B/yleem: v/etacmacf n~je ]paryenoc: e~te Peno#c# I/#c# P,#c#.
+            </Language>
+            <Language id="English">
+               The wisemen came, in worshiped God in Bethlehem, who was born of the Virgin, our Lord Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               أتي المجوس وسجدوا لله الذي ولدته العذراء في بيت لحم، ربنا يسوع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               dic~trati~a n~te t~ve: afywou] e~qoun nem noue~r/ou: euhwc e~V] qen B/yleem: v/etacmacf n~je ]paryenoc.
+            </Language>
+            <Language id="English">
+               The heavenly orders, gathered together, to praise God in Bethlehem, who was born of the Virgin.
+            </Language>
+            <Language id="Arabic">
+               جند السماء اجتمعوا معاً مسبحين الله الذي ولدته العذراء في بيت لحم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Euws e~bol eujw m~moc: je ouw~ou qen n/et[oci m~V]: nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi.
+            </Language>
+            <Language id="English">
+               Proclaiming and saying, "Glory to God in the highest, peace on earth, and good will toward men."
+            </Language>
+            <Language id="Arabic">
+               صارخين قائلين المجد لله في الأعالي وعلي الأرض السلام وفي الناس المسرة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               /ppe aui~ n~je hanMagoc: e~bol ca peiebt e~Ieroucal/m: je afywn v/etaumacf: p~ouro n~te niIoudai.
+            </Language>
+            <Language id="English">
+               The wisemen came from the east, to Jerusalem saying, "Where is He who has been born, the King of the Jews.
+            </Language>
+            <Language id="Arabic">
+               وإذا مجوس قد أتوا من المشرق إلي أورشليم قائلين أين هو المولود ملك اليهود.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ymetcaie~ n~te pefciou: aferouwini qen ten,wra: ere hanc~qai c~q/out e~rof: ani~ n~tenouwst m~mof.
+            </Language>
+            <Language id="English">
+               For we have seen, His star in our city, and upon it written testimony, we come to worship Him."
+            </Language>
+            <Language id="Arabic">
+               بهاء نجمه أضاء في كورتنا وعليه كتابات مكتوبة فأتينا لنسجد له.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               ?ca/~ac pip~rov/t/c: va t~c~m/ m~p~rov/tik/: aferp~rov/teuin: eybe p~jinmici m~P,#c#.
+            </Language>
+            <Language id="English">
+               Isaiah the prophet, the one of the prophetic voice, prophesied about, the birth of Christ.
+            </Language>
+            <Language id="Arabic">
+               أشعياء النبي ذو الصوت النبوي تنبأ من أجل ميلاد المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nimagoc e~taui~ sarof: ausini eyb/tf qen ouc~poud/: je afywn v/etaumacf: p~ouro n~te niIoudai.
+            </Language>
+            <Language id="English">
+               When the wisemen came, they searched for Him saying, "Where is He who has been born, the King of the Jews.
+            </Language>
+            <Language id="Arabic">
+               ولما جاء المجوس بحثوا عنه باجتهاد قائلين أين هو المولود ملك اليهود.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etafcwtem n~je ?rwd/c: aferho] ouoh afs~yorter: nem Ieroucal/m t/rc nemaf: ouho] aci~ e~jwou.
+            </Language>
+            <Language id="English">
+               When Herod heard this, he feared and was troubled, and all Jerusalem with him, fear came upon them.
+            </Language>
+            <Language id="Arabic">
+               لما سمع هيرودس خاف واضطرب وجميع أورشليم معه ووقع عليهم خوف.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pair/] afmou] e~Nimagoc: n~,wp afouorpou e~B/yleem: je aretennajimi m~pia~lou: v/etaumacf qen pima e~te m~mau.
+            </Language>
+            <Language id="English">
+               Therefore he called the wisemen secretly, and sent them to Bethlehem, "You will find the Child, who was born in that place."
+            </Language>
+            <Language id="Arabic">
+               ولذلك دعا المجوس سراً وأرسلهم إلي بيت لحم قائلا ستجدون الصبي المولود في ذلك الموضع.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouparyenia~ n~atbwl e~bol: oujinmici efj/k e~bol: nimane~cwou aunau e~bol: auc~mou e~V] sa e~bol.
+            </Language>
+            <Language id="English">
+               An incorruptible virginity, and perfect birth, the shepherds saw, and praised God.
+            </Language>
+            <Language id="Arabic">
+               بتولية غير منحلة وميلاد كامل الرعاة نظروا وسبحوا الله إلي المنتهي.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tenhwc e~rof: tenouwst e~p~swi harof: eybe n/etauranaf: n~teferounai nem nen'u,/.
+            </Language>
+            <Language id="English">
+               Therefore we praise Him, and worship Him, for the sake of those who pleased Him, that He may have mercy upon our souls.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا نسبحه ونسجد له من أجل الذين أرضوه لكي يصنع رحمة مع نفوسنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia~ All/louia~ All/louia~ All/louia~: I/#c# P,#c# Ps/ri m~V]: aumacf qen B/yleem.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Jesus Christ the Son of God, was born in Bethlehem.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا يسوع المسيح إبن الله ولد فى بيت لحم.
+            </Language>
+         </Text>
+               
+         <InsertDocument path="include/FaiErePeoo"/>
+      </Section>
+      
+      <Group>
+         <InsertDocument path="melodies/include/MatinsNativity"/>
+      </Group>
+   </Season> 
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">&lt;ere Mi,a/l...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Michael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Mi,a/l: Piar,/aggeloc: Pilitourgoc n~jwri: nahren p~ouro Pi,~rictoc
+            </Language>
+            <Language id="English">
+               Hail to Michael: the archangel: The strong servant: before Christ the king
+            </Language>
+            <Language id="Arabic">
+               السلام لميخائيل رئيس الملائكة الخادم القوي أمام الملك المسيح.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

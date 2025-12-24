@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="include/Pouro.1"/>
+   <InsertDocument path="include/Pouro.2"/>
+   <InsertDocument path="include/Pouro.3"/>
+   <InsertDocument path="include/PouroConclusion"/>
+</Document>

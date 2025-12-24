@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMaryMagdalene:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary Magdalene:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te ]agia Maria ]magdalin/: nem nihiomi m~faicojen. Po#c# a~rih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of St. Mary Magdalene, and the myrrh-bearing women, O Lord grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات القديسة مريم المجدلية: والنسوة حاملات الطيب: يا رب انعم لنا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

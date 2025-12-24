@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Am/n.
+      </Language>
+      <Language id="English">
+         Amen.
+      </Language>
+      <Language id="Arabic">
+         آمين.
+      </Language>
+   </Text>
+</Document>

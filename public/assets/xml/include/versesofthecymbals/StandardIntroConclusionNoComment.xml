@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>      
+      <Season id="WatosDays | ThirdProstration">
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]ekkl/cia~: p~/i n~te nia~ggeloc: ,ere }paryenoc: e~tacmec Pencwt/r.
+            </Language>
+            <Language id="English">
+               Hail to the Church, the house of the angels, Hail to the Virgin, who gave birth to our Savior.
+            </Language>
+            <Language id="Arabic">
+               السلام للكنيسة بيت الملائكة السلام للعذراء التي ولدت مخلصنا.
+            </Language>
+         </Text>   
+      </Season>
+      
+      <Season id="AdamDays | SecondProstration">
+         <Text>
+            <Language id="Coptic">
+               Anon qa nilaoc: n~,~rictianoc: vai gar pe Pennou]: n~a~l/yinoc.
+            </Language>
+            <Language id="English">
+               We, the Christian people, for this is, our true God.
+            </Language>
+            <Language id="Arabic">
+               نحن الشعوب المسيحيين لان هذا هو إلهنا الحقيقي.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/versesofthecymbals/AdamConclusion.1"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouon oumetcemnoc: n~h~r/i qen pikocmoc e~bolhiten pis~l/l: n~te ]agia Maria~ }paryenoc.
+            </Language>
+            <Language id="English">
+               All calmness: in the world: is through the prayers: of Saint Mary the Virgin.
+            </Language>
+            <Language id="Arabic">
+               كل هدوء في العالم من قبل صلاة القديسة مريم العذراء.
+            </Language>
+         </Text>         
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StShenuteTheArchimandrite:VersesOfCymbals | StBesa:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Shenute the Archimandrite and St. Besa his disciple:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Senou] piar,/mand~ri-t/c: nem abba B/ca pefmay/-t/c nem nous/ri m~mona,oc.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Shenute the Archimandrite and Abba Besa his disciple and their children the monks.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا شنوده رئيس المتوحدين وأنبا ويصا تلميذه وأولادهم الرهبان.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

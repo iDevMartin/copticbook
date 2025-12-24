@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Psalm 118 (20) - Look upon my humiliation...
+         </Language>
+         <Language id="Arabic">
+            المزمور المائة والثامن عشر (٢٠) - انظر إلى مذلتي...
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            Look upon my humiliation, and save me, for I have not forgotten Your law. Plead my cause, and redeem me; revive me for the sake of Your word. Salvation is far from sinners, for they have not searched out Your ordinances. Your mercies, O Lord, are many; revive me according to Your judgments. Many are they who persecute me and distress me, but I did not turn away from Your testimonies. I beheld foolish men, and I suffered, for they did not keep Your words. Behold, O Lord, I have loved Your commandments; revive me in Your mercy. The beginning of Your words is truth, and all judgments of Your righteousness are forever.
+         </Language>
+         <Language id="Arabic">
+            انظر إلى مذلتي وأنقذني، فإني لم أنس ناموسك. احكم لي في دعواي ونجني. من أجل كلامك أحيني. بعيد هو الخلاص عن الخطاة، لأنهم لم يطلبوا حقوقك. رأفتك كثيرة جدا يا رب. حسب أحكامك أحيني. كثيرون هُمُ الذين يضطهدونني ويحزنونني، وعن شهاداتك لم أجنح. رأيت الذين لا يفهمون فاكتأبت، لأنهم لأقوالك لم يحفظوا. انظر يا رب، فإني أحببت وصاياك. برحمتك يا رب أحيني. بدء كلامك حقٌ، وإلي الأبد كل أحكام عدلك
+         </Language>
+      </Text>
+            
+      <InsertDocument path="include/agpeya/DoxaciFilanithrope"/>
+   </Section>
+</Document>

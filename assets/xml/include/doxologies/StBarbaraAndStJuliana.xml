@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StBarbara:Doxology | StJuliana:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Barbara and St. Juliana</Language>
+            <Language id="Arabic">ذوكصولوجية القديسة بربارة والقديسة يوليانه</Language>
+            <Language id="Coptic">Piouwini n~}t~riac...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Barbara and St. Juliana:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">         
+               Piouwini n~}t~riac e#y#u#: afsai e~jen taiparyenoc: ]a~gia Barbara: ]selet n~te P,#c#.
+            </Language>
+            <Language id="English">
+               The light of the holy Trinity, has shone upon this virgin, Saint Barbara, the Bride of Christ.
+            </Language>
+            <Language id="Arabic">
+               نور الثالوث الأقدس أشرق على هذه العذراء القديسة برباره عروس المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Ecmenre n~}t~riac e#y#u#: ouoh eymoc] gar m~peciwt: pirwmi n~a~nomoc e~tafsat: n~teca~ve qen tefjij.
+            </Language>
+            <Language id="English">
+               She loved the holy Trinity, and hated her father, the lawless man, who cut her head with his hand.
+            </Language>
+            <Language id="Arabic">
+               لأنها أحبت الثالوث الأقدس وأبغضت أباها. الرجل مخالف الناموس الذى قطع رأسها بيده.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Rasi w~ ]selet m~m/i: e/e~tacswpi n~oue~rvei: n~te piP~neuma e#y#u#: icjen tecmetkouji n~a~lou.
+            </Language>
+            <Language id="English">
+               Rejoice O true bride, who has become a sanctuary, for the Holy Spirit, since her early childhood.
+            </Language>
+            <Language id="Arabic">
+               افرحى أيتها العروس الحقيقية. التى صارت هيكلا للروح القدس منذ طفوليتها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Ereswpi gar n~yo: tseri m~Viwt et qen niv/oui~: ouoh e~reswpi gar n~ouseri: m~Maria ]paryenoc.
+            </Language>
+            <Language id="English">
+               For you became a daughter, of the heavenly Father, and you became a daughter, of Mary the Virgin.
+            </Language>
+            <Language id="Arabic">
+               لأنك صرت ابنة للآب السماوى وصرت أيضا ابنة لمريم العذراء.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Tentaio~ m~mwten qen ouounof: w~ niselet n~te P,#c#: ]a~gia Barbara: nem ]a~gia Iwliana.
+            </Language>
+            <Language id="English">
+               We honor you joyfully, O brides of Christ, Saint Barbara, and Saint Juliana.
+            </Language>
+            <Language id="Arabic">
+               نكرمكما بابتهاج ياعروسا المسيح. أيتها القديسة الحقيقية بربارة والقديسة يوليانه.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StBarbaraAndStJuliana"/>
+      </Section>
+   </Season>
+</Document>

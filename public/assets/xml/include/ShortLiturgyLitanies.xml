@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StBasilLiturgy">
+         <Title>
+            <Language id="English">The Seven Short Litanies</Language>
+            <Language id="Arabic">السبع الأواشي الصغار</Language>
+         </Title>   
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <Title>
+            <Language id="English">The Short Litanies</Language>
+            <Language id="Arabic">الأواشي الصغار</Language>
+         </Title>   
+      </Season>
+   </Group>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of Peace</Language>
+         <Language id="Arabic">أوشية السلام</Language>
+      </Title>
+      
+      <Role id="Priest">            
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~]hir/n/ n~te tekoui~ m~mauatc eyouab n~kayolik/ n~a~poctolik/ n~ekk~l/cia.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church
+            </Language>
+            <Language id="Arabic">
+               اذكر ياربُّ سلامَ كنيستِكَ الواحدةِ، الوحيدةِ المقدسةِ، الجامعةِ الرسوليةِ.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/litanies/PeaceDeacon"/>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="StBasilLiturgy">
+               <Comment>
+                  <Language id="English">
+                     While pointing with his hand first to the Blood and then to the Body, the priest says:
+                  </Language>
+                  <Language id="Arabic">
+                     يقول الكاهن وهو يشير بيديه إلى الدم أولاً وإلى الجسد ثانياً:
+                  </Language>
+               </Comment>
+                           
+               <Text>
+                  <Language id="Coptic">
+                     Yai etakj~voc nak e~bolhiten pic~nof ettai/out n~te Pek,rictoc.
+                  </Language>
+                  <Language id="English">
+                     this, which You have acquired to Yourself with the precious Blood of Your Christ,
+                  </Language>
+                  <Language id="Arabic">
+                     هذه التي اقتنيتَها لكَ بالدَّمِ الكريمِ الذي لمسيحِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Areh e~roc qen ouhir/n/: nem nie~pickopoc t/rou n~oryodoxoc e~te n~q/tc.
+                  </Language>
+                  <Language id="English">
+                     keep her in peace, with all the orthodox bishops who are in her.
+                  </Language>
+                  <Language id="Arabic">
+                     احفظها بسلامٍ، وكلَّ الأساقفةِ الأرثوذكسيين الذينَ فيها.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StGregoryLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Yai etsop icjen aur/jc n~]oikoumen/ sa aur/jc.
+                  </Language>
+                  <Language id="English">
+                     this, which exists from one end of the world to the other,
+                  </Language>
+                  <Language id="Arabic">
+                     هذه الكائنةُ من أقصىِ المسكونةِ إلى أقصاِها.
+                  </Language>         
+               </Text>
+               
+               <InsertDocument path="include/AndThoseWhoRightly"/>
+            </Season>
+         </Group>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Fathers</Language>
+         <Language id="Arabic">أوشية الآباء</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="StBasilLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Nsorp men a~riv~meui~ P[oic m~penmakarioc n~iwt ettai/out n~ar,ie~pickopoc penpatriar,/c abba (...) nem nefc~n/ou m~p~neumatikon pipatriar,/c n~t~Antio~,ia~ Mar Ignatioc (...) nem pipatriar,/c n~Eritrea Apouna (...).
+                  </Language>
+                  <Language id="English">
+                     Foremost remember, O Lord, our blessed and honored father, the archbishop, our patriarch, Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...) and the Patriarch of Eritrea Abouna (...),
+                  </Language>
+                  <Language id="Arabic">
+                     وأولاً اذكر ياربُّ بطريركَنا الأبَ المكرمَ رئيسَ الكهنةِ أنبا (...)، وأَخَوَيْهِ الروحِيَيْنِ مار إغناطيوس (...) بطريرك أنطاكيه، وأبونا (...) بطريرك إريتريا.
+                  </Language>         
+               </Text>   
+            </Season>
+            
+            <Season id="StGregoryLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     N~houo~ de penpatriar,/c n~iwt ettai/out abba (...) nem nefc~n/ou m~p~neumatikon pipatriar,/c n~t~Antio~,ia~ Mar Ignatioc (...) nem pipatriar,/c n~Eritrea Apouna (...).
+                  </Language>
+                  <Language id="English">
+                     Most of all our  patriarch, the honored father, Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...) and the Patriarch of Eritrea Abouna (...),
+                  </Language>
+                  <Language id="Arabic">
+                     وبالأكثرِ بطريركَنا الأبَ المكرمَ أنبا (...) وأخويه الروحيين مار إغناطيوس (...) بطريركَ أنطاكيه وأبونا (...) بطريرك إريتريا.
+                  </Language>         
+               </Text>   
+            </Season>
+         </Group>
+         
+         <Comment>
+            <Language id="English">
+               In the presence of a metropolitan or bishop, the following is added.
+            </Language>
+            <Language id="Arabic">
+               وفي وجود مطران أو أسقف يضاف:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               nem pefkes~v/r n~litourgoc peniwt n~e~pickopoc (m~m/tropolit/c) abba (...).
+            </Language>
+            <Language id="English">
+               and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (...).
+            </Language>
+            <Language id="Arabic">
+               وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا (...).
+            </Language>         
+         </Text>      
+      </Role>
+      
+      <InsertDocument path="include/litanies/FathersDeacon"/>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+   
+   <Section expanded="false">
+      <Title>
+         <Language id="English">Litany of the Departed Patriarch/Metropolitan/Bishop</Language>
+         <Language id="Arabic">أوشية الآباء</Language>
+      </Title>
+      
+      <InsertDocument path="include/litanies/DepartedFathersComment"/>
+      <InsertDocument path="include/litanies/DepartedFathersPriestIntro"/>      
+      <InsertDocument path="include/litanies/DepartedFathersDeacon"/>
+      <InsertDocument path="include/LordHaveMercy"/>
+      <InsertDocument path="include/litanies/DepartedFathersPriestContinuation"/>      
+      <InsertDocument path="include/litanies/DepartedFathersBishopPresent"/>      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+   
+   <InsertDocument path="include/litanies/Clergy"/>
+   <InsertDocument path="include/litanies/Mercy"/>
+   
+   <Group>
+      <Season id="StBasilLiturgy">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Litany of the Place</Language>
+               <Language id="Arabic">أوشية الموضع</Language>
+            </Title>
+            
+            <InsertDocument path="include/litanies/PlaceShortContents"/>
+         
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Nem n/etsop n~q/tou qen pinah] n~te V~nou].
+                  </Language>
+                  <Language id="English">
+                     And those who dwell therein in God’s faith.
+                  </Language>
+                  <Language id="Arabic">
+                     والساكنين فيها بإيمانِ الله.
+                  </Language>
+               </Text>         
+            </Role>
+         </Section>
+         
+         <LinkDocument path="liturgies/gregory/For Your People">
+            <Language id="English">For Your People</Language>
+            <Language id="Arabic">لأن شعبَكَ</Language>
+            <Language id="Coptic">Peklaoc Gar</Language>
+         </LinkDocument>         
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <InsertDocument path="include/litanies/Leader"/>
+         <InsertDocument path="include/litanies/OblationsShort"/>
+         <InsertDocument path="include/litanies/Captives"/>
+         
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  Klinate Yew~ meta vobou. 
+               </Language>
+               <Language id="English">
+                  Bow before God in fear. 
+               </Language>
+               <Language id="Arabic">
+                  إسجُدوا للهِ بخوفٍ.
+               </Language>
+            </Text>        
+            
+            <Comment>
+               <Language id="English">
+                  Or he says:
+               </Language>
+               <Language id="Arabic">
+                  أو يقول:
+               </Language>
+            </Comment>
+             
+             <Text>
+               <Language id="Coptic">
+                  Ouwst m~Pihi/b nLogoc n~te Vnou].
+               </Language>
+               <Language id="English">
+                  Worship the Lamb, the Logos of God. 
+               </Language>
+               <Language id="Arabic">
+                  اسجُدوا للحملِ كلمةِ الله.
+               </Language>
+            </Text>        
+         </Role>
+         
+         <Comment>
+            <Language id="English">
+               The entire congregation prostrates before the Lord, and the priest bows his head, while saying:
+            </Language>
+            <Language id="Arabic">
+               يخضع الشعب جميعه للرب ويخضع الكاهن برأسه ويقول هذه الأوشية (سرا(ً:
+            </Language>
+         </Comment>
+         
+         <Role id="Priest" silent="true">
+            <Text>
+               <Language id="Coptic">
+                  Arivmeui~ P[oic n~tamete~bi/n hw: ouoh ,w n/i e~bol n~nanobi t/rou. 
+               </Language>
+               <Language id="English">
+                  Remember, O Lord, my own weakness and forgive all my sins,  
+               </Language>
+               <Language id="Arabic">
+                  أذكر ياربُّ ضعفي أنا أيضاً واغفرْ لي جميعَ خطاياي.
+               </Language>
+            </Text>        
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v~ma e~ta ]a~nomia erhouo~ n~q/tf: mare pekh~mot erhouo~ a~sai m~mau. 
+               </Language>
+               <Language id="English">
+                  and where iniquity abounds, let Your grace be multiplied in abundance.  
+               </Language>
+               <Language id="Arabic">
+                  وحيثُ كثُرَ  الإثمُ فلتكثرْ هناكَ نعمتُكَ.
+               </Language>
+            </Text>        
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eybe nanobi noui~ nem nicwf n~te pah/t: m~perfej peklaoc m~pih~mot n~te Pekp~neuma eyouab. 
+               </Language>
+               <Language id="English">
+                  Because of my own sins and the abominations of my heart, deprive not Your people of the grace of Your Holy Spirit.  
+               </Language>
+               <Language id="Arabic">
+                  ومن أجلِ خطاياي خاصةً ونجاساتِ قلبي لا تمنع شعبَكَ نعمةَ روحِكَ القدوس.
+               </Language>
+            </Text>        
+         </Role>
+         
+         <InsertDocument path="include/HaveMercyUponUsSavior3"/>         
+         <InsertDocument path="include/ForYourPeople"/>
+      </Season>
+   </Group>
+      
+   <InsertDocument path="include/litanies/Seasons"/>
+      
+   <Group>
+      <Season id="StBasilLiturgy">          
+         <LinkDocument path="liturgies/gregory/Healing to the Sick">
+            <Language id="English">Healing to the Sick</Language>
+            <Language id="Arabic">شفاءً للمرضى</Language>
+         </LinkDocument>
+          
+         <InsertDocument path="include/litanies/OblationsShort"/>
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <InsertDocument path="include/HealingToTheSick"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Litany of the Place</Language>
+               <Language id="Arabic">أوشية الموضع</Language>
+            </Title>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Ariv~meui~ P[oic m~paitopoc eyouab n~tak vai: nem topoc niben: nem monact/rion niben n~te nenio] n~oryodoxoc. 
+                  </Language>
+                  <Language id="English">
+                     Remember, O Lord, this Your holy place, and every place, and every monastery of our orthodox fathers.
+                  </Language>
+                  <Language id="Arabic">
+                     أذكر ياربُّ هذا الموضعَ المقدسَ الذي لكَ، وكلَّ المواضعِ، وكلَّ أديرةِ آبائنا الأرثوذكسيين.
+                  </Language>         
+               </Text>         
+            </Role>
+            
+            <InsertDocument path="include/litanies/PlaceDeacon"/>
+            <InsertDocument path="include/LordHaveMercy"/>
+            <InsertDocument path="include/litanies/PlaceConclusion"/>
+         </Section>
+      </Season>
+   </Group>
+</Document>

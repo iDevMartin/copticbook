@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJosephTheCarpenter:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Joseph the Carpenter</Language>
+            <Language id="Arabic">ذوكصولوجية القديس يوسف النجار</Language>
+            <Language id="Coptic">V~nou] afcwtp n~Iwcev...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Joseph the Carpenter:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               V~nou] afcwtp n~Iwcev: hina n~tefa~reh ]Paryenoc: qen pefh~i qen hanm/nu: n~e~pouranion.
+            </Language>
+            <Language id="English">
+               The Lord chose Joseph, with a heavenly sign, to take care of the Virgin, in his house.
+            </Language>
+            <Language id="Arabic">
+               الله إختار يوسف، لكيْ يحفظ العذراء، في بيته، بعلامات سمائية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Acouwnh n~je ou[rompi: ouoh acemton e~jen pefs~bwt: tote aft/c naf: n~je Za,ariac piou/b.
+            </Language>
+            <Language id="English">
+               A dove appeared, and rested on his rod, so Zachariah the priest, gave her to him.
+            </Language>
+            <Language id="Arabic">
+               ظهرت حمامة، وإستقرت على عصاه، فأعطاها له، ذكريا الكاهن.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af[icanic n~je Iwc/v: qen tecparyenia: ouoh piaggeloc afjoc naf: je Iwc/v p~s/ri n~Dauid.
+            </Language>
+            <Language id="English">
+               Joseph doubted, her virginity, the angel announced to him, "O Joseph son of David.
+            </Language>
+            <Language id="Arabic">
+               شكَّ يوسف في بتوليتها، فأخبره الملاك، قائلاً "يا يوسف، يا إبن داود.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Mpererho] e~sep: Maria tekc~himi e~rok: v/ gar e~tacnamacf: ou e~bolqen ouP~neuma e#y#u# pe.
+            </Language>
+            <Language id="English">
+               Do not fear, to take Mary as your wife, for the One whom she bears, is of the Holy Spirit."
+            </Language>
+            <Language id="Arabic">
+               لا تخف أن تأخذ، مريم إمرأتك، لأن الذي حبل به فيها، هو من الروح القدس."
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Mariam pe pia~ho: e~tafsopf n~je Iwc/v: afjem pimargarit/c: efh/p qen tefn/].
+            </Language>
+            <Language id="English">
+               Mary is the treasure, that Joseph brought, and he found the jewel, that was hidden within.
+            </Language>
+            <Language id="Arabic">
+               مريم هي الكنز، الذي إشتراه يوسف، فوجد الجوهر، مخفي في وسطه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Afi~ n~je Iwc/f pidikeoc: nem Maria Y~mau m~P,#c#: auyamio m~p~jwk m~piNomoc: eybe piA~lou n~Cwt/r I/couc.
+            </Language>
+            <Language id="English">
+               Joseph the righteous came, with Mary the Mother of Christ, fulfilling the Law for the sake, of the Child the Savior Jesus.
+            </Language>
+            <Language id="Arabic">
+               جاء يوسف الصديق، مع مريم أم المسيح، وصنعا إتمام الناموس، لأجل الصبي المخلص يسوع.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }paryenoc Mariam: nem Iwc/v nem Caloum/: auers~v/ri e~masw: eybe n/etou nau e~rwou.
+            </Language>
+            <Language id="English">
+               Mary the Virgin, and Joseph and Salome, were greatly amazed, with what they saw.
+            </Language>
+            <Language id="Arabic">
+               مريم العذراء، ويوسف وسالومى، تعجبوا جداً، ممَنْ رأوه.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJosephTheCarpenter"/>
+      </Section>
+   </Season>
+</Document>

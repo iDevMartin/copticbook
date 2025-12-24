@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per t/c i~r/n/c t/c a~giac mon/c kayolik/c ke a~poctolik/c oryodoxou tou Yeou ekk~l/ciac.
+         </Language>
+         <Language id="English">
+            Pray for the peace of the one, holy, catholic, and apostolic orthodox Church of God.
+         </Language>
+         <Language id="Arabic">
+            صلوا من أجلِ سلامِ الواحدةِ المقدسةِ الجامعةِ الرسوليةِ كنيسةِ الله الارثوذكسية.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

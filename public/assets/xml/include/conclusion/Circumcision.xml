@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Circumcision">
+      <Comment>
+         <Language id="English">
+            During the Feast of Circumcision:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V] afswp e~rof m~picebi: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God accepted unto Him the circumcision. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            ابن الله قبل اليه الختان. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

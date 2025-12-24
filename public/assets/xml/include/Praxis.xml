@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">         
+         After the deacon finishes reading the catholic Epistle, the congregation chants:
+      </Language>
+      <Language id="Arabic">         
+         وبعد انتهاء الشماس من قراءة الكاثوليكون عربياً يرتل الشعب قائلاً:
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/PraxisReading"/>
+   <InsertDocument path="include/InaudiblePrayerForThePraxis"/>   
+</Document>

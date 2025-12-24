@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="Coptic">Cenat~so</Language>
+      </Title>
+      
+      <InsertDocument path="include/veneration/SenaEtchoRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            P~[oic pen[oic n~yen ous~v/ri: pe pekran hijen p~kahi t/rf.  
+         </Language>
+         <Language id="English">
+            O Lord, our Lord / how wondrous is Your name in all the earth. 
+         </Language>
+         <Language id="Arabic">
+            ايها الرب ربنا ما اعجب إسمك على الارض كلها. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/SenaEtchoRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouw~ou nem outaio~: nem tekmau n~,~lom t~socf.  
+         </Language>
+         <Language id="English">
+            Glory and honor / to Your mother, the high crown. 
+         </Language>
+         <Language id="Arabic">
+             مجدا واكراما لأمك الإكليل العالى. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/SenaEtchoRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }nat~sou n~nes~v/ri t/rou: ]naounof nem toyel/l.  
+         </Language>
+         <Language id="English">
+            Precious are all your wonders / your gladness and joy. 
+         </Language>
+         <Language id="Arabic">
+            عالية هى عجائبك جميعها وفرحك وبهجتك. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/SenaEtchoRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }nat~sou n~nes~v/ri t/rou: ouw~ou e~bol n~nekac t/rou.
+         </Language>
+         <Language id="English">
+            Precious are all your wonders / and glorified is all your greatness.
+         </Language>
+         <Language id="Arabic">
+            عالية هى عجائبك كلها وممجدة هى جميع عظائمك.
+         </Language>         
+      </Text>
+   </Section> 
+</Document>

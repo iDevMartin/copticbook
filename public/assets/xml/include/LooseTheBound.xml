@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.1"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.2"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.3"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.4"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.5"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/LooseTheBound.6"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy3"/>
+</Document>

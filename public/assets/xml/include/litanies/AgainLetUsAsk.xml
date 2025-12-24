@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">      
+   <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+    
+   <Text>
+      <Language id="Coptic">
+         Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: arivmeui~ P[oic n~niyucia nip~rocvora: niseph~mot n~te n/e~tauerp~rocverin
+      </Language>
+      <Language id="English">
+         We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the sacrifices, the offerings, and the thanksgivings of those who have offered
+      </Language>
+      <Language id="Arabic">
+         نسألُ ونطلبُ من صلاحك يا مُحبَّ البشرِ، اذكر ياربُّ صعائدَ وقرابينَ وتشكُّرات الذين قَرَّبوا
+      </Language>
+   </Text>      
+   
+   <Comment>
+      <Language id="English">
+         The priest places a spoonful of incense in the censer without making the sign of the cross over it, saying:
+      </Language>
+      <Language id="Arabic">
+         ههنا يضع في المجمرة يد بخور من غير رشم ويقول: 
+      </Language>
+   </Comment>
+      
+   <Text>
+      <Language id="Coptic">
+         e~outaio nem ouw~ou m~pekran eyouab.
+      </Language>
+      <Language id="English">
+         to the honor and glory of Your holy name.
+      </Language>
+      <Language id="Arabic">
+         كرامةً ومجداً لاسمِكَ القدوس.
+      </Language>
+   </Text>       
+</Document>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Nim pe picabe ouoh n~tefa~reh e~nai ouoh n~ceka] e~ninai n~te P~[oic: a#l#. (r#^#:g#b#)
+      </Language>
+      <Language id="English">
+         Whoever is wise will observe these things, and they will understand the lovingkindness of the Lord. Alleluia. (Ps. 107:43)
+      </Language>
+      <Language id="Arabic">
+         مَنْ هو الحكيم فيحفظ ويتفهم مراحم الرب. هلليلويا. (مز 43:107) 
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/BlessMeBlessMe"/>
+</Document>

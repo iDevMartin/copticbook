@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction5="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Fifth Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة الخامسة)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the fifth priest light the fifth lamp and say the fifth prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة الخامسة ويقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Departed"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Galatians 2:16-20" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Tenseph~mot n~totk P[oic Vnou] n~te nijom: e~jen hwb niben e~takaitou: je n~yok qen peknai akeroikonomin m~penwnq: n~yok pe piref]c~bw: n~yok pe pireftal[o.
+            </Language>
+            <Language id="English">
+               We thank You, O Lord God of hosts, for all things You have done, for You in Your mercy order our life. You are the Teacher, You are the Healer.   
+            </Language>      
+            <Language id="Arabic">
+               نشكرُكَ أيها الربُ إله القوات على كل ما صنعتَ، لأنك برحمتِكَ دبرتَ حياتَنا. انت هوالمؤدب. أنت هوالشافى.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matal[o m~pekbwk (nim) e~bol qen nefswni: ouoh matoujof e~bolha pethwou efouoj: n~tefero~mologin hwf m~peknai: ouoh n~tef]w~ou nak nem peklaoc: qen tekekk~l/cia~ n~nie~hoou t/rou n~te pefwnq.
+            </Language>
+            <Language id="English">
+               Heal Your servant (...) from his diseases, and cleanse him from all evil, that he may rise up whole, and himself praise Your mercy, and give glory to You with Your people in Your Church all the days of his life. 
+            </Language>      
+            <Language id="Arabic">
+               اشفِ ياربُ عبدَكَ (...) من امراضِه، وانقذه من كلِّ شرٍ. اقمه صحيحاً ليعترفَ برحمتِكَ ويمجدَكَ مع شعبِكَ في كنيستك جميع أيامِ حياتِه. 
+            </Language>
+         </Text>
+      </Role>      
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </Section>
+</Document>

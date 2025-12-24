@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document>
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Qen v~ran n~]t~riac:
+         </Language>
+         <Language id="English">
+            In the name of the Trinity,
+         </Language>
+         <Language id="Arabic">
+            بإسم الثالوث،
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            n~o~mooucioc:
+         </Language>
+         <Language id="English">
+            One in essence,
+         </Language>
+         <Language id="Arabic">
+            المساوي،
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Viwt nem Ps/ri:
+         </Language>
+         <Language id="English">
+            The Father and the Son,
+         </Language>
+         <Language id="Arabic">
+            الآب والإبن،
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            nem Pip~neuma eyouab:
+         </Language>
+         <Language id="English">
+            And the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            والروح القدس.
+         </Language>
+      </Text>
+   </Role>
+</Document>

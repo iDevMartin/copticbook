@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMacariusOfAlexandria:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Macarius of Alexandria</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس القس أنبا مقار الاسكندرى</Language>
+            <Language id="Coptic">Ceermeyre qarok...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Macarius of Alexandria:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ceermeyre qarok qen oumeym/i: n~je nic~p/leon n~,aki: e~takswpi n~q~r/i n~q/tou: abba Makari pip~recbuteroc.
+            </Language>
+            <Language id="English">
+               For the dark caves, witness concerning you, when you dwelt in them, O Abba Makari the presbyter.
+            </Language>
+            <Language id="Arabic">
+               تشهد عنك بالحقيقة المغائر المظلمة التى سكنت فيها ياأنبا مقار القس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hwcte n~tekerp~emp~sa: n~o~hi e~ratk m~pem~yo m~Po#c#: n~t~iou n~e~hoou nem t~iou n~e~jwrh: e~re peknouc ,/ qen niv/oui~.
+            </Language>
+            <Language id="English">
+               That you were worthy, to stand before the Lord, for five days and five nights, your mind was lifted to heaven.
+            </Language>
+            <Language id="Arabic">
+               حتى أنك إستحققت أن تقف أمام الرب خمسة أيام وخمسة ليال وعقلك فى السموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ekhwc nem niaggeloc: nem nitagma n~e~pouranion: nem p~,oroc t/rf n~te n/e#y#u#: ek]w~ou n~}t~riac.
+            </Language>
+            <Language id="English">
+               You praised with the angels, and all the heavenly hosts, and the whole choir of the saints, you glorified the Trinity.
+            </Language>
+            <Language id="Arabic">
+               تسبح مع الملائكة والطغمات السمائية وكل مصاف القديسين ممجداً الثالوث.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMacariusOfAlexandria"/>
+      </Section>
+   </Season>
+</Document>

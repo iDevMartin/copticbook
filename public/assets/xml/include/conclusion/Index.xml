@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">   
+      <Title>
+         <Language id="English">Conclusion</Language>         
+         <Language id="Arabic">ختام</Language>
+      </Title>
+      
+      <Group>
+         <InsertDocument path="include/conclusion/Canons"/>
+         <InsertDocument path="include/conclusion/Seasonal"/>
+      </Group>
+   </Section>   
+</Document>

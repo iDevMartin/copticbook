@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday (The Third Hour)</Language>
+         <Language id="Arabic">يوم الثلاثاء (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~hoou m~Psomt (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Deuteronomy 8:11-20</Language>
+               <Language id="Arabic">تثنية 8: 11-20</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Deuteronomy"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Mah~y/k erok e~s~temer p~wbs m~P[oic peknou] e~s~tem y~reka~reh e~nefentol/ nem nefhap nem nefmeym/i: nai a~nok e~]honhen m~mwou e~totk: m/pwc n~tekouwm n~tekci n~tekkwt n~han/i e~naneu ouoh e~necwou n~tekswpi n~q/tou:
+               </Language>
+               <Language id="English">
+                  "Watch yourself, that you do not forget the Lord your God by not keeping His commandments, judgments, and ordinances I command you today, lest—when you have eaten and are full, and have built beautiful houses and dwell in them,
+               </Language>
+               <Language id="Arabic">
+                  أحترز من أن تنسى الرب إلهك ولا تحفظ وصاياه وأحكامه وحقوقه. هذه التى أنا أوصيك بها. لئلا تأكل وتشبع وتبنى بيوتاً حسنة جميلة وتسكنها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh neke~cwou n~cea~sai nak nem nekehwou: n~cea~sai nak n~je pihat nem pinoub ouoh n~cea~sai nak n~je en,ai niben etsop nak: 
+               </Language>
+               <Language id="English">
+                  And when your cattle and sheep multiply, and your silver and gold are multiplied, and all you have is multiplied, when your heart is lifted up.
+               </Language>
+               <Language id="Arabic">
+                  ويكثر لك الغنم والبقر. ويكثر لك الذهب والفضة. وتكثر كل مقتنياتك,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  n~teker pwbs m~P[oic peknou]: v/e~tafenk e~bolqen p~kahi n~,/mi e~bol qen p~/i n~tekmetbwk.
+               </Language>
+               <Language id="English">
+                  And you forget the Lord your God who brought you from the land of Egypt, out of the house of bondage,
+               </Language>
+               <Language id="Arabic">
+                  فتنسى الرب إلهك الذى أخرجك من أرض مصر من بيت عبوديتك
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai e~tafenk e~bol qen pai nis] nsafe ouoh etoi n~ho]: pima ere hanhof n~q/tf nem han[l/ eu[ilapcin: nem oui~bi m~mon mwou sop n~q/tf. 
+               </Language>
+               <Language id="English">
+                  Who led you through that great and fearful desert, with its biting serpent and scorpion and thirst, where there was no water, 
+               </Language>
+               <Language id="Arabic">
+                  الذى أجازك هذا القفر العظيم المخوف. حيث الحيات والعقارب اللادغة. وحيث العطش ولا يوجد ماء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/e~tafi~ni nak e~bol n~oupug/ m~mwou qen oupetra n~koh n~swt: v/e~taftemmok m~pimanna hip~safe: vai e~te n~cecwoun m~mof an n~je nekio]:
+               </Language>
+               <Language id="English">
+                  Who brought a spring of water for you out of the sharp-edged rock, who fed you in the desert with manna your fathers did not know,
+               </Language>
+               <Language id="Arabic">
+                  الذى أخرج لك ينبوع ماء من صخرة صماء. الذى أطعمك المن فى البرية. هذا الذى لم يعرفه آباؤك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hopwc efe~t~hemko m~mok ouoh efe~[w~nt m~mok menencwc n~teferpeynanef nak qen tekqae~. Ouoh m~perjoc qen pekh/t je tanom] ouoh p~tajro n~najij v/e~tafiri n/i n~nai nis] m~peynaneu: 
+               </Language>
+               <Language id="English">
+                  that He might deal harshly with you and might test you, to do you good in the end of your days—then do not say in your heart, 'My strength and the might of my hand gained me this great power.' 
+               </Language>
+               <Language id="Arabic">
+                  لكى يؤدبك ويجربك ثم يحسن إليك فى آخرتك. ولا تقل فى قلبك أننى بشجاعتى وقوة يدى صنعت لى هذه االخيرات العظيمة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla eke~erv~meui~ m~P[oic peknou]: je vai pettajro mmok eyre oujom swpi nak: hopwc n~teftaho n~tefdi~ay/k/ e~ratc eta~ P[oic wrk eyb/tc n~nekio] m~v~r/] mvoou n~e~hoou.
+               </Language>
+               <Language id="English">
+                  Then you shall remember the Lord your God, for [it is He] who gives you strength, that you may gain power, and He may establish His covenant the Lord swore to your fathers, as it is today.
+               </Language>
+               <Language id="Arabic">
+                  بل تذكر الرب إلهك فهو الذى ثبتك ليجعل لك القوة. لكى يفى بعهده الذى أقسم الرب من أجله لأبائك كما فى نهار هذا اليوم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acsanswpi de n~tekerpwbs qen ouerp~wbs mP[oic peknou]: n~teksenak n~tekouahk nca hankenou] n~semmo: n~tekwemsi mmwou ouoh n~tekouwst mmwou. 
+               </Language>
+               <Language id="English">
+                  Thus it shall be, if you forget the Lord your God, and follow after different gods and serve and worship them, 
+               </Language>
+               <Language id="Arabic">
+                  فإن أنت نسيت نسياناً الرب إلهك وذهبت واتبعت آلهه أخرى غريبة لتعبدها وتسجد لها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }ermeyre nwten m~voou n~ehoou n~t~ve nem p~kahi je qen outako tetennatako:
+               </Language>
+               <Language id="English">
+                  I testify against you today, [before Heaven and Earth] you shall surely perish.
+               </Language>
+               <Language id="Arabic">
+                  فأنى أشهد عليكم اليوم السماء والأرض إنكم تهلكون هلاكاً,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mvr/] n~nikeeynoc n/eta P[oic natakwou qat~h/ mmwten: pair/] hwten e~retentako je m~petencwtem e~t~c~m/ mP[oic petennou].
+               </Language>
+               <Language id="English">
+                  As the remaining nations the Lord destroys before your face, so you shall perish, because you would not be obedient to the voice of the Lord your God.
+               </Language>
+               <Language id="Arabic">
+                  كبقية الأمم التى أبادها الرب من أمامكم. هكذا أنتم تهلكون لأنكم لم تطيعوا لصوت الرب إلهكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 2:1-9</Language>
+               <Language id="Arabic">سيراخ 2: 1-9</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pas/ri icje ,~na] m~pek ouoi e~erbwk mP[oic cebte tek'u,/ e~hanpiracmoc: couten pekh/t ouoh fai e~rok n~teks~temjapjep qen p~c/ou n~nekqici:
+               </Language>
+               <Language id="English">
+                  My son, if you draw near to serve the Lord, prepare your soul for temptation. Set your heart right and be steadfast, and do not strive anxiously in distress.
+               </Language>
+               <Language id="Arabic">
+                  يا إبني إن تقدمت لخدمة الرب هيئ نفسك للتجارب. قوم قلبك وأحتمل ولا تنحل فى زمان أتعابك
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tomk e~rof n~teks~temhenk e~bol m~mof: je eke~aiai qen tekqae~: 
+               </Language>
+               <Language id="English">
+                  Cleave to Him and do not fall away, That you may be honored at the end of your life. 
+               </Language>
+               <Language id="Arabic">
+                  التصق به ولا تبتعد عنه. لكى تنمو فى آخرتك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  hwb niben eyn/ou e~jwk sopou e~rok n~tekswpi n~refw~oun~h/t qen pkahi m~pekyebio: je e~sauer dokimazin gar m~pinoub hiten pi,~rwm: nicwthwou n~te nirwmi qen ouhrw n~yebio: 
+               </Language>
+               <Language id="English">
+                  Accept whatever is brought upon you, and in exchange for your humiliation, be patient; because gold is tested in fire and acceptable men in the furnace of abasement. 
+               </Language>
+               <Language id="Arabic">
+                  أقبل كل ما يأتى عليك لتكون طويل الروح فى أرض تواضعك فإن الذهب يمحص بالنار. والمختارين من الناس فى أتون الذل 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nah] e~rof ouoh f~nasopk e~rof: couten nekmwit n~tekerhelpic e~rof:
+               </Language>
+               <Language id="English">
+                  Believe in Him, and He will help you; make your ways straight and hope in Him.
+               </Language>
+               <Language id="Arabic">
+                  آمن به فيقبلك. قوم سبلك وليكن عليه أتكالك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/e~terho] qat~h/ m~P[oic joust qat~h/ m~pefnai: m~perriki je n~netenhei: n/e~terho] qat~h/ m~P[oic nah] e~rof: ouoh netenbe,e n~noutako.
+               </Language>
+               <Language id="English">
+                  You who fear the Lord, wait for His mercy, and do not turn aside, lest you fall. You who fear the Lord, believe in Him, and your reward will not fail.
+               </Language>
+               <Language id="Arabic">
+                  أيها المتقون الرب أنتظروا رحمته ولا تحيدوا لئلا تسقطوا يا خائفى الرب آمنوا به فلا يضيع أجركم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/e~terho] qath/ m~P[oic erhelpic e~hana~gayon nem ouwnq n~e~neh nem ounai.
+               </Language>
+               <Language id="English">
+                  You who fear the Lord, hope for good things and for everlasting gladness and mercy.
+               </Language>
+               <Language id="Arabic">
+                  ويا خائفى الرب إرجوا الخيرات والحياة الأبدية والرحمة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 119:154-155</Language>
+               <Language id="Arabic">مزمور 119: 154-155</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Mahap e~pahap ouoh cott: eybe pekcaji mariwnq: 
+               </Language>
+               <Language id="English">
+                  Plead my cause and redeem me; give me life because of Your word. 
+               </Language>
+               <Language id="Arabic">
+                  أحكم حكمى ونجني من أجل كلامك أحيني. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  F~ou/~ou cabol n~niref e~rnobi n~je pioujai: je nekmeym/i m~poukw] n~cwou: All/louia.
+               </Language>
+               <Language id="English">
+                  Salvation is far from sinners, for they have not searched Your ordinances. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  بعيد الخلاص من الخطاة لأنهم لم يطلبوا حقوقك. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 23:37-24:2</Language>
+            <Language id="Arabic">متى 23: 37-24: 2</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ieroucal/m Ieroucal/m y/etqwteb n~nip~rov/t/c ouoh e~thiw~ni e~jen n/e~tauouorpou haroc:
+               </Language>
+               <Language id="English">
+                  “O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her!
+               </Language>
+               <Language id="Arabic">
+                  يا أورشليم يا أورشليم يا قاتلة الأنبياء وراجمة المرسلين إليها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oum/s n~cop aiouws e~you/t nes/ri m~v~r/] n~ouhal/t e~safywou] n~nefmac e~qoun qaneftenh ouoh m~petenouws: 
+               </Language>
+               <Language id="English">
+                   How often I wanted to gather your children together, as a hen gathers her chicks under her wings, but you were not willing! 
+               </Language>
+               <Language id="Arabic">
+                  كم من مرة أردت أن أجمع بنيك كما يجمع الطائر فراخه تحت جناحيه فلم تريدوا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ]na,w m~petn/i nwten efswf. ]jw gar m~moc nwten je n~netennau e~roi icjen ]nou satetenjoc je f~c~marwout n~je v/eyn/ou qen v~ran m~P[oic:
+               </Language>
+               <Language id="English">
+                  See! Your house is left to you desolate; for I say to you, you shall see Me no more till you say, ‘Blessed is He who comes in the name of the LORD!’”
+               </Language>
+               <Language id="Arabic">
+                  هوذا أترك لكم بيتكم خراباً. فأنى أقول لكم أنكم من الآن لا ترونى حتى تقولوا مبارك بإسم الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ ouoh aui~ harof n~je nefmay/t/c eutamo m~mof n~nikwt n~te piervei: 
+               </Language>
+               <Language id="English">
+                  Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple. 
+               </Language>
+               <Language id="Arabic">
+                  ولما خرج يسوع من الهيكل ومضى. تقدم إليه تلاميذه ليروه بناء الهيكل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nyof de afe~rouw~ pejaf nwou je tetennau e~nai t/rou:
+               </Language>
+               <Language id="English">
+                  And Jesus said to them, “Do you not see all these things?
+               </Language>
+               <Language id="Arabic">
+                  .أما هو فأجاب وقال لهم أنظروا هذا كله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  a~m/n ]jw m~moc nwten je n~nou,a ouw~ni ejen ouw~ni mpaima n~ce nabolf e~bol an.
+               </Language>
+               <Language id="English">
+                  Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down.”
+               </Language>
+               <Language id="Arabic">
+                  الحق أقول لكم أنه لا يترك ههنا حجر على حجر الا وينقض.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Several times, the Lord said “O Jerusalem, I wanted to gather your children as the hen gathers her chicks under her wings and you would not. 
+               </Language>
+               <Language id="Arabic">
+                  كم من مرة قال الرب أردت أن أجمع بنيك يا أورشليم كمثل الطائر الذى يجمع فراخه تحت جناحيه فلم تريدوا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Behold I leave your house for you desolate forever.”
+               </Language>
+               <Language id="Arabic">
+                  أنا أترك لكم بيتكم خراباً قال الرب إلى الأنقضاء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When the disciples heard the prophecy of the prophet and of the Savior, they showed him the temple, the venerated stones, and the sanctuaries. He responded to them saying: “There will not be two stones together.”
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع التلاميذ نبوة النبي والمخلص أروه بناء الهيكل والحجارة المكرمة والمحرمات فأجابهم قائلاً: أنه لا يترك ههنا حجر على حجر إلا وينقض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Truly this happened forty years after the ascension of our Lord. The Romans came, devastated the city, and demolished the temple which remains thus to this day.
+               </Language>
+               <Language id="Arabic">
+                  فبالحقيقة صار هذا من بعد أربعين سنة لصعود مخلصنا. جاء الروم وهدموا المدينة وأخربوا الهيكل إلى اليوم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  One million, two hundred-thousand Jewish men were killed by the sword. They were rebuked by God's wrath and His damnation covered their faces.
+               </Language>
+               <Language id="Arabic">
+                  مائة وعشرون ربوة رجال من اليهود قتلوا بحد السيف وحل عليهم غضب الله واللعنة غطت وجوههم.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

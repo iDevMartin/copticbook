@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/versesofthecymbals/GreatFastWeekend"/>
+   <InsertDocument path="include/versesofthecymbals/CovenantThursday"/>
+   <InsertDocument path="include/versesofthecymbals/CopticNewYear"/>
+   <InsertDocument path="include/versesofthecymbals/FeastOfTheCross"/>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="HosannaSunday">
+         <InsertDocument path="include/HosannaInTheHighest"/>
+      </Season>
+      
+      <Season id="FeastOfTheCross">
+         <Text>
+            <Language id="Coptic">
+               Ebol hiten pefctauroc nem tefanactacic eyouab: aftacyo mpirwmi nkecop: eqoun epiparadicoc.
+            </Language>
+            <Language id="English">
+               Through His cross: and His Holy Resurrection: He restored man once again: to the Paradise 
+            </Language>
+            <Language id="Arabic">
+               من قبل صليبه، وقيامته المقدسة، رد الانسان مرة أخري ، الي الفردوس.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

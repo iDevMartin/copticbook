@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StJuliana:All">
+      <Title>
+         <Language id="English">St. Juliana</Language>
+         <Language id="Arabic">القديسة يوليانه</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

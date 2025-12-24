@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>      
+      <Language id="English">The Eleventh Hour (Vespers)</Language>
+      <Language id="Arabic">صلاة الغروب</Language>      
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         5:00 PM: To commemorate the hour in which the Body of our Lord Jesus Christ was taken down from the Cross and anointed with spices and wrapped in linen.
+      </Language>
+      <Language id="Arabic">
+         تُقابل الخامسة بعد الظهر بالتوقيت الفرنجي. رُتبت بمناسبة إنزال جسد المخلص من عَلى الصليب. وفيها نشكر الرب عَلى حفظهِ إيانا إلى المساء.
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+         
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The sunset prayer of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة الغروب المبارك أقدمها للمسيح ملكي والهي وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+    
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">         
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 116</li>
+            <li>Psalm 117</li>
+            <li>Psalm 128</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/116"/>
+   <InsertDocument path="include/agpeya/psalms/117"/>
+   <InsertDocument path="include/agpeya/psalms/119"/>
+   <InsertDocument path="include/agpeya/psalms/120"/>
+   <InsertDocument path="include/agpeya/psalms/121"/>
+   <InsertDocument path="include/agpeya/psalms/122"/>
+   <InsertDocument path="include/agpeya/psalms/123"/>
+   <InsertDocument path="include/agpeya/psalms/124"/>
+   <InsertDocument path="include/agpeya/psalms/125"/>
+   <InsertDocument path="include/agpeya/psalms/126"/>
+   <InsertDocument path="include/agpeya/psalms/127"/>
+   <InsertDocument path="include/agpeya/psalms/128"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Luke 4:38-41)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا لوقا ص 4: 38-41
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               And He arose out of the synagogue, and entered into Simon's house. And Simon's wife's mother was taken with a great fever; and they requested Him concerning her. And He stood over her, and rebuked the fever; and it left her, and immediately she arose and served them.
+            </Language>
+            <Language id="Arabic">
+               ولما قام من المجمع دخل بيت سمعان. وكانت حماة سمعان بحمَّى شديدة. فسألوه من أجلها. فوقف فوقا منها وانتهر الحمى، فتركتها وفي الحال قامت وخدمتهم.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               When the sun was setting, all those who had any sick with diverse diseases brought them unto Him; and He laid His hands on every one of them, and healed them. And devils also came out of many, crying out, and saying, "You are Christ, the Son of God!" And He, rebuking them, did not allow them to speak, for they knew that He was Christ.
+            </Language>
+            <Language id="Arabic">
+               وعند غروب الشمس كان كل الذين عندهم مرضى بأنواع أمراض كثيرة يقدمونهم إليه. أما هو فكان يضع يديه على كل واحد منهم فيشفيهم. وكانت الشياطين تخرج من كثيرين وهي تصرخ وتقول: أنت هو المسيح ابن الله. فكان ينتهرهم ولا يدَعهم ينطقون، لأنهم كانوا قد عرفوه أنه هو المسيح.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. If the righteous one is scarcely saved, where shall I, the sinner, appear? The burden and heat of the day I did not endure because of the weakness of my humanity. But, O merciful God, count me with the fellows of the eleventh hour. For, behold, in iniquities I was conceived, and in sins my mother bore me. Therefore, I do not dare to lift up my eyes to Heaven; but rather, I rely on the abundance of Your mercy and love for mankind, crying out and saying, "God, forgive me, a sinner, and have mercy on me."
+            </Language>
+            <Language id="Arabic">
+               1. إذا كان الصديق بالجهد يخلص فأين أظهر أنا الخاطئ. ثقل النهار وحره لم أحتمل لضعف بشريتي. لكن أنت يا الله الرحوم احسبني مع أصحاب الساعة الحادية عشر. لأني هاأنذا بالآثام حبل بي وبالخطايا ولدتني أمي. فما أجسر أن أنظر إلى علو السماء، لكني أتكل على غنى رحمتك ومحبتك للبشرية، صارخا قائلا: اللهم اغفر لي أنا الخاطئ وارحمني
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. Hasten, O Savior, to open to me the fatherly bosoms, for I wasted my life in pleasures and lusts, and the day has passed by me and vanished. Therefore, now I rely on the richness of Your never-ending compassion. So, then, do not forsake a submissive heart which is in need of your mercy. For unto You I cry, O Lord, humbly, "Father, I have sinned against Heaven and before You, and I am no longer worthy to be called Your son, so make me as one of Your hired servants."
+            </Language>
+            <Language id="Arabic">
+               2. أسرع لي يا مخلص بفتح الأحضان الأبوية. لأني أفنيت عمري في اللذات والشهوات، وقد مضى منى النهار وفات، فالآن اتكل على غنى رأفتك التي لا تفرغ. فلا تتخل عن قلبٍ خاشع مفتقر لرحمتك. لأني إليك أصرخ يا رب بتخشع: أخطأت يا أبتاه إلى السماء وقدامك ولست مستحقا أن أدعَى لك ابنا، بل اجعلني كأحد أجرائك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. Every iniquity I did with prudence and activity, and every sin I committed with eagerness and diligence, and of all torment and judgement I am worthy. Therefore, prepare for me the ways of repentance, O Lady the Virgin; for to you I appeal, and through you I seek intercession, and upon you I call to help me, lest I might be put to shame. And when my soul departs my body attend to me, and defeat the conspiracy of the enemies, and shut the gates of Hades, lest they might swallow my soul, O you, blameless bride of the true Bridegroom.
+            </Language>
+            <Language id="Arabic">
+               3. لكل إثم بحرص ونشاط فعلتُ، ولكل خطيةٍ بشوق واجتهاد ارتكبتُ، ولكل عذابٍ وحكم استوجبتُ. فهيئي لي أسبابَ التوبة أيتها السيدة العذراء. فإليك أتضرع وبك أستشفع، وإياك أدعو أن تساعديني لئلا أخزى. وعند مفارقة نفسي من جسدي احضري عندي، ولمؤامرة الأعداء اهزمي، ولأبواب الجحيم أغلقي. لئلا يبتلعوا نفسي يا عروس بلا عيب للختن الحقيقي.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/TrisagionCollapsed"/>   
+   <InsertDocument path="include/agpeya/HailToYouCollapsed"/>
+   
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+   <Text>
+      <Language id="English">
+         We thank You, our Compassionate King, for You have granted us to pass this day in peace, and brought us to the evening thankfully, and made us worthy to behold daylight until evening. O God, accept our glorification which is offered now, and save us from the trickeries of the adversary, and abolish all the snares which are set against us. Grant us, in this coming night, peace without pain, or anxiety, or unrest, or illusion; so that we may pass it in peace and chastity, and rise up for praises and prayers. And thus, at all times and everywhere, we glorify Your holy name in everything, together with the Father, who is incomprehensible and without beginning, and the Holy Spirit, the Life-Giver, Who is in one essence with You, now and at all times, and unto the ages of all ages. Amen.
+      </Language>
+      <Language id="Arabic">
+         نشكرك يا ملكنا المتحنن لأنك منحتنا أن نعبر هذا اليوم بسلام وأتيت بنا إلى المساء شاكرين، وجعلتنا مستحقين أن ننظر النور إلى المساء. اللهم اقبل تمجيدنا هذا الذي صار الآن. ونجنا من حيل المضاد وأبطل سائر فخاخه المنصوبة لنا. هب لنا في هذه الليلة المقبلة سلامة بغير ألم ولا قلق ولا تعب ولا خيال. لنجتازها أيضا بسلام وعفاف، وننهض للتسابيح والصلوات كل حين وفي كل مكان، نمجد اسمك القدوس في كل شئ، مع الآب غير المدرك ولا المبتدئ، والروح القدس المحيي المساوي لك الآن وكل أوان والى دهر الدهور أمين.
+      </Language>
+   </Text>
+   </Section>
+         
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

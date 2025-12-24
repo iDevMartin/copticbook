@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Procession of the Cross</Language>
+   </Title>
+
+   <InsertDocument path="include/ProcessionOfTheCrossIntro"/>
+   <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+   
+   <Comment>
+      <Language id="English">
+         The twelve Gospels are read at the twelve stations in the church:         
+      </Language>
+   </Comment>
+         
+   <Section expanded="true">
+      <Title>
+         <Language id="English">First Gospel (Before the Main Sanctuary)</Language>
+      </Title>
+      
+      <Role id="Deacon">         
+         <BibleReference reference="Psalms 104:4;138:1-2" type="comment"/>
+         <BibleReference reference="John 1:43-51" type="comment"/>         
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Pif~tou n~zwon n~a~cwmatoc: etfai qa piharma n~te V]: ouho m~moui nem ouho m~maci: ouho n~rwmi nem ouho n~a~/toc.
+            </Language>
+            <Language id="English">
+               The four incorporeal creatures: who carry the chariot of the Lord: a face of a lion, a face of a bull: a face of a man and a face of an eagle. 
+            </Language>
+            <Language id="Arabic">
+               الأربعة حيوانات غير المتجسدين الحاملين مركبة الله وجه أسد ووجه ثور ووجه انسان ووجه نسر.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Second Gospel (Before the Icon of St. Mary)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 87:3, 5, 7" type="comment"/>
+         <BibleReference reference="Luke 1:39-56" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <InsertDocument path="include/TenichiciEmo"/>         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Third Gospel (Before the Icon of Archangel Gabriel)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 34:7-8" type="comment"/>
+         <BibleReference reference="Luke 1:26-38" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Gabri/l piaggeloc afnau e~rof n~je Dani/l: efo~hi e~ratf hijen pefvat: hijen nenc~votou m~v~iaro.
+            </Language>
+            <Language id="English">
+               Gabriel the angel, Daniel saw, standing on his feet, by the riverbank. 
+            </Language>
+            <Language id="Arabic">
+               غبريال الملاك رآه دانيال واقفاً علي قدميه علي شاطئ النهر.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">   
+      <Title>
+         <Language id="English">Fourth Gospel (Before the Icon of Archangel Michael)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 103:20-21" type="comment"/>
+         <BibleReference reference="Matthew 13:44-52" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Mi,a/l p~ar,wn n~naniv/oui: n~yof etoi n~sorp: qen nitaxic n~aggelikon: efsemsi m~pem~yo m~P[oic.
+            </Language>
+            <Language id="English">
+               Michael the leader of the heavenly , is the first, in the Angelic orders, serving before the Lord. 
+            </Language>
+            <Language id="Arabic">
+               ميخائيل رئيس السمائيين هو الأول في الطقوس الملائكية يخدم أمام الرب.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Fifth Gospel (Before the Icon of St. Mark)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 68:11-12" type="comment"/>
+         <BibleReference reference="Luke 10:1-12" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Markoc pia~poctoloc ouoh pieuaggelict/c: pimeyre qa nim~kauh: n~te pimonogen/c n~nou].
+            </Language>
+            <Language id="English">
+               Mark the Apostle, and the Evangelist, The witness to the passions, of the Only-Begotten God. 
+            </Language>
+            <Language id="Arabic">
+               مارمرقس الرسول والإنجيلي الشاهد علي آلام الإله الوحيد.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Sixth Gospel (Before the Icon of the Apostles)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 19:3-4" type="comment"/>
+         <BibleReference reference="Matthew 10:1-8" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               I/couc Pi,~rictoc afouwrp m~mwten: w~ pim/t c~nau n~a~poctoloc: e~tetenhiwis qen nieynoc: e~reten aitou n~,~rictianoc
+            </Language>
+            <Language id="English">
+               Jesus Christ sent you, O twelve apostles, to preach in the nations, making them Christians. 
+            </Language>
+            <Language id="Arabic">
+               أرسلكم يسوع المسيح أيها الإثنا عشر رسولاً لتبشروا في الأمم وتصيروهم مسيحيين.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true"> 
+      <Title>
+         <Language id="English">Seventh Gospel (Before the Icon of Any Martyr)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 97:11-12" type="comment"/>
+         <BibleReference reference="Luke 21:12-19" type="comment"/>
+      </Role> 
+      
+      <Role id="People"> 
+         <Comment>
+            <Language id="English">
+               For St. George:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Sasf n~rompi afjokou e~bol: n~je v/eyouab Gewrgioc: ere pio# n~ouro n~a~nomoc: eu]hap e~rof m~m/ini.
+            </Language>
+            <Language id="English">
+               Saint George completed seven whole years,  being judged daily  by seventy lawless kings. 
+            </Language>
+            <Language id="Arabic">
+               سبع سنين أكملها القديس جورجيوس وسبعون ملكاً منافقين يحكمون عليه كل يوم.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Or any other martyr:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: &lt;ere piswij n~genneoc: &lt;ere pia~ylovoroc: (…)
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: hail to the noble athlete: hail to the struggle bearer: (…) 
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد: السلام للبطل الشجاع السلام للابس الجهاد (...)
+            </Language>
+         </Text>
+                     
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Eighth Gospel (Before the Icon of Any Saint)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 68:35, 3" type="comment"/>
+         <BibleReference reference="Matthew 16:24-28" type="comment"/>
+      </Role> 
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Bwl e~bol qen netenh/t: n~nimokmek n~te ]kakia: nem pimeui~ etsebswb: eti~ri m~pinouc n~,aki.
+            </Language>
+            <Language id="English">
+               Purge from your hearts, thoughts of vice,  and deceptive fantasies, that darken the mind. 
+            </Language>
+            <Language id="Arabic">
+               حلوا من قلوبكم أفكار الشر والظنون الخداعة التي تظلم العقل.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Ninth Gospel (Before the Northern Door)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 84:1-2" type="comment"/>
+         <BibleReference reference="Luke 13:22-30" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Aksani~ qen tekmahc~nau]: m~paroucia etoi n~ho]: m~peny~rencwtem qen ouc~yerter: je ]cwoun m~mwten an.
+            </Language>
+            <Language id="English">
+               When You come in Your second, fearful appearance, do not let us fearfully hear, “I do not know you.” 
+            </Language>
+            <Language id="Arabic">
+               متي أتيت في ظهورك الثاني المخوف فلا نسمع برعدة أنني لست أعرفكم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Tenth Gospel (Before the Baptismal Font)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 29:3-4" type="comment"/>
+         <BibleReference reference="Matthew 3:13-17" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               Afermeyre n~je Iwann/c: qen pif~tou n~euaggelion: je ai]wmc m~pacwt/r: qen: nimwou n~te piIordan/c.
+            </Language>
+            <Language id="English">
+               John testified, in the four Gospels, “I baptized my Savior, in the waters of the Jordan.” 
+            </Language>
+            <Language id="Arabic">
+               شهد يوحنا في الأربعة أناجيل أني عمدت مخلصي في مياه الأردن.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Eleventh Gospel (Before the Southern Door)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 118:19-20" type="comment"/>
+         <BibleReference reference="Matthew 21:1-11" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               V/ethemci hijen ni,eroubim: hijen piy~ronoc n~te pefw~ou: afse e~qoun e~Il#/#m#: oupe pains] n~yebio.
+            </Language>
+            <Language id="English">
+               He Who sits on the Cherubim, on the throne of His glory, entered into Jerusalem, what is this great humility? 
+            </Language>
+            <Language id="Arabic">
+               الجالس علي الشيروبيم علي كرسي مجده دخل أورشليم يا له من تواضع عظيم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Twelfth Gospel (Before the Icon of St. John the Baptist)</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Psalms 52:8-9" type="comment"/>
+         <BibleReference reference="Luke 7:28-35" type="comment"/>
+      </Role>
+      
+      <Role id="People"> 
+         <Text>
+            <Language id="Coptic">
+               M~pe ouon twnf qen nijinmici: n~te nihiomi efo~ni m~mok: n~yok ounis] qen n/eyouab t/rou: Iwann/c piref]wmc.
+            </Language>
+            <Language id="English">
+               Among those born of women No one is like you. You are great among all the Saints, O John the Baptist. 
+            </Language>
+            <Language id="Arabic">
+               لم يقم في مواليد النساء من يشبهك أنت عظيم في جميع القديسين يا يوحنا المعمدان
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+      </Role>
+   </Section>
+      
+   <Role id="People">         
+      <Group>
+         <Season id="HosannaSunday">
+            <Comment>
+               <Language id="English">
+                  After the reading of the twelfth Gospel, the procession is continued two times around the nave of the church, while the deacons chant <span class="Coptic">Eulogimenoc</span>:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/Eulogimenoc"/>
+         </Season>
+         
+         <Season id="FeastOfTheCross">
+            <Comment>
+               <Language id="English">
+                  After the reading of the twelfth Gospel, the procession is continued two times around the nave of the church, while the deacons chant <span class="Coptic">Etauen Nic~qai</span>:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/HymnOfConstantine"/>
+         </Season>
+      </Group>
+   </Role>
+</Document>

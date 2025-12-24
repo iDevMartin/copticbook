@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/psalmTrailer/Nativity"/>
+   <InsertDocument path="include/psalmTrailer/Theophany"/>
+   <InsertDocument path="include/psalmTrailer/ApostlesFast"/>
+   <InsertDocument path="include/psalmTrailer/CopticNewYear"/>
+   <InsertDocument path="include/psalmTrailer/FeastOfTheCrossAndHosannaSundayMatins"/>
+   <InsertDocument path="include/psalmTrailer/PentecostPeriod"/>
+   <InsertDocument path="include/psalmTrailer/saints/ArchangelMichael"/>
+   <InsertDocument path="include/psalmTrailer/saints/StMary"/>
+</Document>

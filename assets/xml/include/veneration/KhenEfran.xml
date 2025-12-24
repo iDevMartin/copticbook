@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="Coptic">Qen v~ran</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Regardless of if the Veneration service is celebrated for a saint/martyr other than Saint Mary, the verse for Saint Mary is chanted first, as below:       
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Qen v~ran m~V~iwt nem P~s/ri nem Pip~neuma eyouab }t~riac eyouab n~o~mooucioc: 
+         </Language>
+         <Language id="English">
+            In the name of the Father, and the Son, and the Holy Spirit, the Holy and co-essential Trinity: 
+         </Language>
+         <Language id="Arabic">
+            بأسم الآب والابن والروح القدس الثالوث المساوى: 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Axia axia axia ]agia Maria ]paryenoc.
+         </Language>
+         <Language id="English">
+            Worthy, worthy, worthy, Saint Mary the Virgin.
+         </Language>
+         <Language id="Arabic">
+            مستحقة مستحقة مستحقة القديسة مريم العذراء.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/Axios"/>
+   </Section> 
+</Document>

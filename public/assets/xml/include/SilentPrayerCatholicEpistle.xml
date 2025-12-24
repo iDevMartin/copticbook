@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Title>
+         <Language id="English">Inaudible Prayer for the Catholic Epistle</Language>
+         <Language id="Arabic">سر الكاثوليكون</Language>
+      </Title>
+      
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">         
+               During the reading of the catholic Epistle, the partner or serving priest says the following prayer to the Father inaudibly.
+            </Language>
+            <Language id="Arabic">         
+               وفي أثناء قراءة الكاثوليكون يقول الكاهن الشريك أو الخديم هذه الصلاة للآب سراً وهي كما يأتي:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic Pennou] v/e~te e~bolhiten neka~poctoloc eyouab: akouwnh nan e~bol m~v~muct/rion m~pieuaggelion n~te p~w~ou n~te Pek,rictoc.
+            </Language>
+            <Language id="English">
+               O Lord our God, who through Your holy apostles has revealed to us the mystery of the Gospel of the glory of Your Christ,
+            </Language>
+            <Language id="Arabic">
+               أيها الربُّ إلهُنا، الذي من قِبَلِ رُسلِكَ القديسين أظهرتَ لنا سرَّ إِنجيلِ مجدِ مسيحِكَ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh akt/ic nwou kata ]nis] n~dwrea~ n~at]si e~roc n~te pekh~mot: eyrouhisennoufi qen nieynoc t/rou: n~]metramao~ n~at[itatci n~cwc n~te peknai.
+            </Language>
+            <Language id="English">
+               and have given to them according to the great immeasurable gift of Your grace that they should proclaim among all nations the glad tidings of the unsearchable riches of Your mercy,
+            </Language>
+            <Language id="Arabic">
+               وأعطيتَهم، كعظيمِ الموهبةِ التي لا تُحَد التي لنعمتِك، أن يبشروا في كلِّ الأممِ بالغنى الذي لا يُستَقصَى الذي لرحمتِكَ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }en]ho e~rok penn/b a~riten n~emp~sa m~poumeroc nem pouk~l/roc.
+            </Language>
+            <Language id="English">
+               we ask You, O our Master, make us worthy of their share and inheritance.
+            </Language>
+            <Language id="Arabic">
+               نسألُكَ ياسيدَنا: اجعلنا مستحقين نصيبَهُم وميراثَهُم.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ari,arizecye nan n~c/ou niben eyrenmosi n~ca nousen~tatci: ouoh n~tenswpi eno~ni n~noua~gwn.Ouoh n~tenerkoinwnin nemwou qen nifw] e~tausopou e~h~r/i e~jen ]meteuceb/c.
+            </Language>
+            <Language id="English">
+               Grant to us at all times to walk in their footsteps and to imitate their struggle, and to have communion with them in the sweat which they accepted for the sake of godliness.
+            </Language>
+            <Language id="Arabic">
+               وأَنعِم لنا كلَّ حينٍ أن نسلُكَ في آثارِهِم، ونكونَ متشبهين بجهادِهِم، ونشتركَ معهم في الأعراقِ التي قبلوها على التقوى.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ekrwic e~tekekk~l/cia~ eyouab: yai e~takhicen] m~moc e~bolhitotou: ouoh eke~c~mou e~nie~cwou n~te peko~hi: ouoh eke~y~ro n~taibw n~a~loli a~sai: yai e~tac[oc n~je tekouinam: qen Pi,rictoc I/couc Pen[oic.
+            </Language>
+            <Language id="English">
+               Watch over Your holy Church which You have founded through them, and bless the sheep of Your flock and make this vine to increase, which Your right hand has planted, in Christ Jesus our Lord.
+            </Language>
+            <Language id="Arabic">
+               حارساً بَيعَتَكَ المقدسة هذه التي أَسَّسْتَها من قِبَلِهم، وبارِكْ خرافَ قطيعِكَ. واجعلْ هذه الكرمةَ تكثر، هذه التي غرسَتْها يمينُكَ، بالمسيحِ يسوعَ ربِّنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/SilentPriestConclusionEnding"/>
+         
+         <Group>
+            <Season id="!Unction ^ !Baptism ^ !Sundays ^ !FeastsOfTheLordPeriods">
+               <Comment>
+                  <Language id="English">         
+                     Then the priest, holding in his hand the censer, prays inaudibly at the altar the following Litany for the Sacrifices. On Sundays and the feasts of the Lord, it is not prayed here, but during the morning Offering of Incense.
+                  </Language>
+                  <Language id="Arabic">         
+                     ثم يصلي الكاهن وبيده المجمرة أوشية القرابين على المذبح سراً. أما في الأحاد والأعياد السيدية فلا تقال ههنا بل تقال في صلاة باكر، وهي هذه:
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/AgainLetUsAsk"/>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi a~riv~meui~ P[oic n~niyucia nip~rocvora niseph~mot n~te n/e~tauerp~rocverin.
+                  </Language>
+                  <Language id="English">
+                     We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the sacrifices, the offerings, and the thanksgivings of those who have offered
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُ ونطلبُ من صلاحِك يا مُحبَّ البشرِ، اذكر ياربُّ صعائِدَ وقرابين وتشكُّراتَ الذين قَرَّبوا.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">         
+                     The priest places a spoonful of incense in the censer without making the sign of the cross over it, saying:
+                  </Language>
+                  <Language id="Arabic">         
+                     ههنا يضع في المجمرة يد بخور من غير رشم ويقول:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     e~outaio nem ouw~ou m~pekran eyouab.
+                  </Language>
+                  <Language id="English">
+                     to the honor and glory of Your holy name.
+                  </Language>
+                  <Language id="Arabic">
+                     كرامةً ومجداً لاسمِكَ القدوس.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>      
+      </Role>
+   </Section>
+   
+   <Group>
+      <Season id="!Unction ^ !Baptism ^ !Sundays ^ !FeastsOfTheLordPeriods">
+         <Section silent="true">
+            <Title>
+               <Language id="English">Litany of the Oblations</Language>
+               <Language id="Arabic">أوشية القرابين</Language>
+            </Title>        
+             
+            <InsertDocument path="include/litanies/OblationsDeacon"/>
+            
+            <Role id="People" silent="true">
+               <Text>
+                  <Language id="Coptic">
+                     Kurie~ e~le/~con.
+                  </Language>
+                  <Language id="English">
+                     Lord have mercy.
+                  </Language>
+                  <Language id="Arabic">
+                     ياربُّ ارحَم.
+                  </Language>         
+               </Text>      
+            </Role>
+            
+            <Role id="Priest" silent="true">
+               <Comment>
+                  <Language id="English">         
+                     The priest censes the altar and continues.
+                  </Language>
+                  <Language id="Arabic">         
+                     يقول الكاهن وهو يرفع البخور على المذبح:
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/litanies/OblationsContent.1"/>               
+               <InsertDocument path="include/SilentPriestConclusion"/>
+            </Role>         
+         </Section>
+      </Season>
+   </Group>
+</Document>

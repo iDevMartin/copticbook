@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday Eve (The Third Hour)</Language>
+         <Language id="Arabic">ليلة الأثنين (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~jwrh m~p~c~nau (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة االثالثة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Zephaniah 1:14-2:3</Language>
+               <Language id="Arabic">صفونيا 1: 14-2: 3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Zephaniah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  F~qent n~je p~e~hoou m~P[oic pinis]: f~qent ouoh f~i/c e~masw: tc~m/ m~p~e~hoou m~P[oic c~ensasi ouoh c~nast auyasy ecjor:
+               </Language>
+               <Language id="English">
+                  "For the great day of the Lord is near. It is near and quick. The sound of the day of the Lord is bitter and harsh.
+               </Language>
+               <Language id="Arabic">
+                  قريب هو يوم الرب العظيم. قريب هو وسريع جداً. صوت يوم الرب مر وشديد وصعب قوى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oue~hoou n~te p~jwnt pe piehoou e~tem~mau oue~hoou n~hojhej pe hia~nagk/: oue~hoou n~aynai pe nem outako: 
+               </Language>
+               <Language id="English">
+                  A mighty day of wrath has been appointed: a day of affliction and distress, a day of unseasonable happenings and destruction,
+               </Language>
+               <Language id="Arabic">
+                  ذلك اليوم يوم غضب يوم شدة وضيق. يوم عدم رحمة وهلاك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouehoou n~,aki pe nem ougnovoc: oue~hoou n~[/pi nem ounif.
+               </Language>
+               <Language id="English">
+                  A day of gloom and darkness, a day of cloud and vapor,
+               </Language>
+               <Language id="Arabic">
+                  يوم ظلام وضباب. يوم غمام وقتام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oue~hoou n~calpiggoc pe nem q~rwou e~jen nibaki etjor nem e~jen nilakh et[oci.
+               </Language>
+               <Language id="English">
+                  A day of the trumpet and shouting against the fortified cities and the high towers.
+               </Language>
+               <Language id="Arabic">
+                  يوم صافور وصراخ على المدن الحصينة وعلى الزوايا العالية.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~hojhej n~nirwmi ouoh eue~mosi m~v~r/] n~hanbelleu je auernobi m~P[oic:
+               </Language>
+               <Language id="English">
+                  I will greatly afflict the men, and they will walk as blind men, for they sinned against the Lord;
+               </Language>
+               <Language id="Arabic">
+                  وأضايق الناس فيمشون كالعمى لأنهم أخطأوا إلى الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~vwn m~pouc~nof e~bol m~v~r/t~ n~oukahi ouoh noucarx m~v~r/] n~hanhwiri:
+               </Language>
+               <Language id="English">
+                  And He shall pour out their blood as dust and their flesh as dung.
+               </Language>
+               <Language id="Arabic">
+                  فيسفح دمهم كالتراب ولحمهم كالجلة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pouhat nem pounoub n~nous~jemjom n~nahmou qen pie~hoou nte p~jwnt m~P[oic ouoh efe~mounk n~je p~kahi t/rf qen ou,~rwm n~te pefmoh: 
+               </Language>
+               <Language id="English">
+                  Their silver and gold shall not be able to deliver them in the day of the wrath of the Lord, but the whole land shall be consumed by the fire of His zeal; 
+               </Language>
+               <Language id="Arabic">
+                   لا فضتهم ولا ذهبهم يقدر أن يخلصهم فى يوم غضب الرب. وبنار غيرته تفنى الأرض كلها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i f~nai~ri n~oujwk nem oui/c e~jen ouon niben etsop hijen p~kahi.
+               </Language>
+               <Language id="English">
+                  For He will bring about a speedy end to all those who dwell in the land.
+               </Language>
+               <Language id="Arabic">
+                  لأنه يوقع قضاء سريعاً على جميع سكان الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Owou] ouoh n~toucenh y/nou nieynoc n~atc~bw m~patetener m~v~r/] n~ouh~r/ri e~saccini.
+               </Language>
+               <Language id="English">
+                  O untaught nation, be gathered together and united to one another, before you become like a flower that passes away,
+               </Language>
+               <Language id="Arabic">
+                  أجتمعوا و أحتشدوا يا أيها الأمم الجهلة. قبل أن تصيروا كالزهرة العابرة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpateftahe y/nou n~je p~jwn~t m~P[oic Mpatefi~ e~jen y/nou n~je pimbon n~te p~e~hoou mP[oic: 
+               </Language>
+               <Language id="English">
+                  Before the anger of the Lord comes upon you, before the day of the wrath of the Lord comes upon you!
+               </Language>
+               <Language id="Arabic">
+                  قبل أن يدرككم غضب الرب. قبل أن يأتى عليكم يوم سخط الرب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kw] n~ca P[oic n/t/rou ety/bi/out n~te p~kahi:
+               </Language>
+               <Language id="English">
+                  Seek the Lord, all you humble of the earth.
+               </Language>
+               <Language id="Arabic">
+                  أطلبوا الرب يا جميع متواضعى الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Arihwb mp~hap ouoh kw] n~ca ]meym/i: ouoh a~ri ouw~ mmwou: hopwc n~tou erq/ibi e~jwten qen p~e~hoou mpim~bon n~te P[oic.
+               </Language>
+               <Language id="English">
+                  Bring about justice, seek righteousness, and give answer to these things, so you may be sheltered in the day of the Lord's wrath.
+               </Language>
+               <Language id="Arabic">
+                  أصنعوا الحكم وأطلبوا العدل وجاوبوا بهما. لعلكم تستترون فى يوم رجز الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 28:9, 2</Language>
+               <Language id="Arabic">مزمور 28: 9, 2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nohem m~peklaoc~ c~mou e~tekk~l/ronomia: a~moni m~mwou [acou sae~neh: 
+               </Language>
+               <Language id="English">
+                  Save Your people, and bless Your inheritance; and shepherd them, and raise them up forever.
+               </Language>
+               <Language id="Arabic">
+                  خلص شعبك بارك ميراثك أرعهم و أرفعهم إلى الأبد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cwtem P[oic ep~q~rwou n~te patwbh: qen p~jintatwbh oub/k: All/louia.
+               </Language>
+               <Language id="English">
+                  Hear the voice of my supplication when I pray to You. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أستمع يارب صوت تضرعى اذ أبتهل إليك. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 9:18-22</Language>
+            <Language id="Arabic">لوقا 9: 18-22</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh acswpi ef,/ cap~ca m~mauatf eferp~roceu,ecye nau,i nemaf pe n~je nefmay/t/c ouoh afsenou efjw m~moc je a~re nim/s jw m~moc je a~nok nim:
+               </Language>
+               <Language id="English">
+                  And it happened, as He was alone praying, that His disciples joined Him, and He asked them, saying, “Who do the crowds say that I am?”
+               </Language>
+               <Language id="Arabic">
+                  وأذ كـان يصلي منفرداً وحده كان تلاميذه معه فسألهم قائلاً. من تقول الجموع أنى أنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de e~taue~rouw pejwou je Iwann/c piref]wmc hanke,wouni de je ?liac:
+               </Language>
+               <Language id="English">
+                  So they answered and said, “John the Baptist, but some say Elijah; 
+               </Language>
+               <Language id="Arabic">
+                  أما هـم فأجابـوا وقالوا يوحنا المعمدان وآخرون أيليا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hanke,wouni de je oup~rov/t/c n~te niar,eoc pe e~taftwnf.
+               </Language>
+               <Language id="English">
+                  And others say that one of the old prophets has risen again.”
+               </Language>
+               <Language id="Arabic">
+                  وآخرون يقولون أن نبيا من الأولين قد قام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de nwou n~je I/couc je n~ywten de a~retenjw m~moc je anok nim Petroc de e~tafe~rouw pejaf je n~yok pe Pi,~rictoc n~te Vnou]: 
+               </Language>
+               <Language id="English">
+                  He said to them, “But who do you say that I am?” Peter answered and said, “The Christ of God.” 
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم وأنتم من تقولون أنى أنا. فأجاب بطرس وقال أنت مسيح الله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de e~taf ere~pitiman n~wou afhonhen n~wou e~s~tem je vai n~h~li: 
+               </Language>
+               <Language id="English">
+                  And He strictly warned and commanded them to tell this to no one, 
+               </Language>
+               <Language id="Arabic">
+                  فاما هو فانتهرهم وأوصاهم أن لا يقولوا هذا لأحد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eafjoc je hw] pe n~te p~s/ri m~v~rwmi [i oum/s n~qici ouoh n~tousosf n~je ni p~recbuteroc nem niar,/e~reuc nem nicaq ouoh n~touqoybef ouoh n~tef twnf qen pimah somt n~e~hoou.
+               </Language>
+               <Language id="English">
+                  Saying, “The Son of Man must suffer many things, and be rejected by the elders and chief priests and scribes, and be killed, and be raised the third day.”
+               </Language>
+               <Language id="Arabic">
+                  وقال أنه ينبغى لإبن البشر أن يتألم كثيراً ويرذل من الشيوخ ورؤساء الكهنة والكتبة ويقتلونه وفى اليوم الثالث يقوم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>            
+               <Language id="English">
+                  Our Savior prayed to teach us to be always awake for prayers. After He finished He asked his disciples “Who do the crowds say that I am?” They answered: Some say John the Baptist, but others say Elijah, or one of the old prophets. 
+               </Language>
+               <Language id="Arabic">
+                  مخلصنا صلى لكى يعلمنا أن نسهر فى كل حين للصلاة. وبعد أن فرغ سأل تلاميذه قائلاً : ماذا يقول الناس من أجلى. فاجابوه إن قوماً يقولون أنك أنت القديس يوحنا المعمدان. وآخرون يقولون أنت أيليا أو واحد من الآنبياء الأولين. 
+               </Language>
+            </Text>
+         
+            <Text>            
+               <Language id="English">
+                  He, the Omniscient, was testing them. Then He asked, " But who do you say that I am?" Peter answered saying, "You are Christ, the Son of God, who came to the world to save us."
+               </Language>
+               <Language id="Arabic">
+                  وأن العارف بكل شئ قبل كونه أمتحنهم ثم قال لهم : فانتم ماذا تقولون. فأجاب بطرس وقال : أنت هو المسيح إبن الله الذى أتى إلى العالم حتى يخلصنا.
+               </Language>
+            </Text>
+         
+            <Text>            
+               <Language id="English">
+                  "Blessed are you Peter, the solid rock, because flesh and blood did not reveal this to you but My Father did, so that you preach it to the world.
+               </Language>
+               <Language id="Arabic">
+                  طوباك أنت يا بطرس الصخرة الغير المتزعزعة لأنه ليس جسد ودم كشف لك هذا لكن أبى هو الذى أظهره لك لكى تكرز به فى المسكونة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  As for the cursed Jews, they are rejecting me because of their envy, and will deliver me to death. I shall expose, and defame them; and will cause them eternal disgrace and shame."
+               </Language>
+               <Language id="Arabic">
+                  فاما اليهود الملاعين فإنهم يجحدوننى من أجل حسدهم ويسلموننى إلى الموت. أنا أشهرهم وأهتكهم وأعطيهم عاراً وخزياً أبدياً.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

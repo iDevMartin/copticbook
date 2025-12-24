@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text type="Refrain">
+      <Language id="English">
+         Blessed are those who have mercy / 
+         Who give to the poor and fast and pray / 
+         The Holy Spirit will fill their hearts / 
+         The Son will show them mercy on Judgment Day
+      </Language>
+      <Language id="Arabic">
+         طوبى للرحما على المساكين / 
+         فإن الرحمة تحل عليهم / 
+         والمسيح يرحمهم في يوم الدين / 
+         ويحل بروح قدسه فيهم
+      </Language>
+   </Text>
+   
+   <Text type="Refrain">    
+      <Language id="English">  
+         Blessed are those who have mercy / 
+         From God they shall obtain mercy / 
+         On Judgment Day Christ will set them apart / 
+         May His Holy Spirit fill all their heart
+      </Language>
+   </Text>
+</Document>

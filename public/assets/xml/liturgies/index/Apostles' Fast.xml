@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="ApostlesFast ^ WatosDays ^ AdamDays">
+      <Title>
+         <Language id="English">Apostles' Fast</Language>
+         <Language id="Arabic">صوم آبائنا الرسل</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Offering of Incense</Language>
+         <Language id="Arabic">رفع بخور</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins ^ Vespers">         
+         <InsertDocument path="include/psalmTrailer/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <ForceSeason id="MidnightPraises">
+         <InsertDocument path="include/psalies/OccasionPsalies"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/Ontos"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Praxis Response</Language>
+               <Language id="Arabic">مرد الابركسيس</Language>
+            </Title>
+            
+            <InsertDocument path="include/praxisResponse/ApostlesFast"/>
+         </Section>
+         
+         <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+         <InsertDocument path="include/gospelResponse/saints/Index"/>
+         <InsertDocument path="include/adamAspasmos/Index"/>
+         <InsertDocument path="include/watosAspasmos/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/distribution/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/Apostles Fast">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

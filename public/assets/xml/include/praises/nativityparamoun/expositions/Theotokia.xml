@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Group>
+         <Season id="AdamDays">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Adam Exposition For the Theotokia</Language>
+                  <Language id="Arabic">طرح أدام على الثيؤطوكية</Language>
+               </Title>
+                
+               <Text>
+                  <Language id="Coptic">
+                     A~mwini t/rou m~voou: nilaoc n~te p~kahi: a~riyew~rin: m~paimuct/rion.
+                  </Language>
+                  <Language id="English">
+                     Come today, all you people of the earth and behold this mystery.
+                  </Language>
+                  <Language id="Arabic">
+                     تعالوا كلكم اليوم يا شعوب الأرض، وأنظروا هذا السر،
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je aumici nan m~V~nou]: e~bol qen ouparyenoc: a[ne c~perma n~rwmi: afi~ afw] m~mon.
+                  </Language>
+                  <Language id="English">
+                     For God was born unto us from a virgin without a human seed. He came and saved us.
+                  </Language>
+                  <Language id="Arabic">
+                     لأنه قد وُلد لنا الله من عذراء بغير زرع بشر. إذ أتى وخلصنا،
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Marenhwc e~rof: nem niaggeloc: qen paihumnoc eyouab: n~e~pouranion.
+                  </Language>
+                  <Language id="English">
+                     Let us praise Him along with the angels with this holy heavenly praise, saying:
+                  </Language>
+                  <Language id="Arabic">
+                     فلنسبحه مع الملائكة، بهذه التسبحة المقدسة السمائية قائلين:
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je ouw~ou m~V~nou]: n~h~r/i qen n/et[oci: nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi.
+                  </Language>
+                  <Language id="English">
+                     "Glory to God in the highest, peace on earth and goodwill among people."
+                  </Language>
+                  <Language id="Arabic">
+                     "المجد لله في الأعالي وعلى الأرض السلام، وفي الناس المسرة."
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     B/yleem n~te Ioudai: rasi qen ouyel/l: je afviri n~q/]: n~je I/couc Pi,~rictoc.
+                  </Language>
+                  <Language id="English">
+                     Celebrate with joy, O Bethlehem of Judea, for from you blossomed Jesus Christ,
+                  </Language>
+                  <Language id="Arabic">
+                     افرحي بتهليل يا بيت لحم اليهودية لأنه قد أينع منكِ يسوع المسيح
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Pilogoc e~taf[i carx: a~ Maria macf: ecoi m~paryenoc: qen ouhwb n~s~v/ri.
+                  </Language>
+                  <Language id="English">
+                     the Word Incarnate, born of Mary, who is a virgin—a wondrous act.
+                  </Language>
+                  <Language id="Arabic">
+                     الكلمة المتجسد. قد ولد من مريم وهي عذراء بأمر عجيب،
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     G~rav/ niben: e~tauersorp n~jotou: eybe p~jini~ m~Pi,~rictoc: n~je nip~rov/t/c.
+                  </Language>
+                  <Language id="English">
+                     All the prophets’ Scriptures which heralded and prophesied of the coming of Christ
+                  </Language>
+                  <Language id="Arabic">
+                     وكل الكتب التي سبق فأنبأت عن مجئ المسيح من الأنبياء،
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aujwk e~bol m~voou: n~h~r/i qen B/yleem: ;~baki n~Dauid: e~taumacf e~bol n~q/tc.
+                  </Language>
+                  <Language id="English">
+                     have been fulfilled today in Bethlehem, the city of David, in which He was born.
+                  </Language>
+                  <Language id="Arabic">
+                     قد كملت اليوم في بيت لحم مدينة داود التي وُلد فيها.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Dauid pip~rov/t/c: er,wreuin nan: je ;~metcaie m~pefcai: ou e~bol qen Ciwn.
+                  </Language>
+                  <Language id="English">
+                     David the prophet gives praises for us saying: "The beauty of His splendor is in Zion,
+                  </Language>
+                  <Language id="Arabic">
+                     داود النبي يسبح لنا قائلاً: "حُسن بهائه في صهيون،
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Efe~i~ n~je V~nou]: qen ouonh e~bol: P~[oic n~te nijom: qen ouc~m/ n~calpiggoc.
+                  </Language>
+                  <Language id="English">
+                     and God came manifestly, Lord of hosts, with the sound of the horn."
+                  </Language>
+                  <Language id="Arabic">
+                     والله أتى ظاهراً، ورب القوات بصوت القرن."
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Maria }paryenoc: nem Iwc/v piamse: nau,/ qen pima n~jwili: m~v~r/] n~nisemmwou.
+                  </Language>
+                  <Language id="English">
+                     Mary the Virgin and Joseph the carpenter were in that place refugees, like sojourners.
+                  </Language>
+                  <Language id="Arabic">
+                     مريم العذراء ويوسف النجار كانا في الموضع ملتجئين مثل أناس غرباء.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Acmici m~Pecs/ri: ouoh pisorp m~mici: acs~totf qen piouonhf: n~te nitebnwoui~.
+                  </Language>
+                  <Language id="English">
+                     Mary gave birth to her firstborn son and she laid Him down in a manger for the beasts.
+                  </Language>
+                  <Language id="Arabic">
+                     فولدت مريم ابنها البكر، وأضجعته في مذود البهائم.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Marenhwc e~rof ...
+                  </Language>
+                  <Language id="English">
+                     Let us praise Him and bless Him for his mercy is forever.
+                  </Language>
+                  <Language id="Arabic">
+                     فلنسبحه ونباركه لأن إلى الأبد رحمته.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="English">
+                     (The emperor decreed that the whole world should be registered. Everyone went to Bethlehem to register his name and his father’s name. Let us praise Him with the angels, saying, “Glory to God...”
+                  </Language>
+                  <Language id="Arabic">
+                     (صدر أمر من الملك أن يكتتب جميع المسكونة وليمض كلهم واحداً واحداً إلى بيت لحم ليكتب إسمه وإسم أبيه. فلنسبحه مع الملائكة قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     Truly the righteous Joseph arose with the pure Virgin Mary and they went to Bethlehem to register their names. The Virgin was pregnant with our Savior. Let us praise Him with the angels, saying, “Glory to God...”
+                  </Language>
+                  <Language id="Arabic">
+                     بالحقيقة قام يوسف البار هو ومريم العذراء الطاهرة ومضيا إلى بيت لحم يكتبا أسميهما. وكانت العذراء حبلى بالمخلص. فلنسبحه مع الملائكة قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     Joseph the righteous registered a wonderous Mystery when they registered Joseph and Mary his bethroted wife with Jesus his Son. Let us praise Him with the angels, saying, “Glory to God...”
+                  </Language>
+                  <Language id="Arabic">
+                     فكتب يوسف الصديق سراً عجيباً وعندما كتبوا يوسف ومريم خطيبته ويسوع إبنه، فلنسبحه مع الملائكة قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     Gather all today and behold this great and mysterious wonder: [Joseph’s] name was registered with the Virgin and Jesus his Son before He was born. Let us praise Him with the angels, saying, “Glory to God...”
+                  </Language>
+                  <Language id="Arabic">
+                     اجتمعوا كلكم اليوم وأنظروا هذا العجب العظيم المعجب. وهو أنه كتب إسمه وإسم العذراء ويسوع إبنه قبل ميلاده، فلنسبحه مع الملائكة قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     The mystery was revealed to us exactly as the angel said when he spoke to Joseph saying, “Take to you your wife for the One she will bear is called Jesus.” Let us praise Him with the angels, saying, “Glory to God...”
+                  </Language>
+                  <Language id="Arabic">
+                     قد ظهر لنا السر كحسب الوقت الذي ذكره الملاك لما خاطب يوسف قائلاً: "خذ خطيبتك إليك فإن الذي تلده يدعى يسوع،" فلنسبحه مع الملائكة قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     When the days of her pregnancy of the Savior were completed, her Son was born, the first-born of the Father, begotten before all ages and laid Him in a barn of animals. Let us praise Him with the angels, saying, “Glory to God...”)
+                  </Language>
+                  <Language id="Arabic">
+                     فلما كملت الأيام أن تلد العذراء المخلص، ولدت إبنها بكر الآب المولود قبل كل الدهور وأرقدته في معلف البهائم. فلنسبحه مع الملائكة قائلين: "المجد لله...")
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="WatosDays">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Watos Exposition For the Theotokia</Language>
+                  <Language id="Arabic">طرح واطس على الثيؤطوكية</Language>
+               </Title>
+                     
+               <Text>
+                  <Language id="Coptic">
+                     Ourasi n~ats~caji m~mof: afswpi qen ]oikoumen/: je aumici m~Pencwt/r: qen B/yleem n~te }ioudea~.
+                  </Language>
+                  <Language id="English">
+                     Unutterable joy came to the world for our Savior was born in Bethlehem of Judea.
+                  </Language>
+                  <Language id="Arabic">
+                     فرح لا ينطق به صار للمسكونة لأنه قد وُلد مخلصنا في بيت لحم اليهودية.
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="Coptic">
+                     A~ ]k~t/cic t/rc [imei: a~ niaggeloc erhumnoc: a~ nimane~cwou yel/l: e~jen pij~vo m~paryenikon.
+                  </Language>
+                  <Language id="English">
+                     The whole creation overflowed with joy, the angels sang, and the shepherds rejoiced for the virginal Birth.
+                  </Language>
+                  <Language id="Arabic">
+                     لقد فاضت البَرِيَة فرحاً ورتلت الملائكة وتهللت الرعاة بالميلاد البتولي.
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     Therefore the ranks on high joyfully sing and say, “Glory to God in the highest, peace on earth and goodwill towards men.”
+                  </Language>
+                  <Language id="Arabic">
+                     من أجل هذا ترتل الطغمات العلوية بتهليل وتقول "المجد لله في الأعالي وعلى الأرض السلام وفي الناس المسرة."
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     For He has come and saved us for we are His people. The angel of the Lord appeared to the shepherds, bringing them the good tidings, saying “A Savior was born to you this day.” Therefore we sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     لأنه قد أتى وخلصنا فنحن شعبه. قد ظهر ملاك الرب للرعاة وبشرهم بالسرور قائلاً: "قد وُلد لكم اليوم مخلص." من أجل ذلك نرتل ونقول: "المجد لله..."
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     The shepherds became afraid because of the light that appeared to them. They said to one another, “What is this mystery?” The heavenly hosts sing on earth and praise their Creator who became man for our sake. Therefore we sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     فخافت الرعاة من أجل النور الذي طلع عليهم. وخاطب بعضهم بعضاً قائلين "ما هو هذا السر؟" أن الأجناد السمائية ترتل على الأرض ويسبحون خالقهم الذي تأنس لأجلنا. ومن أجل هذا نرتل ونقول: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     The angel said to the shepherds, “Do not be afraid of what the Lord is telling you. A Mystery hidden before the ages appears to you now in Bethlehem, the city of David.” Therefore we sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     فأجاب الملاك الرعاة "لا تخافوا من أجل ما أعلمكم به الرب. لأنه سِرّ مكتوم من قبل كل الدهور ظهر لكم الآن في بيت لحم مدينة داود." من أجل هذا نرتل قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     Then the shepherds said to one another, “Let us go to Bethlehem as the angel said to see the Lord’s words fulfilled and be the first to see His Coming.” Therefore we sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     حينئذ قال الرعاة بعضهم لبعض "لنمض إلى بيت لحم كقول الملاك لننظر الكلام الذي أعلمنا به الرب ونصير أول المنذرين بمجيئه." من أجل هذا نرتل قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     The angel said to the shepherds, “Go to Bethlehem and this will be a sign to you: You will find a Babe wrapped and lying in a manger.” He is the Lord of powers who became man for this reason. We sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     فأجاب الملاك وقال للرعاة "إمضوا إلى بيت لحم. وهذه علامة لكم أنكم تجدون طفلاً ملفوفاً وموضوعاً في مذود." هو رب القوات الذي تأنس لأجل هذا. نرتل قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                
+               <Text>
+                  <Language id="English">
+                     The shepherds went to Bethlehem, the place which the prophets said the Christ will be born in. They found Mary and Joseph with the Child lying in a manger because there was no place for them. Therefore we sing, saying, “Glory to God…”
+                  </Language>
+                  <Language id="Arabic">
+                     فجدَّ الرعاة إلى بيت لحم، الموضع الذي قالت عنه الأنبياء أن المسيح يولد فيه. فوجدوا مريم ويوسف والطفل موضوعاً في مذود لأنه لم يكن لهما موضع حيث نزلا. من أجل ذلك نرتل قائلين: "المجد لله..."
+                  </Language>
+               </Text>
+                     
+               <Text>
+                  <Language id="English">
+                     The shepherds saw all the heavenly hosts praising with the angels, saying, “Glory to God…” for has come and saved us. Then the shepherds returned to their homes with great joy, praising and glorifying God for all the things they had seen. They testified to the multitudes, saying, “Christ was born in Bethlehem of Judah and we have seen Him with our own eyes. So we knelt before Him, worshipping Him, and believed that He is the Savior.” Glory to Him, with His good Father and the Holy Spirit forever. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     ونظر الرعاة جميع الأجناد السمائية يسبحون مع الملائكة قائلين: "المجد لله..." لأنه أتى وخلصنا. ورجع الرعاة إلى بيوتهم بفرح عظيم، يسبحون ويمجدون الله على كل ما رأوا. وكانوا يشهدون للجموع قائلين: "قد وُلد المسيح في بيت لحم يهذوا وقد رأينا رؤيا العين فخررنا له ساجدين وآمنا أنه هو المخلص." له المجد مع أبيه الصالح والروح القدس إلى الأبد. آمين.
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+      </Group>
+   </Season>
+</Document>

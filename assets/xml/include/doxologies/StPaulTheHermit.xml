@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPaulTheHermit:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Paul the Hermit</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس أنبا بولا</Language>
+            <Language id="Coptic">Peniwt e#y#u#...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Paul the Hermit:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Peniwt e#y#u# abba Paule: afswpi n~houit hi p~safe: aferackin qen oumetaymounk: m~pie~hoou nem pie~jwrh.
+            </Language>
+            <Language id="English">
+               Our holy father Abba Paul, was the first in the wilderness, he unceasingly disciplined himself, by day and by night.
+            </Language>
+            <Language id="Arabic">
+               أبونا القديس أنبا بولا صار أولا فى البرية وتنسك بغير انقطاع نهاراً وليلاً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af[oji qen pic~tadion: n~te ]meteuceb/c: af[i m~pibai n~te pi[ro: hiten t~jom n~te P,#c#.
+            </Language>
+            <Language id="English">
+               He fought in the stadium, of piety and he received, the gift of victory, through the strength of Christ.
+            </Language>
+            <Language id="Arabic">
+               وجاهد فى ميدان العبادة ونال جائزة الغلبة بقوة المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Efws e~bol efjw m~moc: m~v~r/] m~picovoc Pauloc: m~pem~yo m~peniwt piy~m/i: pinis] e#y#u# Antwnioc.
+            </Language>
+            <Language id="English">
+               Proclaiming and saying, like the wise Paul, before our righteous father, the great Saint Antony.
+            </Language>
+            <Language id="Arabic">
+               صارخاً قائلاً مثل بولس الحكيم أمام أبينا البار العظيم القديس أنبا أنطونيوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anok pia~gwn eynanef: aiera~gwnizecye m~mof: pid~romoc aijokf e~bol: pinah] aia~reh e~rof.
+            </Language>
+            <Language id="English">
+               "I have fought, the good fight, I have finished the race, and I have kept the faith."
+            </Language>
+            <Language id="Arabic">
+               قد جاهدت الجهاد الحسن وأكملت السعى وحفظت الايمان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Palin f~,/ n/i n~je pi,~lom: n~te ]dikeocun/: vai e~te Po#c# nat/if n/i: qen pie~hoou e~te m~mau.
+            </Language>
+            <Language id="English">
+               "There is laid up for me, the crown of righteousness, which the Lord will give me, in that day."
+            </Language>
+            <Language id="Arabic">
+               وأيضاً وضع لى اكليل البر هذا الذى يعطيه لى الرب فى ذلك اليوم.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StPaulTheHermit"/>
+      </Section>
+   </Season>
+</Document>

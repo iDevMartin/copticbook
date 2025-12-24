@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Fifth Explanation</Language>
+               <Language id="Arabic">التفسير الخامس</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  The Lord spoke to Moses / Upon the mount saying / Arise, build a lampstand / Overlay it with the chosen gold
+               </Language>
+               <Language id="Arabic">
+                  الله كلم موسى / فوق جبل الطور أجهار / قم أصنع منارة / من الذهب المختار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  And upon it seven candles / To shine by day and night / From the inside of the dome / And from the ark
+               </Language>
+               <Language id="Arabic">
+                  وفيها سبعة سرج / تنير ليل و نهار / من داخل القبة / نيم تى كيفوتوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He made it according to the plan / And built the lampstand / Out of precious gold / Blessed are you O chosen
+               </Language>
+               <Language id="Arabic">
+                  فصنع موسى كما قال / وصنع المنارة / من الذهب العال / طوباك يامختارة
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Blessed are you, O Mary / You gave meaning to the symbols / Your light dawned upon us / We the Christians
+               </Language>
+               <Language id="Arabic">
+                  طوباك يامريم / فسرت الامثال / ونورك اشرق فينا / انون خانى إخريستيانوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are the lampstand / That is filled with light / And its light shined / Upon all the earth
+               </Language>
+               <Language id="Arabic">
+                  أنت هى المنارة / المملوءة انوار / وشعاع نورها أشرق / على كل الأقطار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O Mary, you are higher / Than all the upright fathers / His Holy Spirit came upon you / The Holy Lord
+               </Language>
+               <Language id="Arabic">
+                  وعليت يامريم / عن الآباء الأبرار / حل بروح قدسه / فيك الرب القدوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Moses did see you / Upon Mount Tabor / A planted tree / Engulfed in light
+               </Language>
+               <Language id="Arabic">
+                  رآك موسى / فوق جبل الطور / شجرة مغروسة / محاطة بالأنوار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Through you O Mary / We became victorious / No one has received / What you have been granted
+               </Language>
+               <Language id="Arabic">
+                  بك يامريم فزنا / بفرح وبهجة وسرور / من نال مانلت / فى سائر بى كوسموس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  There is no one like you / On earth or in heaven / The Lord favored you / Above all the creations
+               </Language>
+               <Language id="Arabic">
+                  ليس من يشبهك / فى الأرض ولا فى السموات / والرب فضلك / عن كل المخلوقات
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Many spoke of you / In prophesies and proverbs / The fathers called you / The fair dove.
+               </Language>
+               <Language id="Arabic">
+                  وقد شهدوا عنك / فى اسفار ونبوات / سماك الآباء / تى إتشرومبى إثنيسوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  David your father / In the psalms did say / “The Lord choose your beauty / And increased you in splendor.
+               </Language>
+               <Language id="Arabic">
+                  داود أبوك / فى المزمور قد قال / الرب إختار حسنك / وزادك نور وجمال
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He dwelt in your womb / Nine full months / You gave birth to Him, He drank your milk / According to the angel's decree”
+               </Language>
+               <Language id="Arabic">
+                  وحل فى بطنك / تسعة أشهر بكمال / ولدتيه ورضع لبنك / كبشارة بى أنجيلوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He likewise said / O mother of Man / A Man dwelt in her / The Most High King.
+               </Language>
+               <Language id="Arabic">
+                  وقال ايضاً / يا أم الإنسان / وإنسان حل فيها / وهو الملك الديان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He Who overshadowed her / And sent her His Holy Spirit / You gave birth to the True God / The Creator of souls.
+               </Language>
+               <Language id="Arabic">
+                  الذى انشأها / وأرسل لها روح قدسه ببيان / ووضعت الله الحق / الخالق كل نفوس
+               </Language>
+            </Text>
+           </Section>
+         
+         <InsertDocument path="include/praises/koiahk/ExplanationRefrain"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Gospel</Language>
+               <Language id="Arabic">الانجيل</Language>
+            </Title>
+            
+            <Text>
+               <Language id="English">
+                  Holy, Holy, Holy; a reading from the Gospel according to our teacher St. Luke [1:78-79] the Evangelist. May his blessings be with us all. Amen.
+               </Language>
+               <Language id="Arabic">
+                  قدوس قدوس قدوس. فصل من الانجيل بحسب لوقا (1: 78-79) البشير. بركاته تكون معنا. آمين.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Through the tender mercy of our God, with which the dayspring from on high has visited us. To give light to those who sit in darkness and the shadow of death, to guide our feet into the way of peace." And Glory be to God forever. Amen
+               </Language>
+               <Language id="Arabic">
+                  من أجل تحنن رحمة إلهنا بهذه الذى افتقدنا به مشرقاً من العلاء ليضئ للجالسين فى الظلمة وظلال الموت، لتستقيم أرجلنا إلى سبل السلام. والمجد لله دائماً أبدياً آمين.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

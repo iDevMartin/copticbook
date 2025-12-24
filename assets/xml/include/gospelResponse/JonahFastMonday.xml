@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JonahFast ^ Matins ^ Mondays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Alla Pa[oic...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Monday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Alla Pa[oic arioui neman: m~v~r/] n~niremNineu/~ nai e~tauermetanion: ak,a nounobi nwou e~bol.
+            </Language>
+            <Language id="English">
+               But my Lord, deal with us, like the Ninevites, who repented, You forgave them their sins.
+            </Language>
+            <Language id="Arabic">
+               بل اصنع معنا يا سيدي مثل أهل نينوي الذين تابوا فغفرت لهم خطاياهم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+   
+   <Season id="JonahFast ^ Liturgy ^ Mondays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">W~ v/e~tafa~reh...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Monday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               W~ v/e~tafa~reh e~Iwnac: ef,/ qen y~neji m~pik/toc: e~tauhitf e~p~swk m~v~iom: areh e~ron kata tekjom.
+            </Language>
+            <Language id="English">
+               O You Who preserved Jonah: in the belly of the whale: after being thrown into the depths of the sea: preserve us with Your power.
+            </Language>
+            <Language id="Arabic">
+               يا من حفظ يونان في بطن الحوت لما ألقي في عمق البحر احفظنا بقوتك.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Engagement="true" Crowning="true">
+   <Title>
+      <Language id="English">The Engagement Prayer</Language>
+      <Language id="Arabic">طقس الخطبة</Language>
+   </Title>
+   
+   <Group>   
+      <Season id="PentecostPeriod">
+         <InsertDocument path="include/HymnOfTheResurrection"/>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/PouroSection"/>
+      </Season>
+   </Group>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we declare in this orthodox assembly the betrothal of the blessed Orthodox son (...) to the blessed Orthodox daughter (...).  In the name of the Father, the Son, and the Holy Spirit, one God.  Blessed be God, the Father, the Pantocrator. Amen.            
+         </Language>
+         <Language id="Arabic">
+            باسم ربنا والهنا ومخلصنا يسوع المسيح مشرع شريعه الكمال وواضع ناموس الأفضال نعلن فى هذا المحفل الأرثوذكسي خطوبة الابن المبارك الأرثوذكسي البكر (...) الى الابنه المباركة الأرثوذكسية البكر (...). باسم الآب والابن والروح القدس اله واحد. مبارك الله الآب ضابط الكل. آمين.            
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">            
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we declare in this orthodox assembly the betrothal of the blessed Orthodox daughter (...) to the blessed Orthodox son (...).  Blessed be the Only-Begotten Son Jesus Christ our Lord. Amen.
+         </Language>
+         <Language id="Arabic">
+            باسم ربنا والهنا ومخلصنا يسوع المسيح مشرع شريعه الكمال وواضع ناموس الأفضال نعلن فى هذا المحفل الأرثوذكسي خطوبة الابنه المباركة الأرثوذكسي البكر (...) الى الابن المبارك الأرثوذكسية البكر (...). مبارك ابنه الوحيد يسوع المسيح ربنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">            
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we declare in this orthodox assembly the betrothal of the blessed Orthodox son (...) to the blessed Orthodox daughter (...).  Blessed be the Holy Spirit the Paraclete. Amen
+         </Language>
+         <Language id="Arabic">            
+            باسم ربنا والهنا ومخلصنا يسوع المسيح مشرع شريعه الكمال وواضع ناموس الأفضال نعلن فى هذا المحفل الأرثوذكسي خطوبة الابن المبارك الأرثوذكسي البكر (...) الى الابنه المباركة الأرثوذكسية البكر (...). مبارك الروح القدس المعزى آمين.             
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/InChristJesusOurLord"/>      
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   
+   <Role id="People">
+      <InsertDocument path="crowning/include/KhenEfran"/>
+      
+      <Text>        
+         <Language id="Coptic">            
+            Axioc: Axioc: Axioc: c~mou w P[oic e~piwp qen Pekran e#y#u#.
+         </Language> 
+         <Language id="English">            
+            Worthy, worthy, worthy, bless, O Lord the betrothed, with Your holy Name.
+         </Language>
+         <Language id="Arabic">            
+            مستحق مستحق مستحق: بارك الخطيبين باسمك القدوس
+         </Language>
+      </Text>
+   </Role>
+               
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="English">            
+               O true Master, the only eternal Word of God, Who has betrothed mankind to eternal joy through his glorious incarnation procuring ownership of the faithful souls through the mystery of His life-giving cross, purifying them with the baptism of the second birth, granting them the gifts of the Holy Spirit, offering them the banquet of life and the cup of salvation, becoming for them the head, the shepherd, supreme Master and heavenly bridegroom guaranteeing the great heavenly joy. We wholeheartedly beseech Your graciousness, O You, the only Son of the Father to cause the blessings of Your goodness and generosity to shower from the clouds of Your pleasure and be pleased with what we are about to celebrate on this occasion. Command for this arrangement a good beginning and commend an accepted end.  Amen!
+            </Language>
+            <Language id="Arabic">            
+               أيها السيد الحقيقى كلمة الله الأزلى الوحيد يا من خطب النوع الانسانى للفرح الأبدى بتجسدة المجيد عاقدا أملاك الأنفس المؤمنه بسر صليبه المحيى ومطهرا اياها بحميم الميلاد الثانى واهبا لها مواهب الروح الأقدس ومنعما عليها بمائدة الحياه وكأس الخلاص صائرا لها رأسا وراعيا ورئيسا أسمى وعريسا سمائيا كافلا لها سعادة الملكوت العظمى نبتهل اليك يا وحيد الأب ضارعين نحو جودك من صميم الألباب طالبين اللهم افض من سحائب رضوانك بركات فضلك واحسانك وسر بما احتفلنا لاعداده فى هذا المقام ومر لمشروعنا هذا بحسن البداية وحميد الختام. آمين.
+            </Language>
+         </Text>         
+      </Role>
+               
+      <Role id="People">         
+         <InsertDocument path="include/LordHearUs"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="English">            
+               O God who has made man free and respectable, You granted him an honorable and exalted status, and since his creation You did not permit that he be alone and lonely, but honored him with the order of camaraderie and companionship saying, “It is not good that man should be alone; I will make him a helper comparable to him.”  Accompany with good success what we are embarking upon, and fortify it with Your glorious generous right hand so that this engagement may turn out to be pure, legitimate, and a beginning to a spiritual and protected bonding.  Fill the couple’s hearts with happiness and bliss, and grant them their wishes with great satisfaction and success.  Amen.
+            </Language>
+            <Language id="Arabic">
+               اللهم يا من صنعت الانسان حرا شريفا ومنحته مقاما كريما منيفاً ولم تدعه منذ خلقته وحيدا فريدا بل تكرمت عليه بواجب الأنس والنمو قائلا: لايحسن ان يكون الانسان وحيدا فاصنع له معينا نظيره. أقرن مشروعنا هذا بتوفيقاتك الحسنى وسانده بيمين جودك الأسنى لتكون خطبة طاهرة شرعية ومقدمة لمصاهرة روحية مرعية. املأ قلب الخطيبين بالتهانى والحبور وبلغهما نيل الامانى بتوفيق وافر السرور. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">         
+         <InsertDocument path="include/LordHearUs"/>
+      </Role>      
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="English">            
+               O God bless this precious daughter, his fiancée. Protect her from all envy and temptation, and grant them faultless mutual love. Escort their engagement with a good start and grant them a happy life protected with wholeness. Guard them while they pursue Your obedience, and shepherd them with Your protective care. Make them as two plants attached to the roots of faith and virtues fortified against the evil of disagreements and vice, blessed with Your blessings bestowed on Abraham, Isaac and Jacob, and Your apostles who proclaimed the Gospel.  Grant them full happiness, and make them rejoice with the crowning ceremony in the time of delight Amen. 
+            </Language>
+            <Language id="Arabic">
+               اللهم بارك هذه الابنة المصونة مخطوبته احفظها من كل حسد وتجربة وهبهما محبة سليمة متبادلة. اقرن خطوبتهما بحسن الاستقبال وامنحهما حياة هنيئة محفوظة بالكمال. احفظهما ناهجين منهج طاعتك وارعهما بحراسة عنايتك. اجعلهما كغرسين مرتبطين بأصول الايمان والفضائل مصونين من شر الخلاف والرذائل مباركين ببركاتك الحاله على ابراهيم واسحق ويعقوب ورسلك الداعين لبشارة الأنجيل أنعم عليهما بتمام السرور ومتعهما فى موعد الحبور بمحفل الأكليل. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">         
+         <InsertDocument path="include/LordHearUs"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="English">            
+               O God keep for us the leadership and the continuous safety of the honored Pope (...), Patriarch of the See of St. Mark and his partner in the apostolic liturgy (...). O God guard with Your protection the existence of the honorable spiritual fathers, and the safety of the faithful Orthodox brethren and children and all those present here with us in this celebration with the spirit of faithful love and demonstration of perfection. Let their days be seasoned with joy and happiness receiving the fullness of bliss and delight, and grant us all fulfillment of our desires and a good ending. Amen   
+            </Language>
+            <Language id="Arabic">
+               اللهم احفظ لنا رئاسة ودوام سلامة البابا المكرم (...) بطريرك الكرسى المرقسى وشريكة فى الخدمه الرسولية (...). اللهم أدم بحراستك وجود الآباء الروحيين الموقرين وسلامة الأبناء والأخوه المؤمنين الأرثوذكسيين وجميع المجتمعين معنا فى هذا الاحتفال بروح الود المخلص وسمات الكمال ولتكن أيامهم مقرونه بالسعادة والسرور. حائزين كمال المسرات والحبور وأنعم على جميعنا بنيل الأمانى و حسن الختام. آمين. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">         
+         <InsertDocument path="include/LordHearUs"/>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Group>   
+      <Season id="PentecostPeriod">
+         <InsertDocument path="include/AllYouHeavenlyOrders"/>
+         <InsertDocument path="include/HymnOfTheResurrection"/>
+      </Season>
+      
+      <Season id="Other">
+         <Section expanded="true">
+            <Title>         
+               <Language id="Coptic">&lt;ere Maria</Language>               
+            </Title>
+            
+            <InsertDocument path="include/ShereMaria"/>
+         </Section>
+      </Season>
+   </Group>
+</Document>

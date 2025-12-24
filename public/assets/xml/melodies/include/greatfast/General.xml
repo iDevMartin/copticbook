@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">
+            English Melody for the Great Fast (By St. Mark Coptic Orthodox Church of Chicago)
+         </Language>
+      </Title>
+   
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+   
+      <Text>
+         <Language id="English">
+            Moses fasted for forty days / 
+            To be purified in body and spirit / 
+            To receive from God the two tablets / 
+            With the Ten Commandments written on them
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            When Moses saw the Almighty God / 
+            His glory filled Moses with grace / 
+            The people of Israel covered their eyes / 
+            They could not look at his radiant face
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fasting and prayer of the prophet Daniel / 
+            Saved his life in the lions’ den / 
+            The Lord kept shut the lions’ mouths / 
+            For God protects His holy men
+         </Language>
+      </Text>
+   
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+   
+      <Text>
+         <Language id="English">
+            Elijah fasted and prayed that the sky / 
+            For three and half years would not rain / 
+            That the Israelites who went astray / 
+            Would feel hunger, agony and pain
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            As they repented he asked the Lord / 
+            To bring the rain with His mighty hand / 
+            The Lord opened the gates of heaven / 
+            Rain and rejoicing filled the land
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fasting and prayers of the Ninevites / 
+            As they appealed to God above / 
+            When they repented God forgave their sins / 
+            And filled them with His love
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Fasting and prayers of the disciples / 
+            Spread God’s Word to every nation / 
+            Baptizing and preaching the Holy Gospel / 
+            Healing and bringing salvation
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fasting and prayers of the martyrs / 
+            Gave them the power to stand the pain / 
+            Knowing that even losing their lives / 
+            Is nothing compared to their heavenly gain
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fasting and prayers of the righteous / 
+            And cross bearers kept them living / 
+            In the caves, deserts, and mountains / 
+            Because of their love for Christ the King
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+   </Section>
+</Document>

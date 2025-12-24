@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Place</Language>
+         <Language id="Arabic">أوشية الموضع</Language>
+      </Title>
+      
+      <InsertDocument path="include/litanies/PlaceShortContents"/>      
+   </Section>
+</Document>

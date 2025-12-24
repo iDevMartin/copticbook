@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <InsertDocument path="pascha/include/GospelIntroMatthewNoRole"/>
+   </Role>
+</Document>

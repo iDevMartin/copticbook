@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Wedding at Cana of Galilee:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="English">
+                     O Who at the Wedding at Cana of Galilee / Turned water into select wine / Turn our hearts, O Immanuel / From evil to what pleases You, O Holy One. 
+                  </Language>
+                  <Language id="Arabic">
+                     يا من في عرس قانا الجليل:  حولت الماء خمراً جميل:  حول قلوبنا يا عمانوئيل:  من الشر إلى ما يرضيك ياقدوس.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V] afc~mou e~nimwou afaitou n~/rp.
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ, the Son of God, blessed the waters, and made them wine.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله بارك المياه فصيرها خمرا.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

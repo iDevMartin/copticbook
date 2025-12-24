@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" ThirdProstration="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ PentecostWeek7 ^ PentecostPeriod ^ Pentecost ^ AdamDays ^ Weekend ^ Sundays ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Third Prostration</Language>
+         <Language id="Arabic">السجدة الثالثة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Prayed in the annual tune.
+         </Language>
+         <Language id="Arabic">
+            تصلى بالنغمة السنوية.
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            The priest and deacons ascend to the first chorus (section) of the church and opens the altar veil.
+         </Language>
+         <Language id="Arabic">
+            يدخل الكاهن والشمامسة والمرتلون الخورس الأول، ويفتح الكاهن الستر عن باب الهيكل ويبتدئ يقول
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/StartOfService"/>
+      <InsertDocument path="include/ThanksgivingPrayer"/>
+      
+      <ForceSeason id="Vespers">
+         <InsertDocument path="include/ProcessionOfIncense"/>
+      </ForceSeason>
+         
+      <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>      
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/DoxaPatriAlleluia"/>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="Deuteronomy 16:1-18" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="1 Corinthians 14:18-40" type="section"/>
+      </Role>
+      
+      <InsertDocument path="include/PiEpnevma"/>
+      <InsertDocument path="include/trisagion/Seasonal"/>
+      <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Watos Exposition</Language>
+               <Language id="Arabic">طرح واطس</Language>
+            </Title>
+            
+            <Text> 
+               <Language id="English">
+                  God the Father is Spirit and those who worship Him ought to worship in spirit and truth. Moses declared to us the mystery of the one Godhead of the Holy Trinity, the Three Persons. He said: "Hear, O Israel: The Lord our God, the Lord is One. There is no other God but Him.
+               </Language>
+               <Language id="Arabic">
+                  روح هو الله الآب والذين يسجدون له ينبغي أن يسجدون له بالروح والحق. فإنه بالسر قرر لنا موسي جوهراً واحداً للثالوث، ذو ثلاثة أقانيم. إذ يقول هكذا: "إسمع يا إسرائيل، الرب إلهك واحد هو، وليس إله آخر سواه.
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  You shall not go after other gods." And those who were listening to those words could not bear to hear the mystery of the divinity, for the sake of the only-begotten Son who is in the bosom of His Father. He was incarnate and taught us the depth of His divinity. The Spirit of truth who proceeds from the Father, descended on the apostles and appeared as tongues of fire. 
+               </Language>
+               <Language id="Arabic">
+                  فلا تسجد لآخر غيره." ولكن الذين سمعوا هذا الصوت لم يستوجبوا أن يطيقوا سر اللاهوت. من أجل هذا، الوحيد الذي في حضن أبيه تجسد وأعلمنا عمق لاهوته. روح الحق المنبثق من الآب حل على الرسل وظهر بألسنة نار. 
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  Therefore, we entreat and proclaim, saying: "O Holy Spirit, the Paraclete who descended on the Apostles, kindle fire in our minds and hearts with Your great power and guide our souls to the knowledge of Your statutes that we may utter words that befit God. 
+               </Language>
+               <Language id="Arabic">
+                  من أجل هذا نضرع نحن صارخين قائلين: "أيها الروح المعزي الذي حل على الرسل. إلقي ناراً في عقولنا وقلوبنا بقوتك  العظيمة وارشد نفوسنا إلى معرفة حقوقك لكي نقول ما يليق بالله. 
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  Glory be to the Father, the Son and the Holy Spirit, the co-essential Trinity, now and at all times and unto the age of all ages. Amen. 
+               </Language>
+               <Language id="Arabic">
+                  المجد للآب والإبن والروح القدس، الثالوث المساوي. الآن وكل أوان وإلى دهر الدهور. آمين. 
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+      
+      <InsertDocument path="include/StandardPrayerIntro"/>
+      <InsertDocument path="include/litanies/Peace"/>
+      <InsertDocument path="include/litanies/Fathers"/>
+      <InsertDocument path="include/cyril/litanies/Prayer"/>
+      <InsertDocument path="include/litanies/Assemblies"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/agpeya/GraciouslyAccord"/>
+         <InsertDocument path="include/agpeya/Trisagion"/>
+      </Role>
+      
+      <InsertDocument path="include/doxologies/DoxologiesLink"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+         <InsertDocument path="include/Creed"/>
+      </Role>
+      
+      <InsertDocument path="include/EvnotiNaiNan"/>
+      
+      <Comment>
+         <Language id="English">
+            The congregation bows down after the deacon says:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/WorshipGodInFear"/>
+   
+      <Role id="Priest">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Third Prostration Prayer</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  (O Lord,) the ever-flowing Fountain, the Giver of light and the Bestower of life, the creative and eternal Power with the Father, who completed the Economy through His goodness for the salvation of mankind.
+               </Language>
+               <Language id="Arabic">
+                  الينبوع الفائض كل حين، المعطي النور والمانح الحياة، القوة الخالقة والذاتية مع الآب. الذي أكمل التدبير من قِبَل صلاحه من أجل خلاص جنس البشر.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  O Christ our God, who loosened the bonds of death, crushed the bolts of Hades and humiliated all the evil spirits, who ascended Himself by His own will like a lamb without blemish upon the cross and gave Himself up to save us from sin and You granted us eternal life through Your divine wisdom and power.
+               </Language>
+               <Language id="Arabic">
+                  أيها المسيح إلهنا الذي حل وثاقات الموت وسحق متاريس الجحيم، وداس كل الأرواح الشريرة. الذي أصعد ذاته وحده مثل حمل بلا عيب على الصليب وأسلم ذاته عنا حتى ينقذنا من الخطية، وأنعمت لنا بالحياة الأبدية بحكمتك الإلهية وقوتك.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  You bound Satan and his unclean demons in Your net and tied him with the bonds of the outer darkness by Your invincible power. O true Son of God, the Good One, who hears those who are in temptations, You gave light to those who were sitting in the darkness and the shadow of death.
+               </Language>
+               <Language id="Arabic">
+                  سبيت إبليس وشياطينه الرديئة، أجتذبه [حصرته] في شبكتك، وربطته بوثاقات الظلمة الخارجية، وأغلقت عليه بقوتك المنيعة. يا إبن الله الحقيقي الصالح السميع للذين في التجارب، أنت أضأت للجلوس في الظلمة وظلال الموت.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O Lord, to whom the infinite glory, hear us when we call upon You and repose the souls of Your servants. Those who have slept: our fathers and brothers and all those who died in the orthodox faith, those whom we remember and those whom we do not remember. For to You is majesty in everything in Your hands.
+               </Language>
+               <Language id="Arabic">
+                  يا رب لك المجد الغير فاني، إسمعنا إذ ندعوك وإعط نياحاً لأنفس عبيدك. أولئك الذين سبق رقادهم: آبائنا وإخوتنا الجسدانيين وكل الذين سلفوا وتوفوا في الأمانة المستقيمة الذين نذكرهم والذين لم نذكرهم الآن. لأن لك العزة وكل شئ في يديك.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O Lord God, have compassion with the multitude of Your mercies upon Your servants, the living and the dead, O Creator of all human beings, for You have created it out of nothing. You give existence to man and he lives and You bring death upon him with dominion.
+               </Language>
+               <Language id="Arabic">
+                  أيها الرب الإله تحنن بمراحمك الكثيرة على عبيدك الأحياء والأموات يا خالق كل الطبائع البشرية. لأنك كونتها مما لم تكن، أنت الذي تعطي كينونة للإنسان فيحيا وتأتي عليه بالموت بسلطان.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You who overcame the sting of death that it may not have power over the believers neither on those who look forward to the resurrection of the dead. This which on this great Day of Pentecost, You taught us the perfection of the mystery of the co-essential holy Trinity, the Unseparable and Unchangeable,
+               </Language>
+               <Language id="Arabic">
+                  الذي جعل على شوكة الموت ضربة لكيلا يجعل له سلطاناً على المؤمنين به والذين يرجون القيامة. هذا الذي في هذا اليوم العظيم الذي هو عيد الخمسين، أعلمتنا بكمال سر الثالوث القدوس المساوي، الغير المفترق والغير المتغير،
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  through the pouring of Your Holy Spirit upon us, You gave to Your holy apostles as divided tongues of fire and You made them preachers of the faith of godliness and Your divine words which You have taught them.
+               </Language>
+               <Language id="Arabic">
+                  من قِبَل إفاضة روحك القدوس علينا مثل ألسنة نارية، قسمتها على رسلك القديسين، وجعلتهم مبشرين بالأمانة ذات التقوى، وبكلامك الإلهي الذي علمتهم إياه.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  We entreat You to accept our prayers on this holy day that is the perfection of everything for our sake, and for the sake of those who placed their souls into Your hands. Hear us, we Your humble servants, as we ask You to repose the souls of the orthodox Christians who departed from this world to Paradise,
+               </Language>
+               <Language id="Arabic">
+                  نضرع إليك أن تقبل طلبتنا في هذا اليوم المقدس الذي هو كمال كل شئ من أجلنا، ومن أجل الذين وضعوا نفوسهم في يديك. إسمعنا نحن عبيدك المذلولين إذ نطلب إليك أن تنيح أنفس المسيحين الأرثوذكسيين الطالبيين إليك من أجلهم، الذين رقدوا والذين جازوا من ههنا إلى هناك،
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  that they may rest in a place of refreshment. The place out of which grief, sorrow and groaning have fled away. May their souls abide in the shadow of light. Make them worthy of peace and forgiveness. We praise You, we thank You, and we offer unto You these prayers and these sacrifices for the sake of our souls.
+               </Language>
+               <Language id="Arabic">
+                  لكي يتنيحوا مستريحين في موضع برودة. الموضع الذي هرب منه وجع القلب والكآبة والتنهد. ولتكن نفوسهم في مظال النور. إجعلهم مستحقين للغفران والسلام. نسبحك ونبتهل إليك ونقدم لك هذه الصلوات والتقدمات من أجل نفوسنا.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O God, the Great and the Eternal, the Holy One and the Lover of Mankind, who made us worthy to stand at this hour before Your unapproachable glory, that we may praise You and bless Your wonders. Forgive us, we the unworthy servants, and give grace to those who offer to You without seeing You,
+               </Language>
+               <Language id="Arabic">
+                  أللهم العظيم الأبدي القدوس المحب البشر، الذي جعلنا مستحقين أن نقف في هذه الساعة أمام مجدك الغير المقترب إليه لكي نسبحك ونبارك عجائبك. إغفر لنا نحن عبيدك الغير مستحقين، وإعط نعمة للذين يقدمون لك من غير أن يروك،
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  and praise You in their hearts with the hymn of the trisagion, giving thanks to You for Your great blessing. This which You have performed with us and which You perform at all times. Remember O Lord our weakness and do not destroy us because of our iniquities but grant us Your great mercies.
+               </Language>
+               <Language id="Arabic">
+                  ويسبحوك في قلوبهم بتسبحة الثلاث التقديسات، ويشكرونك على نعمتك العظيمة. هذه التي صنعتها معنا وأنت صانعها كل حين. أذكر يا رب ضعفنا ولا تهلكنا بآثامنا، لكن أولنا عِظَم رحمتك تلقاء ضعفنا.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Take away from us the darkness of sin that we may walk in the day and be clothed with the weapons of light to complete our days without stumbling and do every deed according to the goodwill of the true Blessed One, the Lover of Mankind, the Father, the Son, and the Holy Spirit, now and at all times, and unto the age of all ages. Amen.
+               </Language>
+               <Language id="Arabic">
+                  إنزع عنا ظلمة الخطية لكي نسعى في ما للنهار، ونلبس أسلحة النور لنكمل بغير عثرة، ونصنع كل شئ بدالة كمسرة ذي الطوبى الحقيقي، المحب البشر، الآب والإبن والروح القدس، الآن وكل أوان وإلى دهر الدهور. آمين.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+      <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   </ForceSeason>
+</Document>

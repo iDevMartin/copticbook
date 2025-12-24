@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   
+   <Title>
+      <Language id="English">Litany of the Gospel</Language>
+      <Language id="Arabic">أوشية الإنجيل</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         The priest kisses the cross and gives it to the deacon. He takes the censer and says the Litany for the Gospel.
+      </Language>
+      <Language id="Arabic">
+         ويقبِّل الكاهن الصليب ويناوله للشماس. ثم يأخذ المجمرة ويقول أوشية الإنجيل:
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/LitanyOfTheGospelIntroStandard"/>
+   
+   <Section>
+      <Title>
+         <Language id="English">Another Litany of the Gospel</Language>
+         <Language id="Arabic">أوشيه إنجيل أخرى</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The following may be said in place of the above.
+         </Language>         
+         <Language id="Arabic">
+            تقال عوض الأولى متى أراد.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/AlternateLitanyOfTheGospel"/>
+   </Section>
+</Document>

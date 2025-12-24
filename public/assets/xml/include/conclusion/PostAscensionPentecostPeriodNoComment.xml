@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="EntranceOfTheHolyFamily">
+         <Text>
+            <Language id="Coptic">
+               V/e~taftwnf e~bolqen n/eymwout ouoh afsenaf e~p~swi e~niv/oui afhemci caouinam m~Pefiwt. afi~ e~qoun e~t,wra n~,/mi: Cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               who rose from the dead on the third day and ascended into the Heavens and sat at the right-hand of His Father, entered into the land of Egypt. Save us and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+               الذي قام من بين الأموات وصعد الي السموات وجلس عن يمين أبيه, دخل الي كورة مصر. خَلِّصْنا وارحَمْنا.
+            </Language>
+         </Text>      
+      </Season>
+      
+      <Season id="PostAscensionPentecostPeriod">
+         <Text>
+            <Language id="Coptic">
+               V/e~taftwnf e~bolqen n/eymwout ouoh afsenaf e~p~swi e~niv/oui afhemci caouinam m~Pefiwt: Cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               who rose from the dead on the third day and ascended into the Heavens and sat at the right-hand of His Father. Save us and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+               الذي قام من بين الأموات وصعد الي السموات وجلس عن يمين أبيه. خَلِّصْنا وارحَمْنا.
+            </Language>
+         </Text>      
+      </Season>
+   </Group>
+</Document>

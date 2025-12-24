@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StVictor:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Victor</Language>
+            <Language id="Arabic">ذوكصولوجية القديس أبا بقطر</Language>
+            <Language id="Coptic">Matamoi je k~se e~ywn...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Victor:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Matamoi je k~se e~ywn: w~ Biktwr pamenrit n~s/ri: e~re pik/moc ,/ qen rwk: e~re niped/c qen nekjij.
+            </Language>
+            <Language id="English">
+               Teach me where do you flee, O Victor my beloved son, for the muzzle is on your mouth, and the chains are on your hands.
+            </Language>
+            <Language id="Arabic">
+               اعلمنى الى أين تذهب. يا بقطر ابنى الحبيب واللجام فى فمك والقيود فى يديك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pejaf je ]se e~t~,wra: n~&lt;/mi e~ratf n~Armenioc: n~tamou e~jen v~ran m~paCwt/r: n~tef,a nanobi n/i e~bol.
+            </Language>
+            <Language id="English">
+               He said "I fled to the land, of Egypt to Armenius, that I may die in the Name of my Savior, and that He may forgive me my sins."
+            </Language>
+            <Language id="Arabic">
+               قال أنا ذاهب الى اقليم مصر الى أرمانيوس لأموت على اسم مخلصى ليغفر لى خطاياى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pia~bot menenca vai: w~ Biktwr pamenrit n~s~/ri: ]cebtwt e~i~ri n~tekselet: n~ta] n~hanm/s n~,~r/ma nak.
+            </Language>
+            <Language id="English">
+               "After that month, O Victor my beloved son, I am prepared to marry you, and give you many riches."
+            </Language>
+            <Language id="Arabic">
+               من بعد هذا الشهر يابقطر ابنى الحبيب أنا مستعدة لعمل عرسك ولأعطيك أموالا كثيرة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pac/ou a~nok taselet ,/: w~ Marya tamenri] m~mau: taselet te ]e~kkl/cia: papatselet pe pacwt/r.
+            </Language>
+            <Language id="English">
+               "My time and my wedding will come, O Martha my beloved mother, for the Church is my wedding, and my Savior is my bridegroom."
+            </Language>
+            <Language id="Arabic">
+               ان زمانى وعرسى صائر يا مرثا أمى الحبيبة. عروسى هى الكنيسة وعريسى هو مخلصى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: n~te peno#c# I/#c# P,#c#: ,ere piswij n~genneoc: pia~gioc apa Biktwr.
+            </Language>
+            <Language id="English">
+               Hail to you O martyr, of our Lord Jesus Christ, hail to the courageous hero, the saint Abba Victor.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا شهيد ربنا يسوع المسيح السلام للشجاع القوى القديس أبا بقطر.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StVictor"/>
+      </Section>
+   </Season>
+</Document>

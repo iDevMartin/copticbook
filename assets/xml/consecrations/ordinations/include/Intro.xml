@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Bishop">
+      <Section silent="true">
+         <Title>
+            <Language id="English">A Prayer Said By The Bishop Silently On Himself Before Every Consecration</Language>
+            <Language id="Arabic">صلاة يقولها الأسقف على نفسه سراً قبل أي تكريس</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Let us ask the Lord God the Pantocrator, the Father of our Lord, God, and Savior Jesus Christ; I, Your servant, (…) son of the apostles, and preacher in the world like all my fathers, with honor of coming of Your Only Begotten Son Jesus Christ to the world and His incarnation of the Virgin St. Mary and by the baptism of our Savior and His life-giving passion on the cross, which He accepted of His own free will, and by His holy resurrection, this is our confession by His Christ, and our steadfastness in the right faith which we received from all our fathers.  
+            </Language>
+            <Language id="Arabic">
+               فلنطلب من الرب الإله ضابط الكل أبي ربنا وإلهنا ومخلصنا يسوع المسيح أنا عبدك (فلان) ابن الرسل المبشر في المسكونة مثل جميع أبائي بكرامة مجيء أبنك الوحيد يسوع المسيح إلى العالم وتجسده من العذراء القديسة مرتمريم واعتماد المخلص وآلامه المحيية التي قبلها بارادته عنا على الصليب وقيامته المقدسة هذا هو اعترافنا بمسيحه وثباتنا في الإيمان المستقيم الذي أخذناه عن جميع أبائنا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               I, the incapable and the sinner (…) do ask that You pour upon me the twelve virtues of Your goodness, and grant me every understanding, all wisdom, all compassion, and the honor of the right hand of fellowship upon Your servant (…) whom I am calling for the mission, the service, and consecration of the priesthood.  Make me worthy, with him, for the portion reserved for Your saints through Christ Jesus our Lord, to You with Him is due all glory, honor, majesty, and worship, with the Holy Spirit, the Giver of Life, who is of one essence with you, now and forever and unto the ages of ages, Amen.  
+            </Language>
+            <Language id="Arabic">
+               أنا هو العاجز الخاطئ (فلان) أفض على من الآثنى عشر فضيلة التي لصلاحك. تملآني من كل فهم وكل حكمة ورأفة واستقامة اليد اليمنى على عبدك (فلان) الذي أدعوه إلى الرسالة والخدمة والكهنوت وتحسبني معه في نصيب قديسيك بالمسيح يسوع ربنا. هذا الذي يليق بك معه كل المجد والإكرام والعزة والسجود مع الروح القدس المحيي المساوي لك الآن وكل آوان وإلى دهر الدهور آمين. 
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+</Document>

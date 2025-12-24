@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StDemiana:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Demiana</Language>
+            <Language id="Arabic">ذوكصولوجية الشهيدة دميانه</Language>
+            <Language id="Coptic">}alou n~cab/...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Demiana:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               }alou n~cab/ m~paryenoc: ]cwtp n~kuria~ m~m/i: ]selet n~te P,#c#: ]a~gia Dumian/.
+            </Language>
+            <Language id="English">
+               The wise celibate child, the chosen and true lady, the Bride of Christ, Saint Demiana.
+            </Language>
+            <Language id="Arabic">
+               الصبية العذراء الحكيمة المختارة البارة عروس المسيح القديسة دميانه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Yai icjen tecmeta~lou: nacmeh e~bol qen ]covia~: acmoc] n~nikocmikon: acmenre n~]paryenia~.
+            </Language>
+            <Language id="English">
+               This is she who was filled with wisdom, from her childhood, she hated the earthly, and she loved virginity.
+            </Language>
+            <Language id="Arabic">
+               هذه التي امتلأت من الحكمة منذ صباها فأبغضت العالميات وأحبت البتولية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Acswpi n~]ar,/: n~lum/n n~te pioujai: y~mau n~hme m~paryenoc: qen pipurgoc e~ta peciwt kotf.
+            </Language>
+            <Language id="English">
+               She became the head, and a harbor of salvation, the mother of forty virgins, in the tower which her father built.
+            </Language>
+            <Language id="Arabic">
+               صارت رئيسة وميناء للخلاص وأما للأربعين عذراء في القصر الذي بناه لها أبوها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afjwl e~bol m~P,#c#: actacyo m~mof n~je tefseri: e~tacmere m~mof n~je Demian/: af[i n~]metmarturia~.
+            </Language>
+            <Language id="English">
+               When he denied Christ, his loving daughter Demiana, restored his faith, and he received martyrdom.
+            </Language>
+            <Language id="Arabic">
+               ولما كفر بالمسيح ردته ابنته دميانه التي أحبته فنال الشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai afouwrp n~je p~ouro: afouahcahni qen necqici: acsepm~kah n~oum/s n~cop: ac[i n~]metmarturia~.
+            </Language>
+            <Language id="English">
+               Because of this the King had sent for her, and ordered her to be tortured, she endured repeated sufferings, and received martyrdom.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا أرسل الملك أمره بتعذيبها فقبلت آلامات عديدة ونالت الشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pih~me e#y#u# m~paryenoc: e~nauswpi nemac qen pipurgoc: au[i n~]metmarturia~: qen pie~hoou n~ouwt nemac.
+            </Language>
+            <Language id="English">
+               The forty holy virgins, who were with her in the tower, received martyrdom, all in one day with her.
+            </Language>
+            <Language id="Arabic">
+               والأربعون عذراء الذين كانوا معها في القصر نلن الشهادة معها في يوم واحد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wounia~] n~yo Dumian/: ]selet n~te pinumvioc: ]mona,/ m~paryenoc: ]cwtp m~m/i m~marturoc.
+            </Language>
+            <Language id="English">
+               Blessed are you O Demiana, the bride of the Groom, the celibate nun, the chosen and true martyr.
+            </Language>
+            <Language id="Arabic">
+               طوباك انت يا دميانه عروس الختن الراهبة البتول المختارة الشهيدة الحقيقية.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StDemiana"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for St. Demiana</Language>
+            <Language id="Arabic">ذوكصولوجية الشهيدة دميانه</Language>
+            <Language id="Coptic">Ounis] a~l/ywc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Demiana:
+            </Language>
+         </Comment>
+          
+         <Text>
+            <Language id="Coptic">
+               Ounis] a~l/ywc: pe piw~ou nem pitaio: etacjwlh m~mwou e~bol: n~je ]cab/ m~paryenoc.
+            </Language>
+            <Language id="English">
+               Truly great is the / glory and honor / by which was adorned / the wise virgin.
+            </Language>
+            <Language id="Arabic">
+               بالحقيقة عظيم، هو المجد والكرامة، التى توشحت بهما، العذراء الحكيمة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               }cwtp n~kuria: ]mai eynanec: ]marturoc n~a~gnia: ]a~gia Dumian/.
+            </Language>
+            <Language id="English">
+               The chosen lady, / the respectable beloved, / the chaste martyr, St. Demiana.
+            </Language>
+            <Language id="Arabic">
+               السيدة المختارة، المحبوبة الحسناء، الشهيدة العفيفة، القديسة دميانة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Yai e~tafcwtp m~moc: n~je p~ouro P,#c#: nem h~me m~paryenoc: e~nauswpi nemac.
+            </Language>
+            <Language id="English">
+               She who was chosen / by Christ the king / with the forty virgins / who were with her.
+            </Language>
+            <Language id="Arabic">
+               هذه التي قد أختارها، الملك المسيح، مع الأربعين عذراء، اللواتي كن معها.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Nim v/eynas~caji: qen petaio n~nis]: w~ ]selet etcwtp: ]a~gia Dumian/.
+            </Language>
+            <Language id="English">
+               Who can  utter / about your great honor / O elect bride / St. Demiana.
+            </Language>
+            <Language id="Arabic">
+               من يقدر ينطق، بعظم كرامتك، أيتها العروس المختارة، القديسة دميانة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]a~gnia: ,ere yee~ynanec: ,ere ]a~gia~: ]cwtp n~Dumian/..
+            </Language>
+            <Language id="English">
+               Hail to the chaste, / hail to the beautiful one, / hail to the saint, / the elect Demiana.
+            </Language>
+            <Language id="Arabic">
+               السلام للعفيفة، السلام للحسنة، السلام للقديسة، المختارة دميانة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]marturoc: ,ere ]kayaroc: ,ere ]pana~gia: ]cwtp m~paryenoc.
+            </Language>
+            <Language id="English">
+               Hail to the martyr, / hail to the pure one, / hail to the all-holy, / the chosen virgin.
+            </Language>
+            <Language id="Arabic">
+               السلام للشهيدة، السلام للنقية، السلام لكلية القداسة، العذراء المختارة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]paryenoc: ,ere ]a~tywleb: eymeh n~e~ulogia: ]selet m~pihi/b.
+            </Language>
+            <Language id="English">
+               Hail to the martyr, / hail to the unblemished, / who is full of blessing, / the Bride of the lamb.
+            </Language>
+            <Language id="Arabic">
+               السلام للبتول، السلا لغير دنسة، المملوؤة بركة، عروس الحمل.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/eymeh n~h~mot: icjen tecmetaqlou: ,ere y/etc~marwout: qen niparyenoc t/rou.
+            </Language>
+            <Language id="English">
+               Hail to the full of grace / since her childhood, / hail to the blessed / among all the virgins.
+            </Language>
+            <Language id="Arabic">
+               السلام للممتلئة نعمة، منذ صباها، السلام للمباركة، في جميع العذارى.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]mouna,/: etacdwk m~pinomoc: qen ]metackut/c: nem ]metmarturia.
+            </Language>
+            <Language id="English">
+               Hail to the nun / who fulfilled the law / through her asceticism / and martyrdom.
+            </Language>
+            <Language id="Arabic">
+               السلام للراهبة، التي أكملت الناموس، بالنسك، مع الاستشهاد
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/e~tafmenritc: n~je peciwt Markoc: e~tafswpi e~bolhitotc: n~oucwtp m~marturoc.
+            </Language>
+            <Language id="English">
+               Hail to the beloved / of her father Mark, / who because of her / became an elect martyr.
+            </Language>
+            <Language id="Arabic">
+               السلام للتي أحبها، والدها مرقس، الذي صار بسببها، شهيداً مختاراً.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne w~ ]mau: m~paryenoc: e~tauswpi e~tem~mau: neme m~marturoc.
+            </Language>
+            <Language id="English">
+               Hail to you, the mother / of forty virgins / who became / martyrs with you.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا أم، الأربعين عذراء، اللواتي صرن، شهيدات معك 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Wounia] n~yo: ]cwtp n~Dumian/: je m~mon y/eto~ni m~moc: qen tegenea~.
+            </Language>
+            <Language id="English">
+               Blessed are you / O chosen Demiana, / no one is in your likeness / among your generation!
+            </Language>
+            <Language id="Arabic">
+               طوباك أنت أيتها، المختارة دميانة، لأنه ليس من يشبهك، في جيلك.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Rasi y/etcolcel: qen piparadicoc: qen ouw~ou nem ouyel/l: nahren P,#c#.
+            </Language>
+            <Language id="English">
+               Rejoice O who is adorned / in the paradise / with glory and joyfulness, / before Christ.
+            </Language>
+            <Language id="Arabic">
+               أفرحي أيتها المزينة، بالمجد و التهليل، في الفردوس، أمام المسيح.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/: n~te ]cwtp n~kuria: ]a~gia Dumian/: w~ Po#c# ,w n~nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Through the prayers / of the elect lady / the holy Demiana / O Lord forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات ، السيدة المختارة، العذراء دميانة، يا رب أغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

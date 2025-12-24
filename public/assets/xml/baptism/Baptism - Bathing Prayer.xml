@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Baptism="true" BathingPrayer="true">   
+   <Title>
+      <Language id="English">The Prayer of the Bathing</Language>
+      <Language id="Arabic">صلاة الحميم</Language>
+   </Title>
+
+   <Comment>
+      <Language id="English">
+         Commonly known as the Prayer of the bath.
+      </Language>
+      <Language id="Arabic">
+         المعروفة بصلاة الطشت.
+      </Language>
+   </Comment>
+
+   <Comment>
+      <Language id="English">
+         This optional prayer shall be used by those who wish to rejoice for the child that is born. On the seventh day after the birth of the child, before its baptism; water is poured into a dish and a little salt and a little oil, and seven candles shall be lit.
+      </Language>
+      <Language id="Arabic">
+         هذه صلاة اختيارية للذين يريدون الفرح بالمولود الجديد. في اليوم السابع، قبل المعمودية، يوضع ماء في طبق مع قليل من الملح والزيت و تضاء سبع شمعات.
+      </Language>
+   </Comment>
+
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Deacon">
+      <BibleReference reference="Hebrews 1:5-12" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Gospel Response</Language>            
+         <Language id="Coptic">Je piatcarx af[icarx...</Language>
+      </Title>
+
+      <Role id="People">
+         <InsertDocument path="include/gospelResponse/Nativity.1"/>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            O God, the great, the eternal, the Lord the Pantocrator, through Whose Logos, our Lord Jesus Christ, Who is from the beginning and forever,
+         </Language>
+         <Language id="Coptic">
+            Vnou] pinis] pisae~neh P[oic pipantokratwr v/e~te e~bol hitotf m~f/e~te vwk n~logoc pen[oic I/couc Pi,~rictoc: v/etsop icjen h/ nem sa e~neh.
+         </Language>
+         <Language id="Arabic">
+            يا الله العظيم الأبدى، الرب الضابط الكل، الذى من قبل كلمتك، ربنا يسوع المسيح، الكائن  منذ البدء والى الأبد.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            after You have created the world in Yours infinite wisdom, You created man after Your own image and Your likeness.
+         </Language>
+         <Language id="Coptic">
+            Ouoh menenca y~rekyamio~ m~pikocmoc qen tekcovia~ n~ataur/jc: akyamio m~pirwmi kata Y/e~te ywk n~hikwn nem kata peki~ni.
+         </Language>
+         <Language id="Arabic">
+            خلقت العالم بحكمتك التى لا تستقصى، وكونت الأنسان مثل صورتك ومثالك.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            You have filled him with the mercy of Your goodness and have adorned him with all beauty. You have given him a spirit of wisdom and rational understanding and gave him authority over all things. You have appointed unto him to work all day that he may praise You.
+         </Language>
+         <Language id="Coptic">
+            Akmahf e~bol qen v~nai n~tekmeta~gahoc: akcelcwlf e~bol qen metcaie~ niben: ak] naf n~oup#n#a# n~covia~ nem ouka] n~no/~ton ak] ersisi naf e~jen en,ai niben: ak,af e~erhwb m~pie~hoou t/rf: ouoh je n~tefc~mou e~rok.
+         </Language>
+         <Language id="Arabic">
+            وملأتة من رحمة صلاحك، وزينته بكل بهاء، واعطيته روح حكمة وفهما عقليا، وسلطته على كلشىء، وتركته ليعمل كل النهار ويباركك.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Therefore, we ask and entreat Your goodness for Your servant (...) the son of (...) and (...), Bless him with all heavenly blessings, bless again, O Lord his birth, may he find length of days according to Your grace.  
+         </Language>
+         <Language id="Coptic">
+            Eybe vai ten]ho ouoh tentwbh m~mok pia~gayooc hijen pekbwk (nim) p~s/ri pa (nim) nem ya n#i#m.# C~mou e~rof qen c~mou niben n~e~poranion: c~mou e~perjinmici on P[oic: marefjem a~hi kata v/e~te vwk n~h~mot.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا نسأل ونتضرع الى صلاحك عن عبدك (...) بن (...) و (...).. باركه بكل البركات السمائية، وبارك أيضا يا رب ميلاده وليطل عمره كنعمتك.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Let him increase and grow a hundred fold and sixty fold and thirty fold.
+         </Language>
+         <Language id="Coptic">
+            Marefaiai n~tefa~sai n~h~r/i qen r# nem x# nem l#.
+         </Language>
+         <Language id="Arabic">
+            حتى ينمو ويكثر ثلاثين وستين ومائة.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            May his parents rejoice with gladness at his birth like Zacharias and Elizabeth unto whom You have granted John the prophet.
+         </Language>
+         <Language id="Coptic">
+            Ere pefio] rasi euyel/l e~h~r/i e~jen pefjinmici m~v~r/] n~Za,ariac nem Elicabet: etakerh~mot nwou m~pip~rov/t/c Iw#a#.
+         </Language>
+         <Language id="Arabic">
+            وليفرح به أبواه ويسرا بميلاده مثل زكريا واليصابات اللذين وهبت لهما يوحنا النبى.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            At the appointed time, may he be worthy of the washing of the new birth, unto forgiveness of his sins, preparing him to be a temple of Yours Holy Spirit.  
+         </Language>
+         <Language id="Coptic">
+            Ouoh qen pikec/ou ety/s marefp~emp~sa m~pijwkem n~te pioua~hemmici e~p~,w e~bol n~te nefnobi: ekcob] m~mof n~ouervei n~te pekp#n#a# eyouab.
+         </Language>
+         <Language id="Arabic">
+            وفى الزمان المحدد فليستحق حميم الميلاد الجديد لغفران خطاياه. أعده هيكلا لروحك القدوس.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+   
+   <Role id="People">
+      <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+         <Title>
+            <Language id="English">Psalm 148</Language>
+            <Language id="Arabic">المزمور ١٤٨</Language>
+         </Title>
+      
+         <InsertDocument path="include/praises/Psalm148Content"/>
+      </Section>
+      
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Psalm 149</Language>
+            <Language id="Arabic">المزمور ١٤٩</Language>
+         </Title>
+         
+         <InsertDocument path="include/praises/Psalm149Content"/>
+         <InsertDocument path="include/Alleluia3"/>
+      </Section>   
+   </Role>
+   
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then the priest shall sign the water and say,
+         </Language>
+         <Language id="Arabic">
+            ثم يرشم الماء قائلا:
+         </Language>
+      </Comment>
+
+      <InsertDocument path="include/OneIsTheHoly"/>
+   
+      <Comment>
+         <Language id="English">
+            Then he bathes the child with the water while the people sing
+         </Language>
+         <Language id="Arabic">
+            و يقول الشعب التوزيع 
+         </Language>
+      </Comment>
+   </Role>
+
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>   
+</Document>

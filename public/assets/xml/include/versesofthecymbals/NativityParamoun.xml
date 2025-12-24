@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="NativityParamoun">
+         <Text>
+            <Language id="Coptic">
+               W ninakhi n~nou]: ouoh n~souers~v/ri m~mwou: n~te ]yeotokoc Maria: etoi m~paryenoc n~c/ou niben.
+            </Language>
+            <Language id="English">
+               O what mysterious emissions, of God that are for, Mary the Mother of God, the Ever-Virgin. 
+            </Language>
+            <Language id="Arabic">
+               ياللطلقات الإلهية المتعجب منها التى لوالدة الإله مريم العذراء كل حين.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

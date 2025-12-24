@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">      
+   <Comment>
+      <Language id="English">
+         The priest says the appropriate prayer according to the season, either the Litany for the Waters, the Litany for the Seeds, or the Litany for the Fruits.
+      </Language>
+      <Language id="Arabic">
+         ههنا يقول الكاهن ما يوافق الوقت من أوشية المياه أو أوشية الزروع أو أوشية الثمار
+      </Language>
+   </Comment>
+   
+   <Group>
+      <Season id="SeasonOfWaters">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Litany of the Waters</Language>
+               <Language id="Arabic">أوشية المياه</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  From 12 Paone to 9 Paope (June 19 to October 19/20), the Litany for the Waters is said:
+               </Language>
+               <Language id="Arabic">
+                  من 12 بؤونه إلى 9 بابه (19 يونيو إلى 19/20 أكتوبر) يقول أوشية المياه هذه:
+               </Language>
+            </Comment>
+            
+            <Role id="Priest">
+               <Group>
+                  <Season id="StGregoryLiturgy">
+                     <Text>
+                        <Language id="Coptic">
+                           Arikataxioin P[oic v~moh n~te niiarwou m~mwou: c~mou e~rwou.
+                        </Language>               
+                        <Language id="English">
+                           Graciously accord, O Lord, the fullness of the waters of the rivers, to bless them.
+                        </Language>
+                        <Language id="Arabic">
+                           تفضل ياربُّ ملءَ أنهارِ المياه بارِكْها.
+                        </Language>
+                     </Text>
+                  </Season>
+                  
+                  <Season id="Other">
+                     <Text>
+                        <Language id="Coptic">
+                           Arikataxioin P[oic nimwou n~te v~iaro: etqen tairompi yai: c~mou e~rwou.
+                        </Language>               
+                        <Language id="English">
+                           Graciously accord, O Lord, the waters of the river this year, to bless them.
+                        </Language>
+                        <Language id="Arabic">
+                           تفضل ياربُّ مياهَ النهرِ في هذه السنةِ، بارِكْها.
+                        </Language>
+                     </Text>
+                  </Season>
+               </Group>
+            </Role>
+            
+            <Role id="Deacon">
+               <Text>
+                  <Language id="Coptic">
+                     Twbh e~jen p~jinmosi e~p~swi n~te niiarwou m~mwou qen tairompi yai: hina n~te Pi,~rictoc Pennou] c~mou e~rwou: n~tefenou e~p~swi kata nousi: n~tef] m~p~ounof m~p~ho m~p~kahi n~tefsanousten qa nis/ri n~te nirwmi: n~tef] m~v~nohem n~nitebnwoui: n~tef,a nennobi nan e~bol.
+                  </Language>               
+                  <Language id="English">
+                     Pray for the rising of the waters of the rivers this year, that Christ our God may bless them and raise them according to their measure, that He may give joy to the face of the earth, sustain us, the sons of men, save the cattle, and forgive us our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     اطلبوا عن صعودِ مياه الأنهارِ في هذه السنةِ، لكي يباركَها المسيحُ إلهنا، ويُصْعِّدَها كمقدارِها، ويفرح وجهَ الأرضِ، ويعولَنا نحن بني البشرِ، ويعطي النجاةَ للبهائمِ، ويغفر لنا خطايانا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/litanies/SeasonsConclusion"/>
+         </Section>
+      </Season>
+      
+      <Season id="SeasonOfHerbs">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Litany of the Seeds and the Herbs</Language>
+               <Language id="Arabic">أوشية الزروع والعشب</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  From 10 Paope to 10 Tobe (October 20/21 to January 18/19), the Litany for the Seeds and the Herbs is said:
+               </Language>
+               <Language id="Arabic">
+                  ومن 10 بابه إلى 10 طوبه (20/21 أكتوبر إلى 18/19 يناير) يقول الكاهن أوشية الزروع وهي هذه:
+               </Language>
+            </Comment>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Arikataxioin P[oic nici] nem nicim nem nirwt n~te t~koi: etqen tairompi yai c~mou e~rwou.
+                  </Language>               
+                  <Language id="English">
+                     Graciously accord, O Lord, the seeds, the herbs, and the plants of the field this year, to bless them.
+                  </Language>
+                  <Language id="Arabic">
+                     تفضل ياربُّ، الزروعَ والعشبَ ونباتَ الحقلِ في هذه السنةِ، بارِكْها
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Deacon">
+               <Text>
+                  <Language id="Coptic">
+                     Twbh e~jen nici] nem nicim nem nirwt n~te t~koi qen tairompi yai: hina n~te Pi,~rictoc Pennou] c~mou e~rwou n~touaiai ouoh n~toua~sai santoujwk e~bol qen ounis] n~karpoc: ouoh n~tefsenh/t qa pefp~lacma e~ta nefjij yamiof n~tef,a nennobi nan e~bol.
+                  </Language>               
+                  <Language id="English">
+                     Pray for the seeds, the herbs, and the plants of the field this year, that Christ our God may bless them to grow and multiply unto perfection with great fruit, have compassion on His creation which His hands have made, and forgive us our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     اطلبوا عن الزروعِ والعشبِ ونباتِ الحقلِ، في هذه السنةِ، لكي يبارِّكُها المسيحُ إلهنا، لتنمو وتكثر إلى أن تَكْمُل بثمرةٍ عظيمةٍ، ويتحنن على جُبْلَتِه التي صنعتها يَدَاه، ويغفر لنا خطايانا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/litanies/SeasonsConclusion"/>
+         </Section>
+      </Season>
+      
+      <Season id="SeasonOfAirAndFruits">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Litany of the Air of Heaven and the Fruits</Language>
+               <Language id="Arabic">أوشية أهوية السماء والثمار</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  From 11 Tobe to 11 Paone (January 19/20 to June 18), the Litany for the Air of Heaven and the Fruits is said:
+               </Language>
+               <Language id="Arabic">
+                  من 11 طوبه إلى 11 بؤونه (19/20 يناير إلى 18يونيو) يقول الكاهن أوشية الثمار، وهي هذه:
+               </Language>
+            </Comment>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Arikataxioin P[oic nia~/r n~te t~ve nem nikarpoc n~te p~kahi qen tairompi yai: c~mou e~rwou.
+                  </Language>               
+                  <Language id="English">
+                     Graciously accord, O Lord, the air of heaven and the fruits of the earth this year, to bless them.
+                  </Language>
+                  <Language id="Arabic">
+                     تفضل ياربُّ أهويةَ السماءِ وثمراتَ الأرضِ، في هذه السنةِ، بارِكْها.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Deacon">
+               <Text>
+                  <Language id="Coptic">
+                     Twbh e~jen nia~/r n~te t~ve nem nikarpoc n~te p~kahi nem va nis~s/n nem va niman~aloli nem s~s/n niben n~ref]karpoc etqen ]oikoumen/ t/rc: hina n~te Pi,~rictoc Pennou] c~mou e~rwou n~tefjokou e~bol qen ouhir/n/ a[ne m~kah: n~tef,a nennobi nan e~bol.
+                  </Language>               
+                  <Language id="English">
+                     Pray for the air of heaven, the fruits of the earth, the trees, the vines, and for every fruit-bearing tree in all the world, that Christ our God may bless them, bring them to perfection in peace without harm, and forgive us our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     اطلبوا عن أهويةِ السماءِ، وثمراتِ الأرضِ والشجرِ والكرومِ، وكل شجرةٍ مثمرةٍ في كلِ المسكونةِ، لكي يباركَها المسيحُ إلهنا، ويكَملُها سالمةً بغير ألمٍ ويغفرَ لنا خطايانا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/litanies/SeasonsConclusion"/>
+         </Section>
+      </Season>         
+   </Group>
+   
+   <Section>
+      <Title>
+         <Language id="English">Combined Litany for the Three Seasons</Language>
+         <Language id="Arabic">الثلاث أواشي معاً</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The three prayers may be combined as follows.
+         </Language>
+         <Language id="Arabic">
+            وإذا قيل الثلاثة معاً يقول:
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="StGregoryLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Arikataxioin P[oic nia~/r n~te t~ve: nem nikarpoc n~te p~kahi: nem v~moh n~te niiarwou m~mwou: nem nici] nem nicim nem nirwt n~te t~koi: etqen tairompi yai: c~mou e~rwou.
+                  </Language>               
+                  <Language id="English">
+                     Graciously accord, O Lord, the air of heaven, the fruits of the earth, the fullness of the waters of the rivers, the seeds, the herbs, and the plants of the field this year, to bless them.
+                  </Language>
+                  <Language id="Arabic">
+                     تفضل ياربُّ أهويةَ السماءِ وثمرات الأرضِ وملءَ أنهارِ المياهِ والزروعَ والعشبَ ونباتَ الحقلِ في هذه السنةِ بارِكْها.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="Other">
+               <Text>
+                  <Language id="Coptic">
+                     Arikataxioin P[oic nia~/r n~te t~ve nem nikarpoc n~te p~kahi: nem nimwou n~te v~iaro: nem nici] nem nicim nem nirwt n~te t~koi: etqen tairompi yai: c~mou e~rwou.
+                  </Language>               
+                  <Language id="English">
+                     Graciously accord, O Lord, the air of heaven, the fruits of the earth, the waters of the river, the seeds, the herbs, and the plants of the field this year, to bless them.
+                  </Language>
+                  <Language id="Arabic">
+                     تفضل ياربُّ أهويةَ السماءِ وثمراتَ الأرضِ ومياهَ النهرِ والزروعَ والعشبَ ونباتَ الحقلِ في هذه السنةِ، بارِكْها.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+      </Role>
+            
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nia~/r n~te t~ve: nem nikarpoc n~te p~kahi: nem p~jinmosi e~p~swi n~te niiarwou m~mwou: nem nici] nem nicim nem nirwt n~te t~koi hina n~te Pi,~rictoc Pennou] c~mou e~rwou: ouoh n~tefsenh/t qa pefp~lacma e~ta nefjij yamiof: n~tef,a nennobi nan e~bol.
+            </Language>               
+            <Language id="English">
+               Pray for the air of heaven, the fruits of the earth, the rising of the waters of the rivers, the seeds, the herbs, and the plants of the field, that Christ our God may bless them, have compassion on His creation which His hands have made, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن أهويةِ السماءِ، وثمراتِ الأرضِ، وصعودِ مياه الأنهارِ، والزروعِ والعشبِ ونباتِ الحقلِ، في هذه السنةِ لكي يباركَها المسيحُ إلهنا، ويتحنن على جُبْلَتِه التي صنعتها يداه، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/litanies/SeasonsConclusion"/>
+   </Section>     
+</Document>

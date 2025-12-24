@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Coou n~hudria...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Wedding at Cana of Galilee:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               Coou n~hudria m~mwou: akaitou n~/rp efcwtp: hiten peknis] n~w~ou: tenhwc nak somt n~cop.
+            </Language>
+            <Language id="English">
+               Six jars of water: You made them select wine: through Your great glory: we praise You three times.
+            </Language>
+            <Language id="Arabic">
+               ستة أجران ماء صنعتها خمرا مختارا بمجدك العظيم نسبحك ثلاث مرات.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

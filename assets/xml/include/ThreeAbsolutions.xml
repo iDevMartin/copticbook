@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">            
+      <InsertDocument path="include/LordsPrayer"/>
+      <InsertDocument path="include/InChristJesusOurLord"/>      
+   </Role>
+    
+   <Role id="Priest" silent="true">
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Section>
+               <Title>
+                  <Language id="English">The Prayer after “Our Father” Addressed to the Father</Language>
+                  <Language id="Arabic">صلاة من بعد ”أبانا“ للآب</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ce ten]ho e~rok Viwt eyouab: pia~gayoc v/eymei n~]meta~gayoc: m~perenten e~qoun e~piracmoc oude m~peny~rouer[oic e~ron n~je a~nomia~ niben.
+                  </Language>
+                  <Language id="English">
+                     Yea, we ask You, O holy Father, the Good One who loves goodness, lead us not into temptation, nor let any iniquity rule over us,
+                  </Language>
+                  <Language id="Arabic">
+                     نعم نسألُك أيها الآبُ القدوسُ الصالحُ محبُّ الصلاحِ، لا تُدخلْنا في تجربةٍ، ولا يتسَلَّطُ علينا كلُّ إثمٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla nahmen e~bolha nih~b/oui~ n~atsau: nem noumeui~: nem noujinkim de: nem noujinnau nem noujinjomjem.
+                  </Language>
+                  <Language id="English">
+                     but deliver us from worthless works and from the thoughts, motions, sights, and touches thereof.
+                  </Language>
+                  <Language id="Arabic">
+                     لكن نجنا من الأعمالِ غيرِ النافعةِ وأفكارِها وحركاتِها ومناظرِها وملامسِها.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh pireferpirazin men korff: ouoh [oji n~cwf e~bolharon: a~ri e~pitiman de on n~nefjinkim et[/out n~q~r/i n~q/ten: ouoh jwji e~bolharon n~nihorm/ etcwk m~mon e~qoun e~v~nobi.
+                  </Language>
+                  <Language id="English">
+                     Destroy the tempter and drive him away from us. Rebuke also his movements implanted in us, and cut off from us the impulses which drag us into sin,
+                  </Language>
+                  <Language id="Arabic">
+                     والمجرِّبُ أبطِلْهُ واطردْهُ عنا، وانتهرْ أيضاً حركاتَهُ المغروسةَ فينا. واقطع عنا الأسبابَ التي تسوقنا إلى الخطيةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh matoujon qen tekjom eyouab: qen Pi,rictoc I/couc Pen[oic.
+                  </Language>
+                  <Language id="English">
+                     and deliver us by Your holy power, in Christ Jesus our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     ونجنا بقوتِك المقدسةِ، بالمسيحِ يسوعَ ربِّنا.
+                  </Language>         
+               </Text>
+               
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Section>
+         </Season>
+         
+         <Season id="Unction | Baptism | Crowning | StGregoryLiturgy">
+            <InsertDocument path="include/YeaOLordContents"/>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Section>
+               <Title>
+                  <Language id="English">The Prayer after “Our Father” Addressed to the Father</Language>
+                  <Language id="Arabic">صلاة من بعد ”أبانا“ للآب</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ce ten]ho e~rok Vnou] Viwt pipantokratwr: m~perenten e~qoun e~piracmoc: alla nahmen e~bolha pipethwou.
+                  </Language>
+                  <Language id="English">
+                     Yea, we ask You, O God, the Father, the Pantocrator, lead us not into temptation, but deliver us from the evil one.
+                  </Language>
+                  <Language id="Arabic">
+                     نَعَمْ نسأَلُكَ يا اللهُ الآبُ ضابطَ الكلِّ، لا تُدخِلْنَا في تجربةٍ لكن نجِّنا من الشريرِ
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nie~nergia men etoi n~ouyo n~r/] n~te p~catanac: hitou e~bol haron.
+                  </Language>
+                  <Language id="English">
+                     Take away from us the manifold works of Satan,
+                  </Language>
+                  <Language id="Arabic">
+                     فالأفعالُ المتنوعةُ التي لِلشيطانِ، اطرحْها عنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nie~piboul/ de etsop qen p~co[ni n~te hanrwmi euhwou: a~ritou t/rou n~aprakton.
+                  </Language>
+                  <Language id="English">
+                     and the intrigues that are from the counsel of wicked men; bring them all to no avail,
+                  </Language>
+                  <Language id="Arabic">
+                     والسعاياتُ الكائنةُ بمشورةِ الناسِ الأشرارِ، اجعلْها كلَّها كلا شيءٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aricobt e~ron n~c/ou niben qen tekoui~nam n~reftanqo.
+                  </Language>
+                  <Language id="English">
+                     and fortify us at all times by Your life-giving right hand,
+                  </Language>
+                  <Language id="Arabic">
+                     حَصِّـنَّا كلَّ حينٍ بيمينِكَ المحييَةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je n~yok pe penbo/~yoc ouoh pennas]: qen Pi,rictoc I/couc Pen[oic.
+                  </Language>
+                  <Language id="English">
+                     for You are our helper and protector in Christ Jesus our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     لأنَكَ أنتَ هو معينُنا وناصِرُنا، بالمسيحِ يسوعَ ربِّنا. 
+                  </Language>         
+               </Text>
+               
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Section>
+            
+            <Section>
+               <Title>
+                  <Language id="English">Alternate Prayer after “Our Father” Addressed to the Father</Language>
+                  <Language id="Arabic">صلاة من بعد ”أبانا“ للآب</Language>
+               </Title>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest may say this alternate prayer.
+                  </Language>
+                  <Language id="Arabic">
+                     صلاة أخرى بدل السابقة.
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ce ten]ho e~rok P[oic Pennou]: m~peren h~li n~q/ten e~qoun e~piracmoc: vai e~te m~mons~jom m~mon e~fai qarof eybe tenmetacyen/c.
+                  </Language>
+                  <Language id="English">
+                     Yea, we ask You, O Lord our God, lead none of us into temptation—this which we cannot endure on account of our weakness—
+                  </Language>
+                  <Language id="Arabic">
+                     نَعَمْ نسأَلُكَ أيها الربُّ إلـهُنا، لا تُدْخِلْ أحداً منا في تجربةٍ. هذه التي لا نستطيع أن نحتمِلَها من أجلِ ضعفِنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla nem pikepiracmoc moi nan m~penjini~ e~boln~q/tf: hina n~tens~jemjom e~w~sem n~nicoynef t/rou et[er/out n~,~rwm n~te pidiaboloc.
+                  </Language>
+                  <Language id="English">
+                     but grant us also to walk out of the temptation that we may be able to quench all the fiery, blazing darts of the Devil.
+                  </Language>
+                  <Language id="Arabic">
+                     بل ومع التجربةِ أيضاً إعطِنا مخرجنا منها، لكي نستطيعَ أن نُطفِئََ جميعَ سهامِ إبليسَ المتقدةِ ناراً.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh nahmen e~bolha pipethwou nem nefh~b/oui~: qen Pi,rictoc I/couc Pen[oic. 
+                  </Language>
+                  <Language id="English">
+                     And deliver us from the evil one and his deeds in Christ Jesus our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     ونجنا من الشريرِ وأعمالِهِ، بالمسيحِ يسوعَ ربِّنا.
+                  </Language>         
+               </Text>
+               
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Section>
+         </Season>
+      </Group>
+   </Role>
+   
+   <InsertDocument path="include/BowYourHeads"/>
+   
+   <Role id="People">   
+      <Text>
+         <Language id="Coptic">
+            Enwpion cou Kurie.
+         </Language>
+         <Language id="English">
+            Before You, O Lord.
+         </Language>
+         <Language id="Arabic">
+            أمامك يارب
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The people bow their heads until the conclusion of the following two prayers.
+         </Language>
+         <Language id="Arabic">
+            ويطامنون رؤوسهم إلى آخر قراءة الصلاتين الآتيتين:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Group>
+         <Season id="StBasilLiturgy">
+            <InsertDocument path="include/PrayerOfSubmissionToTheFather"/>
+         </Season>
+         
+         <Season id="Unction | Baptism | Crowning | StGregoryLiturgy">
+            <InsertDocument path="include/PrayerOfSubmissionToTheSon"/>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <InsertDocument path="include/cyril/PrayerOfSubmissionToTheFather"/>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="Deacon">   
+      <Text>
+         <Language id="Coptic">
+            Proc,wmen Yeou metavobou. Am/n.
+         </Language>
+         <Language id="English">
+            Let us attend in the fear of God. Amen.
+         </Language>
+         <Language id="Arabic">
+            ننصت بخوف الله. آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest">   
+      <Group>
+         <Season id="Unction | Baptism | Crowning">
+            <Comment>
+               <Language id="English">
+                  The priest turns his face towards the west and signs the congregation with the cross in his hand and says:
+               </Language>
+               <Language id="Arabic">
+                  يتجه الكاهن إلى الغرب ويرشم الشعب بالصليب الذي بيده ويقول:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            Ir/n/ paci.
+         </Language>
+         <Language id="English">
+            Peace be with all.
+         </Language>
+         <Language id="Arabic">
+            السلام للكل
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+   
+   <Group>
+      <Season id="Unction | Baptism | Crowning">
+         <Role id="Priest">
+            <Section expanded="true">            
+               <InsertDocument path="include/PrayerOfAbsolutionToTheSonContent"/>            
+            </Section>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest" silent="true">      
+            <Group>
+               <Season id="StBasilLiturgy | StCyrilLiturgy">
+                  <InsertDocument path="include/PrayerOfAbsolutionToTheFather"/>
+               </Season>
+               
+               <Season id="StGregoryLiturgy">
+                  <Section>
+                     <InsertDocument path="include/PrayerOfAbsolutionToTheSonContent"/>
+                  </Section>
+               </Season>
+            </Group>
+            
+            <Comment>
+               <Language id="English">
+                  The priest says inaudibly the short prayers for the peace of the church and for the fathers.
+               </Language>
+               <Language id="Arabic">
+                  ثم يقول الكاهن أوشيتي السلام والآباء الصغيرتين سراً.
+               </Language>
+            </Comment>            
+         </Role>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="!Baptism ^ !Unction ^ !Crowning">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  Then he exclaims aloud:
+               </Language>
+               <Language id="Arabic">
+                  ثم يقول جهراً:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ariv~meui~ P[oic n~nenjinywou] c~mou e~rwou.
+               </Language>
+               <Language id="English">
+                  Remember, O Lord, our assemblies; bless them.
+               </Language>
+               <Language id="Arabic">
+                  أذكر يارب اجتماعاتنا باركها
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Deacon">
+      <Group>
+         <Season id="!Baptism ^ !Unction ^ !Crowning">
+            <Comment>
+               <Language id="English">
+                  The deacon raises the cross, and says:     
+               </Language>
+               <Language id="Arabic">
+                  يرفع الشماس الصليب ويقول:     
+               </Language>
+            </Comment>   
+         </Season>
+      </Group>
+      
+      <Group>
+         <Season id="!AbsolutionOfWoman ^ !BathingPrayer ^ !Unction ^ !Crowning">
+            <InsertDocument path="include/SavedAmen"/>
+         </Season>
+      </Group>
+   </Role>
+</Document>

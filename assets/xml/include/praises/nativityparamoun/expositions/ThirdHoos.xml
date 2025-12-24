@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section expanded="true">      
+         <Title>
+            <Language id="English">Watos Exposition For the Third Hoos</Language>
+            <Language id="Arabic">طرح واطس على الهوس الثالث</Language>
+         </Title>
+               
+         <Text>
+            <Language id="Coptic">
+               E~taui~ n~je nimane~cwou: qen ouc~pod/ e~B/yleem: pimae~ta nip~rov/t/c: je aunamac Pi,~rictoc n~q/tf.
+            </Language>
+            <Language id="English">
+               When the shepherds came quickly to Bethlehem, the place the prophets said Christ will be born in,
+            </Language>
+            <Language id="Arabic">
+               فلما أتى الرعاة مسرعين إلى بيت لحم، الذي قالت الأنبياء أن المسيح يولد فيها،
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Aujimi m~Mariam nem Iwc/v: nem Pia~lou eu,/ qen piouonhf: je ou/i gar m~mon touma m~mau pe: qen pima n~ouwnh.
+            </Language>
+            <Language id="English">
+               they found Mary, Joseph with the Child in a manger because there was no room for them in the inn.
+            </Language>
+            <Language id="Arabic">
+               وجدوا مريم ويوسف ووجدوا الطفل مضجعاً في المذود، لأنه لم يكن لهما موضع حيث نزلا.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               They saw heavenly hosts, praising God with joy along with the angels saying, “Glory to God in the highest, peace on earth and goodwill towards men.” He has come and saved us. Then the shepherds returned to their homes with great joy, praising and glorifying God for what they have seen. They testified to the people saying, “Christ was born in Bethlehem and we have seen Him, worshiped Him, and believed that He is our Savior.” Glory to Him forever and ever.
+            </Language>
+            <Language id="Arabic">
+               فرأى (الرعاة) جماعة من أجناد السماء يسبحون الله بتهليل مع الملائكة ويقولون "المجد لله في الأعالي، وعلى الأرض السلام، وفي الناس المسرة" لأنه أتى وخلصنا، ورجع الرعاة إلى بيوتهم بفرح عظيم، يسبحون ويمجدون الله على كل ما أبصروا. وكانوا يشهدون للجموع قائلين "أنه قد وُلد المسيح في بيت لحم وقد أبصرناه وسجدنا له وآمنا به أنه هو المخلص." له المجد دائماً إلى الأبد.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

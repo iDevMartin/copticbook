@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Nem polic niben: nem ,wra niben: nem ni]mi: nem /i niben n~te nipictoc:
+         </Language>
+         <Language id="English">
+            and every city and every country, and the villages, and every house of the faithful.
+         </Language>         
+         <Language id="Arabic">
+            وكلَّ مدينةٍ، وكلَّ كورةٍ، والقرى، وكلَّ بيوتِ المؤمنينَ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Areh de e~ron t/ren qen pinah] n~oryodoxoc sa pinifi n~qae~: vai gar m~mauatf pe tenhelpic.
+         </Language>
+         <Language id="English">
+            And keep us all in the orthodox faith to the last breath, for this alone is our hope.
+         </Language>         
+         <Language id="Arabic">
+            واحفظنا كلَّنا في الإيمانِ الأرثوذكسي إلى النفسِ الأخيرِ، لأن هذا وحدَهُ هو رجاؤنا.
+         </Language>
+      </Text>
+   </Role>
+</Document>

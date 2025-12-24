@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Vespers ^ HosannaSunday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>        
+            <Language id="Arabic">مرد الإنجيل</Language>    
+            <Language id="Coptic">&lt;ere Lazaroc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/gospelResponse/LazarusSaturdayLiturgy"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>      
+   </Season>
+   
+   <Season id="Matins ^ HosannaSunday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>          
+            <Language id="Arabic">مرد الإنجيل</Language>  
+            <Language id="Coptic">T~vasi n~nihupar,wnta...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               T~vasi n~nihupar,wnta: peje Zakaeoc m~Pef[oic ]nat/if w~ decpota n~nih/ki qen s~rwic:
+            </Language>
+            <Language id="English">
+               “The half of my goods,” said Zacchaeus to his Lord, “I will give O Master, to the poor with care.” 
+            </Language>
+            <Language id="Arabic">
+               فقال زكا لربه نصف الأموال أعطيها يا سيدى للمساكين بحرص. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ic pioujai afswpi nak: peje P~[oic V~] n~te nijom: m~voou gar je n~yok hwk ous/ri n~te Abraam.
+            </Language>
+            <Language id="English">
+               “Behold salvation has come unto you today,”  Said the Lord God of Powers, “For you are also, a son of Abraham.”
+            </Language>
+            <Language id="Arabic">
+               أجاب الرب إله القوات هوذا الخلاص قد وجب لك اليوم . لأنك أنت أيضاً ابن إبراهيم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>      
+   </Season>
+   
+   <Season id="Liturgy ^ HosannaSunday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">English/Arabic Gospel Response</Language>         
+            <Language id="Arabic">مرد الإنجيل</Language>      
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/TodayTheSayingsAreFulfilled"/>      
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Coptic Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">V/ethemci hijen ni,eroubim...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/FeeEthemsi"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Aftalof e~oue~w~: n~je Pi,~rictoc qen ouyebio: ouoh nia~lwoui~ aue~rouw~: je w~canna p~s/ri n~Dauid.
+            </Language>
+            <Language id="English">
+               Christ rode a colt in humility. The children answered: Hosanna to the son of David.
+            </Language>
+            <Language id="Arabic">
+               ركب المسيح، أتاناً بتواضع، وأجابت الأطفال قائلة، أوصنا يا إبن داود.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/HosannaResponse"/>
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>      
+   </Season>
+</Document>

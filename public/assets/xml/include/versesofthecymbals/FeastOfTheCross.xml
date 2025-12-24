@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FeastOfTheCross | HolyCross:VersesOfCymbals">
+         <Group>
+            <Season id="FeastOfTheCross">
+               <Comment>
+                  <Language id="English">
+                     For the Feast of the Cross:
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/versesofthecymbals/FeastOfTheCrossContents"/>
+      </Season>  
+   </Group>
+</Document>

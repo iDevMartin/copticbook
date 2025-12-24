@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/conclusion/CopticNewYear"/>
+   <InsertDocument path="include/conclusion/Nativity"/>
+   <InsertDocument path="include/conclusion/Circumcision"/>
+   <InsertDocument path="include/conclusion/Theophany"/>
+   <InsertDocument path="include/conclusion/WeddingCana"/>
+   <InsertDocument path="include/conclusion/PresentationInTemple"/>
+   <InsertDocument path="include/conclusion/Annunciation"/>
+   <InsertDocument path="include/conclusion/HosannaSunday"/>
+   <InsertDocument path="include/conclusion/JoyousSaturday"/>
+   <InsertDocument path="include/conclusion/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/conclusion/PostAscensionPentecostPeriod"/>   
+   <InsertDocument path="include/conclusion/Pentecost"/>
+   <InsertDocument path="include/conclusion/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/conclusion/Transfiguration"/>
+   <InsertDocument path="include/conclusion/Joyful29thOfTheMonth"/>
+   <InsertDocument path="include/conclusion/FeastOfTheCrossAndFuneral"/>
+   <InsertDocument path="include/conclusion/NativityFast"/>
+   <InsertDocument path="include/conclusion/GreatFast"/>
+   <InsertDocument path="include/conclusion/SeasonOfWaters"/>
+   <InsertDocument path="include/conclusion/SeasonOfHerbs"/>
+   <InsertDocument path="include/conclusion/SeasonOfAirAndFruits"/>
+</Document>

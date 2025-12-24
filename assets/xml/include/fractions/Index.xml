@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/fractions/Fractions.1"/>
+   <InsertDocument path="include/fractions/Fractions.2"/>
+</Document>

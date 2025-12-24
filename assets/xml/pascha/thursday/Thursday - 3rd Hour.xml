@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday (The Third Hour)</Language>
+         <Language id="Arabic">خميس العهد (الساعة الثالثة)</Language>
+         <Language id="Coptic">Piehoou m~Ptiou n~nis] (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 32:30-33:5</Language>
+               <Language id="Arabic">خروج 32: 30-33: 5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Acswpi de menenca pefrac]: peje Mwu~c/c nahren pilaoc: je n~ywten a~teteni~rin~ou nis] n~nobi:
+               </Language>
+               <Language id="English">
+                  Now it came to pass on the next daythat Moses said to the people, "You committed a great sin.
+               </Language>
+               <Language id="Arabic">
+                  وكان بعد الغد ان قال موسى للشعب: أنتم قد أخطاتم خطية عظيمة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou de ainasen/i sa Vnou]: je ,ac eie~]ho qa petennobi: 
+               </Language>
+               <Language id="English">
+                  So now I will go up to God to make atonement for your sin."
+               </Language>
+               <Language id="Arabic">
+                  فأصعد الآن إلى الله لعلى أكفر عن خطيتكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afkotfde n~je Mwu~c/c ha P[oic efjwm~moc: je ]twbh m~mok P[oic afernobi n~je pilaoc: n~ounis] n~nobi: auyamio~ nwou n~hannou] n~noub:
+               </Language>
+               <Language id="English">
+                  Then Moses returned to the Lord and said, "I pray, O Lord, these people have committed a great sin and have made for themselves a god of gold!
+               </Language>
+               <Language id="Arabic">
+                  فرجع موسى إلى الرب وقال: أتضرع إليك يارب قد خطئ هذا الشعب خطية عظيمة. وصنعوا لهم آلهة من ذهب
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou icje de ,~na,w nwou e~bodm~pounobi ie,af e~swp m~mon: iefott e~bolqen pekjwm e~tak c~q/t n~q/tf.
+               </Language>
+               <Language id="English">
+                  Yet now, if You will forgive their sin, forgive it—but if not, blot me out of the book You have written."
+               </Language>
+               <Language id="Arabic">
+                  والآن ان كنت تغفر لهم خطيتهم فأغفر وإلا فامحنى من سفرك الذى كتبتنى فيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejafde n~je P[oic m~Mwu~c/c: je v/e~tafernobi m~pam~yo e~bol pe ]nafotf e~bolqen pajwm: ]nou de mosi n~tekse e~pec/t n~tek[imwit qajwf m~pailaoc: e~h~r/i evma e~taijocnak:
+               </Language>
+               <Language id="English">
+                  Then the Lord said to Moses, "Whoever sins against Me, I will blot him out of My book. Now therefore, go down and lead the people to the place of which I spoke to you.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لموسى: من أخطأ أمامى أمحوه من سفرى. والآن امض لتنزل وتقود هذا الشعب إلى حيث قلت لك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Q/p pe ic paaggeloc namosi qajwk: ouoh qen piehoou e~]najem p~sini:]nai~ni m~pounobi eh~r/i e~jwou: 
+               </Language>
+               <Language id="English">
+                  Behold, My Angel shall go before your face. Nevertheless, in the day when I visit, I will strike them for their sin."
+               </Language>
+               <Language id="Arabic">
+                  هوذا ملاكى يسير أمامك. وفى يوم افتقادى أجلب عليهم خطيتهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic de afsari m~pilaoc: eybe p~yamio m~pimaci e~ta[oicAa~rwn yamiof.
+               </Language>
+               <Language id="English">
+                  So the Lord struck the people for making the calf which Aaron made.
+               </Language>
+               <Language id="Arabic">
+                  فضرب الرب الشعب بسبب صنع العجل الذى صنعه هرون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic nahren Mwu~c/c: je mosi n~tekse e~bolqen paima:n~yok nem peklaoc nai e~take~nou e~bol qen p~kahi n~,/mi: eqoun epikahi e~taiwrk m~mof n~Abraam nem I~caak nem Iakwb eijw m~moc: je eie~] m~mof m~petenjroj:
+               </Language>
+               <Language id="English">
+                  Now the Lord said to Moses, "Depart, go up from here, you and the people you brought out of the land of Egypt, to the land I swore to Abraham, Isaac, and Jacob, saying, 'To your seed I will give it.'
+               </Language>
+               <Language id="Arabic">
+                  وقال الرب لموسى اذهب وانطلق من ههنا. أنت وشعبك هؤلاء الذين أخرجتهم من أرض مصر. إلى الأرض التى اقسمت لإبراهيم واسحق ويعقوب قائلاً: لنسلك أعطيها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }naouwrp m~paaggeloc qajwk: n~tefhioui~ e~bol mp~i~Amorreoc nem pi&lt;aldeoc nempiVerezeoc nem piE~bouceoc nem pi&lt;ananeoc:
+               </Language>
+               <Language id="English">
+                  I will send My Angel before your face, and I will drive out the Amorite, the Hittite, the Perizzite, the Gergesite, the Hivite, the Jebusite, and the Canaanite.
+               </Language>
+               <Language id="Arabic">
+                  وأنا أرسل أمامك ملاكى. ويطرد الآمورى والكلدانى والفرزانى واليبوسانى والكنعانى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~olk e~qoun e~oukahi efsoue~e~rw] e~bol hi e~biw~: n~nai gar e~h~r/i nemak: je n~yok oulaoc n~nastnahbi pe hinan~tas~temfotk e~bol hi pimwit.
+               </Language>
+               <Language id="English">
+                  I will bring you into a land flowing with milk and honey; for I will not go up in your midst, lest I consume you on the way, for you are a stiff-necked people."
+               </Language>
+               <Language id="Arabic">
+                  وادخلك إلى الأرض التى تفيض لبناً وعسلاً. وأما أنا فلا أصعد معك. لانك شعب صلب الرقبة لئلا افنيك فى الطريق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afcwtem de n~je pilaoc e~paicaji je fnastaferh/bi: 
+               </Language>
+               <Language id="English">
+                  When the people heard this bad news, they mourned in lamentations.
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع الشعب هذا الكلام القاسى ناحوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de n~je P[oic n~nens/ri m~pI~cra/l: je n~ywten oulaoc n~nastnahbi:
+               </Language>
+               <Language id="English">
+                  For the Lord said to the children of Israel, "You are a stiff-necked people.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لبنى اسرائيل: أنتم شعب صلب الرقبة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Joust m/pwc n~tai~ni n~keerqot e~jeny/nou n~tafet y/nou e~bol.
+               </Language>
+               <Language id="English">
+                  Beware, lest I inflict another plague on you and consume you.
+               </Language>
+               <Language id="Arabic">
+                  انظروا لئلا آتى عليكم بضربة أخرى فابيدكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 24:1-11</Language>
+               <Language id="Arabic">سيراخ 24: 1-11</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+                     
+            <Text>
+               <Language id="Coptic">
+                  }covia~ de cec~mou e~tec'u,/: ouoh cnaswpe~roc n~n/etkw] n~cwc: c~nasousou m~moc qen y~m/] n~oum/s:
+               </Language>
+               <Language id="English">
+                  Wisdom will praise herself, And in the midst of her people she will boast.
+               </Language>
+               <Language id="Arabic">
+                  الحكمة تمدح نفسها. وتقبل طالبيها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cnaouwn n~rwc qen t~ekk~l/cia~ m~v/et[oci: n~tecsousou m~mocm~pem~yo e~bol n~tefjom:
+               </Language>
+               <Language id="English">
+                  In the assembly of the Most High, she will open her mouth and boast in the presence of His host.
+               </Language>
+               <Language id="Arabic">
+                  وتفتخر وسط الجماعات. وتفتح فاها فى جماعة العلى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je a~nok etaii e~bolqen rwf m~v/et[oci: ouoh aihwbcm~p~kahi m~v~r/] n~ounifi A~nok aiswpi qen n/et[oci: ouoh e~re pay~ronoc qenouc~tulloc n~[/pi:
+               </Language>
+               <Language id="English">
+                  "I came forth from the mouth of the Most High And covered the earth like a mist. I pitched my tent in the high places and my throne on the pillar of cloud.
+               </Language>
+               <Language id="Arabic">
+                  وتفتخر أمام قوته قائلة: انى خرجت من فم العلى. وغشيت الأرض مثل الضباب وسكنت فى الأعالى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aikw] m~pkw] n~t~ve m~mauat: aimosi qen p~sik n~ninoun: qennihwimi n~te v~iom: nem p~kahi t/rf: ai,w n/i qen laoc niben nem eynoc niben: aikw] n~ca swpi:
+               </Language>
+               <Language id="English">
+                  I alone encircle the ring of heaven, And I walk in the depth of the abyss. In the waves of the sea, in all the earth, and in every people and nation I have gained a possession.
+               </Language>
+               <Language id="Arabic">
+                  وعرشى فى عامود سحاب وطفت حول السماء وحدى وسلكت فى عمق الغمر وفى أمواج البحر والأرض باسرها. وهبطت فى كل الشعوب وكل الأمم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem nai t/rou: ouoh ainaswpi qen t~k~l/ronomia~ n~nim.
+               </Language>
+               <Language id="English">
+                  With all these, I have sought a place to rest; In what inheritance will I lodge?
+               </Language>
+               <Language id="Arabic">
+                  فى هذه كلها التمست مسكناً، فبأى ميراث أحل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote afhonhen e~tot n~je pirefcwnt n~te en,ai niben: ouoh v/e~tafcwnt afcemni m~pamanswpi:
+               </Language>
+               <Language id="English">
+                  "Then the Creator of all things commanded me, And He who created me gave me a place to live.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ أوصانى خالق الجميع، والذى خلقنى عين مسكنى,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afjoc n/i: je ouwh qen Iakwb: ouoh a~rik~l/ronomin qen p~Icra/l:
+               </Language>
+               <Language id="English">
+                  He said, 'Pitch your tent in Jacob And receive an inheritance in IsraeI.'
+               </Language>
+               <Language id="Arabic">
+                  وقال: اسكنى فى يعقوب، ورثى فى اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qajwou n~nie~neh afcwnt m~moi icjen h/: ouoh n~namounk sa e~neh: 
+               </Language>
+               <Language id="English">
+                  Before the age, He created me from the beginning, And in the age to come I will not cease.
+               </Language>
+               <Language id="Arabic">
+                  قبل الدهور ومن البدء خلقتنى وإلى الأبد لا أزول.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aisemsi qen]c~kun/ eyouab m~pefm~yo e~bol: ouoh pair/] aftajroi qen Ciwn: e~pjin taswpi qentefpolic m~menrit: ouoh e~re paersisi qen Ieroucal/m.
+               </Language>
+               <Language id="English">
+                  I serve before Him in His holy tabernacle; Therefore, I am established in Zion. In the beloved city likewise He gives me rest, and my authority is in Jerusalem.
+               </Language>
+               <Language id="Arabic">
+                  وقد خدمت أمامه فى الخيمة المقدسة وهكذا فى صهيون ثبتنى لاسكن فى مدينته المحبوبة وسلطانى فى أورشليم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 93:21,23</Language>
+               <Language id="Arabic">مزمور 93: 21 ,23</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cenajwrj e~jen t~'u,/ n~ouy~m/i: ouoh ouc~nof n~aynobi cenahitf e~p~hap:
+               </Language>
+               <Language id="English">
+                  They shall hunt for the soul of a righteous man and shall condemn innocent blood.
+               </Language>
+               <Language id="Arabic">
+                  يتصيدون على نفس الصديق. ويلقون إلى الحكم دماً زكياً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~twb nwou n~toua~nomia~ nem poupethwou: ouoh efe~takwou n~je P[oic Panou]: All/louia.
+               </Language>
+               <Language id="English">
+                  He will repay their lawlessness to them, and according to their wickedness, the Lord our God shall destroy them: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وسيكافئهم باثمهم وشرهم. ويبيدهم الرب إلهي: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 26:17-19</Language>
+            <Language id="Arabic">متى 26: 17-19</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nh~r/i de qen pie~hoou n~houit n~te niatkwb: aui~ n~je nimay/t/c ha I/couc eujwm~moc: je akouws e~cebte pipac,a nak ywn e~ouomf.
+               </Language>
+               <Language id="English">
+                  Now on the first day of the Feast of the Unleavened Bread the disciples came to Jesus, saying to Him, "Where do You want us to prepare for You to eat the Passover?"
+               </Language>
+               <Language id="Arabic">
+                  وفى أول يوم من الفطير جاء التلاميذ إلى يسوع قائلين: أين تريد أن نعد لكَ الفصح لتأكله؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejaf nwou: je masenwtene~taibaki ha pav~man n~rwmi ouoh a~joc naf: je peje piref]c~bw je pac/ou afqwnt:ainai~ri m~papac,a qatotk nem namay/t/c: 
+               </Language>
+               <Language id="English">
+                  And He said, "Go into the city to a certain man, and say to him, 'The Teacher says, "My time is at hand; I will keep the Passover at your house with My disciples." 
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال لهم: اذهبوا إلى هذه المدينة إلى فلان الرجل وقولوا له: المعلم يقول ان زمانى قد اقترب، وعندك اصنع الفصح مع تلاميذى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aui~ri n~je nimay/t/c m~v~r/] e~taI/couc joc nwou ouoh aucebte pipac,a.
+               </Language>
+               <Language id="English">
+                  So the disciples did as Jesus had directed them; and they prepared the Passover.
+               </Language>
+               <Language id="Arabic">
+                  ففعل التلاميذ كما أمرهم يسوع وأعدوا الفصح.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  And in the day after tomorrow, Moses addressed the whole group of the sons of Israel: You have sinned in front of the Lord and made an ox (to worship instead of the Lord). 
+               </Language>
+               <Language id="Arabic">
+                  وفى الغد أجاب موسى وقال لكل جماعة بنى اسرائيل: انكم أخطآتٍم أمام الرب وصنعتم لكم عجلاً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Now I will have to go and mediate on your behalf so that he may grant you his mercy and forgive your sins.
+               </Language>
+               <Language id="Arabic">
+                  والآن سأمضى وأسأل فيكم لعله يرحمكم ويغفر خطاياكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The prophet went back to God and prostrated himself in front of him saying: O Merciful and patient Lord forgive your people's sin. If you elect not to forgive them please wipe my name from the Book of life.
+               </Language>
+               <Language id="Arabic">
+                  فعاد النبى إلى الرب وسجد أمامه قائلاً: أيها الرب الرؤوف الطويل الروح اغفر خطايا شعبك. وان كنت لا تشاء ان تغفر لهم فامح اسمى من سفر الحياة 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Lord said to him: Those who sinned are those whom I would remove their names from the Book of life. The people knew how severe this is and they wept in great lamentations.
+               </Language>
+               <Language id="Arabic">
+                  فقال له الرب: ان الذى أخطأ هو الذى يُمحى من سفرى. فلما سمع الشعب هذا القول الصعب، ناحوا بنحيب عظيم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And the Lord said; You—my people—are ruthless, stiff-necked and evildoers. I will surely strike you with severe inflictions and decimate you.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب: انك أنت شعب قاسى غليظ الرقبة أثيم، فانظر وتيقن فإننى مُنزل عليك ضربة عظيمة وأمحوك.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+   </ForceSeason>
+</Document>

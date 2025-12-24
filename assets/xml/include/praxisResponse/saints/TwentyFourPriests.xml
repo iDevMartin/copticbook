@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="TwentyFourPriests:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Twenty-Four Priests:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ounis] gar pe pitaio~: n~te n/e~youab n~a~cwmatoc: niou/b n~te ]meym/i: pijout f~tou m~p~recbuteroc
+            </Language>
+            <Language id="English">
+               For great is the honor: of the incorporeal saints:  the priests of the truth: the 24 presbyters
+            </Language>
+            <Language id="Arabic">
+               عظيمة هى كرامة القديسين غير المتجسدين كهنة الحق الأربعة والعشرين قسيساً
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Introduction to the Doxologies</Language>
+         <Language id="Arabic">مقدمة الذوكصولوجيات</Language>
+         <Language id="Coptic">&lt;ere ne ten]ho...</Language>         
+      </Title>                  
+      
+      <InsertDocument path="include/agpeya/HailToYou.1"/>
+            
+      <Group>
+         <Season id="KoiahkSeason">
+            <Comment>
+               <Language id="English">
+                  During the Month of Koiahk, the two verses of <span class="Coptic">}paryenoc Mariam</span> and <span class="Coptic">Arip~recbeuin</span> are chanted in the tune of <span class="Coptic">Femp~sa gar</span>.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/agpeya/HailToYou.2"/>      
+   </Section>
+</Document>

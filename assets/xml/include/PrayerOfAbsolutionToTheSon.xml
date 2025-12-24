@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <InsertDocument path="include/PrayerOfAbsolutionToTheSonContent"/>
+      
+      <Group>
+         <Season id="!Consecration">
+            <Comment>
+               <Language id="English">
+                  After this, the priest places the cross upon the Gospel and kisses both. Then the men, followed by the women, approach to receive their blessing in like manner, during which they all chant the appropriate closing hymn.
+               </Language>
+               <Language id="Arabic">
+                  وبعد ذلك يضع الكاهن الصليب على الانجيل ويقبِّل الصليب والإنجيل، وبعده جميع الشعب الرجال، ثم النساء فيتباركن. هذا كله والشعب يرتل بما يوافق. 
+               </Language>
+            </Comment>
+         </Season>
+      </Group>      
+   </Section>
+</Document>

@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">    
+   <Season id="HosannaSundayFirstLiturgyGospel">
+      <BibleReference reference="Matthew 21:1-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+   
+   <Season id="CovenantThursday">
+      <BibleReference reference="Matthew 26:20-29" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="JoyousSaturday">
+      <Comment>
+         <Language id="English">
+            The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+         </Language>
+         <Language id="Arabic">
+            ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="pascha/include/GospelIntroMatthewNoRole"/>
+      <BibleReference reference="Matthew 28:1-20" type="section" hideIntroConclusion="true"/>      
+   </Season>
+   
+   <Season id="AnnunciationRaw | (Joyful29thOfTheMonthRaw ^ (5thSundayOfFirstSixMonths | 5thSundayOfLastSixMonths))">
+      <BibleReference reference="Luke 1:26-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ApostlesFeast">
+      <BibleReference reference="Matthew 10:1-15" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Ascension">
+      <BibleReference reference="Luke 24:36-53" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Circumcision">
+      <BibleReference reference="Luke 2:21-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="CopticNewYear">
+      <BibleReference reference="Luke 4:14-30" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.3">
+      <BibleReference reference="Mark 16:9-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.4">
+      <BibleReference reference="John 2:12-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.5">
+      <BibleReference reference="Luke 7:11-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.6">
+      <BibleReference reference="Mark 16:2-8" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.7">
+      <BibleReference reference="Luke 9:28-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.9">
+      <BibleReference reference="John 3:31-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.10">
+      <BibleReference reference="John 5:22-24" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.11">
+      <BibleReference reference="John 5:31-37" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.12">
+      <BibleReference reference="John 5:39-47" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.13">
+      <BibleReference reference="John 6:54-58" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.14">
+      <BibleReference reference="John 6:1-14" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.16">
+      <BibleReference reference="John 7:39-42" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.17">
+      <BibleReference reference="John 8:12-16" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.18">
+      <BibleReference reference="John 8:23-26" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.19">
+      <BibleReference reference="John 8:28-30" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.20">
+      <BibleReference reference="John 8:31-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.21">
+      <BibleReference reference="John 6:47-56" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.23">
+      <BibleReference reference="John 8:39-42" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.24">
+      <BibleReference reference="John 8:51-55" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.25">
+      <BibleReference reference="John 7:14-29" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.26">
+      <BibleReference reference="John 8:54-59" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.27">
+      <BibleReference reference="John 10:34-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.28">
+      <BibleReference reference="John 7:14-24" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.30">
+      <BibleReference reference="John 3:25-30" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.31">
+      <BibleReference reference="John 12:44-48" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.32">
+      <BibleReference reference="John 13:16-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.33">
+      <BibleReference reference="John 17:18-21" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.34">
+      <BibleReference reference="John 17:22-26" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.35">
+      <BibleReference reference="John 14:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.37 | PentecostPeriod.42">
+      <BibleReference reference="John 16:15-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.38">
+      <BibleReference reference="John 16:23-33" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.39">
+      <BibleReference reference="John 17:1-9" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.41">
+      <BibleReference reference="John 14:26-31" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.44">
+      <BibleReference reference="John 15:1-8" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.45">
+      <BibleReference reference="John 15:9-15" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.46">
+      <BibleReference reference="John 15:12-16" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.47">
+      <BibleReference reference="John 15:17-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.48">
+      <BibleReference reference="John 7:37-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostPeriod.49">
+      <BibleReference reference="John 17:14-26" type="section" hideIntroConclusion="true"/>
+   </Season>
+   
+   <Season id="ThomasSunday">
+      <BibleReference reference="John 20:19-31" type="section" hideIntroConclusion="true"/>
+   </Season>
+   
+   <Season id="PentecostSunday2">
+      <BibleReference reference="John 6:35-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostSunday3">
+      <BibleReference reference="John 4:1-42" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostSunday4">
+      <BibleReference reference="John 12:35-50" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostSunday5">
+      <BibleReference reference="John 14:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PentecostSunday6">
+      <BibleReference reference="John 16:23-33" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Nativity">
+      <BibleReference reference="Matthew 2:1-12" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="HosannaSunday">
+      <BibleReference reference="John 12:12-19" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ParemhotepFeastOfTheCross | ThooutFeastOfTheCross1">
+      <BibleReference reference="John 10:22-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Pentecost">
+      <BibleReference reference="John 15:26-16:15" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="PresentationInTemple">
+      <BibleReference reference="Luke 2:21-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Resurrection">
+      <BibleReference reference="John 20:1-18" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Theophany">
+      <BibleReference reference="John 1:18-34" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ThooutFeastOfTheCross2">
+      <BibleReference reference="John 6:35-46" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ThooutFeastOfTheCross3">
+      <BibleReference reference="Luke 14:25-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Transfiguration">
+      <BibleReference reference="Mark 9:2-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="WeddingCana">
+      <BibleReference reference="John 2:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="EntranceOfTheHolyFamily">
+      <BibleReference reference="Matthew 2:13-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="FirstSundayOfKoiahk">
+      <BibleReference reference="Luke 1:1-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="FourthSundayOfKoiahk">
+      <BibleReference reference="Luke 1:57-80" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="SecondSundayOfKoiahk">
+      <BibleReference reference="Luke 1:26-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ThirdSundayOfKoiahk">
+      <BibleReference reference="Luke 1:39-56" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="DayAfterNativity">
+      <BibleReference reference="John 1:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="DayAfterResurrection">
+      <BibleReference reference="Luke 24:13-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="DayAfterTheophany">
+      <BibleReference reference="John 1:35-51" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="FirstSundayOfThoout">
+      <BibleReference reference="Luke 7:28-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="FourthSundayOfThoout">
+      <BibleReference reference="Luke 7:36-50" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="SecondSundayOfThoout">
+      <BibleReference reference="Luke 10:21-28" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="ThirdSundayOfThoout">
+      <BibleReference reference="Luke 19:1-10" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSaturday0">
+      <BibleReference reference="Luke 13:1-5" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday0">
+      <BibleReference reference="Matthew 6:1-18" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday1">
+      <BibleReference reference="Matthew 6:19-33" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday2">
+      <BibleReference reference="Matthew 4:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday3">
+      <BibleReference reference="Luke 15:11-32" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday4">
+      <BibleReference reference="John 4:1-42" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday5">
+      <BibleReference reference="John 5:1-18" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFastSunday6">
+      <BibleReference reference="John 9:1-41" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="5thSundayOfFirstSixMonths">
+      <BibleReference reference="John 6:5-14" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="5thSundayOfLastSixMonths">
+      <BibleReference reference="Luke 9:12-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="NativityParamoun">
+      <BibleReference reference="Luke 2:1-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="TheophanyParamoun">
+      <BibleReference reference="Luke 3:1-18" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="JonahPassover">
+      <BibleReference reference="John 2:12-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="JonahFast.1">
+      <BibleReference reference="Matthew 12:35-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="JonahFast.2">
+      <BibleReference reference="Luke 11:29-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="JonahFast.3">
+      <BibleReference reference="Matthew 15:32-16:4" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="FirstMondayOfGreatFast">
+      <BibleReference reference="Mark 9:33-50" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="LastFridayOfGreatFast">
+      <BibleReference reference="Luke 13:31-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="LazarusSaturday">
+      <BibleReference reference="John 11:1-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.2">
+      <BibleReference reference="Luke 12:41-50" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.3">
+      <BibleReference reference="Luke 6:35-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.4">
+      <BibleReference reference="Mark 4:21-29" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.5">
+      <BibleReference reference="Luke 11:1-10" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.6">
+      <BibleReference reference="Matthew 5:38-48" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.8">
+      <BibleReference reference="Luke 18:1-8" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.9">
+      <BibleReference reference="Mark 10:17-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.10">
+      <BibleReference reference="Matthew 15:32-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.11">
+      <BibleReference reference="Matthew 19:16-30" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.12">
+      <BibleReference reference="Luke 6:39-49" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.13">
+      <BibleReference reference="Matthew 7:13-21" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.15">
+      <BibleReference reference="Luke 11:33-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.16">
+      <BibleReference reference="John 8:31-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.17">
+      <BibleReference reference="Luke 4:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.18">
+      <BibleReference reference="John 12:44-50" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.19">
+      <BibleReference reference="Luke 11:14-26" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.20">
+      <BibleReference reference="Matthew 18:23-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.22">
+      <BibleReference reference="Luke 16:1-9" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.23">
+      <BibleReference reference="Luke 9:57-62" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.24">
+      <BibleReference reference="Mark 4:35-41" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.25">
+      <BibleReference reference="Luke 18:35-43" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.26">
+      <BibleReference reference="Matthew 15:21-31" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.27">
+      <BibleReference reference="Matthew 21:33-46" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.29">
+      <BibleReference reference="Luke 9:12-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.30">
+      <BibleReference reference="John 8:12-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.31">
+      <BibleReference reference="Luke 13:6-9" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.32">
+      <BibleReference reference="Luke 13:10-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.33">
+      <BibleReference reference="John 8:21-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.34">
+      <BibleReference reference="Matthew 23:14-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.36">
+      <BibleReference reference="Luke 13:1-5" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.37">
+      <BibleReference reference="Luke 9:18-22" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.38">
+      <BibleReference reference="Luke 11:45-52" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.39">
+      <BibleReference reference="John 6:47-71" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.40">
+      <BibleReference reference="John 3:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.41">
+      <BibleReference reference="Mark 10:46-52" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.43">
+      <BibleReference reference="John 5:31-47" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.44">
+      <BibleReference reference="John 12:36-43" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.45">
+      <BibleReference reference="John 6:35-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="GreatFast.46">
+      <BibleReference reference="Mark 12:18-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.1stSunday">
+      <BibleReference reference="Luke 10:1-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.2ndSunday">
+      <BibleReference reference="Matthew 18:1-9" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.3rdSunday">
+      <BibleReference reference="Luke 9:10-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.4thSunday">
+      <BibleReference reference="John 11:1-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.1stSunday">
+      <BibleReference reference="Luke 8:4-15" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.2ndSunday">
+      <BibleReference reference="Matthew 13:1-9" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.3rdSunday">
+      <BibleReference reference="Luke 14:25-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.4thSunday">
+      <BibleReference reference="Mark 10:17-31" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Meshir.1stSunday">
+      <BibleReference reference="John 6:22-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Meshir.2ndSunday">
+      <BibleReference reference="John 6:5-14" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Meshir.3rdSunday">
+      <BibleReference reference="John 6:27-46" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Meshir.4thSunday">
+      <BibleReference reference="Luke 19:1-10" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.1stSunday">
+      <BibleReference reference="Luke 20:9-19" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.2ndSunday">
+      <BibleReference reference="Luke 5:27-39" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.3rdSunday">
+      <BibleReference reference="Mark 3:22-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.4thSunday">
+      <BibleReference reference="Mark 13:3-37" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Nesi.1stSunday">
+      <BibleReference reference="Matthew 24:3-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.1stSunday">
+      <BibleReference reference="Luke 11:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.2ndSunday">
+      <BibleReference reference="Luke 5:17-26" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.3rdSunday">
+      <BibleReference reference="Matthew 12:22-37" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.4thSunday">
+      <BibleReference reference="Luke 6:27-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.1stSunday">
+      <BibleReference reference="Mark 2:1-12" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.2ndSunday">
+      <BibleReference reference="Luke 5:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.3rdSunday">
+      <BibleReference reference="Matthew 12:22-28" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.4thSunday">
+      <BibleReference reference="Luke 7:11-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Pashons.3rdSunday">
+      <BibleReference reference="Luke 10:25-37" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Pashons.4thSunday">
+      <BibleReference reference="Luke 4:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Tobe.1stSunday">
+      <BibleReference reference="Matthew 2:13-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Tobe.2ndSunday">
+      <BibleReference reference="Luke 11:27-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Tobe.3rdSunday">
+      <BibleReference reference="John 3:22-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Tobe.4thSunday">
+      <BibleReference reference="John 9:1-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.1 | Epep.17 | Epep.28 | Hathor.10 | Koiahk.26 | Mesore.15 | Mesore.2 | Mesore.21 | Mesore.6 | Paope.1 | Paope.6 | Thoout.10 | Thoout.20 | Thoout.29 | Thoout.5 | Tobe.24 | Tobe.29 | Tobe.30">
+      <BibleReference reference="Matthew 25:1-13" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.2 | Epep.9 | Hathor.20 | Paone.27 | Paope.30 | Pashons.23">
+      <BibleReference reference="Mark 1:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.3 | Hathor.1 | Hathor.13 | Hathor.17 | Hathor.21 | Hathor.30 | Hathor.6 | Koiahk.1 | Koiahk.15 | Koiahk.6 | Meshir.14 | Meshir.18 | Meshir.27 | Meshir.7 | Mesore.14 | Mesore.18 | Paone.28 | Paope.11 | Paope.17 | Paope.2 | Paope.3 | Paope.5 | Paope.9 | Pashons.28 | Pashons.30 | Thoout.13 | Thoout.3 | Thoout.30 | Thoout.7 | Tobe.2 | Tobe.7 | Tobe.8">
+      <BibleReference reference="John 10:1-16" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.6 | Koiahk.18 | Meshir.4 | Paone.1 | Paone.25 | Paope.22 | Paope.26 | Pashons.22 | Thoout.15 | Thoout.24 | Tobe.1 | Tobe.20">
+      <BibleReference reference="Luke 10:1-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.7 | Koiahk.25 | Koiahk.7 | Meshir.2 | Paope.20">
+      <BibleReference reference="Mark 9:33-41" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.10 | Epep.13 | Hathor.14 | Hathor.23 | Hathor.28 | Hathor.4 | Koiahk.10 | Koiahk.19 | Koiahk.27 | Meshir.22 | Meshir.24 | Mesore.11 | Mesore.24 | Nesi.5 | Paone.14 | Paone.3 | Paope.23 | Pashons.17 | Pashons.27 | Thoout.9 | Tobe.18 | Tobe.23">
+      <BibleReference reference="John 16:20-33" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.11 | Epep.22 | Koiahk.14 | Meshir.13 | Meshir.17 | Meshir.23 | Paone.11 | Thoout.11 | Thoout.22 | Tobe.16 | Tobe.27">
+      <BibleReference reference="Luke 12:4-12" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.12 | Epep.21 | Epep.24 | Epep.4 | Hathor.15 | Hathor.19 | Koiahk.8 | Meshir.6 | Mesore.1 | Mesore.9 | Paone.15 | Paone.4 | Paope.10 | Paope.4 | Tobe.28">
+      <BibleReference reference="Luke 11:53-12:12" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.14 | Epep.8 | Meshir.5 | Mesore.19 | Mesore.5 | Paope.27 | Pashons.18 | Tobe.26 | Tobe.9">
+      <BibleReference reference="Matthew 4:23-5:16" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.15 | Koiahk.17 | Meshir.9 | Mesore.3 | Paone.24 | Pashons.21 | Pashons.29 | Thoout.14">
+      <BibleReference reference="Luke 14:25-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.16 | Koiahk.24 | Meshir.29 | Nesi.1 | Tobe.4">
+      <BibleReference reference="John 21:15-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.18 | Epep.29 | Hathor.18 | Koiahk.21 | Koiahk.4 | Meshir.10 | Meshir.21">
+      <BibleReference reference="Matthew 10:1-15" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.19 | Epep.27 | Epep.30 | Hathor.22 | Hathor.26 | Hathor.7 | Mesore.20 | Mesore.23 | Mesore.26 | Mesore.27 | Paone.10 | Paone.19 | Paone.22 | Paone.7 | Thoout.27 | Thoout.28 | Tobe.19">
+      <BibleReference reference="Luke 21:12-19" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.20 | Meshir.25 | Meshir.28 | Paone.6 | Paope.15 | Paope.19">
+      <BibleReference reference="Luke 10:21-24" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.23 | Hathor.27 | Hathor.5 | Koiahk.16 | Mesore.10 | Mesore.17 | Paope.29">
+      <BibleReference reference="Mark 10:35-45" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.25 | Hathor.25 | Paope.28 | Paope.8 | Pashons.25 | Tobe.5">
+      <BibleReference reference="Matthew 12:9-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Epep.26 | Koiahk.20 | Koiahk.23 | Koiahk.5 | Meshir.26 | Mesore.22 | Mesore.4 | Paone.20 | Paone.26 | Paone.9 | Paope.21 | Thoout.25 | Thoout.4 | Thoout.6 | Thoout.8 | Tobe.15">
+      <BibleReference reference="Matthew 23:13-36" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.2 | Hathor.29 | Hathor.3 | Hathor.9 | Meshir.1 | Meshir.11 | Meshir.20 | Paone.18 | Paope.16 | Paope.18 | Thoout.12 | Thoout.16">
+      <BibleReference reference="Matthew 16:13-19" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.8">
+      <BibleReference reference="John 1:43-51" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.12 | Paone.12">
+      <BibleReference reference="Matthew 13:24-43" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.16 | Koiahk.11 | Koiahk.2 | Koiahk.9 | Meshir.15 | Mesore.25 | Paone.16 | Paone.17 | Paone.23 | Paone.5 | Paope.24 | Pashons.19 | Tobe.17 | Tobe.22">
+      <BibleReference reference="Luke 12:32-44" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Hathor.24">
+      <BibleReference reference="John 1:1-17" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Koiahk.3 | Mesore.16 | Paone.21 | Tobe.21">
+      <BibleReference reference="Luke 1:39-56" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Koiahk.12 | Meshir.12 | Meshir.19 | Meshir.3 | Nesi.4 | Paone.29 | Paope.13 | Paope.25 | Paope.7 | Pashons.20 | Tobe.14 | Tobe.25">
+      <BibleReference reference="Luke 16:1-12" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Koiahk.13 | Meshir.16 | Mesore.7 | Thoout.26 | Hathor.11">
+      <BibleReference reference="Luke 1:1-25" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Koiahk.22">
+      <BibleReference reference="Luke 1:26-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.8">
+      <BibleReference reference="Matthew 18:10-20" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.12">
+      <BibleReference reference="John 10:22-38" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.28">
+      <BibleReference reference="Mark 12:18-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.29">
+      <BibleReference reference="John 8:21-27" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Mesore.30">
+      <BibleReference reference="Luke 14:16-24" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Nesi.2">
+      <BibleReference reference="Luke 6:12-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Nesi.3 | Paone.13">
+      <BibleReference reference="Matthew 25:31-46" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Nesi.6">
+      <BibleReference reference="John 2:1-11" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.2">
+      <BibleReference reference="Matthew 11:2-10" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.8 | Tobe.3">
+      <BibleReference reference="Matthew 2:13-23" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paone.30">
+      <BibleReference reference="Luke 1:57-80" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.12">
+      <BibleReference reference="Luke 5:27-32" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Paope.14">
+      <BibleReference reference="John 3:1-21" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Pashons.26">
+      <BibleReference reference="John 20:24-31" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Thoout.2">
+      <BibleReference reference="Mark 6:14-29" type="section" hideIntroConclusion="true"/>
+   </Season>
+
+   <Season id="Thoout.21 | Thoout.23">
+      <BibleReference reference="Mark 3:28-35" type="section" hideIntroConclusion="true"/>
+   </Season>
+</Document>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Assemblies</Language>
+         <Language id="Arabic">أوشية الاجتماعات</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Nenjinywou] c~mou e~rwou.
+            </Language>
+            <Language id="English">
+               Our assemblies, bless them.
+            </Language>         
+            <Language id="Arabic">
+               اجتماعاتِنا، بارِكْها.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen penjinywou] e~qoun vai nem jinywou] e~qoun niben n~te nilaoc n~oryodoxoc: hina n~te Pi,rictoc Pennou] c~mou e~rwou: n~tefjokou e~bol qen ouhir/n/: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for this assembly of ours, and for every assembly of the orthodox people, that Christ our God may bless them and perfect them in peace, and forgive us our sins.
+            </Language>         
+            <Language id="Arabic">
+               اطلبوا عن اجتماعِنا هذا، وعن كلِّ إجتماعٍ لِلشعوبِ الأرثوذكسيين، لكي يباركَها المسيحُ إلَهُنا ويكملَها بسلامٍ، ويغفرَ لنا خطايانا
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest takes the censer in his hand, and says:
+            </Language>         
+            <Language id="Arabic">
+               ههنا يأخذ الكاهن المجمرة في يده ثم يقول:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/TheWorshipOfIdols"/>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic a~ritou t/rou n~aprakton: ouoh jwr e~bol m~pouco[ni.
+            </Language>
+            <Language id="English">
+               O Lord, bring them all to no avail. Disperse their counsel,    
+            </Language>         
+            <Language id="Arabic">
+               ياربُّ اجعلْهُم كلَّهُم كلا شيءٍ، وبدِّد مشورتَهُم.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He now chants in the ancient tune:
+            </Language>         
+            <Language id="Arabic">
+               هنا يقول بلحن العتيقة.
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Vnou] v/e~tafjwr e~bol m~p~co[ni n~A,itovel.
+            </Language>
+            <Language id="English">
+               O God, who dispersed the counsel of Ahithophel.
+            </Language>         
+            <Language id="Arabic">
+               يا اللهُ الذي بَدَّدَ مشورةَ أخيتوفل.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest offers incense over the paten, saying:
+            </Language>         
+            <Language id="Arabic">
+               ههنا يرفع الكاهن البخور من فوق الصينية ويقول:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/AriseOLordGod"/>
+      </Role>      
+   </Section>
+</Document>

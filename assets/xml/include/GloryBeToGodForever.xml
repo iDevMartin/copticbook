@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Doxa ci Kurie.
+         </Language>
+         <Language id="English">
+            Glory be to God forever.
+         </Language>
+         <Language id="Arabic">
+            والمجد لله دائماً.
+         </Language>
+      </Text>
+   </Role>
+</Document>

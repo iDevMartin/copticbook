@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Text>
+         <Language id="Coptic">
+            I/couc Pi,~rictoc p~s/ri m~V]: v/etafasf e~pic~tauroc
+         </Language>
+         <Language id="English">
+            Jesus Christ, the Son of God, is crucified on the Cross
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح ابن الله صلب على الصليب
+         </Language>
+      </Text>         
+   </Season>
+</Document>

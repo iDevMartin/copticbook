@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            All/louia: Doxaci o~Yeoc /~mwn.
+         </Language>
+         <Language id="English">
+            Alleluia. Glory be to our God.
+         </Language>
+         <Language id="Arabic">
+            هلليلويا المجد لله.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

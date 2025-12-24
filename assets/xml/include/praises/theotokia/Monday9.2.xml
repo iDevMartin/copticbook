@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         A Pip#n#a# e#y#u#: nehci qen Dauid: je twnk arialin: je a~piouwini sai.
+      </Language>
+      <Language id="English">
+         The Holy Spirit, woke up in David, and said “Arise and sing, for the light has shone.”
+      </Language>
+      <Language id="Arabic">
+         الروح القدس أيقظ داود قائلا قم رتل لأن النور قد أشرق.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Aftwnf n~je Dauid: Pihumnodoc eyouab: af[i n~tefkuyara: m~p~neumatikon.
+      </Language>
+      <Language id="English">
+         So David the Psalmist, and the saint, rose up and took, his spiritual stringed instrument.
+      </Language>
+      <Language id="Arabic">
+         فقام داود المرتل القديس وأخذ قيثارته الروحية.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Afhwl e~]ekk~l/cia~: p~/i n~te niaggeloc: afhwc aferhumnoc: e~]Triac e#y#u#.
+      </Language>
+      <Language id="English">
+         He went to the Temple, the house of the angels, he praised and sang to, the Holy Trinity.
+      </Language>
+      <Language id="Arabic">
+         ومضى إلى البيعة بيت الملائكة فسبح ورتل للثالوث القدوس.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Je qen pekouwini: Po#c#  ene~nau e~ouwini: marefi~n~je peknai: n~n/etcwoun m~mok.
+      </Language>
+      <Language id="English">
+         Saying “In Your light, O Lord shall we see light, let Your mercy come, to those who know You.”
+      </Language>
+      <Language id="Arabic">
+         قائلا بنورك يارب نعاين نورا فلتأت رحمتك للذين يعرفونك.
+      </Language>
+   </Text>
+
+   <InsertDocument path="include/praises/morningdoxology/1"/>   
+</Document>

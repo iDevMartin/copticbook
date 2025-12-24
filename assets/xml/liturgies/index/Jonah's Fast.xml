@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="Fasts ^ JonahFast ^ WatosDays ^ AdamDays ^ Weekdays ^ Mondays ^ Tuesdays ^ Wednesdays">
+      <Title>
+         <Language id="English">Jonah's Fast</Language>
+         <Language id="Arabic">صوم نينوى</Language>
+      </Title>
+       
+      <Title>
+         <Language id="English">Offering of Morning Incense</Language>
+         <Language id="Arabic">رفع بخور باكر</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins">         
+         <InsertDocument path="include/doxologies/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>         
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/PostProcessionOfTheLambIntro"/>
+         <InsertDocument path="include/Nefcenti"/>
+         <InsertDocument path="include/HymnOfTheCenser"/>
+         
+         <ForceSeason id="Other">
+            <InsertDocument path="include/praxisResponse/Index"/>
+         </ForceSeason>
+         
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/psalm150/Index"/>
+         <InsertDocument path="include/distribution/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/Jonah Fast">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

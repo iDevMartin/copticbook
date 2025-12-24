@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">Our Father</Language>
+      <Language id="Arabic">أبانا الذي</Language>
+   </Title>
+   
+   <InsertDocument path="include/LordsPrayerNoTitle"/>   
+</Document>

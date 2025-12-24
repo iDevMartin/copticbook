@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction2="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Second Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة الثانية)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the second priest light the second lamp and say the second prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة الثانية ويقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Travelers"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Romans 15:1-7" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               P[oic pirefsenh/t ouoh m~mairwmi: v/e~tafswp e~rof n~n/e~tauermetanoin: v/etcwoun je v~meui~ m~pirwmi raki e~pipethwou icjen tefmetkouji.
+            </Language>
+            <Language id="English">
+               O Lord the Merciful and Lover of Mankind, Who receives them that are penitent; Who knows the thought of man turns to evil from his youth;  
+            </Language>      
+            <Language id="Arabic">
+               أيها الربُ الرؤوفُ محب البشر، القابل اليه التائبين، العارفُ أن فكرَ الإنسانِ مائلٌ للشرِ منذ صباه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/eyouws m~v~mou an m~pirefernobi m~v~r/] n~tefkotf ouoh n~tefwnq.
+            </Language>
+            <Language id="English">
+               Who desires not the death of a sinner but that he should turn and live. 
+            </Language>      
+            <Language id="Arabic">
+               الذى لا يشاءُ موت الخاطىء حتى يرجع اليه ويحيا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~taferrwmi eybe p~oujai n~nirwmi: v/e~trafjoc je netaii~ an e~ywhem n~niy~m/i: alla nirefernobi eumetanoia~.
+            </Language>
+            <Language id="English">
+               Who was incarnate for the salvation of mankind. Who said, I came not to call the righteous, but sinners to repentance. 
+            </Language>      
+            <Language id="Arabic">
+               الذى تأنس من أجلِ خلاصِ البشرِ، الذى قال ”إنى لآت لادع الصديقين بل الخطاة الى التوبة.“
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafkw] n~ca pie~cwou e~tafcwrem nem ]jecki] e~tactako ouoh afjemou.
+            </Language>
+            <Language id="English">
+               Who seeked after the sheep that had gone astray, and the piece of silver that was lost, and found them. 
+            </Language>      
+            <Language id="Arabic">
+               الذى طلبَ الخروفَ الضالَ والدرهمَ المفقودَ ووجدهما.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafjoc je v/eyn/ou haroi n~nahitf e~bol: v/e~taf,w e~bol n~te ]porn/ e~tacermetanoin icjen sorp: pair/] on pi[ale ak] naf m~p~,w e~bol n~te nefnobi: nem p~oujai n~te pefcwma: n~yok pe e~takjoc je ouon ourasi swpi qen t~ve: e~jen ourefernobi n~ouwt efermetanoin.
+            </Language>
+            <Language id="English">
+               Who said, “Him that comes unto me I will not cast out.” Who forgave the harlot after she had repented; and likewise the lame man, You granted him the forgiveness of his sins and healing of his body. You said, there is joy in heaven over one sinner that repents. 
+            </Language>      
+            <Language id="Arabic">
+               الذى قال ”إن من يقبل إلىَّ لا اخرجه خارجاً.“ الذى غفر خطايا الزانية التى تابت قديماً، وهكذا المقعد اعطيته غفرانَ خطاياه وصحة جسدِه. أنتَ الذى قلت انه يكون فرحٌ فى السماءِ بخاطىءٍ واحدٍ يتوب. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Palin akjoc je cop niben aksanhei twnk ouoh eke~nohem.
+            </Language>
+            <Language id="English">
+               Again You have said, as often as you fall, rise and you shall be saved. 
+            </Language>      
+            <Language id="Arabic">
+               وقلت ايضاً أن كل مرةٍ تسقط قم فتخلص. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Joust w~ pirefsenh/t e~bolqen pek[ici eyouab: ouoh swpi qen pekbwk (nim): v/e~tero~mologin n~nefparaptwma: v/eyn/ou harok qen ounah] nem ouhelpic: ouoh ,w naf e~bol n~nefswft: ite qen p~hwb i~te qen p~caji: i~te qen v~meui~.
+            </Language>
+            <Language id="English">
+               Look O Merciful One, from Your holy place on high, and abide in Your servant (...) who confesses his transgressions; who comes to You in faith and hope; and forgive him his iniquities, whether in deed or word or thought.   
+            </Language>      
+            <Language id="Arabic">
+               اطلع أيها المتحنن من سمائك المقدسة، وحل فى عبدك (...) المعترف بزلاته المقبل اليك بأمانه ورجاء واغفر له غلطاته، ان كان بالفعل او بالقول او بالفكر. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matoubof e~bolha nobi niben: ouoh a~reh e~rof m~p~cepi m~p~c/ou n~te pefwnq: efmosi qen nekentol/: hina n~tefs~temrasi m~mof n~kecop n~je pijaji: n~q~r/i qen vai efe~[iw~ou n~je pekran eyouab: ouoh f~erp~repi nak n~je piw~ou nem pia~mahi nem ]p~rockun/cic: ]nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               Cleanse him from all sins, and keep him the rest of his life walking in Your commandments; that he may not again make the enemy to rejoice; whereby Your Holy Name be glorified. And to You is due the glory, the might and the worship, now and ever, and unto the age of all the ages.  Amen.
+            </Language>      
+            <Language id="Arabic">
+               طهره من كلِّ خطيةٍ، واحفظه بقيةَ زمانِ حياتِه سالكاً فى وصاياك، لكى لا يفرح به العدوُ دفعهً أخرى، وبهذا يتمجد اسمك القدوس، ويليق بك المجد والعز والسجود، الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>         
+      </Role>      
+   </Section>
+</Document>

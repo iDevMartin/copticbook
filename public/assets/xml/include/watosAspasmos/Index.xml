@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/watosAspasmos/Nativity"/>
+   <InsertDocument path="include/watosAspasmos/Theophany"/>
+   <InsertDocument path="include/watosAspasmos/HosannaSunday"/>
+   <InsertDocument path="include/watosAspasmos/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/watosAspasmos/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/watosAspasmos/Pentecost"/>
+   <InsertDocument path="include/watosAspasmos/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/watosAspasmos/AnnunciationAndJoyful29thOfTheMonth"/>
+   <InsertDocument path="include/watosAspasmos/WeddingCana"/>
+   <InsertDocument path="include/watosAspasmos/CopticNewYear"/>
+   <InsertDocument path="include/watosAspasmos/FeastOfTheCross"/>
+   <InsertDocument path="include/watosAspasmos/ApostlesFast"/>
+   <InsertDocument path="include/watosAspasmos/ApostlesFeast"/>
+   <InsertDocument path="include/watosAspasmos/KoiahkSeason"/>
+   <InsertDocument path="include/watosAspasmos/GreatFast"/>
+   
+   <InsertDocument path="include/watosAspasmos/saints/StMary"/>
+   <InsertDocument path="include/watosAspasmos/saints/ArchangelMichael"/>
+   <InsertDocument path="include/watosAspasmos/saints/ArchangelGabriel"/>
+   <InsertDocument path="include/watosAspasmos/saints/ArchangelRaphael"/>
+   <InsertDocument path="include/watosAspasmos/saints/TwentyFourPriests"/>
+   <InsertDocument path="include/watosAspasmos/saints/StJohnTheBaptist"/>
+   <InsertDocument path="include/watosAspasmos/saints/StStephen"/>
+   <InsertDocument path="include/watosAspasmos/saints/StMark"/>
+</Document>

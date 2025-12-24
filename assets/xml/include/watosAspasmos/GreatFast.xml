@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="GreatFast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">}cwoun je n~yok...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Great Fast:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               }cwoun je n~yok oua~gayoc: n~refsenh/t ouoh n~na/t: a~ripameui~ qen peknai: sa e~neh n~te nie~neh:
+            </Language>
+            <Language id="English">
+               I know You are good, compassionate, and merciful. Remember me in Your mercy, unto the ages of the ages.
+            </Language>
+            <Language id="Arabic">
+               أنا أعرف أنك صالح، رؤوف، ورحيم، أذكرني برحمتك إلى أبد الأبد.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               }twbh m~mok w~ Pa[oic I/couc m~percohi m~moi qen pekjwnt oude on qen pekm~bon m~per] c~bw n~tametate~mi:
+            </Language>
+            <Language id="English">
+               I ask You, O My Lord Jesus, do not rebuke me with Your anger, nor reprove my ignorance with Your wrath. 
+            </Language>
+            <Language id="Arabic">
+               أطلب إليك يا ربي يسوع لا تبكتني بغضبك ولا برجزك تؤدب جهالتي.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. Pi,~rictoc afern/cteuin e~h~r/i e~jwn: n~h~me n~e~hoou nem h~me n~e~jwrh: nai nan kata peknis] n~nai:
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Christ fasted for us: forty days and forty nights. Have mercy on us according to Your great mercy.
+            </Language>
+            <Language id="Arabic">
+               الليلويا.  الليلويا.  الليلويا.  المسيح صام عنا، أربعين يوماً وأربعين ليلة، أرحمنا كعظيم رحمتك.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+      </Section>
+   </Season>
+</Document>

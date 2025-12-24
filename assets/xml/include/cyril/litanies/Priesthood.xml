@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Priesthood</Language>
+         <Language id="Arabic">أوشية الكهنوت</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic m~paikeieration eyouab n~tak vai.
+            </Language>
+            <Language id="English">
+               Remember also, O Lord, this Your holy priesthood—
+            </Language>         
+            <Language id="Arabic">
+               اذكرْ ياربُّ هذا الكهنوتَ المقدسَ، الذي لكَ.
+            </Language>
+         </Text>         
+      </Role>
+            
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen paikeieration eyouab vai nem tagma niben n~ieratikon n~oryodoxoc: hina n~te Pi,rictoc Pennou] cwtem e~rwou: n~tefrwic e~rwou: ouoh n~tef]jom nwou: n~tefnai nwou: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray also for this holy priesthood and all orthodox priestly orders, that Christ our God may hearken unto them, guard them, strengthen them, have mercy on them, and forgive us our sins.
+            </Language>         
+            <Language id="Arabic">
+               اطلبوا عن هذا الكهنوتِ المقدسِ، وكلِّ الرتبِ الكهنوتيةِ الأرثوذكسيةِ، لكي يستجيبَ لهم المسيحُ إلـهُنا، ويحرسَهُم ويقوِّيَهُم ويرحمَهُم، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Nem tagma niben n~ieratikon n~oryodoxoc: nem peklaoc t/rf eto~hi e~ratf nahrak.
+            </Language>
+            <Language id="English">
+               and all orthodox priestly orders, and all Your people who are standing before You.
+            </Language>         
+            <Language id="Arabic">
+               وكلَّ الرتبِ الكهنوتيةِ الأرثوذكسيةِ، وكلَّ شعبِكَ الواقفِ أمامَكَ.
+            </Language>
+         </Text>         
+         
+         <Text>
+            <Language id="Coptic">
+               Aripenmeui~ hwn P[oic P[oic qen hannai nem hanmetsenh/t: ouoh cwlj n~nena~nomia hwc a~gayoc ouoh m~mairwmi.
+            </Language>
+            <Language id="English">
+               Remember us also, O Lord—Lord of mercy and compassion—and blot out our iniquities as the Good One and Lover of Mankind.
+            </Language>         
+            <Language id="Arabic">
+               اذكرْنا نحنُ أيضاً ياربُّ، ياربُّ بالمراحمِ والرأفاتِ، وامحُ آثامَنا كصالحٍ ومحبِّ البشرِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Vnou] a~ris~v/r n~swpi neman: e~semsi m~pekran eyouab.
+            </Language>
+            <Language id="English">
+               O God, be a partner residing with us that we may serve Your holy name.
+            </Language>         
+            <Language id="Arabic">
+               اللهُمَّ شاركْنا الحلولَ معنا لنخدمَ اسمَكَ القدوسَ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>      
+   </Section>
+</Document>

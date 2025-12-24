@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FeastOfTheCross | KingConstantineAndQueenHelen:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Cross and the Commemoration of King Constantine and Queen Helen:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te Pa[oic p~ouro Kwnctantinoc nem ?~lan/ tefmau ]ourw: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of my lord the King Constantine and his mother Queen Helen: O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات سيدي الملك قسطنطين وأمه الملكة هيلانة ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

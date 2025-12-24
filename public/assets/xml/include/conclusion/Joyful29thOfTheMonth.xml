@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Joyful29thOfTheMonth">      
+      <Comment>
+         <Language id="English">
+            On the twenty-ninth of each Coptic month except the months of Tobe and Meshir (commemoration of the Annuncation, Nativity and Resurrection):
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V] af[icarx e~bol qen }paryenoc: aumacf n~je ]paryenoc qen B/ylee~m n~te }iodea: aftwnf e~bol qen n/eymwout qen pie~hoou m~mahsomt: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who was incarnate of the Virgin, was born of the virgin in Bethlehem of Judea, and rose from the dead on the third day. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            الذي تجسد من العذراء وولد في بيت لحم اليهودية قام من الأموات في اليوم الثالث. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

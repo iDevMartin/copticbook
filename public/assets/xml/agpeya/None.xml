@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The Ninth Hour (None)</Language>
+      <Language id="Arabic">صلاة الساعة التاسعة</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         3:00 PM: To commemorate the death of our Lord Jesus Christ on the Cross and the acceptance of the thief on the right.
+      </Language>
+      <Language id="Arabic">
+         تُقابل الثالثة بعد الظهر بالتوقيت الفرنجي. رُتبت بمناسبة موت المسيح بالجسد في هذه الساعة، وقبول اللص اليمين
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+   <InsertDocument path="include/agpeya/9thHourIntro"/>
+   <InsertDocument path="include/agpeya/psalms/9thHour"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Luke 9:10-17)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا لوقا ص 9: 10-17
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               And the Apostles, when they had returned, told Him all that they had done. Then He took them, and went aside privately into a deserted place belonging to the city called Bethsaida. And the multitude, when they knew it, followed Him, and He received them, and spoke to them about the kingdom of God, and healed those who had need of healing.
+            </Language>
+            <Language id="Arabic">
+               ولما رجع الرسل حدثوه بما فعلوا. فأخذهم معه ودخل على انفرادٍ مدينة تسمى بيتَ صيدا. فلما علمت الجموع تبعوه فقبلهم وخاطبهم عن ملكوت الله، والمحتاجون إلى الشفاء شفاهم.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               And when the day began to wear away, the twelve came, and said to Him, “Send the multitude away, that they may go into the towns and country round about, and lodge, and get provisions, for we are here in a deserted place.”
+            </Language>
+            <Language id="Arabic">
+               وكان النهار قد بدأ يميل فتقدم إليه الاثنا عشر وقالوا له: اصرف الجموع ليذهبوا إلى القرى المحيطة والحقول، ليستريحوا ويجدوا ما يأكلونه، فإننا ههنا في موضع قفر.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               But He said unto them, “You give them to eat.” And they said, “We have no more than five loaves and two fish; unless we go and buy food for all these people.” For they were about five thousand men. And He said to His disciples, “Make them sit down in groups of fifty.” And they did so, and made them all sit down.
+            </Language>
+            <Language id="Arabic">
+               فقال لهم: أعطوهم أنتم ليأكلوا. فقالوا: ليس عندنا أكثر من خمس خبزات وسمكتين، إلا أن نمضي نحن ونشتري أطعمة لهذا الشعب جميعه. وكانوا نحو خمسة آلاف رجل. فقال لتلاميذه: ليتكئوا في كل موضع خمسين خمسين. ففعلوا هكذا وأتكأوهم أجمعين.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               Then He took the five loaves and the two fish, and looking up to heaven, He blessed them, and broke, and gave to the disciples to set before the multitude. And they ate, and were all filled, and twelve baskets of the remaining fragments were taken up by them.
+            </Language>
+            <Language id="Arabic">
+               فأخذ الخمسَ خبزاتٍ والسمكتين، ونظر إلى السماء، وباركها وقسمها، وأعطى التلاميذ ليضعوا أمام الجموع. فأكلوا جميعهم وشبعوا. ثم رفعوا ما فضل عنهم اثنتي عشرة قفة مملوءة.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. O You, Who tasted death in the flesh in the ninth hour for our sake, we the sinners, put to death our carnal lusts, O Christ, our God, and deliver us. Let my supplication draw close before You, O Lord; according to Your word give me understanding. Let my petition come before Your presence; according to Your word revive me.
+            </Language>
+            <Language id="Arabic">
+               1. يا من ذاق الموت بالجسد في وقت الساعة التاسعة من أجلنا نحن الخطاة، أمت حواسنا الجسمانية أيها المسيح إلهنا ونجنا. فليدن توسلي قدامك يا رب، كقولك فهمني. لتدخل طلبتي إلى حضرتك، ككلمتك أحيني
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. O You, who commended the spirit into the hands of the Father as You hung on the cross, in the ninth hour, and guided the Thief who was crucified with You into entering the Paradise, do not neglect me, O Good One, nor reject me, I, the lost one; but sanctify my soul and enlighten my understanding, and allow me to be a partaker of the grace of Your life-giving mysteries; that when I taste of Your benevolences, I offer You praise without lukewarmness, longing for Your splendor above all things, O Christ our Lord, and deliver us.
+            </Language>
+            <Language id="Arabic">
+               2. يا من أسلم الروحَ في يدي الآب عندما علقت على الصليب وقت الساعة التاسعة، وهديتَ اللصَّ المصلوبَ معك للدخول إلى الفردوس، لا تغفل عني أيها الصالح ولا ترذلني أنا الضال، بل قدس نفسي وأضئ فهمي واجعلني شريكا لنعمة أسرارك المحيية. لكي ما إذا ذقت من إحساناتك، أقدم لك تسبحة بغير فتور، مشتاقا إلى بهائك أفضل من كل شئ، أيها المسيح إلهنا ونجنا
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. O, You who was born of the Virgin for our sake, and endured crucifixion, O Good One, and abolished death by Your death, and manifested resurrection by Your resurrection, O God, do not turn away from those whom You have created with Your own hands, but manifest, O Good One, Your love for mankind. Accept from Your mother an intercession on our behalf. Deliver, O Savior, a humble people. Do not leave us to the end, and do not forsake us forever. Do not break Your covenant, and do not take away from us your mercy, for the sake of Abraham, Your beloved, Isaac, Your servant, and Israel, Your saint.
+            </Language>
+            <Language id="Arabic">
+               3. يا من ولدت من البتول من أجلنا، واحتملت الصلب أيها الصالح وقتلت الموت بموتك وأظهرت القيامة بقيامتك، لا تعرض يا الله عن الذين جبلتهم بيديك. أظهر محبتك للبشر أيها الصالح. اقبل من والدتك شفاعة من أجلنا. نج يا مخلص شعبا متواضعا. لا تتركنا إلى الانقضاء ولا تسلمنا إلى الدهر، ولا تنقض عهدك ولا تنزع عنا رحمتك، من أجل إبراهيمَ حبيبِك واسحقَ عبدِك وإسرائيلَ قديسِك.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               4. When the Thief saw the Prince of Life hung on the cross, he said: “Had not the One Crucified with us been God Incarnate, the sun would not hide its rays, nor would the earth have quaked trembling. But O You, the Almighty One who endures all things, remember me, O Lord, when You come into Your kingdom.”
+            </Language>
+            <Language id="Arabic">
+               4. لما أبصر اللص رئيس الحياة على الصليب معلقا، قال: لولا أن المصلوبَ معنا إلهٌ متجسد، ما كانت الشمس أخفت شعاعها ولا الأرض ماجت مرتعدة. لكن أيها القادر على كل شئ، والمحتمل كل شئ، اذكرني يا رب متى جئتَ في ملكوتك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               5. O You, Who accepted unto Him the confession of the Thief on the cross, accept us unto You, O Good One; we who deserve the sentence of death because of our sins. We all confess our sins with him, acknowledging Your divinity, and cry out with him saying, “Remember us, O Lord, when You come into Your Kingdom.”
+            </Language>
+            <Language id="Arabic">
+               5. يا من قبل إليه اعتراف اللص على الصليب، اقبلنا إليك أيها الصالح. نحن المستوجبين حكم الموت من أجل خطايانا. نقر بخطايانا معه معترفين بألوهيتك، ونصرخ معه جميعا: اذكرنا يا رب متى جئتَ في ملكوتك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               6. When the mother saw the Lamb and Shepherd, the Savior of the world, hung on the Cross, she said while weeping, “The world rejoices in receiving salvation, while my heart burns as I look at Your crucifixion which You are enduring for the sake of all, my Son and my God.”
+            </Language>
+            <Language id="Arabic">
+               6. عندما نظرت الوالدة الحمل والراعي مخلص العالم على الصليب معلقا قالت وهي باكية: أما العالم فيفرح لقبوله الخلاص، وأما أحشائي فتلتهب عند نظري إلى صلبوتك الذي أنت صابر عليه من أجل الكل، يا ابني والهي.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/IntroductionToCreedCollapsed"/>
+   <InsertDocument path="include/CreedCollapsed"/>
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            O God, Father, the Father of our Lord, God and Savior, Jesus Christ, who, through His manifestation saved us and delivered us from the bondage of the enemy, we ask You, in His blessed and great name, turn our minds away from worldly cares and carnal lusts, to the remembrance of Your heavenly statutes; and complete for us Your love of mankind, O Good One.
+         </Language>
+         <Language id="Arabic">
+            يا الله الآب أبو ربنا وإلهنا ومخلصنا يسوع المسيح هذا الذي بظهوره خلصتنا وأنقذتنا من عبودية العدو. نسألك باسمه المبارك العظيم أنقل عقولنا من الاهتمام العالمي والشهوات الجسدية، إلى تذكار أحكامك السمائية وكمل لنا محبتك للبشر أيها الصالح.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            May our prayers at all times, and especially the prayer of this ninth hour, be acceptable before You. And grant us to walk worthy of the calling with which we were called, so that when we depart from this world, we may be counted with the worshippers worthy of the passions of Your Only-Begotten Son Jesus Christ, our Lord. Thus, we gain mercy, and forgiveness of our sins, and salvation with the choir of saints who truly pleased You since the beginning and forever.
+         </Language>
+         <Language id="Arabic">
+            ولتكن صلواتنا كل حين وصلاة هذه الساعة التاسعة مقبولة أمامك. وامنحنا أن نسلك كما يليق بالدعوة التي دعينا إليها. لكي إذا خرجنا من هذا الجسد نحسب مع الساجدين المستحقين لآلام ابنك الوحيد يسوع المسيح ربنا، ونظفر بالرحمة وغفران خطايانا والخلاص مع مصاف القديسين الذين أرضَوك بالحقيقة منذ الدهر والي الأبد.
+         </Language>
+      </Text>
+       
+      <Text>
+         <Language id="English">
+            O God, abolish for us the power of the adversary and all his evil armies, as Your Only-Begotten Son has trampled on them by the power of His life-giving cross. Accept us unto You, O our Lord, Jesus Christ, as You accepted the Thief at Your right, while You were hung on the cross. And shine upon us as You have shone upon those who were in the darkness of Hades, and restore us all to the paradise of joy. For You, our Master, are blessed God, and unto You is due all the glory, honor, majesty, dominion, and worship, with Your good Father and the Holy Spirit, forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            اللهم أبطل عنا كل قوة المعاند وجميع جنوده الرديئة، كما داسهم ابنك الوحيد بقوة صليبه المحيي. واقبلنا إليك يا سيدي يسوع المسيح كما قبلت اللص اليمين وأنت معلق على عود الصليب. وأنر علينا كما أنرت على الذين كانوا في ظلمة الجحيم. وردنا جميعا إلى فردوس النعيم لأنك يا سيدي إله مبارك. وينبغي لك مع أبيك الصالح والروح القدس، المجد والإكرام والعزة والسلطان والسجود إلى الأبد أمين.
+         </Language>
+      </Text>
+   </Section>       
+   
+   <InsertDocument path="include/agpeya/Conclusion"/>         
+</Document>

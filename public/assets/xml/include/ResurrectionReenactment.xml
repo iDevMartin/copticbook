@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Resurrection">
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">The Enactment of the Glorious Resurrection</Language>                                          
+         </Title>
+         
+         <Role id="Deacon">
+            <Comment>
+               <Language id="English">
+                  The enactment of the Resurrection represents a "scene" that takes place in front of Paradise: two angels stand at the gate of paradise and call to the angel who is guarding it announcing the resurrection of the Lord; “the angels then commands that the gates of Paradise be lifted that the King of glory may enter" (Psalm 23).
+                  <ol>
+                     <li>The veil of the sanctuary is closed and the lights in the church are all turned off.</li>
+                     <li>A deacon carries the Icon of the Resurrection and stands outside the veil of the Sanctuary.</li>
+                     <li>The enactment begins with two deacons and priest alternating with the following:</li>
+                  </ol>
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  &lt;~rictoc a~nect/
+               </Language>
+               <Language id="English">
+                  Christ is risen
+               </Language>
+               <Language id="Arabic">
+                  المسيح قام
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Al/youc a~nect/
+               </Language>
+               <Language id="English">
+                  Truly He is risen
+               </Language>
+               <Language id="Arabic">
+                  بالحقيقة قد قام 
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  &lt;~rictoc a~nect/
+               </Language>
+               <Language id="English">
+                  Christ is risen
+               </Language>
+               <Language id="Arabic">
+                  المسيح قام
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Al/youc a~nect/
+               </Language>
+               <Language id="English">
+                  Truly He is risen
+               </Language>
+               <Language id="Arabic">
+                  بالحقيقة قد قام
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  &lt;~rictoc a~nect/
+               </Language>
+               <Language id="English">
+                  Christ is risen
+               </Language>
+               <Language id="Arabic">
+                  المسيح قام
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Al/youc a~nect/
+               </Language>
+               <Language id="English">
+                  Truly He is risen
+               </Language>
+               <Language id="Arabic">
+                  بالحقيقة قد قام
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>                        
+               <Language id="English">
+                  Lift up your gates, O rulers! And be raised up, O eternal gates!,
+               </Language>
+               <Language id="Arabic">
+                  افتحوا ايها الملوك ابوابكم وارتفعي ايتها الأبواب الدهرية ،
+               </Language>         
+            </Text>
+            
+            <Text>                        
+               <Language id="English">
+                  ...that the King of glory may enter.
+               </Language>
+               <Language id="Arabic">
+                  ...ليدخل ملك المجد.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>                        
+               <Language id="English">
+                  Who is the King of Glory?
+               </Language>
+               <Language id="Arabic">
+                  مَن هو ملك المجد؟
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>                        
+               <Language id="English">
+                  The Lord, the powerful, the strong, the mighty, victorious in battles; He is the King of glory.
+               </Language>
+               <Language id="Arabic">
+                  الرب العزيز القوي الجبّار القاهر قي الحروب هو ملك المجد.
+               </Language>         
+            </Text>
+            <Comment>
+               <Language id="English">
+                  <ol start="4">
+                     <li>The deacon knocks on the gate of the sanctuary and the veil is opened.</li>
+                     <li>The lights are turned on and the deacons cry out with the hymn of the Resurrection <span class="Coptic">&lt;~rictoc A~nect/</span>:</li>                           
+                  </ol>
+               </Language>
+            </Comment>
+         </Role>
+      </Section>
+   </Season>
+</Document>

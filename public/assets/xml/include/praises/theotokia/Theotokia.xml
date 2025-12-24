@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/praises/theotokia/Monday"/>
+      <InsertDocument path="include/praises/theotokia/Tuesday"/>
+      <InsertDocument path="include/praises/theotokia/Wednesday"/>
+      <InsertDocument path="include/praises/theotokia/Thursday"/>
+      <InsertDocument path="include/praises/theotokia/Friday"/>
+      <InsertDocument path="include/praises/theotokia/Saturday"/>
+      
+      <Season id="VesperPraises ^ Sundays">
+         <Comment>
+            <Language id="English">
+               The Theotokia begins here for the Sunday night Praise before the Raising of Incense:
+            </Language>
+            <Language id="Arabic">
+               تبدأ الثاؤطوكية بهذه القطعة فى مساء الأحد.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/praises/theotokia/Sunday11-17"/>
+      </Season>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday"/>
+   </Group>
+</Document>

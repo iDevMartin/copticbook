@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason">      
+         <InsertDocument path="include/praises/koiahk/PraiseForStAnthony"/>
+         <InsertDocument path="include/praises/koiahk/PraiseForMaximosAndDomadios"/>
+         <InsertDocument path="include/praises/koiahk/PraiseForStSamuel"/>
+      </Season>
+      
+      <InsertDocument path="include/praises/lent/PsaliWatosOnGreatLentDoxology"/>
+   </Group>
+</Document>

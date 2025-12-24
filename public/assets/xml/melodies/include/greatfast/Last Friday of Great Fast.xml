@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            The Last Friday of The Great Fast
+         </Language>
+         <Language id="Arabic">
+            جمعه ختام الصوم الكبير
+         </Language>
+      </Title>
+   
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+   
+      <Text>
+         <Language id="English">
+            This great fast, O Christian people / 
+            Fast it with purity and meekness / 
+            Fasting never meant starvation / 
+            Fasting is humility and repentance
+         </Language>
+         <Language id="Arabic">
+            الصوم الصوم يا شعب يسوع / 
+            صوموا صوماً طاهراً بخشوع / 
+            ليس الصوم معناه الجوع / 
+            الصوم هو التوبة عن الزلات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Fasting is obedience to God / 
+            Fasting is following the commandments / 
+            Which are in the Torah commanded / 
+            Written on two holy tablets
+         </Language>
+         <Language id="Arabic">
+            الصوم هو الطاعة لله / 
+            الصوم هو فعل وصاياه / 
+            المأمور بها في التواره / 
+            المسطرة في الألواح المحفوظات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The first is love the Lord your God / 
+            From all your heart and thought / 
+            And love your neighbor as yourself / 
+            As, in the Bible, we have been taught
+         </Language>
+         <Language id="Arabic">
+            الأولى حب الرب إلهك / 
+            من كل قلبك وأفكارك / 
+            والمحبة لجميع أهل إيمانك / 
+            وسـاوى الكـل فـي الدرجـات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            The second is do not make idols / 
+            And never worship other gods / 
+            The Lord destroys the idolaters / 
+            Because He is a jealous God
+         </Language>
+         <Language id="Arabic">
+            الثانية لا تتخذ لك تمثال / 
+            ولا تعبد غير الرب المتعال / 
+            لأنه إله غيور ذو الجلال / 
+            يأتي برجزه على أهل الزلات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The third is never use God’s name in vain / 
+            Lest you be greatly condemned / 
+            Swearing is not proper / 
+            Let us avoid such habits
+         </Language>
+         <Language id="Arabic">
+            الثالثة لا تحلف بإسم الإله كاذب / 
+            لئلا يذمك الحاضر والغائب / 
+            ولأن القسم ليس بواجب / 
+            فنترك يا أحبائى هذه العادات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The fourth is remember the Lord’s Day / 
+            Consecrate time to learn His way / 
+            For He rested on that day / 
+            With praises observe it and pray
+         </Language>
+         <Language id="Arabic">
+            الرابعة أذكر اليوم المحدود / 
+            لا تصنع فيه العمل المعهود / 
+            لأنه أعد للراحة في هذا الوجود / 
+            مع التراتيل والقداسات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            The fifth is obey your father and mother / 
+            For they cared for you / 
+            That God may prosper your life / 
+            Through their prayers for you
+         </Language>
+         <Language id="Arabic">
+            الخامسة أكرم أباك وأمك / 
+            لأنهما تحملا همك / 
+            ليكثر خيرك ويطيل أيامك / 
+            وبدعائهما تنال البركات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The sixth is you shall not kill / 
+            Any person, loved or reviled / 
+            Love even all of your enemies / 
+            Killing is a great sin that is despised
+         </Language>
+         <Language id="Arabic">
+            السادسة لا تقتل أي أحد / 
+            تقرب منك أو أبتعد / 
+            ولو مع أهل الضلالة أتحد / 
+            لأن القتل من أعظم الموبقات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The seventh is never commit adultery / 
+            Do not torture the body / 
+            Avoid the anger of God / 
+            So that He may show you mercy
+         </Language>
+         <Language id="Arabic">
+            السابعة لا تزن أيها الإنسان / 
+            لا بالجسم ولا بالجنان / 
+            وإخشى غضب الديان / 
+            لأن الزنى يغلق باب الرحمات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            The eighth is never steal anything / 
+            Be content with God’s blessings / 
+            So you will be counted righteous / 
+            And do not delay your offerings
+         </Language>
+         <Language id="Arabic">
+            الثامنة لا تسرق مال الإنسان / 
+            وإقنع بما قسمه المنان / 
+            لتكون من أهل الإيمان / 
+            ويخصك بوافر الحسنات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The ninth is never bear false witness / 
+            Because lying is evil and shameful / 
+            Always speak the whole truth / 
+            And do not be afraid of anyone
+         </Language>
+         <Language id="Arabic">
+            التاسعة لا تشهد بالزور / 
+            لأن الكذاب قبيح وكله شرور / 
+            فأصدق وكن على الحق غيور / 
+            ولا تخشى أرباب السلطات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The tenth is never envy your neighbors / 
+            Do not covet anything at all / 
+            He who asks of God forgiveness / 
+            Is not greedy to obtain the perishable
+         </Language>
+         <Language id="Arabic">
+            العاشرة لا تشته مقتنى إنسان / 
+            لأن ما في الدنيا معرض للخسران / 
+            والمرتجى من ربه الغفران / 
+            لا يطمع في حطام المخلوقات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            All these commandments are His law / 
+            He asks us to live by them / 
+            He who grants all of His people / 
+            To inherit the kingdom of heaven
+         </Language>
+         <Language id="Arabic">
+            بهذه الوصايا والناموس / 
+            يطالبنا الرب القدوس / 
+            الرازق محيي كل النفوس / 
+            لنرث ملكوت السموات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            God saved Noah from the flood / 
+            Through his fasting and prayers / 
+            By making the great ark / 
+            With it He renewed the creatures
+         </Language>
+         <Language id="Arabic">
+            نوح بالصوم والصلاة والإحسان / 
+            نجاه الله من الطوفان / 
+            بعمل السفنية في ذاك الزمان / 
+            التى جدد بها كل المخلوقات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Abraham offered his only son / 
+            Through fasting and prayers / 
+            The mighty One accepted his offering / 
+            And made him the father of all generations
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة أبونا إبراهيم / 
+            قدَّم إسحق بإيمان عظيم / 
+            وقبل قربانه الله الكريم / 
+            وجعله أباً القبائل والجماعات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Through fasting and prayers / 
+            To righteous Lot came two angels / 
+            And took him out of Sodom / 
+            To save him from the burning tribulation
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة لوط البار / 
+            أتى إليه ملائكة أطهار / 
+            وخلصوه من لهيب النار / 
+            ولـم ينظـر تلـك الضربـات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            Joseph escaped the sinful mistress’ hand / 
+            God strengthened him all his life / 
+            And he became the governor of the land
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة يوسف الصديق / 
+            خلص من الزانية والتضييق / 
+            وصارت له العفة أكبر صديق / 
+            وأصبح رئيساً على تلك الجهات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            Moses saw God’s great light / 
+            God gave him the Commandments / 
+            Written on two stones by fire
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة موسى الكليم / 
+            إستحق أن ينظر نور الخالق العظيم / 
+            وأعطاه الله العهد القديم / 
+            مكتوباً في ألواح باهرات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            Samuel anointed the kings of Israel / 
+            His parents joyfully devoted him / 
+            To the house of the Lord of hosts
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة دعي صموئيل / 
+            الماسح ملوك إسرائيل / 
+            قدمه أباؤه بالتهليل / 
+            في بيت الرب إله القوات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            Elijah stopped the rain of heaven / 
+            When sin filled the whole earth / 
+            Then God took him alive to heaven
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة إيليا المعتبر / 
+            منع السماء من المطر / 
+            لما الضلال عم وإشتهر / 
+            ورفعه ربه حياً إلى السموات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            The three youth overcame the fire / 
+            They survived without any harm / 
+            For they did not worship the idol
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة الفتية الأبرار / 
+            لما القاهم بختنصر في النار / 
+            نجوا من غير أن يمسهم أضرار / 
+            لأنهم لم يسجدوا للمصنوعات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Through fasting and prayer / 
+            The lions kneeled to Daniel willingly / 
+            God listened while he was in the den / 
+            And granted him grace and security
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة والإبتهال / 
+            خضعت الأسود لدانيال / 
+            حيث كان في الجب ينال / 
+            وافر الأمن والحسنات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Through fasting and prayers at all times / 
+            The holy men gained prosperity / 
+            And put out the flames of sin / 
+            While waiting for the heavenly
+         </Language>
+         <Language id="Arabic">
+            بالصوم والصلاة كل الأوقات / 
+            نال الأباء جميع المطلوبات / 
+            وأطفأوا لهيب نار الشهوات / 
+            رجاء في ملكوت السموات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            After thirty whole years / 
+            From the birth of the Lord of might / 
+            He was baptized by Saint John / 
+            Then fasted forty days and nights
+         </Language>
+         <Language id="Arabic">
+            بعد تمام ثلاثين عام / 
+            لميلاد يسوع رب الآنام / 
+            تعمد من يوحنا وصام / 
+            أربعين يوماً متواليات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Satan was confused by His condition / 
+            Seeing Him in signs of weakness / 
+            God knowing Satan’s thoughts appeared hungry / 
+            Though He is the Lord of hosts
+         </Language>
+         <Language id="Arabic">
+            توهم إبليس وتحير / 
+            حين رأى وجهه لم يتغير / 
+            فعلم الإله فكره ودبر / 
+            فأظهر الجوع وهو غني عن المطعومات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Satan came to tempt his King / 
+            As he did with Adam / 
+            And said, “If You are the Son of God / 
+            Tell these stones to become bread”
+         </Language>
+         <Language id="Arabic">
+            جاء إبليس ليجرب مولاه / 
+            كما فعل بآدم وأغواه / 
+            قال لـه إن كنت إبن الله / 
+            فقل للحجارة تصبر خبزاً به تقتات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Jesus our Lord answered, / 
+            “Not by bread alone man lives / 
+            But by every Word of God / 
+            Shall man live without sins”
+         </Language>
+         <Language id="Arabic">
+            حينئذ أجاب الديان / 
+            ليس بالخبز يحيا الإنسان / 
+            بل بكلام الله المنان / 
+            يصير حياً بلا ممات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Jesus went out to the wilderness / 
+            To fast and teach all humans / 
+            That those who accepted baptism / 
+            Can benefit from fasting and prayers
+         </Language>
+         <Language id="Arabic">
+            خرج يسوع إلى البرية / 
+            ليصوم ويعلم البشرية / 
+            الذين قبلوا المعمودية / 
+            فضائل الصوم والصلوات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            David the great king / 
+            Became a prophet by his righteousness / 
+            And a great and powerful king / 
+            Remembered throughout generations
+         </Language>
+         <Language id="Arabic">
+            داود ذو الفضل المعهود / 
+            بتقواه صار نبياً لليهود / 
+            وملكاً قادراً ذا جنود / 
+            دائم الذكـر فـي كـل الأوقـات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The prophets bore the tortures / 
+            From the pagans and unbelievers / 
+            Through fasting and prayer they raised the dead / 
+            And directed people to the Redeemer
+         </Language>
+         <Language id="Arabic">
+            رسل سيدنا تحملوا الأضطهاد / 
+            من الكفرة عباد المصنوعات / 
+            وبالصوم والصلاة أقاموا الأموات / 
+            وردوا الأمم إلى صحيح العبادات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            He forgave Adam and Eve / 
+            And all of their generations / 
+            Through fasting and good deeds / 
+            He accepted the Ninevite nation
+         </Language>
+         <Language id="Arabic">
+            زال عن آدم وحواء / 
+            ما كانا فيه من الجوى / 
+            وقد قبلت توبة أهل نينوى / 
+            بفضـل الصـوم وصفـاء النيـات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Our Lord glorified those who fast / 
+            Whose righteousness is from above / 
+            And cast away their enemies / 
+            With His might and His love
+         </Language>
+         <Language id="Arabic">
+            سيدنا يمدح الصائمين / 
+            ذوي التقوى واليقين / 
+            ويطرد عنهم حيل الشياطين / 
+            كما نصت على ذاك الآيات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Our path to the kingdom is through fasting / 
+            As He commanded us to live / 
+            Let us fast and forgive our enemies / 
+            That our sins He may forgive
+         </Language>
+         <Language id="Arabic">
+            شرف الصوم مولانا / 
+            وأمرنا به وهدانا / 
+            فلنصم ونسامح أعدانا / 
+            فيغفر لنا كل الزلات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Let us fast and pray with fear / 
+            Like the tax collector with obedience / 
+            That we may reap all its fruits / 
+            Let us ask Him for forgiveness
+         </Language>
+         <Language id="Arabic">
+            صوموا وصلوا بخوف ووقار / 
+            بكل خضوع مثل العشار / 
+            وأطلبوا منه الإستغفار / 
+            لتحصدوا من الصوم حلو الثمرات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We wasted our lives in the world / 
+            With dancing, gluttony, and drinking / 
+            Indulging in prodigal living / 
+            The day of our departure, forgetting
+         </Language>
+         <Language id="Arabic">
+            ضيعنا حياتنا في اللذات / 
+            في طعام وشراب وشهوات / 
+            وتعاطي مسكر وسماع نغمات / 
+            ولم نفكر في ساعة الموت مع الحسرات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Obedience to the Lord is necessary / 
+            As Saint Paul teaches us saying, / 
+            “Cling to God and resist Satan / 
+            He will run away from you fleeing”
+         </Language>
+         <Language id="Arabic">
+            طاعة الله واجبة كقول الرسول / 
+            فأطيعوه وقاوموا إبليس المخذول / 
+            فيهرب منكم بسرعة ويزول / 
+            وإقتربوا من الله كل الأوقات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Our Lord appeared in His humanity / 
+            One Person of the Trinity / 
+            To grant the world freedom / 
+            From the devil He hid His divinity
+         </Language>
+         <Language id="Arabic">
+            ظهر سيدنا بجسد الناسوت / 
+            أقنوماً واحداً من ثلاثة مثبوت / 
+            وعن الشيطان أخفى اللاهوت / 
+            لأجل خلاص العالم من الضيقات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            He taught us fasting with prayer / 
+            And “Our Father who art in heaven” / 
+            He showed us great miracles / 
+            Signs of healing we were given
+         </Language>
+         <Language id="Arabic">
+            علمنا الصوم مع الصلوات / 
+            أبانا الذي في السموات / 
+            أظهر لنا عجايب مع آيات / 
+            كشفاء المرضى وقيامة الأموات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            He forgave the sinful women / 
+            He changed the heart of the Samaritan / 
+            He gave her the everlasting water / 
+            She accepted all that He was offering
+         </Language>
+         <Language id="Arabic">
+            غفر للزانية خطاياها / 
+            والسامرية أيضاً هداها / 
+            ومن ماء الحياة رواها / 
+            ونالت منه كل المطلوبات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            The Jews would not believe / 
+            That He opened the eyes of the born-blind / 
+            So they questioned his parents who said, / 
+            “When we bore him he was blind”
+         </Language>
+         <Language id="Arabic">
+            فتح عيني أعمى مولود / 
+            ولم تصدق به اليهود / 
+            وسألوا أبويه بعد الجحود / 
+            فقالا أنه ولدنا باثبات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            “Do you believe in the Son of God?” / 
+            He asked the blind man whom He healed / 
+            He said, “Who is He my Lord?” / 
+            “I am He, your Rock and Shield”
+         </Language>
+         <Language id="Arabic">
+            قال للأعمى الذي شفاه / 
+            أتؤمن أنت بإبن الله / 
+            فقال من هو يا سيد لكى آراه / 
+            أجابه أنا الناطق بالكلمات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Our Savior completed His plan / 
+            And bore all our sufferings and pain / 
+            They are our debts to Him / 
+            With good deeds, forgiveness we gain
+         </Language>
+         <Language id="Arabic">
+            كمل تدبيره مخلصنا / 
+            وقبل تلك الآلام عنا / 
+            وآلامه صارت ديناً يلزمنا / 
+            نوفيـه بفعـل الحسنـات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Listen to the words of our Savior / 
+            In the Bible, He has a request / 
+            “Come to Me heavy laden, / 
+            Come and I shall give you rest”
+         </Language>
+         <Language id="Arabic">
+            لماذا لم نسمع ما قيل / 
+            من قول مخلصنا في الإنجيل / 
+            تعالى إلى يا من حمله ثقيل / 
+            وأنا أعطيك كل الراحات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Those who desire to return / 
+            They must repent to Christ / 
+            Confess to their father of confession / 
+            And all their sins shall be erased
+         </Language>
+         <Language id="Arabic">
+            من كان من نفسه يألف التوانى / 
+            يمضي لأبيه الروحانى / 
+            يعترف ليفوز بالأمانى / 
+            وتمحى عنه جميع السيئات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Let us offer supplication and prayers / 
+            To God who is in heaven / 
+            And have mercy and help those in need / 
+            According to what we have been given
+         </Language>
+         <Language id="Arabic">
+            نقدم صلوات مع طلبات / 
+            لأبينا الذي في السموات / 
+            ونصنع رحمة مع صدقات / 
+            بما يصل إليه حد القوات.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            O come all before the darkness / 
+            To buy the oil of service / 
+            For it is the lamp of grace / 
+            Illuminating in the time of darkness
+         </Language>
+         <Language id="Arabic">
+            هلموا يا أخوة قبل الظلمة / 
+            لنبتاع لنا زيت الرحمة / 
+            لأنها مصباح النعمة / 
+            تضئ لصاحبها في الظلمات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We ask our Savior Jesus Christ / 
+            With great respect worshipping / 
+            That He would hear our prayers / 
+            And grant us the kingdom of heaven
+         </Language>
+         <Language id="Arabic">
+            ونسأل من مخلصنا يسوع / 
+            ونضرع إليه بخشوع / 
+            أن يجعل دعانا مسموع / 
+            لنفوز بنعيم الجنات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We worship Him and praise Him / 
+            He hears His servants who are praying / 
+            Let us follow His commandments / 
+            We shall receive goodness with blessings
+         </Language>
+         <Language id="Arabic">
+            لأنه يستجيب لمن دعاه / 
+            فلنسبح له ونمجده في علاه / 
+            ونداوم على فعل وصاياه / 
+            ونستدر منه الخير والبركات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Lord, help us follow Your commandments / 
+            Have mercy on us all together / 
+            And in Your kingdom gather us / 
+            In prosperity and happiness forever
+         </Language>
+         <Language id="Arabic">
+            يا رب بفضلك إرحمنا / 
+            وللعمل بالوصايا وفقنا / 
+            وفي ملكوتك أجمعنا / 
+            في نعيم دائم ومسرات
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And protect Your church in every place / 
+            Keep its gates open at all times / 
+            Protect the congregations in peace / 
+            From every plague and evil mind
+         </Language>
+         <Language id="Arabic">
+            وأيضاً البيع في كل مكان / 
+            إجعلها مفتوحة على ممر الزمان / 
+            والشعب فيها بهدوء وطمأن / 
+            محفوظيـن محروسيـن من الضربـات
+         </Language>
+      </Text>
+      
+      <InsertDocument path="melodies/include/greatfast/Refrain"/>
+   </Section>
+</Document>

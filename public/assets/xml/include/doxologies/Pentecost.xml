@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost ^ !ThirdProstration">
+      <Section expanded="true" antiphonePitch="1">               
+         <Title>
+            <Language id="English">Doxology for the Pentecost</Language>
+            <Language id="Arabic">ذوكصولوجية لعيد العنصرة</Language>
+            <Language id="Coptic">Auywou] n~je...</Language>
+         </Title>
+               
+         <Comment>
+            <Language id="English">
+               For the Feast of the Pentecost:
+            </Language>      
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Auywou] n~je nia~poctoloc: qen p~sai n~]pent/koct/: qen oubahmi n~te Ciwn: menenca ]a~nactacic.
+            </Language>
+            <Language id="English">
+               The apostles were gathered, on the day of the Pentecost, in the upper room of Zion, after the Resurrection.
+            </Language>
+            <Language id="Arabic">
+               إجتمع الرسل فى عيد الخمسين بعلية صهيون بعد القيامة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               APip#n#a# m~parakl/ton: e~tafi~ e~pec/t e~bol qen t~ve: afm~ton e~jen v~ouai v~ouai: n~te nia~poctoloc e#y#u#.
+            </Language>
+            <Language id="English">
+               The Spirit of Comfort, which came down from heaven, rested upon each one, of the holy Apostles.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزى الذى نزل من السماء استقر على واحد فواحد من الرسل القديسين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aucaji qen hanm/s n~lac: qen hanlac euoi n~,~rwm: auvws e~h~rau e~p~kahi t/rf: v~ouai v~ouai kata tef,wra.
+            </Language>
+            <Language id="English">
+               They spoke in many tongues, in tongues of fire, and they divided the whole earth, everyone to his country.
+            </Language>
+            <Language id="Arabic">
+               فنطقوا بألسنة كثيرة بألسنة من نار فقسموا الأرض على كل واحد فواحد حسب إقليمه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aucaji nem nieynoc t/rou: qen v~nah] n~te P,#c#: auiri~ n~hans~v/ri nem hanjom: m~paradoxon m~pem~yo n~niourwou.
+            </Language>
+            <Language id="English">
+               They spoke to all nations, in the faith of Christ, and performed wonders and signs, and miracles before the kings.
+            </Language>
+            <Language id="Arabic">
+               وخاطبوا جميع الأمم بإيمان المسيح وصنعوا عجائب وقوات معجزة امام الملوك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. P,#c# afsenaf e~p~swi e~niv/oui~: afouwrp nan m~piparakl/ton.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Christ ascended to heaven, and sent to us the Comforter.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا المسيح صعد إلى السموات وأرسل المعزى.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>
+               
+      </Section>
+   </Season>
+</Document>

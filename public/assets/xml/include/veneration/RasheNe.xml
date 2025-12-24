@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="Coptic">Rasi ne</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi ne w~]yeotokoc: Maria~ y~mau n~I/couc Pi,~rictoc.
+         </Language>
+         <Language id="English">
+            Rejoice, O Theotokos / Mary, the mother of Jesus Christ.
+         </Language>
+         <Language id="Arabic">
+            الفرح لك يا والدة الاله مريم ام يسوع المسيح.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            A verse for the saint of the church or the saint of the day may be chanted
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            For the Angels:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi nak w~ pia~r,iaggeloc...
+         </Language>
+         <Language id="English">
+            Rejoice, O Archangel: ...
+         </Language>
+         <Language id="Arabic">
+            الفرح لك  يارئيس الملائكة ...
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            For Martyrs:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi nak w~ pimarturoc...
+         </Language>
+         <Language id="English">
+            Rejoice, O martyr: ...
+         </Language>
+         <Language id="Arabic">
+            الفرح لك أيها الشهيد ...
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            For Male Saints:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi nak w~ v/eyouab...
+         </Language>
+         <Language id="English">
+            Rejoice, O saint: ...
+         </Language>
+         <Language id="Arabic">
+            الفرح لك أيها القديس ...
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            For Female Saints:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi ne w~ ]selet n~te pi,~rictoc: ]agia~ m~m/i (...)
+         </Language>
+         <Language id="English">
+            Rejoice, O bride of Christ: the true Saint (...).
+         </Language>
+         <Language id="Arabic">
+            الفرح لك يا عروس المسيح القديسة الحقيقة (...)
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The verses of the hymn are continued:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Rasi ne w~ t~seri n~Ciwn: yel/l m~mau y~mau m~P~ouro. 
+         </Language>
+         <Language id="English">
+            Rejoice, O daughter of Zion; / rejoice, O mother of the King.  
+         </Language>
+         <Language id="Arabic">
+            الفرح لك يا إبنة صهيون والتهليل يا ام الملك.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Yel/l m~V] m~penbo/~yoc: ]aloli m~V] n~Iakwb. 
+         </Language>
+         <Language id="English">
+            Rejoice, O God our helper; / shout to the God of Jacob. 
+         </Language>
+         <Language id="Arabic">
+            إبتهجوا بالله معيننا هللوا لإله يعقوب.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            F~nayel/l n~je Iakwb: f~naounof n~je piIcra/l. 
+         </Language>
+         <Language id="English">
+            Jacob will be glad / Israel will rejoice.
+         </Language>
+         <Language id="Arabic">
+            فيتهلل يعقوب ويفرح إسرائيل. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cenayel/l sa nie~neh: n~ce ouhouo~ n~ouhelpic. 
+         </Language>
+         <Language id="English">
+            They will rejoice for ever. / Indeed, and we are buoyed with hope.   
+         </Language>
+         <Language id="Arabic">
+            نتهلل الى الابد نعم ونترجى. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Vayel/l cwtten e~lol: hiten noten m~perkotten. 
+         </Language>
+         <Language id="English">
+            Rejoice, O vine / that is ripe and blossoming.   
+         </Language>
+         <Language id="Arabic">
+            تهللى ايتها الكرمة الدسمة المثمرة. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Apah/t e~ouf~rana: eybe palac qen ouyel/l. 
+         </Language>
+         <Language id="English">
+            My heart has rejoiced; / for this my tongue is glad. 
+         </Language>
+         <Language id="Arabic">
+            قلبى يفرح من اجل لسانى بتهليل.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Yaformen hormona: nem nayel/l ha m~pekran. 
+         </Language>
+         <Language id="English">
+            The dew, the rain, and the rejoicing / are due to your name.  
+         </Language>
+         <Language id="Arabic">
+            الندى والمطر والتهليل من اجل اسمك. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/RasheNeRefrain"/>
+   </Section> 
+</Document>

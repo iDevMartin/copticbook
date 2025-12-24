@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">Marouyiqi...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Coptic New Year (Ps 65:10-11):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marouyiqi n~je nefy~lwm: maroua~sai n~je nefoutah: n~h~r/i qen nefteltili efe~ounof efnarwt.
+            </Language>
+            <Language id="English">
+               Saturate her furrows, multiply her fruits; the crop springing up shall rejoice in its drops. 
+            </Language>
+            <Language id="Arabic">
+               فليروىِ حرثَهَا. ولتكثر أثمارها  وتفرح بقطراتها فتنبت. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eke~c~mou e~pi,~lom n~te ]rompi qen tekmet,~r/ctoc ouoh nekmesso] eue~moh e~bolqen pet ekeniw~out.
+            </Language>
+            <Language id="English">
+               You will bless the crown of the year because of Your goodness; and Your  plains shall be filled with fatness. 
+            </Language>
+            <Language id="Arabic">
+               تُبَارِكُ اكليل السنة بصلاحك، وبقاعك يمتلئ من الدَسَم. 
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

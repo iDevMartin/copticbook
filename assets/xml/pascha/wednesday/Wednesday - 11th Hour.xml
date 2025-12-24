@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday (The Eleventh Hour)</Language>
+         <Language id="Arabic">يوم الأربعاء (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~hoou m~Pf~tou (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 28:16-29</Language>
+               <Language id="Arabic">إشعياء 28: 16-29</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai pair/] e~tef jw m~mwou n~je P[oic: je h/ppe a~nok eie~hioui~ n~nicen] n~te Ciwn n~ouw~ni e~nasen~couenf n~cwtp n~koh cabol eftai/out e~neccen]: ouoh v/eynah] e~rof n~nef[isipi: 
+               </Language>
+               <Language id="English">
+                  Therefore, thus says the Lord: "Behold, lay for the foundations of Zion a costly stone, a chosen and precious cornerstone for its foundations, and whoever believes in Him will not be put to shame.
+               </Language>
+               <Language id="Arabic">
+                  لأجل هذا هكذا ما يقوله السيد الرب: هأنذا أطرح حجراً فى أساسياتٍ صهيون، حجر زاوية ثميناً مختاراً كريماً فى أساساتها، فمن آمن فلن يخزى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~,w n~oukr/cic e~ouhelpic: pioujai de e~jen tameyna/t: naswpi e~hanmanouwh: ouoh n/eterhelpic e~vl/ou e~jen ]meynouj: 
+               </Language>
+               <Language id="English">
+                  I will also cause judgment to be for hope, and My mercy to be for a standard.
+               </Language>
+               <Language id="Arabic">
+                  وأجعل الدينونة رجاء وبرحمتى يكون الخلاص على مواضع السكن،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je n~nef ceny/nou n~je oucaray/ou: M/pwc n~ceer p~kew~li n~te tendia~y/k/ etoi nem v~mou: 
+               </Language>
+               <Language id="English">
+                  The sudden blast of wind will not pass by you who trust vainly in falsehood, except it also take away your covenant of death.
+               </Language>
+               <Language id="Arabic">
+                  والمتوكلون على الكذب يرجون الباطل لأنه لا يجتازكم العاصف، لئلا ينزع عهدكم مع الموت
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem tetenhelpic etsop nem a~men] n~neck/n. Aresan ]caray/ou etcwk i~ e~jwten: e~reten e~swpi nac euhwmi. 
+               </Language>
+               <Language id="English">
+                  Your hope in Hades will also not stand when the rushing storm passes through, for you will be beaten down by it.
+               </Language>
+               <Language id="Arabic">
+                  ورجائكم مع الجحيم لا ينتهى، إذا أتى عليكم العاصف، الجارف تكونون له موطئاً،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acsani~ e~bolhiten o/nou ece~[iy/nou: pie~hoou nacini n~hana~tooui: ouoh ouon ouh~elpic echwou naswpi m~pie~jwrh: 
+               </Language>
+               <Language id="English">
+                  When it passes through, it will take you; for morning by morning it will pass through by day, and by night there will be an evil hope." 
+               </Language>
+               <Language id="Arabic">
+                  إذا جاء من جهتكم يأخذكم، وسوف يعبر النهار مبكراً ويرتجى السوء ليلاً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  [ic~bw e~cwtem n/ethejhwj: m~mons~jom m~mon e~erpolemin: a~non de enoi n~jwb eyrenywou] e~qoun: 
+               </Language>
+               <Language id="English">
+                  Learn to listen, you in difficult straits. We cannot fight, and we ourselves are too weak to gather ourselves together.
+               </Language>
+               <Language id="Arabic">
+                  تعلموا أن تسمعوا أيها المتضايقين أننا لا نستطيع أن نحارب، ونحن ضعفاء عن أن نجتمع،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efe~twnf mvr/] m~pitwou n~nia~ceb/c: n~tefswpi qen ]qellot nte Gabawn: qen oujwnt efe~i~ri n~nefh~b/ oui~: qen ouhwb efoi n~sasi:  
+               </Language>
+               <Language id="English">
+                  As the mountain of the ungodly will rise up and be in the valley of Gibeon, He will do His deeds in anger, a work of bitterness. 
+               </Language>
+               <Language id="Arabic">
+                  وسيقوم كالجبل للمنافقين، ويحل فى وادى جبعون، يغضب فيعمل أعماله عملاً مريراً,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pefjwnt de efeerhwb qen oumetsemmo: ouoh ousemmo pefm~bon.
+               </Language>
+               <Language id="English">
+                  His anger will behave strangely, and His bitterness will be strange.
+               </Language>
+               <Language id="Arabic">
+                  ويصنع فى غضبه فى الغربة، وغريب هو حنقه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywten de hwten m~perouunof: ouoh m~peny~rou[ro n~je netenc~nauh: je ancwtem e~hanh~b/oui euj/k[oic ebol ouoh euswt e~bolhiten P[oic cabawy nai e~tef naaitou hijen p~kahi t/rf. 
+               </Language>
+               <Language id="English">
+                  So do not be glad, neither let your bands become strong; because I heard from the Lord of hosts the things He will perform upon all the earth. 
+               </Language>
+               <Language id="Arabic">
+                  أما أنتم فلا تفرحوا ولا تدعوا قيودكم لا تقهر، لأننا قد سمعنا بأعمال القضاء وفناء من قبل رب الجنود، هذه التى سيصنعها على كل الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  {ic~m/ ouoh e~re tencwtem e~paq~rwou: mah~y/ten ouoh e~retencwtem e~nacaji:
+               </Language>
+               <Language id="English">
+                  Give ear and hear my voice. Listen and hear my words. 
+               </Language>
+               <Language id="Arabic">
+                  أنصتوا واسمعوا صوتى، تأملوا وأصغوا لأقوالى:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ v/e~terc~,ai naerc~,ai m~pie~hoou t/rf: ie fnacob] m~pijroj m~pateferhwb e~p~kahi: 
+               </Language>
+               <Language id="English">
+                  Will the plowman plow all day? Or will he prepare the seed before he cultivates the ground? 
+               </Language>
+               <Language id="Arabic">
+                  هل يحرث الحارث اليوم كله أم يهيئ البذار قبل أن يعمل الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afsanses pefho an tote efe~ci] n~oukouji n~c~tu,emi ouoh n~yapen: ouoh efe~ci] n~oucouo nem ouiwt nem e~zea~ qen nek[i/ t/rou: 
+               </Language>
+               <Language id="English">
+                  When he levels its surface, does he not then sow the small black cummin, and afterward sow the wheat, the barley, and the one-seeded wheat in your borders? 
+               </Language>
+               <Language id="Arabic">
+                  أليس إذا مهد وجهها، حينئذ يبزر قليل من الشونيز (الحبة السوداء) والكمون ثم يزرع الحنطة والشعير (الجلبان) فى كل تخومها 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eke~[i c~bw qen ouhap n~te peknou] ouoh eke~ounof.
+               </Language>
+               <Language id="English">
+                  So you will be chastised by the judgment of your God and be gladdened by it.
+               </Language>
+               <Language id="Arabic">
+                  فتتعلم بحكم إلهك وتفرح؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ou gar qen ousot an e~sautou m~pic~tu,emi: oude m~pare tro,oc nem b~rehi kw] e~jen piyapen: alla qen ous~bwt saunoh m~pic~tu,emi: piyapen de e~sauouomf hiwik:
+               </Language>
+               <Language id="English">
+                  For the black cummin is not cleansed with harshness, nor will the wheel of a wagon roll over the cummin; but the black cummin is threshed with a stick, and the cummin will be eaten with bread.
+               </Language>
+               <Language id="Arabic">
+                  لأنه ليس بصعوبة ينتفض الشونيز والكمون مع الخبز يؤكل،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ou gar a~nok ]najwnt erwten an sae~neh oude n~nechwmi e~jen y/nou n~je t~c~m/ n~te pasasi:
+               </Language>
+               <Language id="English">
+                  For I will not be angry with you forever, nor will the voice of my bitterness trample you underfoot.
+               </Language>
+               <Language id="Arabic">
+                  لأنى لا أغضب إلى الأبد عليكم ولايدوسكم صوت مرارتى,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nais~v/ri e~taui~ e~bolhiten P[oic ca bawy co[ni ouoh [ici n~ounom] n~e~v~l/ou.
+               </Language>
+               <Language id="English">
+                  These signs came forth from the Lord of hosts.
+               </Language>
+               <Language id="Arabic">
+                  فهذه الآيات خرجت من رب الجنود، تشاوروا وارفعوا عزاء باطلاً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba Severus</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا ساويرس</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaSeverusIntro"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ic h/ppe je on ]nou w~ni c~n/ou tenna] m~v~meui~ nwten eybe t~em/ eynaswpi e~jen nirefernobi: nem n/etjwl m~pinomoc e~bol nem nientol/ n~te p~wn: 
+               </Language>
+               <Language id="English">
+                  Brethren, I remind you the admonition concerning the sinner, and those who reject the law and the commandments of life. 
+               </Language>
+               <Language id="Arabic">
+                  أيها الإخوة ها أنا أذكركم الآن من أجل وقوع الصوت الذى ينزل بالخطاة والذين يكفرون بالناموس ووصايا الحياة، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf gar je hen y/nou cabol m~moi n/etc~houort e~pi,rwm n~e~neh: e~re nai gar najoust qajwf n~as n~colcel n~kecop: yai te qen oumeym/i pe]qellot n~te vrimi pima e~te hanermwoui~ naswpi m~mof:
+               </Language>
+               <Language id="English">
+                  Because our Lord warned them saying: Stay away from Me and into eternal fire. What comfort do they expect? There is the valley of tears; the tears that can bring no comfort.
+               </Language>
+               <Language id="Arabic">
+                  لأنه يقول: أبعدوا عنى يا ملاعين إلى النار الأبدية، فأى عزاء ينتظرونه هؤلاء بعد ذلك؟ ها هنا بالحقيقة هو وادى البكاء حيث تكون الدموع، هذه هى التى ليست بعدها زينة للنفس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai ne niermwoui~ e~te m~mon h~li n~colcel naswpi menencwou: e~re nim nas~]ho ejen nirefernobi m~pie~hoou e~tem~mau:
+               </Language>
+               <Language id="English">
+                  Who can intercede for the sinners in that day, when all the angels;
+               </Language>
+               <Language id="Arabic">
+                  من ذا الذى يقدر أن يطلب عن الخطاة فى ذلك اليوم لأن الملائكة,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eue~,arwou gar n~je niaggeloc: nem ni&lt;eroubim nem niCeravim: nem niy~m/i nem n/eyu t/rou: m~mon ouai n~ouwt nas~]ho e~jen ]metrwmi m~pie~hoou e~tem~mau:
+               </Language>
+               <Language id="English">
+                  Cherubims and Serafims keep quiet and neither the righteous nor the saints can intercede for mankind.
+               </Language>
+               <Language id="Arabic">
+                  والشروبيم والسارافيم تصمت وجميع الأبرار والصديقين، لا يستطيع أحد منهم أن يشفع فى الآدمية فى ذلك اليوم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  niyamio t/rou eue~ohi e~ratou qen ou,arwf: n~te pikocmoc t/rf swpi qa pihap m~m/i n~te Vnou]. 
+               </Language>
+               <Language id="English">
+                  The whole creation will be silent and the whole world will be under the judgment of God. 
+               </Language>
+               <Language id="Arabic">
+                  وتقف جميع الخليقة صامتة والعالم كله يكون تحت الحكم الإلهى العادل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai pe p~c/ou m~p~wcq: vai pe p~c/ou e~te saucwk mpis~ne e~pi,ro: n~ce vwrj n~nitebt ethwou e~bolqen nieynaneu:
+               </Language>
+               <Language id="English">
+                  This is the time of harvest. This is the time to pull the net ashore to sort the good fish from the bad ones
+               </Language>
+               <Language id="Arabic">
+                  هذا هو زمن الحصاد، هذا هو وقت جذب الشبكة للشاطئ وعزل الجيد من الردئ،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  vai pe pie~hoou e~tounajoc n~nirefernobi n~q/tf n~cekotou e~a~men] pou/i sae~neh.
+               </Language>
+               <Language id="English">
+                  This is the day when the sinners will be told: go dwell in Hell forever.
+               </Language>
+               <Language id="Arabic">
+                  هذا هو اليوم الذى يقال فيه للخطاة: إذهبوا إلى الجحيم مسكنكم إلى الأبد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaSeverusConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 6:2-3,68:17</Language>
+               <Language id="Arabic">مزمور 6: 2-3, 68: 17</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Matal[oi P[oic je na kac ausyorter: ouoh a~ ta'u,/ syorter e~masw. 
+               </Language>
+               <Language id="English">
+                  Heal me, O Lord, for my bones are troubled; and my soul is greatly troubled; 
+               </Language>
+               <Language id="Arabic">
+                  إشفينى يارب فإن عظامى قد إضطربت ونفسى قد إنزعجت جداً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpervwnh m~pekho cabol m~peka~lou: cwtem e~roi n~,wlem je ]hejhwj: All/louia.
+               </Language>
+               <Language id="English">
+                  Turn not Your face from Your child, for I am afflicted; hear me speedily. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لا تصرف وجهك عن فتاك. إسمعنى سريعاً فأننى فى الشدة. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 12:27-36</Language>
+            <Language id="Arabic">يوحنا 12: 27-36</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  }nou a~ta'u,/ s~oorter ouoh oupe ]najof: paiwt nahmet e~bolqen taiounou: alla eybe vai aii~ e~taiounou:
+               </Language>
+               <Language id="English">
+                  “Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? But for this purpose I came to this hour. 
+               </Language>
+               <Language id="Arabic">
+                  الآن نفسى قد إضطربت وماذا أقول، يا إبنى نجنى من هذه الساعة، ولكن لأجل هذا آتٍيت إلى هذه الساعة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V~iwt maw~ou m~peks/ri: ouc~m/ aci~ e~bolqen t~ve ecjwm~moc: je ai]wou palin ]na]w~ou: 
+               </Language>
+               <Language id="English">
+                  Father, glorify Your name.” Then a voice came from heaven, saying, “I have both glorified it and will glorify it again.” 
+               </Language>
+               <Language id="Arabic">
+                  أيها الآب مجد إبنك. فجاء صوت من السماء قائلاً  قد مجدت وسأمجد أيضاً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pim/s oun e~nafohi e~ratf e~taucwtem naujw m~moc je ou qarabai petacswpi: hanke,wouni de naujw m~moc je ouaggeloc petafcaji nemaf 
+               </Language>
+               <Language id="English">
+                  Therefore the people who stood by and heard it said that it had thundered. Others said, “An angel has spoken to Him.” 
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع الجمع الذى كان واقفاً قالوا: رعد هو الذى حدث، وآخرون قالوا: ملاك هو الذى كلمه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je I/couc efjwm~moc je e~tacswpi an eyb/t n~je taic~m/: alla eybe y/nou:
+               </Language>
+               <Language id="English">
+                  Jesus answered and said, “This voice did not come because of Me, but for your sake.
+               </Language>
+               <Language id="Arabic">
+                  أجاب يسوع وقال: ليس من أجلى حدث هذا الصوت، لكن من أجلكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou p~hap m~paikocmoc: ]nou p~ar,wn n~te paikocmoc eue~hitf e~bol:
+               </Language>
+               <Language id="English">
+                  Now is the judgment of this world; now the ruler of this world will be cast out.
+               </Language>
+               <Language id="Arabic">
+                  الآن دينونة هذا العالم الآن يلقى رئيس هذا العالم خارجاً،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nokhw aisan[ici e~bolha p~kahi eie~cek ouon niben haroi: 
+               </Language>
+               <Language id="English">
+                  And I, if I am lifted up from the earth, will draw all peoples to Myself.” 
+               </Language>
+               <Language id="Arabic">
+                  وأنا أيضاً إن ارتفعت عن الأرض أجذب إلى كل واحد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai de efjw m~mof efercummenin je qen asm~mou f~namou.
+               </Language>
+               <Language id="English">
+                  This He said, signifying by what death He would die.
+               </Language>
+               <Language id="Arabic">
+                  وأنما قال هذا مشيراً إلى آية ميتة كان مزمعاً أن يموت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je pim/s efjwm~moc je anon ancwtem e~bol qen pinomoc je Pi,~rictoc sop sae~neh ouoh pwc n~yok k~jw m~moc: 
+               </Language>
+               <Language id="English">
+                  The people answered Him, “We have heard from the law that the Christ remains forever; and how can You say, ‘The Son of Man must be lifted up’? 
+               </Language>
+               <Language id="Arabic">
+                  فأجاب الجميع قائلاً: نحن سمعنا من الناموس أن المسيح يدوم إلى الأبد فكيف تقول أنت أنه ينبغى أن يرتفع إبن الإنسان؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je hw] pe n~tou[ec p~s/ri m~v~rwmi: nim pe p~s/ri m~v~rwmi: 
+               </Language>
+               <Language id="English">
+                  Who is this Son of Man?” 
+               </Language>
+               <Language id="Arabic">
+                  من هذا إبن الإنسان؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/c nwou: je e~ti kekouji n~c/ou piouwini qen y/nou:
+               </Language>
+               <Language id="English">
+                  Then Jesus said to them, “A little while longer the light is with you.
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم يسوع: النور معكم زماناً يسيراً، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mosi oun qen piouwini hoc piouwini n~ten y/nou: hina n~tes~tem pi,aki tahe y/nou: je v/eymosi qen pi,aki n~f~e~mi an je afmosi e~ywn: 
+               </Language>
+               <Language id="English">
+                  Walk while you have the light, lest darkness overtake you; he who walks in darkness does not know where he is going. 
+               </Language>
+               <Language id="Arabic">
+                  فسيروا فى النور لئلا يدرككم الظلام، لأن الذى يمشى فى الظلام لا يدرى أين يذهب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hwc piouwini n~ten y/nou nah] e~piouwini hina n~te teners/ri m~piouwini.
+               </Language>
+               <Language id="English">
+                  While you have the light, believe in the light, that you may become sons of light.”
+               </Language>
+               <Language id="Arabic">
+                  مادام لكم النور آمنوا بالنور لتصيروا أبناء النور.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Let us contemplate the plans of God the Word who has the power over death and the life of every one of us is from Him. 
+               </Language>
+               <Language id="Arabic">
+                  تأملوا يا أهل المعرفة تدبير الله الكلمة الذى بيده سلطان الموت وحياة كل أحد من عنده، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  However, because he was incarnated in our human form, he agonized over what had to be done and showed troubles and weakness.
+               </Language>
+               <Language id="Arabic">
+                  لكن لأجل جسد البشرية الذى أخذه منا يظهر القلق والضعف.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Savior said: “Now is my soul troubled, and what shall I say? Father, save me from this hour? No, for this purpose I have come to this hour." Yes truly he came to the world so that He may suffer for our salvation.
+               </Language>
+               <Language id="Arabic">
+                  قال المخلص: الآن نفسى مضطربة وماذا أقول، يا أبتاه نجنى من هذه الساعة، لكن لأجل هذه الساعة أتيت. نعم بالحقيقة أتى إلى العالم لكى يتألم من أجل خلاصنا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  To lift from Hades the first man that he created and to return the first man to his original home he and his descendants, according to his great mercies.
+               </Language>
+               <Language id="Arabic">
+                  ويصعد من الجحيم الإنسان الأول الذى خلقه ويرده إلى وطنه الأول هو وبنيه كعظيم رحمته.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Let us plead with him earnestly and ask of him persistently to partake in the glory of his kingdom and to enforce our faith in this Holy name till the last breath.
+               </Language>
+               <Language id="Arabic">
+                  فلنصرخ نحوه بغير تكاسل ونطلب إليه بغير فتور لكى يجعلنا شركاء معه فى مجد ملكوته ويثبتنا إلى النفس الأخير علي الإيمان بإسمه القدوس.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>   
+</Document>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">Concerning the Appointment of A Hegumen</Language>
+      <Language id="Arabic">رسامة القمص</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Comment>
+      <Language id="English">
+         When they want to appoint a hegumen, let him be chosen from the members of the clergy. Let him stand vested as a priest, and let him together with those who nominated him stand in front of the bishop, who shall be standing before the altar;     
+      </Language>
+      <Language id="Arabic">
+         إذا دعي قمص فليختار من الإكليروس وليقف وهو لابس مثل قسيس ويحني ركبتيه مع الذين قدموه أمام الأسقف وهو قائم قدام المذبح.     
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         Then the bishop shall say the Prayer of Thanksgiving and he shall offer incense and say the Prayer of Incense.      
+      </Language>
+      <Language id="Arabic">
+         ثم يقول الأسقف صلاة الشكر ويرفع البخور ويقول صلاة البخور     
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+   
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               Lord God of hosts, who have set us in the inheritance of this ministry, who know the minds of men and examine hearts and reins, hear us according to the multitude of Your mercies, and cleanse us from every defilement of body and spirit; take away our sins like a cloud and our iniquities like darkness; fill us with Your power and the grace of Your only Son and the working of Your most-holy Spirit; make us sufficient that we may be ministers of Your New Covenant, so that we may be able, as befits Your holy name, to stand before You to perform the priestly ministry for Your divine mysteries; and do not abandon us to participate in the sins of others, but rather wipe out our own; and grant to us, Lord, that we may do nothing wrong through error, but give us knowledge to choose those who are worthy and to present [them] to you; and accept as a hegumen and make perfect this Your servant (…..) who is here present and awaits Your heavenly gift; for You are kind and very merciful toward all who call upon You, and strong is Your power and that of Your only Son and of Your most-holy Spirit, both now …     
+            </Language>
+            <Language id="Arabic">
+               أيها الرب إله القوات الذي أدخلنا إلى نصيب هذه الخدمة المنهض فهم البشر والفاحص القلوب والكلى. اسمعنا بكثرة تحننك وطهرنا من كل دنس الجسد والروح مزق سحابة خطايانا و ظلمنا مثل الضباب. املأنا من قوتك الإلهية ونعمة ابنك الوحيد وفعل روح قدسك. ولنكن مستوجبين لهذه الخدمة التي لعهدك الجديد باستحقاق أن نحمل اسمك القدوس ونخدم كهنوت أسرارك الإلهية. ولا تدعنا نشترك في خطايا غريبة. بل امح التي لنا وامنحنا يا سيدنا أن لا نصنع السيئات بل انعم لنا بمعرفة لكي نقول ما يجب ونتقدم إلى هيكلك المقدس واقبل إليك الايغومانسية الكاملة التي لعبدك (فلان) الواقف ههنا منتظر موهبتك السمائية لأنك صالح كثير الرحمة لكل الذين يدعونك وقوي هو عزك مع ابنك الوحيد و الروح القدس.. الآن.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               The grace of our Lord Jesus Christ, who supplies our deficiency through the beneficence of God the Father and the Holy Spirit, shall come upon Your servant (...), who has approached the altar in fear and trembling and humility, kneeling and lifting the eyes of his heart to heaven, to You who are in heaven, awaiting from it Your heavenly gift, so that he might pass from the rank of the presbyterate to the rank of hegumeny in the church and the altar of (...). Pray, all of you, that the gift of the Holy Spirit might come upon him. Amen.        
+            </Language>
+            <Language id="Arabic">
+               نعمة ربنا يسوع المسيح المكملة لنقصنا بمسرة الله الآب والروح القدس تحل على (فلان) الذي دخل بخوف و رعدة إلى المذبح المقدس رافعاً عيني قلبه إليك ياساكن السماء منتظراً موهبتك السماوية كي ينتقل من طغمة القسيسية إلى طقس الايغومانسية في البيعة (الفلانية) بالمدينة (الفلانية) اطلبوا كلكم لتحل عليه نعمة الروح القدس   آمين. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               Am/n. Am/n. Am/n.
+            </Language>
+            <Language id="English">
+               Amen. Amen. Amen.
+            </Language>
+            <Language id="Arabic">
+               آمين. آمين. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               And the Bishop shall say this prayer facing the East: 
+            </Language>
+            <Language id="Arabic">
+               يقول الأسقف هذه الصلاة ووجهه للشرق 
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Yea, Lord, make Your servant worthy of the calling of the hegumeny, so that he may deserve through Your kindness, as befits Your holy name, to labor and serve in the temple of Your glory, and find mercy before You; for You are a merciful and compassionate God, and to You is due glory, honor, and dominion, and to the Son and to the Holy Spirit….      
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب اجعله مستحقاً لدعوة الايغومانسية لكي باستحقاق من قبل صلاحك يا محب البشر يستحق اسمك ويتعبد لك ويخدم مذبحك المقدس ويجد رحمة أمامك لأن الرحمة والرأفة كائنتين من قبلك يا الله ويليق بك المجد أيها الآب والابن والروح القدس الآن... الخ. 
+            </Language>
+         </Text>
+      
+         <Comment>
+            <Language id="English">
+               You shall turn to the west and place your right hand on his head and say this prayer: 
+            </Language>
+            <Language id="Arabic">
+               التفت إلى الغرب وضع يدك على رأسه وقل هذه الصلاة:  
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               O Master, Lord, God the Pantocrator, the Father of our Lord, God and Saviour Jesus Christ, Who knows all things before they come to be. You have chosen Your servant (...) that he may be a father and a hegumen unto Your servants, who are dwelling in one place for the sake of Your Holy name. Therefore, we ask and entreat You, O Lover of Mankind, behold and look upon him. Bless him and purify him through the coming upon him of Your Holy Spirit. Help him in every good deed, and give him wisdom and power through Your Holy Spirit, that he may be blameless day and night. Grant him, O our Master a governing Spirit and meekness and love and patience and goodness, that he may be pleasing unto You through good deeds, having become an example unto those who are under his rule. In doing, himself and in teaching them the ordinances of Your Law and in taking care of them in purity and love, that they may be pure and spotless. And to present them unto Christ, the Heavenly bridegroom as a purified sacrifice, brotherly and acceptable, having perfected that which is written, “let your light so shine before men that they may see your good works and glorify your Father who is in heaven.”  By the grace, ...       
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الله ضابط الكل أبا ربنا و إلهنا ومخلصنا يسوع المسيح الذي يعرف كل شئ قبل أن يكون أنت اخترت عبدك (فلان) كي يصير أباً ومدبراً لعبيدك هؤلاء الكائنين في موضع واحد لأجل اسمك القدوس. من أجل هذه نسأل ونطلب منك يا محب البشر لكي تنظر نظراً عليه وتباركه وتطهره بحلول روح قدسك عليه وتساعده في كل عمل صالح وتمنحه حكمة وقوة من قبل روحك القدوس ويكون بلا لوم نهاراً و ليلاً. أنعم عليه يا سيدنا بروح رئاسي وبوداعة ومحبة وصبر وصلاح لكي يكون مرضياً لك بالأعمال الحسنة إذ يصير مثالاً للكائنين تحت طاعته وعندما يصنع هو ثم يعلمهم وصايا ناموسك ويهتم بهم بطهارة ومحبة ليصيروا أطهاراً بلا عيب ويقدمهم إلى المسيح الختن السماوي ذبيحة نقية حية و مقبولة إذ يكمل عليه المكتوب هكذا فليضئ نوركم قدام الناس لكي يروا أعمالكم الحسنة ويمجدوا أباكم الذي في السموات بالنعمة الخ. 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Say this prayer upon the altar while facing the East: 
+            </Language>
+            <Language id="Arabic">
+               قل هذه الصلاة على المذبح ووجهك إلى للشرق  
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="English">
+               Look upon us, O Lord, and on Your ministry, and cleanse us from every stain, while You give grace from heaven to this Your servant, so that he may deserve by Your kindness blamelessly to be occupied in this ministry to which You have called him, and find Your mercy with all who through the ages have pleased you; for You are a God who wills mercy and kindness, and from all is due glory, honor and adoration to You, and to the Son, and to the Holy Spirit, now...        
+            </Language>
+            <Language id="Arabic">
+               أنظر علينا وعلى خدمتنا وطهرنا من كل دنس وأرسل من السماء نعمتك على عبدك هذا لكي يستحق من جهتك أن يكمل كهنوته بغير لوم لكي يفوز من قبلك بمراحمك مع الذين أرضوك منذ البدء لأن الرحمة كائنة بإرادتك ويليق بك الإكرام من كل أحد والسجود أيها الآب والابن والروح القدس الآن الخ. 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Turn to the West and sign his forehead (with your thumb) saying: 
+            </Language>
+            <Language id="Arabic">
+               تلتفت إلى الغرب و ترشم جبهته بإبهامك قائلاً  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We ordain you (...) a hegumen in the holy Church of God. Amen.         
+            </Language>
+            <Language id="Arabic">
+               ندعوك يا (فلان) إيغومانوس في بيعة الله المقدسة أمين 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               (...), a hegumen of the holy altar of the holy catholic apostolic Church of God of the Christ-loving city of (...).         
+            </Language>
+            <Language id="Arabic">
+               (فلان) إيغومانوس على المذبح المقدس الذي لبيعة الله المقدسة الجامعة الرسولية بالمدينة (الفلانية) المحبة للمسيح.   
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               (...) a hegumen for the holy altar which has been named for the orthodox, in the Christ-loving city of (....). In the name of the Father and of the Son and of the Holy Spirit. Peace and edification unto the holy church of God.  Amen.          
+            </Language>
+            <Language id="Arabic">
+               (فلان) إيغومانوس على المذبح المقدس الذي سبقنا بذكر اسمه الذي للأرثوذكسيين بالمدينة المحبة للمسيح (فلانة) بسم الآب والابن والروح القدس: سلاماً وبنياناً لكنيسة الله المقدسة آمين      
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We give thanks to You, our almighty Lord, and we praise and glorify Your holy name, because You have deigned to do with us, and poured out Your gift on this Your servant. Again we ask and beseech You, O Lord, hear us according to the multitude of Your mercies, and may this ordination to the hegumeny be pleasing to You which has been performed on this Your servant through the coming of Your most-holy Spirit.  To the calling, add also the election, the sanctity, and grace of Your goodness; and choose us and him for good, and grant to him that he may labor for You in the talent which he has received; so that with all who have done Your will he may receive the reward of faithful and wise steward, at the second coming from heaven of our Lord, our God and our Savior, Jesus Christ, with whom glory, honor, and dominion are due to you, with your good and most-holy Spirit...          
+            </Language>
+            <Language id="Arabic">
+               نشكرك أيها السيد ضابط الكل من أجل كل حال وفي كل حال ونبارك ونمجد اسمك القدوس لأنك صنعت معنا عظائماً وأفضت موهبتك على عبدك هذا نسأل ونطلب منك يا سيد أن تسمعنا من قبل كثرة رأفتك وسر بالتكريس الذي للإيغومانوسية الصائرة لعبدك هذا من قبل حلول روحك القدوس عليه. نسأل و نبتهل إليك ياسيد أن تسمعنا وتتم دعوة اختياره بطهارة ونعمة صلاحك واخترنا معه للخير لكي نأخذ مع كل من صنع إرادتك منذ البدء أجرة الوكيل الأمين الحكيم في ظهور ربنا وإلهنا ومخلصنا يسوع المسيح هذا الذي الخ.      
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he shall kiss the altar together with the bishop and those who are present, then they start the Holy Liturgy. Then the bishop gives him the fellowship of the holy mysteries and the following catechesis shall be read upon him:   
+            </Language>
+            <Language id="Arabic">
+               ثم يقبل المذبح والأسقف والحاضرين ويبتدئوا بالقداس الإلهي ثم يشركه الأسقف في الأسرار الإلهية وتقرأ عليه هذه الوصية:  
+            </Language>
+         </Comment>
+      </Role>
+   </Section>
+   
+   <Role id="Bishop">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis</Language>
+            <Language id="Arabic">الوصية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Know, O son, that the multiple order that you have been entrusted with through the Lord, which is the hegumeny.  Let, then be in you a great care for the word of doctrine. Manifest it first by good deeds. And then teach it to your people, those, concerning whom you shall give account to God, according to the sermon of the teacher and Apostle. And be a guard unto their souls, and lead them into good acts, doing them more than speaking of them. And the sinners, reprove them according to the Apostolic law, in meekness and gentleness. Suffer for them, for they are your organs, and do all that you can that the wolf touches not the sheep.  Divide the word of truth (2 Ti 2:15) Perfect the written word, “We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.” So that you also may hear “Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things. Enter into the joy of your lord.”          
+            </Language>
+            <Language id="Arabic">
+               اعلم أيها الابن أن الرتبة الغنية التي أؤتمنت عليها من قبل الرب التي هي الإيغومانوسية فليكن لك إذاً عظم اهتمام بكلام التعليم وأظهره أولاً بأعمالاً حسنة ثم علمها لشعبك هذا الذي تعطي الجواب عنه لله حسب عظة المعلم الرسول وكن ساهراً على نفوسهم وأهدهم إلى الأعمال الحسنة إذ تصنعها أكثر مما تتكلم بها. بكت الخطاة كالناموس الرسولي بالدعة وبالبشاشة وتألم عنهم لأنهم أعضاءك. واعمل كل الحرص أن لا تدع الذئب يلمس القطيع. واقطع بكلمة الحق وكمل القول المكتوب. ينبغي لنا نحن الأقوياء أن نحتمل ضعف الضعفاء ولا نرضي ذواتنا لكي تسمع أنت أيضاً نعماً أيها العبد الصالح الأمين كما وجدت أميناً في القليل أنا أجعلك على الكثير أدخل إلى فرح سيدك.       
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         The ordination of a hegumen has been concluded in peace.  Amen.   
+      </Language>
+      <Language id="Arabic">
+         تمت رسامة القمص بسلام. آمين.  
+      </Language>
+   </Comment>
+</Document>

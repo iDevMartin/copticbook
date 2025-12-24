@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">The Absolution Of the Woman</Language>
+      <Language id="Arabic">تحليل المرأة</Language>
+   </Title>
+
+   <Comment>
+      <Language id="English">
+         If the woman begot a boy, she comes to the priest after forty days. If it was a girl, then she comes after eighty days.
+      </Language>
+      <Language id="Arabic">
+         إذا ولدت المرأة ذكراً تأتى إلى الكاهن بعد أربعين يوماً أما إذا ولدت أنثى فتأتى بعد ثمانين يوماً.
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Reader">
+      <Group>
+         <Season id="AbsolutionOfWomanBoy">
+            <BibleReference reference="Hebrews 1:8-12" type="section"/>
+         </Season>
+         
+         <Season id="AbsolutionOfWomanGirl">
+            <BibleReference reference="1 Corinthians 7:12-14" type="section"/>
+         </Season>
+      </Group>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/litanies/ThreeShort"/>   
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Lord God the Pantocrator, the Father of our Lord, God and Savior Jesus Christ; the Treasure of Light, the Creator of the world, the chaser away of all diseases, Who reconciles all to the repentance of harmony;
+         </Language>
+         <Language id="Coptic">
+            P[oic Vnou] pipantokratwr v~iwt m~Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,~rictoc: pyucauroc n~te piouwini pid/miorgoc pidiwgmoc/ n~te niswni t/rou efhwtp m~piept/rf eumeta~noia~ n~te oucumvwnia~.
+         </Language>
+         <Language id="Arabic">
+            أيها الربُ الإلهُ الضابطُ الكل أبو ربِنا والهِنا ومخلصِنا يسوعَ المسيحِ، كنزُ النورِ، الخالقُ، المخضعُ جميعَ الامراضِ، المصلحُ الجميعَ بتوبةِ الاتفاقِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            who have adorned all by the law of Your love, through the economy of Your Word, the Only-begotten Son, when He came unto us in the flesh through the holy Mother of God and ever virgin, saint Mary, 
+         </Language>
+         <Language id="Coptic">
+            V/etafcolcel m~piept/rf qen v~nomoc n~te tefa~gap/: hiten ]oikonomia~ n~te peflogoc m~monogen/c Ps/ri e~tafi~ saron qen t~carx: e~bol qen ]yeo~tokoc e~youab: ouoh m~paryenoc n~c/ou niben ]a~gia~ Maria.
+         </Language>
+         <Language id="Arabic">
+            الذي زيَّنَ كلَّ شيءٍ بناموسِ محبتِه، بتدبيِر كلمتِه، ابنِه الوحيدِ الذي ظَهَرَ لنا بالجسدِ، من والدةِ الإله الطاهرةِ العذراءِ كلَّ حينٍ القديسةِ مريم.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            and the Holy Spirit, the healer and physician of our nature, our teacher in Your true knowledge, that we might be saved through the preaching of Your holy Gospels.
+         </Language>
+         <Language id="Coptic">
+            Nem Pip~neuma eyouab n~reftal[o ouoh n~c/ini n~te tenvucic: n~ref]c~bw nan e~qoun e~peke~mi m~m// eyrenoujai e~bolhiten pihiwis n~te nekeuaggelion e~youab.
+         </Language>
+         <Language id="Arabic">
+            والروح القدس المشفى، طبيب طبيعتنا ومرشدنا إلى معرفتِكَ الحقيقيةِ، لكي نَخلُصَ من قِبَلِ انذارِ أناجيلِكَ المقدسةِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            For the sake of man whom You have created and the working of the woman whom You have brought out of him, to be a helper unto him, after the economy of canonical marriage, You have blessed the fruit of the lawful offspring of the image of Your image and Your likeness. 
+         </Language>
+         <Language id="Coptic">
+            Eybe pirwmi e~takyamiof nem p~hwb n~]chimi e~takenc e~bol n~q/tf e~oubo/~yoc naf kata ouoikonomia~ n~gamoc p~kanwnikon: akc~mou e~pikarpoc n~te pijinmici n~nomimon n~te pihucwn n~te tekhukwn nem peki~ni.
+         </Language>
+         <Language id="Arabic">
+            من اجلِ الإنسانِ الذي صنعتَه وفِعلِ المرأةِ التي أخرجتَها منه، معينهً له، كشركةِ الزواجِ الشرعي، وباركتَ ثمرةَ الولادةِ الناموسيةِ المساويةِ لصورتِكَ ومثالِكَ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            And have enlarged the bounds of our nature by a succession of seed, unto the furnishing of the world and all that are therein, through all Your saints and the seed of the kingdom of the heavens.
+         </Language>
+         <Language id="Coptic">
+            Ouoh nenhoroc n~]vucic aky~rouerenergin kata oudia~do,/ n~te ouj~roj oukocm/cic m~pikocmoc n~te n/etwop n~q/tf t/rou: hiten n/e~youab t/rou n~tak: nem p~j~roj n~te y~metouro n~niv/oui~.
+         </Language>
+         <Language id="Arabic">
+            وجعلتَ نظامَ الطبيعةِ سارياً بتناسِلِ الزرعِ، وزينتَ العالمَ وكلَّ مافيه بواسطةِ كافةِ قديسيكَ ونسلِ ملكوتِ السمواتِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Therefore, O Lord, You have cleansed our nature and have delivered us through an inward personal reconciliation in mystical and real fellowship.  
+         </Language>
+         <Language id="Coptic">
+            Eybe vai P[oic aktoubo n~tenvucic akaiten n~remhe e~bolhiten pijinhwtn e~qoun: kata ouhupoctacic qen t~koinwnia~ m~muctik/ n~p~rakton.
+         </Language>
+         <Language id="Arabic">
+            من اجلِ هذا ياربُ طهرتَ طبيعتَنا وعَتَقتَنا بالاتحادِ في شخصِكَ في شركةٍ سريةٍ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We ask and entreat You, O lover of mankind, to look upon Your handmaid (...); may Your Holy Spirit renew her inward parts; cleanse her from her impurities. 
+         </Language>
+         <Language id="Coptic">
+            Ten]ho ouoh tentwbh m~mok pimairwmi hopwc n~tekjoust e~jen tekbwki )nim): mare Pekp~neuma e~youab erberi qen n/etcaqoun m~moc: matouboc e~bol ha necywleb.
+         </Language>
+         <Language id="Arabic">
+            نسألُ ونطلبُ منكَ يا محبَ البشرِ لكي تتطلعَ على أمَتَك (...)، حتى يتجدد روحُ قدسِكَ في أحشائها. طَهرها من أدناسِها.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            May she be renewed in her body and her soul and her spirit; and absolve her from all accusations, and all her acts, unto a pardoning of all her transgressions.
+         </Language>
+         <Language id="Coptic">
+            Marecswpi m~beri qen tec'u,/ nem peccwma nem pecp~neuma: n~tekaic n~remhe e~bol qen egkl/ma niben nem nech~b/oui~ t/rou n~a~poc e~oucun,wr/cic n~te necparap~twma t/rou.
+         </Language>
+         <Language id="Arabic">
+            لتتجدد نفسُها وجسدُها وروحُها. اعتقها من كلَّ لائمةٍ ومن جميعِ أعمالِها القديمةِ، غفراناً لجميعِ آثامِها.
+         </Language>
+      </Text>   
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+   
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then the priest anoints the woman with oil from the unction of the sick. After the baptism she enters the church and has the Holy Mysteries.
+         </Language>
+         <Language id="Arabic">
+            ويدهن الكاهن المرأة بالزيت. ثم تدخل الكنيسة، بعد المعمودية، وتتناول من الأسرار المقدسة.
+         </Language>
+      </Comment>
+   </Role>
+</Document>

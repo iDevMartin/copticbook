@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StApakirAndStJohn:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Marenhwc nem niaggeloc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Apakir and St. John:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenhwc nem niaggeloc: enws ebol enjw m~moc: je wo~uniaten y/nou w~ nimarturoc: Apa Kir nem Iwann/c pefcon: All/louia (3)
+            </Language>
+            <Language id="English">
+               Let us sing with the angels: crying out saying: Blessed are you O Martyrs: Apakir and his brother John: Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               فلنسبح مع الملائكة صارخين قائلين : طوباكما أيها الشهيدان أباكير ويوحنا أخوه الليلويا (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

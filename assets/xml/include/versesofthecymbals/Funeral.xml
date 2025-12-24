@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="GeneralFuneralPrayer | (FuneralPrayer ^ !Feasts)">
+      <InsertDocument path="include/praises/ConclusionAdamTheotokia.1"/>
+      <InsertDocument path="funeral/include/ClergyVersesOfTheCymbals"/>
+   </Season>
+</Document>

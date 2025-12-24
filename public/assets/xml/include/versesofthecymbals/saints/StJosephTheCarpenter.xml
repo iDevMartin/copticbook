@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJosephTheCarpenter:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Joseph the Carpenter:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt e#y#u# n~dikeoc: abba Iwc/v pihamse: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, our father the righteous Saint, Abba Joseph the carpenter, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة يا أبانا القديس البار أنبا يوسف النجار حبيب المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">The Prayers of the Fractions</Language>
+      <Language id="Arabic">صلوات القِسَم</Language>      
+   </Title>
+      
+   <InsertDocument path="include/fractions/Standard"/>
+</Document>

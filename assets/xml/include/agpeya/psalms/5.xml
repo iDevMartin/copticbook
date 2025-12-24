@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Psalm 5 - Hearken, O Lord...
+         </Language>
+         <Language id="Arabic">
+            المزمور الخامس - أنصت يا رب...
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            Hearken, O Lord, to my words and consider my cry. Observe the voice of my supplication, my King, and my God, for to You, O Lord, I will pray. In the morning You shall hear my voice; in the early morning I shall stand before You, and You will look upon me. For You are not a God who desires iniquity; nor shall he who works evil dwell in You; nor shall the transgressors abide before Your eyes. You have hated, O Lord, all who work iniquity. You will destroy all who speak falsehood. A man of blood and deceit the Lord abhors. 
+         </Language>
+         <Language id="Arabic">
+            أنصت يا رب لكلماتي، واسمع صراخي. أصغ إلى صوت طلبتي يا ملكي وإلهي، لأني إليك أصلى. يا رب بالغداة تسمع صوتي، بالغداة أقف أمامك وتراني. لأنك إله لا تشاء الإثم، ولا يساكنك من يصنع الشر. ولا يثبت مخالفو الناموس أمام عينيك. يا رب أبغضت جميع فاعلي الإثم، وتهلك كل الناطقين بالكذب. رجل الدماء والغاش يرذله الرب.
+         </Language>
+      </Text>
+
+      <InsertDocument path="include/agpeya/psalms/5.7"/>
+      
+      <Text>
+         <Language id="English">
+            Guide me, O Lord, in Your righteousness; for the sake of my enemies, make my way straight before You. For in their mouth there is no truth; their heart is vain; their throat is an open tomb; with their tongues they have done deceit. Judge them, O God; let them fall down in all their counsels. Wipe them out according to the abundance of their ungodliness; for they have provoked You, O Lord.
+         </Language>
+         <Language id="Arabic">
+            اهدني يا رب ببرك. من أجل أعدائي سهل أمامي طريقك. لأن ليس في أفواههم صدق. باطل هو قلبهم. حنجرتهم قبر مفتوح. وبألسنتهم قد غشوا. فدنهم يا الله. وليسقطوا من جميع مؤامراتهم وككثرة نفاقهم استأصلهم، لأنهم قد أغضبوك يا رب.
+         </Language>
+      </Text>
+       
+      <Text>
+         <Language id="English">
+            But let all who hope in You be glad; they shall rejoice forever, and You shall dwell in them; and all who love Your name shall be proud in You. For You, O Lord, have blessed the righteous; as a shield of favor You have crowned us. ALLELUIA.
+         </Language>
+         <Language id="Arabic">
+            وليفرح جميع المتكلين عليك، إلى الأبد يسرون وتحل فيهم. ويفتخر بك كل الذين يحبون اسمك. لأنك أنت باركت الصديق يا رب. كما بترس المسرة كللتنا. هلليلويا.
+         </Language>
+      </Text>
+   </Section>
+</Document>

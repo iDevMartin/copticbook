@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="CovenantThursday">
+         <Comment>
+            <Language id="English">
+               The commemoration of the saints is not prayed.     
+            </Language>         
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Title>
+            <Language id="English">Commemoration of the Saints</Language>
+            <Language id="Arabic">مجمع القديسين</Language>      
+         </Title>
+         
+         <Role id="Priest">
+            <Group>
+               <Season id="StBasilLiturgy">                   
+                  <Text>
+                     <Language id="Coptic">
+                        Epid/ P[oic ouahcahni pe n~te pekmonogen/c n~S/ri: eyreners~v/r e~pierv~meui~ n~te n/eyouab n~tak.
+                     </Language>
+                     <Language id="English">
+                        As this, O Lord, is the command of Your only-begotten Son, that we share in the commemoration of Your saints,
+                     </Language>
+                     <Language id="Arabic">
+                        لأنَ هذا ياربُّ هو أمرُ ابنِكَ الوحيدِ، أن نَشترِكَ في تذكارِ قديسيكَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Arikataxioin P[oic n~tekerv~meui~ n~n/eyouab t/rou e~tauranak icjen p~e~neh.
+                     </Language>
+                     <Language id="English">
+                        graciously accord, O Lord, to remember all the saints who have pleased You since the beginning:
+                     </Language>
+                     <Language id="Arabic">
+                        تَفَضَّل ياربُّ، أن تذْكُرَ جميعَ القديسينَ الذين أَرضَوْكَ مُنْذُ البدءِ:
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nenio] eyouab: nipatriar,/c nip~rov/t/c nia~poctoloc nirefhiwis nieuaggelict/c nimarturoc nio~mologit/c: nem p~neuma niben n~y~m/i e~taujwk e~bol qen v~nah].
+                     </Language>
+                     <Language id="English">
+                        our holy fathers the patriarchs, the prophets, the apostles, the preachers, the evangelists, the martyrs, the confessors, and all the spirits of the righteous perfected in the faith.
+                     </Language>
+                     <Language id="Arabic">
+                        آباءَنا الأطهارَ رؤساءَ الآباءِ والأنبياءَ، والرسلَ والمبشرينَ والإنجيليينَ، والشهداءَ والمعترفينَ، وكلَّ أرواحِ الصديقينَ، الذين كَمَلُوا في الإيمانِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nhouo~ de y/eyouab y~meh n~w~ou e~toi m~paryenoc n~c/ou niben: ]yeo~tokoc eyouab: ]a~gia Maria: y/e~tacj~ve Vnou] Pilogoc qen oumeym/i.
+                     </Language>
+                     <Language id="English">
+                        Most of all, the pure, full-of-glory, ever-virgin, holy Theotokos, Saint Mary, who truly gave birth to God the Logos.
+                     </Language>
+                     <Language id="Arabic">
+                        وبالأكثرِ القديسةَ المملوءَةَ مجداً، العذراءَ كلَّ حينٍ والدةَ الإلهِ القديسةَ الطاهرةَ مريمَ، التي وَلَدَتْ اللهَ الكلمةَ بالحقيقةِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Iwann/c pip~rodromoc m~baptict/c ouoh m~marturoc: nem pia~gioc Ctevanoc piar,idiakonoc ouoh m~p~rwtomarturoc: nem piyew~rimoc n~euaggelict/c Markoc pia~poctoloc eyouab ouoh m~marturoc.
+                     </Language>
+                     <Language id="English">
+                        And Saint John the forerunner, baptist, and martyr; Saint Stephen the archdeacon and protomartyr; the beholder-of-God, the Evangelist Mark, the holy apostle and martyr; 
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ يوحنا السابقَ الصابغَ والشهيدَ، والقديسَ استفانوس رئيسَ الشمامسةِ وأولَ الشهداءِ، وناظرَ الإلهِ الإنجيلي مرقسَ الرسولَ الطاهرَ والشهيد.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pipatriar,/c eyouab Ceu/roc: nem pencaq Diockoroc: nem pia~gioc Ayanacioc pia~poctolikoc: nem pia~gioc Petroc ieromarturoc piar,ie~reuc.
+                     </Language>
+                     <Language id="English">
+                        the patriarch Saint Severus; our teacher Dioscorus; Saint Athanasius the Apostolic; Saint Peter, the holy martyr and archpriest;
+                     </Language>
+                     <Language id="Arabic">
+                        والبطريركَ القديسَ ساويرُس، ومعلِّمَنا ديوسقورُس، والقديسَ أثناسيوس الرسولي، والقديسَ بطرسَ الشهيدَ الطاهرَ ورئيسَ الكهنةِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Iwann/c pi,~rucoctomoc: nem pia~gioc Yeo~docioc: nem pia~gioc Yeo~viloc: nem pia~gioc D/m/trioc: nem pia~gioc Kurilloc: nem pia~gioc Bacilioc: nem pia~gioc Gr/gorioc piyeo~logoc: nem pia~gioc Gr/gorioc piyaumatourgoc: nem pia~gioc Gr/gorioc piarmenioc.
+                     </Language>
+                     <Language id="English">
+                        Saint John Chrysostom; Saint Theodosius; Saint Theophilus; Saint Demetrius; Saint Cyril; Saint Basil; Saint Gregory the Theologian; Saint Gregory the Wonderworker; Saint Gregory the Armenian;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ يوحنا ذهبي الفمِ، والقديسَ ثاودوسيوس، والقديسَ ثاوفيلُس، والقديسَ ديمتريوس، والقديسَ كيرلس، والقديسَ باسيليوس، والقديسَ اغريغوريوسَ الناطقَ بالإلهياتِ، والقديسَ اغريغوريوسَ صانعَ العجائبِ، والقديسَ اغريغوريوسَ الأرمني.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pit#i#/# (pisomt se m/ts~m/n) e~tauywou] qen Nikea~: nem pir#n# (pise tebi) n~te Kwctantinoupolic: nem pic# (pic~nau se) n~te Evecoc.
+                     </Language>
+                     <Language id="English">
+                        the three hundred and eighteen assembled at Nicea; the one hundred and fifty at Constantinople; and the two hundred at Ephesus;
+                     </Language>
+                     <Language id="Arabic">
+                        والثلاثَمائةَ والثمانيةَ عشرَ المجتمعينَ بنيقية، والمئةَ والخمسين بمدينةِ القسطنطينية، والمِئَتَيْن بأفسس.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt n~dikeoc pinis] abba Antwnioc: nem piy~m/i abba Paule: nem pisomt eyouab abba Makari: nem nous/ri t/rou n~c~taurovoroc.
+                     </Language>
+                     <Language id="English">
+                        our righteous father, the great Abba Anthony; the righteous Abba Paul; the three saints Abba Macarii and all their children, the cross-bearers;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا الصديقَ العظيمَ أنبا أنطونيوس، والبارَّ أنبا بولا، والثلاثةَ أنبا مقارات القديسينَ، وجميعَ أولادِهم لُبَّاسَ الصليبِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Iwann/c pih/goumenoc: nem peniwt abba Piswi piy~m/i pirwmi n~telioc: pimenrit n~te pencwt/r n~a~gayoc.
+                     </Language>
+                     <Language id="English">
+                        our father Abba John the hegumen; our righteous father Abba Pishoy, the perfect man, the beloved of our good Savior.
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا يوأنس القمصَ، وأبانا أنبا بيشوي البار الرجلَ الكامِلَ، حبيبَ مخلِّصِنا الصالحِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Comment>
+                     <Language id="English">
+                        If the priest chooses, he may add the following.
+                     </Language>
+                     <Language id="Arabic">
+                        وإذا أراد فيزيد أيضاً ما يأتي:
+                     </Language>
+                  </Comment>
+                     
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Paule piremtammoh: nem Iezeki/l pefmay/t/c: nem na[oic n~io] eyouab n~rwmeoc Maximoc nem Dometioc: nem pim#y# (pih~me '~it) m~marturoc niqelloi n~te Sih/t: nem pijwri eyouab abba Mwc/: nem Iwann/c &lt;am/ Piprecbuteroc.
+                     </Language>
+                     <Language id="English">
+                        Our father Abba Paul of Tammoh and Ezekiel his disciple; my lords, the Roman fathers Saints Maximus and Dometius; the Forty-nine Martyrs; the elders of Shiheet; the strong saint Abba Moses; John Kame the priest;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا بولا الطموهي، وحزقيال تلميذه، وسيدَيَّ الأبَويْن القديسَيْن الرومِيَّيْن مكسيموس ودوماديوس، والتسعةَ والأربعينَ شهيداً شيوخَ شيهات، والقويَّ القديسَ أنبا موسى، ويُحَنَّس كاما القس.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Dani/l pih/goumenoc: nem peniwt abba Icidwroc Piprecbuteroc: nem peniwt abba Paqwm va ]koinwnia: nem Yeo~dwroc pefmay/t/c: nem peniwt abba Senou] piar,imand~rit/c: nem abba B/ca pefmay/t/c.
+                     </Language>
+                     <Language id="English">
+                        our father Abba Daniel the hegumen; our father Abba Isidore the priest; our father Abba Pachom of the Koinonia, and Theodore his disciple; our father Abba Shenoute the archmandrite, and Abba Wesa his disciple;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا دانيالَ القمصَ، وأبانا أنبا إيسيذوروسَ القس، وأبانا أنبا باخوم صاحبَ الشركَةِ، وتادرسَ تلميذَهُ، وأبانا أنبا شنوده رئيسَ المتوحدين، وأنبا ويصا تلميذَهُ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem p~,oroc t/rf n~te n/eyouab n~tak: nai e~te e~bolhiten nou]ho nem noutwbh nai nan t/rou eucop: ouoh matoujon eybe pekran eyouab e~taumou] m~mof e~h~r/i e~jwn.
+                     </Language>
+                     <Language id="English">
+                        and all the choir of Your saints, through whose prayers and supplications have mercy on us all and save us, for the sake of Your holy name, which is called upon us.
+                     </Language>
+                     <Language id="Arabic">
+                        وكلَّ مصافِ قديسيكَ، هؤلاءِ الذين بسؤالاتِهم وطلباتِهم، ارحَمْنا كلَّنا معاً. وأَنقِذْنا من أجلِ اسمِكَ القدوسِ الذي دُعِيَ علينا.
+                     </Language>         
+                  </Text>         
+               </Season>
+               
+               <Season id="StGregoryLiturgy">
+                  <Text>
+                     <Language id="Coptic">
+                        Arikataxioin P[oic n~tekerv~meui~ n~n/eyouab t/rou e~tauranak icjen p~e~neh.
+                     </Language>
+                     <Language id="English">
+                        Graciously accord, O Lord, to remember all the saints who have pleased You since the beginning:
+                     </Language>
+                     <Language id="Arabic">
+                        تفضل ياربُّ أن تذكرَ جميعَ القديسينَ الذين أرضوكَ منذُ البدءِ:
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nenio] eyouab: nipatriar,/c nip~rov/t/c nia~poctoloc nirefhiwis: nieuaggelict/c nimarturoc nio~mologit/c: nem p~neuma niben n~y~m/i e~taujwk e~bol qen v~nah].
+                     </Language>
+                     <Language id="English">
+                        our holy fathers the patriarchs, the prophets, the apostles, the preachers, the evangelists, the martyrs, the confessors, and all the spirits of the righteous perfected in the faith.
+                     </Language>
+                     <Language id="Arabic">
+                        آباءنا القديسينَ رؤساءَ الآباءِ والأنبياءَ، والرسلَ والمبشرينَ والإنجيليينَ، والشهداءَ، والمعترفينَ، وكلَّ أرواحِ الصديقينَ الذينَ كَمَلُوا في الإيمانِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        N~houo~ de y/eyouab y~meh n~w~ou etoi m~paryenoc n~c/ou niben: ]yeo~tokoc eyouab: ]a~gia Maria.
+                     </Language>
+                     <Language id="English">
+                        And most of all, the pure, full-of-glory, ever virgin, holy Theotokos, Saint Mary.
+                     </Language>
+                     <Language id="Arabic">
+                        وبالأكثرِ القديسةَ المملوءةَ مجداً، العذراءَ كلَّ حينٍ، والدةَ الإلهِ القديسةَ الطاهرةَ مريم.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Iwann/c pip~rodromoc m~baptict/c ouoh m~marturoc.
+                     </Language>
+                     <Language id="English">
+                        And Saint John the forerunner, baptist, and martyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ يوحنا السابقَ المعمدانَ والشهيد.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Ctevanoc piprwtodiakonoc ouoh m~p~rwtomarturoc.
+                     </Language>
+                     <Language id="English">
+                        Saint Stephen the protodeacon and protomartyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ استفانوس أولَ الشمامسةِ وأولَ الشهداءِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Markoc pia~poctoloc eyouab n~euaggelict/c ouoh m~marturoc.
+                     </Language>
+                     <Language id="English">
+                        Saint Mark, the holy apostle, Evangelist, and martyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ مرقسَ الرسولَ الطاهرَ الإنجيليَّ والشهيد.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pipatriar,/c eyouab Ceu/roc: nem pia~gioc Kurilloc nem pia~gioc Bacilioc: nem pia~gioc Gr/gorioc.
+                     </Language>
+                     <Language id="English">
+                        The patriarch Saint Severus; Saint Cyril; Saint Basil; Saint Gregory;
+                     </Language>
+                     <Language id="Arabic">
+                        والبطريركَ القديسَ ساويرُس، والقديسَ كيرلس، والقديسَ باسيليوس، والقديسَ اغريغوريوس.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt n~dikeoc pinis] abba Antwni: nem piy~m/i abba Paule: nem pisomt eyouab abba Makari.
+                     </Language>
+                     <Language id="English">
+                        Our righteous father, the great Abba Anthony; the righteous Abba Paul; the three saints Abba Macarii;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا الصديقَ العظيمَ أنبا أنطونيوس، والبارَّ أنبا بولا، والثلاثةَ أنبا مقارات القديسينَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Iwann/c: nem peniwt abba Piswi: nem nenio] eyouab n~rwmeoc Maximoc nem Dometioc: nem pih~me 'it m~marturoc nem pijwri abba Mwc/.
+                     </Language>
+                     <Language id="English">
+                        our father Abba John; our father Abba Pishoy; our holy Roman fathers Maximus and Dometius; the Forty-nine Martyrs; the strong Abba Moses;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا يوأنس، وأبانا أنبا بيشُوي، وأبوَيْنا القديسَيْنَ الرومِيَيْنِ مكسيموس ودوماديوس، والتسعةَ والأربعينَ شهيداً، والقويِّ أنبا موسى.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Paqwm v~iwt n~]koinwnia nem peniwt abba Senou] piar,imand~rit/c: nem peniwt abba Noufer pia~na,writ/c nem peniwt abba Camou/l pio~mologit/c.
+                     </Language>
+                     <Language id="English">
+                        our father Abba Pachom, the father of the Koinonia; our father Abba Shenoute the archimandrite; our father Abba Nopher the anchorite; and our father Abba Samuel the confessor.
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا باخوم أبا الشركةِ، وأبانا أنبا شنوده رئيسَ المتوحدينَ، وأبانا أنبا نُفَر السائحَ، وأبانا أنبا صموئيلَ المعترفَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem p~,oroc t/rf n~te n/eyouab n~tak: nai e~te e~bolhiten nou]ho nem noutwbh nai nan t/rou eucop: ouoh matoujon eybe pekran eyouab e~taumou] m~mof e~h~r/i e~jwn.
+                     </Language>
+                     <Language id="English">
+                        And all the choir of Your saints, through whose prayers and supplications have mercy on us all and save us, for the sake of Your holy name, which is called upon us.
+                     </Language>
+                     <Language id="Arabic">
+                        وكلَّ مصافِ قديسيكَ، هؤلاءِ الذين بسؤالاتِهم وطلباتِهم، إرحَمْنا كلَّنا معاً. وأَنقِذْنا من أجلِ إسمِكَ القدوسِ الذي دُعِيَ علينا.
+                     </Language>         
+                  </Text>
+               </Season>
+               
+               <Season id="StCyrilLiturgy">
+                  <Text>
+                     <Language id="Coptic">
+                        Nenio] nem nenc~n/ou e~tauenkot e~ak[i n~nou'u,/ mam~ton nwou.
+                     </Language>
+                     <Language id="English">
+                        Our fathers and brethren who have fallen asleep, whose souls You have taken, repose them,
+                     </Language>
+                     <Language id="Arabic">
+                        آباؤُنا وإِخوتُنا الذينَ رقدوا، إذ أخذتَ نفوسَهم نيحْهُم.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Eki~ri on m~v~meui~ n~n/eyouab t/rou etauranak icjen p~e~neh.
+                     </Language>
+                     <Language id="English">
+                        remembering also all the saints who have pleased You since the beginning:
+                     </Language>
+                     <Language id="Arabic">
+                        ذاكراً أيضاً جميعَ القديسينَ الذين أرضَوْكَ منذُ البدءِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nenio] eyouab: nipatriar,/c nip~rov/t/c nia~poctoloc nirefhiwis nieuaggelict/c nimarturoc nio~mologit/c: nem p~neuma niben n~y~m/i etaujwk e~bol qen v~nah].
+                     </Language>
+                     <Language id="English">
+                        our holy fathers the patriarchs, the prophets, the apostles, the preachers, the evangelists, the martyrs, the confessors, and all the spirits of the righteous perfected in the faith.
+                     </Language>
+                     <Language id="Arabic">
+                        آباءَنا الأطهارَ رؤساءَ الأباءِ، والأنبياءَ، والرسلَ، والمبشرينَ، والإنجيليينَ، والشهداءَ، والمعترفينَ، وكلَّ أرواحِ الصديقينَ الذين كَمَلُوا في الإيمانِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nhouo~ de y/eyouab eymeh n~w~ou etoi m~paryenoc n~c/ou niben: ]yeo~tokoc eyouab: ]a~gia Maria.
+                     </Language>
+                     <Language id="English">
+                        Most of all, the pure, full-of-glory, ever-virgin, holy Theotokos, Saint Mary.
+                     </Language>
+                     <Language id="Arabic">
+                        وبالأكثرِ القديسةَ المملوءةَ مجداً، العذراءَ كلَّ حينٍ، والدةَ الإلهِ الطاهرةَ القديسةَ مريمَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Iwann/c pip~rodromoc m~baptict/c ouoh m~marturoc.
+                     </Language>
+                     <Language id="English">
+                        And Saint John the forerunner, baptist, and martyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ يوحنا السابقَ المعمدانَ والشهيدَ. 
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Ctevanoc pip~rwtodiakonoc ouoh m~p~rwtomarturoc.
+                     </Language>
+                     <Language id="English">
+                        Saint Stephen the protodeacon and protomartyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديس اسطفانوسَ أولَ الشمامسةِ وأولَ الشهداءِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pia~gioc Markoc pia~poctoloc eyouab n~euaggelict/c ouoh m~marturoc.
+                     </Language>
+                     <Language id="English">
+                        Saint Mark the holy apostle, Evangelist, and martyr;
+                     </Language>
+                     <Language id="Arabic">
+                        والقديسَ مرقسَ الرسولَ الطاهرَ الانجيليَّ والشهيد.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pipatriar,/c eyouab Ceu/roc: nem pia~gioc Kurilloc: nem pia~gioc Bacilioc: nem pia~gioc Gr/gorioc.
+                     </Language>
+                     <Language id="English">
+                        the patriarch Saint Severus; Saint Cyril; Saint Basil; Saint Gregory, 
+                     </Language>
+                     <Language id="Arabic">
+                        والبطريركَ القديسَ ساويرُس، والقديسَ كيرلس، والقديسَ باسيليوس، والقديسَ اغريغوريوس.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt n~dikeoc pinis] abba Antwni: nem piy~m/i abba Paule: nem pisomt eyouab abba Makari.
+                     </Language>
+                     <Language id="English">
+                        our righteous father; the great Abba Anthony; the righteous Abba Paul; the three saints Abba Macarii;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا الصديقَ العظيمَ أنبا أنطونيوس، والبارَّ أنبا بولا، والثلاثةَ أنبا مقارات القديسينَ. 
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Iwann/c: nem peniwt abba Piswi: nem nenio] eyouab n~rwmeoc Maximoc nem Dometioc: nem pih~me 'it m~marturoc: nem pijwri eyouab abba Mouc/.
+                     </Language>
+                     <Language id="English">
+                        our father Abba John; our father Abba Pishoy; our holy Roman fathers Maximus and Dometius; the Forty-nine Martyrs; the strong saint Abba Moses;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا يُحنس، وأبانا أنبا بيشُوي، وأبوَيْنا القديسَيْنِ الرومِيَيْنِ مكسيموسِ ودوماديوس، والتسعةَ والأربعينَ شهيداً، والقويَّ أنبا موسى.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem peniwt abba Paqwm va ]koinwnia: nem peniwt abba Senou] piar,imand~rit/c: nem peniwt abba Noufer pia~na,writ/c: nem peniwt abba Camou/l pio~mologit/c.
+                     </Language>
+                     <Language id="English">
+                        our father Abba Pachom of the Koinonia; our father Abba Shenoute the archmandrite; our father Abba Nopher the anchorite; and our father Abba Samuel the confessor;
+                     </Language>
+                     <Language id="Arabic">
+                        وأبانا أنبا باخوم صاحِبَ الشركةِ، وأبانا أنبا شنوده رئيسَ المتوحدينَ، وأبانا أنبا نُفَر السائحَ، وأبانا أنبا صموئيلَ المعترفَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem p~,oroc t/rf n~te n/eyouab n~tak. 
+                     </Language>
+                     <Language id="English">
+                        and all the choir of Your saints.
+                     </Language>
+                     <Language id="Arabic">
+                        وكلَّ مصافِ قديسيكَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Comment>
+                     <Language id="English">
+                        The priest says in the mourning tune:
+                     </Language>
+                     <Language id="Arabic">
+                        ثم يقول بلحن الحزن:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Ou, o~ti je a~non v~n/b etemp~sa n~erp~recbeuin e~h~r/i e~jen y~metmakarioc n~te n/e~te m~mau.
+                     </Language>
+                     <Language id="English">
+                        Not that we are worthy, O Master, to intercede for the blessedness of those who are there,
+                     </Language>
+                     <Language id="Arabic">
+                        إننا يا سيدَنا لسنا أهلاً أن نتشفَّعَ في طوباويةِ أولئكَ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Alla je n~ywou euo~hi e~ratou nahren pib/ma n~te pekmonogen/c n~S/ri.
+                     </Language>
+                     <Language id="English">
+                        but rather they are standing before the tribunal of Your only-begotten Son,
+                     </Language>
+                     <Language id="Arabic">
+                        بل هم قيامٌ أمامَ مِنْبَرِ ابنِكَ الوحيدِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Ntouswpi n~sebiw n~erp~recbeuin: e~h~r/i e~jen tenmeth/ki nem tenmetjwb.
+                     </Language>
+                     <Language id="English">
+                        that they may be interceding instead for our poverty and our frailty.
+                     </Language>
+                     <Language id="Arabic">
+                        ليكونوا عوضاً عنا، يتشفَّعونَ في مسكنتِنا وضعفِنا.
+                     </Language>         
+                  </Text>
+                  
+                  <Comment>
+                     <Language id="English">
+                        The priest cries out, saying:
+                     </Language>
+                     <Language id="Arabic">
+                        يصرخ ههنا ويقول:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Swpi n~ref,w e~bol n~nena~nomia: eybe nou]ho eyouab: nem eybe pekran etc~marwout: e~taumou] m~mof e~h~r/i e~jwn.
+                     </Language>
+                     <Language id="English">
+                        May You be a forgiver of our iniquities, for the sake of their holy supplications and for the sake of Your blessed name which is called upon us.
+                     </Language>
+                     <Language id="Arabic">
+                        كنْ غافراً لآثامِنا، من أجلِ طلباتِهِم المقدسةِ، ومن أجلِ اسمِكَ المباركِ الذي دُعِيَ علينا.
+                     </Language>         
+                  </Text>
+               </Season>
+            </Group>
+         </Role>
+         
+         <Role id="Deacon">            
+            <Text>
+               <Language id="Coptic">
+                  N/etws maroutaouo~ n~niran n~te nenio] eyouab m~patriar,/c e~tauenkot: P[oic mam~ton n~nou'u,/ t/rou ouoh n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Let those who read, recite the names of our holy fathers, the patriarchs who have fallen asleep. O Lord, repose their souls, and forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  القارئون فليقولوا أسماء آبائنا البطاركة القديسين الذين رقدوا الرب ينيح نفوسهم أجمعين، ويغفر لنا خطايانا
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Section silent="true">
+            <Title>
+               <Language id="English">Remember also, O Lord...</Language>
+               <Language id="Arabic">اذكر أيضاً ياربُّ...</Language>
+               <Language id="Coptic">Ariv~meui~ de on P[oic...</Language>
+            </Title>
+            
+            <Role id="Priest" silent="true">
+               <Comment>
+                  <Language id="English">
+                     The priest says the following commemoration of the departed inaudibly.
+                  </Language>
+                  <Language id="Arabic">
+                     يقول الكاهن هذا الترحيم (سرا(ً:
+                  </Language>
+               </Comment>
+               
+               <Group>
+                  <Season id="StBasilLiturgy">
+                     <Text>
+                        <Language id="Coptic">
+                           Ariv~meui~ de on P[oic n~n/ t/rou e~tauenkot aum~ton m~mwou: qen oumetou/b: nem n/etqen p~tagma t/rf n~te nilaikoc.
+                        </Language>
+                        <Language id="English">
+                           Remember also, O Lord, all those who have fallen asleep and reposed in the priesthood and in all the orders of the laity.
+                        </Language>
+                        <Language id="Arabic">
+                           اذكر أيضاً ياربُّ كلَّ الذين رقدوا، وتنيحوا في الكهنوتِ، والذين في كلِّ طغمةِ العلمانيين.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Arikataxioin P[oic mam~ton n~nou'u,/ t/rou qen kenf n~nenio] eyouab Abraam nem Icaak nem Iakwb.
+                        </Language>
+                        <Language id="English">
+                           Graciously, O Lord, repose all their souls in the bosom of our holy fathers Abraham, Isaac, and Jacob.
+                        </Language>
+                        <Language id="Arabic">
+                           تفضل ياربُّ نيحْ نفوسَهُم أجمعين في حضنِ آبائنا القديسينَ، إبراهيمَ وإسحقَ ويعقوبَ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Sanousou qen ouma n~,~lo/~: hijen v~mwou n~te p~emton: qen piparadicoc n~te p~ounof.
+                        </Language>
+                        <Language id="English">
+                           sustain them in green pastures, beside still waters in the Paradise of joy,
+                        </Language>
+                        <Language id="Arabic">
+                           عُلْهُم في موضِعِ خضرةٍ، على ماءِ الراحةِ في فردوسِ النعيمِ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Pima e~tafvwt e~bol n~q/tf n~je pim~kah n~h/t nem ]lup/ nem pifia~hom: qen v~ouwini n~te n/eyouab n~tak.
+                        </Language>
+                        <Language id="English">
+                           the place out of which grief, sorrow, and groaning have fled away in the light of Your saints.
+                        </Language>
+                        <Language id="Arabic">
+                           الموضعِ الذي هَرَبَ منه الحزنُ والكآبةُ والتنهدُ في نورِ قديسيكَ.
+                        </Language>         
+                     </Text>
+                  </Season>
+                  
+                  <Season id="StGregoryLiturgy">
+                     <Text>
+                        <Language id="Coptic">
+                           Ariv~meui~ de on P[oic n~nenio] nem nenc~n/ou e~tauersorp n~enkot qen pinah] n~oryodoxoc: mam~ton nwou t/rou nem n/eyouab n~tak: nem nai e~tennataoue~ nouran.
+                        </Language>
+                        <Language id="English">
+                           Remember also, O Lord, our fathers and brethren who have fallen asleep in the orthodox faith. Repose them all with Your saints, together with those whose names we mention.
+                        </Language>
+                        <Language id="Arabic">
+                           اذكر أيضاً ياربُّ آباءنا وإخوتَنا الذين سَبَقَ رقادُهم في الإيمانِ الأرثوذكسي، نيحْهُم جميعَهُم مع قديسيكَ، مع هؤلاءِ الذين نذكرُ أسماءهم.
+                        </Language>         
+                     </Text>
+                  </Season>
+                  
+                  <Season id="StCyrilLiturgy">
+                     <Text>
+                        <Language id="Coptic">
+                           Ariv~meui~ P[oic n~nenkeio] eyouab n~oryodoxoc ouoh n~ar,iepickopoc e~tauersorp n~enkot: nai etauswt e~bol m~p~caji n~te ]meym/i qen oucwouten.
+                        </Language>
+                        <Language id="English">
+                           Remember, O Lord, our other holy fathers the orthodox archbishops who have already fallen asleep, those who have rightly handled the word of truth.
+                        </Language>
+                        <Language id="Arabic">
+                           اذكر ياربُّ آباءَنا القديسينَ الأرثوذكسيينَ رؤساءَ الأساقفةِ الذينَ سبقوا فرقدوا، هؤلاءِ الذين فصَّلوا كلمةَ الحقِ باستقامةٍ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Ouoh moi nan hwn n~oumeroc nem ouk~l/roc nemwou. Eki~ri on m~v~meui~ n~nai eteni~ri m~mpoumeui~: qen paie~hoou n~te voou.
+                        </Language>
+                        <Language id="English">
+                           And give us, we too, a share and inheritance with them, remembering also those whom we commemorate this very day.
+                        </Language>
+                        <Language id="Arabic">
+                           وأَعطِنا نحنُ أيضاً حظاً ونصيباً معهم، ذاكراً أيضاً هؤلاءِ الذينَ نذكرُهُم في يومِنا هذا.
+                        </Language>         
+                     </Text>
+                  </Season>
+               </Group>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest puts incense in the censer and mentions the departed.
+                  </Language>
+                  <Language id="Arabic">
+                     يضع الكاهن يد بخور في المجمرة ويذكر المنتقلين.
+                  </Language>
+               </Comment>
+            </Role>
+         </Section>
+            
+         <Group>
+            <Season id="StCyrilLiturgy">
+               <InsertDocument path="include/CommemorationOfTheSaintsDeaconResponse"/>
+               <InsertDocument path="include/CommemorationOfTheSaintsHymns"/>
+            </Season>
+         </Group>
+            
+         <Section>
+            <Title>
+               <Language id="English">Those, O Lord...</Language>
+               <Language id="Arabic">وهؤلاء وكلُّ أحد...</Language>
+               <Language id="Coptic">Ouoh nai nem...</Language>
+            </Title>
+         
+            <Role id="Priest">              
+               <Group>
+                  <Season id="StBasilLiturgy | StGregoryLiturgy">
+                     <Comment>
+                        <Language id="English">
+                           The priest may say the following commemoration of the departed (diptych) from the Liturgy of St. Cyril in its known tune in the liturgy for the departed.
+                        </Language>
+                        <Language id="Arabic">
+                           يقول الكاهن هذا الترحيم من قداس القديس كيرلس باللحن في يوم الترحيم والقداس للراقدين:
+                        </Language>
+                     </Comment>
+                     
+                     <Group>
+                        <Season id="Feasts | Sundays">
+                           <Comment>
+                              <Language id="English">
+                                  On Sundays, feast days, and the Pentecost Period:
+                                 <ol>
+                                    <li>The priest prays the diptych: “<span class="Coptic">Ouoh nai nem</span>” in the standard tune, </li>
+                                    <li>The priest mentions the names of the departed.</li>
+                                 </ol>  
+                              </Language>
+                           </Comment>
+                        </Season>
+                        
+                        <Season id="Other">
+                           <Comment>
+                              <Language id="English">
+                                 On standard and fasting days:
+                                 <ol>
+                                    <li>The priest prays the diptych: “<span class="Coptic">Ouoh nai nem</span>” in the paschal tune, </li>
+                                    <li>The priest mentions the names of the departed.</li>
+                                    <li>The deacon says the response to the litany of the departed, “<span class="Coptic">Twbh e~jen nenio]</span>,” (except on Sundays and Feasts).</li>
+                                    <li>The congregation chants: “<span class="Coptic">Kurie~ e~Le/~con</span>”</li>
+                                 </ol>
+                              </Language>
+                           </Comment>
+                        </Season>
+                     </Group>
+                  </Season>
+               </Group>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh nai nem ouon niben P[oic n/e~tantaoue~ nouran: nem n/e~te m~pentaouw~ou.
+                  </Language>
+                  <Language id="English">
+                     Those, O Lord, and everyone whose names we have mentioned, and those we have not mentioned,
+                  </Language>
+                  <Language id="Arabic">
+                     وهؤلاء وكلُّ أحدٍ، ياربُّ، الذين ذكرنا أسماءَهُم، والذين لم نذكرْهُم.
+                  </Language>         
+               </Text>   
+               
+               <Text>
+                  <Language id="Coptic">
+                     N/etqen v~meui~ m~piouai piouai m~mon: nem n/e~te n~q/ten an.
+                  </Language>
+                  <Language id="English">
+                     those whom each one of us has in mind and those who are not in mind,
+                  </Language>
+                  <Language id="Arabic">
+                     الذين في فكرِ كلِّ واحدٍ منا، والذينَ ليسوا فينا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Etauenkot aum~ton m~mwou qen v~nah] m~Pi,rictoc.
+                  </Language>
+                  <Language id="English">
+                     who have fallen asleep and reposed in the faith of Christ—
+                  </Language>
+                  <Language id="Arabic">
+                     الذين رقدوا وتنيَّحوا في الإيمانِ بالمسيحِ.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest mentions the name(s) of the departed and, with his hand covered with a veil, puts a spoonful of incense in the censer.
+                  </Language>
+                  <Language id="Arabic">
+                     ههنا يذكر الكاهن اسم المتنيح ويضع يد بخور في المجمرة ويده مستورة بلفافة.
+                  </Language>
+               </Comment>   
+            </Role>
+            
+            <Group>
+               <Season id="StBasilLiturgy | StGregoryLiturgy">
+                  <InsertDocument path="include/CommemorationOfTheSaintsDeaconResponse"/>
+               </Season>
+            </Group>
+            
+            <Role id="Priest">            
+               <Text>
+                  <Language id="Coptic">
+                     Arikataxioin P[oic mam~ton n~nou'u,/ t/rou qen kenf n~nenio] eyouab Abraam nem Icaak nem Iakwb: sanousou qen ouma n~,~lo/~: hijen v~mwou n~te p~emton: qen piparadicoc n~te p~ounof: pima e~tafvwt e~bol n~q/tf n~je pim~kah n~h/t nem ]lup/ nem pifia~hom: qen v~ouwini n~te n/eyouab n~tak.
+                  </Language>
+                  <Language id="English">
+                     Graciously, O Lord, repose all their souls in the bosom of our holy fathers Abraham, Isaac, and Jacob. Sustain them in green pastures, beside still waters in the Paradise of joy, the place out of which grief, sorrow, and groaning have fled away in the light of Your saints.
+                  </Language>
+                  <Language id="Arabic">
+                     تفضلْ ياربُّ نيحْ نفوسَهم جميعاً في حِضنِ آبائنا القديسين، إبراهيمَ وإسحقَ ويعقوبَ. عُلْهُم في موضعِ خضرةٍ على ماءِ الراحةِ في فردوسِ النعيمِ، الموضعِ الذي هَرَبَ منه الحزنُ والكآبةُ والتنهدُ في نورِ قديسيكَ.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <Group>
+               <Season id="StCyrilLiturgy">
+                  <Role id="Priest">
+                     <Text>
+                        <Language id="Coptic">
+                           Eke~tounoc n~toukecarx qen pie~hoou e~takyasf: kata neke~paggelia m~m/i ouoh n~atmeynouj.
+                        </Language>
+                        <Language id="English">
+                           Raise up their bodies also on the Day which You have appointed, according to Your true promises, which are without lie.
+                        </Language>
+                        <Language id="Arabic">
+                           أقمْ أجسادَهم أَيضاً في اليومِ الذي رسمتَهُ كمواعيدِكَ الحقيقيةِ غيرِ الكاذبةِ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Eke~er,arizecye nwou n~nia~gayon n~te neke~paggelia: n/e~te m~pe bal nau e~rwou: oude m~pe masj coymou: oude m~poui~ e~h~r/i e~jen p~h/t n~rwmi.
+                        </Language>
+                        <Language id="English">
+                           Grant them the good things of Your promises, that which an eye has not seen, nor ear heard, neither have come upon the heart of man,
+                        </Language>
+                        <Language id="Arabic">
+                           هَبْ لهم خيراتِ مواعيدِكَ، ما لم تَرَهُ عينٌ ولم تسمعْ به أذنٌ، ولم يخطرْ على قلبِ بشرٍ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           N/e~takcebtwtou Vnou] n~n/eymei m~pekran eyouab.
+                        </Language>
+                        <Language id="English">
+                           the things which You, O God, have prepared for those who love Your holy name.
+                        </Language>
+                        <Language id="Arabic">
+                           ما أعددتَهُ يا اللهُ لمحبي اسمِكَ القدوسِ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Je m~mon mou sop n~neke~biaik: alla ououw~teb e~bol pe.
+                        </Language>
+                        <Language id="English">
+                           For there is no death for Your servants, but a departure.
+                        </Language>
+                        <Language id="Arabic">
+                           لأنه لا يكونُ موتٌ لعبيدِكَ، بل هو انتقالٌ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Icje de ouon oumetamel/c [i e~rwou: ie oumetat] h~y/f hwc rwmi: e~auervorin n~oucarx ouoh auswpi qen paikocmoc.
+                        </Language>
+                        <Language id="English">
+                           Even if any negligence or heedlessness has overtaken them as men, since they were clothed in flesh and dwelt in this world,
+                        </Language>
+                        <Language id="Arabic">
+                           وإن كانَ لحِقَهُم توانٍ، أو تفريطٌ كبشرٍ، وقد لَبِسُوا جسداً، وسكنوا في هذا العالمِ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Nyok de hwc a~gayoc ouoh m~mairwmi Vnou] a~rikataxioin ,w nwou e~bol.
+                        </Language>
+                        <Language id="English">
+                           O God, as the Good One and Lover of Mankind, graciously accord to forgive them.
+                        </Language>
+                        <Language id="Arabic">
+                           فأنتَ كصالحٍ ومحبِّ البشرِ، اللهم تفضَّلْ اغفرْ لهم.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Je m~mon h~li e~fouab e~ywleb: oude kan oue~hoou n~ouwt pe pefwnq hijen pikahi.
+                        </Language>
+                        <Language id="English">
+                           For no one is pure and without blemish, even though his life on earth be a single day.
+                        </Language>
+                        <Language id="Arabic">
+                           فإنه ليس أحدٌ طاهراً من دنسٍ، ولو كانت حياتُه يوماً واحداً على الأرضِ.
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Nywou men hamn/ P[oic e~ak[i n~nou'u,/ mam~ton nwou: ouoh marouerp~emp~sa n~]metouro n~te niv/oui~.
+                        </Language>
+                        <Language id="English">
+                           As for those, O Lord, whose souls You have taken, repose them, and may they be worthy of the kingdom of the heavens.
+                        </Language>
+                        <Language id="Arabic">
+                           أما هم ياربُّ الذين أخذتَ نفوسَهُم، فنيحْهم وليستحِقوا ملكوتَ السمواتِ 
+                        </Language>         
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Anon de t/ren ari,arizecye nan m~penjwk n~,~rictianoc efranak m~pekm~yo: ouoh moi nwou neman n~oumeroc nem ouk~l/roc: nem n/eyouab t/rou n~tak.
+                        </Language>
+                        <Language id="English">
+                           As for us all, grant us our Christian perfection that would be pleasing to You, and give them and us a share and inheritance with all Your saints.
+                        </Language>
+                        <Language id="Arabic">
+                           وأما نحنُ كلُّنا فهبْ لنا كمالَنا المسيحيَّ الذي يُرضيكَ أمامَكَ، وأَعطِهِم وإيانا نصيباً وميراثاً مع كافةِ قديسيكَ.
+                        </Language>         
+                     </Text>
+                  </Role>
+                  
+                  <InsertDocument path="include/LordHaveMercy"/>
+               </Season>
+            </Group>
+         </Section>
+          
+         <Group>
+            <Season id="StBasilLiturgy | StGregoryLiturgy">               
+               <Section expanded="false">
+                  <Title>
+                     <Language id="English">Litany of the Departed Patriarch / Metropolitan / Bishop</Language>
+                     <Language id="Arabic">أوشية الآباء</Language>
+                  </Title>
+                  
+                  <InsertDocument path="include/litanies/DepartedFathersComment"/>        
+                  <InsertDocument path="include/litanies/DepartedFathersPriestIntro"/>
+                  <InsertDocument path="include/litanies/DepartedFathersDeacon"/>
+                  <InsertDocument path="include/LordHaveMercy"/>
+                  <InsertDocument path="include/litanies/DepartedFathersPriestContinuation"/>               
+               </Section>
+               
+               <InsertDocument path="include/CommemorationOfTheSaintsHymns"/>
+               
+               <Role id="People">            
+                  <Text>
+                     <Language id="Coptic">
+                        Ere pouc~mou eyouab swpi neman: a~m/n.
+                     </Language>
+                     <Language id="English">
+                        May their holy blessing be with us. Amen. 
+                     </Language>
+                     <Language id="Arabic">
+                        برَكَتُهُم المقدسةُ تكونُ مَعَنا. آمين.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Doxa ci Kurie~: Kurie~ e~le/~con Kurie~ e~le/~con: Kurie~ eulog/con Kurie~ a~napaucon: a~m/n.
+                     </Language>
+                     <Language id="English">
+                        Glory to You, O Lord. Lord have mercy. Lord have mercy. Lord, bless us. Lord, repose them. Amen.
+                     </Language>
+                     <Language id="Arabic">
+                        المجدُ لكَ ياربُّ، [ياربُّ لكَ المجدُ.] ياربُّ ارحَم. ياربُّ ارحَم. ياربُّ بارِكنا. ياربُّ نَيِّحْهُم. آمين.
+                     </Language>         
+                  </Text>
+               </Role>
+               
+               <Role id="Priest">
+                  <Comment>
+                     <Language id="English">
+                        After the commemoration of the departed, the priest, with his hands extended on high, continues.
+                     </Language>
+                     <Language id="Arabic">
+                        ثم يقول الكاهن هذا ويداه مبسوطتان إلى العلو بعد الترحيم.
+                     </Language>
+                  </Comment>
+               </Role>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="StBasilLiturgy">
+               <Role id="Priest">
+                  <Text>
+                     <Language id="Coptic">
+                        N/ men P[oic e~ak[i n~nou'u,/: mam~ton nwou: qen piparadicoc n~te p~ounof: qen t~,wra n~te n/etonq sa e~neh: qen Ieroucal/m n~te t~ve: qen pima e~te m~mau.
+                     </Language>
+                     <Language id="English">
+                        Those, O Lord, whose souls You have taken, repose them in the Paradise of joy, in the region of the living for ever, in the heavenly Jerusalem—in that place.
+                     </Language>
+                     <Language id="Arabic">
+                        أولئكَ ياربُّ، الذين أخَذَتَ نفوسَهُم، نيحْهُم في فردوسِ النعيمِ، في كورةِ الأحياءِ إلى الأبدِ، في أورشليم السمائيةِ، في ذلكَ الموضعِ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Anon de hwn qa n/etoi n~remn~jwili m~paima: a~reh e~ron qen peknah]: a~rih~mot nan n~tekhir/n/ sa e~bol.
+                     </Language>
+                     <Language id="English">
+                        And we, too, who are sojourners in this place, keep us in Your faith, and grant us Your peace unto the end.
+                     </Language>
+                     <Language id="Arabic">
+                        ونحنُ أيضاً الغرباءَ في هذا المكانِ، احفظْنا في إيمانِكَ، وانعِمْ لنا بسلامِكَ إلى التمامِ.
+                     </Language>         
+                  </Text>  
+               </Role>   
+            </Season>
+            
+            <Season id="StGregoryLiturgy">
+               <Role id="Priest">
+                  <Text>
+                     <Language id="Coptic">
+                        Arivmeui~ P[oic n~nike,wouni: e~tanerpoumeui~ m~pictoc: nem n/ on e~te m~penerpoumeui~ n~oryodoxoc. Nai e~te a~non nemwou hwc a~gayoc ouoh m~mairwmi Vnou].
+                     </Language>
+                     <Language id="English">
+                        Remember, O Lord, the others: those of the faithful whom we have remembered and those of the orthodox whom we have not remembered—them and us—as the Good One and Lover of Mankind, O God.
+                     </Language>
+                     <Language id="Arabic">
+                        أذكر ياربُّ الآخَرِينَ الذين ذكرناهم المؤمنين، وأيضاً الذين لم نذكرْهم الأرثوذكسيين. هؤلاء ونحنُ معهم، يا الله كصالحٍ ومحبِ البشرِ.
+                     </Language>         
+                  </Text>
+               </Role>
+               
+               <Role id="People">
+                  <Text>
+                     <Language id="Coptic">
+                        Bwl e~bol ,w e~bol: a~ricun,wrin nan Vnou] n~nenparaptwma: n/e~tanaitou qen penouws nem n/e~tanaitou qen penouws an.
+                     </Language>
+                     <Language id="English">
+                        Loose, remit, and forgive us, O God, our iniquities which we have committed willingly and which we have committed unwillingly,
+                     </Language>
+                     <Language id="Arabic">
+                        حِلْ وإغفرْ وإصفحْ لنا يا اللهُ عن زلاتِنا، التي صنعناها بإرادتِنا والتي صنعناها بغيرِ إرادتِنا. 
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        N/e~tanaitou qen oue~mi: nem n/e~tanaitou qen oumetate~mi:
+                     </Language>
+                     <Language id="English">
+                        which we have committed knowingly and which we have committed unknowingly;
+                     </Language>
+                     <Language id="Arabic">
+                        التي فعلناها بمعرفةٍ والتي فعلناها بغيرِ معرفةٍ.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        N/eth/p nem n/eyouwnh e~bol: P[oic eke~,au nan e~bol.
+                     </Language>
+                     <Language id="English">
+                        the hidden and the manifest, O Lord, remit for us.
+                     </Language>
+                     <Language id="Arabic">
+                        الخفياتِ والظاهراتِ، ياربُّ اغفرْها لنا.
+                     </Language>         
+                  </Text>
+               </Role>
+               
+               <Role id="Priest">
+                  <Text>
+                     <Language id="Coptic">
+                        Nyok gar pe Vnou] pina/t: v/eyouws m~v~mou an m~pirefernobi m~v~r/] n~tefkotf ouoh n~tefwnq.
+                     </Language>
+                     <Language id="English">
+                        For You are God the Merciful, who desires not the death of the sinner, but rather that he return and live.
+                     </Language>
+                     <Language id="Arabic">
+                        لأنكَ أنتَ هو اللهُ الرحومُ الذي لا يشاءُ موتَ الخاطئ مثل ما يرجعُ ويحيا.
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Matacyon Vnou] e~qoun e~pekoujai: a~rioui~ neman kata tekmeta~gayoc: v/eti~ri m~pihouo~ e~n/e~tene~retin m~mwou: ie n/e~tenka] e~rwou.
+                     </Language>
+                     <Language id="English">
+                        Restore us, O God, to Your salvation. Deal with us according to Your goodness, O You who do more than we ask or understand.
+                     </Language>
+                     <Language id="Arabic">
+                        ردَّنا يا اللهُ إلى خلاصِكَ، واصنع معنا كصلاحِكَ، يا مَنْ يصنعُ أكثرَ مما نسألُ أو نفهم.
+                     </Language>         
+                  </Text>
+               </Role>
+            </Season>
+         </Group>
+      </Season>      
+   </Group>   
+</Document>

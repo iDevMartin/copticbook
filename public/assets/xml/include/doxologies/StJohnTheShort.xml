@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheShort:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. John the Short</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس أنبا يؤانس القصير</Language>
+            <Language id="Coptic">Akswpi gar...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John the Short:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Akswpi gar n~ouvwct/r: n~refe~rouwini hijen pikahi: w~ pimakarioc e#y#u#: pao#c# n~iwt abba Iwann/c.
+            </Language>
+            <Language id="English">
+               For you have become a star, of light upon the earth, O blessed and holy one, my master and father Abba John.
+            </Language>
+            <Language id="Arabic">
+               صرت كوكبا منيرا على الأرض أيها الطوباوى الطاهر سيدى الآب أنبا يؤانس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hwcte hiten pekyebio~: nem pekbioc n~aggelikon: akes Sih/t t/rf n~ca pekt/b: m~v~r/] n~outeltili m~mwou.
+            </Language>
+            <Language id="English">
+               That through your humility, and angelic life, you made Shiheet like the stars, with your finger.
+            </Language>
+            <Language id="Arabic">
+               حتى أنك من قبل تواضعك وسيرتك الملائكية اعتبرت كل شيهات كنقطة ماء فى أصبعك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh akw~fi m~pekcwma: qen hanack/cic euqoci: san~tekswpi n~atkundinoc: qen pie~hoou n~te ]k~ricic.
+            </Language>
+            <Language id="English">
+               And you subdued your body, with many ascetic pains, so that you may be blameless, in the day of judgment.
+            </Language>
+            <Language id="Arabic">
+               وأقمت جسدك بنسك متعب لتكون بغير شدة فى يوم الدينونة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akswpi n~lum/n n~ououjai: nirefmwout aktounocou: nidemwn akhitou e~bol: n/etswni aktal[wou.
+            </Language>
+            <Language id="English">
+               You became a harbor of salvation, you have raised the dead, you have exorcised the demons, and you have healed the sick.
+            </Language>
+            <Language id="Arabic">
+               صرت ميناء خلاص أقمت الأموات وأخرجت الشياطين وشفيت المرضى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh on akerp~emp~sa: pao#c# n~iwt abba Iwann/c: n~tekhemci nem nia~poctoloc: n~tek]hap n~tekgenea.
+            </Language>
+            <Language id="English">
+               And also you were worthy, O my master and father Abba John, to sit with the Apostles, and judge your generation.
+            </Language>
+            <Language id="Arabic">
+               أيضا استحققت ياسيدى الآب أنبا يؤانس أن تجلس مع الرسل وتدين جيلك.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJohnTheShort"/>
+      </Section>
+   </Season>
+</Document>

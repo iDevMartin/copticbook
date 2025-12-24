@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">      
+      <Comment>
+         <Language id="English">
+            On the Entrance of the Flight of the Holy Family into Egypt:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V]: afi~ e~qoun e~t~,wra n~,/mi: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God, entered into the land of Egypt. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            ابن الله دخل الي كورة مصر. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

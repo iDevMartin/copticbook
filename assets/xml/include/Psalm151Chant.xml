@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Psalm 151</Language>
+         <Language id="Arabic">مزمور 151</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Doxaci o~Yeoc /~mwn. All/louia: Piw~ou va Pennou] pe.
+         </Language>
+         <Language id="English">
+            Glory be to God. Alleluia: Glory be to our God.
+         </Language>
+         <Language id="Arabic">
+            المجد لله. الليلويا. المجد هو لإلهنا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Anok pe pikouji n~q~r/i qen nac~n/ou: ouoh n~a~lou qen p~/i n~te paiwt: naia~moni n~nie~cwou n~te paiwt.
+         </Language>
+         <Language id="English">
+            I am small among my brothers: and a boy in my father’s house: I tended my father’s sheep.
+         </Language>
+         <Language id="Arabic">
+            أنا الصغير في اخوتي والحدث في بيت أبي ، كنت راعياً غنم أبي.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Najij auyamio~ nouorganon: ouoh nat/b auhwtp n~ou'alt/rion: A#l# (3).
+         </Language>
+         <Language id="English">
+            My hands made an organ: and my fingers tuned a psaltery: Alleluia (3).
+         </Language>
+         <Language id="Arabic">
+            يداى صنعتا الأرغن، وأصابعي ألفت المزمار،  الليلويا (3).
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh nim pe y~nas~tame Pa[oic: n~yof pe P~[#c#: n~yof safcwtem e~ouon nben etws e~h~r/i oub/f.
+         </Language>
+         <Language id="English">
+            And who shall tell my Lord? He is The Lord: He listens+ to everyone that cries up to Him.
+         </Language>
+         <Language id="Arabic">
+            من هو الذي يخبر سيدي ، هو الرب الذي يستجيب لجميع الذين يصرخون إليه.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            + Habitual tense meaning always listens; is used to listening.
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            N~yof afouwrp m~pefaggeloc: ouoh afolt e~bolqen nie~cwou n~te paiwt: ouoh afyahct qen v~neh n~te pefywhc: A#l# (3).
+         </Language>
+         <Language id="English">
+            He sent His angel, and took me from my father’s sheep: and anointed me with His anointing oil: Alleluia (3).
+         </Language>
+         <Language id="Arabic">
+            وهو أرسل ملاكه ورفعني من غنم أبي ، ومسحني بدهن مسحته،  الليلويا (3).
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nac~n/ou naneu ouoh hannis] ne: ouoh m~pef]ma] n~q/tou n~je P~[#c#.
+         </Language>
+         <Language id="English">
+            My brothers are handsome and great, but the Lord did not take pleasure in them.
+         </Language>
+         <Language id="Arabic">
+            أخوتي حسان وهم اكبر منى ، والرب لم يسر بهم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Aii~ e~bol e~h~ren piAllovuloc: afcahoui e~roi qen nefi~dwlon.
+         </Language>
+         <Language id="English">
+            I went out to meet the Philistine: and he cursed me with his idols.
+         </Language>
+         <Language id="Arabic">
+            خرجت للقاء الفلسطيني فلعني بأوثانه.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Anok de aiywkem n~tefc/fi et,/ n~totf aiw~li n~tef a~ve.
+         </Language>
+         <Language id="English">
+            But I drew his sword which he had+, and beheaded him++.
+         </Language>
+         <Language id="Arabic">
+            فاستليت سيفه الذي كان بيده ونزعت رأسه عنه.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            <ul>
+               <li>+ Lit. “which is in his hand”</li>
+               <li>++ Lit. “lifted his head”</li>               
+            </ul>
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh aiw~li n~ou[isipi e~bolqen nens/ri m~piIcra/l.
+         </Language>
+         <Language id="English">
+            And removed+ reapproach from the children of Israel.
+         </Language>
+         <Language id="Arabic">
+            ونزعت العار عن بني اسرائيل.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">               
+            + Lit. “lifted”
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Alleluia3"/>
+      <InsertDocument path="include/GloryBeToOurGodAgain"/>      
+   </Section>
+</Document>

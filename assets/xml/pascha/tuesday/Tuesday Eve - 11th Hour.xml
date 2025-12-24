@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday Eve (The Eleventh Hour)</Language>
+         <Language id="Arabic">ليلة الثلاثاء (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~jwrh m~Psomt (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Amos 5:6-14</Language>
+               <Language id="Arabic">عاموس 5: 6-14</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Amos"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Kw] n~ca P[oic ouoh eretene~wnq: hopwc n~tef stemswpi m~v~r/] n~ou,~rwm n~je p/i n~Iwc/v ouoh efe~ouomf: ouoh n~nefswpi n~je v/eyna[e~nof m~p~/i mp~Icra/l:
+               </Language>
+               <Language id="English">
+                  Seek the Lord and live, lest He break out like fire in the house of Joseph and devour it, with no one to extinguish the fire for the house of Israel.
+               </Language>
+               <Language id="Arabic">
+                  أطلبوا الرب فتحيوا. لئلا يتقد بيت يوسف كنار فيحترق وليس من يطفئ من بيت اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic eti~ri n~ouhap ep~[~ici ouoh af,w n~]meym/i hijen p~kahi: v/etoyamio~ n~hwb niben: ouoh efouw~teb m~mwou: ouoh efriki n~ouq/ibi n~hana~tooui~: ouoh efy~ro m~pie~hoou er,aki e~qoun e~pie~jwrh: 
+               </Language>
+               <Language id="English">
+                  The Lord is He who brings about justice on high and righteousness on the earth! "He makes all things. He transforms the darkness into the morning and makes the day dark as night;
+               </Language>
+               <Language id="Arabic">
+                  الرب يصنع حكماً فى العلى. ووضع العدل على الأرض. هو الذى خلق كل الأشياء وينقلها الذى يحول الظل صباحاً ويغشى النهار بالليل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/eymou] oube nimwou n~te v~iom ouoh efjws m~mof e~q~r/i e~jen p~ho m~p~kahi t/rf P[oic Vnou] pipantokratwr pe pefran:
+               </Language>
+               <Language id="English">
+                  He calls forth the waters of the sea and pours them out on the face of the earth. The Lord God Almighty is His name. 
+               </Language>
+               <Language id="Arabic">
+                  الذى يدعو مياه البحر فيفيضها على وجه الأرض كلها الرب الإله الضابط الكل هو أسمه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/etvwrj e~bol n~ouqomqem e~jen oujom: ouoh efi~ni n~outalepwrea~ e~jen ouma eftajr/out: aumecte v/etcohi qen nipul/ ouoh oucaji e~fouab auorbef.
+               </Language>
+               <Language id="English">
+                  He rains ruin upon the strong and brings misery upon the fortress. "They hated him who reproved in the gates and abhorred the upright word.
+               </Language>
+               <Language id="Arabic">
+                  المنزل الأنحطام على القوة ويأتى بالدمار على الموضع الحصين.لقد أبغضوا الموبخ فى الأبواب ونجسوا الكلام الطاهر. من أجل ذلك هذا ما يقول الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai vai pe m~vr/] e~tefjw m~moc n~je P[oic: je e~v~ma je areten]keh qen nia~v/oui~ n~te nih/ki: ouoh handwron eucwtp a~reten[itou n~totou. 
+               </Language>
+               <Language id="English">
+                  They tread upon the poor and take bribes from him. They built houses of hewn stone, yet they shall not dwell in them. 
+               </Language>
+               <Language id="Arabic">
+                  بـما أنكم ضربتـم المساكين على رؤسهـم. أخذتم منهم هدايا فاخرة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Han/i e~necwou a~reten kotou ouoh n~netenswpi n~q/tou: haniah a~loli eucwtp e~retene~[wou: ouoh n~netencw m~pou/~rp:
+               </Language>
+               <Language id="English">
+                  They planted pleasant vineyards, but they shall not drink wine from them.
+               </Language>
+               <Language id="Arabic">
+                  شيدتم بيوتا حسنة ولا تسكنون فيها. وغـرستم كروما مختارة ولا تشربون من خمرها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i aie~mi jeoum/s m~meta~ceb/c n~twten ouoh n~cejorj n~je netennobi: ouoh e~reten e~hwmi e~jen ouy~m/i: ouoh e~reten[i n~hansebiw~: ouoh e~retenriki n~hanh/ki e~bol qen nipul/.
+               </Language>
+               <Language id="English">
+                  For I know your many transgressions and the enormity of your sins, devouring the righteous and taking bribes, turning away the poor at the gate.
+               </Language>
+               <Language id="Arabic">
+                  فأنى عالم بنفاقكم الكثير وخطاياكم المتجددة. تـدوسون البـار وتـأخذون الرشوة وتصـدون البائسين من الأبواب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/eynaka] qen pic/ou e~tem~mau efe~harof: je ouc/ou efhwou pe. Kw] n~ca pipeynanef: ouoh pipethwou an: hopwc n~tetenwnq.
+               </Language>
+               <Language id="English">
+                  Because of this, the prudent keep silent in this time, for it is an evil time. Seek good and not evil so that you may live.
+               </Language>
+               <Language id="Arabic">
+                  لذلك يسكت العاقل فى ذلك الزمان لأنه زمان ردئ. فاطلبوا الخير لا الشر لتحيوا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 122:4</Language>
+               <Language id="Arabic">مزمور 122: 4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Etausenwou gar e~p~swi m~mau n~je nivul/: nivul/ n~te P[oic: 
+               </Language>
+               <Language id="English">
+                  There the tribes went up, the tribes of the Lord, 
+               </Language>
+               <Language id="Arabic">
+                  لأنه هناك صعدت القبائل. قبائل الرب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  eumetmeyre m~p~Icra/l: euouwnh e~bol m~v~ran m~P[oic: All/louia.
+               </Language>
+               <Language id="English">
+                  A testimony to Israel, to give thanks to the name of the Lord. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  شهادة لاسرائيل. يعترفون لإسم الرب. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 13:32-14:2</Language>
+            <Language id="Arabic">مرقس 13: 32-14: 2</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Eybe pie~hoou de e~te mmau nem ]ounou m~mon h~li e~mi e~rwou oude niaggeloc n/etqen t~ve: oude p~s/ri e~b/l e~Viwt:
+               </Language>
+               <Language id="English">
+                  “But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
+               </Language>
+               <Language id="Arabic">
+                  فأما ذلك اليوم وتلك الساعة فلا يعلمهما أحد ولا الملائكة الذين فى السماء ولا الإبن الا الأب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Joust e~bol rwic ouoh a~rip~roceu,ecye n~teten cwoun gar an je y~nau pe pic/ou:
+               </Language>
+               <Language id="English">
+                  Take heed, watch and pray; for you do not know when the time is.
+               </Language>
+               <Language id="Arabic">
+                  أنظروا وأسهروا وصلوا لأنكم لا تعلمون متى يكون الزمان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] n~ourwmi e~afmosi e~psemmo ouoh e~af,w m~pef/i ouoh af] n~nefe~biaik m~piersisi v~ouai v~ouai m~pefhwb ouoh afhonhen e~totf m~pim~nout hina n~tefrwic.
+               </Language>
+               <Language id="English">
+                  It is like a man going to a far country, who left his house and gave authority to his servants, and to each his work, and commanded the doorkeeper to watch.
+               </Language>
+               <Language id="Arabic">
+                  كمثل أنسان مسافر فترك بيته وأعطى عبيده السلطان كل واحد فى عمله وأوصى البواب بالسهر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rwic oun je n~tetencwoun gar an je a~re P[oic m~pi/i n/ou n~y~nau ie han a~rouhi ie tvasi m~pie~jwrh ie e~re pia~lektwr mou] ie hana~tooui~: M/pwc n~tefi~: n~ouho] qenouho] n~tefjem y/nou e~retenn~kot: 
+               </Language>
+               <Language id="English">
+                  Watch therefore, for you do not know when the master of the house is coming—in the evening, at midnight, at the crowing of the rooster, or in the morning—lest, coming suddenly, he find you sleeping.
+               </Language>
+               <Language id="Arabic">
+                  فأسـهروا إذا لأنكم لا تعلمون متى يأتى رب البيت. أفى المساء. أم فى نصف الليل. أم عند صياح الـديك. أم فى الصباح. لئلا يأتى بغته فيجدكم نياماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pe]jw m~mof nwten ]jw m~mof n~ouon niben rwic. Ne piPac,a de pe nem niatsem/r menenca e~hoou c~nau.
+               </Language>
+               <Language id="English">
+                  And what I say to you, I say to all: Watch!” After two days it was the Passover and the Feast of Unleavened Bread.
+               </Language>
+               <Language id="Arabic">
+                  وما أقوله لكم أقوله للجميع أسهروا. وكان الـفصح والفطير بعد يـومين
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naukw] pe n~je niar,/e~reuc nem nicaq je pwc n~toua~moni m~mof qen ou,rof n~tou qoybef: 
+               </Language>
+               <Language id="English">
+                  And the chief priests and the scribes sought how they might take Him by trickery and put Him to death. 
+               </Language>
+               <Language id="Arabic">
+                  وكان رؤسـاء الكهـنة والكتبة يطلبون كيف يمسكونه بمكر ليقتلوه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naujw gar m~moc pe je m~peny~renaic qen p~sai m/pote n~te ous~yorter swpi qen pilaoc.
+               </Language>
+               <Language id="English">
+                  But they said, “Not during the feast, lest there be an uproar of the people.”
+               </Language>
+               <Language id="Arabic">
+                  ولكنهم قالوا لا نفعل هذا فى العيد لئلا يكون شغب فى الشعب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  You alone, O Omniscient God, has the knowledge of everything before its being: the epochs, the years, the times, and the past generation. Listen to our Savior—who with His divine mouth—proclaims: 
+               </Language>
+               <Language id="Arabic">
+                  أنت وحدك أيها المدبر العالم بسائر الأشياء قبل كون جميعها ، والأزمنه  والسنين وكل الأوقآتٍ والأجيال الماضية أنت العالم بها. أسمعوا مخلصنا يقول علانية بفمه الإلهى هكذا قائلاً : 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  "But of that day and that hour no one knows, not even the angels in heaven, nor the Son, but only the Father knows it." Watch at all times because you do not know when it shall be.
+               </Language>
+               <Language id="Arabic">
+                  من أجل ذلك اليوم وتلك الساعة التى يأتى فيها إبن الإنسان. أنه ليس أحد من سائر البشر ولا الملائكة يعلمهما و الإبن أيضاً لا يعلمهما الآب فقط العارف بكل شئ. فأسهروا كل حين وصلوا فأنكم لستم تعلمون متى يكون الوقت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Lest he makes a surprise visit and finds you asleep. Be careful and safeguard against hidden traps.
+               </Language>
+               <Language id="Arabic">
+                  لئلا يأتى بغته فيجدكم نياماً. فاحترزوا وأحفظوا ذواتكم لكى تخلصوا من الفخاخ المنصوبة.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

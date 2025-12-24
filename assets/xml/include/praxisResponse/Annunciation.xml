@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Annunciation">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere y/e~tacjem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Annunciation:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/e~tacjem h~mot: P[oic sop neme: ,ere y/e~tac[i n~ten piaggeloc: m~v~rasi m~pikocmoc
+            </Language>
+            <Language id="English">
+               Hail to her who has found grace, the Lord is with you. Hail to her who received from the Angel, the joy of the world.
+            </Language>
+            <Language id="Arabic">
+               السلام للتى وجدت نعمة ، الرب معك ، السلام للتى قبلت من الملاك فرح العالم.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

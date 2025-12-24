@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Lwiji niben...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Coptic New Year:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Lwiji niben ethwou maren,au n~cwn marentoubo n~nenh/t e~qoun e~v~ran m~P~[oic.
+            </Language>
+            <Language id="English">
+               All evil excuses, let us place behind us, let us purify our hearts, in the name of the Lord.
+            </Language>
+            <Language id="Arabic">
+               كل العلل الردية فلنتركها عنا ولنطهر قلوبنا باسم الرب.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Mare v~ran m~P[oic swpi n~q~r/i n~q/ten n~tef erouwini e~ron qen penrwmi etcaqoun.
+            </Language>
+            <Language id="English">
+               May the name of the Lord be within us, to enlighten us in our inner luminosity.
+            </Language>
+            <Language id="Arabic">
+               ليكن اسم الرب فينا ليضئ علينا في انساننا الداخلي.
+            </Language>         
+         </Text>
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

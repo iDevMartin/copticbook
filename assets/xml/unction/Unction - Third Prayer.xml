@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction3="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Third Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة الثالثة)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the third priest light the third lamp and say the third prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة الثالثة ويقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Seasons"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 Corinthians 12:28-13:8" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout P[oic Pennou] pia~gioc: pic/ini n~te nen'u,/: qen neklale,/mi anoujai: w~ pimane~cwou eynanef e~tafkw] n~ca pie~cwou etcwrem: v/et] n~ounom] n~n/etoi n~kouji n~h/t.
+            </Language>
+            <Language id="English">
+               Blessed are You, O Lord the Holy One, the Physician of our souls. By Your stripes we are healed, O Good Shepherd, Who seek the sheep that is lost; Who give consolation to the faint-hearted.  
+            </Language>      
+            <Language id="Arabic">
+               تباركتَ ايها الربُ الهنا الصالحُ، طبيب انفسِنا. بجراحاتِك شفينا ايها الراعى الصالح، الذى طلبَ الخروفَ الضالَ. يا معزى صغيرى القلوبِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               v/e~taftal[o n~t~swmi n~Cimwn qen pecq~mom eynast: ouoh pic~nof efsat e~bol qaroc e~bol qen pecswni n~ar,eoc: v/e~tafy~re t~seri n~]&lt;ananea~ erremhe e~bol qen pip~neuma n~a~kayarton.
+            </Language>
+            <Language id="English">
+               Who healed the mother-in-law of Peter in her grievous fever; and the issue of her who suffered from her long-standing disease; Who delivered the daughter of the woman of Canaan from the unclean spirit. 
+            </Language>      
+            <Language id="Arabic">
+               الذى ابرأ حماةَ سمعان من حمتِها الصعبةِ، والنازفَة الدم من مرضِها القديم والذى عتقَ ابنةَ الكنعانيةِ من الروحِ النجسِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/et,w e~bol m~pidanict/c m~peterof: v/e~taf,w e~bol n~]porn/ nem pi[ale: v/e~tafy~maio~ m~pitelwn/c:
+            </Language>
+            <Language id="English">
+               Who forgave the debtor that which he owed, Who forgave the harlot, and the lame man; Who justified the publican; 
+            </Language>      
+            <Language id="Arabic">
+               الذى تركَ للغريِم الدين الذى عليه. الذى غفرَ للزانيةِ خطاياها. الذى بررَ العشارَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafswp e~rof n~]o~mologia~ n~te piconi qen t~qae~ n~te pefwnq: ouoh aferh~mot naf m~piparadicoc: v/etw~li m~v~nobi m~pikocmoc: v/e~tau]ift naf hijen pic~tauroc qen pefouws m~min m~mof.
+            </Language>
+            <Language id="English">
+               Who accepted the confession of the thief at the end of his life, and bestowed paradise upon him; Who took away the sin of the world; Who were nailed to the Cross of Your own will. 
+            </Language>      
+            <Language id="Arabic">
+               الذى قبلَ اليه اعترافَ اللصِ فى آخرِ حياتِه. وانعم عليه بالفردوسِ. الذى حمل خطايا العالمِ. الذى سُمِرَ على الصليبِ بارادتِه وحده.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ten]ho ouoh tentwbh m~mok ouoh tene~pikalicye ouoh tenws oub/k: eyrek,w e~bol )nim): nem anon hwn qa neke~biaik n~nena~nomia~ t/rou n~aidion ouoh n~ataidion.
+            </Language>
+            <Language id="English">
+               We pray and entreat You, and call upon You and cry unto You to forgive the sins of (...), and us also Your servants, all our iniquities, whether personal or impersonal,  
+            </Language>      
+            <Language id="Arabic">
+               نسأل ونطلب اليك. ونتضرع ونصرخ نحوك، لكى تغفر لعبدك (...) ولنا نحنُ عبيدُك جميعَ آثامِنا، الذاتية وغير الذاتية. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ite qen oue~mi: i~te qen oumetate~mi: na pie~jwrh nem na pie~hoou: n/e~taui~ e~bol n~q/ten: nem n/e~taui~ e~h~r/i e~jwn e~bol hiten hankeouon: n/e~te e~bol qen niecyecic eyouwnh nem nip~roherecic eth/p: n/e~te e~bol qen nijinkim n~te pip~neuma nem picwma.
+            </Language>
+            <Language id="English">
+               whether in knowledge or ignorance, those of night and those of day, which have come forth from ourselves, and which have come upon us through others, those of open-perception and those of hidden deliberation, those from the motions of the soul and of the body.   
+            </Language>      
+            <Language id="Arabic">
+               ان كان بمعرفةٍ أو بغيرِ معرفةٍ، الليلة والنهارية، التى أتت منا والتى وردت علينا من آخرين، التى من الحواسِ الظاهرةِ أو الضمائرِ المخفيةِ، التى من حركات الروح او الجسد. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je n~yok ounou] n~a~gayoc ouoh m~mairwmi: matoubo n~nenparap~twma t/rou: ouoh [imwit qajwn ouoh matoten: hina n~tenmosi qen nimwit n~te piwnq n~e~neh: v~mwit an n~te v~mou n~e~w~nion.
+            </Language>
+            <Language id="English">
+               For You are a good God and Lover of Mankind; cleanse all our transgressions, and guide us and help us that we may walk in the ways of eternal life and not the way of eternal death.   
+            </Language>      
+            <Language id="Arabic">
+               لأنكَ الهٌ صالحٌ، محبٌ للبشرِ. طهرنا من كلِّ زلاتِنا واهدنا وساعدنا لكى نسلكَ فى طريقِ الحياةِ الابديةِ، لا طريق الموت الدهرى.  
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aha P[oic a~ricun,wrin m~pekbwk (nim): n~nefparap~twma t/rou mah rwf e~bol qen pekc~mou: ouoh coutwn nefjij e~bol e~p~jini~ri n~nekentol/.
+            </Language>
+            <Language id="English">
+               Yea, O Lord, pardon Your servant (...) all his transgressions, and fill him with Your blessing, and direct his hands to do Your commandments.
+            </Language>      
+            <Language id="Arabic">
+               نعم يارب سامح عبدَك (...) بجميعِ زلاتِه. إملأ فاه من تسبحتِكَ. وابسط يديه إلى فعلِ وصاياك.
+            </Language>
+         </Text>         
+         
+         <Text>
+            <Language id="Coptic">
+               Cebte nef[alauj e~piman[oji n~te pioujai: a~ricobt e~nefmeloc nem nefmeui~ qen tekjom.
+            </Language>
+            <Language id="English">
+               Guide his feet into the path of health; fence his members and his thoughts with Your power.  
+            </Language>      
+            <Language id="Arabic">
+               هيئ أقدامَه إلى سبيلِ الخلاصِ. حصن أعضاءَه وافكارَه بقوتِكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyok P[oic akjoc nan hiten neka~poctoloc eyouab: je n/e~tetennaconhou hijen pikahi: eue~swpi euconh qen niv/oui~: ouoh n/e~tetennabolou e~bol hijen pikahi: eue~swpi eub/l qen niv/oui~.
+            </Language>
+            <Language id="English">
+               You, O Lord, said unto us through Your holy apostles, “Whatsoever ye shall bind on earth shall he bound in heaven, and whatsoever ye shall loose on earth shall be loosed in heaven.”
+            </Language>      
+            <Language id="Arabic">
+               انت يارب قلت لنا على ايدى رسلِكَ الاطهار: ”إن كل ما تربطونه على الارضِ يكون مربوطاً فى السمواتِ، وما تحلونه على الارضِ يكون محلولاً فى السمواتِ.“
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh akjoc on je n/e~tetenna,a nounobi nwou e~bol: ce ,/ nwou e~bol.
+            </Language>
+            <Language id="English">
+               And again You said, “Whose soever sins ye shall remit, they are remitted unto them.” 
+            </Language>      
+            <Language id="Arabic">
+               وايضا قلتَ ”إن من غفرتم له خطاياه غفرت له.“ 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Mv~r/] e~takcwtem e~Iezekiac qen pihojhej n~te tef'u,/: qen ]ounou n~te pefmou: ouoh m~pekeratcwtem n~ca pef]ho.pair/] on cwtem e~roi a~nok qa pekbwk n~e~la,ictoc qen taiounou yai: ouoh nai m~pekbwk (nim): ouoh icje nefnobi aua~sai e~masw: je n~yok akouahcahni m~pi,w e~bol sasf n~cop s~be.
+            </Language>
+            <Language id="English">
+               Even as You heard Hezekiah in the affliction of his soul in the hour of his death, and were not deaf to his prayers; so again hear me the least of Your servants in this hour, and have mercy on Your servant (...) and if his sins be many, command their forgiveness unto seventy times seven.
+            </Language>      
+            <Language id="Arabic">
+               وكما سمعت لحزقيا عند ضيقةِ نفسِه فى ساعةِ موتِه ولم تعرض عن طلبته،كذلك ايضا اسمعنى انا عبدك المسكين فى هذه الساعة، وارحم عبدك (...) وان كانت خطاياه قد كثرتْ جداً، لانكَ أمرت بالغفرانِ سبع مرات سبعين مرة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh tenouwrp m~piseph~mot n~neknai nem tekmetnis]: nem piw~ou nak nem Pekiwt n~a~gayoc n~atar,/: nem Pekp~neuma eyouab n~reftanqo: ]nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               And we offer thaksgiving for Your mercies and Your greatness, and glory unto You and Your Good Father without beginning, and Your Holy Life-Giving Spirit. Now and ever, and unto the age of all the ages. Amen.
+            </Language>      
+            <Language id="Arabic">
+               ونرسلُ الشكرَ لمراحمِكَ ولعظمتِكَ. ولك المجدُ مع ابيكَ الصالح غير المبتدىء، وروحك القدوس المحيى، الآن وكل أوانٍ وإلى دهرِ الدهورِ. آمين.
+            </Language>
+         </Text>
+      </Role>      
+   </Section>
+</Document>

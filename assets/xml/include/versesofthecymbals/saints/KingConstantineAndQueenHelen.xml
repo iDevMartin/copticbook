@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KingConstantineAndQueenHelen:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of King Constantine and Queen Helen:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: Pa[oic p~ouro Kwctantinoc: nem ?lan/ ]ourw: nimenra] n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Blessed are you in truth: my lord King Constantine: and Helen the Queen: the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة يا سيدي الملك قسطنطين والملكة هيلانة حبيبي المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

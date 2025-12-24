@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">Three Great Litanies</Language>
+      <Language id="Arabic">الثلاث الأواشي الكبار</Language>
+   </Title>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   
+   <InsertDocument path="include/litanies/Peace"/>
+   <InsertDocument path="include/litanies/Fathers"/>
+   <InsertDocument path="include/litanies/Assemblies"/>
+</Document>

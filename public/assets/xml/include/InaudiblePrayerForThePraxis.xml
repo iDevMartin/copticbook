@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Title>
+         <Language id="English">Inaudible Prayer for the Praxis</Language>
+         <Language id="Arabic">اوشية بخور الابركسيس</Language>         
+      </Title>
+      
+      <Role id="Priest" silent="true">         
+         <Comment>
+            <Language id="English">
+               After completing the litany for the sacrifices, and during the reading of the Acts, the priest makes the sign of the cross over the incense box, and says:
+            </Language>
+            <Language id="Arabic">
+               وبعد إتمام أوشية القرابين وفي أثناء تلاوة الإبركسيس يرشم الكاهن درج البخور رشماً واحداً وهو يقول:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/GloryAndHonor"/>
+         
+         <Group>
+            <Season id="SecondProstration">
+               <Comment>
+                  <Language id="English">
+                     The priest, while standing in his place, puts a spoonful of incense and prays the following inaudible prayer of the Praxis:
+                  </Language>
+                  <Language id="Arabic">
+                     أثناء وقوف الكاهن فى مكانه، يضع  يد بخور ويصلى سر بخور الإبركسيس سرا:
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     He puts one spoonful of incense into the censer, and while standing before the altar and censing it, says this Prayer of the Acts inaudibly.
+                  </Language>
+                  <Language id="Arabic">
+                     ويضع يداً واحدة من البخور في المجمرة ويقف قدَّام المذبح ويبخر وهو يقول سر الإبركسيس وهو هذا:
+                  </Language>
+               </Comment>      
+            </Season>
+         </Group>
+             
+         <InsertDocument path="include/SilentPrayerPraxisPart"/>
+         
+         <Group>
+            <Season id="SecondProstration">
+               <InsertDocument path="prostration/include/SilentProcession"/>
+            </Season>
+         </Group>
+      </Role>
+      
+      <InsertDocument path="include/SilentPriestProcession"/>
+      
+      <Role id="Priest" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Cmou n~na[oic n~io] n~a~poctoloc e~te peniwt Petroc nem pencaq Pauloc nem p~cepi n~te nimay/t/c: e~re pouc~mou eyouab swpi neman: a~m/n.
+            </Language>
+            <Language id="English">
+               A blessing of my lords and fathers the apostles, namely, our father Peter and our teacher Paul, and the rest of the disciples. May their holy blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               بركة سادتي الآباء الرسل، أي أبينا بطرس ومعلمِنا بولس وبقيةِ التلاميذ، بركتهم المقدسة تكون معنا. آمين.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then the priest returns and stands before the door of the sanctuary and censes three times to the East, saying inaudibly the Prayer of the Confession of the people, “O God, who accepted the confession of the thief …” (<span class="Coptic">Vnou] v/etafswp e~rof</span>). Then the priest hands the censer to the deacon and makes a prostration to God. 
+            </Language>
+            <Language id="Arabic">
+               ثم يعود إلى باب الهيكل ويقف أمامه ويقول سر اعتراف الشعب  <span class="Coptic">Vnou] v/etafswp e~rof</span>  (يا الله الذي قَبِل إليه اعتراف اللص) ثم يناول المجمرة للشماس، ويسجد لله. وبعد قراءة الإبركسيس يُقرأ السنكسار.
+            </Language>
+         </Comment>
+      </Role>
+   </Section>
+</Document>

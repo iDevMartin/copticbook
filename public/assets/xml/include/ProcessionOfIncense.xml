@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">        
+      <Title>
+         <Language id="English">Prayer of Incense to the Son</Language>            
+         <Language id="Arabic">اوشية بخور للابن</Language>
+      </Title>
+                
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">
+               The priest goes up to the altar placing his right foot first and takes the incense box into his hand, and inclining his head toward his fellow priests, says:
+            </Language>
+            <Language id="Arabic">
+               وفي اثناء ذلك يصعد الكاهن إلى المذبح برجله اليمنى ويأخذ درج البخور بيده ويطامن نحو الكهنة برأسه ويقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Eulogite.
+            </Language>
+            <Language id="English">
+               Bless (ye).
+            </Language>
+            <Language id="Arabic">
+               بارِكوا.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               If there is one priest present with him, he says: 
+            </Language>
+            <Language id="Arabic">
+               وإذا كان الحاضر عنده كاهن واحد يقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Eulog/con.
+            </Language>
+            <Language id="English">
+               Bless (you).
+            </Language>
+            <Language id="Arabic">
+               بارِكْ.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Inclining their heads toward the serving priest, the fellow priests answer: 
+            </Language>
+            <Language id="Arabic">
+               ثم يطامنون هم أيضاً رؤوسهم ويجاوبونه قائلين:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyok eulog/con.
+            </Language>
+            <Language id="English">
+               May you bless.
+            </Language>
+            <Language id="Arabic">
+               أنت بارِكْ.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then the priest turns to the altar and puts the incense box in its place, and laying his finger upon it, says:
+            </Language>
+            <Language id="Arabic">
+               ثم يلتفت إلى المذبح ويضع درج البخور مكانه ويضع إصبعه عليه ويقول:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/KhenEfran"/>
+         
+         <Comment>
+            <Language id="English">
+               Having made the sign of the cross over the incense box, the priest puts the first spoonful of incense into the censer, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يرشم الدرج ويضع البخور في المجمرة يداً أولى وهو يقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Fc~marwout n~je Vnou] Viwt pipantokratwr: a~m/n.
+            </Language>
+            <Language id="English">
+               Blessed be God the Father, the Pantocrator. Amen.
+            </Language>
+            <Language id="Arabic">
+               مباركٌ الله الآب ضابطُ الكل. آمين.
+            </Language>
+         </Text>            
+      </Role>
+      
+      <Role id="Deacon" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Am/n.
+            </Language>
+            <Language id="English">
+               Amen.
+            </Language>
+            <Language id="Arabic">
+               مين.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">
+               The priest, making the sign of the cross again, puts a second spoonful of incense into the censer, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يرشم ويضع البخور يداً ثانية وهو يقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Fc~marwout n~je pefmonogen/c n~S/ri I/couc Pi,rictoc Pen[oic: a~m/n.
+            </Language>
+            <Language id="English">
+               Blessed be His only-begotten Son, Jesus Christ our Lord. Amen.
+            </Language>
+            <Language id="Arabic">
+               مباركٌ ابنُه الوحيدُ يسوعُ المسيح ربنا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Am/n.
+            </Language>
+            <Language id="English">
+               Amen.
+            </Language>
+            <Language id="Arabic">
+               مين.
+            </Language>         
+         </Text>
+      </Role>
+       
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">
+               If there are fellow priests, then each one puts in a spoonful of incense a second time. Then, making the sign of the cross, the serving priest puts a third spoonful of incense into the censer, saying:
+            </Language>
+            <Language id="Arabic">
+               وإن كان معه شركاء فاليد الثانية لهم جميعاً واحداً بعد واحد، ثم يرشم رشماً ثالثاً ويضع البخور يداً ثالثةً ويقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               F~c~marwout n~je Pip~neuma eyouab m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Blessed be the Holy Spirit, the Paraclete.  (Amen.)
+            </Language>
+            <Language id="Arabic">
+               مباركٌ الروحُ القدس المعزِّي. (آمين).
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Am/n.
+            </Language>
+            <Language id="English">
+               Amen.
+            </Language>
+            <Language id="Arabic">
+               مين.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <Group>
+            <Season id="FirstProstration">
+               <Comment>
+                  <Language id="English">
+                     The priest puts four spoonfuls of incense into the censor. Then he puts the fifth spoonful in the pottery vessel, while praying the following inaudibly: 
+                  </Language>
+                  <Language id="Arabic">
+                     يضع الكاهن أربع أيادى بخور فى المجمرة ثم يضع اليد الخامسة فى وعاء البخور الفخار وهو يصلى الآتى سراً:
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     Then the priest puts two spoonfuls of incense into the censer, without making the sign of the cross, and says:
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يضع يدي بخور أيضاً بلا رشم وهو يقول:
+                  </Language>
+               </Comment>      
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/GloryAndHonor"/>
+         
+         <Group>
+            <Season id="FirstProstration | ThirdProstration">
+               <InsertDocument path="prostration/include/SilentProcession"/>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="Vespers">
+               <InsertDocument path="include/ProcessionOfIncense_Vespers"/>
+            </Season>
+            
+            <Season id="Matins">
+               <InsertDocument path="include/ProcessionOfIncense_Matins"/>
+            </Season>
+         </Group>
+      </Role>
+      
+      <Role id="Deacon" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Proceuexacye u~per t/c yuciac /~mwn p~rocverontwn.
+            </Language>
+            <Language id="English">
+               Pray for our sacrifice and those who have brought it.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجلِ ذبيحتنا، والذين قدموها. 
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/SilentPriestProcession"/>
+   </Section>
+</Document>

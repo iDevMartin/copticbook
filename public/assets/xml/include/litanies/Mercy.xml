@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">      
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of Mercy</Language>         
+      </Title>
+      
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Nem refsemsi niben: nem n/ t/rou etqen ]paryenia: nem outoubo m~peflaoc t/rf m~pictoc.
+                  </Language>
+                  <Language id="English">
+                     And all the servants, and all who are in virginity, and the purity of all Your faithful people.
+                  </Language>
+                  <Language id="Arabic">
+                     وكل الخدام، وكل الذين في البتولية، وطهارة كل شعبك المؤمن
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     +A~riv~meui~ P[oic n~teknai nan t/rou eucop.
+                  </Language>
+                  <Language id="English">
+                     +Remember, O Lord, to have mercy upon us all.
+                  </Language>
+                  <Language id="Arabic">
+                     (أذكر يارب أن ترحمنا كلنا معاً)+
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     +Said by the Pope, a metropolitan, or a bishop, if present.
+                  </Language>
+                  <Language id="Arabic">
+                     +يقولها الأب البابا أو المطران أو الأسقف إذا كان حاضراً.
+                  </Language>
+               </Comment>
+            </Role>
+            
+            <Role id="People">
+               <Text>
+                  <Language id="Coptic">
+                     E~le/~con /~mac o~ Yeoc o~ Pat/r o~ Pantokratwr.
+                  </Language>
+                  <Language id="English">
+                     Have mercy upon us, O God, the Father, the Pantocrator.
+                  </Language>
+                  <Language id="Arabic">
+                     ارحمنا يا الله الأب، ضابط الكل
+                  </Language>         
+               </Text>
+            </Role>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Nia~nagnwct/c: ni'alt/c: niexorgict/c: nimona,oc: niparyenoc: ni,/ra: niorvanoc: niegkrat/c: nilaikoc: nem e~h~r/i e~jen v~moh t/rf n~te tekekk~l/cia eyouab: Vnou] n~te nipictoc.
+                  </Language>
+                  <Language id="English">
+                     And the readers, the chanters, the exorcists, the monks, the virgins, the widows, the orphans, the ascetics, the laity, and all the fullness of Your holy Church, O God of the faithful.
+                  </Language>
+                  <Language id="Arabic">
+                     والأغنسطسيينَ، والمرتلينَ، والقرائينَ، والرهبانِ، والعذارَى، والأراملِ، والأيتامِ، والمتنسكين والعلمانيين، وعن كلِّ إمتلاءِ كنيستِكَ المقدسةِ يا إلهَ المؤمنين.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/LordHaveMercy"/>
+         </Season>
+      </Group>
+   </Section>   
+</Document>

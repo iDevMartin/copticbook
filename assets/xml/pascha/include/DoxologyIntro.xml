@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/LordHaveMercyNoRole"/>
+
+   <Text>
+      <Language id="Coptic">
+         Ywk te ]jom nem piw~ou nem pic~mou nem pia~mahi sa e~neh a~m/n: Emmanou/l Pennou] penouro.
+      </Language>
+      <Language id="English">
+         Thine is the power, the glory, the blessing, the majesty forever. Amen. Immanuel our God and king. 
+      </Language>
+      <Language id="Arabic">
+         لك القوة والمجد والبركة والعزة إلى الأبد آمين عمانوئيل إلهنا وملكنا.
+      </Language>
+   </Text>
+</Document>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true">
+   <Title>
+      <Language id="English">The Prayer at the Tomb</Language>
+      <Language id="Arabic">الصلاة على القبر</Language>
+   </Title>
+   
+   <InsertDocument path="funeral/include/Introduction"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/agpeya/Trisagion"/>
+      <InsertDocument path="include/Creed"/>
+   </Role>
+   
+   <Role id="Bishop">
+      <Section>
+          <Title>
+            <Language id="English">Litany of the Departed Patriarch / Metropolitan / Bishop</Language>
+         </Title>
+         
+          <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic m~pekbwk abba (nim) pipatriar,/c (ie pimetropolit/c ie pie~pickopoc).
+            </Language>
+            <Language id="English">
+               Remember O Lord, Your servant Abba (...) the patriarch (or metropolitan or bishop) 
+            </Language>
+            <Language id="Arabic">
+               اذكر يارب عبدك أنبا (...) البطريرك (أو المطران أو الأسقف) 
+            </Language>
+         </Text>
+         
+          <Text>
+            <Language id="Coptic">
+               Mv~r/] e~tafsemsi hijen pekyucia~ct/rion eyouab qen outoubo nem oumeym/i nem oucwouten n~te pefh/t. 
+            </Language>
+            <Language id="English">
+               even as he has served at Your holy altar in purity and truth and uprightness of heart. 
+            </Language>
+            <Language id="Arabic">
+               كما خدم على مذبحك المقدس بطهارة وعدل وقلب مستقيم
+            </Language>
+         </Text>
+         
+          <Text>
+            <Language id="Coptic">
+               Ouoh mam~ton n~tef'u,/: qen nima n~te p~wnq qen piounof n~atsib]: qen pimeroc n~te pik~l/roc n~te nia~gioc: qen pirasi n~ats~caji m~mof v/eymeh n~w~ou.
+            </Language>
+            <Language id="English">
+               And repose his soul in the places of life in the joy that is unchangeable, in the portion of the lot  of the saints; in the indescribable joy, which is full of glory; 
+            </Language>
+            <Language id="Arabic">
+               ونيح نفسه. في مواضع الحياة في الفرح الذي لايتغير، في نصيب ميراث القديسين، في الفرح الذي لا يوصف المملوء مجدا. 
+            </Language>
+         </Text>
+         
+          <Text>
+            <Language id="Coptic">
+               Qen ]ekk~l/cia~ n~te nisorp m~mici etqen niv/oui~: qen Pi,~rictoc I/couc Pen[oic.
+            </Language>
+            <Language id="English">
+               in the church of the firstborn, in the heavens; in Christ Jesus our Lord
+            </Language>
+            <Language id="Arabic">
+               في كنيسة الأبكار التي في السموات، بربنا يسوع المسيح. 
+            </Language>
+         </Text>
+         
+          <Text>
+            <Language id="Coptic">
+               Vai e~tekc~marwout nemaf nem Pip~neuma e~youab sae~neh a~m/n.
+            </Language>
+            <Language id="English">
+               [with] whom You are blessed together the Holy Spirit, forever. Amen.  
+            </Language>
+            <Language id="Arabic">
+               هذا الذي تباركت منعه والروح القدس آمين.
+            </Language>
+         </Text>
+       </Section>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            V~n/b P[oic Vnou] pipantokratwr  ~Viwt m~Pen[oic ouoh Pennou] ouoh Pencwt/r I/couc Pi,~rictoc: ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: eybe pekbwk: (nim): vai e~tafi~ e~bol qen cwma.
+         </Language>
+         <Language id="English">
+            O Master, Lord, God the Pantocrator, the Father of our Lord, God and Saviour Jesus Christ, we ask and entreat Your goodness, O Lover of Mankind, for Your servant (...), who has departed from the body, 
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الإله الضابط الكل أبو ربنا وإلهنا ومخلصنا يسوع المسيح، نسأل ونطلب من صلاحك يا محب البشر عن عبدك (...) الذي قد خرج من الجسد
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Hopwc n~tekouwrp qajwf n~ouaggeloc n~te v~nai: ouaggeloc n~te ]dikeo~cun/: ouaggeloc n~te ]hir/n/: eyrouenf e~qoun sarok n~aterho].
+         </Language>
+         <Language id="English">
+            that You will send to meet him an angel of mercy, an angel of righteousness, an angel of peace, to bring him unto You without fear.  
+         </Language>
+         <Language id="Arabic">
+            لكي ترسل أمامه ملاك الرحمة، ملاك العدل، ملاك السلامة، ليقدموه إليك بغير خوف. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nefsoft n~lac t/rou nem nefparap~twma t/rou ,au naf e~bol.
+         </Language>
+         <Language id="English">
+            The impieties of his tongue, and all his transgressions, forgive him.
+         </Language>
+         <Language id="Arabic">
+            جميع غلطات لسانه وكل زلاته أتركها له
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marouvwt e~bol n~je nim~nout n~refcaji n~ho] e~bol harof.
+         </Language>
+         <Language id="English">
+            Let the gatekeepers who speak against him flee from him  in fear.  
+         </Language>
+         <Language id="Arabic">
+            ليهرب الخدام الذين يتكلمون عنه بالخوف.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marefkwrf n~je p~co[ni n~te piantikimenoc.
+         </Language>
+         <Language id="English">
+            Let the counsel of the adversary be brought to nought.
+         </Language>
+         <Language id="Arabic">
+            ولتبطل قوة المضاد.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Mareferv~l/ou n~je piembon n~te pidrakwn.
+         </Language>
+         <Language id="English">
+            Let the wrath of the dragon be rendered vain.
+         </Language>
+         <Language id="Arabic">
+            وليضمحل حنق التنين.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marouywm n~je rwou n~nimoui~.
+         </Language>
+         <Language id="English">
+            Let the mouths of the lions be shut.
+         </Language>
+         <Language id="Arabic">
+            ولتسند أفواه الأسد.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Maroujwr e~bol n~je nip~neuma ethwou.
+         </Language>
+         <Language id="English">
+            Let evil spirits be driven away.
+         </Language>
+         <Language id="Arabic">
+            ولتتفرق الأرواح الشريرة.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marecw~sem n~je ]geenna n~te pi,~rwm.
+         </Language>
+         <Language id="English">
+            Let the flame of hell be extinguished.
+         </Language>
+         <Language id="Arabic">
+            ولتنطفئ نار جهنم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marefheri n~je pifent n~atenkot.
+         </Language>
+         <Language id="English">
+            Let the worm that sleeps not, be calmed.
+         </Language>
+         <Language id="Arabic">
+            وليهدأ الدود الذي لا ينام.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Mareferouwini n~je pi,aki etvonh.
+         </Language>
+         <Language id="English">
+            Let the darkness that misleads be enlightened.  
+         </Language>
+         <Language id="Arabic">
+            ولتضئ الظلمة المدلهمة.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Maroumosi qajwf n~je niaggeloc n~te v~ouwini.
+         </Language>
+         <Language id="English">
+            Let the angels of light come to meet him.
+         </Language>
+         <Language id="Arabic">
+            ولتسر أمامه ملائكة النور.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marecouwn naf n~je ]pul/ n~te ]meym/i.
+         </Language>
+         <Language id="English">
+            Let the gate of righteousness open unto him.
+         </Language>
+         <Language id="Arabic">
+            وليفتح له باب البر.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marefswpi efoi n~s~v/r e~p~,wroc n~te na niv/oui~.
+         </Language>
+         <Language id="English">
+            Let him become a member of the choir of the heavenly ones.
+         </Language>
+         <Language id="Arabic">
+            وليكن مشاركا لمصاف السمائيين.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eke~enf e~qoun e~piparadicoc n~te p~ounof.
+         </Language>
+         <Language id="English">
+            Bring him into the Paradise of Joy.
+         </Language>
+         <Language id="Arabic">
+            أدخله إلى فردوس النعيم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eke~temmof e~bol qen pis~s/n n~te p~wnq.
+         </Language>
+         <Language id="English">
+            Feed him from the tree of life.
+         </Language>
+         <Language id="Arabic">
+            أطعمه من شجرة الحياة.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eke~roybef qen kenf n~nenio] n~sorp: Abraam nem  Icaak nem Iakwb n~h~r/i qen tekmetouro.
+         </Language>
+         <Language id="English">
+            Make him to recline in the bosom of our fathers Abraham, Isaac and Jacob, in Your kingdom.
+         </Language>
+         <Language id="Arabic">
+            اتكئه في حضن آبائنا الأولين ابرهيم واسحق ويعقوب في ملكوتك.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Anon de hwn tentwbh e~jwf m~paima: n~yof hwf n~teferpenmeui~ m~pekm~yo.
+         </Language>
+         <Language id="English">
+            As for us, we pray for him in this place. As for him, may he remember us before You.
+         </Language>
+         <Language id="Arabic">
+            أما نحن فنطلب عنه ههنا، وأما هو فيذكرنا أمامك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+   
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+</Document>

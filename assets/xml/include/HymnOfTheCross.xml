@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Hymn of the Cross</Language>
+         <Language id="Coptic">Vai e~tafenf</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Vai e~tafenf e~p~swi n~ouyucia ecs/p: hijen pic~tauroc: qa p~oujai m~pengenoc.
+         </Language>
+         <Language id="English">
+            This is He who offered Himself up, as an acceptable sacrifice, on the Cross for the salvation of our race.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي أصعد ذاته ذبيحة مقبولة علي الصليب عن خلاص جنسنا.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Afswlem e~rof n~je pefiwt n~a~gayoc: m~v~nau n~te hana~rouhi: hijen ]Golgoya.
+         </Language>
+         <Language id="English">
+            His Good Father smelled Him at the evening watch on Golgotha.
+         </Language>
+         <Language id="Arabic">
+            فاشتمه أبوه الصالح وقت المساء علي الجلجثة.
+         </Language>         
+      </Text>
+   </Section>
+</Document>

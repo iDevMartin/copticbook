@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Catechumens</Language>
+         <Language id="Arabic">أوشية الموعوظين</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="LiturgyOfTheWaters">
+               <Text>
+                  <Language id="Coptic">
+                     Ariv~meui P[oic n~nikat/,oumenoc n~te peklaoc.
+                  </Language>
+                  <Language id="English">
+                     Remember, O Lord, Your servants, the catechumens of Your people.
+                  </Language>
+                  <Language id="Arabic">
+                     أذكر يارب عبيدك الموعوظين من شعبِكَ.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/AgainLetUsAsk"/>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: ariv~meui P[oic n~nikat/,oumenoc n~te peklaoc.
+                  </Language>
+                  <Language id="English">
+                     We ask and entreat Your Goodness, O Lover of Mankind: remember, O Lord, Your servants, the catechumens of Your people.
+                  </Language>
+                  <Language id="Arabic">
+                     نسأل ونطلب من صلاحك يا محب البشر: أذكر يارب عبيدك الموعوظين من شعبِكَ.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+      </Role>
+       
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nikat/,omenoc n~te penlaoc: n~te P[oic pennou] c~mou e~rwou: n~teftajrwou qen pinah] n~oryodoxoc sa pinifi n~qae~: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for catechumens of our people that the Lord may bless them and confirm them in the Orthodox Faith, to the last breath, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+                اطلبوا عن موعوظي شعبِنا لكي يباركَهم الربُ ويثبتَهم في الإيمانِ الأرثوذكسي إلى النفسِ الأخيرِ ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Nai nwou: matajrwou qen peknah] e~qoun e~rok:
+            </Language>
+            <Language id="English">
+               Have mercy on them; confirm them in the faith in You.
+            </Language>
+            <Language id="Arabic">
+               ارحمهم وثبتهم في الإيمانِ بِكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Cwjp niben m~metsamse i~dwlon hitou e~bolqen pouh/t.
+            </Language>
+            <Language id="English">
+               All traces of idolatry cast out of their heart.
+            </Language>
+            <Language id="Arabic">
+               كل بقايا عبادةِ الأوثانِ انزعها من قلوبِهم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Peknomoc: tekho]: nekentol/: nekmeym/i: nekouacahni eyouab: matajrwou n~q~r/i qen pouh/t.
+            </Language>
+            <Language id="English">
+               Your law, Your fear, Your commandments, Your truths, and Your holy ordinances, establish in their heart.
+            </Language>
+            <Language id="Arabic">
+               ناموسَكَ، خوفَكَ، وصاياكَ، حقوقَكَ، أوامرَكَ المقدسةَ ثبتها في قلوبِهم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               M/ic nwou eyroucouen p~tajro n~nicaji e~tauerkati,in m~mwou n~q/tou qen pic/ou de ety/s marouerp~emp~sa m~pijwkem n~te piouahcahni e~p~,w e~bol n~te nounobi: ekcob] m~mwou n~ouervei n~te Pekp~neuma eyouab.
+            </Language>
+            <Language id="English">
+               Grant them that they may know the certainty of the words with which they have been instructed. At the appointed time, may they be worthy of the washing of the new birth, unto forgiveness of their sins, preparing them to be a temple of Your Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               امنحهم أن يعرفوا ثباتَ الكلامِ الذي وعظوا به. وفي الزمنِ المحدد فليستحقوا حميمَ الميلادِ الجديدِ لغفرانِ خطاياهم. إذ تعدهُم هيكلاً لروحِكَ القدوس.
+            </Language>
+         </Text>
+       </Role>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+      
+      <Group>
+         <Season id="ConsecrationOfWaters">
+            <InsertDocument path="include/LetUsEntreat"/>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Vnou] n~te nip~rov/t/c ouoh P[oic n~te nia~poctoloc: v/etafhiwis m~p~jini~ n~te Pef,~rictoc hiten nefp~rov/t/c eyouab icjen p~e~neh: v/etafouwrp n~Iwann/c pip~rov/t/c ouoh m~p~rodromoc qajwf.
+                  </Language>
+                  <Language id="English">
+                     O God of the prophets and Lord of the Apostles, who have proclaimed the coming of Your Christ through Your holy prophets from the beginning. Who sent John the prophet and forerunner before Him.
+                  </Language>
+                  <Language id="Arabic">
+                     يا إله الأنبياء ورب الرسل، الذي بشرَ بمجيءِ مسيحِه من قِبَلِ أنبيائه القديسينَ منذ البدءِ، الذي أرسلَ يوحنا النبي السابقَ أمامه.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh m~mok pimairwmi: ouwrp n~tekjom eyouab n~teci~ qajwf m~paiwmc.
+                  </Language>
+                  <Language id="English">
+                     We ask and entreat You, O Lover of Mankind, send Your holy power that it may come upon this Baptism,
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُ ونتضرعُ إليكَ يا محبَ البشرِ: أرسلْ قوتَكَ المقدسةَ، لتتقدمَ هذا العماد.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ntec]jom n~neke~biaik ouoh n~teccebtwtou eyroujemjom e~[i m~piwmc eyouab n~te piouahemmici: e~p~,w e~bol n~te nounobi: nem ]helpic n~te metattako: hiten pekmonogen/c n~s/ri I/couc Pi,~rictoc pen[oic.
+                  </Language>
+                  <Language id="English">
+                     and may give power to Your servants and may prepare them that they may be able to receive the holy Baptism of the new birth, unto the remission of their sins and the hope of incorruption. Through Your Only-begotten Son Jesus Christ our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     وتقوى عبيدَكَ وتعدَهُم لكي يستطيعوا أن ينالوا العمادَ الطاهرَ الذي للميلادِ الجديدِ لغفرانِ خطاياهم، والرجاءَ غيرِ الفاسدَ، بابنِكَ الوحيد يسوع المسيح ربنا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Priest" silent="true">
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Role>
+         </Season>         
+      </Group>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

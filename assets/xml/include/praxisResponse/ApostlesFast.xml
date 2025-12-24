@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ApostlesFast">
+         <Comment>
+            <Language id="English">         
+               For the Fast of the Apostles:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Na[oic n~io] n~a~poctoloc: &lt;ere nimay/t/c n~te pen[oic I/couc Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               Hail to my lords and fathers, the Apostles,  Hail to the disciples of our Lord Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لسادتي الآباء الرسل، السلام لتلاميذ ربنا يسوع المسيح.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">         
+      <Comment>
+         <Language id="English">
+            For the Feast of the Wedding at Cana of Galilee:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Coou n~hudria m~mwou afaitou: n~ou/rp efcwtp: e~bolhiten pefnis] n~w~ou: qen p~hop n~t~Kana n~te ]galilea~.
+         </Language>
+         <Language id="English">
+            Six jars of water, You have changed into chosen wine, with great glory, in Cana of Galilee.
+         </Language>
+         <Language id="Arabic">
+            ستة أجران ماء حولها إلى خمر مختار من قبل مجده العظيم فى عرس قانا الجليل.
+         </Language>
+      </Text>
+   </Season>
+</Document>

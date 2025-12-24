@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">The Order of the Setting Apart of a Reader</Language>
+      <Language id="Arabic">ترتيب إقامة الأغنسطس أي القارئ</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Comment>
+      <Language id="English">
+         When he who is to be made a reader is brought in, let him be placed without vestment before the altar, with his neck bowed down.  The bishop shall stand on the step of the altar.  Those who have brought him into the midst shall make a prostration to him, while the bishop says to them:  
+      </Language>
+      <Language id="Arabic">
+         وإذا قدم الذي يصير أغنسطسا. فليقام بغير تونية أمام المذبح ورأسه مكشوفة. محني العنق. والأسقف واقف على درج المذبح. والذين قدموه إلى الوسط يضربون عنه المطانية فيقول لهم الأسقف
+      </Language>
+   </Comment>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Do you bear witness that he is truly worthy of this order?   
+         </Language>
+         <Language id="Arabic">
+            أتشهدون أنه مستحق لهذه الرتبة بالحقيقة. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         They shall bear witness:  
+      </Language>
+      <Language id="Arabic">
+         فيقولون شاهدين:
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <Text>
+         <Language id="English">
+            Yes, our father, he is worthy.  
+         </Language>
+         <Language id="Arabic">
+            نعم يا أبانا هو مستحق.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            Afterwards take a pair of scissors, make five crosses on him, one in the middle and four at the four sides of his head, and you shall pronounce the name of the holy Trinity and offer incense.  Say the Thanksgiving and the Prayer of Incense  
+         </Language>
+         <Language id="Arabic">
+            بعد هذا تأخذ مقصاً وتعمل خمسة صلبان واحد في وسط الرأس وأربعة في جوانبها. وتقول اسم الثالوث المقدس وترفع البخور. وتقول صلاة الشكر وصلاة البخور.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+   
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               and this prayer, facing the west:  
+            </Language>
+            <Language id="Arabic">
+                وتصيف إليها هذه الصلاة. ووجهك إلى الغرب.
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               We ask and beseech you, Lord God, accept this your servant as a reader in your holy Church; instruct him in your commandments; give him understanding of your justifications; and grant to him that with fear he may show obedience to you, rendering him worthy to be a chosen vessel and an honorable reader before you, that he may also find your mercy with those who through the ages have pleased you;     
+            </Language>
+            <Language id="Arabic">
+               نسأل ونرغب إليك أيها السيد الرب الله ضابط الكل إقبل إليك عبدك (عبيدك) فلان اغنسطسا في بيعتك. وفهيه حقوقك. وهب له مخافة عبوديتك. إجعله مستحقاً أن يلمس الأواني ويكون أغنسطسا مكرماً أمامك. لكي يفوز بتحننك مع الذين أرضوك منذ البدء.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               for you are a God who wills mercy and kindness; and to you is due glory, honor, and adoration from all, Father, Son, and Holy Spirit, now…    
+            </Language>
+            <Language id="Arabic">
+               لأن الرحمة كائنة في ارداتك. وينبغي لك الإكرام من كل أحد والسجود. أيها الأب والابن والروح القدس. الآن.. الخ
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Say this prayer, facing the east:   
+            </Language>
+            <Language id="Arabic">
+               قل هذه الصلاة ووجهك للشرق: 
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Great God, rich in his gifts, who have granted orders to your Church and established grades of ministry to it, and poured out your gifts on your servants: sanctify this your servant also, and appoint him as reader, and make him worthy with all wisdom and understanding to perform the meditation and reading of divine words; and fill him with your gift, while he is preserved in blameless conduct;     
+            </Language>
+            <Language id="Arabic">
+               يا الله الكبير الغني في مواهبه. الذي أنعم على بيعته بالرتب وأقامهم فيها من قبل درجة هذه الخدمة وعبدك (فلان) هذا الذي دعوته للأغنسطسية تفضل أملأه من كل حكمة ومن كل فهم لتلو أقوالك الألهية والأغنسطسية. احفظه في عبادتهم بغير لوم. 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               by the mercies of your only-begotten Son, through whom and with whom glory, honor, and dominion are due to you, with your good, life-giving, and consubstantial most-holy Spirit.    
+            </Language>
+            <Language id="Arabic">
+               كمله في مواهبك الغير المنتقلة بتحننك مع ابنك الوحيد والروح القدس الآن.. الخ
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Turn to the west, take hold of his temples, then say:    
+            </Language>
+            <Language id="Arabic">
+               تلتفت إلى الغرب وتمسك صدغيه وتقول: 
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Great and loving God, in whose hands all things are held, and by whose command all things are controlled, who are near to all, and stand by all: look upon this your servant, who is presented by us to be a proclaimer of your holy words of the Old and New Testament, that he may expound to the people your holy words and your right precepts, and proclaim your divine and salutary doctrines, which you have appointed for the help and salvation of our souls.     
+            </Language>
+            <Language id="Arabic">
+               اللهم العظيم محب البشر ماسك الكل بيديه الفايض روحه على كل أحد الذي كل شيء قائم بسلطانه أظهر وجهك على عبدك (فلان) القائم أمامك الذي قدموه لينذر بأقوالك المقدسة. التي لعهدي العتيقة والحديثة. ويكرز بأوامرك لشعبك ويعلمهم كلامك الطاهر الذي من جهته خلاص نفوسهم ونجاتهم. 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               O God, instruct him in your commandments and make him understand your justifications, and illuminate the eyes of his mind to the light of the knowledge of your commandments; and grant to him that with purity of heart and unfeigned faith he may perform their meditations and readings for the upbuilding of those who hear; to the praise and glory of your kingdom, Father, Son, and Holy Spirit, now…     
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب أظهر له بيانك. أضئ عيني قلبه بنور وصاياك هب له قلباً متواضعاً لكي يقرأ ويدرس فيها بنياناً لسامعيه مجداً وإكراماً لملكوتك أيها الاب والابن والروح القدس الآن.. الخ 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Again turn to the east, take hold of his temples, saying:    
+            </Language>
+            <Language id="Arabic">
+               ثم تلتفت غرباً وتمسك صدغيه وتقول:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Our Master and Lord, God almighty, who knew from the first the number of his elect in the whole world and who called them from the first, who chose Esdras your servant.  You gave him wisdom that he might read your law to your people.  You have now chosen your servant (...), who is designated a reader.  Give him wisdom and a spirit of prophecy that he may perform the practice of your holy words for your people with blameless conduct, in the grace and compassion of your only-begotten Son, our Lord and our God and our Savior, Jesus Christ, who …      
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الله ضابط الكل الذي سبق أن يعرف عدد أصفيائه في كل العالم وسبقت أن تدعوهم. الذي اختار عزرا عبده وأعطاه حكمة ليقرأ ناموسك لشعبك. أنت الان أيضاً اخترت عبدك (فلان) هذا الذي رسم أغنسطسا. امنحه حكمة وروح النبوة ليتلو أقوالك المقدسة لشعبك بسيرة بغير لوم. بنعمة ومحبة البشر التي لابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح. هذا الذي الخ. 
+            </Language>
+         </Text>
+      </Role>
+   
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               Axioc axioc axioc pekbwk (neke~biaik) (…) pia~nagnwct/c (nia~nagnwct/c).
+            </Language>
+            <Language id="English">
+               Worthy worthy worthy Your servant(s) (…) the reader(s).
+            </Language>
+            <Language id="Arabic">
+               مستحق مستحق مستحق عبدك  (عبيدك)  (...) القارئ (القارئون)
+            </Language>
+         </Text>
+      </Role>
+      
+      <Comment>
+         <Language id="English">
+            And he kisses the altar and the hand of the bishop and those who are standing [with him].  And give him of the holy mysteries. The archdeacon reads over him this catechesis: 
+         </Language>
+         <Language id="Arabic">
+            ثم يقبل المذبح ويد الأسقف والحاضرين وبعد أن يتناول من السرائر المقدسة. يقرأ عليه الأرشيدياكون هذه الوصية.      
+         </Language>
+      </Comment>
+   </Section>
+   
+   <Role id="Archdeacon">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis</Language>
+            <Language id="Arabic">الوصية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               My son, this is the first rank of the priesthood to which you have been admitted.  It is necessary for you to learn each one of the readings of the holy scriptures, the breath of God, which have been entrusted to you to instruct the people thereby.  For this is a great work.  The one who is assigned to it must be like a lamp shining on the lampstand, lest you fill the ears of those who hear you with what you read, but yourself be rejected.  Instead, remember at all times the word of the Lord which said, “let him who reads understand,” so that, through your good progress and your advancement in this rank, your worth might therefore be seen and you might be given approval to be advanced to the higher rank.  Therefore, this is so that those who have brought you into the midst might have a boast that they did well to give you a vote of approval in the proper time and order, in Jesus Christ our Lord, who …    
+            </Language>
+            <Language id="Arabic">
+               يا بني هذه أول درجات شماسا التي دخلت إليها فيجب عليك أن تتعلم واحداً فواحداً من فصول الكتب المقدسة أنفاس الله التي أؤتمنت عليها كي تعظ بها الشعب. لأن هذا أمر عظيم يحتاج من يقوم به أن يكون كالمصباح المضيء على المنارة لكي تملأ مسامع سامعيك مما تقرأ عليهم ولتكن أنت غير مجرب لكن أذكر في كل حين كلام الرب إذ يقول فليفهم القارئ. لكي من جهة نموك الحسن وتقدمك في هذه الدرجة وينظرون نجاحك فيزكونك ويقدمونك إلى الدرجة العالية الأفضل من هذه وليفتخر بك الذين قدموك في الوسط لكونهم يزكونك حسناً بكل زمن كالعادة بالمسيح يسوع ربنا. هذا الذي من قبله.. الخ  
+            </Language>
+         </Text>
+      </Section>      
+   </Role>
+
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            Afterwards give him a book so that he may carry it on his breast.  He shall kiss the altar and the bishop and those who stand with him.  Give him of the holy mysteries. 
+         </Language>
+         <Language id="Arabic">
+            وبعد ذلك يعطيه كتاباً ليحمله على صدره ثم يقبل المذبح ويد الأسقف والذين حوله ويناوله من الأسرار المقدسة    
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis for the Deacons and their Parents</Language>
+            <Language id="Arabic">وصية للشمامسة ووالديهم</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Dear Blessed, Christian, Benevolent, Orthodox, Astute Son, Know that this blossoming branch from this pure root in whom are found all expected, anchored virtues has been blessed by God, both you and him with His most supreme blessings. God, to whom is all glory always now and forever, has graciously and bountifully bestowed upon your son a whole free gift through the Holy Spirit. 
+            </Language>
+            <Language id="Arabic">
+               اعلم أيها الابن المبارك المسيحي الحبيب الخير الأرثوذكسي اللبيب أن هذا الفرع الزاهر من الأصل الطاهر المرجو فيه كافة الفضائل إصالته. بارك الله عليك وعليه بأسمى بركاته. إن ربنا له المجد دائماً من الان وإلى الأبد قد جاد على ابنك هذا تفضلا منه واحساناً ومنحه من قبل روحه الأقدس موهبة تامة مجاناً. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Through the acceptance of this gift, he has deserved to enroll regularly in the rank of deaconship along with other participants in this service and be honored with reciting to the congregation the meanings of the apostolic books, readings of the Holy Bible, and chanting in the Lord’s houses, as well as offering glorification and worship at the altars. 
+            </Language>
+            <Language id="Arabic">
+               واستحق بقبول هذه النعمة أن ينتظم في سلك الشماسية. مع مساهميه في هذه الخدمة ويتشرف بتلاوة معاني الكتب الرسولية على أسماع الشعب وقراءة الأناجيل والتراتيل في بيع الله. والتقديس والتسبيح في هياكله. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Strive my son, dear blessed parent, to reach the ultimate aim behind this gift, which is to raise your son well in order to gain clearance of conscience. While your son is young, give him a good education as a circumspective, wise, and experienced parent. Start his education at an early age so that he may walk in a way that conforms to this service to which he has been promoted. Encourage him and settle in his heart the desire to learn the spiritual and scientific books of this order of deaconship and the meanings of its legal laws. When he becomes mature enough, tell him about the value of the grace he has received in this order, which enlightens his mind and instincts, and establishes in him all spiritual knowledge and wisdom. Anchor in him the thought that this grace which he has received surpasses all friendships and values. Make sure that he offers God a pure and steadfast service. When he is grown up, train him in good reputable deeds, and teach him to fast the Wednesdays and Fridays and all the other fasts observed by the rest of the congregation. Insist on his attending the Liturgies so that he may obtain the blessings of sharing in the spiritual fellowship of the prayers, communion, and the offerings. 
+            </Language>
+            <Language id="Arabic">
+               واجتهد أيها الأبن المبارك والده بغاية الهبة. في اصلاح تربيته لتفوز من هذا الضمان بخلاص الزمة. وربه تربية حسنة كتربية الحريص الحكيم الخبير. ما دام شاباً صغيراً. وابتدى في تعليمه في ابتداء عمره ليسلك بما يلائم هذه الخدمة التي ارتفع الآن قدره. مع حثه واستودع صدره أنفاس كتبها العلمية والعملية. ومعاني قوانينها الشرعية. وعرفه عند إدراك عقله قدر ما ناله من هذه النعمة التي تنير عقله وحسه فيرسم فيه كل علم روحاني وحكمة وحقق عنده أن هذه السمة تفوق على المماثلة والقيمة: واحرص عليه أن يخدم الله فيها الخدمة الطاهرة المستقيمة فإذا بلغ حد القامة دربه في الأعمال الصالحة الحسنة السمعة والزمه بصوم يومي الأربعاء والجمعة. وصوم الأصوام المفروض صيامها على الشعب المسيحي من سائر الناس. وأكد عليه بحضوره إلى الكنيسة ليحظى بالشركة الروحانية في خدمة الصلاة والقربان والقداس 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               When he reaches adulthood, if he chooses the married life, he is to marry once to someone from pious parents so that she may assist him in managing his household correctly and uprightly. This will remain a witness of his proper management of the house of Jesus Christ.  Should he choose celibacy and hold on fast to virginity and abstinence, do not force him into the married life or the yoke of its worldly burdens. 
+            </Language>
+            <Language id="Arabic">
+               وإذا بلغ رشده واختار الزواج فلا يتزوج سوى الزوجة الواحدة. وليتخيرها من الأب الواحد والأم الطاهرة العابدة. ليستعين بها على تدبير بيته وبنيه التدبير المستقيم الصحيح. فإنه الشاهد له على الأمانة في تدبير بيعة السيد المسيح. وإن استطاع العصمة النقية والاستمساك بدرع البتولية. فلا تكلفه إلى حمل الزيجة ونير أعمالها الدنيوية. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Rebuke him if he has double tongues in his words and conduct. Be careful with what he does in the light and in the dark and do not neglect him for you will give an account of his sins. You are his teacher and bailer before God, and you are in charge of his affairs and of what is beneficial for him. Do not allow him to drink much alcohol because in it there is a lot of evil and it is the freely chosen madness that drags away from the Kingdom of God. Make every effort to train him into the habits of virtuous people and the most sublime virtues.  Supervise all his affairs yourself and follow him until he reaches his optimal perfection. 
+            </Language>
+            <Language id="Arabic">
+               وأنبه إذا كان ذا لسانين في أقواله وتقلباته: واحرس ان لا تتهاون بسره وعلانيته واحذر الإهمال به فإنك أنت المطالب بخطيته. أنت ومعلمه والضامن له أمام الرب. المتكفل بمصالحه ومنفعته. ولا تدعه يكثر من شرب الخمر الذي فيه أسباب الشر وهو الجنون الاختياري. الذي يبعد من ملكوت الباري. واجتهد أن تعوده عادات السادات. وسادات العادات. وباشر بنفسك جميع أحواله. وواصله إلى ذروة كماله. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Do not rely on anyone for your son’s benefits, for eye evidence is not like word by mouth so you may be released from prostrations you made on his behalf and be absolved from and bailed out of this duty. May the Lord assist you, your son, and all those present, with His mighty power to act according to the commands that you have heard and all the other Church commandments. May God raise him with a good and acceptable upbringing, fortify him with every spiritual knowledge, and make known to him the support of the Holy Spirit and the multiplied power. May He make him the most obedient servant and deacon and bring him up step by step onto the priesthood with the sons of peace. May God situate him with the noble, faithful witness, Stephen the proto-martyr and the seven honorable deacons, and assist you in fulfilling and applying what you have heard and pledged to do, through the intercession of our intercessor, the Blessed Virgin Mary, and all those who have pleased the Lord with their good deeds now and forever. Amen!
+            </Language>
+            <Language id="Arabic">
+               ولا تتكل في نفعه على أحد فليس الخبر كالعيان. لتبرأ من ضرب المطانية عنه وتخلص من هذه الكفالة. وتخرج من عهدة هذا الضمان والرب الإله يعينك وابنك هذا وكافة السامعين بقوته الإلهية على العمل بهذه الوصية. وكل الوصايا البيعية. وينشئه بالنشاة الصالحة المرضية ويؤيده بكل علم روحاني. ومعرفة تأييد الروح القدس. والقوة المتضاعفة. ويجعله أطوع العبيد والخدام. ويرفعه إلى الكهنوت من درجة إلى درجة مع أبناء السلام. وينصبه مع الشاهد الامين الكريم استفانوس رئيس الشهداء والسبعة شمامسة الكرام. ويعينك على وفاء ما ضمنت. ويعضدك في العمل بما سمعت بشفاعة ذات الشفاعات. وكل من أرضى الرب بأعماله الصالحة من الآن وإلى أبد الأبد أمين.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+</Document>

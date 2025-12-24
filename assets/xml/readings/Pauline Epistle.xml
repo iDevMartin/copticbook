@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Pauline Epistle</Language>
+      <Language id="Arabic">البولس</Language>
+   </Title>
+   
+   <Group>                  
+      <Season id="JoyousSaturday ^ Matins">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+               <Language id="Coptic">Eybe ]a~nactacic</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/EthveTiAnastasisVerse"/>   
+            <InsertDocument path="include/PaulineEpistleIntroduction"/>
+            
+            <Comment>
+               <Language id="English">
+                  The epistle is chanted in Coptic, half of it in the Paschal tune and the other half in the standard tune, followed by “<span class="Coptic">Pih~mot gar</span>”, then it is translated.
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matoube pisem/r n~a~pac e~bolqen y/nou: hina n~tetenswpi n~ouwsem m~beri...
+               </Language>
+               <Language id="English">
+                  Therefore purge out the old leaven, that you may be a new lump...
+               </Language>
+               <Language id="Arabic">
+                  إِذاً نَقُّوا مِنْكُمُ الْخَمِيرَةَ الْعَتِيقَةَ لِكَيْ تَكُونُوا عَجِيناً جَدِيداً كَمَا أَنْتُمْ فَطِيرٌ...
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/PaulineEpistleConclusion"/>
+         </Section>
+      </Season>
+      
+      <Season id="JoyousSaturday ^ Liturgy">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+               <Language id="Coptic">Eybe ]a~nactacic</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/EthveTiAnastasisVerse"/>   
+            <InsertDocument path="include/PaulineEpistleIntroduction"/>
+            
+            <Comment>
+               <Language id="English">
+                  The epistle is chanted in Coptic, half of it in the Paschal tune and the other half in the standard tune, followed by “<span class="Coptic">Pih~mot gar</span>”, then it is translated.
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="Coptic">
+                  }tamo de m~mwten nac~n/ou e~pieuaggelion v/etaihisennoufi m~mof nwten...
+               </Language>
+               <Language id="English">
+                  Moreover, brethren, I declare to you the gospel which I preached to you...
+               </Language>
+               <Language id="Arabic">
+                  وَأُعَرِّفُكُمْ أَيُّهَا الإِخْوَةُ بِالإِنْجِيلِ الَّذِي بَشَّرْتُكُمْ بِهِ...
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/PaulineEpistleConclusion"/>
+         </Section>
+      </Season>
+      
+      <Season id="Other">
+         <Section>
+            <Title>
+               <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+               <Language id="Coptic">Pauloc v~bwk...</Language>
+            </Title>
+         
+            <Comment>
+               <Language id="English">         
+                  If the Pauline Epistle is read in Coptic, the following introduction is chanted.
+               </Language>
+               <Language id="Arabic">         
+                  إذا قرئ البولس قبطياً تقال مقدمته وهي هذه:
+               </Language>
+            </Comment>
+         
+            <InsertDocument path="include/PaulineEpistleIntroduction"/>
+            
+            <Comment>
+               <Language id="English">
+                  The Pauline Epistle is chanted in Coptic.
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+   </Group>
+         
+   <Group>
+      <InsertDocument path="readings/include/Pauline"/>
+   </Group>
+   
+   <Section>
+      <Title>
+         <Language id="English">Conclusion to the Coptic Pauline Epistle</Language>
+         <Language id="Coptic">Pih~mot gar...</Language>
+      </Title>
+      
+      <InsertDocument path="include/PaulineEpistleConclusion"/>                              
+   </Section>
+</Document>

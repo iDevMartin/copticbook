@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <Group>
+         <Season id="JoyousSaturday">
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="readings/StandInTheFear"/>
+            <InsertDocument path="readings/FromThePsalms"/>      
+         </Season>
+      </Group>
+      
+      <InsertDocument path="readings/Psalm"/>
+   </Role>
+   
+   <Group>
+      <Season id="JoyousSaturday">
+         <InsertDocument path="pascha/include/KeEperto"/>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Reader">
+            <InsertDocument path="readings/GospelIntro"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Reader">
+      <InsertDocument path="readings/Gospel"/>
+   </Role>
+</Document>

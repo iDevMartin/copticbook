@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StGeorge:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. George:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: &lt;ere piswij n~genneoc: &lt;ere pia~ylovoroc: Pa[oic p~ouro Gewrgioc
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: Hail to the noble athlete: Hail to the struggle bearer : My lord, the prince George
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد: السلام للبطل الشجاع السلام للابس الجهاد سيدى الملك جيؤرجيوس.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

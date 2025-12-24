@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" SundayPascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekend ^ Sundays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Hosanna Sunday (The Eleventh Hour)</Language>
+         <Language id="Arabic">احد الشعانين (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~hoou n~]kuria~ki n~te Pieulog/menoc (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 48:12-22</Language>
+               <Language id="Arabic">إشعياء 48: 12-22</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cwtem e~roi Iakwb ouoh p~iIcra/l e~]mou] e~rof a~nok pe pisorp ouoh a~nok on pe pisae~neh. 
+               </Language>
+               <Language id="English">
+                  “Listen to Me, O Jacob and Israel, whom I call: I am the first, and I am forever.
+               </Language>
+               <Language id="Arabic">
+                  أسـمع لي يا يعقوب واسرائيل الذى دعوته. أنا هو. أنا الأزلي أنا الأبدى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh tajij y/e~tachicen] m~pikahi ouoh taouinam y/e~tactajre t~ve. ]namou] e~rwou t/rou n~ceoh~i e~ratou eucop.
+               </Language>
+               <Language id="English">
+                  My hand also laid the foundation of the earth, and My right hand established heaven. I shall call them, and they will stand together.
+               </Language>
+               <Language id="Arabic">
+                  ويدى التى أسست الأرض. ويمينى التى ثبتت السماء. أنا أدعوهن جميعاً فيقفن معاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eue~ywou] e~qoun t/rou n~cecwtem e~n/eynajw nwou m~pair/] a~rie~mim~mok aii~ri m~pekouws e~jen Ybabulwn e~w~li m~p~jroj n~ni,aldeoc.
+               </Language>
+               <Language id="English">
+                  All shall be gathered and hear: Who declared these things to them? Because I love you, I did your will against Babylon, to slay the seed of the Chaldeans.
+               </Language>
+               <Language id="Arabic">
+                  أجتمعوا كلكم وأسمعوا ما أقوله لهن هكذا أعرف ذاتك لأنى صنعت هواك ببابل. وأبدت نسل الكلدانيين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Anok aicaji a~nok aimou] aienf ouoh aicwouten m~pefmwit qwnt e~roi e~reten e~cwtem e~nai netaijotou an icjen sorp qen oupeth/p oude qen ouma n~te p~kahi
+               </Language>
+               <Language id="English">
+                  I have spoken, I have called him, I have brought him, and made his way prosper. Come near to Me, hear this: I have not spoken in secret from the beginning, nor did I speak in a dark place of the earth. 
+               </Language>
+               <Language id="Arabic">
+                  أنا تكلمت أنا دعوت وأتيت به. وقومت طريقه أقتربوا إلى وأسمعوا هذه لأنى منذ البدء لم أتكلم فى الخفاء ولا فى الأرض المظلمة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efoi n~,aki nai m~mau pee~aunaswpi: ]nou P[oic petaf ouorpt nem pefp~neuma.
+               </Language>
+               <Language id="English">
+                  When it took place, I was there, and now the Lord and His Spirit have sent Me.”
+               </Language>
+               <Language id="Arabic">
+                  لأنى عند كونها أنا حاضر. والآن فالرب أرسلنى مع روحه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai pe m~v~r/] e~tefjw m~moc n~je v/eynohem m~mok P[oic peyouab m~p~Icra/l. 
+               </Language>
+               <Language id="English">
+                  Thus says the Lord who delivers you, the Holy One of Israel:
+               </Language>
+               <Language id="Arabic">
+                  هكذا يقول الرب مخلصك قدوس اسرائيل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok pe Vnou] ait~cabok eyrekjimi m~pimwit e~teknamosi hiwtf.
+               </Language>
+               <Language id="English">
+                  “I am your God, who showed you how to find the way wherein you should walk.
+               </Language>
+               <Language id="Arabic">
+                  أنا هو الله معلمك لتجد الطريق الذى تسير فيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~ne akcwtem e~naentol/ nare tekhir/n/ naer m~vr/] m~v~iaro ouoh tek meym/i m~v~r/] n~nihiwmi n~tev~iom.
+               </Language>
+               <Language id="English">
+                  If only you had heeded My commandments, then your peace would be like a river, and your righteousness as a wave of the sea.
+               </Language>
+               <Language id="Arabic">
+                  ليتك أصغيت لوصاياى فكانت سلامتك كالنهر. وعدلك كامواج البحر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pekjroj naer m~vr/] m~pisw ouoh nis/ri n~te tekneji m~v~r/] m~pir/ici n~te p~kahi.
+               </Language>
+               <Language id="English">
+                  Your seed would also be like the sand, and the offspring of your womb like the dust of the ground.
+               </Language>
+               <Language id="Arabic">
+                  ونسلك يصير كالرمل. وذرية بطنك كحصى الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou oun n~nafotk e~bol: oude n~neftako n~je pekran m~pam~yo e~bol. 
+               </Language>
+               <Language id="English">
+                  Neither would you be utterly destroyed now, nor would your name perish before Me."
+               </Language>
+               <Language id="Arabic">
+                  والآن لا امحوك ولا يباد أسمك من قدامى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Amou e~bol qen Babulwn ekv/t e~bol qen ni,aldeoc.
+               </Language>
+               <Language id="English">
+                  Go forth from Babylon, you who are fleeing from the Chaldeans.
+               </Language>
+               <Language id="Arabic">
+                  فأخرج من بابل وأهرب من الكلدانيين
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Jw m~p~q~rwou m~p~ounof ouoh vai maroucoymef a~jof saaur/jf mp~kahi ajoc je a~P[oic nohem m~pefbwk Iakwb. 
+               </Language>
+               <Language id="English">
+                  Proclaim a voice of gladness and let it become well known. Proclaim it to the end of the earth, and say, ‘The Lord delivered His servant Jacob.’
+               </Language>
+               <Language id="Arabic">
+                  وبصوت الشد وأخبر ليسمعوا. ناد بهذا شيعه إلى أقطار الأرض. قل أن الرب فدى يعقوب عبده. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh on ausani~bi hip~safe efe~i~ni m~pimwou nwou efe~i~ni e~bol qen ]petra ouon oupetra navwji n~tefsouo e~bol n~je oumwou n~tefcw n~je pilaoc m~mon rasi sop n~niaceb/c peje P[oic.
+               </Language>
+               <Language id="English">
+                  If they shall thirst, He will lead them through the desert, and water shall flow from the rock for them. He will split the rock, the water shall flow, and My people will drink. "There is no rejoicing," says the Lord, "for the ungodly."
+               </Language>
+               <Language id="Arabic">
+                  وإذ عطشوا فى البرية أخرج لهم من الصخرة ماء. وشق الصخرة ففاضت المياه فشرب الشعب. ليس سلام للمنافقين يقول الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Nahum 1:2-8</Language>
+               <Language id="Arabic">ناحوم 1: 2-8</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Nahum"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ounou] n~ref,oh ouoh n~ref[i m~psis pe P[oic: qen oumbon f~na[i mp~sis n~je P[oic qen n/et]oub/f ouoh n~yof efe~fw] nnefjaji e~bol. 
+               </Language>
+               <Language id="English">
+                  God is jealous, and the Lord is an avenger; the Lord is avenging with fury; the Lord takes vengeance on His adversaries and drives out His enemies.
+               </Language>
+               <Language id="Arabic">
+                  الرب إله غيور ومنتقم. ينتقم الرب بغضب من المقاومين له وهو يبيد أعداءه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic ourefw~ou n~h/t pe ouoh ounis] te tefjom pirefernobi n~neftoubof: P[oic efqen ouqae~ ouoh efqen oumonmen n~je pefmwit ouoh han[/pi nev~mwit n~te nef[alauj.
+               </Language>
+               <Language id="English">
+                  The Lord is patient and His power is great, but the Lord will not acquit the guilty. His way is in destruction and in a whirlwind; the clouds are the dust of His feet.
+               </Language>
+               <Language id="Arabic">
+                  الرب هو طويل الروح و عظيمة هي قوته. ولكنه لا يبرر الخاطئ. الرب فى الزوبعة وفى العاصف طريقة. والسحاب طريق أقدامه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efe~mbon ev~iom ouoh ft~swoui mmof ouoh niiarwou t/rou efe~swf mmwou acerkouji n~je y~bacan nem pikarmeloc ouoh n/etvori ebol n~te pilibanoc aumounk.
+               </Language>
+               <Language id="English">
+                  He threatens the sea and makes it dry, and he dries up all the rivers. Bashan and Carmel have diminished, and the flowers of Lebanon have died out.
+               </Language>
+               <Language id="Arabic">
+                  يغضب على البحر فييبسه وجميع الأنهار يجففها. قد ذوى بيسان والكرمل. وذبل زهر لبنان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aumonmen n~je nitwou ebolm~mof ouoh aukimi n~je nikalamvwou ouoh afkwl n~je p~kahi ebolha pefho mai niben nem n/t/rou etsop n~q/tou:
+               </Language>
+               <Language id="English">
+                  By Him the mountains are shaken and the hills quake, and the earth heaves at His presence—the whole earth and all who dwell in it.
+               </Language>
+               <Language id="Arabic">
+                  تزلزلت منه الجبال وتحركت الآكام وأنطوت الأرض من أمام وجهه. الدنيا وكل الساكنين فيها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim eynas~oh~i eratf ebolha p~ho m~pefjwnt ouoh nim eynas] oub/f qen pim~bon n~te pefjwnt: pefm~bon fnabwl n~hanar,wn ebol ouoh nipetra aumonmen ebol m~mof.
+               </Language>
+               <Language id="English">
+                  Who can stand before His wrath? Who can withstand the fierceness of His anger? His fury melts away ruling powers, and He shatters the rocks into pieces.
+               </Language>
+               <Language id="Arabic">
+                  من يقدر أن يقف أمام سخط وجهه. ومن هو الذى يقاومه عند حنق رجزه. لأن غضبه يبيد الأراخنة ومنه تزلزلت الصخور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ou,rc pe P[oic n~n/etjoust ebol qajwf qen p~ehoou nouhojhej: ouoh efcwoun n~n/eterho] qatefh/: 
+               </Language>
+               <Language id="English">
+                  The Lord is merciful to those who wait on Him in the day of affliction, and He knows those who reverence Him:
+               </Language>
+               <Language id="Arabic">
+                  صالح هو الرب لمنتظريه فى يوم ضيقهم. وهو عارف لخائفيه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh qen oukataklucmoc n~te oujinmosi efi~ri n~oujwk n~n/ettwoun m~mwou ejwf: nem nefjaji efe[oji n~cwou n~je ou,aki.
+               </Language>
+               <Language id="English">
+                  For with an overwhelming flood He shall make an end to those rising up, and darkness will pursue His enemies.
+               </Language>
+               <Language id="Arabic">
+                  وبطوفان عابر يصنع هلاكاً تاماً بالقائمين عليه. وأعداؤه يطاردهم ظلام.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 8:2,1</Language>
+               <Language id="Arabic">مزمور 8: 2 ,1</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ebolqen rwou n~hankouji n~a~lwoui~: nem n/eyouem[i akcebte pic~mou:
+               </Language>
+               <Language id="English">
+                  From the mouths of babies and nursing infants you prepared praise.
+               </Language>
+               <Language id="Arabic">
+                  من أفواه الأطفال والرضعان هيأت سبحاً:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic pen[oic m~v~r/] n~ous~v/ri: afswpi n~je pekran hijen p~kahi t/rf: All/louia.
+               </Language>
+               <Language id="English">
+                  O Lord, our Lord, how wondrous is Your name in all the earth. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أيها الرب ربنا مثل عجب صار أسمك على الأرض كلها. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 20:20-28</Language>
+            <Language id="Arabic">متى 20: 20-28</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Tote aci~ harof n~je y~mau n~nens/ri n~zebedeoc nem necs/ri ecouwst m~mof ouoh eceretin m~mof n~ouhwb.
+               </Language>
+               <Language id="English">
+                  Then the mother of Zebedee’s sons came to Him with her sons, kneeling down and asking something from Him.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ جاءت إليه أم إبني زبدى مع إبنيها وسجدت له وسألته شيئاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejaf nac je ou pe eteouasf pejac naf je a~joc hina n~te nas/ri c~nau n~te ouai m~mwou hemci catekoui~nam nem ouai catekja[/ n~h~r/i qen tekmetouro: 
+               </Language>
+               <Language id="English">
+                  And He said to her, “What do you wish?” She said to Him, “Grant that these two sons of mine may sit, one on Your right hand and the other on the left, in Your kingdom.”  
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال لها ماذا تريدين. قالت له أن تقول قولا أن يجلسا إبناي الأثنان أحدهما عن يمينك والآخر عن شمالك فى ملكوتك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aferouw~ n~je I/couc pejaf je n~tetene~mi an je a~reteneretin eybeou ouon sjom m~mwten e~oe pia~vot e]nacof ouoh piwmc e]nawmc m~mof eretenemc y/nou pejwou: naf je ouon sjom m~mon.
+               </Language>
+               <Language id="English">
+                  But Jesus answered and said, “You do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?” They said to Him, “We are able.”
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال أنكما لستما تعلمان ما تطلبان. أتقدران أن تشربا الكاس التى أنا مزمع أن أشربها وبالصبغة التى أصطبغها تصطبغانها. فقالا له أنا لقادران.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou n~je I/couc je pia~vot men eretenecof ouoh piwmc tetennawmc mmof e~hemci de cataoui~nam nem taja[/ vwi an pe et/if alla van/ pe eta Paiwt et qen niv/oui cebtwtf nwou:
+               </Language>
+               <Language id="English">
+                  So He said to them, “You will indeed drink My cup, and be baptized with the baptism that I am baptized with; but to sit on My right hand and on My left is not Mine to give, but it is for those for whom it is prepared by My Father [who is in heaven]”
+               </Language>
+               <Language id="Arabic">
+                  فقال لهما يسوع أما الكأس فتشربانها وبالصبغة التى أصطبغ بها أنا تصطبغان. وأما جلوسكما عن يمينى وعن يسارى فليس لى أن أعطيه الا للذين أعد لهم من قبل أبي الذى فى السموات.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etaucwtem de n~je pikem/t m~may/t/c au,~remrem eybe picon c~nau:
+               </Language>
+               <Language id="English">
+                  And when the ten heard it, they were greatly displeased with the two brothers. 
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع العشرة التلاميذ تقمقموا من أجل الأخوين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   I/couc de afmou] e~rwou pejaf nwou je tetenemi je niar,wn n~te nieynoc petoi n~[oic e~rwou ouoh noukenis] etoi n~ersisi e~jwou. 
+               </Language>
+               <Language id="English">
+                  But Jesus called them to Himself and said, “You know that the rulers of the Gentiles lord it over them, and those who are great exercise authority over them.  
+               </Language>
+               <Language id="Arabic">
+                  فدعاهم يسوع وقال لهم أما علمتم أن رؤساء الأمم يسودنهم وعظماءهم يتسلطون عليهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] de an peynaswp qen y/nou alla v/eyouws eernis] qei y/nou efeerdia~kwn nwten:
+               </Language>
+               <Language id="English">
+                  Yet it shall not be so among you; but whoever desires to become great among you, let him be your servant.
+               </Language>
+               <Language id="Arabic">
+                  وأما أنتم فلا يكون فيكم هكذا ولكن من أراد أن يكون فيكم كبيراً فليكن لكم خادماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/ey ouws e~erhouit qen y/nou efe~erbwk nwten: 
+               </Language>
+               <Language id="English">
+                  And whoever desires to be first among you, let him be your slave—
+               </Language>
+               <Language id="Arabic">
+                  ومن يريد أن يكون فيكم أولاً فليكن لكم عبداً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] hwf m~p~s/ri m~v~rwmi netaf an eyrousems/tf alla e~semsi ouoh e~] n~tef'u,/ n~cw] ejen oum/s.
+               </Language>
+               <Language id="English">
+                  just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.”
+               </Language>
+               <Language id="Arabic">
+                  كما أن إبن البشر لم يآتٍ ليُخدم  بل ليخدم ويبذل نفسه فداء عن كثيرين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+         
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  In the minds of the antagonizing Jews, our Lord and Savior Jesus Christ was surrounded by people, troops, soldiers and warriors, similar to the kings of this world. These were the thoughts of the mother of John and James, sons of Zebedee. She came to our Savior while He was surrounded by the people and His disciples.
+               </Language>
+               <Language id="Arabic">
+                  الأفكار التى كانت لليهود المخالفين بسبب مخلصنا وملكنا المسيح. أنه مثل ملوك الأرض والجموع الكثيرة محيطة به. والجند والعساكر والمحاربون مثل الملوك. هكذا ظنت أم يوحنا ويعقوب إبنى زبدى. فكرت هكذا وأتت إلى مخلصنا أمام الجمع مع تلاميذه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  She worshipped Him with her sons and said, “Grant that my two sons may sit one on Your right hand, and the other on Your left, in Your kingdom.”
+               </Language>
+               <Language id="Arabic">
+                  وسجدت له مع إبنيها وسألته وطلبت منه هكذا قائلة: قل قولا أن يجلس إبناى الإثنان معك فى ملكوتك واحد عن يمينك والآخر عن يسارك فى عز مملكتك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Hear then what the merciful and most compassionate Lord, who desires salvation for the whole world, said, “Are you able to drink of the cup that I shall drink of and be baptized with the baptism that I am baptized with?”
+               </Language>
+               <Language id="Arabic">
+                  أسمعوا الرؤوف الكثير الرحمة الذى يريد حياة جميع العالم. قال: أتقدران أن تشربا الكأس التى أتيت بسببها لكى أشربها. والصبغة التى أصطبغها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They said to Him, “We are able.” He answered them, “You will indeed be able to, but to sit at My right hand and at My left is not Mine to give.
+               </Language>
+               <Language id="Arabic">
+                  فقالا نقدر أن نصنع هذا. فلعلكما حقاً تقدران. فأما الجلوس فليس لى أن أعطيه لكما.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  It shall be given to those chosen by My omnipresent Father.”
+               </Language>
+               <Language id="Arabic">
+                  لكنه لأبي المالئ كل موضع وهو الذى يعطيه لاصفيائه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The two brothers were quiet when they heard these words and departed because of the magnitude of His glory.
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع الأخوان هذا سكتا ومضيا من أجل عظم مجده.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

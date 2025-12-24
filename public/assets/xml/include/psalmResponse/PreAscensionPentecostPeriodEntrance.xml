@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod ^ EntranceOfTheHolyFamily">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Entrance of the Holy Family into Egypt from the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc p~ouro n~te p~w~ou aftwnf e~bolqen n/eymwout qen pie~hoou m~mahsomt. afi~ eqoun e~p~kahi n~,/mi: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Jesus Christ, the King of Glory, rose from the dead on the third day; entered into the land of Egypt. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ملك المجد قام من الأموات في اليوم الثالث, دخل إلي أرض مصر. الليلويا الليلويا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

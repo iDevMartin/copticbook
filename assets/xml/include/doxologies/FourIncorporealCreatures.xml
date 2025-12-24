@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FourIncorporealCreatures:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Four Incorporeal Creatures</Language>
+            <Language id="Arabic">ذوكصولوجية للأربعة الحيوانات</Language>
+            <Language id="Coptic">Pif~tou n~zwoun...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of the Four Incorporeal Creatures:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Pif~tou n~zwoun n~a~cwmatoc: etfai qa piharma n~te V]: ouho m~moui~ nem ouho m~maci: ouho n~rwmi nem ouho n~a~/toc.
+            </Language>
+            <Language id="English">
+               The four incorporeal creatures, carry the throne of God, a face of lion and a face of a ram, a face of a man and a face of an eagle.
+            </Language>
+            <Language id="Arabic">
+               الأربعة الحيوانات غير المتجسدين الحاملين مركبة الله وجه أسد ووجه ثور ووجه إنسان ووجه نسر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh on eumeh m~bal: hi t~h/ nem hi vahou m~mwou: coou n~tenh m~piouai: nem coou n~tenh m~pikeouai.
+            </Language>
+            <Language id="English">
+               And they are full of eyes, from their fronts to their backs, six wings to the one, and six wings to the other.
+            </Language>
+            <Language id="Arabic">
+               وهم أيضا ممتلئون أعينا من قدام ومن خلفهم ستة أجنحة للواحد وستة أجنحة للآخر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Qen c~nau euhwbc n~nouho: qen c~nau euhwbc n~nou[alauj: euh/l de qen pikec~nau: euws e~bol eujw m~moc.
+            </Language>
+            <Language id="English">
+               With two they cover their faces, with two they cover their feet, they fly with the other two, and proclaim and say.
+            </Language>
+            <Language id="Arabic">
+               باثنين يغطون وجوههم وباثنين يغطون أرجلهم يطيرون باثنين ويصرخون قائلين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je ,~ouab ouoh ,~ouab: ,~ouab Po#c# cabawy: t~ve nem p~kahi meh e~bol: qen pekw~ou nem pektaio~.
+            </Language>
+            <Language id="English">
+               "Holy and holy, holy O Lord of hosts, heaven and earth are full of, Your glory and Your honor."
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس رب الصاباؤوت السماء والأرض مملوءتان من مجدك وكرامتك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anon de hwn tenhwc nemwou: qen hanc~m/ n~at,arwou: je a~gioc a~gioc: a~gioc w~ Kurioc.
+            </Language>
+            <Language id="English">
+               We also praise with them, with incessant voices, saying "Holy holy, holy O Lord."
+            </Language>
+            <Language id="Arabic">
+               ونحن أيضا نسبح معهم بأصوات غير ساكتة قائلين قدوس قدوس قدوس أيها الرب.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/FourIncorporealCreatures"/>
+      </Section>
+   </Season>
+</Document>

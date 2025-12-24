@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StMaryOfEgypt:All">
+      <Title>
+         <Language id="English">St. Mary of Egypt</Language>
+         <Language id="Arabic">القديسة مريم المصرية</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

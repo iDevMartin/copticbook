@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StRoweis:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Roweis</Language>
+            <Language id="Arabic">ذوكصولوجية أنبا رويس - تيجى</Language>
+            <Language id="Coptic">Akemp~sa gar al/ywc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Roweis (Teji):
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Akemp~sa gar al/ywc: e~tauw~li m~mok n~je niaggeloc: e~qoun e~Il/#m# n~te t~ve: abba Teji Yeovanioc. 
+            </Language>
+            <Language id="English">
+               For you truly were worthy, to be lifted up by the angels, to the heavenly Jerusalem, Abba Roweis the Beholder of God.
+            </Language>
+            <Language id="Arabic">
+               لأنك مستحق بالحقيقة يا من حملتك الملائكة داخل أورشليم السمائية يا أنبا فريج ناظر الإله. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe p~a~sai n~teniqici: e~taki~ri m~mwou qen pekcwma: san~tecswpi n~je tek'u,/: n~ouervei n~te Pipn#a# eyouab. 
+            </Language>
+            <Language id="English">
+               Because of your many pains, you made to your body, so that your soul may be, an altar for the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               لأجل كثرة أتعابك التي قاسيتها في جسداك حتى صارت نفسك هيكلا للروح القدس. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Cwr e~bol n~je pekran eyouab: qen niyws n~te ni,wra n~&lt;/mi: eybe nim/ni nem hans~v/ri: e~te V] aitou hitotk. 
+            </Language>
+            <Language id="English">
+               Your holy name has spread, throughout the lands of Egypt, because of the signs and wonders, the Lord performed through you.
+            </Language>
+            <Language id="Arabic">
+               ذاع اسمك الطاهر في حدود إقليم مصر من أجل الآيات والعجائب التي أجراها الله على يديك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Tatci n~nek[alauj eyouab: acermeyre nan qen neks~v/ri: e~taki~ri m~mwou qen t~,wra n~&lt;/mi: qen t~jom n~te P,#c#. 
+            </Language>
+            <Language id="English">
+               Your holy footprints, have witnessed your wonders to us, which you have performed in the land of Egypt, through the power of Christ.
+            </Language>
+            <Language id="Arabic">
+               خطوات قدميك المقدسة تشهد لنا بعجائبك في إقليم مصر بقوة المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouwini gar n~te pekcwma: safe~rouwini n~je nencmwa: ouoh tek'u,/ eyouab: ectwbh e~h~r/i e~jen nen'u,/. 
+            </Language>
+            <Language id="English">
+               For the light of your body, has enlightened our bodies, and your holy soul, prays on behalf of our souls.
+            </Language>
+            <Language id="Arabic">
+               لأن جسدك يضئ أجسادنا ونفسك الطاهرة تطلب عن أنفسنا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pekbioc ous~v/ri te: peka~gwn ounis] pe pekw~ou:  f~[ici e~masw: qen y~m/] n~niack/t/c.
+            </Language>
+            <Language id="English">
+               Your life is a wonder, and your fighting is great, your glory was greatly exalted, in the midst of the ascetics.
+            </Language>
+            <Language id="Arabic">
+               سيرة حياتنا عجيبة وجهادك عظيم ومجدك في وسط النساك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt eyouab  n~dikeoc : abba Teji Yeovanioc: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, O our righteous holy father, Abba Roweis the Beholder of God, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة يا أبانا القديس انبا فريج ناظر الإله حبيب المسيح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StRoweis"/>
+      </Section>
+   </Season>
+</Document>

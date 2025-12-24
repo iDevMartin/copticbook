@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         He proceeds to the East side of the altar, faces toward the west, and continues censing, and says:
+      </Language>               
+      <Language id="Arabic">
+         ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Peklaoc de marefswpi qen pic~mou e~hananso n~so nem hany~ba n~y~ba eui~ri m~pekouws.                  
+      </Language>
+      <Language id="English">
+         But let Your people be in blessing, thousands of thousands and ten thousand times ten thousand, doing Your will.
+      </Language>
+      <Language id="Arabic">
+         وأما شعبُك فليكن بالبركةِ، ألوفَ ألوفٍ وربواتِ ربواتٍ، يصنعون إرادَتك.
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         Then he proceeds to the west side of the altar, faces toward the East, and continues censing, and says:
+      </Language>               
+      <Language id="Arabic">
+         ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Qen pih~mot nem nimetsenh/t nem ]metmairwmi n~te pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.                  
+      </Language>
+      <Language id="English">
+         Through the grace, compassion, and love-of-mankind of Your only-begotten Son, our Lord, God, and Savior Jesus Christ.
+      </Language>
+      <Language id="Arabic">
+         بالنعمةِ والرأفاتِ ومحبةِ البشرِ اللواتي لابنِك الوحيد ربِّنَا وإلهنا ومخلصنا يسوع المسيح.
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         Then the priest offers incense before the sanctuary three times toward the East, bowing his head each time, saying the first time:
+      </Language>               
+      <Language id="Arabic">
+         ثم أن الكاهن يعطى البخور أمام الهيكل إلى الشرق ثلاث أياد. وفي كل يدٍ يخضع برأسه. وفي اليد الاولى يقول: 
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/ProcessionOfIncenseSilentPart"/>
+   
+   <Comment>
+      <Language id="English">
+         Then the priest censes toward the north, while saying for the Virgin: 
+      </Language>               
+      <Language id="Arabic">
+         ثم يبخر إلى جهة بحري قائلاً لأجل العذراء:
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/TentiNem"/>
+</Document>
+      

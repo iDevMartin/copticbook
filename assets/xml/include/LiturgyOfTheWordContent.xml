@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Liturgy of the Word</Language>
+      <Language id="Arabic">قداسُ الكلمة</Language>
+   </Title>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+         
+   <Group>
+      <Season id="CovenantThursday | JoyousSaturday">
+         <Comment>
+            <Language id="English">
+               The hymn of the censer and the hymn of the intercessions are not chanted.
+            </Language>
+         </Comment>
+         
+         <Role id="People">
+            <InsertDocument path="include/TenouwstSeasonalResponse"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="People">
+            <InsertDocument path="include/HymnOfTheCenser"/>
+            
+            <Season id="FeastOfTheCross">
+               <InsertDocument path="include/HymnOfTheCross"/>
+            </Season>
+            
+            <Group>
+               <Season id="(JonahFast | (GreatFast ^ Weekdays)) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast)">
+                  <InsertDocument path="include/TenouwstSeasonalResponse"/>
+               </Season>
+               
+               <Season id="Other">
+                  <InsertDocument path="include/hiten/HymnOfTheIntercessions"/>
+               </Season>
+            </Group>         
+         </Role>
+      </Season>
+   </Group>
+      
+   <InsertDocument path="include/PaulineEpistle"/>
+   
+   <Group>
+      <Season id="CovenantThursday">
+         <Comment>
+            <Language id="English">
+               The Catholic Epistle, the Praxis, and the Synaxarion are not read.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/CatholicEpistle"/>         
+         <InsertDocument path="include/Praxis"/>         
+         <InsertDocument path="include/Synaxarion"/>
+         <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="veneration/VenerationLink"/>
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   
+   <Group>
+      <Season id="HosannaSunday">
+         <ForceSeason id="HosannaSundayFirstLiturgyGospel">
+            <InsertDocument path="include/LitanyOfTheGospel"/>
+         </ForceSeason>
+         
+         <Role id="People">
+            <Section expanded="true" antiphonePitch="1">
+               <Title>
+                  <Language id="English">English/Arabic Gospel Response</Language>
+                  <Language id="Arabic">مرد الإنجيل</Language>
+               </Title>
+               
+               <InsertDocument path="include/HosannaResponse"/>
+               <InsertDocument path="include/Jefcmarwout"/>            
+            </Section>
+            
+            <Section antiphonePitch="1">
+               <Title>
+                  <Language id="English">Coptic Gospel Response</Language>
+                  <Language id="Coptic">W~canna tw u~iw...</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     W~canna tw u~iw Dauid: palin tw u~iw Dauid: f~c~marwout n~je v/eyn/ou: qen v~ran m~P[oic n~te nijom.
+                  </Language>
+                  <Language id="English">
+                     Hosanna to the Son of David; again to the Son of David. Blessed is He who comes: in the Name of the Lord of hosts
+                  </Language>
+                  <Language id="Arabic">
+                     أوصنا لابن داود وأيضاً لابن داود. مبارك الأتي باسم الرب إله القوات.
+                  </Language>
+               </Text>
+               
+               <InsertDocument path="include/HosannaResponse"/>
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Section>
+         </Role>
+         
+         <Role id="Reader">
+            <BibleReference reference="Mark 11:1-11" type="section"/>
+         </Role>
+         
+         <Role id="People">
+            <Section expanded="true" antiphonePitch="1">
+               <Title>
+                  <Language id="English">English/Arabic Gospel Response</Language>   
+                  <Language id="Arabic">مرد الإنجيل</Language>            
+               </Title>
+               
+               <InsertDocument path="include/HeWhoSitsUponTheCherubim"/>      
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Section>
+            
+            <Section antiphonePitch="1">
+               <Title>
+                  <Language id="English">Coptic Gospel Response</Language>
+                  <Language id="Coptic">W~canna en tic...</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     W~canna en tic u~'ictic palin en tic u~'ictic: f~c~marwout n~je v/eyn/ou: qen v~ran m~P[oic n~te nijom.
+                  </Language>
+                  <Language id="English">
+                     Hosanna in the highest; again in the highest. Blessed is He who comes: in the Name of the Lord of hosts
+                  </Language>
+                  <Language id="Arabic">
+                     أوصنا في الأعالي وأيضاً في الأعالي. مبارك الأتي باسم الرب إله القوات.
+                  </Language>
+               </Text>
+               
+               <InsertDocument path="include/HosannaResponse"/>
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Section>
+         </Role>
+         
+         <Role id="Reader">
+            <BibleReference reference="Luke 19:29-48" type="section"/>
+         </Role>
+         
+         <Role id="People">
+            <Section expanded="true" antiphonePitch="1">
+               <Title>
+                  <Language id="English">English/Arabic Gospel Response</Language>       
+                  <Language id="Arabic">مرد الإنجيل</Language>        
+               </Title>
+               
+               <InsertDocument path="include/OnTheWayTheySpreadGarments"/>      
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Section>
+                     
+            <Section antiphonePitch="1">
+               <Title>
+                  <Language id="English">Coptic Gospel Response</Language>
+                  <Language id="Coptic">W~canna bacili tou...</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     W~canna bacili tou Icra/l palin bacili tou Icra/l: f~c~marwout n~je v/eyn/ou: qen v~ran m~P[oic n~te nijom.
+                  </Language>
+                  <Language id="English">
+                     Hosanna to the King of Israel; again to the King of Israel. Blessed is He who comes: in the Name of the Lord of hosts
+                  </Language>
+                  <Language id="Arabic">
+                     أوصنا ملك إسرائيل وأيضاً ملك إسرائيل. مبارك الأتي باسم الرب إله القوات.
+                  </Language>
+               </Text>
+                  
+               <InsertDocument path="include/HosannaResponse"/>
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Section>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/LitanyOfTheGospel"/>   
+   <InsertDocument path="include/PostLitanyOfTheGospel"/>
+</Document>

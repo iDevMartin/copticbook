@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StParsoumaTheNaked:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Parsouma the Naked: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StParsoumaTheNaked"/>
+      </Season>
+   </Group>
+</Document>

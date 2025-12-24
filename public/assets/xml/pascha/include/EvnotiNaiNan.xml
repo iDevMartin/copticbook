@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest raises the cross and chants:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Vnou] nai nan: yes ounai e~ron: ariounai neman: qen tekmetouro.
+         </Language>
+         <Language id="English">
+            O God, have mercy upon us, settle mercy upon us, show us mercy in Your kingdom.
+         </Language>
+         <Language id="Arabic">
+            اللهم ارحمنا. قرر لنا رحمة. صنع معنا رحمة فى ملكوتك.
+         </Language>
+      </Text>
+   </Role>
+</Document>

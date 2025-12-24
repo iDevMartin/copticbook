@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" ExpandSections="true">
+   <Title>
+      <Language id="English">Hymns that are chanted in the Presence of the Pope, a Metropolitan, or a Bishop</Language>
+      <Language id="Arabic">الحان في وجود الاب البطريرك أو الاسقف</Language>
+   </Title>
+   
+   <Section>
+      <Title>
+         <Language id="English">Blessed Are You</Language>
+         <Language id="Coptic">Kc~marwout</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            During the entrance of the Pope or a metropolitan or a bishop in to the church, the following may be said:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+   
+      <Comment>
+         <Language id="English">
+            In the presence of the Pope, the following verse is chanted:   
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            Hiten nieu,/ n~te peniwt ettai/out n~ar,ie~reuc papa abba (nim) : P[oic a~rih~mot nan : m~pi,w e~bol n~te nennobi.
+         </Language>
+         <Language id="English">
+            Through the prayers, of our honored father, the archpriest, Papa Abba (…). O Lord grant us the forgiveness of our sins.
+         </Language>
+         <Language id="Arabic">
+            بصلواتِ أبينا المكرم رئيس الكهنة البابا الأنبا (…)، يارب انعم لنا بغفران خطايانا. 
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            In the presence of a metropolitan or a bishop, the following verse is chanted:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Hiten nieu,/ n~te peniwt ettai/out n~ar,ie~reuc papa abba (nim) nem peniwt m~m/tropolit/c (n~e~pickopoc) abba (nim): P[oic a~rih~mot nan : m~pi,w e~bol n~te nennobi.
+         </Language>
+         <Language id="English">
+            Through the prayers, of our honored father, the archpriest, Papa Abba (…) and the honored Metropolitan (Bishop) Abba (…). O Lord grant us the forgiveness of our sins.
+         </Language>
+         <Language id="Arabic">
+            بصلواتِ أبينا المكرم رئيس الكهنة البابا الأنبا (…)، والمطران (الأسقف) المكرم أنبا (…) ، يارب انعم لنا بغفران خطايانا. 
+         </Language>         
+      </Text>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="Coptic">Eulogimenoc</Language>
+      </Title>
+   
+      <InsertDocument path="include/EulogimenocIntro.1"/>
+      <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="Coptic">Ic Pat/r a~gioc</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            During the offeratory, the following hymn is chanted:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/OfferatoryChantIntro"/>
+      <InsertDocument path="include/OfferatoryChant_Bishop"/>
+      <InsertDocument path="include/OfferatoryChantConclusion"/>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="Coptic">Twbh hina</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The following response may be chanted during the Thanksgiving Prayer:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/ThanksgivingPrayer_Bishop"/>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="Coptic">Nicabeu</Language>
+      </Title>
+   
+      <Comment>
+         <Language id="English">
+            Before the absolution of the servants, the following hymn is chanted preceding “<span class="Coptic">Cwyic a~m/n</span>”:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Nisavev"/>
+   </Section>
+   
+   <InsertDocument path="include/PaulineEpistleGreatResponse"/>
+   <InsertDocument path="include/EAghapy"/>
+   <InsertDocument path="include/HymnOfVirtues"/>
+   <InsertDocument path="include/ToMakario"/>
+   <InsertDocument path="include/psalmResponse/PsalmBishop"/>
+   <InsertDocument path="include/GreatPinishti"/>
+   <InsertDocument path="include/AlternateConfessionResponse"/>
+   <InsertDocument path="include/conclusion/Bishop"/>
+</Document>

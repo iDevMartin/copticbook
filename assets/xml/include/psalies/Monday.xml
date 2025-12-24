@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Mondays">
+      <Group>
+         <Season id="KoiahkSeason">
+            <InsertDocument path="include/psalies/koiahk/Monday"/>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="include/psalies/MondayContents"/>
+         </Season>
+      </Group>
+   </Season>
+</Document>

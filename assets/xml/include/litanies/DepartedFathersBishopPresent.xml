@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            If a metropolitan or a bishop is present, he adds:
+         </Language>
+         <Language id="Arabic">
+            وفي وجود مطران أو أسقف يضاف:
+         </Language>      
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic m~peniwt ettai/out e~pickopou (m/tropolitou) Abba (...)
+         </Language>
+         <Language id="English">
+            Remember O Lord, our honored father the Bishop (Metropolitan), Abba (...)
+         </Language>
+         <Language id="Arabic">
+            أذكُرْ ياربُّ أبينا الطوباويّ الأسقف أنبا (...)،
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen peniwt ettai/out n~e~pickopoc (m~m/tropolit/c) Abba (...) ke twn oryodoxwn /~mwn e~pickopwn.
+         </Language>
+         <Language id="English">
+            Pray for our honored father the Bishop (Metropolitan) Abba (...) and for our orthodox bishops. 
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن أبينا الطوباويّ الأسقف أنبا (...) وسائر أساقفتنا ألأرثوذكسيين.
+         </Language>         
+      </Text>         
+   </Role>       
+</Document>

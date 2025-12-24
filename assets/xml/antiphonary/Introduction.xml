@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Introduction</Language>
+         <Language id="Arabic">المقدمة</Language>
+      </Title>
+   
+      <Group>
+         <Season id="Feasts">
+            <Comment>
+               <Language id="English">
+                  In the festive tune:
+               </Language>               
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Qen v~ran n~]t~riac: n~o~mooucioc: Viwt nem Ps/ri: nem Pip~neuma eyouab.
+               </Language>
+               <Language id="English">
+                  In the name of the Trinity, one in essence, the Father and the Son, and the Holy Spirit.
+               </Language>
+               <Language id="Arabic">
+                  بإسم الثالوث، المساوي، الآب والإبن، والروح القدس.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/praises/StMaryBeautifulDove"/>
+         </Season>
+         
+         <Season id="AdamDays">
+            <Comment>
+               <Language id="English">
+                  On Adam days, the following parts are chanted as an introduction to the antiphonary of the day or the commentary of the occasion:
+               </Language>
+               <Language id="Arabic">
+                  في الأيام الأدام ترتل القطع الآتية كمقدمة لدفنار اليوم أو طرح المناسبة:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="AdamTune"/>
+            <InsertDocument path="include/versesofthecymbals/Amoini"/>      
+            <InsertDocument path="include/praises/StMaryBeautifulDove"/>
+            
+            <Comment>
+               <Language id="English">
+                  The following is chanted in a unique tune:
+               </Language>
+               <Language id="Arabic">
+                   يرتل الآتي بلحنه المعروف:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/versesofthecymbals/AdamConclusion.1"/>
+            
+            <Comment>
+               <Language id="English">
+                  The saint of the day may be mentioned:
+               </Language>
+               <Language id="Arabic">
+                  أو يذكر قديس اليوم:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouon oumetcemnoc: n~h~r/i qen pikocmoc e~bolhiten pis~l/l: n~te ]agia Maria~ }paryenoc: nem (...).
+               </Language>
+               <Language id="English">
+                  All calmness, in the world, is through the prayer, of Saint Mary the Virgin, and (...)
+               </Language>
+               <Language id="Arabic">
+                  كل هدوء، في العالم، من قِبَل صلاة، القديسة مريم العذراء، و (...).
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="WatosDays">
+            <Comment>
+               <Language id="English">
+                  On Watos days, the following parts are chanted as an introduction to the antiphonary of the day or the commentary of the occasion:
+               </Language>
+               <Language id="Arabic">
+                  في الأيام الواطس ترتل القطع الآتية كمقدمة لدفنار اليوم أو طرح المناسبة:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="WatosTune"/>
+            <InsertDocument path="include/psalies/WeWorshipTheGoodFather"/>         
+            <InsertDocument path="include/doxologies/HailToYouOVirgin"/>  
+         </Season>
+      </Group>
+   </Section>
+</Document>

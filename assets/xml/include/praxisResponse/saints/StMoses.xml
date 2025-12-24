@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMoses:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Moses:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: &lt;ere piswij n~genneoc: &lt;ere pia~ylovoroc: Pijwri eyouab abba Mwc/
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: Hail to the noble athlete: Hail to the struggle bearer : The strong Saint Abba Moses
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد: السلام للبطل الشجاع السلام للابس الجهاد القوي القديس أنبا موسى.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

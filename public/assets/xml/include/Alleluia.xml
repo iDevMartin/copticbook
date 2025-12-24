@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            All/louia.
+         </Language>
+         <Language id="English">
+            Alleluia.
+         </Language>
+         <Language id="Arabic">
+            الليلويا. 
+         </Language>
+      </Text>
+   </Role>
+</Document>

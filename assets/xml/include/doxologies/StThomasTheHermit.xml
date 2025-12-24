@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StThomasTheHermit:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Thomas the Hermit</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس توما الراهب</Language>
+            <Language id="Coptic">Marenywo] w~ namenra]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Thomas the Hermit:
+            </Language>
+         </Comment>
+      	
+         <Text>
+            <Language id="Coptic">
+               Marenywo] w~ namenra]: n~tentaio~ qen ou]ma]: m~pairwmi n~dikeoc: peniwt e#y#u# Abba Ywmac.
+            </Language>
+            <Language id="English">
+               Let us gather together: To glorify with joy: This pure man: Our Father Abba Thomas.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Hwcte hijen pekyebio~: nem pekbioc n~aggelikon: akswpi n~ounis] n~lampac: ken pitwou n~Senc/fi n~Q~m/m.
+            </Language>
+            <Language id="English">
+               It was before your humbleness: And your angelic life: You became a great lamp: In the mountain of Shensheef in Akhmeem.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Akswpi gar n~ouvwct/r: n~referouwni hijen pikahi: w~ pimakarioc eyouwab: pa[oic n~iwt Abba Ywmac.
+            </Language>
+            <Language id="English">
+               For you have become a star: upon the Earth: O blessed and holy one: My father Abba Thomas.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Ouoh akw~fi m~pekcwma: qen hanack/t/c euqoci: san~tekswpi n~atkundinoc: qen pie~hoou n~te ]k~ricic.
+            </Language>
+            <Language id="English">
+               And you subdued your body: With many ascetic pains: So that you may be blameless: On the day of judgment.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               A~ pic~yoinoufi n~te nefa~ret/: ]m~p~ounof n~nen'u,/: m~v~r/] m~pia~rwmata: etr/t qen piparadicoc.
+            </Language>
+            <Language id="English">
+               His virtue's incense: Gave joy to our souls: Like spreading amber: In paradise.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Akemp~sa n~tekhemci: nem P,#c# Pennou]: hina n~tefouwnh nak n~hanmuct/rion eth/p: n~nefcaji n~je ounouc n~rwmi.
+            </Language>
+            <Language id="English">
+               You were worthy to sit: With Jesus our God: To reveal His secrets: No man could ever know.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Ououwini gar n~te pekcwma: saferouwini n~nencwma: ouoh tek'u,/ e#y#u#: ectwbh e~h~r/i e~jen nen'u,/.
+            </Language>
+            <Language id="English">
+               For the light of your body: Has enlightened our bodies: And your holy soul: Prays on behalf of our souls.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StThomasTheHermit"/>
+      </Section>
+   </Season>
+</Document>

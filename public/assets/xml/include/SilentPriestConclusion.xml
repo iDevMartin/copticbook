@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Qen pih~mot nem nimetsenh/t nem ]metmairwmi n~te pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.
+      </Language>
+      <Language id="English">
+         Through the grace, compassion, and love-of-mankind of Your only-begotten Son, our Lord, God, and Savior Jesus Christ.
+      </Language>
+      <Language id="Arabic">
+         بالنعمةِ والرأفاتِ ومحبةِ البشرِ اللواتي لابنِكَ الوحيد، ربِّنا وإلهِنا ومخلصِنا يسوعَ المسيحِ.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/SilentPriestConclusionEnding"/>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="English">
+         Today the sayings are fulfilled / 
+         From the prophecies and the proverbs / 
+         As Zechariah prophesied and said / 
+         A prophecy about <span class="Coptic">I/couc Pi,~rictoc</span><sup>3</sup>.
+      </Language>
+      <Language id="Arabic">
+         اليوم تمت الأقوال / 
+         من النبوات والأمثال / 
+         كما تنبأ زكريا وقال / 
+         نبوة عن إيسوس بي إخرستوس
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         <ol start="3">
+            <li>Isos-pe-Ikhrestos = Jesus Christ</li>                  
+         </ol>
+      </Language>
+   </Comment>
+</Document>

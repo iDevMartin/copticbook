@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!Feasts ^ (JonahFast | (GreatFast ^ Weekdays)) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast)">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hymn of the Censer</Language>
+               <Language id="Coptic">N~yo te...</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">         
+                  On weekdays of the Great Fast and during Jonah’s Fast, the following is chanted.
+               </Language>               
+               <Language id="Arabic">         
+                  ويقولون في أيام الصوم المقدس وفي أيام صوم نينوى:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  N~yo te ]sour/: n~noub n~kayaroc: etfai qa pijebc: n~,~rwm etc~marwout.
+               </Language>
+               <Language id="English">
+                  You are the censer of pure gold, bearing the blessed ember.
+               </Language>
+               <Language id="Arabic">
+                  أنت هي المجمرة الذهب النقي الحاملة جمر النار المبارك.
+               </Language>         
+            </Text> 
+         </Section> 
+      </Season>
+      
+      <Season id="FeastOfTheCross | (!Feasts ^ ((Weekdays ^ Fasts) | (GreatFast ^ Weekend) | FirstMondayOfGreatFast | LastFridayOfGreatFast))">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hymn of the Censer</Language>
+               <Language id="Coptic">}sour/...</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">         
+                  On all fasting days (except during the Great Fast and Jonah’s Fast), Saturdays and Sundays of the Great Fast, and on the two Feasts of the Cross, the following is chanted.
+               </Language>
+               <Language id="Arabic">         
+                  وفي كل أيام الأصوام (ما عدا أيام الصوم الكبير وصوم نينوى) وفي سبوت وآحاد الصوم الكبير وفي عيدي الصليب تقال هذه عوضاً عن السابقة:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/Teeshoree"/>
+         </Section>
+      </Season>            
+      
+      <Season id="Other">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hymn of the Censer</Language>
+               <Language id="Coptic">Taisour/...</Language>
+            </Title>
+            
+            <Group>
+               <Season id="!Crowning">
+                  <Comment>
+                     <Language id="English">         
+                        After the Absolution, the congregation chants the following hymn for the Virgin on Saturdays and Sundays (except during the Great Fast), the major feasts, the fifty days of the Paschaltide, and all non-fasting days.
+                     </Language>
+                     <Language id="Arabic">         
+                        أما الشعب فإنه يرتل أثناء ذلك - بعد قراءة تحليل الخدام -لحن العذراء هذا: وهو يقال في أيام السبوت والآحاد (ما عدا سبوت وآحاد الصوم الكبير) وفي الأعياد السيدية والخمسين وكل أيام الإفطار.
+                     </Language>
+                  </Comment>
+               </Season>
+            </Group>
+            
+            <InsertDocument path="include/TaishoreeContents"/>
+         </Section>   
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="Coptic">Marenywou]</Language>
+         <Language id="English">Let us gather...</Language>
+         <Language id="Arabic">فلنجتمع...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Marenywou] w~ pilaoc m~mainou] I/couc Pi,~rictoc n~te~ntaio (...)   
+         </Language>
+         <Language id="English">
+            Let us gather, we the people, the lovers of God, Jesus Christ, to honor (...) 
+         </Language>
+         <Language id="Arabic">
+            فلنجتمع نحنُ الشعبُ المحبُ للاله يسوع المسيح ، لنكرم (...)  
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/KhenEfranConclusionRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ou,~lom n~noub: ou,~lom n~hat: ou,~lom n~w~ni m~margarit/c e~h~r/i e~jen t~a~ve (...)
+         </Language>
+         <Language id="English">
+            A Crown of gold, a crown of silver, a crown of pearl stones on the head of (...) 
+         </Language>
+         <Language id="Arabic">
+            إكليل ذهب إكليل فضة إكليل جوهرى على رأس (...)
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/KhenEfranConclusionRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Je a~m/n a~m/n a~m/n: All/louia piw~ou va Pennou] pe.   
+         </Language>
+         <Language id="English">
+            Say amen, amen, amen. Alleluia. The Glory belongs to God.
+         </Language>
+         <Language id="Arabic">
+            أمين أمين أمين ، الليلويا ، المجد هو لألهنا.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            This verse for the Saint Mary may be chanted:       
+         </Language>
+      </Comment> 
+      
+      <InsertDocument path="include/veneration/HearODaughter"/>
+      
+      <Text>
+         <Language id="English">
+            And the Peace of God be with you, be with you all, all you Peoples of Christ, and my you hear His joyful voice saying, “Enter you into the Paradise of Delight.” Through the Intercessions of (..._    
+         </Language>
+         <Language id="Arabic">
+            وسلام الله يكون معكم يا شعب المسيح بأجمعكم وبصوته الفرح يسمعكم القائل ادخلوا إلى فرح الفردوس بصلاة (...)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Axia axia axia ]agia Maria ]paryenoc.   
+         </Language>
+         <Language id="English">
+            Worthy, worthy, worthy, Saint Mary the Virgin.
+         </Language>
+         <Language id="Arabic">
+            مستحقة مستحقة مستحقة القديسة مريم العذراء.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/Axios"/>
+      
+   </Section>
+</Document>

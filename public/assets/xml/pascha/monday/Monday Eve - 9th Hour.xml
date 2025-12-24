@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday Eve (The Ninth Hour)</Language>
+         <Language id="Arabic">ليلة الأثنين (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~jwrh m~p~c~nau (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Micah 2:3-11</Language>
+               <Language id="Arabic">ميخا 2: 3-11</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Micah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai nai ne n/ e~tef jw m~mwou n~je P[oic je h/ppe a~nok ]namokmek e~han pethwou e~jen tai vul/: nai e~tetennas~w~li an n~netenmo] e~bol n~q/tou: ouoh n~netenmosi e~retencoutwn n~ouho] qen ouho]: je ouc/ou efhwou pe. 
+               </Language>
+               <Language id="English">
+                  Therefore thus says the Lord: "Behold, I am devising evils against this tribe from which you shall not lift up your neck, nor will you suddenly walk upright, for this is a time of evil.
+               </Language>
+               <Language id="Arabic">
+                  مـن أجـل ذلك هكذا ما يـقوله الرب. هأنذا أفكر بالشرور على هذه القبيلة. ومن ثم لا تقدرون أن ترفعوا أعناقكم منها ولا تمشون متشامخين. لأنه زمان ردئ. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen pie~hoou e~tem~mau eue~[i n~ouparabol/ e~jen y/nou: ouoh eue~erh/bi n~ouh/bi qen ouhwc eujw m~moc: je qen outalepwria~ acertalepwrin:
+               </Language>
+               <Language id="English">
+                  In that day a parable shall be taken up against you, and a dirge will be wailed, saying, 'In misery we have suffered hardship.
+               </Language>
+               <Language id="Arabic">
+                  ذلك اليوم يتخذ عليكم مثل وينوحون نوحاً بتسبيح قائلين: لقد شقيت شقاء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ttoim~palaoc aurasc m~v~noh ouoh ne m~mon petsws m~mof pe eyreftacyo: neten iohi aurasou: neten messo] auvasou:
+               </Language>
+               <Language id="English">
+                  The portion of my people has been measured out with a measuring line, and there was no one who was able to stop Him. Our fields have been divided among them.'
+               </Language>
+               <Language id="Arabic">
+                  ونصيب شعبى قاسوه بالحبل. ولم يكن من يحوله ليرجع. قاسوا حقولكم وأقتسموا بقاعكم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai n~nefswpi nak n~je v/eynahioui n~ounoh qen ouk~l/roc. Mperrimi qen han ermwoui~ qen ]ekk~l/cia~ n~te[oic P[oic:
+               </Language>
+               <Language id="English">
+                  Therefore there will be no one to put out a measuring line for a lot for you in the assembly of the Lord.
+               </Language>
+               <Language id="Arabic">
+                  من أجل هذا لا يكون لك من يلقى حبلاً فى نصيب ميراث.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oude m~pen y~routaouo erm/ e~bol e~jen vai: ou gar n~nef,w m~p~sws n~cwf n~je v/etjw m~moc: 
+               </Language>
+               <Language id="English">
+                  "Do not shed tears, nor even weep over these things; for He will not dismiss the reproaches who says, 
+               </Language>
+               <Language id="Arabic">
+                  لا تبكوا بدموع فى كنيسة الرب. ولا تسكبوا العبرات على هذا لأنه لا يترك التعيير عنه القائل: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P/i n~Iakwb af]jwnt m~pip~neuma n~te P[oic: m/ nai an ne nef hb/oui~ etsop naf: m/ nef caji naneu naf an ouoh aumosi eucoutwn:
+               </Language>
+               <Language id="English">
+                  'The house of Jacob has provoked the Spirit of the Lord; are these not His practices? Are not His words good with Him, and have they not proceeded as predicted?
+               </Language>
+               <Language id="Arabic">
+                  أن بيت يعقوب أغضب روح الرب. أليست هذه أعماله الكائنة معه. أليس كلامه صالحاً نحو من يسلك بالإستقامة وقام
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afohi e~ratf hit~h/ n~je palaoc eumetjaji oube tefhir/n/: pefsar auraqtf ep~jinw~li n~ouhelpic n~ouqomqem n~te oupolemoc.
+               </Language>
+               <Language id="English">
+                   And previously, for enmity my people resisted against His peace. They flayed his skin to remove hope in the ravages of war.
+               </Language>
+               <Language id="Arabic">
+                  شعبى بالعداوة قبالة سلامته. سلخوا جلده لينزع الرجاء من أنكسار الحرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai nihugoumenoc n~te palaoc eue~hitou e~bol qen ni/i n~te p~ounof eybe nouh~b/oui~ ethwou auhitou e~bol. 
+               </Language>
+               <Language id="English">
+                  Therefore those leading my people will be cast out of their luxurious homes; they have been driven out because of their wicked practices. 
+               </Language>
+               <Language id="Arabic">
+                  من أجل ذلك مدبرو شعبى يطرحون خارجاً من بيوت نعيمهم: من أجل أعمالهم الشريرة طردوا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qwnt e~han twou n~e~neh:
+               </Language>
+               <Language id="English">
+                  Draw near to the everlasting mountains.”
+               </Language>
+               <Language id="Arabic">
+                  اقتربوا إلى الجبال الدهرية
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Twnk masenak je vai pe pekm~ton an e~reten e~tako qen outako eybe ou[wqem. a~reten vwt m~mon v/et[oji n~ca y/nou.
+               </Language>
+               <Language id="English">
+                  Arise and depart, for this is not a final resting place for you on account of uncleanness; you have been utterly destroyed by corruption. You were pursued by no one pursuing!
+               </Language>
+               <Language id="Arabic">
+                  قم انطلق لأنه ليست هذه هى راحتك. لقد هلكتم هلاكاً من أجل النجاسة وهربتم وليس من يطردكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 17:6,1</Language>
+               <Language id="Arabic">مزمور 17: 6 ,1</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Anok aiws e~bol Je akcwtem e~roi: rek pekmasj e~roi ouoh cwtem e~nacaji: 
+               </Language>
+               <Language id="English">
+                  I cried out, because You listened to me, O God; incline Your ear to me, and hear my words. 
+               </Language>
+               <Language id="Arabic">
+                  أنا صرخت لأنك قد سمعتنى يا الله. أمل يارب أذنيك و أنصت لكلامى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  {ic~m/ Vnou] e~tameym/i: ouoh mah~y/k e~pa]ho: All/louia.
+               </Language>
+               <Language id="English">
+                  Listen, O Lord of my righteousness; attend to my supplication. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أستمع يا الله عدلى واصغ إلى طلبتى الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 8:27-33</Language>
+            <Language id="Arabic">مرقس 8: 27-33</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ e~bol n~je I/couc nem nefmay/t/c e~ni]mi n~te kecria~ n~te Vilp~pe ouoh qen pimwit nafsini n~nefmay/t/c efjw m~moc nwou je a~re nirwmi jw m~moc je a~nok nim:
+               </Language>
+               <Language id="English">
+                  Now Jesus and His disciples went out to the towns of Caesarea Philippi; and on the road He asked His disciples, saying to them, “Who do men say that I am?”
+               </Language>
+               <Language id="Arabic">
+                  ثم خرج يسوع و تلاميذه إلى قرى قيصرية فيلبس. وفى الطريق كان يسأل تلاميذه قائلاً من تقول الناس أنى أنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de aujoc naf eujw m~moc je Iwann/c piref]wmc han ke,wouni de je ?~liac hanke,wouni de je ouai n~te nip~rov/t/c:
+               </Language>
+               <Language id="English">
+                  So they answered, “John the Baptist; but some say, Elijah; and others, one of the prophets.”
+               </Language>
+               <Language id="Arabic">
+                  أما هم فقالوا له يقولون أنك يوحنا المعمدان وآخرون أنك أحد الآنبياء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yof nafsini m~mwou je n~ywten de teten jw m~moc e~roi je a~nok nim afe~rouw~ n~je Petroc pe jaf je n~yok pe Pi,~rictoc.
+               </Language>
+               <Language id="English">
+                   He said to them, “But who do you say that I am?” Peter answered and said to Him, “You are the Christ.” 
+               </Language>
+               <Language id="Arabic">
+                  أما هو فسألهم وقال وأنتم من تقولون أنى أنا؟ أجاب بطرس وقال أنت هو المسيح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afer e~pitiman nwou hina n~ces~tem joc n~h~lieyb/tf:
+               </Language>
+               <Language id="English">
+                  Then He strictly warned them that they should tell no one about Him.
+               </Language>
+               <Language id="Arabic">
+                  فزجرهم لكي لا يقولوا لاحد شيئاً من أجله,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aferh/tc n~]c~bw nwou je hw] pe n~te p~s/ri m~v~rwmi [ioum/s n~qici ouoh n~tousosf e~bol hitotou n~ni p~recbuteroc nem niar,/e~reuc nem nicaq ouoh n~touqoybef ouoh menenca somt n~e~hoou n~teftwnf: 
+               </Language>
+               <Language id="English">
+                  And He began to teach them that the Son of Man must suffer many things, and be rejected by the elders and chief priests and scribes, and be killed, and after three days rise again. 
+               </Language>
+               <Language id="Arabic">
+                  وابتدأ يعلمهم أنه ينبغى لإبن الإنسان أن يتألم كثيراً من الشيوخ ورؤساء الكهنة والكتبة ويقتلونه وبعد ثلاثة أيام يقوم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nafcaji m~picaji qen ouparr/cia~ ouoh afa~moni m~mof n~je Petroc ouoh aferh/tc n~ere~pitiman naf.
+               </Language>
+               <Language id="English">
+                  He spoke this word openly. Then Peter took Him aside and began to rebuke Him. 
+               </Language>
+               <Language id="Arabic">
+                  وكان يقول هذا القول علانية فأمسكه بطرس وابتدأ ينهاه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de e~tafvonhf ouoh e~tafnau e~nefmay/t/c afere~pitiman m~Petroc ouoh pejaf naf 
+               </Language>
+               <Language id="English">
+                  But when He had turned around and looked at His disciples, He rebuked Peter, saying, 
+               </Language>
+               <Language id="Arabic">
+                  فأما هو فالتفت ونظر إلى تلاميذه وزجر بطرس وقال له 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je masenak cavahou m~moi p~catanac je ,~meui an e~na Vnou] alla e~na nirwmi.
+               </Language>
+               <Language id="English">
+                  “Get behind Me, Satan! For you are not mindful of the things of God, but the things of men.”
+               </Language>
+               <Language id="Arabic">
+                  أذهب خلفى يا شيطان لانك لا تفكر فيما لله بل فيما للناس.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  While Jesus and His disciples were on the road to Caesarea Philippi, He started to talk to them overtly about what will happen to Him in Jerusalem. 
+               </Language>
+               <Language id="Arabic">
+                  لما فرغ الرب أن يسأل تلاميذه فى طريق قيصرية فيلبس. ابتدأ يقول لهم علانية من أجل الذى سيحصل له فى أورشليم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He must fulfill what is written: That the Son of man will have lots of pains. He will be rejected from the scribes and the elders of the Jews.
+               </Language>
+               <Language id="Arabic">
+                  أنه ينبغى أن يكمل المكتوب إن إبن الإنسان ينال آلاماً كثيرة. ويرذل من الكتبة ومشائخ اليهود.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And after the sufferings He will endure, He will rise on the third day.
+               </Language>
+               <Language id="Arabic">
+                  ومن بعد الآلام التى سيقبلها يقوم من الأموات فى اليوم الثالث
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  This is the stone that the builders rejected as the scriptures say: He will descend with great anger upon them and His rage will destroy them. He will pour the shame upon their faces because they rewarded charity with evil. And for those who obey Him, and believe in Him, He will give eternal happiness.
+               </Language>
+               <Language id="Arabic">
+                  هذا هو الحجر الذى رذله البناؤون كقول الكتب فسيهبط عليهم غضبه العظيم ويهشمهم الرجز. هو يصب الخزى على وجوههم لأنهم جازوا الإحسان بالأساءة. والذين يسمعون ويؤمنون به سيعطيهم فرحاً لا يفنى إلى الأبد.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

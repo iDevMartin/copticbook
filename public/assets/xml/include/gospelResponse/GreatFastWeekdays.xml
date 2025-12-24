@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="GreatFast ^ Weekdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">}hir/n/ n~te V~]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For weekdays of the Great Fast, the response to the Gospel is chanted in the “sorrowful” tune of the fast:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               }hir/n/ n~te V~] y/et[oci e~nouc niben: ece~ areh enetenh/t: qen Pi,~rictoc I/couc pen[oic.
+            </Language>
+            <Language id="English">
+               The peace of God, which is above all minds, shall keep your hearts, in Christ Jesus our Lord.
+            </Language>
+            <Language id="Arabic">
+               سلام الله الذي يفوق كل عقل يحل في قلوبكم بالمسيح يسوع ربنا.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aiernobi aiernobi pa[oic I/couc ,w n/i e~bol je m~mon bwk n~aternobi oude m~mon [oic n~at,w e~bol
+            </Language>
+            <Language id="English">
+               I have sinned, I have sinned, my Lord Jesus forgive me, for there is no sinless slave, nor an unforgiving master.
+            </Language>
+            <Language id="Arabic">
+               أخطأت أخطأت يا ربي يسوع إغفر لي لأنه ليس عبد بلا خطية ولا سيد بلا مغفرة.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/OurFatherGreatFast"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

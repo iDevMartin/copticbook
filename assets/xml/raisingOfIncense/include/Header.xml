@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Matins">
+         <Title>
+            <Language id="English">Offering of Morning Incense</Language>
+            <Language id="Arabic">رفع بخور باكر</Language>      
+            <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~toui</Language>
+         </Title>
+         
+         <Group>
+            <Season id="MajorNightFeasts">
+               <Comment>
+                  <Language id="English">
+                     The Prime Prayer is not prayed before the Offering of Morning Incense of the Feasts of Nativity, Theophany and Resurrection.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="!Pascha ^ !CovenantThursday ^ !JoyousSaturday">
+               <InsertDocument path="include/agpeya/1stHourLink"/>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="!Pascha ^ !CovenantThursday ^ !JoyousSaturday">
+               <LinkDocument path="praises/Morning Praises">
+                  <Language id="English">
+                     Morning Praises
+                  </Language>
+                  <Language id="Arabic">
+                     ذكصولوجية باكر
+                  </Language>
+               </LinkDocument>
+            </Season>
+         </Group>
+      </Season>
+      
+      <Season id="Vespers">
+         <Group>
+            <Season id="GreatFast ^ Mondays">
+               <Title>
+                  <Language id="English">Sunday Evening Prayers</Language>
+                  <Language id="Arabic">صلوات مساء الأحد</Language>      
+               </Title>
+               
+               <InsertDocument path="include/agpeya/9thHourLink"/>
+               <InsertDocument path="include/agpeya/11thHourLink"/>
+               <InsertDocument path="include/agpeya/12thHourLink"/>
+               <InsertDocument path="include/agpeya/VeilLink"/>
+               
+               <Role id="People">
+                  <InsertDocument path="include/praises/Psalm116"/>
+                  <InsertDocument path="include/praises/FourthHoos"/>
+                  <InsertDocument path="include/psalies/GreatFastAdam"/>
+                  <InsertDocument path="include/psalies/ConclusionAdam"/>
+                  <InsertDocument path="include/praises/theotokia/Sunday11-17"/>
+                  <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+               </Role>
+            </Season>
+            
+            <Season id="Other">
+               <Title>
+                  <Language id="English">Offering of Evening Incense</Language>
+                  <Language id="Arabic">رفع بخور عشية</Language>      
+                  <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~rouhi</Language>
+               </Title>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Comment>
+      <Language id="English">
+         The priest uncovers his head, stands at the gate of the sanctuary, opens the veil of the sanctuary and prays:
+      </Language>
+      <Language id="Arabic">
+         يكشف الكاهـن رأسه ويقف أمام باب الهيكل ويقول:
+      </Language>
+   </Comment>
+</Document>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMark:Doxology">      
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Mark the Evangelist</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس مرقس الانجيلى</Language>
+            <Language id="Coptic">Markoc pia~poctoloc...</Language>          
+         </Title>
+            
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mark:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Markoc pia~poctoloc: ouoh pieuaggelict/c: pimeyre qa nim~kauh: n~te pimonogen/c n~nou].
+            </Language>
+            <Language id="English">
+               O Mark the apostle:  and the Evangelist:  the witness of the Passion:  of the only-begotten God.
+            </Language>
+            <Language id="Arabic">
+               يامرقس الرسول والانجيلى الشاهد لآلام الإله الوحيد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aki~ akerouwini e~ron: hiten pekeuaggelion: akt~cabon m~Viwt nem Ps/ri: nem Pip#n#a# e#y#u#.
+            </Language>
+            <Language id="English">
+               You have come and enlightened us:  through your Gospel:  and taught us about the Father and the Son:  and the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               أتيت وأنرت لنا بانجيلك وعلمتنا ألآب والابن والروح القدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akenten e~bol qen p~,aki: e~qoun e~piouwini m~m/i: aktemmon m~piwik n~te p~wnq: e~tafi~ e~pec/t e~bol qen t~ve.
+            </Language>
+            <Language id="English">
+               You brought us out of darkness:  into the true Light:  feeding us the Bread of Life:  that came down from heaven.
+            </Language>
+            <Language id="Arabic">
+               وأخرجتنا من الظلمة إلى النور الحقيقي وأطعمتنا خبز الحياة الذي نزل من السماء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Au[ic~mou n~q~r/i n~q/tk: n~je nivul/ t/rou n~te p~kahi: ouoh nekcaji auvoh: sa aur/jc n~]oikoumen/.
+            </Language>
+            <Language id="English">
+               All the tribes of the earth:  were blessed through you:  and your words have reached:  the ends of the world.
+            </Language>
+            <Language id="Arabic">
+               تباركت بك كل قبائل الأرض وأقوالك بلغت إلى أقطار المسكونة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere pieuaggelict/c: ,ere pia~poctoloc: Markoc piyewrimoc.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr:  Hail to the Evangelist:  Hail to the Apostle:  Mark the Beholder of God.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للانجيلى السلام للرسول مرقس ناظر الإله.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMark"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for St. Mark the Evangelist</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس مرقس الانجيلى</Language>
+            <Language id="Coptic">Somt n~ran etqen...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               The following doxology is said on the 30th of Paope and the 30th of Paramoute
+            </Language>
+            <Language id="Arabic">
+               تقال في ٣٠ بابه و٣٠ برموده
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Somt n~ran etqen niv/oui~: n~yok akervorin m~mwou: piyewrimoc n~euaggelict/c: Markoc pia~poctoloc.
+            </Language>
+            <Language id="English">
+               You wore three names: that are in heaven: O Beholder of God: the Evangelist: Mark the apostle.
+            </Language>
+            <Language id="Arabic">
+               ثلاثة أسماء في السموات أنت توشحت بها يا ناظر الإله الانجيلي مرقس الرسول.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akervorin m~pisomt n~,~lom: pisomt n~ran etj/k e~bol: e~te vai pe Viwt ne Ps/ri: nem Pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               You wore the three crowns: the three perfect names: which is the Father, the Son: and the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               توشحت بثلاثة أكاليل هي الثلاثة أسماء الكاملة أي الآب والأبن والروح القدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyok oua~poctoloc: n~yok on oumarturoc: n~yok on pe pimah c~nau n~cwtp n~euaggelict/c.
+            </Language>
+            <Language id="English">
+               You are an apostle: you are a martyr: you are also the second: chosen Evangelist.
+            </Language>
+            <Language id="Arabic">
+               أنت رسول أنت شهيد وأنت أيضاً المختار الثاني في الإنجيليين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nekkes~v/r n~a~poctoloc: cesousou m~mwou e~h~r/i e~jwk: ouoh nekcaji auvoh: sa auvr/jc n~]oikomen/.
+            </Language>
+            <Language id="English">
+               Your Apostolic friends: boast about you: and your words reached: the ends of the world.
+            </Language>
+            <Language id="Arabic">
+               وأصدقاؤك الرسل الآخرون يفخرون بك وأقوالك بلغت إلي أقاصي المسكونة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Cesousou m~mwou n~q~r/i n~q/tk: n~je n/etaktojou hijen pikahi: qen t~,wra t/rc n~&lt;/mi: auviri e~bol eu]karpoc.
+            </Language>
+            <Language id="English">
+               Those whom you planted on earth: throughout the land of Egypt: take pride in you: they blossomed and brought forth fruit.
+            </Language>
+            <Language id="Arabic">
+               ويفخرون بك الذين غرستهم علي الأرض في كل إقليم مصر مثمرين.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMark"/>
+      </Section>
+   </Season>
+</Document>

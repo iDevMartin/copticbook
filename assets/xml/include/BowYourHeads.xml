@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">      
+      <Text>
+         <Language id="Coptic">
+            Tac kevalac u~mwn tw Kuriw k~linate.
+         </Language>
+         <Language id="English">
+            Bow your heads to the Lord.
+         </Language>
+         <Language id="Arabic">
+            احنوا رؤوسَكم للربِّ.
+         </Language>         
+      </Text>
+   </Role>
+</Document>
+      

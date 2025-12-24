@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Doxology | ArchangelGabriel:Doxology">
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Archangels Michael and Gabriel</Language>
+            <Language id="Arabic">ذكصولوجية لرئيسي الملائكة ميخائيل وغبريال</Language>
+            <Language id="Coptic">Mi,a/l nem Gabri/l...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangels Michael and Gabriel:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Mi,a/l nem Gabri/l: neknis] n~ar,/aggeloc: cehwc e~rok p~ouro n~te p~w~ou: euws e~bol eujw m~moc.
+            </Language>
+            <Language id="English">
+               Michael and Gabriel: Your great archangels: sing to You, O King of glory: proclaiming and saying,
+            </Language>
+            <Language id="Arabic">
+               ميخائيل وغبريال العظيمان رئيسا ملائكتك اللذان يسبحانك يا ملك المجد صارخين قائلين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je a~gioc o~ Yeoc: n/etswni matal[wou: a~gioc Ic,uroc: n/etauenkot Po#c# mam~ton nwou.
+            </Language>
+            <Language id="English">
+               “Holy, O God: those who are sick heal them: Holy, O Mighty: those who slept, Lord, repose them.
+            </Language>
+            <Language id="Arabic">
+               قدوس الله المرضى اشفهم قدوس القوى الراقدين يارب نيحهم
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               A~gioc a~yanatoc:
+            </Language>
+            <Language id="English">
+               Holy Immortal:
+            </Language>
+            <Language id="Arabic">
+               قدوس الذي لا يموت.
+            </Language>
+         </Text>
+      
+         <Group>
+            <Season id="SeasonOfWaters"> 
+               <Comment>
+                  <Language id="English">
+                     From the 11th of Paone to the 9th of Paope say the following:
+                  </Language>
+                  <Language id="Arabic">
+                     من 11 بؤونه إلي 9 بابه يقال
+                  </Language>
+               </Comment>
+            
+               <Text>
+                  <Language id="Coptic">
+                     c~mou e~pimwou n~te v~iaro.
+                  </Language>
+                  <Language id="English">
+                     Bless the waters of the rivers.
+                  </Language>
+                  <Language id="Arabic">
+                     بارك مياه النهر.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="SeasonOfHerbs">
+               <Comment>
+                  <Language id="English">
+                     From the 10th of Paope to the 10th of Tobe say the following:
+                  </Language>
+                  <Language id="Arabic">
+                     من 10 بابه إلي 10 طوبه يقال
+                  </Language>
+               </Comment>
+            
+               <Text>
+                  <Language id="Coptic">
+                     c~mou e~nici] nem nicim.
+                  </Language>
+                  <Language id="English">
+                     Bless the seeds and the plants.
+                  </Language>
+                  <Language id="Arabic">
+                     بارك الزرع والعشب.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="SeasonOfAirAndFruits">
+               <Comment>
+                  <Language id="English">
+                     From the 11th of Tobe to the 10th of Paone say the following:
+                  </Language>
+                  <Language id="Arabic">
+                     من 11 طوبه إلي 10 بؤونه يقال
+                  </Language>
+               </Comment>
+            
+               <Text>
+                  <Language id="Coptic">
+                     c~mou e~nia~/r n~te t~ve>
+                  </Language>
+                  <Language id="English">
+                     Bless the air of the sky.
+                  </Language>
+                  <Language id="Arabic">
+                     بارك أهوية السماء.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Comment>
+            <Language id="English">
+               Then continue with the following:
+            </Language>
+            <Language id="Arabic">
+               ثم يكمل قائلا
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Mare peknai nem tekhir/n/: oi n~cobt m~peklaoc.
+            </Language>
+            <Language id="English">
+               May Your mercy and Your peace: be a fortress unto Your people.
+            </Language>
+            <Language id="Arabic">
+               فلتكن رحمتك وسلامتك حصناً لشعبك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ausanjoc m~piAll/louia~: sare na niv/oui~ ouwh m~mwou: je a~gioc A~m/n All/louia~: piw~ou va Pennou] pe.
+            </Language>
+            <Language id="English">
+               When they say, “Alleluia”: the heavenly join them saying: “Holy, Amen, Alleluia: Glory be to our God”.
+            </Language>
+            <Language id="Arabic">
+               إذا ما قالوا الليلويا يتبعهم السمائيون قائلين قدوس أمين الليلويا المجد هو لالهنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Arip~recbeuin e~h~r/i e~jwn: nic~tratia~ n~aggelikon: nem nitagma n~e~pouranion: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Intercede on our behalf: O holy archangels: Michael and Gabriel: that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اشفعوا فينا أيها العساكر الملائكية والطغمات السمائية ليغفر لنا خطايانا.
+            </Language>
+         </Text>   
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday Eve (The Ninth Hour)</Language>
+         <Language id="Arabic">ليلة الثلاثاء (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Psomt (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hosea 10:12-11:2</Language>
+               <Language id="Arabic">هوشع 10: 12-11: 2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Hosea"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ci] nwten n~oumeym/i: [wl n~ououtah n~te p~wnq: a~riouwini nwten n~ouwini n~te p~e~mi: kw] n~ca P[oic satoui~ nwten n~je nioutah n~te ]meym/i:
+               </Language>
+               <Language id="English">
+                  Sow to yourselves in righteousness; gather in the fruit of life; light for yourselves the light of knowledge; seek the Lord till the fruits of righteousness come upon you.
+               </Language>
+               <Language id="Arabic">
+                  إزرعوا لأنفسكم براً إجنوا ثمرة الحياة. أستنيروا بنور المعرفة وأطلبوا الرب حتى يأتيكم ثمـرة البر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybeou a~reten ,arwten e~oumeta~ceb/c: ouoh neten[in~jonc a~reten[olou:
+               </Language>
+               <Language id="English">
+                  Why have you passed over ungodliness in silence and reaped its wrongdoings?
+               </Language>
+               <Language id="Arabic">
+                  لماذا سكـتم على النفاق الذي فيكم فحصدتم ظلمكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aretenouwm n~ououtah m~meynouj: je akerhelpic qa pekharma nem qen p~a~sai n~te tekjom:
+               </Language>
+               <Language id="English">
+                  You have eaten the fruit of deception, for you have hoped in your chariots, in the abundance of your power.
+               </Language>
+               <Language id="Arabic">
+                  أكلتم ثمرة الكذب. لأنك توكلت عـلى مركباتك وكثرة قوتك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~twnf n~je outakou qen peklaoc: ouoh cenasenwou n~je n/t/rou ettakt/out n~cobt n~tak: 
+               </Language>
+               <Language id="English">
+                  Therefore destruction shall rise up among your people, and all your walled places shall be gone, 
+               </Language>
+               <Language id="Arabic">
+                  يقـوم هـلاك فى شعبك وتـخرب جميع حصونك (المسيجة) 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] n~niar,wn n~te Calamana e~bol qen p~/i n~Iorboam n~te pipolemoc: Aurwqt n~hanmau e~jen hans/ri:
+               </Language>
+               <Language id="English">
+                  As Beth Arbel in the time of Prince Shalman. In the days of battle, they dashed the mother to the ground upon the children.
+               </Language>
+               <Language id="Arabic">
+                  كخراب بيت يوربعام من أراخنة سليمان يوم الحرب. إذ حطمت الأمهات على البنين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] ]nai~ri nwten p~/i m~p~Icra/l m~petenm~yo e~bolha paho. Neten [in~jonc nem neten kakia~ auhioui~ e~bol m~p~ouro m~p~Icra/l: je ou/i oukouji pe p~Icra/l. ouoh aimenritf: ouoh aimou] e~pefs/ri nem pas/ri e~bol qen ,/mi:
+               </Language>
+               <Language id="English">
+                  Thus will I do to you, O house of Israel, because of your evil deeds. Early in the morning were they cast off; the king of Israel has been cast off. "For Israel is a child, and I loved him, and out of Egypt I have called his children.
+               </Language>
+               <Language id="Arabic">
+                  هكذا أصنع بكم يا بيت اسرائيل أمامكم من قدام وجهي. لأن ظلمكم وشروركم طرحت ملك اسرائيل خارجاً. لأن اسرائيل صغير وأنا أحببته ودعوت إبنه وإبنى من مصر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kata v~r/] e~taimou] e~rwou pair/] ausenwou e~bolha paho: n~ywou de auer souswousi n~niBaa~lim: ouoh nau]c~yoinoufi e~h~r/i e~nivwth.
+               </Language>
+               <Language id="English">
+                  As I called them, so they departed from My presence. They sacrificed to the Baals, and burned incense to graven images.
+               </Language>
+               <Language id="Arabic">
+                  فكما دعوتهم. هكذا ذهبوا عن وجهى. فذبحوا للبعليم وبخروا للمنحوتات.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 32:10-11</Language>
+               <Language id="Arabic">مزمور 32: 10-11</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic najer nico[ni n~te nieynoc e~bol: ouoh f~naswsf n~nimokmek n~te hanlaoc: ouoh f~naswsf m~pico[ni n~te niar,wn: 
+               </Language>
+               <Language id="English">
+                  The Lord scatters abroad the counsels of the nations, and He sets aside the reasoning of peoples; and He rejects the counsels of rulers. 
+               </Language>
+               <Language id="Arabic">
+                  الرب يشتت أراء الأمم ويرذل أفكار الشعوب ويرفض مؤامرة الرؤساء 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pco[ni de n~yof m~P[oic sop sae~neh: ouoh nimokmek n~te pefh/t icjen jwou sajwou: All/louia.
+               </Language>
+               <Language id="English">
+                  The counsel of the Lord abides forever, the thoughts of His heart from generation to generation. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وأما رأى الرب فهو يكون إلى الأبد وأفكار قلبه من جيل إلى جيل. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 11:37-52</Language>
+            <Language id="Arabic">لوقا 11: 37-52</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Efcaji de af]hoe~rof n~je ouvariceoc hopwc n~tefouwm qatotf ouoh e~tafse e~qoun afrwteb.
+               </Language>
+               <Language id="English">
+                  And as He spoke, a certain Pharisee asked Him to dine with him. So He went in and sat down to eat.
+               </Language>
+               <Language id="Arabic">
+                  وفيما هو يتكلم سأله فريسى أن يأكل عنده. فدخل وأتكأ.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pivariceoc de e~tafnau afers~v/ri je m~pef[iwmc n~sorp qajen piouwm.
+               </Language>
+               <Language id="English">
+                  When the Pharisee saw it, he marveled that He had not first washed before dinner.
+               </Language>
+               <Language id="Arabic">
+                  وأما الفريسى فلما رأى أنه لم يغتسل أولاً قبل الأكل تعجب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de naf n~je P[oic je ]nou n~ywten qanivariceoc tetentoubo cabol m~pia~vot nem pibinaj: caqoun de m~mwou meh n~hwlem nem pon/ria~.
+               </Language>
+               <Language id="English">
+                  Then the Lord said to him, “Now you Pharisees make the outside of the cup and dish clean, but your inward part is full of greed and wickedness.
+               </Language>
+               <Language id="Arabic">
+                  فقال له الرب أنتم الآن معشر الفريسيين تطهرون خارج الكأس والصحفة. وأما داخلهما فمملوء إختطافاً وخبثا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Niath/t m/ v/ an e~tafyamie~ cabol n~yof on afyamie~ caqoun. Pd/n n/etsop m/itou e~y~metna/t ouoh ic hwb niben cetoub/out nwten.
+               </Language>
+               <Language id="English">
+                  Foolish ones! Did not He who made the outside make the inside also? But rather give alms of such things as you have; then indeed all things are clean to you.
+               </Language>
+               <Language id="Arabic">
+                  أيها الجهال أليس الذى صنع الخارج صنع الداخل أيضاً. بل أعطوا ما عندكم صدقة فهوذا كل شئ يتطهر لكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla ouoi nwten nivariceoc je teten] m~v~rem/t m~pia~[in n~c~yoi nem pibasous nem ouo] niben ouoh teten,w n~cwten m~pihap nem ]a~gap/ n~te Vnou]: nai de nacemp~sa n~te tenaitou ouoh nike,wouni n~tetens~tem ,au n~ca y/nou.
+               </Language>
+               <Language id="English">
+                  “But woe to you Pharisees! For you tithe mint and rue and all manner of herbs, and pass by justice and the love of God. These you ought to have done, without leaving the others undone.
+               </Language>
+               <Language id="Arabic">
+                  ولكن ويل لكم أيها الفريسيون لأنكم تعشرون النعنع والسذاب وكل بقل وتتجاوزون حكم الله ومحبته. وكان ينبغى أن تفعلوا هذه ولا تتركوا تلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi nwten nivariceoc je tetenmei n~nisorp m~man~hemci qen nicunagwg/ nem niacpacmoc qen nia~gwra.
+               </Language>
+               <Language id="English">
+                  Woe to you Pharisees! For you love the best seats in the synagogues and greetings in the marketplaces. 
+               </Language>
+               <Language id="Arabic">
+                  ويل لكم أيها الفريسيون لأنكم تحبون أوائل المجالس فى المجامع والتحيات فى الأسواق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi nwten nicaq nem ni variceoc nisobi je te tenoi m~v~r/] n~nim~hau e~ten~ceouwnh e~bol an ouoh nirwmi eymosi hijwou n~cee~mi an:
+               </Language>
+               <Language id="English">
+                  Woe to you, scribes and Pharisees, hypocrites! For you are like graves which are not seen, and the men who walk over them are not aware of them.”
+               </Language>
+               <Language id="Arabic">
+                  ويل لكم أيها الكتبة والفريسيون المراؤون لأنكم مثل القبور المختفية. والناس يمشون عليها ولا يعلمون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ de n~je ouai n~ninomikoc pejaf naf je piref]c~bw nai ekjw m~mwou ek]sws m~mon hwn.
+               </Language>
+               <Language id="English">
+                  Then one of the lawyers answered and said to Him, “Teacher, by saying these things You reproach us also.”
+               </Language>
+               <Language id="Arabic">
+                  فأجاب واحد من الناموسيين وقال له أيها المعلم أنك بقولك هذا تشتمنا نحن أيضاً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejaf naf je n~ywten hwten qaninomikoc ouoi nwten je teten talo n~han etvwoui~ eumokh n~fitou e~jen nirwmi euoh n~ywten teten[i nem nietvwoui~ an n~ouai n~netent/b 
+               </Language>
+               <Language id="English">
+                  And He said, “Woe to you also, lawyers! For you load men with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers. 
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال له. وأنتم أيضاً أيها الناموسيون. ويل لكم لأنكم تحملون الناس أحمالاً ثقيلة وأنتم لا تمسون تلك الأحمال بأحدى أصابعكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi nwten je tetenkwt n~nim~hau n~te niprov/t/c netenio] de auqoybou.
+               </Language>
+               <Language id="English">
+                  Woe to you! For you build the tombs of the prophets, and your fathers killed them.
+               </Language>
+               <Language id="Arabic">
+                  ويل لكم فأنكم تشيدون قبور الآنبياء الذين قتلهم آباؤكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  &lt;ara tetenermeyre ouoh teten ]ma] e~jen nih~b/oui~ n~te netenio]: je n~ywou men auqoybou: n~ywten de tetenkwt n~noum~hau.
+               </Language>
+               <Language id="English">
+                  In fact, you bear witness that you approve the deeds of your fathers; for they indeed killed them, and you build their tombs.
+               </Language>
+               <Language id="Arabic">
+                  فأنتم إذاً تشهدون وتسرون بأعمال أبائكم. لأنهم هم قتلوهم وأنتم تبنون قبورهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai a~]kecovia~ n~te Vnou] joc: je ]naouwrp harwou n~hanp~rov/t/c nem hana~poctoloc ouoh eue~qwteb e~boln~q/tou ouoh eue~[oji n~cwou: 
+               </Language>
+               <Language id="English">
+                  Therefore the wisdom of God also said, ‘I will send them prophets and apostles, and some of them they will kill and persecute,’ 
+               </Language>
+               <Language id="Arabic">
+                  لذلك أيضاً قالت حكمة الله. أنى أرسل إليهم أنبياء ورسلاً فيقتلون منهم ويطردون. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~ce [im~p~sis m~p~c~nof n~nip~rov/t/c t/rou e~tauvonf e~bol. icjen t~katabol/ m~pikocmoc n~totoc n~tai genea~:
+               </Language>
+               <Language id="English">
+                  That the blood of all the prophets which was shed from the foundation of the world may be required of this generation,
+               </Language>
+               <Language id="Arabic">
+                  لكى يطلب من هذا الجيل دم جميع الأنبياء الذى سفك مـنذ إنشاء العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icjen p~c~nof n~A~bel piy~m/i sap~c~nof n~za,ariac p~s/ri m~Bara,iac v/e~tau takof oute pimanerswousi nem pi/i ce ]jw m~moc nwten je cenakw] n~cwf n~totc n~tai genea~. 
+               </Language>
+               <Language id="English">
+                  From the blood of Abel to the blood of Zechariah who perished between the altar and the temple. Yes, I say to you, it shall be required of this generation. “Woe to you lawyers! 
+               </Language>
+               <Language id="Arabic">
+                  مـن دم هابيل الصديق إلى دم زكريـا بن بـراشيا الـذى أهلك بين المذبح والبيت. نعم أقول لكم أنه يطلب من هذا الجيل. الويل لكم أيها الناموسيون 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi nwten ninomikoc je a~teten w~li n~nisost n~te p~cwoun n~ywten m~peteni~ e~qoun ouoh n/eyn/ou e~qoun a~teten erkwlin m~mwou.
+               </Language>
+               <Language id="English">
+                  For you have taken away the key of knowledge. You did not enter in yourselves, and those who were entering in you hindered.”
+               </Language>
+               <Language id="Arabic">
+                  لأنكم أخذتم مفاتيح المعرفة فما دخلتم أنتم والداخلون منعتموهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Listen to the merciful, compassionate, the patient, who has great mercy when He catechizes us to be clean not only in our bodies but also in our hearts. 
+               </Language>
+               <Language id="Arabic">
+                  أسمعوا الرؤوف الرحوم الكثير الرحمة المتأنى كيف يوصينا أن نكون أطهاراً ليس فى أجسادنا فقط بل وفى قلوبنا أيضاً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Pharisee who invited Jesus to dinner was puzzled at Him when He ate the bread without washing His hands.
+               </Language>
+               <Language id="Arabic">
+                  لما تعجب منه ذلك الفريسى الذى سأله أن يأكل عنده. فلما رآه يأكل الخبز بغير طهر ولا غسل يديه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Omniscient teacher said to him: “You Pharisees cleanse the outside of the cup but inside you are full of promiscuity, plunder, depredation and injustices.
+               </Language>
+               <Language id="Arabic">
+                  تكلم معه المعلم العارف بكل الأشياء قبل كونها قائلاً أنتم يا معشر الفريسيين تطهرون خارج الكأس والسكرجة فأما داخلكم فأنه مملوء دعارة وإختطافاً وظلماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Give alms and just judgment and everything will be clean unto you.” Let us be kind to God's creation.
+               </Language>
+               <Language id="Arabic">
+                  أعطوا صدقة وحكماً عدلاً وكل شئ يتطهر لكم. فلنكن نحن رحومين على كل إنسان خلقه الله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Thus, we may purify ourselves, bodies, and souls of all the filth of sins.
+               </Language>
+               <Language id="Arabic">
+                  وعند ذلك نطهر نفوسنا وأجسادنا وأرواحنا من كل دنس الخطية.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

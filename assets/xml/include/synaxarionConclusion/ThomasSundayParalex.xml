@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ThomasSunday">
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">Paralex Hymn</Language>
+            <Language id="Coptic">Ywmac...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Thomas Sunday:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/HymnForThomas"/>               
+      </Section>
+   </Season>
+</Document>

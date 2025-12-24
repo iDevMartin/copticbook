@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">Efe~i~ e~pec/t...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity (Ps 71:6, 109:3-4):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Efe~i~ e~pec/t m~v~r/] n~oumounhwou e~jen oucort: nem m~v~r/] n~hanteltili euy~l/ hijen p~kahi.
+            </Language>
+            <Language id="English">
+               He shall come down like rain upon the grass before mowing, Like showers that water the earth. 
+            </Language>
+            <Language id="Arabic">
+               يَنْزِلُ مِثْلَ الْمَطَرِ عَلَى الْجُزََةِ وَمِثْلَ قطرات الندى عَلَى الأَرْضِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               C~sop nemak n~je ]ar,/ qen p~e~hoou n~te tekjom qen v~ouwini n~te n/eyouab: e~bolqen y~neji qajwf m~piciou n~te han a~tooui a~nok aij~vok. 
+            </Language>
+            <Language id="English">
+               With You is dominion in the day of Your power, in the splendours of Your saints: I have begotten You from the womb before the morning.  
+            </Language>
+            <Language id="Arabic">
+               معك الرياسة فى يوم قوتك فى بهاء القديسين من البطن قبل كوكب الصبح ولدتك. 
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

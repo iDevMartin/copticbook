@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StAnthony:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Anthony</Language>
+            <Language id="Arabic">ذوكصولوجية القديس أنبا أنطونيوس</Language>
+            <Language id="Coptic">Bwl e~bol...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Anthony:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Bwl e~bol qen netenh/t: n~nimokmek n~te ]kakia~: nem nimeui~ etsebswb: eti~ri m~pinouc n~,aki.
+            </Language>
+            <Language id="English">
+               Purge from your hearts: thoughts of vice: and deceptive fantasies: that darken the mind.
+            </Language>
+            <Language id="Arabic">
+               انزعوا من قلوبكم أفكار الشر والظنون الخداعة التى تظلم العقل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Arinoin qen ou]h~y/f: n~nikayartwma et[oci: n~te penmakarioc n~iwt: pao#c# pinis] Abba Antwni.
+            </Language>
+            <Language id="English">
+               Contemplate with understanding : the great purifications: of our blessed father: my lord, the great Abba Antony.
+            </Language>
+            <Language id="Arabic">
+               تفهموا بتأمل الى المعجزات العالية التى لأبينا الطوباوى سيدى العظيم أنبا انطونيوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Vai e~tafswpi nan n~[aumwit: n~lum/n n~te pioujai: afywhem m~mon qen oue~rouwt: e~qoun e~piwnq n~e~neh.
+            </Language>
+            <Language id="English">
+               He has became our:  guide and harbor of salvation: with joy he invites us: to life everlasting.
+            </Language>
+            <Language id="Arabic">
+               هذا الذى صار لنا مرشدا وميناء خلاص ودعانا بفرح الى الحياة الأبدية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Apic~yoinoufi n~te nefaret/: ] m~p~ounof n~nen'u,/: m~v~r/] m~piarwmata: etr/t qen piparadicoc.
+            </Language>
+            <Language id="English">
+               The incense of his virtues: delights our souls: as fragrant aroma: throughout Paradise pervades.
+            </Language>
+            <Language id="Arabic">
+               بخور فضائله أعطى الفرح لنفوسنا مثل العنبر المزهر فى الفردوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Marentajron qen pinah]: etcoutwn qen oumeym/i: n~te pinis] Antwnioc: enws e~bol e~njw m~moc.
+            </Language>
+            <Language id="English">
+               Let us be confirmed in the faith: upright and true: of Antony the great: proclaiming and saying.
+            </Language>
+            <Language id="Arabic">
+               فلنثبت بالحقيقة فى الايمان المستقيم الذى للعظيم انبا أنطونيوس صارخين قائلين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je aikw] ouoh aijimi: aie~retin ouoh ai[i: aikwlh ouoh ]nah]: je cenaa~ouwn n/i.
+            </Language>
+            <Language id="English">
+               “I sought and I found: I asked and I was given: I knocked and I believed: that it will be opened to me.
+            </Language>
+            <Language id="Arabic">
+               طلبت فوجدت سألت فأخذت قرعت وأؤمن أنه سيفتح لى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt Antwnioc: piq/bc n~te ]metmona,oc: ,ere peniwt abba Paule: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to our father, Abba Antony: the light of monasticism: Hail to our father Abba Paul: the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا انبا أنطونيوس مصباح الرهبنة السلام لأبينا أنبا بولا حبيب المسيح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StAnthony"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction7="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Seventh Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة السابعة)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the seventh priest light the seventh lamp and say the seventh prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة السابعه ثم يقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Catechumens"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ephesians 6:10-18" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Palin on maren]ho e~rok P[oic Vnou] n~te nijom: pirefsenh/t v/e~te ouons~jom m~mof n~hwb niben: n~tekjoust e~jen pekbwk (nim).
+            </Language>
+            <Language id="English">
+               Again, we ask You, O Lord God of Hosts, the Merciful, the Almighty, that You look upon Your servant (...)    
+            </Language>      
+            <Language id="Arabic">
+               وايضاً نسألُكَ أيها الربُ إله القواتِ المتحنن القادر على كلِّ شىءٍ لكى تطلعَ على عبدِكَ (...) 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ntektounocf e~bolqen pi[~loj n~te pefswni nem nefv~r/s ethwou: m~v~r/] e~taktounoc t~swmi n~Cimwn e~xapina e~bolqen p~q~mom eynast.
+            </Language>
+            <Language id="English">
+               raise him up from his bed of sickness and his couch of suffering, as You raised up the mother-in-law of Simon in a moment from her grievous fever.   
+            </Language>      
+            <Language id="Arabic">
+               وتقيمَه من سريرِ مرضِه وفراشِه، كما اقمتَ حماةَسمعان بغتةً من حمتِها الصعبةِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Arih~mot m~mof e~tekekk~l/cia~: hina hwf n~tef[iw~ou n~je pekran e~youab.
+            </Language>
+            <Language id="English">
+               Bestow him upon Your Church; that he may glorify Your Holy Name,    
+            </Language>      
+            <Language id="Arabic">
+               انعم به على كنيستِكَ، لكى يتمجدَ اسمُكَ القدوس. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Viwt nem Ps/ri: nem Pip~neuma e~youab: ]nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               O Father and Son and Holy Spirit; now and ever, and unto the age of all the ages.  Amen.   
+            </Language>      
+            <Language id="Arabic">
+               أيها الاب والابن والروح القدس. الآن وكل أوان وإلى دهر الدهور. آمين. 
+            </Language>
+         </Text>
+      </Role>      
+   </Section>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">Another Prayer</Language>
+         <Language id="Arabic">طلبة أخرى</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               P[oic pirefsenh/t va pim/s m~meyna/t: v/e~tenefouws an m~v~mou m~pirefernobi: m~v~r/] n~tefkotf ouoh n~tefwnq.
+            </Language>
+            <Language id="English">
+               O Lord, the Merciful and manifold in mercy, Who desires not the death of the sinner, but rather that he should be converted and live;     
+            </Language>      
+            <Language id="Arabic">
+               ايها الربُ المتحننُ، الكثيرُ الرأفات، الذى لا يشاءُ موتَ الخاطىءِ مثل أن يرجعَ ويحيا.  
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~taf,w n~tajij an a~nok qa pirefernobi e~jen t~a~ve m~v/eyn/ou harok: ef]ho e~jen p~,w e~bol n~te nefnobi e~bol n~q/ten a~non qa nekou/b.
+            </Language>
+            <Language id="English">
+               Who lays not the hand of me, a sinner, upon the head of him that comes to You, praying for remission of his sins through us Your priests;   
+            </Language>      
+            <Language id="Arabic">
+               الذى ليس بوضع يدي أنا الخاطئ على راسِه، متوسلاً إليكَ عن غفرانِ خطاياه بواسطتنا، نحنُ كهنتِكَ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Alla qen oujij eca~mahi n~te pieuaggelion: ten]ho e~tekmetmairwmi: P[oic pirefw~oun~h/t.
+            </Language>
+            <Language id="English">
+               but by the mighty hand of the Gospel we pray You, Lover of Mankind, O Lord the Long-suffering;    
+            </Language>      
+            <Language id="Arabic">
+               لكن باليدِ العزيزةِ التى لهذا الانجيلِ، نطلبٌ إليكَ يامحبَ البشرِ، أيها الربُ المتأنى. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafswp e~rof n~]meta~noia~ n~te Dauid: e~bol hiten pekp~rov/t/c Nayan: v/e~tafswp e~rof n~]meta~noia~ n~te Manacc/.
+            </Language>
+            <Language id="English">
+               Who received the repentance of David through Your prophet Nathan; Who received the repentance of Manasses;   
+            </Language>      
+            <Language id="Arabic">
+               يا منْ قَبِلَ اليه توبةَ داود، على يدِ نبيكَ ناثان. الذى قَبِلَ إليه توبةَ منسى. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pencwt/r swp e~rok n~]meta~noia~ n~te pekbwk (nim): kata ]entol/ n~te tekmetmairwmi: qen ]metmecit/c n~te nekou/b.
+            </Language>
+            <Language id="English">
+               O our Saviour, receive the repentance of Your servant (...), according to Your commandments, O Lover of Mankind, by the mediation of Your priests.   
+            </Language>      
+            <Language id="Arabic">
+               أيها المخلصُ، إقبل إليكَ توبةَ عبدِكَ (...)، كوصيةِ محبتِكَ للبشرِ، وبواسطةِ كهنتِكَ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyok ouahcahni m~pi,w e~bol n~s~be sasf n~cop: ouoh p~si n~te peknai kata p~si n~te tekmetnis]: f~erp~repi nak n~je piw~ou Viwt nem Ps/ri nem Pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               You have commanded  remission unto seventy times seven, and the measure of Your mercy is according to the measure of Your might.  To You is due glory, Father, Son, and Holy Spirit.     
+            </Language>      
+            <Language id="Arabic">
+               أنت أمرت بالغفرانِ سبعه فى سبعين، وكمقدارِ رحمتِكَ ومقدارِ عظمتِكَ يليقُ بكَ المجدُ أيها الآب والابن والروح القدس. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               Now and ever, and unto the age of all the ages. Amen.   
+            </Language>      
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور. آمين. 
+            </Language>
+         </Text>
+      </Role>      
+   </Section>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">Another Litany</Language>
+         <Language id="Arabic">طلبة اخرى</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Vnou] Viwt n~a~gayoc: pic/ini n~te nencwma nem nenp~neuma: v/e~takouwrp m~pekmonogen/c n~s/ri I/couc Pi,~rictoc e~tal[o n~swni niben: ouoh e~toujo e~bolqen v~mou.
+            </Language>
+            <Language id="English">
+               O God, the Good Father, the Physician of our bodies and our souls; Who sent Your Only-Begotten Son Jesus Christ to heal all sicknesses, and to save from death.     
+            </Language>      
+            <Language id="Arabic">
+               الله الآب الصالح، طبيبُ اجسادِنا وارواحِنا، الذى ارسل ابنَه الوحيد يسوع المسيح ليشفىَ كلَّ الامراضِ وينقذَ من الموتِ.  
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matal[o m~pekbwk (nim): e~bolqen nefswni n~cwmatikon: ouoh moi naf n~ouwnq efcoutwn.
+            </Language>
+            <Language id="English">
+               Heal Your servant (...), from his bodily sicknesses; and give unto him renewed life,   
+            </Language>      
+            <Language id="Arabic">
+               اشف عبدَكَ (...) من امراضِه الجسديةِ وامنحه حياةً مستقيمةً. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eyref]w~ou n~tekmetnis]: ouoh n~tef],aric m~pekh~mot: eyrefjwk e~bol m~pekouws: eybe pih~mot n~te pek,~rictoc: nem nip~recbua~ n~te ]yeo~tokoc: nem nitwbh n~te n/eyouab n~tak.
+            </Language>
+            <Language id="English">
+               that he may glorify Your greatness and that he may give thanks for Your graciousness, that he may fulfil Your will through the grace of Your Christ, and the intercessions of the Theotokos, and the prayers of Your saints.    
+            </Language>      
+            <Language id="Arabic">
+               ليمجدَ عظمتَكَ ويشكرَ احسانَكَ وبكمل مشيئتُكَ من اجلِ نعمةِ مسيحِكَ. بشفاعةِ والدة الالهِ وطلباتِ قديسيكَ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je n~yok pe ]moumi n~te pital[o: ouoh tenouwrp nak e~p~swi m~piw~ou nem pitaio~: nem pekmonogen/c n~s/ri: nem Pip~neuma eyouab: ]nou nem n~c]ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               For You are the Fount of healing; and to You we offer up glory and honour together with Your Only-Begotten Son and the Holy Spirit. Now and ever and to the age of all the ages.  Amen.   
+            </Language>      
+            <Language id="Arabic">
+               لانكَ أنتَ ينبوعُ الشفاءِ ونرسل لك إلى فوقٍ، المجدَ والاكرامَ مع ابنِكَ الوحيد والروح القدس. الآن وكل أوان والى دهر الدهور آمين. 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he shall anoint the sick man with oil and shall say,   
+            </Language>      
+            <Language id="Arabic">
+               يدهن الكاهن المريض بالزيت وهو يقول
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               W n/eyouab e~te ouontwten n~]moumi n~te pital[o a[ne hat: moi m~pital[o n~ouon niben ettwbh: je n~yof P[oic afjoc nwten nem nia~poctoloc: je h/ppe a~nok ],/ nemwten sa p~jwk n~te nie~neh.
+            </Language>
+            <Language id="English">
+               O ye saints to whom belongs the fount of healing without money; give healing to all who pray; for the Lord Himself said unto you and the apostles, “Lo, I am with you unto the end of the world.”
+            </Language>      
+            <Language id="Arabic">
+               أيها القديسون الذين لكم ينبوعُ الشفاءِ بغيرِ فضةٍ، امنحوا الشفاءَ لكل الطالبين لأن الرب قال لكم مع الرسلِ: ”هوذا أنا معكم إلى كمالِ الدهورِ.“
+            </Language>
+         </Text>
+      </Role>   
+      
+      <InsertDocument path="include/agpeya/DoxaPatri"/>   
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               H/ppe ai] nwten m~piersisi e~jen nip~neuma n~a~kayarton e~hitou e~bol: ouoh e~tal[o n~swni niben nem iabi niben: ouoh e~reten[i n~jinj/ moi n~jinj/. 
+            </Language>
+            <Language id="English">
+               “Lo, I have given you power over the unclean spirits, to cast them out; and to heal all diseases and all sicknesses.  Freely ye have received, freely give.”
+            </Language>      
+            <Language id="Arabic">
+               ”ها أنا أعطيكم سلطاناً على الارواحِ النجسةِ لتخرجوها وتشفوا كلَّ مرضٍ وكلَّ سقمٍ. مجاناً اخذتُم، مجاناً اعطوا.
+            </Language>
+         </Text>
+      </Role>   
+      
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Y/eyouab m~paryenoc: ]yeo~tokoc a[ne cunoucia~: a~rip~recbeuin eybe v~nohem n~ten'u,/. 
+            </Language>
+            <Language id="English">
+               O holy Virgin the Mother of God without human seed, intercede for the salvation of our souls.
+            </Language>      
+            <Language id="Arabic">
+               أيتها القديسةُ العذراءُ والدة الاله بغيرِ زرعٍ، اشفعى من اجلِ خلاصِ نفوسِنا.
+            </Language>
+         </Text>
+      </Role>   
+   </Section>
+   
+   <Role id="People">
+      <InsertDocument path="include/agpeya/Gloria"/>
+      <InsertDocument path="include/LordsPrayer"/>
+      <InsertDocument path="include/Creed"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Lord hear us and have mercy on us and forgive us our sins. 
+         </Language>
+         <Language id="Arabic">
+            يارب أسمعنا و ارحمنا و اغفر لنا خطايانا أمين 
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         <span class="Coptic">Kurie~ e~le/~con</span> is said 41 times. 
+      </Language>
+      <Language id="Arabic">
+         َارَبُّ ارْحَمْ ٤١ مرة
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/LordHaveMercy41"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/agpeya/HolyHolyHoly"/>
+   </Role>
+	
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   
+   <Comment>
+      <Language id="English">
+         The priest says the blessing and then he annoints the people present. And let him anoint the sick with the oil till the end of seven days.
+      </Language>
+      <Language id="Arabic">
+         ويقول الكاهن البركة ثم يرشم الحاضرين بالزيت المقدس، اما المريض فيدهن بالزيت سبعه ايام.
+      </Language>
+   </Comment>            
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Vai pe pihouit...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Wedding at Cana of Galilee:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Vai pe pihouit m~m/ini e~ta pencwt/r n~a~gayoc: aif m~pem~yo n~nefmay/t/c aunah] e~rof je Pi,~rictoc
+            </Language>
+            <Language id="English">
+               This is the first miracle, which our good Savior, performed before His disciples, they believed in Him, the Christ.
+            </Language>
+            <Language id="Arabic">
+               هذه هي الآية الأولي التي صنعها مخلصنا الصالح أمام تلاميذه وآمنوا به أنه المسيح.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+
+      </Section>
+   </Season>
+</Document>

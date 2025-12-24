@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" Cornerstone="true">
+   <Title>
+      <Language id="English">The Laying of the Foundation Stone of a Church</Language>   
+      <Language id="Arabic">ما يجب قراءته عند إرساء الحجر الأول لأساس الكنيسة الجديدة</Language>   
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         As the prayer begins, a small box is obtained and the following items are placed in it: 
+      </Language>
+      <Language id="Arabic">
+         يصنع صندوق صغير من الحجر أو الخشب لتحفظ فيه الأشياء الآتى بيانها:
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The Holy Bible with both Old and New Testaments; a small cross; local currency; newspaper of the day; an official document containing the date, church’s patron saint, country’s president, presiding clergy, and city/state of the church. The contents are wrapped in linen and placed in the box, which is then locked.
+      </Language>
+      <Language id="Arabic">
+         وهى الكتاب المقدس أى العهد الجديد و القديم وصليب من فضة أو نحاس أو من خشب والعملة المتداولة وجرائد اليوم ويكتب محضر يدون فيه تاريخ السنة والشهر واليوم واسم من تبنى على اسمه الكنيسة وفى عهد الحاكم والأب البطريرك والمطران أو الأسقف والكاهن ومن حضر من الأراخنة واسم البلد. وتلف هذه الأشياء التي ذكرناها فى ملف من الحرير أو الكتان ويقفل عليها.
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The priests, deacons, and congregation then carry the box before the bishop until they reach the place where they intend to build the new building while chanting “<span class="Coptic">Tenoueh en cok</span>.”
+      </Language>
+      <Language id="Arabic">
+         ويجتمع الأب الأسقف وكل الكهنة وجميع الشمامسة والأراخنة والشعب كافة. وبعد ذلك يتقدمون أمامه حاملين الصندوق والشموع موقدة بأيديهم والشمامسة يلحنون "نتبعك...الخ" بالفرح والتهليل حتى يصلوا به إلى المكان المزمع إقامة مبنى الكنيسة عليه.
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/TenowehEnsok"/>
+   </Role>  
+
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            The patriarch or bishop takes the box and places it in the assigned place, which is at the entrance of the middle sanctuary. He then says the following:
+         </Language>
+         <Language id="Arabic">
+            ثم يأخذ رئيس الكهنة الصندوق ويرسيه فى المكان الذى اعد له وهو تحت عتبة باب الهيكل الوسطانى وهو يقول:
+         </Language>
+      </Comment>  
+      
+      <Text>
+         <Language id="English">
+            We place the blessed foundation for this holy church in the name of saint (...)
+         </Language>
+         <Language id="Arabic">
+	        نضع حجر الأساس المبارك لهذه الكنيسة المقدسة على اسم القديس \ القديسة
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.1"/>   
+   </Role>
+         
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/Offering.Priest.2"/>
+   </Role>
+         
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Priest">
+     <InsertDocument path="include/Offering.Priest.3"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Bishop" silent="true">
+      <InsertDocument path="include/GloryAndHonor"/>
+   </Role>
+   
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Genesis 28:10-22" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Sick"/>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The hymn of the censer is then chanted:
+         </Language>
+      </Comment>
+   
+      <InsertDocument path="include/Taishoree"/>
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Hebrews 9:1-11" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <ForceSeason id="Vespers">
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+   </ForceSeason>
+   
+   <InsertDocument path="include/ThreeGreatLitanies"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/CreedPeople"/>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            <span class="Coptic">Kurie~ e~le/~con</span> is said 41 times. 
+         </Language>
+         <Language id="Arabic">
+            َارَبُّ ارْحَمْ ٤١ مرة
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/LordHaveMercy41"/>
+   </Role>
+   
+   <InsertDocument path="consecrations/church/include/FoundationPrayer"/>
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>   
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+</Document>

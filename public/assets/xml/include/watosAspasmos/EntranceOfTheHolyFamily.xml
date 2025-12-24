@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">?ca/ac pinis]...</Language>
+         </Title>
+         
+         <InsertDocument path="include/watosAspasmos/EntranceOfTheHolyFamilyContents"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>      
+      </Section>
+   </Season>
+</Document>

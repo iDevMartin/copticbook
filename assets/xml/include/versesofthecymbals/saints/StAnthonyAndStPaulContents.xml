@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">         
+         For the Commemoration of St. Anthony and St. Paul the Hermit:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         &lt;ere peniwt abba Antwnioc: piq/bc n~te ]metmona,oc: ,ere peniwt abba Paule: nimenra] n~te P,#c#.
+      </Language>
+      <Language id="English">
+         Hail to our father, Abba Antony: the lamp of monasticism: Hail to our father, Abba Paul: the beloved of Christ.
+      </Language>
+      <Language id="Arabic">
+         السلام لابينا انبا انطونيوس مصباح الرهبنة. السلام لابينا انبا بولا حبيبي المسيح.
+      </Language>
+   </Text>
+</Document>

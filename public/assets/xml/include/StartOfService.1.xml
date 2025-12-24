@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Ele/~con /~mac o~ Yeoc o~ Pat/r o~ pantokratwr: Pana~gia Triac  e~le/~con /~mac.             
+      </Language>
+      <Language id="English">
+         Have mercy on us, O God, the Father, the Pantocrator. All-Holy Trinity, have mercy on us.
+      </Language>
+      <Language id="Arabic">
+         ارحَمنا يا الله الآبُ ضابطَ الكلِ. أيها الثالوثُ القدوسُ ارحَمْنا.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         P[oic Vnou] n~te nijom swpi neman: je m~mon n~tan n~oubo/~yoc qen neny~li'ic nem nenhojhej e~b/l e~rok.              
+      </Language>
+      <Language id="English">
+         O Lord, God of hosts, be with us, for we have no helper in our tribulations and afflictions but You.
+      </Language>
+      <Language id="Arabic">
+         أيها الربُّ إِلهَ القواتِ كُن معنا، لأنه ليس لنا معينٌ في شدائدِنا وضيقاتِنا سواكَ.
+      </Language>
+   </Text>
+
+   <Comment>
+      <Language id="English">
+         Then he says the Lord’s Prayer:
+      </Language>
+      <Language id="Arabic">
+         ثم يقول الصلاة الربانية:
+      </Language>         
+   </Comment>
+
+   <InsertDocument path="include/LordsPrayer"/>
+</Document>

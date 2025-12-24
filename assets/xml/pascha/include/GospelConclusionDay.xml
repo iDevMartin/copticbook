@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    
+   <InsertDocument path="include/GloryBeToGodForever"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Exposition Introduction</Language>
+         <Language id="Arabic">مقدمة الطرح</Language>
+      </Title>
+      
+      <InsertDocument path="pascha/include/GospelConclusionIntro"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Piouwini n~tav~m/i:
+            </Language>
+            <Language id="English">
+               O true Light,
+            </Language>
+            <Language id="Arabic">
+               أيها النور الحقيقى،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               V/e~terouwini:
+            </Language>
+            <Language id="English">
+               Who enlightens,
+            </Language>
+            <Language id="Arabic">
+               الذى يضئ،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Erwmi niben:
+            </Language>
+            <Language id="English">
+               Every man,
+            </Language>
+            <Language id="Arabic">
+               لكل إنسان،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               Eyn/ou e~pikocmoc.
+            </Language>
+            <Language id="English">
+               Who comes into the world.
+            </Language>
+            <Language id="Arabic">
+                آتٍ إلى العالم.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+</Document>

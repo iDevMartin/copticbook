@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StSarapamon:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Sarapamon</Language>
+            <Language id="Arabic">ذوكصولوجية أنبا صرابامون </Language>
+            <Language id="Coptic">W pinis] m~vwct/r...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Sarapamon
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               W pinis] m~vwct/r: pimane~cwou e#y#u#: abba Carapamwn pie~pickopoc: ouoh picwtp m~marturoc.
+            </Language>
+            <Language id="English">
+               O great star, the holy shepherd, Abba Sarapamon the Bishop, the chosen martyr.
+            </Language>
+            <Language id="Arabic">
+              أيها الكوكب العظيم والراعى القديس أنبا صرابامون الأسقف والشهيد المختار.               
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/e~tafviri e~bol: qen ]nouni etc~marwout: n~te pinis] C~tevanoc: ouoh pisorp m~marturoc.
+            </Language>
+            <Language id="English">
+               This is he who has blossomed, from the blessed root, of the great Stephen, the first martyr.
+            </Language>
+            <Language id="Arabic">
+               هذا الذى أزهر من الأصل المبارك الذى لاسطفانوس العظيم أول الشهداء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/e~tafswpi n~refe~mi: afermeneuin n~nig~rav/ e#y#u#: hiten piP~neuma e#y#u#: auywhem m~mof pimane~cwou.
+            </Language>
+            <Language id="English">
+               Who became a teacher, he explained the holy Scriptures, through the Holy Spirit, they called him a shepherd.
+            </Language>
+            <Language id="Arabic">
+               الذى صار عالما ومفسرا للكتب المقدسة من قبل الروح القدس فدعى راعيا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hiten tefo~mologia: e~qoun e~P,#c# penCwt/r: aferem~p~sa m~pi,~lom n~a~tlwm: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               Through his confession, of Christ our Savior, he was worthy of the unfading crown, of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               وباعترافه بالمسيح مخلصنا استحق الاكليل غير المضمحل الذى للشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afe~rsai nem nimarturoc: qen ]metouro n~te niv/oui~: afounof m~mof nem P,#c#: qen t~,wra n~te n/e~tonq.
+            </Language>
+            <Language id="English">
+               He celebrated with the martyrs, in the Kingdom of heaven, he rejoiced with Christ, in the land of the living.
+            </Language>
+            <Language id="Arabic">
+               وعيد مع الشهداء فى ملكوت السموات وفرح مع المسيح فى كورة الأحياء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wcautwc ten[ici m~mok: nem pihumnodoc Dauid: je n~yok pe piou/b sa e~neh: kata t~taxic m~Mel,icedek.
+            </Language>
+            <Language id="English">
+               Likewise we magnify you, with David the psalmist, You are a priest forever, according to the order of Melchizedek.
+            </Language>
+            <Language id="Arabic">
+               لذلك نرفعك مع المرنم داود قائلين انك انت هو الكاهن الى الأبد على رتبة ملشيصاداق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hiten nefeu,/ eus/p: P,#c# penCwt/r: moi nan n~tekhir/n/ m~m/i: nem p~,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through his pleasant prayers, O Christ our Savior, grant us Your true peace, and the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلواته المقبولة أيها المسيح الهنا مخلصنا امنحنا سلامك الحقيقى ومغفرة خطايانا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StSarapamon"/>
+      </Section>
+   </Season>
+</Document>

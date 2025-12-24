@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StParsoumaTheNaked:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Parsouma the Naked</Language>
+            <Language id="Arabic">ذوكصولوجية أنبا برسوم العريان</Language>
+            <Language id="Coptic">Marenywou] w~ namenra]...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Parsouma the Naked:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Marenywou] w~ namenra]: nt~entaio qen ou]ma]: m~pimairwmi n~dikeoc: peniwt eyouab abba Parcwma.
+            </Language>
+            <Language id="English">
+               Let us gather O my beloved, with pleasure to honor, this righteous man, our father Abba Parsouma.
+            </Language>
+            <Language id="Arabic">
+               فلنجتمع يا أحبائى لنكرم بسرور هذا الرجل البار أبانا القديس أنبا برسوم. 
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Vai e~tafhip~ho m~paikocmoc: nem pefbioc eymeh n~qici: qen ounis] n~hupomon/: afmei mP~,c? pef[oic. 
+            </Language>
+            <Language id="English">
+               This one who forsook the world, and its painful life, with great patience, loved Christ his Lord.
+            </Language>
+            <Language id="Arabic">
+               هذا الذى رفض العالم وحياته المملؤة تعبا بعظم صبر وأحب المسيح ربه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afcwr e~bol n~je pefran: qen ]oikoumen/ t/rc: eybe nefe~ret/ et[oci: nem peftoubo na~ggelikon.
+            </Language>
+            <Language id="English">
+               His fame has spread, onto all the world, because of his high virtues, and his angelic purity.
+            </Language>
+            <Language id="Arabic">
+               وذاع اسمه فى المسكونة كلها من أجل فضائله العالية وطهارته الملائكية.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Naf]nom] n~ouon niben:eyn/ou harof e~bolqen mai niben: qen oua~gap/ ecj/k e~bol: nem oumetrefw~ou n~h/t. 
+            </Language>
+            <Language id="English">
+               He comforted everyone, who came to him from everywhere, through perfect love, and long suffering.
+            </Language>
+            <Language id="Arabic">
+               وكان يقوى كل من يأتى إليه من كل مكان بمحبة كاملة وطول أناة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt eyouab abba Parcwma: je akjwk e~bol n~nicaji: n~te pencw?r? n~agayoc. 
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, O our holy father Abba Parsouma, for you fulfilled the words, of our Good Savior.
+            </Language>
+            <Language id="Arabic">
+               طوباك أنت بالحقيقة يا أبانا القديس البار أنبا برسوم لأنك أكملت أقوال مخلصنا الصالح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StParsoumaTheNaked"/>
+      </Section>
+   </Season>
+</Document>

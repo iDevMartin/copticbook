@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <InsertDocument path="include/LordsPrayer"/>
+      <InsertDocument path="include/InChristJesusOurLord"/>      
+   </Role>
+   
+   <InsertDocument path="include/YeaOLord"/>
+   <InsertDocument path="include/BowYourHeads"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/BeforeYou"/>
+      
+      <Comment>
+         <Language id="English">
+            The people bow their heads until the conclusion of the following two prayers. While still facing the East, the priest says the following in a low voice.
+         </Language>
+         <Language id="Arabic">
+            ويطامنون رؤوسهم إلى آخر قراءة الصلاتين الآتيتين. يقول الكاهن الصلاة الثانية وهي صلاة خضوع للابن ووجهه إلى الشرق أيضاً:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch" silent="true">   
+            <Text>
+               <Language id="English">
+                  Lead us not into temptation, but deliver us from the evil one, together with all Your people standing before You, waiting for Your mercy. 
+               </Language>
+               <Language id="Arabic">
+                  لا تدخلنا التجارب لكن نجنا من الشرير وكل شعبك الوقوف أمامك منتظرين رحمتك
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  For You are a compassionate God, merciful and patient. And unto You is due glory and honor and worship, O father, Son and Holy spirit, now and unto the ages of all ages, Amen.
+               </Language>
+               <Language id="Arabic">
+                  لأنكَ إله رؤوف ورحيم متأني ويليق بك المجد والإكرام والسجود أيها الآب والابن والروح القدس الآن...
+               </Language>
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Priest" silent="true">      
+      <Comment>
+         <Language id="English">
+            If the patriarch or a metropolitan or a bishop is present, he shall say the prayer of submission, sign the people with the cross, and say the prayer of absolution and the blessing.
+         </Language>
+         <Language id="Arabic">
+            إذا كان البطريرك أو المطران أو الأسقف حاضراً فهو الذي يقول صلاة الخضوع ويرشم الشعب بالصليب، ويقول صلاة التحليل والبركة.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/PrayerOfSubmissionToTheSon"/>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proc,wmen Yeou meta vobou.
+         </Language>
+         <Language id="English">
+            Let us attend in the fear of God.
+         </Language>
+         <Language id="Arabic">
+            انصتوا بخوفِ الله.
+         </Language>
+      </Text>
+   </Role>
+</Document>

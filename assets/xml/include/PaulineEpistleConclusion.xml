@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">         
+         After the reading, the following conclusion is chanted.
+      </Language>
+      <Language id="Arabic">         
+         وفي ختامه يقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Pih~mot gar nemwten nem t~hirin/ eucop je a~m/n ece~swpi.
+      </Language>
+      <Language id="English">
+         Grace and peace be with you all. Amen. So be it.
+      </Language>
+      <Language id="Arabic">
+         النعمة لكم والسلام معاً. أمين يكون.
+      </Language>         
+   </Text>
+</Document>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod | TheophanyLiturgyOfTheWaters">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">H/ppe afermeyre...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Theophany:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               H/ppe afermeyre n~je Iwann/c pibaptict/c: je ai]wmc m~P[oic qen nimwou n~te piIordan/c
+            </Language>
+            <Language id="English">
+               Behold, John the Baptist testified, “I baptized the Lord in the waters of the Jordan.”
+            </Language>
+            <Language id="Arabic">
+               ها قد شهد يوحنا الصابغ اني عمدت الرب في مياه الأردن.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh aicwtem e~t~c~m/ n~te V~iwt ecws e~bol: je vai pe Pas/ri Pamenrit e~tai]ma] n~q/tf.
+            </Language>
+            <Language id="English">
+               And I heard the Father’s voice crying out, saying, “This is My Son, My beloved, in whom I am pleased.”
+            </Language>
+            <Language id="Arabic">
+               وسمعت صوت الآب صارخا أن هذا هو ابني الحبيب الذي به سررت.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je ,~ouab ,~ouab: ,~ouab v/e~taf[iwmc: him/r m~piIordan/c: ,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Holy, holy, holy, O who was baptized, in the Jordan,  forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس ، الذى تعمد فى عبر الأردن ، أغفر لنا خطايانا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

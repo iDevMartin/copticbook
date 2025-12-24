@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelRaphael:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Raphael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~V~iwt nem P~s/ri nem Pip~neuma e#y#u#: n~tentaio~ n~Rava/l pimahsomt n~ar,/aggeloc.
+            </Language>
+            <Language id="English">
+               Let worship the Father, the Son, and the Holy Spirit, and honor Rafael the third in archangels.
+            </Language>
+            <Language id="Arabic">
+               فلنسجد للآب والإبن والروح القدس ونكرم رافائيل الثالث فى رؤساء الملائكة.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

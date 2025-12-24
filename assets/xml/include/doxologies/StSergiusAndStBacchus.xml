@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StSergiusAndStBacchus:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Sergius and St. Bacchus</Language>
+            <Language id="Arabic">ذوكصولوجية القديسان سرجيوس و واخس</Language>
+            <Language id="Coptic">Marouounof n~touyel/l...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Sergius and St. Bacchus:
+            </Language>
+         </Comment>
+                  
+         <Text>
+            <Language id="Coptic">         
+               Marouounof n~touyel/l: n~je nimarturoc e#y#u#: nirefmisi n~kalwc: niagioc Cergioc nem Ba,oc.
+            </Language>
+            <Language id="English">
+               Let the holy martyrs, the great defenders, rejoice and be glad, Saint Sergius and Saint Bacchus.
+            </Language>
+            <Language id="Arabic">
+               ليفرح ويتهلل الشهيدان الطاهران المجاهدان حسنا القديسان سرجيوس وواخس.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Auswpi je nimarturoc: n~refcwtem n~ca P,#c#: ouoh aui~ri n~hanh~b/oui~: m~paradoxon et[oci.
+            </Language>
+            <Language id="English">
+               For they became martyrs, and followers of Christ, they performed many works, of wonder and awe.
+            </Language>
+            <Language id="Arabic">
+               لأنهما صارا شهيدين مطيعين للمسيح وصنعا أعمالا ممجده عالية.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Nywou eueyl/l m~mwou: nem P,#c# pirefyamio~: je auvwn m~pouc~nof e~bol: hijen pefran etc~marwout.
+            </Language>
+            <Language id="English">
+               As for them they rejoice, with Christ the Creator, for they shed their blood, for His blessed Name.
+            </Language>
+            <Language id="Arabic">
+               أما هما فهللا مع المسيح الخالق. لأنهما سفكا دمهما على اسمه المبارك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               &lt;ere Cergioc nem Ba,oc: ni[wij n~d/natoc etcwtp: m~P,#c# p~ouro n~te p~w~ou: pimonogen/c n~nou].
+            </Language>
+            <Language id="English">
+               Hail to Sergius and Bacchus, the strong and chosen heroes, of Christ the King of glory, the only-begotten God.
+            </Language>
+            <Language id="Arabic">
+               السلام لسرجيوس وواخس الشجاعين القويين المختارين للمسيح ملك المجد الاله الوحيد.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Ounof w~ Cergioc nem Ba,oc: nivwct/r n~al/yinoc: e~tauswpi n~oulu,nia~ n~noub: n~te ]ekkl/cia e#y#u#.
+            </Language>
+            <Language id="English">
+               Rejoice O Sergius and Bacchus, the true stars, who became the golden lamps, of the holy Church.
+            </Language>
+            <Language id="Arabic">
+               افرحا ياسرجيوس وواخس الكوكبان الحقيقيان اللذان صارا منارة ذهبية للكنيسة المقدسة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Rasi w~ Cergioc nem Ba,oc: n~refe~rouwini n~lamp~roc: e~taue~rouwini n~nenu,/: hiten noulumanon e#y#u#.
+            </Language>
+            <Language id="English">
+               Rejoice O Sergius and Bacchus, the bright and sparkling ones, who enlightened our souls, with their holy bodies.
+            </Language>
+            <Language id="Arabic">
+               افرحا ياسرجيوس وواخس المنيرين اللامعين اللذين أنارا نفوسنا بجسديهما الطاهرين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               &lt;ere nwten w~ nimarturoc: n~te Peno#c# I/#c# P,#c#: ,ere ni[wij n~genneoc: nia~gioc Cergioc nem Ba,oc.
+            </Language>
+            <Language id="English">
+               Hail to you O martyrs, of our Lord Jesus Christ, hail to the courageous heroes, Saints Sergius and Bacchus.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما ياشهيدى ربنا يسوع المسيح. السلام للشجاعين القويين القديسين سرجيوس وواخس.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StSergiusAndStBacchus"/>
+      </Section>
+   </Season>
+</Document>

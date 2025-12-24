@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      
+   <Comment>
+      <Language id="English">
+         And the second time: 
+      </Language>               
+      <Language id="Arabic">
+         وفى اليد الثانية يقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Anok de kata p~a~sai n~te peknai eie~i~ e~qoun e~pek/i: ouoh eie~ouwst nahren pekervei eyouab.                  
+      </Language>
+      <Language id="English">
+         But as for me, in the abundance of Your mercy, I will enter into Your house; I will bow down in worship toward Your holy temple.
+      </Language>
+      <Language id="Arabic">
+         وأنا كمثلِ كثرةِ رحمتِكَ، أدخلُ إلى بيتِكَ وأسجدُ نحو هيكلِكَ المقدس.
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         And the third time: 
+      </Language>               
+      <Language id="Arabic">
+         وفى اليد الثالثة يقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Mpem~yo n~niaggeloc ]naer'alin e~rok: ouoh ]naouwst nahren pekervei eyouab.                  
+      </Language>
+      <Language id="English">
+         I will praise You before the angels, and bow down in worship toward Your holy temple.
+      </Language>
+      <Language id="Arabic">
+         أمامَ الملائكةِ أرتلُ لكَ وأسجدُ نحو هيكلِكَ المقدس.
+      </Language>
+   </Text>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Kata e~hoou nem kata e~jwrh: All/louia.
+         </Language>
+         <Language id="English">
+            Every night and every day. Alleluia. 
+         </Language>
+         <Language id="Arabic">
+            كل  يوم وكل ليلة، الليلويا. 
+         </Language>         
+      </Text>
+   </Role>
+</Document>

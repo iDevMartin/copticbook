@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StTheodoreShotep:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Yeo~dwroc pic~tratilat/c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Theodore:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Yeo~dwroc pic~tratilat/c: afsana h~y/f qa niermwoui: n~te ],/ra etqen Eu,/toc: aftouje necs/ri nac: All/louia (3)
+            </Language>
+            <Language id="English">
+               Theodore the commander: had pity on the tears: of the widow in Eukheetos: he saved her children for her: Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               ثيؤدوروس الإسفهسلار تحنن على دموع الأرملة التى ببلدة أوخيطس وأنقذ لها إبنيها الليلويا  (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Fourth Explanation</Language>
+               <Language id="Arabic">التفسير الرابع</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  O precious golden vessel / Which concealed the Manna / It was a symbol of you / O Theotokos
+               </Language>
+               <Language id="Arabic">
+                  ياقسط ذهب غالى / والمن مخفى فيه / رمزاً وإشارة / عليك ياوالدة الإله
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O the precious gem / O you the ship of our salvation / Blessed are you O Mary / The daughter of Zion
+               </Language>
+               <Language id="Arabic">
+                  ياحجر الجوهر / ياسفينة النجاة / طوباك يامريم / ياإبنه صهيون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O ladder of Jacob / You held the Judge / And He dwelt in your womb / You gave birth to the Son of Man
+               </Language>
+               <Language id="Arabic">
+                  ياسلم يعقوب / حملت الديان / وصار فى أحشاك المحجوب / وولدت ابن الانسان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He healed all the sick / And opened the eyes of the blind / And raised the dead / After their burial
+               </Language>
+               <Language id="Arabic">
+                  وشفى كل المرضى / وفتح أعين العميان / وأقام الميت / بعد أن كان مدفون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are Aaron's rod / That blossomed / O the dome of Moses / That is filled with light
+               </Language>
+               <Language id="Arabic">
+                  ياعصاة هرون / نورت الازهار / ياقبة موسى / المملوءة أنوار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are a planted vineyard / That bears the Fruit / Your Son granted us forgiveness / O hidden gem
+               </Language>
+               <Language id="Arabic">
+                  وكرمة مغروسة / حاملة الأثمار / وبابنك نلنا الغفران / ياجوهر مكنون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  David said in the psalm / While playing on his harp / “The Lord chose Zion / And came and dwelt in her.”
+               </Language>
+               <Language id="Arabic">
+                  داود قال فى المزمور / وقال على القيثارات / الرب اختار صهيون / وسكن فيها بثبات
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  These are all symbols / Signs that resemble you / O Mary / O daughter of Zion
+               </Language>
+               <Language id="Arabic">
+                  هذا كله مثال / ورمزاً واشارات / عليك يامريم / ياابنة صهيون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  The Lord chose your beauty / And God dwelt in your womb / You gave birth to Him / And He drank your milk
+               </Language>
+               <Language id="Arabic">
+                  الرب اختار حسنك / وسكن فيك الإله / ولدتيه ورضع لبن / ثدييك بفيه
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are greatly exalted / You became the highest heaven / You are above all ranks / The righteous and the saints
+               </Language>
+               <Language id="Arabic">
+                  ارتفعت جداً / وصرت كأعلا سماه / فقت كل الرؤساء / والأبرار والصديقين
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You're above the cherubim / O the pride of virgins / And higher than the seraphim / Which are full of light
+               </Language>
+               <Language id="Arabic">
+                  فقت الشاروبيم / ياست الأبكار / وأيضاً السيرافيم / المملوءة أنوار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O daughter of Joachim / From the upright seed / Your Son saved Adam / After his bondage
+               </Language>
+               <Language id="Arabic">
+                  ياإبنة يواقيم / من نسل الأبرار / ابنك خلص آدم / بعد أن كان مسجون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O you full of grace / More pure than everyone / O mother of the Merciful / O you brighter than all light.
+               </Language>
+               <Language id="Arabic">
+                  يامملوءة نعمة / ياطهر الأطهار / ياأم الرحمة / يانور الأنوار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Your Son illuminated the darkness / And made us free / We inherited the kingdom / Through baptism and Holy Myron.
+               </Language>
+               <Language id="Arabic">
+                  بابنك زالت الظلمة / وقد صرنا أحرار / وورثنا الملكوت / بعمادنا بالميرون
+               </Language>
+            </Text>
+         </Section>
+         
+         <InsertDocument path="include/praises/koiahk/ExplanationRefrain"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Gospel</Language>
+               <Language id="Arabic">الانجيل</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  Holy, Holy, Holy; a reading from the Gospel according to our teacher St. Luke [1:73-77] the Evangelist. May his blessings be with us all. Amen.
+               </Language>
+               <Language id="Arabic">
+                  قدوس قدوس قدوس. فصل من الانجيل بحسب لوقا (1: 73-77) البشير . بركاته تكون معنا . آمين.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  The oath, which He swore to our father Abraham: To grant us that we, being delivered from the hand of our enemies, might serve Him without fear, in holiness and righteousness before Him all the days of our life. "And you, child, will be called the prophet of the Highest, for you will go before the face of the Lord to prepare His ways. To give knowledge of salvation to His people by the remission of their sins, And Glory be to God forever. Amen
+               </Language>
+               <Language id="Arabic">
+                  القسم الذى حلف لإبراهيم أبينا ليعطينا الخلاص بغير خوف من أيدى أعدائنا، لنخدمه بطهارة وبر أمامه كل أيام حياتنا، وأنت أيها الصبى تدعى نبى العلى لأنك تسبق بالمسير أمام الرب لتعد طريقه، وتعطى علم الخلاص لشعبه لمغفرة خطاياهم. والمجد لله دائماً أبدياً آمين.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

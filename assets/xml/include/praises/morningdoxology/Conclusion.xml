@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/praises/morningdoxology/ConclusionStMary"/>
+
+   <Comment>
+      <Language id="Coptic">
+         Eybe niaggeloc
+      </Language>
+      <Language id="English">
+         For the Angels
+      </Language>
+      <Language id="Arabic">
+         لأجل الملائكة
+      </Language>
+   </Comment>
+
+   <Text>
+      <Language id="Coptic">
+         Hananso n~so: nem hany~ba n~y~ba: n~ar,/aggeloc: nem aggeloc euouab.
+      </Language>
+      <Language id="English">
+         Thousands of thousands, and myriads of myriads, of archangels, and holy angels. 
+      </Language>
+      <Language id="Arabic">
+         ألوف ألوف وربوات ربوات رؤساء ملائكة وملائكة مقدسين.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Euo~hi e~ratou: m~pem~yo m~piy~ronoc: n~te pipantokratwr: euws e~bol eujw m~moc.
+      </Language>
+      <Language id="English">
+         They stand before, the throne, of the Pantocrator, proclaiming and saying.
+      </Language>
+      <Language id="Arabic">
+         وقوف أمام كرسى ضابط الكل صارخين قائلين.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Je ,~ouab ,~ouab: ,~ouab qen oumeym/i: piw~ou nem pitaio~: erp~repi n~}t~riac.
+      </Language>
+      <Language id="English">
+         Holy Holy, Holy in truth, the glory and the honor, befit the Trinity.
+      </Language>
+      <Language id="Arabic">
+         قدوس قدوس قدوس بالحقيقة المجد والكرامة يليقان بالثالوث.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Hiten nip~recbia: n~te p~,oroc t/rf n~te niaggeloc: Po#c# a~rih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the intercessions, of the whole choir of the angels, O Lord grant us, the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بشفاعات جميع صفوف الملائكة يارب أنعم لنا بمغفرة خطايانا.
+      </Language>
+   </Text>
+
+   <Comment>
+      <Language id="Coptic">
+         Eybe nia~poctoloc
+      </Language>
+      <Language id="English">
+         For the Apostles
+      </Language>
+      <Language id="Arabic">
+         لأجل الرسل
+      </Language>
+   </Comment>
+
+   <InsertDocument path="include/praises/morningdoxology/Apostles.1"/>
+
+   <Text>
+      <Language id="Coptic">
+         Hiten nieu,/: n~te nao#c# n~io] n~a~poctoloc: Po#c# a~rih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the prayers, of my fathers the apostles, O Lord grant us, the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بصلوات سادتى الآباء الرسل  يارب أنعم لنا بمغفرة خطايانا.
+      </Language>
+   </Text>
+
+   <Comment>
+      <Language id="Coptic">
+         Eybe nimarturoc
+      </Language>
+      <Language id="English">
+         For the Martyrs
+      </Language>
+      <Language id="Arabic">
+         لأجل الشهداء
+      </Language>
+   </Comment>
+
+   <Text>
+      <Language id="Coptic">
+         Han,~lom n~atlwm: aft/itou n~je Po#c#: hijen p~,oroc t/rf: n~te nimarturoc.
+      </Language>
+      <Language id="English">
+         Unfading crowns, the Lord has placed, upon the whole choir, of the martyrs. 
+      </Language>
+      <Language id="Arabic">
+         أكاليل غير مضمحلة جعلها الرب على جميع صفوف الشهداء.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Aftoujwou afnahmou: je auvwt harof: auersai nemaf: qen tefmetouro.
+      </Language>
+      <Language id="English">
+         He saved and delivered them, because they took refuge in Him, they celebrated with Him, in His Kingdom.
+      </Language>
+      <Language id="Arabic">
+         أنقذهم وخلصهم لأنهم التجأوا اليه  وعيدوا معه فى ملكوته.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Hiten nieu,/: n~te p~,oroc t/rf n~te nimarturoc: Po#c# a~rih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the prayers, of the whole choir of the martyrs, O Lord grant us, the forgiveness of our sins. 
+      </Language>
+      <Language id="Arabic">
+         بصلوات جميع صفوف الشهداء يارب أنعم لنا بمغفرة خطايانا.
+      </Language>
+   </Text>
+
+   <Comment>
+      <Language id="Coptic">
+         Eybe n/eyouab
+      </Language>
+      <Language id="English">
+         For the Saints
+      </Language>
+      <Language id="Arabic">
+         لأجل القديسين
+      </Language>
+   </Comment>
+
+   <Text>
+      <Language id="Coptic">
+         N/e#y#u# n~tak: eue~c~mou e~rok: e~uecaji m~p~w~ou: n~te tekmetouro.
+      </Language>
+      <Language id="English">
+         Your saints bless You, and they speak, of the Glory, of Your Kingdom. 
+      </Language>
+      <Language id="Arabic">
+         قديسوك يباركونك  وينطقون بمجد ملكوتك.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Tekmetouro Panou]: oumetouro n~e~neh: ouoh tekmeto#c#: sa nigenea~ t/rou.
+      </Language>
+      <Language id="English">
+         Your kingdom O my God, is an eternal Kingdom, and Your Lordship, is unto all ages. 
+      </Language>
+      <Language id="Arabic">
+         ملكوتك يا الهى ملكوت أبدى وربوبيتك الى كل الأجيال.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Hiten nieu,/: n~te p~,oroc t/rf n~te nic~taurovoroc: nem niy~m/i nem nidikeoc: Po#c# a~rih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the prayers, of the whole choir of the cross-bearers, the righteous and the just, O Lord grant us, the forgiveness of our sins. 
+      </Language>
+      <Language id="Arabic">
+         بصلوات كافة مصاف لابسى الصليب والأبرار والصديقين يارب أنعم لنا بمغفرة خطايانا.
+      </Language>
+   </Text>
+
+   <Comment>
+      <Language id="Coptic">
+         Eybe nipatriar,/c nem nip~rov/t/c
+      </Language>
+      <Language id="English">
+         For the Patriarchs and the Prophets
+      </Language>
+      <Language id="Arabic">
+         لأجل الآباء والأنبياء
+      </Language>
+   </Comment>
+
+   <Text>
+      <Language id="Coptic">
+         &lt;ere ?liac: picovron m~p~rov/t/c: nem Eliceoc: pefcwtp m~may/t/c.
+      </Language>
+      <Language id="English">
+         Hail to Elijah, the prophet of temperance, and Elisha, his elect disciple. 
+      </Language>
+      <Language id="Arabic">
+         السلام لإيليا النبى المتعفف واليشع تلميذه المختار.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Pinis] n~refhiwis: qen ],wra n~te &lt;/mi: Markoc pia~poctoloc: pecsorp n~neferhemi.
+      </Language>
+      <Language id="English">
+         The great Evangelist, of the land of Egypt, Mark the Apostle, the first prelate.
+      </Language>
+      <Language id="Arabic">
+         المبشر العظيم فى كورة مصر مرقس الرسول مدبرها الأول.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Nyo pe y~mau m~V]: Maria~ ]paryenoc: twbh m~mof e~jwn: eyrefnai qa pengenoc.
+      </Language>
+      <Language id="English">
+         You are the Mother of God, O Virgin Mary, ask Him on our behalf, to have mercy upon our race.
+      </Language>
+      <Language id="Arabic">
+         أنت هى أم الله يامريم العذراء  أطلبى منه عنا أن يرحم جنسنا.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Pinis] m~patriar,/c: peniwt abba Ceu/roc: v/eta nefc~bwoui~ e#y#u#: e~rouwini m~pennouc.
+      </Language>
+      <Language id="English">
+         The great patriarch, our father Abba Severus, whose holy teachings, enlightened our minds.
+      </Language>
+      <Language id="Arabic">
+         البطريرك العظيم أبونا أنبا ساويرس الذى أنارت تعاليمه المقدسة عقولنا.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Peniwt n~o~mologit/c: abba Diockoroc: afmisi e~jen pinah]: oube niheretikoc.
+      </Language>
+      <Language id="English">
+         Our father the confessor, Abba Dioscorus, defended the faith, against the heretics.
+      </Language>
+      <Language id="Arabic">
+         أبونا المعترف أنبا ديسقوروس حارب عن الايمان ضد الهراطقة.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Nem nenio] t/rou: e~tauranaf m~Po#c#: e~re pouc~mou e#y#u#: swpi nan n~ourefrwic.
+      </Language>
+      <Language id="English">
+         And all of our fathers, who have pleased the Lord, may their Holy Blessings, be a guard unto us.
+      </Language>
+      <Language id="Arabic">
+         وكل آبائنا الذين أرضوا الرب بركتهم المقدسة تكون لنا حارسا.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Hiten noueu,/: a~rih~mot nan V]: m~pi,w e~bol n~te nennobi: moi nan n~oucw].
+      </Language>
+      <Language id="English">
+         Through their prayers, O God grant us, the forgiveness of our sins, and give us peace.
+      </Language>
+      <Language id="Arabic">
+         بصلواتهم أنعم لنا يا الله بمغفرة خطايانا وأعطنا سلاما.
+      </Language>
+   </Text>   
+</Document>

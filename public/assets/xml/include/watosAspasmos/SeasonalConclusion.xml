@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="SeasonOfHerbs">
+         <Comment>
+            <Language id="English">
+               From Paope 10 (Oct. 20/21) to Tobe 10 (Jan. 18/19):
+            </Language>
+            <Language id="Arabic">
+               ومن 10 بابه إلى 10 طوبه (20/21 أكتوبر إلى 18/19 يناير):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. Cmou e~nici] nem nicim: mare peknai nem tekhirin/: oi n~cobt m~peklaoc.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Bless the seeds and the herbs. May Your mercy and peace be a fortress to Your people.
+            </Language>
+            <Language id="Arabic">
+               هلليلويا هلليلويا هلليلويا بارك الزروع والعشب، فلتكن رحمتك وسلامك حصناً لشعبك
+            </Language>         
+         </Text>   
+      </Season>
+      
+      <Season id="SeasonOfAirAndFruits">
+         <Comment>
+            <Language id="English">
+               From Tobe 11 (Jan. 19/20) to Paone 11 (June 18):
+            </Language>
+            <Language id="Arabic">
+               ومن 11 طوبه إلى 11 بؤونه (19/20 يناير إلى 18 يونيو):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. Cmou e~nia~/r n~te t~ve: mare peknai nem tekhirin/: oi n~cobt m~peklaoc.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Bless the air of heaven. May Your mercy and peace be a fortress to Your people.
+            </Language>
+            <Language id="Arabic">
+               هلليلويا هلليلويا هلليلويا بارك أهوية السماء، فلتكن رحمتك وسلامك حصناً لشعبك
+            </Language>         
+         </Text>         
+      </Season>
+      
+      <Season id="SeasonOfWaters">
+         <Comment>
+            <Language id="English">
+               From Paone 12 (June 19) to Paope 9 (Oct. 19/20):
+            </Language>
+            <Language id="Arabic">
+               من 12 بؤونه إلى 9 بابه (19 يونيو إلى 19/20 أكتوبر):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. cmou e~nimwou m~v~iaro: mare peknai nem tekhirin/: oi n~cobt m~peklaoc.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Bless the waters of the river. May Your mercy and peace be a fortress to Your people.
+            </Language>
+            <Language id="Arabic">
+               هلليلويا هلليلويا هلليلويا بارك مياه الانهار، فلتكن رحمتك وسلامك حصناً لشعبك
+            </Language>         
+         </Text>         
+      </Season>
+   </Group>  
+</Document>

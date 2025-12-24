@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Third Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة الثالثـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Words of the Scriptures revive the spirits / 
+               [Spiritual] instructions [help] forgive sins / 
+               Repentance is an ointment for all wounds / 
+               Love covers all blemishes
+            </Language>
+            <Language id="Arabic">
+               كلام الكتب يحيى الأرواح / 
+               والوعظ يمحى كل الذنوب / 
+               والتوبة مرهم لكل جراح / 
+               والمحبة تستر كل عيوب
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Through joy and virtues / 
+               The Scriptures are fulfilled / 
+               Our Master accepted willingly / 
+               To be crucified for us in love
+            </Language>
+            <Language id="Arabic">
+               أما الفضائل والأفراح / 
+               بها يكمل كل المكتوب / 
+               سيدنا هو رضى بسماح / 
+               بالمحبة صار عنا مصلوب
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Avoid the unrighteous profit / 
+               Pray vespers and matins / 
+               Be content with righteous profit / 
+               Like the wise lost son
+            </Language>
+            <Language id="Arabic">
+               تجنبوا المكسب المذموم / 
+               وصلوا عشية مع باكر / 
+               وإستكفوا بالرزق المقسوم / 
+               كمـا فعـل الإبـن الشاطـر
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Offer oblations at all times / 
+               With careful and alert minds / 
+               And remain always vigilant / 
+               Do not be careless with the religious canons
+            </Language>
+            <Language id="Arabic">
+               إرفعوا القرابين فى كل حين / 
+               بعقل حريص متيقظين / 
+               وكونوا دائماً سهرانين / 
+               ولا تتهاونوا فى شروط الدين
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Do not complain about your leaders / 
+               For they are vigilant for you / 
+               Praying day and night asking / 
+               For salvation and deliverance from their Creator
+            </Language>
+            <Language id="Arabic">
+               والرؤساء لا تَشُكُّوا فيهم / 
+               لأنهم عنكم سهرانين / 
+               يصلوا الليل والنهار طالبين / 
+               النجاة والخلاص من باريهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

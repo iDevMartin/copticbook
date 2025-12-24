@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JonahPassover ^ (Matins | Crowning | FuneralPrayer)">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Matoubon P~[oic...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Passover of Jonah in the standard tune:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Matoubon P~[oic e~bolqen pi,~rof: n~te piatsem/r n~nicadokeoc: je anka] e~neks~v/ri: ouoh annah] e~tekmet[oic.
+            </Language>
+            <Language id="English">
+               Purify us Lord! From the deviousness: of the unleavened of the Sadducees: for we understood Your wonders: and believed in Your Lordship.
+            </Language>
+            <Language id="Arabic">
+               طهرنا يارب من المكر الذي لخمير الصدوقيين لأننا فهمنا عجائبك وآمنا بربوبيتك.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+   
+   <Season id="JonahPassover ^ Liturgy">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Je Pen[oic...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Passover of Jonah in the standard tune:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Je Pen[oic I/couc Pi,~rictoc mayamio nak n~q~r/i n~q/ten: n~ouervei n~te pekp~neuma eyouab: eu] doxologia nak.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, Create within us for you, a temple of Your Holy Spirit, so as to glorify You.
+            </Language>
+            <Language id="Arabic">
+               ياربنا يسوع المسيح اجعل لك فينا هيكلا لروحك القدوس لتمجيدك.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

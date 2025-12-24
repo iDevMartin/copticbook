@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Great Response to the Pauline Epistle</Language>
+         <Language id="Coptic">Pih~mot gar...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The great response to the reading of the Pauline epistle may be chanted:
+         </Language>
+      </Comment>
+
+      <Text>
+         <Language id="Coptic">
+            Pih~mot gar m~V] V~iwt Pipantokratwr
+         </Language>
+         <Language id="English">
+            The grace of God the Father, the Pantocrator,
+         </Language>
+         <Language id="Arabic">
+            نعمة اللة الآب ضابط الكل
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem ],aric n~te Pefmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic
+         </Language>
+         <Language id="English">
+            and the grace of His Only-Begotten Son Jesus Christ our Lord,
+         </Language>
+         <Language id="Arabic">
+            ونعمة ابنه الوحيد يسوع المسيح ربنا
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem ]koinwnia nem ]dwrea n~te piP~neuma eyouab m~Parakl/ton
+         </Language>
+         <Language id="English">
+            and the communion and the gift of the Holy Spirit, the Paraclete,
+         </Language>
+         <Language id="Arabic">
+            وشركة وعطية الروح القدوس المعزى
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eue~i~ e~h~r/i e~jen t~a~ve m~pimakarioc n~iwt ettai/out n~ar,ie~reuc papa abba (nim)
+         </Language>
+         <Language id="English">
+            shall come upon the head of our blessed and honorable father, the archpriest, Pope Abba (…)
+         </Language>
+         <Language id="Arabic">
+            تحل على رأس أبينا الطوباوى المكرم رئيس الكهنة البابا انبا (...)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem e~jen t~a~ve m~peniwt eyouab m~m/tropolit/c (n~epickopoc) abba (nim)
+         </Language>
+         <Language id="English">
+            and upon the head of our holy father Bishop (Metropolitan) Abba (…).
+         </Language>
+         <Language id="Arabic">
+            وعلى رأس أبينا القديس المطران (الاسقف) انبا (...)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            V~] n~te t~ve efe~tajrof+ hijen pefy~ronoc++ n~hanm/s n~rompi nem hanc/ou n~hir/nikon.
+         </Language>
+         <Language id="English">
+            May the God of heaven confirm him (them)+ on his (their) throne(s)++ for many years and peaceful times,
+         </Language>
+         <Language id="Arabic">
+            إله السماء يثبته على كرسيه سنين عديدة وأزمنة سالمة.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            + <span class="Coptic">efe~tajrou</span> = them<br/>
+            ++ <span class="Coptic">nouy~ronoc</span> = their thrones
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            N~tefyebio n~nefjaji+ t/rou capec/t n~nef[alauj++ n~,wlem. 
+         </Language>
+         <Language id="English">
+            And humiliate all of his (their)+ enemies under his (their)++ feet speedily. 
+         </Language>
+         <Language id="Arabic">
+            و يخضع أعداءه تحت قدميه سريعاً. 
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            + <span class="Coptic">n~noujaji</span> = their enemies<br/>
+            ++ <span class="Coptic">n~nou[alauj</span> = their feet
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Twbh e~P,#c# e~h~r/i e~jwn n~tef,a nennobi nan e~bol qen ouhir/n/ kata pefnis] n~nai.
+         </Language>
+         <Language id="English">
+            Pray to Christ on our behalf that He may forgive us our sins in peace according to His great mercy.
+         </Language>
+         <Language id="Arabic">
+            اطلب من المسيح عنا ليغفر لنا خطايانا بسلام كعظيم رحمتاكز
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/MayTheClergy"/>
+   </Section>
+</Document>

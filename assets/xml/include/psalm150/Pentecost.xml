@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost">
+      <Text>
+         <Language id="Coptic">
+            Pi,~rictoc aftwnf ouoh afsenaf afouwrp nan m~piparakl/ton  
+         </Language>
+         <Language id="English">
+            Christ is risen and ascended and sent to us the Paraclete (Comforter)
+         </Language>
+         <Language id="Arabic">
+            المسيح قام وصعد وأرسل لنا البارقليط
+         </Language>
+      </Text>         
+   </Season>
+</Document>

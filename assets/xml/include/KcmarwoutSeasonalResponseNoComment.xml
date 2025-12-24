@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="NativityPeriod | NativityParamoun | Circumcision">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout a~l/ywc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aumack akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, with Your good Father and the Holy Spirit, for You were born and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك ولدت وخلصتنا. [إرحمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="TheophanyPeriod | TheophanyParamoun">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout a~l/ywc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je ak~[iwmc akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, with Your good Father and the Holy Spirit, for You were baptized and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك أعتمدت وخلصتنا. [إرحمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="PaschaWeek | Pascha | FeastOfTheCross | (FuneralTune ^ FuneralPrayer) | GeneralFuneralPrayer">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout a~l/ywc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je auask akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, with Your good Father and the Holy Spirit, for You were crucified and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك صلبت وخلصتنا. [إرحمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="!ThirdProstration ^ (Joyful29thOfTheMonthRaw | PentecostPeriod | (Sundays ^ ApostlesFastToLastDayOfHathor))">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout a~l/ywc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aktwnk akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, with Your good Father and the Holy Spirit, for You have risen and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك قمت وخلصتنا. [إرحمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="Other">
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout a~l/ywc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aki~ akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, with Your good Father and the Holy Spirit, for You have come and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك أتيت وخلصتنا. [إرحمنا]
+            </Language>         
+         </Text>
+      </Season>
+   </Group> 
+</Document>

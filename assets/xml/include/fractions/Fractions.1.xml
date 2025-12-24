@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/fractions/Nativity"/>
+   <InsertDocument path="include/fractions/Theophany"/>
+   <InsertDocument path="include/fractions/HosannaSunday"/>
+   <InsertDocument path="include/fractions/CovenantThursdayAndFeastOfTheCross"/>
+   <InsertDocument path="include/fractions/JoyousSaturday"/>
+   <InsertDocument path="include/fractions/PentecostPeriod"/>
+   <InsertDocument path="include/fractions/FeastsOfTheLordPeriodsAndLazarusSaturday"/>
+   <InsertDocument path="include/fractions/GreatFastAndJonahFast"/>
+   <InsertDocument path="include/fractions/Apostles"/>
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Aukocf au,af...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Joyous Saturday:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               Aukocf au,af qen pim~hau: v/et,/ cabol n~]baki: e~taujoc qen toumetath/t: je vai f~nas~twnf an je.
+            </Language>
+            <Language id="English">
+               He was shrouded and placed in the tomb, which was outside the city, they said in their ignorance, He can not rise.
+            </Language>
+            <Language id="Arabic">
+               كٌفن ووضع فى القبر ، الذى خارج المدينه ، وقالوا بجهلهم ، إن هذا لا يستطيع أن يقوم بعد.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

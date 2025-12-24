@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyParamoun">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Afermeyre n~je Iwann/c...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Paramoun of the Theophany:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/Afermethre"/>
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>
+   </Season>
+</Document>

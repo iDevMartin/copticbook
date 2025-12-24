@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Paschal Praise</Language>
+            <Language id="Arabic">تسبحة البصخة</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               The paschal praise <span class="Coptic">Ywk te ]jom</span> is chanted twelve times, alternating between the north and south choirs. From the Ninth Hour of Hosanna Sunday until the Ninth Hour of Tuesday, the following is chanted:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="pascha/include/DoxologyIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ywk te ]jom nem piw~ou nem pic~mou nem pia~mahi sa e~neh a~m/n: Pa[oic I/couc Pi,~rictoc
+            </Language>
+            <Language id="English">
+               Thine is the power, the glory, the blessing, the majesty forever. Amen. My Lord Jesus Christ. 
+            </Language>
+            <Language id="Arabic">
+               لك القوة والمجد والبركة والعزة إلى الأبد آمين ياربى يسوع المسيح.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="pascha/include/DoxologyConclusion"/>
+      </Section>
+   
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+</Document>

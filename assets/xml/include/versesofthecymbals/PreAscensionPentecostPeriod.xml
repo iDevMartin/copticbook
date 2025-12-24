@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod">         
+      <Comment>
+         <Language id="English">
+            From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            AP,#c# pennou]: twnf e~bol qen n/eymwout: n~yof pe t~a~par,/: n~te n/etauenkot.
+         </Language>
+         <Language id="English">
+            Christ our God: Has risen from the dead: and He is the first: of those who have fallen asleep 
+         </Language>
+         <Language id="Arabic">
+            المسيح إلهنا قام من بين الأموات وهو بكر المضطجعين.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/versesofthecymbals/Resurrection.2"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Loipon au,af qen pim~hau: kata nic~m/ m~p~rov/tikon: qen pimah somt n~e~hoou: P,#c# anect/ ek nekrwn.
+         </Language>
+         <Language id="English">
+            Then He was placed in the tomb: according to the Prophetic voices: On the third day: Christ is risen from the Dead.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً وضع فى القبر حسب الأخبار النبوية وفى اليوم الثالث قام المسيح من بين الأموات.
+         </Language>
+      </Text>
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">         
+            <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+         </Season>
+      </Group>
+      
+      <Group>
+         <Season id="Resurrection ^ Matins">
+            <InsertDocument path="include/versesofthecymbals/saints/ArchangelMichaelPentecost"/>
+         </Season>
+      </Group>
+   </Season>
+</Document>

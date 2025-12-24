@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FirstProstration="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ PentecostWeek7 ^ PentecostPeriod ^ Pentecost ^ AdamDays ^ Weekend ^ Sundays ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">First Prostration</Language>
+         <Language id="Arabic">السجدة الأولى</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Prayed in the second chorus of the church in the festive tune.
+         </Language>
+         <Language id="Arabic">
+            تصلى فى الخورس الثانى باللحن الفرايحى
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            A pottery vessel should be prepared and filled with charcoal to be ready so the priest may put incense in the vessel while mentioning the departed. 
+         </Language>
+         <Language id="Arabic">
+            يتم تحضير وعاء فخار ويملأ من الفحم المشتعل ليقوم الكاهن بتقديم البخور على أرواح المنتقلين
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/StartOfService"/>
+      <InsertDocument path="include/ThanksgivingPrayer"/>
+      
+      <ForceSeason id="Matins">
+         <InsertDocument path="include/ProcessionOfIncense"/>
+      </ForceSeason>
+      
+      <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/DoxaPatriAlleluia"/>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="Deuteronomy 5:22-6:3" type="section"/>      
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      </Role>
+      
+      <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="1 Corinthians 12:28-13:12" type="section"/>      
+      </Role>
+      
+      <InsertDocument path="include/trisagion/Seasonal"/>
+      <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Adam Exposition</Language>
+               <Language id="Arabic">طرح أدام</Language>
+            </Title>
+            
+            <Text> 
+               <Language id="English">
+                  The Apostles preached the teaching of the Holy Gospel, not by writing the Book but by the renewal of the Holy Spirit. The indication of that was  they spoke in the different languages with tongues of fire. 
+               </Language>
+               <Language id="Arabic">
+                  كان الرسل يبشرون بالتعليم المقدس الإنجيلي. لا بكتابة الكتاب بل تجديد الروح القدس. وعلامة ذلك أنهم نطقوا بكافة لغات الألسن بألسنة نارية.
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  But the Jews who remained in their iniquities, disdained them saying that they were drunk. The Jews unknowingly uttered the truth with their own mouths, because the grace of the Holy Spirit is the new wine which filled the Apostles and made them speak with all purity in tongues of fire. 
+               </Language>
+               <Language id="Arabic">
+                  فاما اليهود الذين تعتَّقوا في إثمهم كانوا يهزأون قائلين أن هؤلاء سكارى من سلافة. وليس بإختيارهم قالوا الحق بأفواههم. لأن نعمة الروح هي خمر جديد. هذا الذي منه الرسل إمتلأوا. وبطهارة كانوا ينطقون نارية.
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  Through their prayers, purify us also, O our Master, from the evil of the old man. And make us worthy of the fellowship of Your Holy Spirit, O Lover of Mankind. Through the prayers of our fathers the Apostles, O Lord, grant us the forgiveness of our sins. 
+               </Language>
+               <Language id="Arabic">
+                  بصلواتهم طهرنا نحن أيضاً يا سيدنا من شر الإنسان العتيق. واجعلنا مستحقين لشركة روحك القدوس أيها الرب المحب البشر، بصلوات آبائنا الرسل. يا رب انعم لنا بغفران خطايانا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+         
+      <InsertDocument path="include/StandardPrayerIntro"/>
+      <InsertDocument path="include/litanies/Sick"/>
+      <InsertDocument path="include/litanies/Travelers"/>
+      <InsertDocument path="include/litanies/Seasons"/>
+      <InsertDocument path="include/litanies/Place"/>
+      
+      <Comment>
+         <Language id="English">
+            The congregation bows down after the deacon says:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/WorshipGodInFear"/>
+   
+      <Role id="Priest">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">First Prostration Prayer</Language>
+            </Title>
+            
+            <Text>
+               <Language id="English">
+                  O Lord, who is without blemish, the Undefiled, without beginning, the Invisible, the Incomprehensible, the Unchangeable and the Omnipresent, who is not evil or spiteful, who alone is immortal, dwelling in incomprehensible light.
+               </Language>
+               <Language id="Arabic">
+                  يا الله الذي بلا عيب، الغير الدنس، الغير المبتدئ، الغير المرئي، الغير المدرك، الغير المفحوص، الذي لا يتغير ولا يستحيل، الذي يشبه ولا يحد، الغير الشرير، الغير الحقود، الحائز وحده صفة عدم الموت، الساكن في النور الذي لا يدرك.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Who created the heaven, the earth and the sea and all that therein. Who gives all people their request before they ask Him. We ask and entreat You, O our King, the Lover of Mankind, God, the Father of our Lord, our God and Savior Jesus Christ.
+               </Language>
+               <Language id="Arabic">
+                  الذي خلق السماء والأرض والبحر وكل خلقة فيها. الذي يعطي كل الناس طلباتهم قبل أن يسألوه. نسأل ونطلب منك يا ملكنا يا محب البشر، يا الله أبو ربنا وإلهنا ومخلصنا يسوع المسيح.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Who for us men and for our salvation, came down from heaven, and was incarnate of the Holy Spirit and of the Virgin Saint Mary, the Theotokos, Mother of God. Who taught us first through words and then by granting us His salvation which He performed with His honored sufferings.
+               </Language>
+               <Language id="Arabic">
+                  الذي من أجلنا نحن البشر ومن أجل خلاصنا نزل من السماء وتجسد من الروح القدس ومن مريم العذراء القديسة والدة الإله. هذا الذي علمنا أولاً بالقول، وأخيراً أولانا خلاصه الذي صنعه بألآمه الكريمة.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Grant us, we who are humiliated by our sins and are unworthy to be Your servants, to send up our supplications to You, and bow down our heads and our knees before You for the sake of our sins and for the ignorance of Your people. You are abundant in mercy and the Lover of Mankind.
+               </Language>
+               <Language id="Arabic">
+                  أعطي لنا علامة نحن المذلولين بالخطايا والغير المستحقين أن نكون عبيداً لك لنرفع طلباتنا ونخضع لك بأعناقنا وركبنا من أجل خطايانا وجهالات شعبك. أنت الكثير الرحمة والمحب للبشر.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Listen to us on this day on which we call upon you; this Day of Pentecost which is after the Ascension of our Lord Jesus Christ into the heavens and His sitting at the right hand of His Father. He sent His Holy Spirit upon His holy disciples and He descended on each one of them.
+               </Language>
+               <Language id="Arabic">
+                  إستجب لنا في هذا اليوم الذي ندعوك فيه. سيما هذا اليوم الذي لعيد الخمسين. هذا الذي من بعد صعود ربنا يسوع المسيح إلى السموات وجلوسه عن يمين أبيه. أرسل روحه القدوس على تلاميذه القديسين وحل على كل واحد فواحد منهم.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  They were all filled with the infinite grace and they spoke in different tongues and prophesied of Your greatness, O God. Now also, O Master, listen to us. We, being humiliated by our sins and cast down under condemnation, ask You to free our captive souls by Your great kindness.
+               </Language>
+               <Language id="Arabic">
+                  فإمتلأوا جميعاً من النعمة التي لا تفرغ وتكلموا بألسنة أخرى وتنبأوا بعظائمك يا الله. فالآن أيضاً إستجب لنا يا سيدنا نحن الطالبين إليك، المذلولين بالخطايا المنطرحين تحت الحكم، رُد سبيْ أنفسنا لأن عِظَم حنوك يتضرع إليك من أجلنا.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  We ask You to accept us, we who are bowing down before You, crying out to You and saying "We have sinned for You have left us since the beginning." You are our God since we were in our mothers' wombs. Our days have passed by in vain and we have been naked of Your help and are unable to give a reason for our deeds,
+               </Language>
+               <Language id="Arabic">
+                  إقبلنا نحن الجاثين لك ونصرخ: أخطأنا لأنك تركتنا منذ البدء من الحشاء، أنت هو إلهنا منذ كنا في بطون أمهاتنا. لكن من أجل أن أيامنا فنيت بالباطل وتعرينا من معونتك، عاجزين عن كل جواب. 
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  but we trust in Your lovingkindness and cry out to You, saying: "Do not remember the sins of our youth and our ignorance." Cleanse us, O Lord, from our hidden impurities. Look at our humility and save us and forgive us our sins. Do not abandon us in our old age.
+               </Language>
+               <Language id="Arabic">
+                  لكننا واثقون برأفتك. إذ نصرخ قائلين: خطايا صبانا وجهلنا لا تذكرها. طهرنا يا رب من خفاياتنا. انظر إلى تواضعنا وخلصنا وإغفر لنا جميع خطايانا. ولا ترفضنا في زمن الشيخوخة.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Do not leave us if we stray but grant us repentance before we return to dust. Look upon us with Your grace. Measure our sins with Your kindness. Place the multitude of our repentance in the depth of Your compassion. Behold Your people, O Lord, from Your high holy place; these who bow down their heads waiting for the multitude of Your great mercies.
+               </Language>
+               <Language id="Arabic">
+                  وعند فناء أنفسنا لا تتركنا. هِب لنا رجعة قبل أن نعود إلى الأرض وإلتفت إلينا بهدوء ونعمة، ووازن خطايانا بتحننك، وكثرة ندامتنا ضعها بعمق رأفتك. إطلع يا رب من علوك المقدس على شعبك، هذا المطامن الرأس، المنتظر كثرة رحمتك.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Visit us with Your goodness. Save us from the tyranny of Satan. Strengthen our lives with Your pure power and Your honorable law. Appoint one of Your honest guardian angels to guard Your people. Bring us all into Your kingdom. Grant forgiveness to Your people who put their trust in You and also forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  إفتقدنا بصلاحك. نجنا من جبروت إبليس. ثبت حياتنا بقوتك الطاهرة وناموسك الكريم. ملاكاً أميناً حافظاً أقمه لحراسة شعبك. أدخلنا جميعاً إلى ملكوتك، هِب صفحاً لشعبك المتكل عليك وإغفر لنا نحن أيضاً خطايانا.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Cleanse us all by the good power of Your Holy Spirit. Loosen us from the bondage of Satan. Truly blessed are You, O Lord, our King, the Pantocrator who enlightens the day with the light of the sun and the night with the rays of the fiery stars. Who made us worthy to see the length of the day and to approach the beginning of the night.
+               </Language>
+               <Language id="Arabic">
+                  طهرنا كلنا بالقوة الصالحة التي لروحك القدوس، حلنا من أوثقة إبليس. تباركت بالحقيقة أيها الرب ملكنا الضابط الكل الذي أنار النهار بضوء الشمس والليل بشعاع النجوم النارية. الذي جعلنا أهلاً لمعرفة طول النهار ونقترب إلى مبدأ الليل.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Listen to our supplications together with the supplications of all Your people and forgive us our sins which we have committed knowingly and unknowingly. Accept our evening praises. Send the multitude of Your mercies and kindness upon Your inheritance. May we be surrounded by pure angels to guard us with the weapons of righteousness. May we be covered with Your justice.
+               </Language>
+               <Language id="Arabic">
+                  إسمع طلباتنا مع كافة شعبك وإغفر لنا خطايانا التي بمعرفة والتي بغير معرفة. إقبل ابتهالاتنا المسائية وأرسل كثرة رحمتك وتحننك على ميراثك ولنفز بملائكة أطهار ليحفظوا منطقنا بأسلحة البر، وليحيط بنا عدلك.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Preserve us with Your power. Save us from every affliction and from every conspiracy of the enemy. Grant us to complete this evening and this coming night with all purity and in peace and justice. May we be without sin, or doubt or fear all the days of our lives, through the prayers of the Theotokos, Mother of God, the Virgin Saint Mary,
+               </Language>
+               <Language id="Arabic">
+                  إحفظنا بقوتك، إنقذنا من كل شدة ومن كل مؤامرة المعاند. إمنحنا أن نكمل هذه العشية، وهذا الليل المقبل أيضاً بطهارة وسلامة وعدل ونحن بلا خطية ولا شك ولا خوف كل أيام حياتنا، بطلبات والدة الإله القديسة مريم،
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  and all the saints who pleased You since the beginning.
+               </Language>
+               <Language id="Arabic">
+                  وجميع القديسين الذين أرضوك منذ البدء.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </ForceSeason>
+</Document>

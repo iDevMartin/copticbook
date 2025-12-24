@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" ChurchConsecration="true">
+   <Title>
+      <Language id="English">Church Consecration (Part 3)</Language>      
+      <Language id="Coptic">Pjineragiazin n~]ekkl/cia m~beri</Language>
+   </Title>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 Kings 8:54-61" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="2 Chronicles 7:1-6" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/TuesdayContents"/>
+      <InsertDocument path="include/psalies/ConclusionAdam"/>
+      <InsertDocument path="include/praises/theotokia/TuesdayContents"/>
+   </Role>
+   
+   <Role id="Bishop">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">The Epiclesis</Language>
+            <Language id="Arabic">صلاة استدعاء الروح القدس</Language>
+         </Title>
+         
+         <InsertDocument path="include/EpiclesisCyril"/>
+      </Section>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         In the Gregorian tune:
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/ForYourPeople"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="2 Chronicles 7:7-18" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/WednesdayContents"/>
+      <InsertDocument path="include/psalies/ConclusionWatos"/>
+      <InsertDocument path="include/praises/theotokia/WednesdayContents"/>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            The bishop says the following litany, and the congregation responds with “Lord have mercy” (<span class="Coptic">Kurie~ e~le/~con</span>) after each verse:
+         </Language>
+      </Comment>
+   </Role>
+          
+   <InsertDocument path="include/yeaweaskyou/YeaWeAskYouBishop"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Isaiah 59:20-60:22" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/ThursdayContents"/>
+      <InsertDocument path="include/psalies/ConclusionWatos"/>
+      <InsertDocument path="include/praises/theotokia/ThursdayContents"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest says the following litany, and the congregation responds with “Lord have mercy” (<span class="Coptic">Kurie~ e~le/~con</span>) after each verse:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <InsertDocument path="include/HealingToTheSick"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ezekiel 1:3-28" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/FridayContents"/>
+      <InsertDocument path="include/psalies/ConclusionWatos"/>
+      <InsertDocument path="include/praises/theotokia/FridayContents"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Peace"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ezekiel 40:1-19" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/SaturdayContents"/>
+      <InsertDocument path="include/psalies/ConclusionWatos"/>
+      <InsertDocument path="include/praises/theotokia/SaturdayContents"/>
+   </Role> 
+</Document>

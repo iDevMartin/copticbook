@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="TheophanyParamoun">
+         <Text>
+            <Language id="Coptic">
+               Rwf m~V] afermeyre qarok: w Iwann/c piref]wmc: je m~mon v/ettenywn] e~rok: qen nimici n~te nihiomi.
+            </Language>
+            <Language id="English">
+            The mouth of God witnessed, to you O Baptizer, “No one is like you, among those born of women.”
+            </Language>
+            <Language id="Arabic">
+               فم الله شهد لك يا يوحنا المعمدان لأنه ليس من يشبهك فى مواليد النساء.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

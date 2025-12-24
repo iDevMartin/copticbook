@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StJosephTheCarpenter:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Joseph the Carpenter: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJosephTheCarpenter"/>
+      </Season>
+   </Group>
+</Document>

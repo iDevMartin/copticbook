@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyParamoun">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Afermeyre n~je Iwann/c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Paramoun of the Theophany:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/Afermethre"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Alternate Praxis Response</Language>
+            <Language id="Coptic">&lt;ere Iwann/c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               Another response for the Paramoun of the Theophany:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/praxisResponse/saints/StJohnTheBaptistContents"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

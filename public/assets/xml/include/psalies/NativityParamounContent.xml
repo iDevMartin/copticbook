@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Mondays">
+      <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnMondayTheotokia"/>
+   </Season>
+   
+   <Season id="Tuesdays">
+      <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnTuesdayTheotokia"/>
+   </Season>
+   
+   <Season id="Wednesdays">
+      <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnWednesdayTheotokia"/>
+   </Season>
+   
+   <Season id="Thursdays">
+      <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnThursdayTheotokia"/>
+   </Season>
+   
+   <Season id="Fridays">
+      <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnFridayTheotokia"/>
+   </Season>
+   
+   <Season id="Saturdays">
+      <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnSaturdayTheotokia"/>
+   </Season>
+   
+   <Season id="Sundays">
+      <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnSundayTheotokia"/>
+   </Season>
+</Document>

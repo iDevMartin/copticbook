@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">         
+      <Comment>
+         <Language id="English">
+            For Joyous Saturday:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Pao#c# I/#c# P,#c#: v/e~taf,af qen pim~hau: eke~qomqem n~qr/i n~q/ten: n~]couri n~te v~mou.
+         </Language>
+         <Language id="English">
+            My Lord Jesus Christ: Who was placed in the tomb: You shall trample within us: the thorn of death.
+         </Language>
+         <Language id="Arabic">
+            ياربى يسوع المسيح الذى وضع فى القبر إسحق عنا شوكة الموت.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/versesofthecymbals/FeastOfTheCrossContents"/>
+   </Season>
+</Document>

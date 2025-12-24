@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">For Your People</Language>
+      <Language id="Arabic">لأن شعبَكَ</Language>
+      <Language id="Coptic">Peklaoc Gar</Language>         
+   </Title>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/ForYourPeopleContents.1"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/ForYourPeopleContents.1"/>
+         </Role>
+      </Season>
+   </Group>
+       
+   <InsertDocument path="include/HaveMercyUponUsSavior3"/> 
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/ForYourPeopleContents.2"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/ForYourPeopleContents.2"/>
+         </Role>
+      </Season>
+   </Group>
+</Document>

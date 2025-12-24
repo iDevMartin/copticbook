@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Theophany">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Adam Exposition For the Second Hoos</Language>
+            <Language id="Arabic">طرح أدام على الهوس الثاني</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               A~mwini e~bolqen aur/jf: n~te p~kahi t/rf: n~tensenan qen piP~neuma: e~p~kahi m~pIcra/l.
+            </Language>
+            <Language id="English">
+               Come all from the corners of the earth, to walk in Spirit, to the land of Israel,
+            </Language>
+            <Language id="Arabic">
+               تعالوا يا جميع أقطار الأرض، لنمضي بالروح، إلى أرض إسرائيل،
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               N~tenmosi nem I/#c#: efn/ou e~piIordan/c: eyref[i m~piwmc: e~bolhiten Iwann/n.
+            </Language>
+            <Language id="English">
+               To walk with Jesus, when He is departing to the Jordan, to be baptized, by John.
+            </Language>
+            <Language id="Arabic">
+               لنمشي مع يسوع، وهو مُقبل إلى الأردن، ليعتمد، من يوحنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               And hear the voice of the Father saying, “This is My beloved Son, in whom I am well pleased.” Take of the old man and put on the new man. Come to the Jordan to be granted purity through the holy baptism. For the Scripture informs us that without purity no one can see God. Let us be immersed in the holy water of the Jordan and He will purify us. David proclaims and prophesies about the Coming of Christ to the Jordan saying, “The voice of the Lord is over the waters; The God of glory thunders” (Psalm 29:3). When the Lord went to the Jordan from Nazareth to be baptized from him, the saying of the prophet was fulfilled, “Behold! My Servant and My Beloved in whom I am well pleased!” (Matthew 12:18). Zebulun, Naphtali, Galilee, and those who are in darkness and the shadow of death; a Light shone upon them who is Jesus Christ in the Jordan to be baptized by him, to whom the glory forever. Amen.
+            </Language>
+            <Language id="Arabic">
+               ونسمع صوت الآب قائلاً: "هذا هو إبني الحبيب الذي به سررت." اخلعوا الإنسان العتيق وألبسوا الإنسان الجديد. اخرجوا إلى الأردن لتنالوا التطهير بالعماد المقدس. لأن الكتب تشهد لنا أنه بغير الطهارة لا يعاين أحد الله. لنغطس في الماء المقدس الذي للأردن وهو يطهرنا. داود يصرخ ويتنبأ من أجل مجيء المسيح إلى الأردن قائلاً: "صوت الرب على المياه. إله المجد أرعد." ولما جاء الرب من الناصرة إلى الأردن ليعتمد منه. حينئذ كمل قول النبي: "ها هوذا فتاي وحبيبي الذي هويته." زبولون ونفتاليم والجليل والجلوس في الظلمة وظلال الموت. أشرق لهم النور الذي هو المسيح يسوع على الأردن ليعتمد منه، له المجد دائماً أبدياً. آمين.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

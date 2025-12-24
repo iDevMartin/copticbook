@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ PentecostWeek7 ^ PentecostPeriod ^ Pentecost ^ AdamDays ^ Weekend ^ Sundays ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">The Praise</Language>
+         <Language id="Arabic">التسبحة</Language>
+      </Title>
+       
+      <Comment>
+         <Language id="English">
+            The Agpeya prayers of the Sixth, Ninth, Eleventh, and Twelfth Hours (and Veil in the monasteries) are prayed
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/agpeya/6thHourLink"/>
+      <InsertDocument path="include/agpeya/9thHourLink"/>
+      <InsertDocument path="include/agpeya/11thHourLink"/>
+      <InsertDocument path="include/agpeya/12thHourLink"/>
+      <InsertDocument path="include/agpeya/VeilLink"/>
+      
+      <Comment>
+         <Language id="English">
+            Prayed in the second chorus of the church in the festive tune.
+         </Language>
+         <Language id="Arabic">
+            تصلى فى الخورس الثانى باللحن الفرايحى
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/Psalm116"/>
+      <InsertDocument path="include/praises/FourthHoos"/>
+      
+      <Section expanded="true" antiphonePitch="2">
+         <Title>
+            <Language id="English">Psali Adam for the Prostration</Language>
+            <Language id="Arabic">إبصالية أدام للسجدة</Language>
+         </Title>
+       
+         <Text>
+            <Language id="Coptic">
+               Ainahwc nak P~o#c#: qen ounai nem oumeym/i: je n~yok pe Pirefcw]: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               I praise You O Lord, with mercy and truth, because You are the Savior, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               أسبحك يا رب، بالرحمة والحق، لأنك أنت هو المخلص، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Bal niben n~te paka]: eue~caji qen neks~v/ri: je aki~ri n~oucw]: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               All my understanding, utters Your wonders, because You have performed salvation, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               كل أعين فهمي، تنطق بعجائبك، لأنك صنعت خلاصاً، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Genoc n~nirwmi: euhwc e~Tek-a~nactacic: e~p~swi e~niv/oui~: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               The human race, praises Your Resurrection, to the heavens, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               جنس البشر، تسبح قيامتك، إلى السموات، الروح المعزي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Dauid p~ouro n~Ieroucal/m: m~pair/] afjw m~moc: je afolf e~jen Ni,eroubim: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               David the king, of Jerusalem said, "He rode on the Cherubim," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               داود ملك أورشليم، قال هكذا، "أنه ركب على الشاروبيم،" الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Esl/loui~ m~P~o#c#: niar,/ nem niexoucia: niy~ronoc nimeto#c#: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Rejoice in the Lord, O authorities and dominions, principalities and thrones, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               هللي للرب، أيتها الرئاسات والسلطات، والكراسي والسيادات، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Ze ontoc afsenaf: e~p~swi e~niv/oui~: afere,malwteuin: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Truly He ascended, to the heavens, and led captivity captive, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               نعم حقاً صعد، إلى السموات، وسبى سبياً، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               ?~deoc a~non tenhwc: tenc~mou e~rok: ouoh tenouwst m~mok: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               We also praise You, and bless You, and worship You, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               ونحن أيضاً، نسبحك ونباركك، ونسجد لك، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Yel/l e~P~o#c# V~]: qen oumeym/i nem ounai: je afsenaf e~p~swi e~t~ve: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Rejoice to the Lord God, with mercy and truth, for He ascended to the heaven, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               هللوا للرب الإله، بالحق والرحمة، لأنه صعد إلى السماء، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Iwann/c piyeo~logoc: qen pefeuaggleion: je ainau e~P,#c#: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               John the theologian, said in his gospel, "I saw Christ," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               يوحنا الناطق بالإلهيات، قال في أنجيله، "اني رأيت المسيح،" الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Ke palin Petroc: aftamon qen rwf: je afsenaf e~ouranoc: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Also Peter, taught us from his mouth, "He ascended to the heavens," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               وأيضاً أعلمنا بطرس، من فمه، "أنه صعد إلى السموات،" الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Loukac pic/ini: afc~qai qen nip~raxic: je vai pe I/#c#: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Luke the physician, wrote in the Book of Acts, "This is Jesus," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               لوقا الطبيب، كتب فى الأعمال، "أن هذا هو يسوع،" الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Markoc piyew~rimoc: afouwnh m~pefc~mot: je afhemci caoui~nam m~Pefiwt: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Mark the beholder of God, likewise said, "He sat at the right hand of His Father," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               مرقس الناظر الإله، أظهر مثاله قائلاً، "أنه جلس عن يمين أبيه،" الروح المعزي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Nijom t/rou n~te niv/oui~: auhitou e~q~r/i auouwst m~mof: na niv/oui~ nem na p~kahi: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               All the heavenly powers, knelt and worshipped Him, all the inhabitants of heaven and earth, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               كل القوات السماوية، خرت وسجدت له، السماويون والأرضيون، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               X~c~marwout Piouro: qen tekk~t/cic: va p~ersisi nem pi[ro: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Blessed are You O King, in Your creation, to whom is due dominion and victory, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               تباركت أيها الملك، في خليقتك، يا ذا السلطان والغلبة، الروح المعزي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ouw~ou nak nem ouseph~mot: w~ Pia~l/yinoc: je akouwrp m~pekh~mot: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Glory and thanksgiving, are due to You O True One, because You sent Your grace, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               لك المجد والشكر، أيها الحقيقي، لأنك أرسلت نعمتك، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Pip~neuma m~Piparakl/ton: m~v~r/] n~ou,~rwm: qen ]bahmi n~te Ciwn: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               The Spirit the Paraclete, as tongues of fire, in the upper room of Zion, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزي، مثل نار، فى عُلية صهيون، الروح المعزي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ran niben n~nivul/: nem niacpi n~lac: hiten t~jom n~}t~riac: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               All nations and all tongues, exist through, the power of the Trinity, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               كل أسماء والقبائل، ولغات الألسن، من قِبـَل قوة الثالوث، الروح المعزي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Cwtem e~p~caji: Iw/l pip~rov/tic: e~jen paie~hoou etc~marwout: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Listen to the saying, of Joel the prophet, about this blessed day, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               إسمعوا قول، يوئيل النبي، عن هذا اليوم المبارك، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Tqae~ n~te nie~hoou: ]najws e~bolqen Pap~neuma: e~jen carx niben e~taiyamiwou: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               "At the end of days, I will send My Spirit, on every flesh I created," the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               "في آخر الأيام، أسكب من روحي، على كل جسد خلقته،" الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Umnologia niben n~c~mou: tenouwrp m~mwou harok: nem Dauid pip~rov/t/c: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               We send You every blessing, and every praise, with David the prophet, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               كل بركة وتسبيح، نرسلها إليك، مع داود النبي، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               V~nou] v/ethemci: hijen Ni,eroubim: m~pem~yo n~Evrem nem Beniamin nem Manacc/: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               God who is sitting on the Cherubim, appeared before Ephraim, and Benjamin and Manasseh, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               الله الجالس على الشاروبيم، ظهر أمام إفرايم، وبنيامين ومنَّسى، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               &lt;~ouab ,~ouab ,~ouab: P~ouro n~e~pouranion: nem Pekp~neuma e#y#u#: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Holy holy holy, O Heavenly King, with Your Holy Spirit, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس، أيها الملك السماوي، مع روحك القدوس، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               "wter m~pikocmoc: V~ref] m~p~wnq: a~mou swpi n~q/ten: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               O Savior of the world, and Giver of life, come and dwell in us, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               يا مخلص العالم، ومعطي الحياة، تعالى وحل فينا، الروح المعزي.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               W~oun~h/t e~jwi: w~ pimonogen/c: je aiernobi e~rok: Pip~neuma m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Be patient with me, O only-begotten Son, because I have sinned against You, the Spirit of comfort.
+            </Language>
+            <Language id="Arabic">
+               تأنى علىَّ، أيها الوحيد الجنس، لأني أخطأت إليك، الروح المعزي.
+            </Language>
+         </Text>
+      </Section>
+       
+      <InsertDocument path="include/psalies/Aikoti"/>
+      <InsertDocument path="include/psalies/ConclusionAdam"/>
+      <InsertDocument path="include/praises/theotokia/Sunday"/>
+      <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+   </ForceSeason>
+</Document>

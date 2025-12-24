@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StRebecca:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Rebecca:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te nimenra] m~pi&lt;rictoc : Ierebekka nem necs/ri: P[oic arih~mot nan m~pi,w e~bol n~te nennobi. 
+            </Language>
+            <Language id="English">
+               Through the prayers of the beloved of Christ, Rebecca and her children, O Lord, grant us the forgiveness of our sins.                                                      
+            </Language>
+            <Language id="Arabic">
+               بصلوات احباء المسيح، رفقة وأولادها، يارب انعم لنا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

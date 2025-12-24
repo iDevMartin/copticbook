@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="English">
+         Lord hear us and have mercy on us and forgive us our sins. 
+      </Language>
+      <Language id="Arabic">
+         يارب أسمعنا و ارحمنا و اغفر لنا خطايانا أمين 
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         <span class="Coptic">Kurie~ e~le/~con</span> is said 41 times. 
+      </Language>
+      <Language id="Arabic">
+         يَارَبُّ ارْحَمْ ٤١ مرة
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/LordHaveMercy41"/>
+   <InsertDocument path="include/agpeya/HolyHolyHoly"/>
+   <InsertDocument path="include/LordsPrayer"/>
+</Document>

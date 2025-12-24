@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekend ^ JoyousSaturday ^ Saturdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest and deacons put on their service vestments, and the veil of the sanctuary is opened.  
+            </Language>
+         </Comment>
+         
+         <Comment>
+            <Language id="English">
+               The priest stands before the sanctuary facing the east with his head uncovered, and holds the book of Psalms, wrapped in a white linen veil and chants “<span class="Coptic">Doxaci o~ ye~oc /~mwn Al</span>” in its apocalyptic tune, followed by Psalm 151:  
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Psalm151Chant"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest carries the book of Psalms and proceeds around the church three times with the deacons while chanting the exposition of the Second Canticle: “<span class="Coptic">Marenouwnh e~bol</span>.”  
+            </Language>
+         </Comment>
+         
+         <Comment>
+            <Language id="English">
+               Please note that all the Praises are chanted by alternating one verse from inside the sanctuary and one verse from outside the sanctuary.   
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/praises/PsaliAdamForSecondHoos"/>
+         <InsertDocument path="include/praises/FirstHoos"/>
+         
+         <Comment>
+            <Language id="English">
+               The priest and deacons sit while having lit candles and they start reading the rest of the Old Testament praises and prophecies:   
+            </Language>
+         </Comment>      
+      </Role>
+      
+      <Role id="Reader">
+         <!--  SOD says Deuteronomy 32:1-42 -->
+         <BibleReference reference="Deuteronomy 32:1-43" type="section"/>
+         
+         <!--  SOD says 1 Samuel 2:1-11 -->
+         <BibleReference reference="1 Samuel 2:1-10" type="section"/>
+         
+         <BibleReference reference="Habakkuk 3:2-19" type="section"/>
+         <BibleReference reference="Jonah 2:1-10" type="section"/>
+         <BibleReference reference="Isaiah 38:10-20" type="section"/>
+         <BibleReference reference="Prayer of Manasseh 1:1-15" type="section"/>
+         <BibleReference reference="Isaiah 26:9-20" type="section"/>
+         <BibleReference reference="Isaiah 25:1-12" type="section"/>
+         
+         <!--  SOD does not include this reference -->
+         <BibleReference reference="Isaiah 26:1-9" type="section"/>
+         
+         <BibleReference reference="Lamentations 5:16-22" type="section"/>
+         <BibleReference reference="Baruch 2:11-15" type="section"/>
+         <BibleReference reference="1 Kings 18:36-39" type="section"/>
+         <BibleReference reference="1 Chronicles 29:10-13" type="section"/>
+         <BibleReference reference="1 Kings 8:22-30" type="section"/>
+         <BibleReference reference="Daniel 9:4-19" type="section"/>
+         
+         <!-- For the following SOD has Dan 3:25-51 followed by Dan 3:1-23 only  -->
+         
+         <BibleReference reference="Daniel 3:1-24" type="section"/>      
+         <BibleReference reference="Daniel 3:25-51" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/praises/ThirdHoos"/>
+         <InsertDocument path="include/praises/Aripsaleen"/>
+         <InsertDocument path="include/praises/Tenen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest and deacons sit while having lit candles and they continue reading the rest of the New Testament praises and prophecies:   
+            </Language>
+         </Comment>      
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="Daniel 3:91-97" type="section"/>
+         <BibleReference reference="Luke 1:46-55" type="section"/>
+         
+         <!--  SOD says Luke 1:68-71 -->
+         <BibleReference reference="Luke 1:68-79" type="section"/>
+         
+         <BibleReference reference="Luke 2:29-32" type="section"/>
+      </Role>
+      
+      <Role id="Priest">
+         <BibleReference reference="Daniel 13:1-64" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               At the end of the Praises, the deacons chant the hymn “<span class="Coptic">Tenoueh n~cwk</span>” (We follow You) in its standard tune while holding lit candles and proceeding around the church three times.   
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/praises/TenowehEnsok"/>
+      </Role>
+   </ForceSeason>
+</Document>

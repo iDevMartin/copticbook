@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document>
+   <Season id="CovenantThursday">
+      <Comment>
+         <Language id="English">
+            <ol>
+               <li>During the distribution, the veil of the sanctuary is closed.  Communion should be either before or after the sunset, in order for us not to participate with the Jews in their celebration of the Passover, which is observed at sunset.</li>
+               <li>Psalm 150 is not chanted, but rather the prayer of the Eleventh Hour is prayed according to the rite of the hours of the Pascha week</li>
+            </ol> 
+         </Language>            
+      </Comment>
+      
+      <LinkDocument path="pascha/thursday/Thursday - 11th Hour" useHistory="false">
+         <Language id="English">
+            11th Hour of Thursday
+         </Language>
+      </LinkDocument>
+   </Season>
+</Document>

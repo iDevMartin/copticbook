@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMoses:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Pisorp m~marturoc eyouab...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Moses:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Pisorp m~marturoc eyouab: e~tafjwk e~bol n~kalwc: qen pitwou n~te Sih/t: pe peniwt eyouab abba Mwc/: All/louia (3)
+            </Language>
+            <Language id="English">
+               The first holy martyr: who was well perfected: on the mountain of Shiheet: is our holy father Abba Moses: Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               الشهيد الأول القديس، الذى كمل حسناً، فى جبل شيهيت، هو أبونا القديس أنبا موسى. الليلويا (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

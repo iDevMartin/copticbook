@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Text>
+         <Language id="Coptic">
+            P[oic P[oic P[oic icje ekoi m~v~r/] n~ourefmwout: a niIoudai hitk e~oum~hau qen outebc auhitebc e~jwk hwc de eurwic e~]s~fw je hina n~teknohem n~n/e~tenoun m~'u,/.
+         </Language>
+         <Language id="English">
+            Lord, Lord, Lord, as if you were like the dead : the Jews have placed  you in a tomb: with a seal they sealed You : and as they were guarding the tomb, You saved our souls.
+         </Language>
+         <Language id="Arabic">
+            يارب يارب يارب ان كنت قد صرت مثل الأموات واليهود طرحوك في قبر وبختم ختموا عليك حتى يحرسوا المقبرة لكي تخلص نفوسنا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/DoxaPatri"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Tenws ebol enjw m~moc je nai nan V] Pencwt/r: v/etau,af qen pim~hau ekeqomqem n~q~r/i n~q/ten n~]couri n~te v~mou.
+         </Language>
+         <Language id="English">
+            We cry out saying, “Have mercy on us God our Savior: Who was placed in the tomb: You shall trample for us: the thorn of death.” 
+         </Language>
+         <Language id="Arabic">
+            و نصرخ قائلين: ارحمنا يا الله مخلصنا يا من وضع في القبر اسحق عنا شوكة الموت.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Cw] m~mon ouoh nai nan…
+         </Language>
+         <Language id="English">
+            Save us and Have mercy on us…
+         </Language>
+         <Language id="Arabic">
+            خلصنا وارحمنا...
+         </Language>
+      </Text>                        
+   </Season>
+</Document>

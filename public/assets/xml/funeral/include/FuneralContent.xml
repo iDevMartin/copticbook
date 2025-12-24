@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!FuneralMemorial">
+         <Comment>
+            <Language id="English">
+               It is the custom to bring the coffin into the second chorus of the nave, with the feet pointing towards the East. The deacons precede the coffin while they chant the following hymn:    
+            </Language>      
+            <Language id="Arabic">
+               من المعتاد أن يُحضر الكفن إلي صف المرتلين الثاني وتكون الأرجل مواجه ناحية الشرق. يتقدم الشمامسه أمام الكفن وهم يقولون الألحان الأتية:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="funeral/include/Introduction"/>
+         
+         <Group>
+            <Season id="FuneralDeacons | FuneralPriests | FuneralMonkPriests | FuneralBishops | FuneralMonks | FuneralNuns">
+               <Comment>
+                  <Language id="English">
+                     The following hymns are chanted in the procession:    
+                  </Language>      
+                  <Language id="Arabic">
+                     يقال الألحان الأتية فى أثناء الموكب.
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/praises/Psalm116"/>
+               <InsertDocument path="include/praises/PsaliAdamForSecondHoos"/>
+               <InsertDocument path="include/praises/TenowehEnsok"/>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="raisingOfIncense/include/Intro"/>
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   
+   <Group>
+      <Season id="!FuneralMemorial">
+         <InsertDocument path="include/StandardPrayerIntro"/>
+         <InsertDocument path="include/litanies/Sick"/>
+   
+         <Role id="People">
+            <InsertDocument path="include/agpeya/GraciouslyAccord"/>
+         </Role>
+   
+         <InsertDocument path="include/EveryNight"/>      
+      </Season>
+   </Group>
+      
+   <Role id="People">
+      <InsertDocument path="include/DoxaPatriAlleluia"/>
+   </Role>
+   
+   <InsertDocument path="funeral/include/PriestPsalms"/>
+   <InsertDocument path="funeral/include/Prophecy"/>
+   
+   <Role id="People">       
+       <Group>
+          <Season id="FuneralDeacons | FuneralPriests | FuneralMonkPriests | FuneralBishops | FuneralMonks | FuneralNuns">
+             <InsertDocument path="include/HymnOfTheCross"/>
+          </Season>
+       </Group>
+       
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <InsertDocument path="funeral/include/Pauline"/>
+   
+   <Group>
+      <Season id="FuneralDeacons | FuneralPriests | FuneralMonkPriests | FuneralBishops | FuneralMonks | FuneralNuns">
+         <Role id="People">
+            <InsertDocument path="include/agpeya/Gloria"/>
+            <InsertDocument path="include/agpeya/Trisagion"/>
+            <InsertDocument path="include/doxologies/DoxologiesLink"/>
+            <InsertDocument path="include/praises/ConclusionWatosTheotokia"/>
+            <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+            <InsertDocument path="include/Creed"/>            
+         </Role>      
+         
+         <InsertDocument path="include/EvnotiNaiNan"/>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>    
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="funeral/include/Psali"/>
+   
+   <Group>
+      <Season id="!FuneralMemorial">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Funeral Exposition</Language>
+            </Title>
+            
+            <Role id="Priest">
+               <Text>        
+                  <Language id="Coptic">            
+                     Qen v~ran n~]t~riac. 
+                  </Language> 
+                  <Language id="English">            
+                     In the name of the Trinity.
+                  </Language>
+                  <Language id="Arabic">
+                     بأسم الثالوث
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>        
+                  <Language id="Coptic">            
+                     n~o~mooucioc.
+                  </Language> 
+                  <Language id="English">            
+                     One essence.
+                  </Language>
+                  <Language id="Arabic">
+                     المساوى
+                  </Language>
+               </Text>
+           </Role>
+            
+            <Role id="Priest">
+               <Text>        
+                  <Language id="Coptic">            
+                     Viwt nem P~s/ri.
+                  </Language> 
+                  <Language id="English">            
+                     The Father and the Son.
+                  </Language>
+                  <Language id="Arabic">
+                     الآب والإبن
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>        
+                  <Language id="Coptic">            
+                     nem Pin#n#1 e#y#u#.
+                  </Language> 
+                  <Language id="English">            
+                     And the Holy Spirit.
+                  </Language>
+                  <Language id="Arabic">
+                     والروح القدس.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Priest">
+               <Text>        
+                  <Language id="Coptic">            
+                     tai'u,/ yai.
+                  </Language> 
+                  <Language id="English">            
+                     This very soul.
+                  </Language>
+                  <Language id="Arabic">
+                     هذه النفس
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>        
+                  <Language id="Coptic">            
+                     e~tanywou] eyb/tc.
+                  </Language> 
+                  <Language id="English">            
+                     For whom we are gathered.
+                  </Language>
+                  <Language id="Arabic">
+                     التى من أجلها أجتمعنا
+                  </Language>
+               </Text>
+            </Role>
+            
+            <InsertDocument path="funeral/include/Exposition.1"/>
+                  
+            <Role id="People">
+               <Text>        
+                  <Language id="Coptic">            
+                     qen y~metouro n~niv/oui~.
+                  </Language> 
+                  <Language id="English">            
+                     In the kingdom of heaven.
+                  </Language>
+                  <Language id="Arabic">
+                     فى ملكوت السموات.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <InsertDocument path="funeral/include/Exposition"/>      
+         </Section>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/gospelResponse/GospelResponse"/>
+   <InsertDocument path="funeral/include/Litany"/>
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Group>
+      <Season id="!FuneralMemorial">
+         <InsertDocument path="include/StandardPrayerIntro"/>
+         <InsertDocument path="include/litanies/Departed"/>
+      </Season>
+   </Group> 
+        
+   <InsertDocument path="funeral/include/Conclusion"/>
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+</Document>

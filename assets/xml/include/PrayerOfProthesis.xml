@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Section>
+         <Title>
+            <Language id="English">Prayer of the Prothesis of the Bread and the Wine</Language>
+            <Language id="Arabic">صلاة تقدمة الخبز والكأس</Language>            
+            <Language id="Coptic">Vn/b P[oic I/couc Pi,rictoc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">                  
+               Then the priest prays inaudibly the Prayer of the Prothesis of the Bread and the Wine to the Son.
+            </Language>               
+            <Language id="Arabic">                  
+               يقول الكاهن صلاة تقدمة الخبز والكأس هذه سراً للابن:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Vn/b P[oic I/couc Pi,rictoc: pis~v/r n~aidioc: ouoh nLogoc n~te piatywleb Viwt: n~o~mooucioc nemaf nem Pip~neuma eyouab.Nyok gar pe piwik etonq e~tafi~ e~pec/t e~bol qen t~ve.
+            </Language>
+            <Language id="English">
+               O Master, Lord Jesus Christ, the co-eternal Logos of the unblemished Father, who is of one essence with Him and the Holy Spirit—for You are the living bread which came down from heaven
+            </Language>
+            <Language id="Arabic">
+               أيها السيِّدُ الربُّ يسوعَ المسيح، الشَريكُ الذاتِيُّ وكلِمةُ الآب غير الدنس، المساوِي له مع الروحِ القدسِ، أنت هو الخبزُ الحيُّ الذي نزل من السماءِ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh akersorp n~,ak n~ouhi/b n~ata[ni: e~h~r/i e~jen p~wnq m~pikocmoc: ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi.
+            </Language>
+            <Language id="English">
+               and formerly made Yourself a lamb without spot for the life of the world—we ask and entreat Your goodness, O Lover of Mankind,
+            </Language>
+            <Language id="Arabic">
+               وسبقتَ فصيرتَ ذاتَكَ حملاً بغير عيبٍ عن حياةِ العالم. نسأل ونطلب من صلاحِكَ يا محبَّ البشرِ.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Here the priest points with his hand to the bread set before him on the paten.
+            </Language>
+            <Language id="Arabic">
+               هنا يشير بيديه إلى الخبز الموضوع أمامه في الصينية قائلاً:
+            </Language>                  
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouwnh m~pekho e~h~r/i e~jen paiwik vai.
+            </Language>
+            <Language id="English">
+               show Your face upon this bread,
+            </Language>
+            <Language id="Arabic">
+               أَظهِرْ وجهَكَ على هذا الخبزِ.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               He points to the wine set before him in the chalice.
+            </Language>
+            <Language id="Arabic">
+               ويشير بيديه إلى الخمر الموضوعة في الكأس قائلاً:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Nem e~jen paia~vot vai: nai e~tan,au e~q~r/i e~jen:
+            </Language>
+            <Language id="English">
+               and upon this cup, which we have set upon
+            </Language>
+            <Language id="Arabic">
+               وعلى هذه الكأسِ هذين اللذين وضعناهما على:
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               He points to the altar, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يشير إلى المذبح قائلاً:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               tait~rapeza nieratik/ n~tak yai.
+            </Language>
+            <Language id="English">
+               this Your priestly table.
+            </Language>
+            <Language id="Arabic">
+               هذه المائدةِ الكهنوتيةِ التي لكَ.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               He makes the sign of the cross three times over the bread and wine together, saying at the first signing:
+            </Language>
+            <Language id="Arabic">
+               ههنا يرشم على الخبز والكأس معاً ثلاثة رشوم. ففي الرشم الأول يقول:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Cmou e~rwou.
+            </Language>
+            <Language id="English">
+               Bless them,
+            </Language>
+            <Language id="Arabic">
+               بارِكْهُما.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               and at the second signing:
+            </Language>
+            <Language id="Arabic">
+               فى الرشم الثاني يقول:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Aria~gia~zin m~mwou.
+            </Language>
+            <Language id="English">
+               sanctify them,
+            </Language>
+            <Language id="Arabic">
+               قَدِّسْهُما.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               and at the third signing:
+            </Language>
+            <Language id="Arabic">
+               وفى الرشم الثالث يقول:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Matoubwou ouoh ouoybou.
+            </Language>
+            <Language id="English">
+               purify them and change them,
+            </Language>
+            <Language id="Arabic">
+               طَهِّرْهُما وانقِلهُما.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               He points with his hand to the bread in particular, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يشير إلى الخبز خاصة قائلاً:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hina paiwik men n~tefswpi n~yof pe pekcwma eyouab.
+            </Language>
+            <Language id="English">
+               in order that, on the one hand, this bread may indeed become Your holy Body,
+            </Language>
+            <Language id="Arabic">
+               لكي هذا الخبزُ يصيرَ جسدَكَ المقدس.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               He points with his hand to the chalice in particular, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يشير إلى الكأس خاصة قائلاً:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Piywt de etqen paia~vot n~yof pe pekc~nof ettai/~out.
+            </Language>
+            <Language id="English">
+               and, on the other hand, the mixture which is in this cup indeed Your precious Blood.
+            </Language>
+            <Language id="Arabic">
+               والمزيجُ الذي في هذه الكأس يصيرَ دَمَكَ الكريم.
+            </Language>         
+         </Text>
+         
+         <Comment>         
+            <Language id="English">
+               Then he continues, saying:
+            </Language>
+            <Language id="Arabic">
+               ثم يكمل قائلاً:
+            </Language>         
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh marouswpi nan t/rou eumeta~lum'ic nem outal[o nem oucwt/ria~: n~te nen'u,/ nem nencwma nem nenp~neuma.
+            </Language>
+            <Language id="English">
+               And may they become for all of us communion, healing, and salvation for our souls, bodies, and spirits.
+            </Language>
+            <Language id="Arabic">
+               وليكونا لنا جميعاً شركةًً وشفاءً وخلاصاً لأنفسِنا وأجسادِنا وأرواحِنا.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je n~yok gar pe Pennou]: e~re piw~ou erp~repi nak: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+            </Language>
+            <Language id="English">
+               For You are our God, and glory is due unto You, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+            </Language>
+            <Language id="Arabic">
+               لأنك أنت هو إلهُنا، يليقُ بك المجدُ مع أبيكَ الصالحِ والروحِ القدسِ المحيِي المساويِ لكَ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+            </Language>
+            <Language id="English">
+               now and at all times and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">         
+               Then the priest covers the oblation with a veil and the chalice with another veil. He covers both with the prospheron, together with the deacon who is facing him; the priest then carefully places another veil upon the prospheron. He kisses the altar and then goes to the south side of it and makes a prostration toward the East, thanking the Lord who has made him worthy of this holy service. 
+            </Language>
+            <Language id="Arabic">         
+               ثم يغطي القربانة بلفافة وكذلك يغطي الكأس بلفافة أخرى ثم يغطي الجميع هو والشماس مقابله بالابروسفارين ويضع لفافة فوق الابروسفارين باحتراس وتحفُّظ، ي
+            </Language>
+         </Comment>
+      </Section>
+      
+      <Group>
+         <Season id="StGregoryLiturgy">
+            <Comment>
+               <Language id="English">         
+                  This is all done as he says the Absolution to the Father inaudibly (O Master, Lord God the Pantocrator …), which is mentioned during the Prayer of the Fraction of the Liturgy of St. Basil.       
+               </Language>
+            </Comment>
+            <InsertDocument path="include/PrayerOfAbsolutionToTheFather"/>
+         </Season>
+         
+         <Season id="Other">
+            <Comment>
+               <Language id="English">         
+                  This is all done as he says the Absolution to the Son inaudibly (O Master, Lord Jesus Christ …), which is mentioned in the Offering of Incense.       
+               </Language>
+               <Language id="Arabic">         
+                  فعل كل هذا بينما هو يقول تحليل الابن سراً (أيها السيد الربُّ يسوع المسيح…) المذكور في رفع البخور  ثم يقبِّل المذبح ويتوجه إلى جانب المذبح القبلي ويسجد إلى الشرق شاكراً للرب الذي أهَّله لهذه الخدمة الطاهرة.
+               </Language>
+            </Comment>
+            
+            <Section>
+               <InsertDocument path="include/PrayerOfAbsolutionToTheSonContent"/>
+            </Section>
+         </Season>
+      </Group>
+   </Role>
+</Document>

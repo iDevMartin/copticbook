@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Captives</Language>
+      </Title>
+      
+      <Role id="Priest">         
+         <Text>
+            <Language id="Coptic">
+               Arivmeui~ P[oic n~n/etsop qen nitwou nem nic~p/leon: ouoh nenc~n/ou etqen nie,malwcia.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, those who dwell in the mountains and the caves, and our brethren who are in captivity.
+            </Language>
+            <Language id="Arabic">
+               اذكر ياربُّ الساكنين في الجبالِ والمغايرِ، وإخوتَنا الذين في السبي.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Proceuxacye u~per twn e,malwtwn.
+            </Language>
+            <Language id="English">
+               Pray for the captives.
+            </Language>
+            <Language id="Arabic">
+               صلُّوا من أجلِ المسبيينَ.
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">         
+         <Text>
+            <Language id="Coptic">
+               Arih~mot nwou e~hanjintacyo n~hir/nikon e~qoun e~n/e~te nouou.
+            </Language>
+            <Language id="English">
+               Grant them a peaceful return unto their own.
+            </Language>
+            <Language id="Arabic">
+               أنعِم عليهم بعودةٍ سالمةٍ إلى منازلِهم.
+            </Language>         
+         </Text>
+      </Role>
+   </Section>
+</Document>

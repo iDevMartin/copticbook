@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StApakirAndStJohn:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Apakir and St. John</Language>
+            <Language id="Arabic">ذوكصولوجية أباكير ويوحنا أخوه</Language>
+            <Language id="Coptic">Apakir nem Iwann/c...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Apakir and St. John:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">         
+               Apakir nem Iwann/c pefcon: nem cwni c~nau (2) etc~marwout: nimatoi n~te P,#c#: naumei m~mof e~masw.
+            </Language>
+            <Language id="English">
+               Abakir and his brother John, and their blessed sisters, the soldiers of Christ, loved Him very much.
+            </Language>
+            <Language id="Arabic">
+               أباكير ويوحنا أخوه مع أختين مباركتين جنود المسيح كانوا يحبونه جدا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Aumoc] m~pikocmoc t/rf: nem nef,~r/ma nem pip~t/rf: eybe toua~gap/ e~tenhot: nem pounah] qen P,#c#.
+            </Language>
+            <Language id="English">
+               Because of their trusted love, and their faith in Christ, they hated the whole world, its riches and all that is in it.
+            </Language>
+            <Language id="Arabic">
+               أبغضوا العالم كله ومقتنياته وكل ما فيه من أجل محبتهم الصادقة وايمانهم بالمسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Ausepm~kah qen n~oucwma: hiten hannis] m~bacanoc: eybe v~nah] m~P,#c#: m~mon tou,aua~roc m~mwou.
+            </Language>
+            <Language id="English">
+               They suffered in their bodies, many great afflictions, through the faith of Christ, they did not surrender to them.
+            </Language>
+            <Language id="Arabic">
+               تألموا فى أجسادهم بعذابات عظيمة من أجل الايمان بالمسيح ولم يتخلوا عنها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               Au[i n~han,~lom n~a~tlwm: n~te ]metmarturoc: aue~rsai nem n/e#y#u# t/rou: qen t~,wra n~te n/e~tw~nq.
+            </Language>
+            <Language id="English">
+               They received unfading crowns, of martyrdom, they celebrated with all the saints, in the land of the living.
+            </Language>
+            <Language id="Arabic">
+               فنالوا اكاليلا غير مضمحلة التى للشهادة وعيدوا مع جميع القديسين فى كورة الأحياء.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">         
+               &lt;ere nicon c~nau (2) e#y#u#: Apakir nem Iwann/c pefcon: ,ere c~nav m~marturoc: nic/ini m~p~neumatikon.
+            </Language>
+            <Language id="English">
+               Hail to the two holy brothers, Abakir and his brother John, hail to the two martyrs, the spiritual physicians.
+            </Language>
+            <Language id="Arabic">
+               السلام للأخوين القديسين أباكير ويوحنا أخيه السلام للشهيدين الطبيبين الروحيين.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StApakirAndStJohn"/>
+      </Section>
+   </Season>
+</Document>

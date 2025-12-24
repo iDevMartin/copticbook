@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FourIncorporealCreatures:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Four Incorporeal Creatures:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nip~recbia~ n~te pif~tou n~zwon n~acwmatoc n~litourgoc n~sah n~,~rom: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the intercessions of the four bodiless, animals, ministers of flaming fire: O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بشفاعات الأربعة الحيوانات غير المتجسدين الخدام الملتهبين ناراً ، ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

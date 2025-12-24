@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMaryMagdalene:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Mary Magdalene</Language>
+            <Language id="Arabic">ذوكصولوجية القديسة مريم المجدلية</Language>
+            <Language id="Coptic">Palac etjwjeb...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mary Magdalene:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Palac etjwjeb ouoh n~refernobi: nas~jemjom an ecaji: m~p~taio n~y/eyouab: Maria ]magdalin/.
+            </Language>
+            <Language id="English">
+               My weak and sinful tongue, will not be able to speak, of the honor of the holy, Mary Magdalene.
+            </Language>
+            <Language id="Arabic">
+               لسانى الضعيف الخاطىء: لايقدر أن ينطق: بكرامة القديسة: مريم المجدلية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Yetacswrp m~mosi: n~ca P,#c# Pennou]: afhioui~ e~bol n~q/tc: m~pisasf n~demon.
+            </Language>
+            <Language id="English">
+               Who first followed, Christ our Lord; He cast out of her, seven demons.
+            </Language>
+            <Language id="Arabic">
+               التى تبعت أولاً: المسيح إلهنا: وأخرج منها: سبعة شياطين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Acsemsi m~Pencwt/r: nem nefapoctoloc eyouab: acermeyre m~pefm~kah: ouoh pefmou n~reftanqo.
+            </Language>
+            <Language id="English">
+               Who served our Savior, and His holy apostles, and witnessed his suffering, and His life-giving death.
+            </Language>
+            <Language id="Arabic">
+               هى خدمت مخلصنا: وتلاميذه القديسين: وشهدت آلامه وموته المحيى.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aci~ e~pim~hau n~sorp: nacfai m~picojen: ouoh aco~hi e~ratc cabol: qen ninehpi nem nirimi.
+            </Language>
+            <Language id="English">
+               She came early to the tomb, carrying the myrrh, and stood outside, with lamentations and weeping.
+            </Language>
+            <Language id="Arabic">
+               جاءت أولاً الى القبر: حاملة الطيب: ووقفت خارجا: بنحيبٍ وبكاء.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Acnau e~aggeloc c~nau euhemci: afouonhf on n~je Po#c#: afcaji nemac m~pair/]: mase ne ha nac~n/ou...
+            </Language>
+            <Language id="English">
+               She saw two angels sitting, the Lord also appeared to her, and spoke with her like this: “go to my brethren...
+            </Language>
+            <Language id="Arabic">
+               رأت ملاكين جالسين: وظهر لها الرب أيضا: وتكلم معها هكذا: "اذهبى الى اخوتى...
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh ajoc nwou: ]nase n/i epswi ha: paiwt ete peteniwt pe: nem panou] ete petennou] pe.
+            </Language>
+            <Language id="English">
+               And say to them: I am ascending, to My Father and your Father; and My God and your God.”
+            </Language>
+            <Language id="Arabic">
+               وقولى لهم: ’انى سأصعد: الى ابى الذى هو ابوكم: والهى الذى هو الهكم.‘"
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/etachiw~is m~may/t/c: n~te ]anactacic m~P~o#c#: ,ere y/etacswpi n~]diakonoc: e~bol hiten niapoctoloc.
+            </Language>
+            <Language id="English">
+               Hail to her who preached, the resurrection of the Lord to the disciples, hail to who was ordained, a deaconess by the apostles.
+            </Language>
+            <Language id="Arabic">
+               السلام للتى بشرت التلاميذ: بقيامة الرب: السلام للتى صارت شماسة: من قبل الرسل.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn: w~ ]may/t/c n~te P,#c#: ]agia Maria ]magdalin/: n~tef ,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf, O the disciple of Christ; St. Mary Magdalene, that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبى من الرب عنا: ياتلميذة المسيح: القديسة مريم المجدلية: ليغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

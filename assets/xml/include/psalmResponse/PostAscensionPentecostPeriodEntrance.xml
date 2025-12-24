@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod ^ EntranceOfTheHolyFamily">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Entrance of the Holy Family into Egypt from the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. Pi,~rictoc aftwnf ebolqen n/eymwout: ouoh afsenaf e~p~swi e~niv/oui: afhemci caouinam m~pefiwt. afi~ eqoun e~p~kahi n~,/mi: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Christ is risen from the dead and has ascended into the heavens, and is seated at the right hand of His Father; entered into the land of Egypt.  Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا المسيح قام من الأموات، وصعد إلي السموات وجلس عن يمين ابيه، دخل إلي أرض مصر. الليلويا الليلويا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

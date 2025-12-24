@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!Feasts ^ (FirstMondayOfGreatFast | LastFridayOfGreatFast | (GreatFast ^ Weekend))">
+          <Comment>
+            <Language id="English">
+               For Saturdays and Sundays of the Great Fast:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Apeno#c# I/#c# P,#c#: ern/cteuin e~h~r/i e~jwn: n~h~me n~e~hoou nem h~me n~e~jwrh: sa n~tefcotten qen nennobi.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, fasted for us, forty days and forty nights, to save us from our sins.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح صام عنا أربعين يوماً وأربعين ليلة لكى يخلصنا من خطايانا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anon hwn marenern/cteuin: qen outoubo nem oumeym/i: ouoh n~tenerp~roceu,ecye: enws e~bol enjw m~moc.
+            </Language>
+            <Language id="English">
+               And we too should also fast, with purity and righteousness, and let us also pray, proclaiming and saying.
+            </Language>
+            <Language id="Arabic">
+               ونحن أيضاً فلنصم بطهارة وبر ونصلى صارخين قائلين.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/OurFatherGreatFast"/>
+      </Season>
+   </Group>
+</Document>

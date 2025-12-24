@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   
+   <Section expanded="true">
+      <InsertDocument path="include/ShortBlessing"/>
+   </Section>
+   
+   <Role id="Priest">
+      <Group>
+         <Season id="Liturgy">
+            <Comment>
+               <Language id="English">
+                  The priest sprinkes water on the congregation, saying:
+               </Language>
+               <Language id="Arabic">
+                   ويرش الكاهن الشعب ويقول:
+               </Language>
+            </Comment> 
+         </Season>
+         
+         <Season id="HomeBlessing">
+            <Text>
+               <Language id="English">
+                  O God, our Lord and Savior, Who were pleased to enter Zacchaeus’ house and granted salvation unto him and his entire household. Now, Lord, protect Your servants Who live in this house from every evil and keep them upright, 
+               </Language>
+               <Language id="Arabic">
+                  ايها الرب الاله مخلصنا يا من ارتضيت ان تدخل الي بيت زكا ووهبت خلاصا له ولكل من في منزله انت الان احفظ عبيدك الذين يسكنون في هذا البيت من كل ضرر وصنهم غير ساقطين.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  through the prayers they and we the unworthy are sending up to You. Bless their dwelling in this house, and guard their lives against temptation. For Yours is due all glory, honor, and worship, the Father and the Son and the Holy Spirit, now and unto the age of ages. Amen.
+               </Language>
+               <Language id="Arabic">
+                  بالطلبات والابتهالات المرفوعة لك منا ومنهم بواسطتنا نحن غير المستحقين. وبارك سكناهم فى هذا المنزل واحرس حياتهم بلا تجربة لان لك ينبغى كل مجد واكرام وسجود ايها الاب والابن والروح القدس الان والى دهر الداهرين. آمين.
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+          
+      <Text>
+         <Language id="Coptic">
+            Pi,rictoc Pennou].
+         </Language>
+         <Language id="English">
+            O Christ our God—
+         </Language>
+         <Language id="Arabic">
+            أيها المسيحُ إلهُنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n ece~swpi.
+         </Language>
+         <Language id="English">
+            Amen. So be it.
+         </Language>
+         <Language id="Arabic">
+            آمين يكونُ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Pouro n~te ]hir/n/: moi nan n~tekhir/n/: cemni nan n~tekhir/n/: ,a nennobi nan e~bol: je ywk te ]jom nem piw~ou nem pic~mou nem pia~mahi sa e~neh: a~m/n.
+         </Language>
+         <Language id="English">
+            O King of peace, grant us Your peace, establish for us Your peace, and forgive us our sins. For Yours is the power, the glory, the blessing, and the might, for ever. Amen.
+         </Language>
+         <Language id="Arabic">
+            يا ملكَ السلامِ، أعطِنا سلامَكَ، قرر لنا سلامَكَ، واغفر لنا خطايانا. لأن لكَ القوةَ والمجدَ والبركةَ والعزَّ إلى الأبد. آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then the priest dismisses the people in peace, saying the dismissal.
+         </Language>
+         <Language id="Arabic">
+            ثم يصرف الشعب بسلام قائلا هذا التسريح:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            ? ,aric tou Kuriou de ke Yeou ke cwt/roc /~mwn I/cou &lt;rictou meta pantwn umwn.
+         </Language>
+         <Language id="English">
+            The grace of our Lord, God, and Savior Jesus Christ be with you all. 
+         </Language>
+         <Language id="Arabic">
+            نعمةُ ربِّنا وإلهِنا ومخلِّصِنا يسوع المسيح مع جميعِكم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Masenwten qen ouhir/n/: P[oic nemwten.
+         </Language>
+         <Language id="English">
+            Go in peace. The Lord be with you. 
+         </Language>
+         <Language id="Arabic">
+            امضوا بسلامٍ، الربُّ معكم.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            Or he says:
+         </Language>
+         <Language id="Arabic">
+            أو يقول:
+         </Language>
+      </Comment> 
+      
+      <InsertDocument path="include/TheLoveOfGodTheFather"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Masenwten qen ouhir/n/: t~hir/n/ m~P[oic nemwten t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            Go in peace. The peace of the Lord be with you all. Amen. 
+         </Language>
+         <Language id="Arabic">
+            امضوا بسلامٍ، سلامُ الربِّ مع جميعِكم. أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+</Document>

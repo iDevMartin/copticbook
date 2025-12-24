@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Season id="Vespers | ThirdProstration">
+      <Section expanded="true" antiphonePitch="1">            
+         <Title>
+            <Language id="English">The Vespers Doxology for the Virgin</Language>       
+            <Language id="Arabic">ذوكصولوجية للسيدة العذراء تقال في رفع بخور عشية</Language>        
+            <Language id="Coptic">Ere p~colcel m~Mariam...</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Ere p~colcel m~Mariam: qen niv/oui etcap~swi: caouinam m~pecmenrit: ectwbh m~mof e~h~r/i e~jwn.
+            </Language>
+            <Language id="English">
+               The Adornment of Mary: in the highest heaven: at the right hand of her beloved: entreating Him on our behalf.
+            </Language>
+            <Language id="Arabic">
+               زينة مريم، في السموات العلوية، عن يمين حبيبها، تطلب منه عنا.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Kata v~r/] e~tafjoc: n~je Dauid qen pi'almoc: je aco~hi e~ratc n~je ]ourw: caouinam m~mok p~ouro.
+            </Language>
+            <Language id="English">
+               As David has said: In the book of Psalms: “The Queen stood at Your right hand,” O King.
+            </Language>
+            <Language id="Arabic">
+               كما قال، داود في المزمور، قامت الملكة، عن يمينك أيها الملك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Colomwn mou] e~roc: qen pijw n~te nijw: je tacwni ouoh tas~veri: tapolic m~m/i Ieroucal/m.
+            </Language>
+            <Language id="English">
+               Solomon has called her: in the Song of Songs: “My sister and my spouse: My true city Jerusalem.” 
+            </Language>
+            <Language id="Arabic">
+               سليمان دعاها، في نشيد الأنشاد، قال أختي صديقتي، مدينتي الحقيقية أورشليم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Af]m/ini gar e~roc: qen hanm/s n~ran eu[oci: je a~m/ e~bolqen pek/~poc: w~ y/etcwtp n~a~rwmata.
+            </Language>
+            <Language id="English">
+               For he has given a symbol of her, in many high names, saying "Come  out of your garden, O choicest aroma."
+            </Language>
+            <Language id="Arabic">
+               لأنه أعطى علامة عنها، بأسماء كثيرة عالية، قائلاً أخرجي من بستانك، أيها العنبر المختار.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/HailToYouOVirgin"/>
+         <InsertDocument path="include/doxologies/WeAskYou"/>
+      </Section>
+   </Season>
+   
+   <Season id="Matins">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">The Matins Doxology for the Virgin</Language>
+            <Language id="Arabic">ذوكصولوجية للسيدة العذراء تقال في رفع بخور باكر</Language>
+            <Language id="Coptic">Wounia] n~yo Maria~...</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Wounia] n~yo Maria~: ]cab/ ouoh n~cemne: ]mahc~nou] n~c~k/n/: pia~ho m~p#n#a#tikon.
+            </Language>
+            <Language id="English">
+               Blessed are you O Mary, the wise and the chaste, the Second Tabernacle, the spiritual treasure.
+            </Language>
+            <Language id="Arabic">
+               طوباك أنت يامريم الحكيمة العفيفة القبة الثانية الكنز الروحى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }[romp~sal n~kayaroc: y/e~tacmou] qen penkahi: ouoh acviri nan e~bol: n~oukarpoc n~te Pip#n#a#.
+            </Language>
+            <Language id="English">
+               The pure turtle-dove, who declared in our land, and brought to us, the Fruit of the Spirit.
+            </Language>
+            <Language id="Arabic">
+               اليمامة النقية التى نادت في أرضنا وأينعت لنا ثمرة الروح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pip#n#a# m~parakl/ton: v/e~tafi~ e~jen Pes/ri: hijen nimwou n~te Piiordan/c: kata p~tupoc n~Nwe~.
+            </Language>
+            <Language id="English">
+               The Spirit of Consolation, came upon your Son, in the waters of the Jordan, of which Noah was a type.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزى الذى حل على ابنك في مياه الأردن كمثال نوح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }[rompi gar e~te m~mau: n~yoc achisennoufi nan: n~]hir/n/ n~te V]: y/e~tacswpi sa nirwmi.
+            </Language>
+            <Language id="English">
+               For that dove has proclaimed, glad tidings to us, the peace of God, for mankind.
+            </Language>
+            <Language id="Arabic">
+               لأن تلك الحمامة هى بشرتنا بسلام الله الذى صار للبشر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyo hwi w~ tenhelpic: ][romp~sal n~no/~te: a~rei~ni m~pinai nan: a~refai qarof qen teneji.
+            </Language>
+            <Language id="English">
+               Likewise you O our hope, the spiritual turtledove, have brought mercy to us, carrying Him in your womb.
+            </Language>
+            <Language id="Arabic">
+               وأنت أيضا يارجاءنا اليمامة العقلية أتيت لنا بالرحمة وحملته في بطنك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ete vai pe I/#c#: pimici e~bol qen Viwt: aumacf nan e~bol n~q/]: afer pengenoc n~remhe.
+            </Language>
+            <Language id="English">
+               He is Jesus, the Begotten of the Father, He was born of you for us, setting free our race.
+            </Language>
+            <Language id="Arabic">
+               أى يسوع المولود من الآب ولد لنا منك وحرر جنسنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Vai gar marentaouof: e~bol qen penh/t n~sorp: menencwc on qen penkelac: enws e~bol enjw m~moc.
+            </Language>
+            <Language id="English">
+               Therefore let us declare, first with our hearts, then also with our tongues, proclaiming and saying,
+            </Language>
+            <Language id="Arabic">
+               فلنقل هذا من قلبنا أولا وبعد ذلك بلساننا أيضا صارخين قائلين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je Peno#c# I/#c# P,#c#: mayamio~ nak n~q~r/i n~q/ten: n~ouervei n~te Pekp#n#a# e#y#u#: eu]doxologia~ nak.
+            </Language>
+            <Language id="English">
+               “O our Lord Jesus Christ, make for Yourself within us a sanctuary, a temple of Your Holy Spirit, glorifying You.”
+            </Language>
+            <Language id="Arabic">
+               ياربنا يسوع المسيح اجعل لك فينا هيكلا لروحك القدوس يعطيك تمجيدا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/HailToYouOVirgin"/>
+         <InsertDocument path="include/doxologies/WeAskYou"/>   
+      </Section>      
+   </Season>
+   
+   <Season id="MidnightPraises">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">The Midnight Doxology for the Virgin</Language>
+            <Language id="Arabic">ذوكصولوجية للعذراء تقال في تسبحة نصف الليل</Language>
+            <Language id="Coptic">Temetnis] w Maria~...</Language>
+         </Title>
+                  
+         <Text>
+            <Language id="Coptic">
+               Temetnis] w Maria~: ]paryenoc n~atywleb: c~oni m~p~[ici m~pibeni: e~ta Colomwn caji eyb/tf.
+            </Language>
+            <Language id="English">
+               Your greatness O Mary, the undefiled Virgin, is likened to the height of the palm tree, spoken of by Solomon.
+            </Language>
+            <Language id="Arabic">
+               عظمتك يامريم العذراء غير الدنسة تشبه علو النخلة التى تكلم عنها سليمان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyo te ]moumi m~mwou n~wnq: etqa] m~Pilibanoc: e~ta pih~mot n~te ]meynou]: bebi nan e~bol n~q/tc.
+            </Language>
+            <Language id="English">
+               You are the spring of living water, that flows from Lebanon, for out of you sprang unto us, the grace of the Divinity.
+            </Language>
+            <Language id="Arabic">
+               أنت ينبوع ماء الحياة الفائض من لبنان التى نبعت لنا منه نعمة اللاهوت.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aremici nan n~Emmanou/l: qen tem/tra m~paryenik/: afaiten n~k~l/ronomoc: n~h~r/i qen y~metouro n~niv/oui~.
+            </Language>
+            <Language id="English">
+               You gave birth to Immanuel, out of your virginal womb, and he has made us heirs, to the Kingdom of heaven.
+            </Language>
+            <Language id="Arabic">
+               ولدت لنا عمانوئيل من أحشائك البتول وصيرنا وارثين في ملكوت السموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Kata piws e~tafws m~mof: n~te peniwt m~patriar,/c: e~te vai pe p~ouro Dauid: afi~ afjokf nan e~bol.
+            </Language>
+            <Language id="English">
+               According to the promise, He promised to our father, King David the Patriarch, He came and fulfilled to us.
+            </Language>
+            <Language id="Arabic">
+               كالوعد الذى وعد به أبانا رئيس الآباء الذى هو الملك داود أتى وأكمله لنا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/HailToYouOVirgin"/>         
+         <InsertDocument path="include/doxologies/WeAskYou"/>                        
+      </Section>      
+   </Season>
+</Document>

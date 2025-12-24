@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ GreatFriday ^ Fridays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Great Friday Eve (The Eleventh Hour)</Language>
+         <Language id="Arabic">ليلة الجمعة  العظيمة (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~jwrh n~]nis] m~parackeu/ (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 27:11-28:15</Language>
+               <Language id="Arabic">إشعياء 27: 11-28: 15</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Amwini nihio~mi eyn/ou qen ounau: n~oulaoc gar an pe e~ouonn~taf m~pika]: eybe vai n~nefsenh/t qarwou n~je v/e~tafyamiw~ou: ouoh n~nefnai n~wou n~je v/e~taferp~lazin m~mwou:
+               </Language>
+               <Language id="English">
+                  Come here, you women who come from that sight. For it is a people of no understanding; therefore He who made them will have no compassion on them, neither He who formed them; and He will show them no mercy.  
+               </Language>
+               <Language id="Arabic">
+                  هلموا أيتها النساء الآتيات للنظر، لأنه ليس شعبا ذا فهم لذلك لا يرحمه خالق، ولا يترأف عليها جابله، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ece~swpi qen pie~hoou e~tem~mau: P[oic na] syorter icjen p~jinior m~v~iaro sa e~h~r/i e~hri Nokoroura: n~ywte~n de ywou] n~nis/ri n~te p~Iicra/l ouai ouai: 
+               </Language>
+               <Language id="English">
+                  And it shall come to pass in that day that the Lord will close it from the channel of the river to the Brook of Egypt. And you will gather the sons of Israel one by one.
+               </Language>
+               <Language id="Arabic">
+                  ويكون في ذلك اليوم أن الرب يصنع إضراباً في معبر النهر إلى نقرورا (وادي مصر) وأنتم فإجمعوا بنى اسرائيل واحداً واحداً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ece~swpi qen pie~hoou cenaercalpizin n~]nis] n~calpigx: ouoh cen/ou n~han laoc euos: n/e~taucwrem qen t~,wra n~niaccurioc: nem n/e~taucwrem qen &lt;/mi: ouoh eue~ouwst m~P[oic e~jen pitwou n~te Ciwn: peyouab qen Ieroucal/m.
+               </Language>
+               <Language id="English">
+                  So it shall be in that day that they shall blow the great trumpet, and the lost ones in the country of the Assyrians and in Egypt will come, and they shall worship the Lord on the holy mountain in Jerusalem.
+               </Language>
+               <Language id="Arabic">
+                  ويكون في ذلك اليوم أنه يبوق البوق العظيم، فتآتٍي الشعوب الكثيرة التي ضلت في كورة الأشوريين والذين تاهوا في مصر وسيسجدون للرب على جبل صهيون المقدس بأورشليم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi m~pi,~lom n~sws n~n~rembe,e n~Evrem: ]h~r/ri eynecwc: y/e~ tachei e~bolqen piwou e~jen ta~ve m~pitwou eyouomt: n/etyaqi at[ne /rp: 
+               </Language>
+               <Language id="English">
+                  Woe to the crown of arrogance, the hirelings of Ephraim, the flower that fell from the glory on top of the fertile mountain, those who are drunk without wine.
+               </Language>
+               <Language id="Arabic">
+                  الويل لإكليل الهوان المستأجر الذي لأفرام، الزهرة الحسنة التي سقطت من المجد على رأس الجبل الدسم، السكارى بغير خمر، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ic p~jwnt m~P[oic fjor ouoh f~nast: m~v~r/] n~oual efn/ou e~pec/t: m~mon q/ibi qarof: eui~ni m~mofn~jonc: m~v~r/] n~oumwou efos: efcwk qen ou,wra: eferoum~ton mpikahi: efe~aif n~noujij nem nou[a~lauj. 
+               </Language>
+               <Language id="English">
+                  Behold, the anger of the Lord is a strong and harsh thing, like a falling hail where there is no shelter, falling violently like a great force of water, sweeping away the country. He shall bring relief for the earth with His hands.
+               </Language>
+               <Language id="Arabic">
+                  هوذا غضب الرب قوى وصعب كبرد نازل وليس تحت مظلة. يؤتى عسفا كسيل المياه الغزيرة الجارفة في الكورة، وتصير راحة للأرض ويصنعها لأيديهم وأرجلهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenahwmi mpi,~lom n~sws n~rembe,e n~te Evrem. 
+               </Language>
+               <Language id="English">
+                  The crown of arrogance, the hirelings of Ephraim, will be trampled underfoot.
+               </Language>
+               <Language id="Arabic">
+                  ويداس إكليل الخزى المستأجر الذي لأفرام، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ece~swpi n~je ]h~r/ri e~tachei e~bolqen ]helpic n~tep~w~ou: qayouwf m~pitwou et[oci: m~v~r/] n~oucen] n~kente e~v/eynau e~rof:
+               </Language>
+               <Language id="English">
+                  But the flower that fell from the hope of the glory on the top of the high mountain shall be like the forerunner of the fig.
+               </Language>
+               <Language id="Arabic">
+                  وتكون الزهرة الساقطة من رجاء المجد تحت الجبل العالي، كمثل أساس التينة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpatef [itf qen totf f~ouws e~omkf. qen pie~hoou e~tem~mau P[oic cabawy efe~swpi n~ou,~lom n~]helpic n~te p~w~ou: v/e~tafsontf mp~cwjp m~palaoc.
+               </Language>
+               <Language id="English">
+                  He who sees it wishes to swallow it before he gets it in his hand. In that day, the Lord of hosts shall be the crown of hope, woven of glory, to the remnant of My people.
+               </Language>
+               <Language id="Arabic">
+                  الذي ينظره، فقبل أن يتناوله يرى ان يلتهمه. في ذلك اليوم يكون رب الصباؤوت إكليل رجاء المجد الذي ضفره لبقية شعبى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenacwjp e~jen oup~neuma n~hap e~jen hap: ouoh e~erkwlin n~t~jom e~tako. Nai gar eucwrem qen pi/rp: 
+               </Language>
+               <Language id="English">
+                  They shall be left in a spirit of judgment upon judgment and for the strength of those who prevent slaying. For these are led astray with wine and are deceived by strong drink.
+               </Language>
+               <Language id="Arabic">
+                  وتبقى روح محاكمة على محاكمة وتمنع القوة عن الفساد، لأن هؤلاء ضالون من الخمر وتائهون من المسكر. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eucwrem eybe picikira~ piou/b nem pip~rov/t/c twmt eybe pi/rp: aukim e~bolqen p~yaqi m~picikira: aucwrem e~tevai pe ouracoui~: 
+               </Language>
+               <Language id="English">
+                  Priest and prophet are out of their minds by reason of wine; they stagger because of drunkenness; they go astray.
+               </Language>
+               <Language id="Arabic">
+                  الكاهن والنبي ترنحا من اجل الخمر وأضربوا من سكر المسكر وضلوا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pcahoui~ efe~ouwm m~pouco[ni pouco[ni gar e~te oufwji pe: eta~retenje pethwou e~nim: eta~reten jeoua~ e~nim:
+               </Language>
+               <Language id="English">
+                  This is delusion. A curse will devour this counsel, for this counsel was for the sake of covetousness.
+               </Language>
+               <Language id="Arabic">
+                  وهذا هو حلم اللعنة تأكل مشورتهم مشورتهم التي هي جور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   N/e~tautouiwou e~toue~rw]: n/e~taufitou e~bolqen noum~no]. Joust e~bol qat~h/ n~ouy~li'ic e~jen ouy~li'ic:
+               </Language>
+               <Language id="English">
+                  To whom have we reported evils and declared a message? Those weaned from milk and withdrawn from the breasts.
+               </Language>
+               <Language id="Arabic">
+                  على من تقولتم الشر؟ وعلى من جدفتم؟ أعلى المفطومين عن لبنهم، المفصولين عن ثديهم؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etikekouji e~tikekouji pe: comc e~bolqath/ n~ouhelpic e~jen ouhelpic: e~tikekouji e~tikekouji. 
+               </Language>
+               <Language id="English">
+                  Expect affliction upon affliction, hope upon hope, yet a little, yet a little.
+               </Language>
+               <Language id="Arabic">
+                  انتظروا شدة على شدة، عن قليل وبعد قليل، من أجل شتيمة الشفاه، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe p~sws n~nievotou: e~ticenacaji nem pailaoc qen v~lac i~,~rof: 
+               </Language>
+               <Language id="English">
+                  By reason of the contempt of lips and another tongue they will speak to this people,  
+               </Language>
+               <Language id="Arabic">
+                  وأيضاً يتكلمون مع هذا الشعب بلسان دغل القائلين له أن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~je n/etjw m~moc naf: je vai pep~emton n~n/ethoker: ouoh vai ouqcmqem pe: ouoh m~pououws e~cwtem.
+               </Language>
+               <Language id="English">
+                  saying to them, "This is the rest for the hungry, and this is the affliction," but they would not listen.  
+               </Language>
+               <Language id="Arabic">
+                  هذا هو راحة الجياع، وهذا هو إنحطام، ولم يريدوا أن يسمعوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pcaji m~P[c efe~swpi nwou n~ouhojhej e~jen ouhojhej: ouoh ouhelpic e~jen ouhelpic: e~tikekouji e~tikekouji pe eue~senwou n~te oum/s n~q/tou hei e~vahou: ouoh enaerkundineuin n~ceqomqem n~cetako:
+               </Language>
+               <Language id="English">
+                  The teaching of the Lord God will be for them affliction upon affliction, hope upon hope, yet a little, yet a little" so they may go and fall backward; and they will be in danger, crushed and conquered.  
+               </Language>
+               <Language id="Arabic">
+                  ستكون لهم كلمة الرب الإله ضيق على ضيق ورجاء على رجاء عن قليل وبعد قليل، لكي يذهبوا ويسقط كثيراً منهم إلى الوراء وتضايقوا وينكسروا ويهلكوا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai cwtem e~p~caji m~P[oic nirwmi eylojh: ouoh niar,wn n~te pilaoc etqen Ieroucal/m.
+               </Language>
+               <Language id="English">
+                  Therefore hear the word of the Lord, you afflicted men and rulers of this people in Jerusalem.  
+               </Language>
+               <Language id="Arabic">
+                  من أجل هذا إسمعوا قول الرب ايها الرجال العتاة، المتسلطون على هذا الشعب الذي في أورشليم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je a~retenjoc je ancemne oudia~y/k/ nema~men]: ouoh hana~ouw~ nem v~mou: a~resan oucaray/ou eccwk cini e~bol hitoten n~neci~ e~jwn: je an,w n~]meynouj nan n~helpic: ouoh ene~hobcten n~]meynouj.
+               </Language>
+               <Language id="English">
+                  Because you said, "We made a covenant with Hades, and are in agreement with death, and if the rushing storm passes through, it will not come upon us, for we made falsehood our hope, and in falsehood we shall be protected."
+               </Language>
+               <Language id="Arabic">
+                  لأنكم قلتم قد قررنا عهداً مع الجحيم، وميثاقا مع الموت، وإذا ما هب الريح العاصف من جهتنا لا يعبر علينا، لأننا قد جعلنا الكذب رجاءنا. وفي الكذب استترنا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.3"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 2:1-2, 4-5</Language>
+               <Language id="Arabic">مزمور 2: 1-2, 4-5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybeou haneynoc auws e~bol: ouoh hanlaoc auermeletan qen han petsouit.
+               </Language>
+               <Language id="English">
+                  Why do the nations rage, And the people meditate on vain things?
+               </Language>
+               <Language id="Arabic">
+                  لماذا ارتجت الأمم وهذت الشعوب بالأباطيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auo~hi e~ratou n~je niourwou n~te p~kahi: ouohniar,wn auywou] euma e~]oube P[oic nem e~]oube pefi,~rictoc: a#l#.
+               </Language>
+               <Language id="English">
+                  The kings of the earth set themselves, And the rulers gather together Against the Lord and against His anointed. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  قامت ملوك الأرض والرؤساء اجتمعوا معاً على الرب وعلى مسيحه. هلليلوياه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Petsop qen niv/oui~ efe~cwbi m~mwou: ouoh P[oic efe~elksai n~cwou:
+               </Language>
+               <Language id="English">
+                  He who sits in the heavens shall laugh at them; The Lord shall mock them.
+               </Language>
+               <Language id="Arabic">
+                  الساكن في السموآتٍ يضحك بهم والرب يمقتهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote efe~caji nemwou n~h~r/i qen pefjwnt: ouoh n~q~r/i qen pefm~bon efe~s~terywrou: All/louia.
+               </Language>
+               <Language id="English">
+                  Then shall He speak to them in His wrath And trouble them in His anger. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ يكلمهم بغضبه وبرجزه يقلقهم. الليلويا. 
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+            
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 26:59-75</Language>
+            <Language id="Arabic">متى 26: 59-75</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Niar,/e~reuc de nem piman]hap t/rf naukw] n~caoumetmeyre n~nouj qa I/c hina n~ceqoybef.
+               </Language>
+               <Language id="English">
+                  Now the chief priests, the elders, and all the council sought false testimony against Jesus to put Him to death, but found none.
+               </Language>
+               <Language id="Arabic">
+                  وأما رؤساء الكهنة والمحفل كله كانوا يطلبون شهادة زور على يسوع لكي يقتلوه فلم يجدوا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh m~poujimi: e~aui~ n~je oum/s m~meyre n~nouj: 
+               </Language>
+               <Language id="English">
+                  Even though many false witnesses came forward, they found none.
+               </Language>
+               <Language id="Arabic">
+                  وحضر شهود زور كثيرون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ep~qae~ de aui~ n~je c~nau. Eujw m~moc je a~ vai joc je ouons~jom m~moi e~bel piervei n~te Vnou] e~bol: ouoh e~kotf qen somt n~e~hoou.
+               </Language>
+               <Language id="English">
+                  But at last two false witnesses came forward and said, "This fellow said, 'I am able to destroy the temple of God and to build it in three days.'"
+               </Language>
+               <Language id="Arabic">
+                  وأخيرا حضر إثنان وقالا: إن هذا قال إنى أقدر أن أنقض هيكل الله وفي ثلاثة أيام إبنيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aftwnf n~je piar,/e~ruc pejaf naf: je n~k~e~rouw~ n~h~li an: je ou pete nai ermeyre m~mof qarok:
+               </Language>
+               <Language id="English">
+                  And the high priest arose and said to Him, "Do You answer nothing? What is it these men testify against You?"
+               </Language>
+               <Language id="Arabic">
+                  فقام رئيس الكهنة وقال له: أما تجيب بشيء عما يشهد به هذان عليك؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc de naf,w n~rwf pe: ouoh peje piar,/e~reuc naf: je ]tarko m~mok m~Vnou] etonq hina n~tekjoc nan: icje n~yok pe Pi,~rictoc p~s/ri m~Vnou] etonq.
+               </Language>
+               <Language id="English">
+                  But Jesus kept silent. And the high priest answered and said to Him, "I put You under oath by the living God: Tell us if You are the Christ, the Son of God!"
+               </Language>
+               <Language id="Arabic">
+                  أما يسوع فكان ساكناً. فقال له رئيس الكهنة: أقسم عليك بالله الحى أن تقول لنا إن كنت أنت هو المسيح إبن الله الحي؟!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/couc naf je n~yok pee~takjoc: p~l/n ]jwm~moc nwten: je icjen e~reten e~nau e~p~s/ri m~v~rwmi efhemci caoui~nam n~]jom: ouoh efn/ou e~jen ni[/pi n~te t~ve.
+               </Language>
+               <Language id="English">
+                  Jesus said to him, "It is as you said. Nevertheless, I say to you, hereafter you will see the Son of Man sitting at the right hand of the Power, and coming on the clouds of heaven."
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: أنت قلت، وأيضاً أقول لكم من الآن تبصرون إبن الإنسان جالساً عن يمين القوة، وآتٍيا على سحاب السماء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote piar,/e~reuc afvwq n~nefh~bwc efjwm~moc: 
+               </Language>
+               <Language id="English">
+                  Then the high priest tore his clothes, saying, "He has spoken blasphemy!
+               </Language>
+               <Language id="Arabic">
+                  فشق رئيس الكهنة حينئذ ثيابه قائلا: لقد جدف.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je afjeoua~ n~tener,~ria~an je m~meyre: h/ppe ]nou a~tetencwtem e~pijeoua~. 
+               </Language>
+               <Language id="English">
+                  What further need do we have of witnesses? Look, now you have heard His blasphemy! 
+               </Language>
+               <Language id="Arabic">
+                  ما حاجتنا بعد إلى شهود ها قد سمعتم الآن التجديف. فماذا ترون؟!. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ou pe tetenmeui~ e~rof: n~ywou de aue~rouw~ pejwou: je f~emp~sa m~v~mou.
+               </Language>
+               <Language id="English">
+                  What do you think?" They answered and said, "He is deserving of death."
+               </Language>
+               <Language id="Arabic">
+                  أما هم فأجابوا وقالوا: إنه لمستوجب الموت
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote auhiyaf e~qoun e~pefho: ouoh au]kour naf ouoh auhioui~ e~rof. Eujw m~moc je a~rip~rov/teuin nan Pi,~rictoc je nim pee~tafhioui~ e~rok.
+               </Language>
+               <Language id="English">
+                  Then they spat in His face and beat Him; and others struck Him with the palms of their hands, saying, "Prophesy to us, Christ! Who is the one who struck You?"
+               </Language>
+               <Language id="Arabic">
+                  حينئذ بصقوا في وجهه ولكموه ثم ضربوه قائلين: تنبأ لنا أيها المسيح، من ضربك؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Petroc de nafhemci cabol pe qen ]aul/: ouoh aci~ harof n~je oubwki ecjwm~moc: je n~yok hwk nak ,/ nem I/couc piGalileoc:
+               </Language>
+               <Language id="English">
+                  Now Peter sat outside in the courtyard. And a servant girl came to him, saying, "You also were with Jesus of Galilee."
+               </Language>
+               <Language id="Arabic">
+                  أما بطرس فكان جالساً خارجاً في الدار، فدنت منه جارية قائلة وأنت أيضاً كنت مع يسوع الجليلي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de afjwl e~bol m~pem~yo n~ouon niben efjwm~moc: je ]e~mi je a~re jwm~moc je ou.
+               </Language>
+               <Language id="English">
+                  But he denied it before them all, saying, "I do not know what you are saying."
+               </Language>
+               <Language id="Arabic">
+                  فأما هو فأنكر قدام كل أحد قائلا: لست أدرى ما تقولين،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~tafi~ de e~bol e~pis~yam acnau e~rof n~je keoui~: ouoh pejac n~n/et,/ m~mau: je vai hwf naf,/ nem I/couc pinazwreoc.
+               </Language>
+               <Language id="English">
+                  And when he had gone out to the gateway, another girl saw him and said to those who were there, "This fellow also was with Jesus of Nazareth."
+               </Language>
+               <Language id="Arabic">
+                  ثم خرج إلى الدهليز فرآتٍه اخرى فقالت للذين كانوا هناك: وهذا أيضاً كان مع يسوع الناصرى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Palin on afjwl e~bolqen oua~nas: je ]cwoun m~pairwmi an.
+               </Language>
+               <Language id="English">
+                  But again he denied with an oath, "I do not know the Man!"
+               </Language>
+               <Language id="Arabic">
+                  فأنكر أيضاً بقسم: إنى لست أعرف هذا الرجل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Menenca kekouji de aui~ n~je n/etohi e~ratou pejwou m~Petroc: je tavm/i n~yok hwk ou e~bol m~mwou ke gar tekjincaji ouwnh m~mok e~bol.
+               </Language>
+               <Language id="English">
+                  And a little later those who stood by came up and said to Peter, "Surely you also are one of them, for your speech betrays you."
+               </Language>
+               <Language id="Arabic">
+                  وبعد قليل جاء القيام وقالوا لبطرس: حقاً أنت ايضاً منهم، فإن كلامك أيضاً يظهرك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote aferh/tc n~erkatay/matizin nem e~wrk: je n~]cwoun an m~pairwmi: ouohcatotf a~oua~lektwr mou]:
+               </Language>
+               <Language id="English">
+                  Then he began to curse and swear, saying, "I do not know the Man!" Immediately a rooster crowed.
+               </Language>
+               <Language id="Arabic">
+                  فابتدأ حينئذ يلعن ويحلف: إنى لا أعرف هذا الرجل. وللوقت صاح الديك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Petroc ervmeui~ m~picaji eta I/couc joc naf: je m~pate oua~lektwr mou] ,~najolt ebol n~somt n~cop: 
+               </Language>
+               <Language id="English">
+                  And Peter remembered the word of Jesus who had said to him, "Before the rooster crows, you will deny Me three times."
+               </Language>
+               <Language id="Arabic">
+                  فتذكر بطرس الكلام الذي قاله يسوع له: أنك قبل صياح الديك تنكرني ثلاث مرآتٍ. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh e~tafi~ e~bol afrimi qen ourimi efensasi.
+               </Language>
+               <Language id="English">
+                  So he went out and wept bitterly.
+               </Language>
+               <Language id="Arabic">
+                  فخرج وبكى بكاء مراً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationMark"/>
+         </Role>
+      </Section>
+         
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 14:55-72</Language>
+            <Language id="Arabic">مرقس 14: 55-72</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Niar,/e~reuc de nem piman]hap t/rf: naukw] n~ca oumetmeyre qa I/couc e~p~jinqoybef ouoh naujimi an pe.
+               </Language>
+               <Language id="English">
+                  Now the chief priests and all the council sought testimony against Jesus to put Him to death, but found none.
+               </Language>
+               <Language id="Arabic">
+                  وأما رؤساء الكهنة والمجمع كله فكانوا يطلبون شهادة على يسوع ليقتلوه فلم يجدوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nare oum/s gar ermeyre n~nouj qarof pe: ouoh nauoi n~hucoc an pe n~je noumetmeyre:
+               </Language>
+               <Language id="English">
+                  For many bore false witness against Him, but their testimonies did not agree.
+               </Language>
+               <Language id="Arabic">
+                  لأن كثيرين كانوا يشهدون عليه زورا ولم تتفق شهادآتٍهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je a~non ancwtem e~rof efjw m~moc je a~nok ]nabel paiervei ebol paimounk n~jij: ouoh ebolhiten somt n~e~hoou keouai n~aymounk n~jij ]nakotf. Ouoh e~tautwounou n~je hanouon: auermeyre n~nouj qarof eujwm~moc. 
+               </Language>
+               <Language id="English">
+                  Then some rose up and bore false witness against Him, saying, "We heard Him say, 'I will destroy this temple made with hands, and within three days I will build another made without hands.' " 
+               </Language>
+               <Language id="Arabic">
+                  ثم قام قوم وشهدوا عليه كذباً قائلين: نحن سمعناه يقول أني أنقض هذا الهيكل المصنوع بالأيادي، وفي ثلاثة أيام إبنى آخر غير مصنوع بأيد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oude pair/] on nacoi n~hucoc an n~je toumetmeyre.
+               </Language>
+               <Language id="English">
+                  But not even then did their testimony agree.
+               </Language>
+               <Language id="Arabic">
+                  ولا في هذا ايضاً كانت شهادتهم تتفق،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aftwnf n~je piar,/e~reuc qen y~m/]: afsen I/c efjwm~moc: je n~k~e~rouw n~h~li an je nai ermeyre qarok.
+               </Language>
+               <Language id="English">
+                  And the high priest stood up in the midst and asked Jesus, saying, "Do You answer nothing? What is it these men testify against You?"
+               </Language>
+               <Language id="Arabic">
+                  فقام رئيس الكهنة في الوسط وسأل يسوع قائلا. أما تجيب بشيء عما يشهد به هؤلاء عليك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de naf,w n~rwf pe: ouoh m~pefe~rouw~ n~h~li: palin a~ piar,/e~reuc senf ouoh pejaf naf: je n~yok pe Pi,~rictoc p~s/ri m~v/etc~marwout.
+               </Language>
+               <Language id="English">
+                  But He kept silent and answered nothing. Again the high priest asked Him, saying to Him, "Are You the Christ, the Son of the Blessed?"
+               </Language>
+               <Language id="Arabic">
+                  أما هو فكان ساكتاً. ولم يجب بشئ. فسأله رئيس الكهنة أيضأً وقال له: أأنت المسيح إبن المبارك؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc de pejaf naf je a~nok pe: ouoh e~retene~nau e~p~s/ri m~v~rwmi efhemci ca oui~nam n~]jom: ouoh efn/ou nem ni[/pi n~te tve.
+               </Language>
+               <Language id="English">
+                  Jesus said, "I am. And you will see the Son of Man sitting at the right hand of the Power, and coming with the clouds of heaven."
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: أنا هو، وسوف تبصرون إبن الإنسان جالساً عن يمين القوة وآتٍيا مع سحاب السماء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piar,/e~reuc afveq nefh~bwc pejaf: je ouon e~tetener,ria~ mmof m~meyre. A~tetencwtem e~ pijeoua~ ou eyouwnh nwten: n~ywou de t/rou auerkatak~rinin m~mof: je f~oi n~eno,oc e~v~mou.
+               </Language>
+               <Language id="English">
+                  Then the high priest tore his clothes and said, "What further need do we have of witnesses? You have heard the blasphemy! What do you think?"
+               </Language>
+               <Language id="Arabic">
+                  فمزق رئيس الكهنة ثيابه وقال ما حاجتكم بعد إلى الشهود، قد سمعتم التجديف ظاهراً لكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tauerh/tc n~je hanouon e~hiyafqen h~raf: ouoh ehwbc mpefho ouoh e~]keh naf: ouoh e~joc naf je a~rip~rov/teuin nan je nim pe e~tafhioui~ erok]nou Pi,~rictoc ouoh nihuperet/c au[itf n~hana~lwj.
+               </Language>
+               <Language id="English">
+                  And they all condemned Him to be deserving of death. Then some began to spit on Him, and to blindfold Him, and to beat Him, and to say to Him, "Prophesy!" And the officers struck Him with the palms of their hands.
+               </Language>
+               <Language id="Arabic">
+                  فأما هم فحكموا عليه الجميع بأنه مستوجب الموت. فابتدأ قوم يتفلون عليه ويغطون وجهه ويلطمونه، ويقولون له: تنبأ لنا أيها المسيح، من هو الذي لطمك الآن!. ثم تناوله الخدام باللطم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ere Petroc n~q~r/i qen ]aul/: aci~ n~je oui~ n~nibwki n~te piar,/e~reuc.
+               </Language>
+               <Language id="English">
+                  Now as Peter was below in the courtyard, one of the servant girls of the high priest came.
+               </Language>
+               <Language id="Arabic">
+                  وبينما كان بطرس في الدار الأسفل جاءت واحدة من جواري رئيس الكهنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tacnau e~Petroc eft~q~mo m~mof: ouoh e~tacjoust e~rof pejac naf: je nyok hwk nak,/ nem I/couc pinazwreoc.
+               </Language>
+               <Language id="English">
+                  And when she saw Peter warming himself, she looked at him and said, "You also were with Jesus of Nazareth."
+               </Language>
+               <Language id="Arabic">
+                  ولما رأت بطرس يصطلى تفرست فيه وقالت له: وأنت أيضاً كنت مع يسوع الناصري.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de afjwl e~bol efjwm~moc: je oude ]e~mi an oude ]cwoun an je ou n~yo pe e~tejwm~mof:
+               </Language>
+               <Language id="English">
+                  But he denied it, saying, "I neither know nor understand what you are saying."
+               </Language>
+               <Language id="Arabic">
+                  أما هو فأنكر قائلا: لست أدري ولا أعرف ما تقولين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh afi~ e~bol e~pima etcabol n~]aul/ ouoh afmou] n~je pia~lektwr. Ouoh e~tacnau e~rof n~je ]kebwki pejac n~n/etohi e~ratou: je vai ou e~bol n~q/tou pe.
+               </Language>
+               <Language id="English">
+                  And he went out on the porch, and a rooster crowed. And the servant girl saw him again, and began to say to those who stood by, "This is one of them."
+               </Language>
+               <Language id="Arabic">
+                  فخرج إلى موضع خارج الدار فصاح ديك، فرآتٍه الجارية ثانية فجعلت تقول للحاضرين: إن هذا منهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de on afjwl e~bol menenca oukouji palin n/etohi e~ratou naujwm~moc m~Petroc: je a~l/ywc n~yok ou ebol n~q/tou ke gar n~yok ouGalileo: ouoh pekcaji efoni m~poucaji.
+               </Language>
+               <Language id="English">
+                  But he denied it again. And a little later those who stood by said to Peter again, "Surely you are one of them; for you are a Galilean, and your speech shows it."
+               </Language>
+               <Language id="Arabic">
+                  أما هو فأنكر أيضاً. وبعد قليل أيضا قال الحاضرون لبطرس: بالحقيقة أنت منهم لأنك جليلي وكلامك يشبه كلامهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de aferh/tc n~era~nayematizin nem e~wrk je ]cwoun m~pairwmi an e~tetenjw m~mof. Ouoh a~ oua~lektwr mou] m~v~mah cop c~nau:
+               </Language>
+               <Language id="English">
+                  Then he began to curse and swear, "I do not know this Man of whom you speak!" A second time the rooster crowed.
+               </Language>
+               <Language id="Arabic">
+                  أما هو فابتدأ يلعن ويحلف: أننى لا أعرف هذا الرجل الذي تقولون عنه. فصاح الديك للمرة الثانية،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh aferv~meui~ n~je Petroc m~picaji m~v~r/] e~tafjoc naf n~je I/couc: je m~pate ou a~lektwr mou] n~cop c~nau ,~najolt e~bol n~somt ncop: ouoh e~tafhitotf afrimi.
+               </Language>
+               <Language id="English">
+                  Then Peter called to mind the word that Jesus had said to him, "Before the rooster crows twice, you will deny Me three times." And when he thought about it, he wept. 
+               </Language>
+               <Language id="Arabic">
+                  فتذكر بطرس الكلام الذي قال له يسوع: أنك قبل أن يصيح ديك مرتين تنكرني ثلاث مرآتٍ. فتحول يبكي.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationLuke"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:56-65</Language>
+            <Language id="Arabic">لوقا 22: 56-65</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Cetacnau e~Petroc n~je oua~lou m~bwki efhemci qaten piouwini: ouoh e~taccomc e~rof pejac: je nare vai hwf ,/ nemaf pe. N~yof de afjwl e~bol m~moc: je ]cwoun m~mof an ]c~himi.
+               </Language>
+               <Language id="English">
+                  And a certain servant girl, seeing him as he sat by the fire, looked intently at him and said, "This man was also with Him." But he denied Him, saying, "Woman, I do not know Him."
+               </Language>
+               <Language id="Arabic">
+                  أما بطرس فرأته جارية جالساً عن الضوء فتفرست فيه ثم قالت: أن هذا أيضا كان معه أما هو فأنكره قائلا: لست اعرفه يا إمرأة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh menenca kekouji e~tafnau e~rof n~je ke ouai: pejaf je n~yok ou ebol m~mwou hwk: Petroc de pejaf je v~rwmi a~nok anpe
+               </Language>
+               <Language id="English">
+                  And after a little while another saw him and said, "You also are of them." But Peter said, "Man, I am not!"
+               </Language>
+               <Language id="Arabic">
+                  وبعد قليل رآه أخر فقال: وأنت ايضاً منهم. فقال بطرس: يا رجل لست أنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tav~ouws n~ounou swpi: nare keouai tajro n~totf pe efjwm~moc: je qen oumeym/i nare vai hwf ,/ nemaf pe: ke gar ouGalileoc pe.
+               </Language>
+               <Language id="English">
+                  Then after about an hour had passed, another confidently affirmed, saying, "Surely this fellow also was with Him, for he is a Galilean."
+               </Language>
+               <Language id="Arabic">
+                  ولما مضى نحو ساعة كان آخر يؤكد قائلاً: في الحقيقة هذا أيضاً كان معه، لأنه جليلي
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de n~je Petroc je v~rwmi ]e~mi an e~v/e~tekjw m~mof: ouoh catotf e~tiefcaji aoua~lektwr mou].
+               </Language>
+               <Language id="English">
+                  But Peter said, "Man, I do not know what you are saying!" Immediately, while he was still speaking, the rooster crowed.
+               </Language>
+               <Language id="Arabic">
+                  فقال بطرس: يا رجل لست اعرف ما تقول. وللوقت بينما هو يتكلم صاح الديك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafvonhf n~je P[oic afcomc e~Petroc: ouoh a~ Petroc erv~meui~ m~peaji m~P[oic kata v~r/] e~tafjoc naf: je m~pate oua~lektwr mou] ,najolt e~bol n~somt n~cop: Ouoh e~tafi~ e~bol n~je Petroc afrimi qen ouensasi.
+               </Language>
+               <Language id="English">
+                  And the Lord turned and looked at Peter. And Peter remembered the word of the Lord, how He had said to him, "Before the rooster crows, you will deny Me three times." So Peter went out and wept bitterly.
+               </Language>
+               <Language id="Arabic">
+                  فإلتفت الرب ونظر إلى بطرس، فتذكر بطرس قول الرب كما قال له أنه: قبل أن يصيح ديك تنكرني ثلاث مرات. فخرج بطرس خارجاً وبكى بمرارة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nirwmie~nau a~moni m~mof naucwbi m~mof pe euhioui~ e~rof. Ouoh e~tauhobcf nausini m~mof je a~rip~rov/teuin nan: je nim petafhioui e~rok. Ouoh han ke m/s naujwm~mwou e~rofpe eujeoua.
+               </Language>
+               <Language id="English">
+                  Now the men who held Jesus mocked Him and beat Him. And having blindfolded Him, they struck Him on the face and asked Him, saying, "Prophesy! Who is the one who struck You?" And many other things they blasphemously spoke against Him.
+               </Language>
+               <Language id="Arabic">
+                  والرجال الذين أمسكوه كانوا يهزأون به ويضربونه وغطوه، وكانوا يسألونه قائلين: تنبأ لنا من الذي ضربكً! وأشياء أخرى كثيرة كانوا يقولونها عليه مجدفين. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 18:15-27</Language>
+            <Language id="Arabic">يوحنا 18: 15-27</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nafmosi de pe n~ca I/couc n~je Cimwn Petroc nem pikemay/t/c: Nimay/t/c de ete mmau nafoi n~couin pe n~te piar,/e~reuc: ouoh afi e~qoun nem I/couc ]aul/ n~te piar,/e~reuc.
+               </Language>
+               <Language id="English">
+                  And Simon Peter followed Jesus, and so did another disciple. Now that disciple was known to the high priest, and went with Jesus into the courtyard of the high priest.
+               </Language>
+               <Language id="Arabic">
+                  وكان سمعان بطرس والتلميذ الآخر يتبعان يسوع، وكان التلميذ معروفا عند رئيس الكهنة، فدخل مع يسوع إلى دار رئيس الكهنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Petroc de nafohi e~ratf cabol qaten piro: afi~ oun ebol n~je pimay/t/c v/e~nafoi n~remn~cwoun e~piar,/e~reuc ouoh afcaji nem ]m~nout: afi~ni m~Petroc e~qoun.
+               </Language>
+               <Language id="English">
+                  But Peter stood at the door outside. Then the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought Peter in.
+               </Language>
+               <Language id="Arabic">
+                  وأما بطرس فكان واقفاً عن الباب خارجا، فخرج التلميذ الذي كان معروفاً عند رئيس الكهنة، فكلم البوابة وأدخل بطرس،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje ]a~lou n~emnout m~Petroc: m/ n~yok ou e~bolqen nimay/t/c nte pairwmi hwk: n~yof de pejaf je m~mon.
+               </Language>
+               <Language id="English">
+                  Then the servant girl who kept the door said to Peter, "You are not also one of this Man's disciples, are you?"
+               </Language>
+               <Language id="Arabic">
+                  فقالت الفتاة البوابة لبطرس: ألست أنت أيضاً من تلاميذ هذا الرجل؟!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nauohi le e~ratou pe n~je nie~biaik nem nihuperet/c: e~au[e~re rakhi e~rwou je ne t~v~rw te: ouoh naut~q~mo m~mwou pe:
+               </Language>
+               <Language id="English">
+                  He said, "I am not." Now the servants and officers who had made a fire of coals stood there, for it was cold, and they warmed themselves.
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال: لا. وكان العبيد والخدام قياماً يوقدون لهم حطبا لأنه كان شتاء، وكانوا يصطلون،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  nafohi de e~ratf nemwou hwf pe n~je Petroc eft~q~mo m~mof. Piar,/e~reuc oun afsen
+               </Language>
+               <Language id="English">
+                  And Peter stood with them and warmed himself. The high priest then asked Jesus about His disciples and His doctrine.
+               </Language>
+               <Language id="Arabic">
+                  وكان بطرس أيضاً معهم واقفا يصطلى، فسأل رئيس الكهنة يسوع عن تلاميذه وعن تعليمه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc eybe nefmay/t/c nem eybe tefc~bw. Afe~rouw naf n~je I/c efjwmmoc: je anok aicaji nem pikocmoc qen ouparr/cia~: ouoh nai ]c~bw pe qen nicunagwg/ n~c/ou niben:
+               </Language>
+               <Language id="English">
+                  Jesus answered him, "I spoke openly to the world. I always taught in synagogues and in the temple, where the Jews always meet, and in secret I have said nothing.
+               </Language>
+               <Language id="Arabic">
+                  فأجابه يسوع قائلاً: أنا كلمت العالم علانية وكنت أعلم كل حين في المجامع وفي الهيكل حيث تجتمع كل اليهود، ولم أقل كلمة في الخفاء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  nem qen piervei pima e~sare niIoudai t/rou ywou] e~rof ouoh m~pije h~li n~caji qen peth/p. Eybeou k~sini m~ moi:
+               </Language>
+               <Language id="English">
+                  Why do you ask Me? Ask those who have heard Me what I said to them. Indeed they know what I said."
+               </Language>
+               <Language id="Arabic">
+                  لماذا تسألني، سل الذين سمعوا ما قلت لهم. هوذا هؤلاء يعرفون ماذا قلت أنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  sen n/e~taucwtem je ou pe e~taijof nwou: h/ppe ic n~ai cee~mi e~n/e~taijotou a~nok. Nai e~tafjotou n~je I/couc: 
+               </Language>
+               <Language id="English">
+                  And when He had said these things, one of the officers who stood by struck Jesus with the palm of his hand, 
+               </Language>
+               <Language id="Arabic">
+                  ولما قال يسوع هذا لطم يسوع واحد من الخدام كان واقفا. فلطم يسوع
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  a~ ouai n~te nihuperet/c etohi e~ratou af] n~ousenkour n~I/couc efjwm~moc: jean vaipe m~v~r/] n~w~ m~piar,/e~reuc.
+               </Language>
+               <Language id="English">
+                  saying, "Do You answer the high priest like that?"
+               </Language>
+               <Language id="Arabic">
+                  قائلاً, أهكذا تجاوب رئيس الكهنة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je I/couc pijaf naf: je icje kakwc aicaji a~rimeyre m~pikakwc: icje de kalwc eybeou k~hioui~ e~roi.
+               </Language>
+               <Language id="English">
+                  Jesus answered him, "If I have spoken evil, bear witness of the evil; but if well, why do you strike Me?"
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال له: إن كنت قد تكلمت ردياً فإشهد بالردى، وإن حسناً فلماذا تضربني؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote afouorpf n~je Anna efcwnh ha Kaia~va piar,/e~reuc. Naf ohi de e~ratf pe n~je Cimwn Petroc eftq~mo mmof: 
+               </Language>
+               <Language id="English">
+                  Then Annas sent Him bound to Caiaphas the high priest. Now Simon Peter stood and warmed himself. 
+               </Language>
+               <Language id="Arabic">
+                  حينئذ أرسله حنان موثقا إلى قيافا رئيس الكهنة، وكان سمعان بطرس واقفا يصطلى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  pejwou naf je m/ n~yok ou e~bol qen nefmay/t/c hwk: n~yof de afjwl e~bol ouoh pejaf je m~mon.
+               </Language>
+               <Language id="English">
+                  Therefore they said to him, "You are not also one of His disciples, are you?" He denied it and said, "I am not!"
+               </Language>
+               <Language id="Arabic">
+                  فقالوا له: ألست أنت أيضاً من تلاميذه؟!. أما هو فأنكر وقال: لا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje ouai naf e~bolqen nie~biaik n~te piar,/e~reuc e~oucuggen/c pe n~te v/e~ta Petroc jwji m~pefmasj e~bol: je m/ a~nok an ainau e~rok nemaf qen pi[w~m. 
+               </Language>
+               <Language id="English">
+                  One of the servants of the high priest, a relative of him whose ear Peter cut off, said, "Did I not see you in the garden with Him?" 
+               </Language>
+               <Language id="Arabic">
+                  فقال له واحد من عبيد رئيس الكهنة، وهو نسيب الذي قطع بطرس أذنه: أما رأيتك معه في البستان؟! 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Palin on afjwl e~bol n~je Petroc Ouoh catotf a~oua~lektwr mou].
+               </Language>
+               <Language id="English">
+                  Peter then denied again; and immediately a rooster crowed.
+               </Language>
+               <Language id="Arabic">
+                  فأنكر بطرس أيضاً، وللوقت صاح الديك.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Listen to David the king of Jerusalem, rebuke her dwellers saying, "Why do the nations rage, and the peoples meditate on vain things?
+               </Language>
+               <Language id="Arabic">
+                  اسمعوا داود ملك أورشليم يبكت رجالها والسكان فيها قائلا: لماذا الأمم رفعوا أصواتهم والشعوب تكلموا بالأباطيل؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The kings of the earth set themselves, and the rulers gather together against the Lord and against His anointed."  David knew by inspiration of the Holy Spirit what would happen to Jerusalem, which become a corrupt forum in the house of the high priest.
+               </Language>
+               <Language id="Arabic">
+                  قامت ملوك الأرض ورؤساؤهم واجتمعوا معاً، هؤلاء اجتمعوا على الرب وعلى مسيحه مخلص العالم. علم داود بالروح القدس ما سيكون بأورشليم التي هي صارت مجمع باطل في دار رئيس كهنتها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They sought a false testimony against Jesus so that they might condemn him to death. Many testified against Him but only the testimony of two of them concurred.
+               </Language>
+               <Language id="Arabic">
+                  فإنهم كانوا يطلبون شهادة زور على يسوع ليحكموا عليه بحكم الموت، فشهد عليه رجال كثيرون فلم تتفق شهاداتهم إلا رجلان جاءا أخيرا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  These testified that He said, "Destroy the temple and I will rebuild it in three days." The high priest asked him, "Why don't you reply.
+               </Language>
+               <Language id="Arabic">
+                  وشهدا هكذا امام الجميع بإنه قال: انقضوا هذا الهيكل وانا أقيمه في ثلاثة أيام. قال رئيس الكهنة: لم لا تجيبني؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  If you are the son of God, tell the truth." "You said it," replied Jesus. The high priest rent his robes and said, "We don't need any testimony. He has uttered blasphemy and we heard it."
+               </Language>
+               <Language id="Arabic">
+                  إن كنت أنت إبن الله فقل الحق. أنت الذي قلت إني أنا إبن الله، فشق رئيس الكهنة ثيابه: لسنا نحتاج إلى شهادة، قد جدف، وتجديفه سمعنا!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  During all this, Simon Peter was standing by the fire, warming himself up. A maid came up to him and said, "You also were with Jesus the Galilean." He denied it.
+               </Language>
+               <Language id="Arabic">
+                  وفي هذا كله كان سمعان بطرس واقفا يصطلى، فقال له واحد: انت تلميذ هذا الجليلي. فقال: لا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then another maid saw him and said to him, "You are also a Galilean." Peter replied: "Not I." Then the third time, another said to him, "I saw you with him in the garden." Peter said: "I don't know what you are talking about." 
+               </Language>
+               <Language id="Arabic">
+                  وآخر قال: أنت أيضاً رجل جليلي. فقال: لست انا. وفي ثالث دفعة، قال له آخر: أنا رأيتك معه في البستان. فحرم نفسه وحده قائلا: إني لا أعرف معنى ما تقولون. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When the rooster crowed, Peter became aware of what he did. He went outside and wept bitterly.
+               </Language>
+               <Language id="Arabic">
+                  وعندما صاح الديك تيقظ بطرس وخرج إلى خارج وبكى بكاءا مرا.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

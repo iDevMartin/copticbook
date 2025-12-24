@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/NiSherobim"/>
+      
+   <Text>
+      <Language id="Coptic">
+         Euws e~bol eujw m~moc je ouw~ou m~Vnou] qen n/et[oci nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi.
+      </Language>
+      <Language id="English">
+         cry out, saying, “Glory to God in the highest, peace on earth and good will toward men.”
+      </Language>
+      <Language id="Arabic">
+         صارخين قائلين المجد لله في الأعالي وعلي الأرض السلام وفي الناس المسرة.
+      </Language>         
+   </Text>
+</Document>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">W~ ninakhi n~nou]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Paramoun of the Nativity:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               W~ ninakhi n~nou] ouoh n~souers~v/ri m~mwou n~te ]yeo~tokoc Maria etoi m~paryenoc n~c/ou niben.
+            </Language>
+            <Language id="English">
+               O divine and amazing  pangs  of the Theotokos Mary which is a Virgin at all times.
+            </Language>
+            <Language id="Arabic">
+               يا للطلقات الالهية المتعجب منها التي لوالدة الاله العذراء كل حين.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

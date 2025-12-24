@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>         
+         <Language id="English">The Third Canticle (The Hymn of the Three Saintly Children)</Language>
+         <Language id="Arabic">الهوس الثالث تسبحة الثلاثة فتية القديسين</Language>
+         <Language id="Coptic">Kc~marwout Po#c#...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Kc~marwout Po#c# V] n~te nenio]: k~erhouo~ c~marwout: k~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed are You, O Lord, God of our fathers: And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك أنت أيها الرب إله أبائنا ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Fc~marwout n~je piran e#y#u# n~te pekw~ou: f~erhouo~ c~marwout f~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed is the Holy Name of Your glory: And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك اسم مجدك القدوس ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Kc~marwout qen piervei n~te pekw~ou e#y#u#: k~erhouo~ c~marwout k~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed are You in the Holy Temple of Your glory: And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك أنت في هيكل مجدك المقدس ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Kc~marwout v/eynau e~ninoun efhemci hijen ni,eroubim: k~erhouo~ c~marwout k~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed are You who beholds the depths and sits upon the cherubim, And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك أنت أيها الناظر إلى الأعماق الجالس على الشاروبيم ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Kc~marwout hijen piy~ronoc n~te tekmetouro: k~erhouo~ c~marwout k~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed are You on the throne of Your Kingdom: And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك أنت على عرش مُلكك ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Kc~marwout qen pic~terew~ma n~te t~ve: k~erhouo~ c~marwout k~erhouo~ [ici sa nie~neh.
+         </Language>
+         <Language id="English">
+            Blessed are You in the firmament of heaven, And exceedingly to be blessed, and exalted above all forever.
+         </Language>
+         <Language id="Arabic">
+            مبارك أنت فى فلك السماء ومتزايد بركة ومتزايد علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nih~b/oui~ t/rou n~te Po#c# hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you works of the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب ياجميع أعمال الرب سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# niv/oui~: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O heaven: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها السموات سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  niaggeloc t/rou n~te Po#c#: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you angels of the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب ياجميع ملائكة الرب سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nimwou t/rou etca p~swi n~t~ve: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you waters above the heaven: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب ياجميع المياه التي فوق السماء  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nijom t/rou n~te Po#c#: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you powers of the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب ياجميع قوات الرب  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  pir/ nem piioh: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O sun and moon: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيتها الشمس والقمر سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# niciou t/rou n~te t~ve: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all ye stars of heaven: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب ياسائر نجوم السماء  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nimounhwou nem niiw]: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you rain and dew: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها الأمطار مع الانداء  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  ni[/pi nem niy/ou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you clouds and winds: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها السُحب والرياح  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nip#n#a# t/rou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you spirits: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب ياجميع الأرواح  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  pi,~rwm nem pikauma: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O fire and heat: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيتها النار والحرارة سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  piw~jeb nem pikaucwn: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O cold and heat: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيها البرد والحر سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  niiw] nem ninifi: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you dew and winds: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها الأهوية والأنداء  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nie~jwrh nem nie~hoou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you night and days: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها الليالى والايام  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  piouwini nem pi,aki: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O light and darkness: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيها النور والظلمة سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  pijaf nem piw~jeb: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O frost and cold: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيها البرد والصقيع سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  ]pa,n/ nem pi,iwn: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O snow and ice: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركا الرب أيها الجليد والثلج سبحاه وزيداه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nicetebr/j nem ni[/pi: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you lightnings and clouds: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها البروق والسحب  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  pikahi t/rf: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all the earth: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها الأرض كلها  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nitwou nem nikalamvwou t/rou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you mountains and all hills: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها الجبال وجميع الآكام  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nit/rou etr/t hijen p~ho m~p~kahi: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you things that spring upon the earth: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            بارك الرب ياجميع ما يَنبت على وجه الأرض سبحه وزده علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nimoumi: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you fountains: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها الينابيع  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nia~maiou nem niiarwou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you seas and rivers: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركي الرب أيتها البحار والأنهار  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nik/toc nem en,ai niben etkim qen nimwou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you whales and all that moves in the waters: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها الحيتان وجميع ما يتحرك فى المياه  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nihala] t/rou n~te t~ve: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you birds of the sky: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب ياجميع طيور السماء  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# niy/rion nem nitebnwoui~ t/rou: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, all you wild beasts and cattle: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركى الرب أيتها الوحوش وكل البهائم  سبحيه وزيديه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# nis/ri n~te nirwmi ouwst m~Po#c#: hwc erof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you sons of men; worship the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا بنى البشر واسجدوا للرب سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# Pii~cra/l: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O Israel: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            بارك الرب يا اسرائيل سبحه وزده علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# niou/b n~te Po#c#: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you priests of the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا كهنة الرب سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nie~biaik n~te Po#c#: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you servants of the Lord: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا عبيد الرب سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  nip#n#a# nem ni'u,/ n~te niy~m/i: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you spirits and souls of the just: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا أرواح وأنفس الصديقين سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# n/eyouab nem n/etyebi/out qen pouh/t: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you holy and humble of heart: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب أيها القديسون والمتواضعو القلوب سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="pascha/saturday/include/Evlogite"/>
+      
+      <Group>
+         <Season id="JoyousSaturday">
+            <Comment>
+               <Language id="English">
+                  The hymns <span class="Coptic">Cmou e~Po#c#</span>, <span class="Coptic">Hwc e~rof</span>, and <span class="Coptic">a~rihouo~</span> are chanted in their great tunes.
+               </Language>
+            </Comment>            
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c#  Ananiac Azariac Mica/l: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O Hananiah, Azariah, and Mishael: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا حنانيا وعزاريا وميصائيل سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cmou e~Po#c# n/etercebecye m~Po#c# V] n~te nenio]: hwc e~rof a~rihouo~ [acf sa nie~neh.
+         </Language>
+         <Language id="English">
+            Bless the Lord, O you who worship the Lord, the God of our fathers: Praise Him and exalt Him above all forever.
+         </Language>
+         <Language id="Arabic">
+            باركوا الرب يا عابدي الرب إله أبائنا سبحوه وزيدوه علواً إلى الآباد.
+         </Language>
+      </Text>
+   </Section>
+</Document>

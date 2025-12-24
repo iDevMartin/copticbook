@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    <Role id="Deacon">
+      <Group>
+         <Season id="FuneralWomenDelivery">
+            <BibleReference reference="Isaiah 26:9-20" type="section"/>
+         </Season>
+      </Group>
+   </Role>
+</Document>

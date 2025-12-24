@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Conclusion of the Doxologies</Language>
+         <Language id="Arabic">ختام الذوكصولوجيات للسيدة العذراء مريم</Language>         
+         <Language id="Coptic">Swpi n~yo...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Swpi n~yo e~recomc e~jwn: qen nima et[oci e~tare,/ n~q/tou: w~ teno#c# n~n/b t/ren ]yeo~tokoc: etoi m~paryenoc n~c/ou niben.
+         </Language>
+         <Language id="English">
+            Watch over us: from on high where you dwell: O Lady of us all, the Ever-virgin Theotokos.
+         </Language>
+         <Language id="Arabic">
+            كونى أنتِ ناظرة علينا فى المواضع العالية التى أنتِ كائنة فيها ياسيدتنا كلنا والدة الإله العذراء كل حين.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ma]ho m~v/e~taremacf: Pencwt/r n~a~gayoc: n~tefw~li n~naiqici e~bolharon: n~tefcemni nan n~tefhir/n/.
+         </Language>
+         <Language id="English">
+            Ask of Him whom you have born: our Good Savior: to take away our troubles: and grant us His peace.
+         </Language>
+         <Language id="Arabic">
+            إسألى الذى ولدته مخلصنا الصالح أن يرفع عنا هذه الأتعاب ويقرر لنا سلامه.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/doxologies/HailToYouOVirgin"/>
+      <InsertDocument path="include/doxologies/WeAskYou"/>
+      
+      <Group>
+         <Season id="AdamDays ^ !Vespers ^ !Matins ^ !ThirdProstration ^ !ChurchConsecration">
+            <Comment>
+               <Language id="English">
+                  During the Midnight Psalmody, on Adam days only, say:
+               </Language>
+               <Language id="Arabic">
+                  فى تسبحة نصف الليل فى أيام الآدام تقال
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/etswni matal[wou: n/e~tauenkot Po#c# mam~ton nwou: nenc~n/ou et,/ qen hojhej niben: Pao#c# a~ribo/~yin e~ron nemwou.
+               </Language>
+               <Language id="English">
+                  The sick heal them, those who have slept O Lord repose them, and all of our brethren in distress, help us my Lord and all of them.
+               </Language>
+               <Language id="Arabic">
+                  المرضى إشفهم الذين رقدوا يارب نيحهم وإخوتنا الذين فى كل شدة ياربى أعنا وإياهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efec~mou e~ron n~je V]: tennac~mou e~pefran e#y#u#: n~c/ou niben a~re pefc~mou: naswpi efm/n e~bol qen rwn.
+               </Language>
+               <Language id="English">
+                  May God bless us, and let us bless His Holy Name, and may His praise continually be, always upon our mouths.
+               </Language>
+               <Language id="Arabic">
+                  يباركنا الله ولنبارك إسمه القدوس فى كل حين تسبحته دائمة فى أفواهنا.
+               </Language>
+            </Text>
+         
+            <InsertDocument path="include/Jefcmarwout"/>
+         </Season>
+      </Group>
+   </Section>    
+</Document>

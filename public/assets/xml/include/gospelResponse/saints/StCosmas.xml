@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StCosmas:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Cosmas, Damian, their brothers, and their mother: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StCosmas"/>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">      
+      <Comment>
+         <Language id="English">
+            On the Feast of the Transfiguration:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V]: afsobtf e~jen pitwou n~Yabwr: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God, was transfigured on mount Tabor. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            ابن الله تجلي علي طور تابور. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            “I am the good shepherd. The good shepherd gives His life for the sheep”  
+         </Language>
+         <Language id="Arabic">
+            أنا هو الراعي الصالح والراعي الصالح يبذل نفسه عن الخراف.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

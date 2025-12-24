@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="TwentyFourPriests:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Twenty-Four Priests:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/hiten/TwentyFourPriestsContents"/>
+      </Season>
+   </Group>
+</Document>

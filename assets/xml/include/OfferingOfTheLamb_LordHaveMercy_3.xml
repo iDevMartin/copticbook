@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con.
+      </Language>
+      <Language id="English">
+         <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: Lord have mercy.
+      </Language>
+      <Language id="Arabic">
+         <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: يَارَبُّ ارْحَمْ. 
+      </Language> 
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con.
+      </Language>
+      <Language id="English">
+         <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: Have mercy O Lord.
+      </Language>
+      <Language id="Arabic">
+         <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: ارحَمنا يا الله.
+      </Language> 
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con.
+      </Language>
+      <Language id="English">
+         <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: Hear us and have mercy.
+      </Language>
+      <Language id="Arabic">
+          <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>: اسمعنا وارحمنا.
+      </Language> 
+   </Text>
+</Document>

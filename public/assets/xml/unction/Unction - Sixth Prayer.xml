@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction6="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Sixth Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة السادسة)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the sixth priest light the sixth lamp and say the sixth prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة السادسة ويقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Oblations"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Colossians 3:12-17" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Vnou] n~te nip~neuma nem nicwma: P[oic n~te nijom: Vnou] n~te nom] niben: p~ouro n~te niourou t/rou: v/etcwtem e~ouon niben etws e~h~r/i oube tekbo/~yia~.
+            </Language>
+            <Language id="English">
+               O God of souls and bodies, Lord of hosts, God of all consolation, King of all kings, Who hears all who cry unto You for help;   
+            </Language>      
+            <Language id="Arabic">
+               يا إلهَ الارواحِ والاجسادِ، وربَ القواتِ، إله كل عزاءٍ، ملكَ جميع الملوكِ، سامعَ كلِّ الذين يصرخونَ نحو معونتِكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Anon qa neke~biaik ten]ho ouoh tentwbh hina n~tekerv~meui~ m~pekbwk (nim) qen peknai etos: jem pefsini qen pekoujai: a~lioui~ e~bol harof n~niswni t/rou: matounocf e~bol qen pienkot n~te tefiabi.
+            </Language>
+            <Language id="English">
+               we Your servants pray and entreat You to remember Your servant (...) in Your great mercy; visit him with Your salvation; take from him all diseases; raise him up from his bed of sickness.   
+            </Language>      
+            <Language id="Arabic">
+               نحنُ عبيدُكَ، نسألُ ونتضرعُ إليكَ لكى تذكرَ عبدَكَ (...) برحمتِكَ الكثيرةِ. تعهده بخلاصِكَ. انزع عنه كلَّ مرضٍ. أقمه من رقادِ سقمِه. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Arih~mot m~mof e~tekekk~l/cia~: eftouj/out cwma nem 'u,/ nem p~neuma.
+            </Language>
+            <Language id="English">
+               Bestow him upon Your Church, cleansed in body, soul, and spirit;   
+            </Language>      
+            <Language id="Arabic">
+               أنعمْ به على كنيستِكَ، معافى النفسِ والجسدِ والروحِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matounocf eyrefjw m~piw~ou qen ]metmairwmi n~te pekmonogen/c n~s/ri: Vai e~takc~marwout nemaf nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+            </Language>
+            <Language id="English">
+               raise him up that he may give You glory. Through the love toward mankind of Your Only-Begotten Son with Whom You are blessed together with the Holy Life-giving Spirit, of One Essence with You.   
+            </Language>      
+            <Language id="Arabic">
+               انهضه لينطقَ بالمجدِ، بمحبةِ البشرِ التى لابنِكَ الوحيدِ. هذا الذى تباركتَ معه ومع الروحِ القدسِ المحيى المساوى معَكَ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               Now and ever, and unto the age of all the ages.  Amen.   
+            </Language>      
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور. آمين. 
+            </Language>
+         </Text>
+      </Role>      
+   </Section>
+</Document>

@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday (The First Hour)</Language>
+         <Language id="Arabic">يوم الأربعاء (الساعة الاولى)</Language>
+         <Language id="Coptic">Pie~hoou m~Pf~tou (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 17:1-7</Language>
+               <Language id="Arabic">خروج 17: 1-7</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh actwnc n~je ]cunagwg/ t/rc n~te nens/ri m~p~Icra/l e~bolqen p~safe n~Cina kata nouparembol/ ebolhiten p~caji m~P[oic: ouoh auhikot qen Ravazin: ne m~mon mwou m~pilaoc eyroucw: 
+               </Language>
+               <Language id="English">
+                  Now all the congregation of the children of Israel departed from the Wilderness of Sin, according to their encampments and by the word of the Lord, and camped in Rephidim; but there was no water for the people to drink.
+               </Language>
+               <Language id="Arabic">
+                  ثم أرتحل كل جماعةـ بني سيناء بحسب مراحلهم علي موجب قول الرب ونزلوا في رافازين ولم يكن ماء للشعب يشرب 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nafhwous n~je pilaoc e~Mwu~c/c ouoh naujw m~moc naf je mamwou nan hina n~tencw: peje Mwu~c/c nwou je eybe ou tetenhwous e~roi: ouoh eybeou teten[wnt m~P[oic.
+               </Language>
+               <Language id="English">
+                  Therefore the people contended with Moses, saying, "Give us water, that we may drink." Moses then said to them,' "Why do you contend with me? Why do you tempt the Lord?"
+               </Language>
+               <Language id="Arabic">
+                  فخاصم الشعب موسي وقال له: أعطنا ماء لنشرب فقال لهم موسى لماذا تخاصمونني ولماذا تجربون الرب؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afi~bi de n~je pilaoc ouoh af,remrem n~ca Mwu~c/c eujw m~moc: je eybe ou akenten e~p~swi e~bol qen ,/mi e~qoyben nem nens/ri nem nentebnwoui~ n~ten pii~bi: 
+               </Language>
+               <Language id="English">
+                  Thus the people thirsted there for water, and the people complained against Moses and said, "Why is it you brought us up out of Egypt to kill us, our children, and our cattle with thirst?" 
+               </Language>
+               <Language id="Arabic">
+                  وعطش الشعب وتذمر على موسى قائلين: لماذا أصعدتنا من مصر لتقتلنا وأولادنا ومواشينا بالعطش؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afws de e~pswi ha P[oic n~je Mwu~c/c efjw m~moc: je ou pe ]naaif m~pailaoc: je e~ti kekouji cenahiw~ni e~jwi.
+               </Language>
+               <Language id="English">
+                  So Moses cried out to the Lord, saying, "What shall I do with this people? They are almost ready to stone me."
+               </Language>
+               <Language id="Arabic">
+                  فصرخ موسي إلي الرب قائلاً: ماذا أفعل بهذا الشعب إنهم بعد قليل يرجمونني.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic m~Mwuc/c: je mosi qajwf m~pailaoc: ouoh [i nemak e~bolqen niqelloi n~te pilaoc n~te p~Icra/l ouoh pis~bwt v/e~takmes v~iom m~mof [itf e~q~r/i qen tekjij: 
+               </Language>
+               <Language id="English">
+                  Then the Lord said to Moses, "Go before this people and take with you some of the elders of Israel. Also take in your hand the rod with which you struck the river and go.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لموسي: إنطلق قدام الشعب وخذ معك من شيوخ اسرائيل وعصاك التي ضربت بها البحر خذها في يدك. وسر أمامهم إلي صخرة حوريب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh mosi qajwou sehr/i e~]petra n~&lt;wr/b: Anok eie~o~hi m~mau qajwk e~jen ]petra qen &lt;wr/b: ouoh eke~mes ]petraefe~i~ e~bol n~q/tc oumwou efe~cw n~je pilaoc:
+               </Language>
+               <Language id="English">
+                  Behold, I will stand before you there on the rock in Horeb; and you shall strike the rock, and water will come out of it so the people may drink."
+               </Language>
+               <Language id="Arabic">
+                  ها أنا أقف هناك قدامك علي صخرة حوريب وأضرب الصخرة فيخرج منها ماء ويشرب الشعب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh afi~ri m~pair/] n~je Mwu~c/c m~pem~yo n~nens/ri m~p~Icra/l.
+               </Language>
+               <Language id="English">
+                  So Moses did so before the children of Israel.
+               </Language>
+               <Language id="Arabic">
+                  ففعل موسي هكذا علي مشهد بني اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Af]ren v~ran m~pima e~tem~mau je p~[wnt nem p~hwous n~te nens/ri m~p~Icra/l je au[ent P[oic eujwm~moc je an P[oic sop n~q/ten san mmon.
+               </Language>
+               <Language id="English">
+                  Thus he called the name of that place Temptation and Abuse, because of the abusive language of the children of Israel and because they tempted the Lord, saying, "Is the Lord among us or not?"
+               </Language>
+               <Language id="Arabic">
+                  وسمي هذا المكان تجربة, ومخاصمة بني اسرائيل لأنهم جربوا الرب قائلين: أفي وسطنا الرب أم لا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Proverbs 3:5-14</Language>
+               <Language id="Arabic">أمثال 3: 5-14</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Proverbs"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Swpi e~re h~y/k ,/ e~v] qen pekh/t t/rf: ouoh m~per[ici mmok e~h~r/i e~jen tekcovia~: N~h~r/i qen nekmwit t/rou ouwnh e~bol hina n~toucoutwn n~je nekmwit ouoh n~toustem[i[rop n~je nek[alauj.
+               </Language>
+               <Language id="English">
+                  Trust in God with all your heart, and do not exalt your own wisdom. In all your ways know wisdom, that she may cut a straight path for you; and your foot will not stumble.
+               </Language>
+               <Language id="Arabic">
+                  كن متكلاً علي الله بكل قلبك ولا تتكبر بحكمتك وكل طرقك أظهرها, لكي تستقيم سبلك ولا تعثر رجلك,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mperswpi ekoi n~cabe nak m~mauatk: alla ariho] qat~h/ m~Vnou] ouoh rik: e~bol hapethwou niben: 
+               </Language>
+               <Language id="English">
+                  Do not rely on your own discernment, but fear God, and turn away from every evil. 
+               </Language>
+               <Language id="Arabic">
+                  لا تكن حكيماً في عيني نفسك, بل أتق الله وتجنب كل شر, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote outal[o naswpi m~pekcwma nem ououjai n~nekkac.
+               </Language>
+               <Language id="English">
+                  Then there shall be healing for your body and care for your bones.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ يكون شفاء لجسدك وصحة لعظامك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~ritiman m~Vnou] e~bol qen nekqici: ouoh moi naf n~hana~par,/ e~bolqen nioutah n~te tekmey/i:
+               </Language>
+               <Language id="English">
+                  Honor the Lord from your righteous labors, and offer Him the first fruits from the fruits of your righteousness, 
+               </Language>
+               <Language id="Arabic">
+                  أكرم الله من أتعابك وقدم له البكور من أثمار برك,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~toumoh n~je nektamion e~bolqen p~a~sai n~te oucouo: ouoh nekhrwt n~touvonven qen pi/rp.
+               </Language>
+               <Language id="English">
+                  That your storehouses may be filled with abundance of grain, and your winepresses may gush with wine.
+               </Language>
+               <Language id="Arabic">
+                  لكي تمتلئ أهدابك من كثرة القمح, وتفيض معاصرك من الخمر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pas/ri mpererkouji n~h/t qen ]c~bw n~te P[oic oude m~perbwl e~bol efcohi m~mok.
+               </Language>
+               <Language id="English">
+                  My son, do not despise the instruction of the Lord, neither grow weary under His reproof. 
+               </Language>
+               <Language id="Arabic">
+                  يا إبني لا يصغر قلبك من تأديب الرب ولا تخر عندما يوبخك  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/ gar e~te P[oic mei m~mof saf]c~bw naf: safermactiggoin de n~s/ri niben e~tefnasopou e~rof:
+               </Language>
+               <Language id="English">
+                  For whom the Lord loves He instructs, and chastises every son He receives.
+               </Language>
+               <Language id="Arabic">
+                  لأن من يحبه الرب يؤدبه ويجلد كل إبن يقبله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  W~ouniatf m~pirwmi e~tafjimi n~oucovia~ nem v/etoi n~aymou e~tafjimi n~oumetcabe. 
+               </Language>
+               <Language id="English">
+                  Blessed is a man who finds wisdom, and a mortal who sees discernment; 
+               </Language>
+               <Language id="Arabic">
+                  طوبي للإنسان الذي وجد حكمة والحي الذي ينال أدباً, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nanec gar e~eriebswt qen yai: e~hote han a~hwr n~noub hihat: c~ta/out e~hote hanw~ni e~nase n~coue~nou.
+               </Language>
+               <Language id="English">
+                  For the profits gained from wisdom are better than the treasures of gold and silver. And wisdom is more valuable than precious stones.
+               </Language>
+               <Language id="Arabic">
+                  لأن الاتجار في هذه أفضل من كنوز الذهب والفضة. وأكرم من الأحجار الثمينة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hosea 5:13-6:3</Language>
+               <Language id="Arabic">هوشع 5: 13-6: 3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Hosea"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afsenaf n~je evrem nem hanaccuroc ouoh afouwrp n~hanp~recbuc ha p~ouro n~Iarim:
+               </Language>
+               <Language id="English">
+                  "Then Ephraim went to the Assyrians and sent ambassadors to King Jareb.
+               </Language>
+               <Language id="Arabic">
+                  وذهب أفرايم مع الأشوريين وأرسل شفعاء إلي ملك ياريم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yof m~pefsjemjom n~touje y/nou ouoh n~nefmounk n~je pemkah n~h/t e~bolqen y/nou: 
+               </Language>
+               <Language id="English">
+                  But he could not heal you, and your pain shall in no way cease from you. 
+               </Language>
+               <Language id="Arabic">
+                  وهو لم يستطع أن يشفيكم ولايزيل الحزن عنكم, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i a~nok ]oi m~v~r/] n~ou pany/r n~Evrem: nem m~v~r/] noumoui~ m~p~/i n~Iouda:
+               </Language>
+               <Language id="English">
+                  Wherefore I am as a panther to Ephraim and as a lion to the house of Judah.
+               </Language>
+               <Language id="Arabic">
+                  لأني أنا أكون الشبل لأفرايم, الأسد لبيت يهوذا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }naerapantan e~rwou qen pimwit n~te niaccurioc mvr/] n~oulaboi ecjwnt echoker: 
+               </Language>
+               <Language id="English">
+                  [I will receive the Assyrians like an angry and hungry lioness.]
+               </Language>
+               <Language id="Arabic">
+                  وأتلقاهم في طريق الأشوريين مثل اللبوءة الغاضبة الجائعة, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh anok ]nahwlem ouoh ]nasen/i ouoh ]nawli ouoh n~nefswpi n~je v/eynacw].
+               </Language>
+               <Language id="English">
+                  So I will grasp and go away; and I will take, and there shall be none to rescue.
+               </Language>
+               <Language id="Arabic">
+                  فأختطف وأمضي وأفترس وأنزع ولا يكون لكم مخلص
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh ]nasen/i ouoh n~tatacyo m~paima satoutako:
+               </Language>
+               <Language id="English">
+                  I will go and return to My place until they are destroyed, and then they shall seek My face.
+               </Language>
+               <Language id="Arabic">
+                  وأمضي ولا ارجع إلي هذا الموضع حتي يهلكوا ويلتمسوا وجهي
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenakw] n~ca paho qen nouhojhej: cenai haroi eujw m~moc. Je marensenan ouoh n~tentacoon ha P[oic pennou] je n~yof afhwlem ouoh f~natal[o: f~nasari ouoh fnaervaqri on:
+               </Language>
+               <Language id="English">
+                  In their affliction they will seek Me early; saying: "'let us go and return to the Lord our God; for He has grasped and will heal us; He will smite and plug the wound with lint.
+               </Language>
+               <Language id="Arabic">
+                  في شدتهم ويآتٍون إلي قائلين فلنمضي ولنرجع إلي الرب إلهنا, لأنه إختطف وهو يشفي ويضرب ويداوي أيضاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Fnatoujon menenca e~hoou c~nau: qen pie~hoou m~mah somt tennatwoun: ouoh tennawnq m~pefm~yo: 
+               </Language>
+               <Language id="English">
+                  After two days He will heal us. In the third day we shall rise and live before Him. 
+               </Language>
+               <Language id="Arabic">
+                  ويشفينا بعد يومين وفي اليوم الثالث نقوم ونحيا أمامه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh tennae~mi ouoh tenna[oji e~p~couen P[oic:
+               </Language>
+               <Language id="English">
+                  Let us know, let us pursue that we might know the Lord.
+               </Language>
+               <Language id="Arabic">
+                  ونعلم ونسرع إلي معرفة الرب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mvr/] n~hanatooui~ efcebtwt ene~jemf: ouoh efe~i~ nan m~v~r/] n~oumoun hwou n~sorp nem ouqae~ n~oukahi.
+               </Language>
+               <Language id="English">
+                  We shall find Him ready as the daybreak, and He will come to us as the early and latter rain to the earth.'
+               </Language>
+               <Language id="Arabic">
+                  فنجده كالفجر المعد ويأتي إلينا كالمطر المبكر والمتأخر علي الأرض.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba Shenouda the Archimandrite</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا شنودة رئيس المتوحدين</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaIntro"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  }jw m~paicaji ouoh n~]na,af an: ete vai pe: je m~permeui~ je menenca y~rouvwrj e~bol m~pitoh e~picouo ouon oum~ton natahe nirefernobi: ]jw m~moc nwten kata ]metmeyre n~nigrav/:
+               </Language>
+               <Language id="English">
+                  I tell you this and confirm it. Do not imagine that after cutting the wheat from the chaff, that the sinners will have relief. I say to you that according to the testimony of the Books.
+               </Language>
+               <Language id="Arabic">
+                  اقول هذا الكلام ولاأتكه  وهو هذا. لا تظنوا أنه بعد إعتزال التبن من الحنطة تتحصل الخطاة علي راحة, أقول لكم كشهادة الكتب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je i~te aggeloc i~te ar,/aggeloc cena,w n~rwou t/rou: ouoh on nike eyouab cena,arwou t/rou:
+               </Language>
+               <Language id="English">
+                  As for the angels and archangels they will remain silent. So also will all the saints be.
+               </Language>
+               <Language id="Arabic">
+                  أنه إن كان الملائكة أو رؤساء الملائكة والقديسون أيضاً يصمتون جميعهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ntefswpi n~je pihap n~te Vnou]: oucaji efjwk e~bol ouoh efswt qen pie~hoou e~tef~navwrj e~bol n~je nicampethwou qen y~m/] n~niy~m/i: m~vnau e~tounahioui n~nirefernobi e~q~r/i e~]h~rw n~,rwm eymoh: 
+               </Language>
+               <Language id="English">
+                  And the judgment of God will be decisive and final in the day where they pick out the sinners from the righteous; the time when the sinners are thrown into the hearth of burning fire. 
+               </Language>
+               <Language id="Arabic">
+                  ويكون لكلمة الله الحكم الكامل القاطع في اليوم الذي يفرز فيه الأشرار من بين الصديقين, وللوقت يلقون الخطاة في أتون النار المتوقدة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ie a~re Vnou] oi m~v~r/] n~nirwmi: n~tef,w naf n~oucumbwloc ie oucunkayedroc eyrefsenf:
+               </Language>
+               <Language id="English">
+                  Does God need a counselor or a companion to be advised like man? What may God forget that someone else may remember?
+               </Language>
+               <Language id="Arabic">
+                  هل تري الله كالبشر  يجعل له مشيراً أو جليساً ليسأله؟ ماهو الذي ينساه الله لكي يجيب به آخر؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Are Vnou] gar naerp~wbs n~ou hina n~te ouai e~rouw~ m~mof: ie n~tef senf n~oucaji e~b/l e~vai m~mauatf: e~joc eucop hirw n~ouwt: je w~ v/et]hap m~m/i: hanmeym/i ne nekhap:
+               </Language>
+               <Language id="English">
+                  Or can you ask God about anything else other than these words. That it may be said in one voice: Your rules are just O Lord who rewards everyone according to his deeds.
+               </Language>
+               <Language id="Arabic">
+                  أو يسأله عن كلمة إلا هذا القول فقط، أن يقال من فم واحد: يا ديان الحق أحكامك عادلة أيها المعطي كل واحد كنحو أعماله,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/et]m~piouai piouai kata nefh~b/oui~: e~a~non an pe et] m~v~meui~ nak e~nai: n~yok pe e~tametsenh/t nien swpi e~bolhitotk.
+               </Language>
+               <Language id="English">
+                  It is not us who would remind God of these things. It is rather He, the Father of all mercies, Who remembers.
+               </Language>
+               <Language id="Arabic">
+                  ليس لنا ان نذكرك بهذا لأنك أنت الذي من عندك كل الرافات.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الاولى، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 50:6, 32:10</Language>
+               <Language id="Arabic">مزمور 50: 6, 32: 10</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hopwc n~tekmai qen nekcaji: ouoh n~tek [~ro eknaihap. 
+               </Language>
+               <Language id="English">
+                  That You may be justified in Your words, and overcome when You are judged. 
+               </Language>
+               <Language id="Arabic">
+                  لكيما تبرر فى اقوالك وتغلب اذا حوكمت 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic najer nico[ni n~te nieynoc e~bol: ouoh f~nasosf n~nimokmek n~te hanlaoc: All/louia.
+               </Language>
+               <Language id="English">
+                  The Lord scatters abroad the counsels of the nations, and He sets aside the reasoning of peoples. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  الرب يفرق مؤامرة الأمم ويرذل أفكار الشعوب. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+       
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 11:46-57</Language>
+            <Language id="Arabic">يوحنا 11: 46-57</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Hanouon de e~bol n~q/tou ausenwou ha nivariceoc autamwou e~v/e~tafaitou n~je I/couc:
+               </Language>
+               <Language id="English">
+                  But some of them went away to the Pharisees and told them the things Jesus did.
+               </Language>
+               <Language id="Arabic">
+                  وذهب قوم منهم الى الفريسيين واخبروهم بما فعل يسوع
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auywou] oun n~je niar,/e~reuc nem nivariceoc n~ouywoutc: ouoh naujw m~moc je ou petennaaif nase nim/ini n~te pairwmi i~ri m~mwou: 
+               </Language>
+               <Language id="English">
+                  Then the chief priests and the Pharisees gathered a council and said, “What shall we do? For this Man works many signs. 
+               </Language>
+               <Language id="Arabic">
+                  فجمع رؤساء الكهنة والفريسيون مجمعا وقالوا: ماذا نصنع فان هذا الإنسان يعمل آيات كثيرة,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~swp ansan,af m~pair/] cenanah] e~rof t/rou: ouoh cenai~ n~je nirwmeoc cenawli m~pentopoc nem pens~lol.
+               </Language>
+               <Language id="English">
+                  If we let Him alone like this, everyone will believe in Him, and the Romans will come and take away both our place and nation.”
+               </Language>
+               <Language id="Arabic">
+                  وان تركناه هكذا يؤمن الجميع به فيأتي الرومانيون ويأخذون موضعنا وامتنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ de n~je ouai e~bol n~q/tou e~pefran pe Kaia~va foi n~ar,/e~reuc n~te ]rompi e~tem~mau: pejaf nwou je n~ywten tetencwoun nh~li an.
+               </Language>
+               <Language id="English">
+                  And one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all,
+               </Language>
+               <Language id="Arabic">
+                  فأجاب واحد منهم إسمه قيافا, كان رئيساً للكهنة في تلك السنة وقال لهم: أنتم لا تعرفون شيئاً,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ouoh tetenmokmek m~mwten an je ernofri nwten hina n~te ourwmi n~ouwt mou e~h~r/i e~jen pilaoc ouoh n~tes~tem piynoc t/rf tako:
+               </Language>
+               <Language id="English">
+                  Nor do you consider that it is expedient for us that one man should die for the people, and not that the whole nation should perish.”
+               </Language>
+               <Language id="Arabic">
+                  ولا تفكرون أنه خير لكم أن يموت إنسان واحد عن الشعب ولا تهلك الأمة كلها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Netaf je vai an e~bol hitotf m~mauatf alla je nafoi n~ar,/e~reuc n~te ]rompi e~tem~mau aferp~rov/teuin je hw] n~te I/couc mou e~h~r/i e~jen pis~lol. 
+               </Language>
+               <Language id="English">
+                  Now this he did not say on his own authority; but being high priest that year he prophesied that Jesus would die for the nation, 
+               </Language>
+               <Language id="Arabic">
+                  ولم يقل هذا من تلقاء نفسه, بل انه إذ كان رئيس الكهنة في تلك السنة تنبأ أنه ينبغي أن يموت يسوع عن الأمة, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~jen pis~lol m~mauatf an: alla hina nikes/ri n~te Vnou] etj/r e~bol ]~Ioudea afsenaf e~bol m~mau e~ou,wr ntefyowtou eumetouai:
+               </Language>
+               <Language id="English">
+                  And not for that nation only, but also that He would gather together in one the children of God who were scattered abroad.
+               </Language>
+               <Language id="Arabic">
+                  وليس عن الأمة فقط, بل ليجمع أيضاً أبناء الله المتفرقين إلي واحد.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc jen pie~hoou e~tem~mau auco[ni hina n~ceqoybef: I/couc de nafmosi an je pe n~ouwnh e~bolqen ]Ioudea afsenaf e~bol m~mau e~ou,wra qaten pisafe e~oubaki eumou] e~roc je e~V~rem ouoh afswpi m~mau nem nefmay/t/c. 
+               </Language>
+               <Language id="English">
+                  Then, from that day on, they plotted to put Him to death. Therefore Jesus no longer walked openly among the Jews, but went from there into the country near the wilderness, to a city called Ephraim, and there remained with His disciples. 
+               </Language>
+               <Language id="Arabic">
+                  ومن ذلك اليوم تشاوروا أن يقتلوه, وأما يسوع فلم يكن يمشي في اليهودية علانية بعد ولكنه إنطلق من هناك إلي كورة عند البرية, إلي مدينة تدعي آفرايم, ومكث هناك مع تلاميذه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nafqent de pe n~je pipac,a n~te niIoudai: ouoh aui~ n~je oum/s e~h~r/i e~Ieroucal/m e~bolqen ],wra qajen pipac,a hina n~toutoubwou:
+               </Language>
+               <Language id="English">
+                  And the Passover of the Jews was near, and many went from the country up to Jerusalem before the Passover, to purify themselves.
+               </Language>
+               <Language id="Arabic">
+                  وكان فصح اليهود قد قرب, فصعد كثيرون من الكورة إلي أورشليم قبل الفصح ليتطهروا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naukw] oun pe n~ca I/couc n~je niIoudai eujwmmoc n~noue~r/ou euo~hi e~ratou qen piervei: je oupe e~tetenmeui e~rof je f~nai~ an e~h~r/i e~paisai:
+               </Language>
+               <Language id="English">
+                  Then they sought Jesus, and spoke among themselves as they stood in the temple, “What do you think—that He will not come to the feast?”
+               </Language>
+               <Language id="Arabic">
+                  وكان اليهود يطلبون يسوع قائلين بعضهم لبعض وهم قائمون فى الهيكل: ماذا تظنون هل لا يأتى الى العيد؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Neau] entol/ de pe n~je niar,/e~reuc nem nivariceoc hina a~resan ouai e~mi je afywn n~teftamwou e~rof hina n~cetahof.
+               </Language>
+               <Language id="English">
+                  Now both the chief priests and the Pharisees had given a command, that if anyone knew where He was, he should report it, that they might seize Him.
+               </Language>
+               <Language id="Arabic">
+                  وكان رؤساء الكهنة والفريسيون قد أوصوا أنه اذا علم أحد اين هو فليدل عليه لكى يمسكوه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  As the Pharisees gathered together and said to one another “what can we do?”
+               </Language>
+               <Language id="Arabic">
+                  فاجتمع الفريسيون وخاطب بعضهم بعضا قائلين : ما الذى نصنعه؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  This man is doing many miracles and supernatural things. If we leave him alone all the people will believe in him; then the Romans will replace us.
+               </Language>
+               <Language id="Arabic">
+                  فان هذا الرجل يصنع آيات وعجائب كثيرة وان تركناه فسيؤمن به الكل فيأتي الرومانيون ويأخذون موضعنا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  One of them, who is Caiaphas, the chief priest of the Jews said: "It is expedient for you that one man should die for the people, and that the whole nation should not perish."
+               </Language>
+               <Language id="Arabic">
+                  فقال أحدهم الذى هو قيافا رئيس كهنة اليهود: أنه يجب أن يموت رجل واحد عن الشعب دون الأمة كلها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And from then on they conspired to kill Jesus. Jesus went into the wilderness and stayed there with his disciples.
+               </Language>
+               <Language id="Arabic">
+                  ومن تلك الساعة تشاوروا على يسوع مشورة رديئة ليقتلوه فمضى يسوع الى كورة فى البرية واقام هناك مع تلاميذه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And it was about the time of the feast of the Jews, the Jews who sought to kill Him. Verily it was a fulfillment of the prophecy of Isaiah: "Wail on a nation full of evil.
+               </Language>
+               <Language id="Arabic">
+                  وكان قد قرب عيد اليهود وكانوا يطلبونه لكى يقتلوه. بالحقيقة اكمل ما قاله عليهم أشعياء النبي: الويل للامة المملوءة إثماً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  A brood of evil doers. Children who are corrupt. For the ox knows its owner, and the donkey its master, but Israel does not know that I am his creator. Therefore, they shall be with their children in Hell-their home-forever.
+               </Language>
+               <Language id="Arabic">
+                  الزرع الفاسد الأبناء المخالفين من اجل أن الثور عرف مذوده والحمار عرف قانية واسرائيل لم يعرفنى ولم يعلم اننى انا خالقه من اجل ذلك يخلدون هم وإبناؤهم فى الجحيم بيتهم الى الأبد.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

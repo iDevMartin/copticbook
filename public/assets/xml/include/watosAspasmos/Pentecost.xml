@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Afsenaf e~p~swi...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Pentecost:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Afsenaf e~p~swi e~t~ve n~te t~ve caniman~sai hina n~tefouwrp nan m~piparakl/ton pip~meuma n~te ]meym/i.
+            </Language>
+            <Language id="English">
+               He ascended into the heaven of heavens toward the East to send us the Paraclete, the Spirit of truth. 
+            </Language>
+            <Language id="Arabic">
+               صعد إلي سماء السماء ناحية المشارق لكي يرسل لنا المعزي روح الحق  
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia a#l# a#l#: Pi,~rictoc aftwnf ouoh afsenaf afouwrp nan m~piparakl/ton: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Christ is risen and has ascended; He sent to us the Paraclete.Save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا. المسيح قام ثم صعد، وارسل لنا البارقليط. خلصنا وارحمنا.  
+            </Language>         
+         </Text>                
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/watosAspasmos/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>      
+      </Section>
+   </Season>
+</Document>

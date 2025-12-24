@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="GreatFast ^ Weekdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Weekdays of the Great Fast</Language>
+            <Language id="Arabic">ذوكصولوجية ثانية للصوم المقدس</Language>
+            <Language id="Coptic">}n/ctia nem pis~l/l...</Language>
+         </Title>         
+              
+         <Comment>
+            <Language id="English">
+               For weekdays of the Great Fast:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               }n/ctia~ nem pis~l/l: n~ywou pe p~cw] n~nen'u,/: pitoubo nem ]meym/i: n~ywou pe sauranaf m~V].
+            </Language>
+            <Language id="English">
+               Fasting and prayer, are the salvation for our souls, purity and righteousness, they are what please God.
+            </Language>
+            <Language id="Arabic">
+               الصوم والصلاة هما خلاص نفوسنا والطهارة والبر هما اللذان يرضيان الله.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }n/ctia~ y/e~tacw~li: m~Mwu~c/c hijen pitwou: san~tef[i m~pinomoc nan: ebol hiten Po#c# V].
+            </Language>
+            <Language id="English">
+               Fasting has raised Moses, up to the mountain, until he received the Law for us, from the Lord our God. 
+            </Language>
+            <Language id="Arabic">
+               الصوم هو الذى رفع موسى على الجبل حتى أخذ لنا الناموس من قبل الرب الإله.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }n/ctia~ y/e~tacw~li: n~?liac e~p~swi e~t~ve: ouoh acnohem n~Dani/l: e~bol qen v~lakkoc n~nimoui~.
+            </Language>
+            <Language id="English">
+               Fasting has raised Elijah, up to heaven, and has saved Daniel, from the den of lions.
+            </Language>
+            <Language id="Arabic">
+               الصوم هو الذى رفع إيليا إلى السماء وخلص دانيال من جُب الأسود.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               APeno#c# I/#c# P,#c#: ern/cteuin e~h~r/i e~jwn: n~h~me n~h~oou nem n~h~me n~e~jwrh: sa n~tefcotten qen nennobi.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, has fasted for us, forty days and forty nights, to save us from our sins.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح صام عنا أربعين يوماً وأربعين ليلة حتى خلصنا من خطايانا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anon hwn marenern/cteuin: qen outoubo nem oumeym/i: ouoh n~tenerp~roceu,ecye: enws e~bol enjw m~moc.
+            </Language>
+            <Language id="English">
+               And we too should also fast, with purity and righteousness, and let us also pray, proclaiming and saying.
+            </Language>
+            <Language id="Arabic">
+               ونحن أيضاً فلنصُم بطهارة وبر ونُصلِ صارخين قائلين.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/OurFatherGreatFast"/>
+      </Section>
+   </Season>
+</Document>

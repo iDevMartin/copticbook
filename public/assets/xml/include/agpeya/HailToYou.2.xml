@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         }paryenoc Maria~: ]yeo~tokoc e#y#u#: ]p~roctat/c e~tenhot: n~te p~genoc n~te ]metrwmi.
+      </Language>
+      <Language id="English">
+         O Virgin Mary, the holy Mother of God (Theotokos), the faithful advocate for all mankind,
+      </Language>
+      <Language id="Arabic">
+         أيَّتُها العَذْراءُ مَرْيَم والِدةُ الإلهِ، القِدّيسَةُ الشَّفيعَةُ الأمينَةُ لجنْسِ البَشرِيّةِ،
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Arip~recbeuin e~h~r/i e~jwn: nahren P,#c# v/etarej~vof: hopwc n~teferh~mot nan: m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Intercede on our behalf before Christ whom you bore, that He may forgive us our sins.
+      </Language>
+      <Language id="Arabic">
+          اشْفَعي فينا أَمامَ المَسيحِ الَّذي وَلدْتهِ، لِكَيْ يُنْعِم لنا بغُفْران خَطايانا.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/doxologies/HailToYouOVirgin"/>
+   <InsertDocument path="include/doxologies/WeAskYou"/>   
+</Document>

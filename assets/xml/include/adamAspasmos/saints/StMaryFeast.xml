@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMary">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">H/ppe oupeynanef...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary:
+            </Language>
+         </Comment>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe oupeynanef: ie ou petholj e~b/l e~pierv~meui~ n~]yeo~tokoc Maria.
+            </Language>
+            <Language id="English">
+               Behold, what is more beautiful or what is sweeter, than the rememberance of Mary, the Theotokos.
+            </Language>
+            <Language id="Arabic">
+               هوذا ما هو الحسن أو ماهو الحلو إلا تذكار والدة الإله مريم
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

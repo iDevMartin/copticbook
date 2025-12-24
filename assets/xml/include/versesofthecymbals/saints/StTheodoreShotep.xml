@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StTheodoreShotep:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Theodore:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere pia~ylovoroc: Yeo~dwroc pictratilat/c
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: Hail to the courageous hero: Hail to the struggle-mantled: Theodore the General.
+            </Language>
+            <Language id="Arabic">
+               السلام لك ايها الشهيد. السلام للشجاع البطل. السلام للابس الجهاد. ثؤدوروس الاسفهسلار.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

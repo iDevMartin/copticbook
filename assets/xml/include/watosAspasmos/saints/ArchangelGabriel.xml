@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelGabriel:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Gabri/l piaggeloc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Gabriel:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Gabri/l piaggeloc afhisennoufi n~]paryenoc: je ,ere y/eymeh n~h~mot: ouoh P[oic sop neme.
+            </Language>
+            <Language id="English">
+               Gabriel the angel announced glad tidings to the Virgin, saying, “Hail, O full of grace, the Lord is with you.”
+            </Language>
+            <Language id="Arabic">
+               غبريال الملاك بشر العذراء قائلا افرحي يا ممتلئة نعمة الرب معك
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

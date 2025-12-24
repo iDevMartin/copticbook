@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="TwentyFourPriests:VersesOfCymbals | ReceptionNewPriest">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Twenty Four Priests:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ounis] gar pe pitaio: n~te n/e#y#u# n~a~cwmatoc: niou/b n~te ]meym/i: pijout f~toou m~p~recbuteroc.
+            </Language>
+            <Language id="English">
+               Great is the honor of the holy bodiless living creatures, the priests of the Truth, the twenty four presbyters.
+            </Language>
+            <Language id="Arabic">
+               عظيمة هي كرامة القديسين لغير المتجسدين كهنة الحق الاربعة والعشرين قسيسا.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

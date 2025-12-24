@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod | TheophanyLiturgyOfTheWaters">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Theophany:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V]: af[iwmc qen piIordan/c: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Jesus Christ, the Son of God, was baptized in the Jordan. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله اعتمد في نهر الأردن.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            I kay/meni a~nacy/te.
+         </Language>
+         <Language id="English">
+            You who are seated, stand.
+         </Language>
+         <Language id="Arabic">
+            أيها الجلوس قفوا
+         </Language>         
+      </Text>
+   </Role>
+</Document>

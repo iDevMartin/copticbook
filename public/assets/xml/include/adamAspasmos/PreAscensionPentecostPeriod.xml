@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">A Pi,~rictoc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               A Pi,~rictoc Pennou]: twnf ebol qen n/eymwout n~yof pe t~a~par,/ n~te n/etauenkot
+            </Language>
+            <Language id="English">
+               Christ our God rose from the dead. He is The First of those who slept.
+            </Language>
+            <Language id="Arabic">
+               المسيح إلهنا قام من الأموات وهو باكورة الراقدين، 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eybe vai ten]wou naf enws e~bol enjw m~moc: je k~c~marwout w~Pa[oic I/couc je aktwnk akcw] m~mon
+            </Language>
+            <Language id="English">
+               For this we glorify Him, Crying out saying, “You are blessed, O my Lord Jesus, for You rose, You saved us.”
+            </Language>
+            <Language id="Arabic">
+               فلهذا نمجده صارخين قائلين مبارك أنت ياربي يسوع لأنك قمت وخلصتنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Second Adam Aspasmos</Language>
+            <Language id="Coptic">Marenhwc nem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Marenhwc nem nia~ggeloc enws e~bol enjw m~moc je Aftwnf e~bol qen n/e~ymwout qen pie~hoou m~mah somt.
+            </Language>
+            <Language id="English">
+               Let us praise with the angels crying and saying that He is risen from the dead on the third day.
+            </Language>
+            <Language id="Arabic">
+               فلنسبح مع الملائكة صارخين قائلين أنه قام من الأموات في اليوم الثالث.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ari'alin qen ouka] e~v/etafi~ afcw] m~mon ouoh afmou eybe pencw] &lt;rictoc a~nect/ ek nekrwn.
+            </Language>
+            <Language id="English">
+               Chant with understanding to He who came, saved us, and died for our salvation. Christ is risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               رتلوا بفهم للذي أتي وخلصنا ومات من أجل خلاصنا المسيح قام من الأموات.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Dauid p~ouro pih/mnodoc afjoc qen pi'alt/rion je pirefcwnt n~nie~wn &lt;rictoc a~nect/ ek nekrwn.
+            </Language>
+            <Language id="English">
+               King David the Psalmist said with the psaltery, "The Creator of ages." Christ is risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               داود الملك المرتل قال في المزمور أن خالق الدهور المسيح قام من الأموات.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Enws e~bol enjw m~moc je &lt;ouab ouoh &lt;ouab &lt;ouab P[oic n~nie~wn &lt;rictoc a~nect/ ek nekrwn.
+            </Language>
+            <Language id="English">
+               We cry out and say, "Holy and holy, holy is the Lord of ages. Christ is risen from the dead."
+            </Language>
+            <Language id="Arabic">
+               نصرخ قائلين: قدوس ثم قدوس، قدوس رب الدهور المسيح قام من الأموات.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Third Adam Aspasmos</Language>
+            <Language id="Coptic">Apen[oic I/couc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Apen[oic I/couc Pi,~rictoc p~ouro n~te nie~wn aftwnf e~bol qen n/eymwout qen pie~hoou m~mah somt
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, King of the ages, is risen from the dead on the third day.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح ملك الدهور قام من الأموات في اليوم الثالث: 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               A~ri'alin e~Pennou] A~ri'alin e~penouro A~ri'alin e~penrefcw] aftwnf e~bol qen n/eymwout
+            </Language>
+            <Language id="English">
+               Sing  to our God, sing to our King, sing to our Savior, He is risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               رتلوا لإلهنا رتلوا لملكنا رتلوا لمخلصنا قام من الأموات.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               {iouwini [iouwini: w~}paryenoc Mariam : [iouwini [iouwini : nia~pictoloc n~dikeoc.
+            </Language>
+            <Language id="English">
+               Illuminate, illuminate, O Virgin Mary, illuminate, illuminate, O righteous apostles.
+            </Language>
+            <Language id="Arabic">
+               إستنيرى إستنيرى أيتها العذراء ، إستنيروا إستنيروا أيها الرسل الصديقون .
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Enws e~bol enjw m~moc: je &lt;~ouab ouoh &lt;~ouab &lt;~ouab P[oic n~nie~w~n &lt;~rictouc Anect/ eknekrwn
+            </Language>
+            <Language id="English">
+               We cry out saying: Holy, Holy, Holy the Lord of ages, Christ rose from the dead.
+            </Language>
+            <Language id="Arabic">
+               نصرخ قائلين قدوس قدوس قدوس رب الدهور المسيح قام من الاموات
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>            
+   </Season>
+</Document>

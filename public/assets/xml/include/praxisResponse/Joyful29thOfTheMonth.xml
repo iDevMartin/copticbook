@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Joyful29thOfTheMonth">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere y/e~tacjem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the 29th of each Coptic Month:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/e~tacjem h~mot: P[oic sop neme: ,ere y/e~tac[i n~ten piaggeloc: m~v~rasi m~pikocmoc
+            </Language>
+            <Language id="English">
+               Hail to her who found grace, the Lord be with you, Hail to her who received from the Angel, the joy of the world.
+            </Language>
+            <Language id="Arabic">
+               السلام للتى وجدت نعمة ، الرب معك، السلام للتى قبلت من الملاك فرح العالم.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere B/eyleem: t~polic n~nip~rov/t/c: y/etaumec Pi,~rictoc n~q/tc: pimahc~nau n~Adam
+            </Language>
+            <Language id="English">
+               Hail to Bethlehem, the city of the prophets, in which was born, Christ the second Adam.
+            </Language>
+            <Language id="Arabic">
+               السلام لبيت لحم مدينة الأنبياء التي ولد فيها المسيح آدم الثاني.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere tefanactacic: e~taftwnf e~bolqen n/eymwout: sa n~tefcw] m~mon: e~bolqen nennobi.
+            </Language>
+            <Language id="English">
+               Hail to His Resurrection, when He rose from the dead, in order to save us, from our sins.
+            </Language>
+            <Language id="Arabic">
+               السلام لقيامته لما قام من بين الأموات حتي خلصنا من خطايانا.
+            </Language>         
+         </Text>
+        
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Hymn of the Seven Tunes</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Festive tune: 
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/1"/>
+      
+      <Comment>
+         <Language id="English">
+            Tune of <span class="Coptic">Piwik</span>: 
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/2"/>
+      
+      <Comment>
+         <Language id="English">
+            Tune of <span class="Coptic">Ounof m~mou Maria</span>:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/3"/>
+      
+      <Comment>
+         <Language id="English">
+            Tune of <span class="Coptic">Maren ouwnh</span>:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/4"/>
+      
+      <Comment>
+         <Language id="English">
+            Tune of <span class="Coptic">Qen ouswt</span>:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/5"/>
+      
+      <Comment>
+         <Language id="English">
+            Tune of <span class="Coptic">E~bolhiten Maria</span>:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/6"/>
+      
+      <Comment>
+         <Language id="English">
+            The rest of the doxology is completed in the standard morning doxology tune:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/morningdoxology/Conclusion"/>
+   </Section>
+   
+   <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+</Document>

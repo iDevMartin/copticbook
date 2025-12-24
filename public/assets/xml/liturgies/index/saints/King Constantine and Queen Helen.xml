@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="KingConstantineAndQueenHelen:All">
+      <Title>
+         <Language id="English">King Constantine and Queen Helen</Language>
+         <Language id="Arabic">الملك قسطنطين والملكة هيلانة</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

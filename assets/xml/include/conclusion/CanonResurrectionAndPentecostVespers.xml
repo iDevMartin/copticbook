@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="DisplayNonCustomaryPrayers ^ ((Resurrection ^  Matins) | (DayAfterResurrection ^ Vespers) | (Pentecost ^ Vespers))">
+      <Text>
+         <Language id="Coptic">
+            P[oic P[oic P[oic icje akohi e~ratk e~ouma n~]hap nahren Pontioc Pilatoc aucwbi m~mok: alla m~pek,w n~cwk m~peky~ronoc: akhemci nem Pekiwt: Aktwnk e~bolqen n/e~ymwout: akerpikocmoc n~remhe e~bolha ]metbwk n~te pijaji.
+         </Language>
+         <Language id="English">
+            Lord, Lord, Lord, as if you stood in the place of the judgement, before Pontius Pilate, who mocked You : but You have not left Your throne, and sat with Your Father: You arose from the dead, and freed the world from the enslavement of the enemy.
+         </Language>
+         <Language id="Arabic">
+            يارب يارب يارب ان كنت وقفت فى موضع الحكم أمام بيلاطس البنطى واستهزى بك . لكنك لم تترك كرسيك ، وجلست مع أبيك . وقمت من بين الأموات وحررت العالم من عبودية العدو.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/DoxaPatri"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Tenws e~bol enjw m~moc: je w~ Pen[oic I/couc Pi,~rictoc.
+         </Language>
+         <Language id="English">
+            We proclaim and say, O our Lord Jesus Christ. 
+         </Language>
+         <Language id="Arabic">
+            نصرخ قائلين يا ربنا يسوع المسيح
+         </Language>
+      </Text>
+      
+      <Group>
+         <InsertDocument path="include/conclusion/PreAscensionPentecostPeriod"/>               
+         <InsertDocument path="include/conclusion/Pentecost"/>
+      </Group>                                    
+   </Season>
+</Document>

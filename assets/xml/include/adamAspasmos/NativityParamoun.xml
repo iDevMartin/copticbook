@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">"u,/ niben...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Paramoun of the Nativity:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               "u,/ niben rasi: ouoh cee~r,oreuin: nem nia~ggeloc: euhwc e~p~Ouro P,#c#.
+            </Language>
+            <Language id="English">
+               All the souls rejoice and chant with the angels praising Christ the King.
+            </Language>
+            <Language id="Arabic">
+               كل الانفس تفرح وترتل مع الملائكة مسبحين الملك المسيح.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Euws e~bol eujw m~moc: je o~uw~o~u m~V] qen nye~t[oci: nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi.
+            </Language>
+            <Language id="English">
+               Proclaiming and saying, "Glory to God in the highest, peace on earth, and good will toward men."
+            </Language>
+            <Language id="Arabic">
+               صارخين قائلين، المجد لله فى الأعالى، وعلى الأرض السلام، وفى الناس المسرة.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

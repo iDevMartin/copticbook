@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJohnTheBaptist:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. John the Baptist:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/praxisResponse/saints/StJohnTheBaptistContents"/>
+      </Season>
+   </Group>
+</Document>

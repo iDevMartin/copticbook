@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" ChurchConsecration="true">
+   <Title>
+      <Language id="English">Church Consecration (Part 4)</Language>      
+      <Language id="Coptic">Pjineragiazin n~]ekkl/cia m~beri</Language>
+   </Title>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Fathers"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ezekiel 42:15-20" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ezekiel 43:1-7" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Ezekiel 44:1-5" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/SaturdayLobsh"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Assemblies"/>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            Intro to Revelation is chanted in the Bright Saturday tune:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            E~re pic~mou n~te piyeologoc n~euaggelict/c Iwannic piparyenoc : efe~i~ e~h~r/i ejen pailaoc ajoc t/rou : je a~m/n ece~swpi
+         </Language>
+         <Language id="English">
+            The blessings of the Evangelic Theologian : John the virgin : shall come upon this congregation : All say Amen so be it.
+         </Language>
+         <Language id="Arabic">
+            بركة اللاهوتي الإنجيلي يوحنا البتول تأتي وتحل على هذا الشعب كله ، قولوا كلكم آمين يكون
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Comment>
+         <Language id="English">
+            Revelations chapter 21 is read in its entirety, observing that the hymn of the foundations is chanted as described below:
+         </Language>
+      </Comment>
+      
+      <BibleReference reference="Revelation 21:1-27" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            <span class="Coptic">A~nok ainau</span> is chanted in its known Bright Saturday tune:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            A~nok ainau e~p~kwt n~oupolic ecosj n~noub hiw~ni m~m/i pimargarit/c eynecwc
+         </Language>
+         <Language id="English">
+            I saw the walls+ of a city covered with gold, and precious stones++ and the beautiful jewels.
+         </Language>
+         <Language id="Arabic">
+            أنا نظرت إلى بناء المدينة المصفحة بالذهب  ، والحجارة الكريمة والجواهر الحسنة.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            <ul>
+               <li>+ Lit. “the built thing”</li>
+               <li>++ Lit. “true stones”</li>
+            </ul>
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            The Foundations is chanted in its known Bright Saturday tune:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ere Pencwt/r qen tecm/]: ef],~lom hi taio~ n~n/eymei m~mof.
+         </Language>
+         <Language id="English">
+            Our Savior is in its midst: crowning  with honor those who love Him.
+         </Language>
+         <Language id="Arabic">
+            ومخلصنا في وسطها يكلل بالكرامة الذين يحبونه.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Comment>
+         <Language id="English">
+            At the mentioning of the foundation of the new Jerusalem, the deacons chant the names of the foundations followed by “<span class="Coptic">E~re Pencwt/r</span>...” (Our Savior is in its midst…) after every three foundations:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            }cen] n~houi~] ne ouiacpic te. }mah c~nou] oucapviroc te. }mah som] ou,ark/dwn te.
+         </Language>
+         <Language id="English">
+            The first foundation was jasper : the second was sapphire : the third was chaagate.
+         </Language>
+         <Language id="Arabic">
+            الأساس الأول يشب.  الأساس الثاني ياقوت أرزق. الأساس الثالث عقيق ابيض. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah f~tou ouc~maragaoc te. }mah e# oucardonix te. }mah 6 oucardinon te.
+         </Language>
+         <Language id="English">
+            The fourth was emerald  : the fifth was onyx : the sixth was carnelian.
+         </Language>
+         <Language id="Arabic">
+            الأساس الرابع زمرد ذبابي. الأساس الخامس جزع عقيقي. الأساس السادس عقيق أحمر. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah sasfi ou,~rucoliyoc te. }mah s~m/in ouburilloc te. }mah 'i] outopadion te.
+         </Language>
+         <Language id="English">
+            The seventh was chrysolite : the eighth was beryl : the ninth topaz.
+         </Language>
+         <Language id="Arabic">
+            الأساس السابع رزبرجد. الأساس الثامن زمرد سلقى. الأساس التاسع ياقوت أصفر. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah m/] ouhua~kunyinon te. }mah m/] oui~ ou,~rucoparacoc te. }mah m/] c~nou] oua~meyictoc te.
+         </Language>
+         <Language id="English">
+            The tenth was hyacanth : the eleventh was chalcedony: the twelfth was amethyst.
+         </Language>
+         <Language id="Arabic">
+            الأساس العاشر عقيق أخضر. الأساس الحادي عشر اسمنجوتي. الأساس الثاني عشر جمشت. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            The Bishop then raises incense.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="Reader">
+      <Comment>
+         <Language id="English">
+            Psalm 92 (LXX) is then read:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/agpeya/psalms/92"/>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The hymn of the censer is then chanted:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Taishoree"/>
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Hebrews 7:26-8:13" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="James 2:14-26" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Acts 7:44-56" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/PiEpnevma"/>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm 68:13, 25</Language>
+            <Language id="Arabic">مزامير 68: 13، 25</Language>
+         </Title>
+      
+         <Text>
+            <Language id="English">
+               Though you lie down among the sheepfolds, You will be like the wings of a dove covered with silver, And her feathers with yellow gold.” The singers went before, the players on instruments followed after; Among them were the maidens playing timbrels.
+            </Language>
+            <Language id="Arabic">
+               مَعَ أَنَّكُمْ رَقَدْتُمْ بَيْنَ الْحَظَائِرِ (كَرُعَاةٍ مُحْتَقَرِينَ فِي مِصْرَ) تَكُونُونَ كَحَمَامَةٍ أَجْنِحَتُهَا مُغَشَّاةٌ بِالْفِضَّةِ، وَرِيشُهَا بِالذَّهَبِ الأَصْفَرِ. سَارَ الْمُغَنُّونَ فِي الطَّلِيعَةِ، وَضَارِبُو الأَوْتَارِ خَلْفَهُمْ، وَفِي الْوَسَطِ صَبَايَا يَضْرِبْنَ عَلَى الدُّفُوفِ
+            </Language>
+         </Text>      
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/psalmResponse/PsalmResponse"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Matthew 17:1-8" type="section"/>
+      <BibleReference reference="Mark 9:2-8" type="section"/>
+      <BibleReference reference="Luke 9:28-36" type="section" hideConclusion="true"/>
+   </Role>
+   
+   <InsertDocument path="include/GloryBeToGodForever"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Another Litany of the Gospel</Language>
+         <Language id="Arabic">أوشيه إنجيل أخرى</Language>
+      </Title>
+      
+      <InsertDocument path="include/AlternateLitanyOfTheGospel"/>
+   </Section>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm 64:1; 149:1</Language>
+            <Language id="Arabic">مزامير 64: 1, 149:1</Language>
+         </Title>
+      
+         <Text>
+            <Language id="English">
+               Hear my voice, O God, in my meditation; Preserve my life from fear of the enemy. Praise the LORD! Sing to the LORD a new song, And His praise in the assembly of saints. 
+            </Language>
+            <Language id="Arabic">
+               يَااللهُ اسْمَعْ صَوْتِي حِينَ أَشْكُو إِلَيْكَ أَمْرِي، وَاحْفَظْ حَيَاتِي مِنْ رَهْبَةِ عَدُوِّي. هَلِّلُويَا! رَنِّمُوا لِلرَّبِّ تَرْنِيمَةً جَدِيدَةً. تَغَنَّوْا بِتَسْبِيحِهِ فِي مَحْفَلِ الأَتْقِيَاءِ.
+            </Language>
+         </Text>      
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/psalmResponse/PsalmResponse"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="John 10:22-42" type="section" hideConclusion="true"/>
+   </Role>
+   
+   <InsertDocument path="include/GloryBeToGodForever"/>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Gospel Response</Language>
+         <Language id="Arabic">مرد الإنجيل</Language>
+      </Title>
+      
+      <Role id="People">
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/EvnotiNaiNan"/>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/PeaceShortSection"/>
+   <InsertDocument path="include/litanies/FathersShort"/>
+   <InsertDocument path="include/litanies/AssembliesShort"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/CreedPeople"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               The bishop then offers incense while saying the following prayer:
+            </Language>
+            <Language id="Arabic">
+               يبخر الأب الأسقف ويقول الطلبة الآتية:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">               
+               O Lord of Hosts, who gave us a share in this service, the giver of understanding to humans, the searcher of hearts and reins. Hear us according to the abundance of your compassion and purify us from the uncleanliness of both the flesh and spirit.  Clear the cloud of our sins and evil doings.  Fill us with Your power and the grace of Your only-begotten Son and the action of Your Holy Spirit.  Make us worthy of the service of this New Testament, so we can worthily exalt Your Holy Name, and stand to serve the priesthood of Your Divine Mysteries.  And do not let us take part in the sins that are foreign to us, but erase our own sins.  But grant us O our Master the ability to keep from doing the things which should not be done, and give us the knowledge to say what is fitting and to draw near to you.  Accept from us this sanctification and complete it with Your Grace so that we may be filled with Your heavenly gifts.  Because you are good, abundant in mercy, for all those who pray to You.  You are mighty in Your authority with Your Only-Begotten Son and the Holy Spirit, now and forever and unto the ages of all ages, Amen.
+            </Language>
+            <Language id="Arabic">
+               أيها الرب إله القوات الذى منحنا نصيب هذه الخدمة، المُعطى فهماً للبشر فاحص القلوب و الكلُى. اسمعنا من قبل كثرة تحننك، وطهرنا من كُل دنَسِ الجسد و الروح جميعاً. اقشع سحابة خطايانا وشرورنا مثل الضباب. املأنا من قوتك و نعمة ابنك الوحيد و فعل روحك القدوس، ونقف لخدمة كهنوت سرائرك الإلهية. ولا تدعنا نشترك فى الخطايا الغريبة عنا، بل امح خطايانا. وامنحنا يا سيدنا أن لا نعمل ما لا ينبغى، وَهِب لنا معرفة لنقول ما يجب ونقترب إليك. واقبل من هذا التقديس و كمِّله بنعمتك لنمتلئ بمواهبك السمائية. لأنك صالح كثير الرحمة لكل من يدعوك. وأنت قوى السلطان مع ابنك الوحيد و الروح القدس. الآن وكل أوان وإلى دهر الدهور، آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               O Master, the Pantocrator, the God of all.  The Father of compassion and the God of all comfort.  You are the keeper of Your flock and shepherds.  You are the cause.  You are the helping power.  You are the supporter and the saving physician, you are the the strong fortress, and the hope of those who seek You.  You are the Grace, exaltation, hope, and resurrection.  We all look up to Your salvation that is befitting for all.  You are the ruler, the God of gods, the master of masters, and the King of kings.  You gave authority to those whom you have fore-chosen by Your Grace to bind and to loose.  You are the wisdom of those who praise in the church of Christ, this which You have kept as a beautiful bride.  For You are the most gracious, the Pantocrator (Almighty), and the everlasting God.  For Yours is the Kingdom, the Power, and the Glory o You the Father, Son and Holy Spirit now and forever and unto the ages of all ages, Amen.  
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الضابط الكل رب الجميع. أب الرأفات وإله كل عزاء. أنت حافظ قطيعك ورعاته. أنت العِلَّة. أنت القوة المُعينة. أنت المؤازر والطبيب المُنجِّى، والحصن المنيع، ورجاء الذين يلتجئون إليك. أنت النعمة و السمو و الرجاء و القيامة. ونحن كلنا متطلعون لخلاصك الموفق للجميع. أنت الرئيس ورب الأرباب و سيد السادة وملك الملوك. أنت الذى أعطيت السلطان للذين سبقت وعينت أن تجلسهم بنعمتك ليربطوا ويحلوا. أنت حكمة الذين يسبحونك فى كنيسة المسيح هذه التى حفظتها مثل العروسة الحسنة. لأنك الأكرم وضابط الكل. الله الدائم و لك الملك والقوة والمجد أيها الآب والابن والروح القدس. الآن وكل آوان وإلى دهر الداهرين. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">
+               Let us all cry out saying, Lord have mercy.
+            </Language>
+            <Language id="Arabic">
+               اسمحوا لنا جميعا نصرخ قائلين ياربُّ ارحَم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">          
+         <Comment>
+            <Language id="English">
+               The bishop prays this supplication and the congregation replies with <span class="Coptic">Kurie~ e~le/~con</span> after each prayer:
+            </Language>
+            <Language id="Arabic">
+               يصلي الأب الأسقف هذه الطلبة  ويجاوبه الشعب بعد كل ربع: "يارب ارحم"
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">               
+               O Lord God the Pantocrator Who dwells in the Heavens, the God of Our Fathers. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أيها الرب الله ضابط الكل، الساكن فى السموات، إله آبائنا. نسألك أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us ask Him for the safety, love, uprightness of the whole world, and the oneness of all the holy churches. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               فلنسأله من أجل سلامة وألفة وأستقامة العالم كله، ووحدة جميع الكنائس المقدسة: نسألك أن تسمعنا وترحمنا. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us pray to God to protect us with his holy powerful hand, to cover us and save us from all evil, and repose the souls of those who have fallen asleep in the faith, mercy and will of Christ our God. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا من الرب أن يحرسنا بيه المقدسة العزيزة، ويستر علينا و يُخلِّصنا من كل شر، وينيح أنفس الذين سبقوا ورقدوا فى الأمانة و الرحمة ومشيئة المسيح إلهنا. ونحن نسأل الرب أن يسمعنا و يرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us pray that Christ may forgive us our sins, save us from every hardship, tribulation, temptations and the rising up of enemies. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا لكى يغفر المسيح لنا خطايانا، وينقذنا من كل شدة و ضائقة و صعوبة وتجربة وقيام الأمم الأعداء. نسألك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us pray for the salvation of this city and every Orthodox city, and every village of the pure believers and its inhabitants. We ask you O Lord to hear us and have mercy upon us. 
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن خلاص هذه المدينة وكل مدن الأرثوذوكسيين، وكل كور المؤمنيين الأنقياء وساكنيها. نسألك يارب أسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us pray for the forgiveness of our sins, those which we have committed willingly and unwillingly, for the acceptance of our prayers, and for the descent of God’s mercy and compassions on all of us. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن غفران خطايانا، التى صنعناها بإراداتنا وبغير إرادتنا. وعن قبول طلباتنا. وعن حلول رحمة ورأفات الله علينا كلنا. نسألك يارب أسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">               
+               Let us pray for the descent of the Holy Spirit upon this new church, so that He may sanctify it to be a place for offering prayers to the Lord, the God of Glory. We ask you O Lord to hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن حلول الروح القدس على هذه البيعة الجديدة، ليقدسها موضعاَ لتقديم الطلبات للرب إله المجد ونحن. نسألك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               The congregation then chants <span class="Coptic">Kurie~ e~le/~con</span> 100 times.
+            </Language>
+         </Comment>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy100"/>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Special prayers are then offered by the bishop:
+            </Language>
+            <Language id="Arabic">
+               يصلي الأب الأسقف الصلاة الآتية:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">              
+               O You the eternal, the one with no beginning, who is of one essence with God the Father, God the Logos, the performer of miracles and wonders in the law and prophets.  The one who ordered Moses to make the tabernacle according to the type that he had seen.  In the New Testament You ordered Peter Your disciple as it was revealed to him.  He confessed saying that You are Christ the living Son of God.  You answered Him with Your pure mouth saying, “Blessed are you Simon, Bar-Jonah, flesh and blood have not revealed these things to you, but my Father who is in heaven.  Therefore you are Peter and on this Rock I will build my Church and the gates of Hades shall not prevail against it.”  
+            </Language>
+            <Language id="Arabic">
+               أيها المساوى والأزلى والعديم البداية مع الله الآب، الإله الكلمة الفاعل فى الناموس والأنبياء و العهد القديم آيات وعجائب وقوات متنوعة. الذى أمر موسى أن يصنع القبة كالمثالات التى رآها. وفى العهد الجديد أمرت بطرس تلميذك كما أعلن له. واعترف قائلا أنك انت المسيح ابن الله الحى. فأجبته بفمك الطاهرقائلا: طوبى لك ياسمعان بن يونا، إن لحماً ودماً لم يُظهِر لك هذا، لكن أبى الذى فى السموات. فلهذا: أنت بطرس، وعلى هذه الصخرة أبنى كنيستى، وأبواب الجحيم لن تقوى عليها.
+            </Language>
+         </Text>
+
+         <Text>
+            <Language id="English">              
+               You now also the Lover of Mankind, God the searcher of hearts and reins, the priest in the Old and the New, the sanctifier of every place, the perfector of the economy of our salvation, save our souls, bodies and spirits.  Make us worthy of Your Grace so that we may worship You in a spiritual manner, all the times of our life.  Praising and blessing Your name O You the Savior of our souls, with Your good Father and the Holy Spirit, now and forever and unto the ages of all ages, Amen.  
+            </Language>
+            <Language id="Arabic">
+               أنت الآن أيضاَ يامحب البشر الله الفاحص القلوب والكُلى، الكاهن فى العهد القديم والجديد، ومقدِّس كل مكان، ومُكمِّل كل التدابيرمن أجل خلاصنا، أنقذ أنفسنا وأجسادنا وأرواحنا. وأجعلنا مستحقين لرضاك لكى نتعبد لك فى كل زمان حياتنا، تعبداً روحياَ. مُسبحين ومباركين اسمك يا مُخلص نفوسنا، مع أبيك الصالح والروح القدس، الآن...
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               One of the priests prays the following supplication while the congregation replies with <span class="Coptic">Kurie~ e~le/~con</span> after each verse.
+            </Language>
+            <Language id="Arabic">
+               ويجاوبه الشعب بعد كل ربع: "يارب ارحم".
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">              
+               Save Your people.  Bless Your inheritance.  Look and visit the world with mercies and compassions.  Raise the state of Christians with the power of Your honorable and life-giving Cross.  Erase the book of our sins.  Do not forsake us as we entreat Your holy name. But hear us according to Your compassion O God our Savior and have mercy on us.  
+            </Language>
+            <Language id="Arabic">
+               خلص شعبك. بارك ميراثك. انظر و افتقد العالم بالمراحم والرأفات. ارفع شأن المسيحيين بقوة صليبك المُكــرَّم المحيي. وامح كتاب خطايانــا. لا تتخل عنا إذ نتضرع لاسمك القدوس. بل اسمعنا كرأفتك يا الله مُخلصنا و ارحمنا. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">              
+               Send Your Holy Spirit to purify us, and to sanctify this place so that it may be a Holy Sanctuary to You, and the church to Your people the believers so that they may pray in it day and night.  In it will be offered to You the rational bloodless sacrifice for the salvation of the Christian nation.  Keep us all with Your mighty hand and powerful arm.  Cover us all with Your Divine protection.  Hear us O God our Savior and have mercy on us.  
+            </Language>
+            <Language id="Arabic">
+               أرسل روحك القدوس علينا ليطهرنا، ويُقدِّس هذا المكان ليكون هيكلاً مقدساً لك، وبيعة لشعبك المؤمن ليصلوا فيه نهارا وليلاً، وتُقَـــدَّم لك فيه الذبيحة الناطقة غير الدموية عن خلاص الأمة المسيحية. احفظنا كلنا بيدك العزيــــزة وذراعك العالى. احرسنا جميعاً بسترك الإلهى. واسمعنا يا الله مخلصنا و ارحمنا. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">              
+               Keep our archpriest and great shepherd Pope Abba (...), keep him well and away from all evil, and our honored bishop Abba Youssef and the bishops, hegomens, priests, deacons, and all the orders of the church and all the orthodox congregation that is gathered here with us today in this blessed and holy place, and those who are in the whole world.  Make them all worthy of Your eternal kingdom.  Hear us O God our Savior and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+                احفظ رئيس كهنتنا وراعينا العظيم البابا الأنبا (...) معافى بغير شرٍ، وأسقفنا المكرَّم الأنبا (...) والآباء الأساقفة والقمامصة والقسوس والشمامسة وكل طغمات الكنيسة والشعب الأرثوذكسى كله المجتمع معنا اليوم فى هذا الموضع المبَارَك والمُقدَّس، والذين فى المسكونة كلها. واجعلهم مستحقين كلهــــم لملكوتك الأبدية. واسمعنا يا الله مخلصنا و ارحمنا.      
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">              
+               Through the intercessions of the Mother of God, the Ever-Virgin, the pure St. Mary, and the supplications of the pure Archangels Michael, Gabriel, Raphael, and Souriel, St. John the Baptist and Forerunner, St. Stephen the archdeacon and proto-martyr, our blessed father St. Mark the beholder-of-God the evangelist and martyr.  And all the choir of Your saints.  Yes O Lord hear us we the weak sinners.  We ask you to hear us and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+               بشفاعة والدة الإله العذراء كل حين القديسة الطاهرة مريم، وطلبات رؤســاء الملائكة الأطهار ميخائيل و غبريال و رافائيل وسوريال، والقديس يوحنا السابق المُعمِّد، والشهيد استفانوس رئيس الشمامسة وأول الشهداء، وأبينا الطوباوى مرقس ناظر الإله الإنجيلى و الشهيد. وجَميع مصاف القديسيين. نعم يارب استجب لنا نحن الخطاة الضعفاء. ونطلب اليك أن تسمعنا وترحمنا. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Special prayers are then offered by the bishop:
+            </Language>
+            <Language id="Arabic">
+                يصلي الأب الأسقف الصلاة الآتية:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">              
+               O Master Lord God the Pantocrator, the one who is in heaven, the God of every thing, He who is visible and invisible, He who is in heaven, on earth and under the earth.  The one Who fills all the world with churches, in which the believers serve You, as the victorious glorify You in the divinely arrayed churches.  O Father, Son, and Holy Spirit, Amen.
+            </Language>
+            <Language id="Arabic">
+               السيد الرب الله ضابط الكل، الذى فى السماء، وإله كل الأشياء مايرى وما لايرى ما فى السماء وماعلى الأرض وماتحت الأرض. الذى ملأ كل العالم بالبِيَع، التى يخدمك فيها المؤمنـون، كما يُمجدك الأبكار فى الكنائس النورانية. أيها الآب والابن الوحيد والروح القدس. آمين.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+          
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               We ask and entreat You the Lover of Mankind, to please come now and bless this house, sanctify it to be a holy church for Your name which is honored in every thing.  So that those who cry out to You in it with their virtuous prayers and serve You with purity, and offer to You offerings and vows mixed with the odor of incense, ask for healing, are granted salvation and are worthy of the forgiveness of sins, find the light of Your knowledge, are clothed with incorruption, are chastised in it without envy and learn humility, are filled with Your Holy Spirit, that they leave behind sorrow and doubt, are granted joy and faith, perform all good works with purity, and through all these things their names will be written in the kingdom of heaven.  So that all nations may see Your power that is in effect in Your church at all times.  That they may bow down, worshipping in confidence, and say that God is truly in us.
+            </Language>
+            <Language id="Arabic">              
+               نطلب ونتضرع إليك يا محب البشر، الآن تفضل وبارِك هذا البيت، وقدِسه بيعةً مقدسةٌ لاسمك الكريم فى كل شئ. لكى يفوز الذين يصرخون إليك فيه بطلباتهم الصالحة وليخدموك فيه بالطُهرِ، ويقدموا لك قرابيناً و نذوراً ممزوجة برائحة البخور، ويسألوا الشفاء وينالوا الخلاص ويستحقوا غفران الخطايا، ويجدوا نور معرفتك، ويلبسوا عدم الفساد، ليؤدَّبوا فيه  بغير حسدِ ويتعلموا الاتضاع، ويمتلئوا بروحك القدوس، ويتركوا عنهم الحزن والشك، وينالوا الفرح والايمان، ويصنعوا كل عملٍ صالحٍ بطهارةٍ ، وبذلك يُكتَبون فى ملكوت السموات. لترى الأمم قوتك الفاعلة فى بيعتك كل حين. ويخروا ساجدين مطمئنين ويقولوا: حقاً أن الله فينا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+          
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Yes O Master, hear us, as we ask You to complete our prayers we the sinners, and fulfill the promise of Your Holy Spirit, that He may come and dwell in this place, visit, work, cast out, and controls all things said and done therein.  Through Your Only Begotten Son, Our Lord God and Savior Jesus Christ.  
+            </Language>
+            <Language id="Arabic">              
+               نعم أيها السيد اسمعنا إذ نسألك أن نُكمل طلباتنا نحن الخطاة، ولنُكمَّل مواعيد روحك القدوس، وليحل فى هذا المكان. وليتعهد ويعمل ويطرد ويعتنى بكل كلام وبكل شئ يُصنَع فيه بابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsEntreat"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/PeaceBeWithAll"/>
+      </Role>
+      
+      <InsertDocument path="include/AndWithYourSpirit"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               The Master Lord the Pantocrator, king and Savior, creator of all, who through our nature has granted us to fight by the action of good deeds.  And knowingly we succeed in our lives so that we may be saved and have rest in our sleep through Your wisdom.  And escape from the struggles and passions.  Accept us to You we who are ready to praise Your name, complete our short-comings with Your Covenant, You who have given the Spirit of Wisdom to Bezalel so that he would prepare the Tabernacle for Your Holy Blessed Name during Your people’s past sojourn in the wilderness.  
+            </Language>
+            <Language id="Arabic">              
+               السيد الرب الضابط الكل، الملك المخلص، الخالق جابل كل شئ. الذى من قـِبَــل طبيعتنا منحتنا أن نُقاتل بفعل الأعمال الصالحة. وبمعرفة نفلح فى حياتنا لنخلص ونستريح فى رقادنا بحكمتك. ونهرب من الأتعاب والأوجاع. اقبلنا نحن المستعدين لنُسبح اسمك، وكَمِّل نقصنا بعهدك، يا من أعطى روح حكمة لبصلئيل ليهيئ القبة من أجل اسمك القدوس المُبارَك فى غربة شعبك قديماً فى البرية.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Now O our Master we ask You O Lover of Mankind (Philanthropic one) to sanctify and confirm this house to be steadfast in the prayers which they offer to You in it, in Your holy blessed name.  Accept all that is offered by Your people that they may share in the delightful reward that is felt by Your sincere priests who offer You praise.  We offer up to You the glory, the honor, O Father, Son and Holy Spirit now and forever and ever, Amen.  
+            </Language>
+            <Language id="Arabic">              
+               أنت الآن أيها السيد نسألك يا محب البشر، أن تُقدِّس وتُثبِّت هذا البيت ليكون مستقيماً فى الصلوات التى يقدمونها لك فيه على اسمك القدوس المبارك. اقبل كل شئ لينالوا ما يتمتع به كهنتك المُخلِصون فى تسابيحهم. ونرسل إليك الى فوق المجد والاكرام أيها الآب والابن والروح القدس. الآن وكل آوان والى دهر الداهرين. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/WorshipGodInFear"/>
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               The grace of our holy God, which strengthens our weakness and completes our shortcomings, which unites the separated and cares for all churches everywhere.  This grace, which chose and prepared for us this place to be a holy church for our Almighty God, complete in it all the ranks of the archpriesthood and this bloodless sacrifice with the odor of incense.  Glory and honor to the giver-of-life, the Holy Trinity: the Father, the Son, and the Holy Spirit.    
+            </Language>
+            <Language id="Arabic">              
+               نعمة الله القدوس المُقوية لضعفنا، المُكمِّلة لنقصنا، التى توحد المتفرقيين، وتهتم بكل الكنائس فى كل مكان. هى التى اختارت وأعدت لنا هذا الموضع بيعة مقدسة لله العلى. لتكمِّل فيها الرتب الكهنوتية العلوية، والذبيحة غير الدموية برائحة البخور. مجدا وإكراما لمعطى الحياة الثالوث القدوس: الآب والابن والروح القدس. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">              
+               O people who are gathered here, participate with us in front of God the Lord with prayers and supplications with a pure heart, with fear and trembling so that the Holy Spirit may ascend on us and ascend on this holy place and purify it.      
+            </Language>
+            <Language id="Arabic">              
+               أيها المجتمعون ههنا، اشتركوا معنا أمام الرب الاله، بالصلوات والطلبات بقلب نقى، وخوف وخشوع، لكى يحل علينا الروح القدس، ويحل على هذا الموضع المقدس ويطهره.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Grant us O our King the grace of this service as You granted to Your servant Moses and ordered him to build the Tabernacle and the Ark of Covenant from the example shown to him along with Aaron whom You chose to serve You as priest, and Bezalel who decorated the Tabernacle.          
+            </Language>
+            <Language id="Arabic">              
+               امنحنا نحن يا ملكنا نعمة هذه الخدمة. كما أعطيتها لموسى عبدك. وأمرته أن يصنع القبة والتابوت، كرسم المثال الذى أريته إياه و أريته لهارون الذى اصطفيته كاهناً لكى يخدمك ولبصلئيل الذى زيَّن القبة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">              
+               As You accepted the supplication of Soliman and his prayer in the altar which he built, completing the covenant You promised to David the king.  And as You granted the blessed apostles the grace and mystery of the new covenant.  Also we Your undeserving servants, accept unto You our supplication for the sake of this holy house.  Shine on it with Your bright rays, sanctify and fill it with Your divine glory to be a house of blessings and praises.  Glory be to Your holy name.          
+            </Language>
+            <Language id="Arabic">              
+               وكما سمعت طلبة سليمان وصلاته فى الهيكل الذى بناه إتماماً للعهد الذى قطعته لداود الملك. وكما أعطيت الرسل الطوبانيين نعمة وسرائر العهد الجديد. هكذا نحن عبيدك غير المستحقين، اقبل إليك طلباتنا من اجل هذا البيت المُقدس. أضئ عليه بأشعة نورك، قدِّسه واملأه من مجد لاهوتك ليكون بيت بركة وتسبيح. مجداً لاسمك القدوس.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">              
+               Stand well, stand with trembling, stand stunned with the fear of God, in calmness saying: Lord have mercy.
+            </Language>
+            <Language id="Arabic">
+               قفوا حسنا، قفوا برعدة، قفوا بخوف الله وخشوع وهدوء قائلين: يارب ارحم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Yes we ask You O Lord our God, look upon us we Your undeserving servants.  We ask you to hear us and have mercy and upon us.          
+            </Language>
+            <Language id="Arabic">              
+               نعم نسألك ايها الرب الاله انظر إلينا نحن عبيدك غير المستحقين. نسألك أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               The congregation replies with the following in the tune of the Cyrillian liturgy:
+            </Language>
+         </Comment>
+      </Role>
+      
+      <InsertDocument path="include/HaveMercyUponUsPantocrator3"/>
+      
+      <Role id="Bishop" silent="true">
+         <Text>
+            <Language id="English">              
+               Have mercy O God and have mercy.  May Your compassion speedily reach us.  Send to us from Your holy heaven and from Your prepared dwelling, the Holy Spirit the Paraclete, the giver-of-life the strong hypostasis, who speaks through the Law and the Prophets, the Being in every place, who fills all, the doer with His authority through His nature, who is the fountain of all divine gifts, who is equal with You, proceeding from You, Who is a partner with You on the throne of Your glorious kingdom, and Your Only-Begotten Son Jesus Christ.  May He descend on us Your servants and this place which is built for You so that He may sanctify it and purify it.  Glory and Honor to Your Holy Name.            
+            </Language>
+            <Language id="Arabic">              
+               ارحمنا يارب ارحمنا. لتسبق رأفتك وتدركنا سريعاً. أرسل لنا من سمائك المقدسة. ومن مسكنك المستعد البارقليط روح القدس، الأقنوم القوى المحيي الناطق فى الناموس و الأنبياء، الكائن فى كل مكان والمالى الكل، الفاعل بسلطانه فى طبيعته، الذى فى كل مايعمله ينبوع المواهب الالهية، المساوى معك، المنبثق منك، المُشارك لك فى كرسى ملك مجدك وابنك الوحيد يسوع المسيح. ليحل علينا نحن عبيدك، وعلى هذا الموضع الذى بُنى لك لكى يقدِّسه و يطهره. مجدا وإكراما لاسمك القدوس.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/ForYourPeopleCyril"/>         
+      </Role>
+      
+      <InsertDocument path="include/HaveMercyUponUsSavior3"/>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               The bishop prays the following litanies and the congregation responds with “Amen” after each:
+            </Language>
+            <Language id="Arabic">              
+               يصلي الأب الأسقف الطلبات الآتية:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">              
+               This place which has been built for You: make it O God a holy altar, Amen.         
+            </Language>
+            <Language id="Arabic">              
+               هذا الموضع الذى بُنى لك اجعله يارب هيكلاً مقدسا. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+     
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Pure church, Amen.
+            </Language>
+            <Language id="Arabic">              
+               بيعة طاهرة. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               House for Salvation, Amen.
+            </Language>
+            <Language id="Arabic">              
+               بيتاً للخلاص. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               House for forgiveness, Amen.
+            </Language>
+            <Language id="Arabic">              
+               بيتاً للغفران. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Altar for believers, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مذبحاً للمؤمنيين. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Heavenly Altar, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مذبحاً سمائيا. آمين 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A dwelling for the angels, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مجمعاً للملائكة. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A harbor of refuge, Amen.
+            </Language>
+            <Language id="Arabic">              
+               ميناءً للنجاة. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A pure tabernacle, Amen.
+            </Language>
+            <Language id="Arabic">              
+               قبة طاهرة. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A dwelling for Christ, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مسكناً لمسيحك. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A place for the Cherubim, Amen.
+            </Language>
+            <Language id="Arabic">              
+               محلا للشاروبيم. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A trumpet for the Seraphim, Amen.
+            </Language>
+            <Language id="Arabic">              
+               بوقاً للسارافيم. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A place of rest for martyrs, Amen.
+            </Language>
+            <Language id="Arabic">              
+               راحة للشهداء. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               A landing for Your heavenly gifts, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مَهبطا للمواهب السمائية. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Purification of sins, Amen.
+            </Language>
+            <Language id="Arabic">              
+               مُطهرا للخطايا. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Washing of transgressions, Amen.
+            </Language>
+            <Language id="Arabic">              
+               غسلاً للاثام. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Purification for the souls, Amen.
+            </Language>
+            <Language id="Arabic">              
+               نقاءً للنفوس. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               Healing of corrupt knowledge, Amen.
+            </Language>
+            <Language id="Arabic">              
+               شفاء للمعرفة. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               And an invitation to all for the joyful wedding and heavenly banquet, Amen.
+            </Language>
+            <Language id="Arabic">              
+               داعيا كل أحد الى العرس البهيج والوليمة السمائية. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">              
+               In order that those who seek You will come to this place to receive the light through the washing of the new birth.  And that those who are lost through their sins may come seek You in this place and ask You, O our King, for the forgiveness of their sins.  And all who worship Your holy name in it and complete the heavenly spoken sacrifice which is the (p. 133) holy Eucharist, so that they may partake in the purified shares and that they may be under Your mighty hand to guard them from all the opposing powers so with this they may glorify, bless, and exalt Your honored holy name in every thing O Father, Son, and Holy Spirit, now and forever and unto the ages of all ages, Amen.
+            </Language>
+            <Language id="Arabic">              
+               لكى يُدعى فيه المُقبلون إليك ليأخذوا النور الذى بحميم الميلاد الجديد. والذين ضلّوا بالخطية ويأتون إليك فيه ويسألونك ياملكنا مغفرة خطاياهم. كل الذين يسجدون لاسمك القدوس فيه ويكملون الذبيحة الناطقة التى هى سرائرك المقدسة، لكى يشاركوا نصيب الاطهار ويكونوا تحت يدك العزيزة لتحرسهم من كل القوات المضادة لكى بهذا يتمجد ويتبارك ويرتفع اسمك الكريم القدوس فى كل شئ أيها الآب والابن والروح القدس، الآن...
+            </Language>
+         </Text>
+      </Role>  
+   </Section>
+   
+   <Role id="People">
+      <InsertDocument path="include/AsItWasBasil"/>
+         
+      <Section>
+         <Title>
+            <Language id="English">As It Was And Is</Language>
+            <Language id="Arabic">كما كانَ فهو كائنٌ</Language>
+            <Language id="Coptic">Wcper /n ke ectin</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               The following response, from the liturgy of St. Gregory, may be said instead.     
+            </Language>
+            <Language id="Arabic">
+               أو يقال المرد التالي عوضاً عن السابق:     
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/gregorian/AsItWas"/>
+      </Section>
+   </Role>
+   
+   <Role id="Bishop">
+      <InsertDocument path="include/GloryAndHonor"/>
+   </Role>    
+   
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   
+   <Role id="Bishop">
+      <InsertDocument path="include/OneIsTheHoly"/>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            <ul>
+               <li>The consecration ceremony continues, with the priests carrying the containers of water, crosses, candles, the censers, incense, and the Gospel holder. They proceed in front of the bishop chanting the hymns.</li>   
+               <li>The bishop throws the water first to the window located near the icon of the bosom of the Father (or the Eastern wall in the Sanctuary).</li>
+               <li>The procession proceeds around all the walls of the church with the bishop anointing them with water saying: “Holy consecration for the house of God.”</li>
+               <li>The bishop takes the container of Holy Myron and anoints the window on the eastern wall in front of the altar inside the Sanctuary in the sign of the Cross with his thumb and says: “We consecrate this place, a catholic church, in the name of (name of the church) in the name of the Father, Son, and Holy Spirit.”</li>
+               <li>The same is done for all the church windows, the bases, the corners, and the columns while saying: “Blessed be the Lord from now and forever, Amen.”</li>
+            </ul>
+         </Language>
+      </Comment>
+   </Role> 
+</Document>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">Concerning The Appointment of a Deacon</Language>
+      <Language id="Arabic">من أجل إقامة شماساً</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Comment>
+      <Language id="English">
+         The person who is to be brought as deacon shall be chosen from the clergy because they are trustworthy for this ministry.  He shall be brought to the bishop and they shall give testimony about him.  He will be placed without vestment before the altar.  The bishop shall offer incense and say the Thanksgiving and the Prayer of Incense.  
+      </Language>
+      <Language id="Arabic">
+         إذا اختير الذي يقدم شماساً من الكهنة أنه مستحق لهذه الخدمة يقدمونه للأسقف ويشهدون له. ويقام بغير تونية أمام المذبح مقابل الأسقف ويحني ركبته اليمين على درج المذبح. ويرفع الأسقف البخور ويقول صلاة الشكر. وصلاة البخور.
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+          
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Then say this prayer:  
+            </Language>
+            <Language id="Arabic">
+               ويقول هذه الصلاة ووجهه للشرق.    
+            </Language>
+         </Comment>
+          
+         <InsertDocument path="consecrations/ordinations/include/Deacon.1"/>
+      
+         <Text>
+            <Language id="English">
+               and accept as a deacon and make perfect this Your servant (...) who is here present and awaits Your heavenly gift; for You are kind and very merciful toward all who call upon You, and strong is Your power and that of Your only Son and of Your most-holy Spirit, both now …     
+            </Language>
+            <Language id="Arabic">
+               واقبل إليك شمامسية عبدك (فلان) الواقف ههنا منتظر موهبتك السمائية. لانك صالح وكثير الرحمة لكل الذي يدعونك وقوى هو سلطانك مع ابنك الوحيد والروح القدس الآن.. الخ
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               The grace of our Lord Jesus Christ which fills our deficiencies from the beneficence of God the Father and the Holy Spirit shall be upon (...), who has approached the holy altar in fear and trembling, prostate and lifting the eyes of his heart to heaven, to You who are in heaven, awaiting Your heavenly gift, so that he might pass from the rank of the subdeaconate into the order of the deaconate in the holy church of (...). Pray, all of you, that the Holy Spirit might come upon him as we say all together, “Lord, have mercy.”       
+            </Language>
+            <Language id="Arabic">
+               نعمة ربنا يسوع المسيح المكملة لنقصنا بمسرة الله الأب والروح القدس تحل على (فلان) هذا الذي دخل المذبح المقدس بمخافة ورعدة منحنياً ورافعاً عيني قلبه إليك يا ساكن السماء منتظراً مواهبك السمائية. لكي ينتقل من رتبة الأبوذياكونية إلى طقس الشمامسية في الكنيسة المقدسة (الفلانية) صلوا كلكم لكي تحل عليه موهبة الروح القدس بقولنا أجمعين يا رب ارحم. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Turn to the west, place your right hand on his head, and say this prayer of invocation:
+            </Language>
+            <Language id="Arabic">
+               تلتفت إلى الغرب وتضع يمينك على رأسه وتقول هذه الصلاة: 
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Our Master, Lord God, the Almighty, true and faithful in Your promises, who are rich in all things to those who pray to You, hear us as we entreat You.  Make Your face shine on Your servant (...), who has been given to the deaconate by a vote and judgment of those who have brought him into the midst.  Fill him with the Holy Spirit and wisdom and power, as You filled Stephen the protodeacon and protomartyr, imitator of the sufferings of Christ.  Comfort him with Your grace.  Establish him as a minister of Your holy altar so that, having ministered as pleases You, blamelessly and irreproachably, in the deaconate with which he has been entrusted, he might be worthy of a higher rank.  For it is not by our hands that grace is given, but by the visitation of Your rich mercy it is given to those who are worthy of it.  As for me, cleanse me from all sins of others, free me from those which are my very own, through the mediation of Your only-begotten Son, our Lord and our God and our Savior, Jesus Christ, who…      
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الإله ضابط الكل الحقيقي الصادق في مواعيده الغني في كل شيء لكل الذين يدعونك. اسمعنا إذ نسألك أظهر وجهك على عبدك (فلان) الذي دفع للشمامسية بالشركة وحكم الذين قدموه في الوسط. أملأه من روح القدس والحكمة والقوة كما ملأت استفانوس أول الشمامسة ورأس الشهداء المتشبه بأوجاع المسيح. زينه بنعمتك وأقمه خادماً لمذبحك المقدس لكي إذا خدم كما يرضيك في الخدمة التي أؤتمن عليها بغير لوم ولا خطية ليستحق درجة عالية فاضلة: وليس النعمة تعطى بأيدينا بل بافتقاد رأفتك ذات الغنى التي تعطى لمن يستحقها. وأنا ايضاً طهرني من كل خطية غريبة واعتقني من خطاياي بنعمة ابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح هذا الذي.. الخ 
+            </Language>
+         </Text>
+      
+         <Comment>
+            <Language id="English">
+               The bishop says this prayer facing the altar:
+            </Language>
+            <Language id="Arabic">
+               يقول الأسقف هذه الصلاة ووجهه إلى المذبح:  
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Yea, Lord, make him worthy of the calling of the deaconate, so that he may deserve through Your kindness, as befits Your holy name, to labor and serve in the temple of Your glory, and find mercy before You;      
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب اجعله مستحقاً لدعوة الشمامسية لكي باستحقاق من جهة محبتك للبشر يستحق اسمك القدوس. ويتعبد لك ويخدم مذبحك المقدس. ويجد رحمة أمامك 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               for You are a merciful and compassionate God, and to You is due glory, honor, and dominion, and to the Son and to the Holy Spirit.      
+            </Language>
+            <Language id="Arabic">
+               لأن الرحمة والتحنن عندك. وبك يليق المجد أيها الأب والابن والروح القدس. الآن الخ  
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Turn to the east toward the altar.  Say this prayer:
+            </Language>
+            <Language id="Arabic">
+               تلتفت إلى الشرق على المذبح وتقول هذه الصلاة:    
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="consecrations/ordinations/include/Deacon.2"/>
+         
+         <Comment>
+            <Language id="English">
+               Turn to the west. Sign his forehead with your thumb, saying: 
+            </Language>
+            <Language id="Arabic">
+               تلتفت إلى الغرب وترشم جبهته بابهامك وتقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We ordain (...) deacon for the altar which has been named for its orthodoxy in the church of the city of (...), in the name of the Father and of the Son and of the Holy Spirit. Amen. We ordain you, (...), in the Church of God. Amen.         
+            </Language>
+            <Language id="Arabic">
+               أقسمنا فلان شماساً على المذبح المسمى على الكنيسة الأرثوذكسية بالمدينة الفلانية.  بسم الأب والابن والروح القدس آمين.  ندعوك يا (فلان) في بيعة الله آمين. 
+            </Language>
+         </Text>
+    
+         <Comment>
+            <Language id="English">
+               Make three crosses on his face, naming the Trinity. Turn to the east. Pray thus: 
+            </Language>
+            <Language id="Arabic">
+               ترشم ثلاثة صلبان على وجهه باسم الثالوث ثم تلتفت إلى الشرق وتصلى هكذا:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We give thanks to You, our Almighty Lord, and we praise and glorify Your holy name, because You have deigned to do with us, and poured out Your gift on this Your servant. Again we ask and beseech You, O Lord, hear us according to the multitude of Your mercies, and may this ordination to the deaconate be pleasing to You which has been performed on this Your servant through the coming of Your most-holy Spirit.  To the calling, add also the election, the sanctity, and grace of Your goodness; and choose us and him for good, and grant to him that he may labor for You in the talent which he has received;      
+            </Language>
+            <Language id="Arabic">
+               نشكرك أيها السيد الرب الإله الضابط الكل من أجل كل شيء ونسبح ونمجد أسمك القدوس. لانك صنعت معنا عظائماً: نسأل ونطلب إليك يا محب البشر الصالح اسمعنا من قبل تحننك وسر على الشرطونية (وضع اليد) التي صارت لعبدك من قبل حلول روحك القدوس عليه وقوم دعوة اختياره بالطهارة والنعمة التي لصلاحك. لانك دعوتنا معه إلى الصلاح لنعمل ونأخذ ربح الوزنة.  
+            </Language>
+         </Text>      
+   
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               so that with all who have done Your will he may receive the reward of faithful and wise deacons, at the second coming from heaven of our Lord, our God and our Savior, Jesus Christ, with whom glory, honor, and dominion are due to You, with Your good and most-holy Spirit…        
+            </Language>
+            <Language id="Arabic">
+               لكي ننال مع كل الذين عملوا مشيئتك منذ البدء أجر الوكيل الآمين الحكيم عند ظهور ربنا وإلهنا ومخلصنا يسوع المسيح . هذا الذي.. الخ  
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then the bishop turns and places the oration on his arm, saying:   
+            </Language>
+            <Language id="Arabic">
+               ثم بعد ذلك يلتفت الأسقف ويضع زناراً على كتفه الشمال ويقول:        
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Glory and honor to the holy, consubstantial Trinity, the Father and the Son and the Holy Spirit.  Peace and upbuilding to the one, holy, catholic, apostolic Church of God. Amen.         
+            </Language>
+            <Language id="Arabic">
+               مجداً وإكراماً للثالوث القدوس المساوي. الأب والابن والروح القدس. سلاماً وبنياناً للواحدة الوحيدة المقدسة الجامعة الرسولية كنيسة الله آمين.      
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <Role id="Bishop">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis</Language>
+            <Language id="Arabic">الوصية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               The work of ministry with which you have been entrusted, O my son, [is great].  It is necessary for you, therefore, to fulfill those things which have been assigned you to do, since you have been enrolled as a son of Stephen, the first deacon: to visit the people of the Lord, the widows and the orphans and the afflicted.  You shall gladden those whom you are able to help and supply their needs, being an example for them so that they might see your good works and emulate them from your behavior; following the bishop or the presbyter, informing him about the afflicted, so that he might visit them according to the canonical rules; honoring those higher than you in dignity—the presbyters, since they are as a father to you—so that you too might be worthy of the Blessed One who says, “Whoever will serve me my Father will honor”; as the holy apostle Paul also says, “Those who have served well, it is a good rank which they have acquired for themselves and a great confidence in the faith which is in Christ Jesus our Lord.” Know, therefore, the measure of the honor which has been given you and bear it, which is the true blood which was given for the salvation of the world, which was given into your hands for the glory of our God, Jesus Christ our Lord. Amen. 
+            </Language>
+            <Language id="Arabic">
+               هذا عمل خدمة قد ائتمنت عيه يا بني. يجب عليك أن تكمل ما قد رسم لك. وتصنعه إذ أنت معدود من أولاد استفانوس أول الشمامسة تفتقد شعب الرب. الأرامل والأيتام المتضايقين وتعين من تقدر تعينه وتسد فاقتهم وتكون لهم مثالاً لكي ينظروا أعمالك الحسنة ويحسدوا طريقتك وتكون تابعاً للأسقف والقسيس وتعرفهم بالمتضايقين ليفتقدوهم كالحد القانوني وتكرم الذين هم أعلى منك في الرتبة الذين هم القسوس. ويكونوا كالأباء لتستحق أنت الطوبى القائل ان الذي يخدمني يكرمه أبي وكما يقول أيضاً الرسول الطاهر بولس أن الذين يخدمون جيداً درجة صالحة تصنع لهم دالة عظيمة في الإيمان بالمسيح يسوع ربنا. أفهم مقدار الكرامة التي دفعت لك لتحملها الذي هو الدم الحقيقي المعطي خلاصاً للعالم الذي يسلم في يديك مجداً لإلهنا يسوع المسيح آمين. 
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            The bishop blesses him and gives him of the mysteries and lay hands on him three times, while the clergy proclaims three times: Worthy and depart with the peace of the Lord.
+         </Language>
+         <Language id="Arabic">
+            ثم يباركه أيضاً الأسقف ويناوله من السرائر ويضع عليه اليد ثلثة مرات وكل الشعب يقول مستحق ثلثه مرات وينصرفوا بسلام الرب.  
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Axioc axioc axioc...
+         </Language>
+         <Language id="English">
+            Worthy, worthy, worthy…
+         </Language>
+         <Language id="Arabic">
+            مستحق مستحق مستحق...
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            (...), a deacon of the holy Church of God. Amen. 
+         </Language>
+         <Language id="Arabic">
+            فلان شماساً في كنيسة الله المقدسة آمين.
+         </Language>
+      </Text>
+   </Role>
+</Document>

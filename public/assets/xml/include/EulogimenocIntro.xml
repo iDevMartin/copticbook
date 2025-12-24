@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/EulogimenocIntro.1"/>
+    
+   <Text>
+      <Language id="Coptic">
+         Ten er'alin enjw m~moc:
+      </Language>
+      <Language id="English">
+         Let us chant saying:
+      </Language>
+      <Language id="Arabic">
+         فلنرتل قائلين:
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/Alleluia3"/>
+   <InsertDocument path="include/GloryBeToOurGodAgain"/>   
+</Document>

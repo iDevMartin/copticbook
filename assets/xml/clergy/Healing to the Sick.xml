@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" PriestsOnly="true">
+   <Title>                  
+      <Language id="English">
+         Prayer During the Long "Lord Have Mercy"
+      </Language>      
+   </Title>
+   
+   <InsertDocument path="include/HealingToTheSick"/>
+</Document>

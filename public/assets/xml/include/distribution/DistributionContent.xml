@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Distribution of the Holy Mysteries</Language>
+      <Language id="Arabic">توزيع الأسرار</Language>
+   </Title>
+   
+   <Group>
+      <InsertDocument path="include/distribution/DistributionContent.1"/>
+            
+      <Season id="Other">
+         <InsertDocument path="include/distribution/PrePsalm150"/>
+         <InsertDocument path="include/psalm150/Psalm150"/>
+         
+         <Role id="People">
+            <Group>
+               <InsertDocument path="include/distribution/DistributionContent.2"/>
+               
+               <Season id="!KoiahkSeason ^ !GreatFast ^ !JonahFast ^ !Feasts">
+                  <Comment>
+                     <Language id="English">
+                        The following may also be said:
+                     </Language>
+                  </Comment>
+                  
+                  <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+                  <InsertDocument path="include/distribution/Pioik"/>
+                  <InsertDocument path="include/distribution/StMary"/>
+               </Season>          
+            </Group>
+            
+            <InsertDocument path="veneration/VenerationLink"/>
+            <InsertDocument path="include/distribution/Jefcmarwout"/>
+            <InsertDocument path="include/distribution/DistributionContent.3"/>
+                        
+            <Comment>
+               <Language id="English">
+                  Melodies for The Distribution may be chanted.     
+               </Language>
+            </Comment>
+            
+            <LinkDocument path="melodies/Melodies">
+               <Language id="English">
+                  Melodies
+               </Language>
+               <Language id="Arabic">
+                  مدائح
+               </Language>
+            </LinkDocument>
+            
+            <InsertDocument path="include/distribution/DistributionContent.4"/>
+         </Role>
+       </Season>
+    </Group>
+    
+   <InsertDocument path="include/agpeya/CommunionLink"/>
+   <InsertDocument path="include/distribution/PriestSilentPrayers"/>
+   
+   <Group>
+      <Season id="!CovenantThursday">
+         <Role id="Priest">   
+            <Comment>
+               <Language id="English">
+                  After the priest finishes this prayer and the washing of the sacred vessels, water is poured into the palms of his hands, of which he sprinkles a small amount onto the table, and he says the following.
+               </Language>
+               <Language id="Arabic">
+                  وبعد نهاية هذه الصلاة وغسل الآنية يُصَبُّ ماءٌ للكاهن في يديه، فيَرُشُّ منه قليلاً على المائدة ويقول هذا الربع:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Paggeloc n~te taiyucia: eth/l e~p~[ici nem paihumnoc: a~ripenmeui~ qat~h/ m~P[oic: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  O angel of this sacrifice, flying up to the highest with this hymn, remember us before the Lord, that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  يا ملاكَ هذه الصعيدةِ الطائر إلى العلو بهذه التسبحةِ، أذكرنا قدام الربِّ ليغفرَ لنا خطايانا.
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  The priest wipes his face with his hands, and he turns to his brethren the priests, above and below, making them partners with him by the touch of his hands, and whomsoever he has made partner with him, he wipes his face with his hands and they do likewise. Then he places his hand upon the heads of the people and blesses them. (This is now done through sprinking them with the holy water instead of laying the hand on each one).
+               </Language>
+               <Language id="Arabic">
+                  ثم يمسح وجهه بيديه ويلتفت إلى أخوته الكهنة فوق وأسفل ويشاركهم بيديه. وكل من شاركه يمسح هو بيديه على وجهه. وهم أيضاً يعملون كذلك. ثم يضع يده على رؤوس الشعب ويباركهم (ولكن هذا يكون حالياً عن طريق رشِّهم بماء مقدس بدلاً من وضع اليد على كلِّ واحد) ثم يعطيهم التسريح.
+               </Language>
+            </Comment>
+         </Role>
+         
+         <Group>
+            <Season id="HosannaSunday">
+               <LinkDocument path="pascha/sunday/General Funeral Prayer" useHistory="false">
+                  <Language id="English">
+                     General Funeral Prayer
+                  </Language>
+                  <Language id="Arabic">
+                     التجنيز العام
+                  </Language>
+               </LinkDocument>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     He then dismisses them and concludes with the blessing.
+                  </Language>
+                  <Language id="Arabic">
+                      ويختم ذلك بقراءة البركة.
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/conclusion/ConclusionOfService"/>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+</Document>

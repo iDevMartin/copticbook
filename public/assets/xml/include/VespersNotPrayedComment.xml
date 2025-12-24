@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(GreatFast | JonahFast) ^ ((VesperPraises ^ (Sundays | Mondays | Tuesdays | Wednesdays | Thursdays)) | (!VesperPraises ^ !Saturdays ^ !Sundays ^ !Mondays))">
+      <Comment forceVisible="true">      
+         <Language id="English">
+            Vespers and Vesper Praises are not prayed during Jonah's Fast or the weekdays of the Great Fast.
+         </Language>      
+      </Comment>
+   </Season>
+</Document>

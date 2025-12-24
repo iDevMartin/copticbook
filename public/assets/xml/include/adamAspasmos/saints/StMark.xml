@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMark:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">&lt;ere peniwt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mark:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt Markoc: Pie~uaggelict/c: Pirefjwr e~bol: n~te nii~dwlon
+            </Language>
+            <Language id="English">
+               Hail to our father Mark: The evangelist: The scatterer: Of the idols
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا مرقس الإنجيلي مبدد الأوثان.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

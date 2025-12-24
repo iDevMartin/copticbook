@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="LazarusSaturday">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere Lazaroc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Lazarus Saturday:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/gospelResponse/LazarusSaturdayLiturgy"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

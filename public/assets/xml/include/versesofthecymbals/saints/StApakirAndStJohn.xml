@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StApakirAndStJohn:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Apakir and St. John:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nimarturoc: ,ere niswij n~genneoc: ,ere nia~ylovoroc: Apakir nem Iwann/c pefcon.
+            </Language>
+            <Language id="English">
+               Hail to the martyrs: Hail to the courageous heroes: Hail to the struggle-mantled: Apakir and John his brother.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما  ايها الشهيدان. السلام للشجاعين البطلين . السلام للابس الجهاد. أباكير ويوحنا أخاه.
+            </Language>
+         </Text>      
+      </Season>
+   </Group>
+</Document>

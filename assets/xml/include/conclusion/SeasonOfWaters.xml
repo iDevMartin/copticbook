@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="SeasonOfWaters">
+      <Comment>
+         <Language id="English">
+            From 12 Paone to 9 Paope:
+         </Language>
+      </Comment>      
+      
+      <Text>            
+         <Language id="Coptic">
+            C~mou e~nimwou m~v~iarou: Mare peknai nem tekhir/n/ oi n~cobt m~peklaoc: Cw] m~mon ouoh nai nan:
+         </Language>
+         <Language id="English">
+            Bless the water of the rivers: May Your mercy and peace be a fortress unto Your people: Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            بارك مياه النهرو لتكن رحمتك وسلامك حصنا لشعبك خلصنا وارحمنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

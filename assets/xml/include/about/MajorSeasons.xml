@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+       
+      <Season id="Pentecost">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Prostration Prayer on the Feast of the Pentecost</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>The Prostration Prayer is prayed at the Ninth hour of the day of Sunday.</li>
+                     <li>
+                         The Prostration Prayer is composed of three prayers.
+                         <ol class="LowerAlpha">
+                            <li>The first and second prayers are prayed in the second chorus (section) of the church.</li>
+                            <li>The third prayer is prayed in the first chorus (section) with the veil of the sanctuary being opened.</li>
+                         </ol>
+                     </li>
+                     <li>The first prayer is prayed in the joyful tune.</li>
+                     <li>The second prayer is prayed in the joyful tune until the reading of the Gospel; the response to the Gospel and the rest of the prayer as well as the third prayer are prayed in the standard tune.</li>
+                     <li>During the prayers, a clay pot is placed in the second chorus (section) of the church and filled with coal and incense, commemorating the souls of the saints who have departed.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>  
+      </Season>
+      
+      <Season id="Nativity">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Feast of the Nativity</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>The Vespers prayers are prayed only if the feast falls on a Sunday or Monday, since the Paramoun would have fallen on a Saturday or Sunday respectively, and only the Agpeya prayers of the third and sixth hours would have been prayed.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Theophany">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Feast of the Theophany</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>The Vespers prayers are prayed only if the feast falls on a Sunday or Monday and thus the Parmoun would have fallen on a Saturday or Sunday, respectively, and only the Agpeya prayers of the third and sixth hours would have been prayed.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="JoyousSaturday">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Joyous Saturday</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>Note that communion is administered immediately before sunset (on Saturday) and hence there is no rite for the raising of the evening incense for the feast of the Resurrection, and since Joyous Saturday is the only Saturday that the church allows for fasting with abstinence.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="DayAfterTheophany">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Second day of Theophany (12 Tobe)</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  <ol>
+                     <li>If the second day of Theophany falls on a Wednesday or a Friday, neither strict abstinence, nor prostrations (Matonia) are observed.</li>
+                     <li>The services are conducted in the festive tune.</li>
+                     <li>The readings of the second day of Theophany are read, even if it falls on a Sunday.</li>
+                     <li>The rites of Vespers Praise and the Offering of Evening Incense are identical to the rite of the Feast of Theophany.</li>
+                     <li>
+                        The Midnight praises are conducted as usual in the festive tune with the following observations:
+                        <ol class="LowerAlpha">
+                           <li>The Commemoration of the saints is chanted in its entirety.</li>
+                           <li>The Exposition is read, followed by the Antiphonary, and then the praises are concluded as usual.</li>
+                        </ol>
+                     </li>
+                     <li>The rite of the Offering of Morning Incense is identical to the rite of the the Offering of Evening Incense of Theophany, observing that the litanies of the sick and the oblations are prayed instead of the litany of the departed.</li>
+                     <li>The rite of the liturgy is identical to the rite of the feast of Theophany, observing that the prayers of the third and sixth hours are prayed.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="DayAfterResurrection">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Day After the Resurrection</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  <ol>
+                     <li>The purpose of the evening raising of incense of the Resurrection (Sunday night), is the commemoration of the appearance of the Lord Christ to His disciples after His resurrection, on the evening of the same day, while they were gathered in the upper room and the doors are shut (Luke 24).</li>
+                     <li>The purpose of the liturgy on Monday, is the commemoration of the appearance of the Lord Christ to the two disciples on the road to Emmaus (Luke 24)</li>                  
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="TheophanyParamoun">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Theophany Paramoun</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>The Theophany Paramoun is prayed in the standard tune.</li>
+                     <li>If the Feast of Theophany falls on a Monday, the Paramoun is three days: Friday, Saturday and Sunday. The Eve (vespers) of the Paramoun would be on Thursday (night), the Paramoun liturgy on Friday.</li>
+                     <li>There should be no Offering of Evening incense (vespers) on Friday night, because the liturgy should finish at around sunset. On Saturday, there may be Offering of Evening incense.</li>
+                     <li>If the Paramoun falls on a Saturday or a Sunday, only the Terce (Third) and Sext (Sixth) hours are prayed in the Paramoun liturgy; the Ninth, Vespers and Compline (and Veil in the monasteries) are prayed in the Offering of Vespers Incense.</li>                        
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="HosannaSunday">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hosanna Sunday</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  The Rite of the General Funeral Service
+                  <ol>
+                     <li>The entire congregation attends the general funeral prayers. These prayers are done on this particular day because the Church does not perform funeral rites for any of its members during the Holy Week, because she focuses all her attention and prayers on the sufferings of Christ.</li>
+                     <li>After the conclusion of the Hosanna Sunday Liturgy, and after all the Holy Mysteries (Communion) are distributed, the priest closes the veil of the sanctuary.</li>
+                     <li>The church is draped with black veils, befitting of the Holy Pascha Week.</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="FeastOfTheCross">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Feast of the Cross</Language>
+            </Title>
+                  
+            <Comment>
+               <Language id="English">
+                  Rites
+                  <ol>
+                     <li>The services are conducted in the Hosanna tune for the three days of the Feast of the Cross (17-19 Thoout) and on 10 Paremhotep.</li>
+                     <li>If any of the three days of the Feast of the Cross (17 - 19 Thoout) fall on a Sunday, the readings of the day are read instead of the readings of the Sunday.</li>                                             
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>  
+      
+      <Season id="JonahFast">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Fast of Jonah</Language>               
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>The readings of the three days of the Fast of Jonah, as well as the feast of Jonah are found in the Katamaros of the Great Fast.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Rites
+                        <ol>
+                           <li>The concluding hymn for the Sunday previous to the Fast of Jonah is according to the standard rites.</li>
+                           <li>The three days of the fast are treated like the weekdays of the Great Fast.</li>
+                           <li>There is no Offering of Evening Incense during the Fast of Jonah.</li>
+                           <li>The hymns are chanted in the “sorrowful” tune  of the weekdays of the Great Fast, without the use of the cymbals.</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>    
+      
+      <Season id="GreatFastSunday0">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sunday Before the Great Fast</Language>               
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>The readings of the Preparation Sunday of Great Fast are read from the Great Fast Katameros.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Rites. The Service is prayed as usual, in the standard tune, with the following observations:
+                        <ol>
+                           <li>After the reading of the Gospel, the response of the Gospel for the great fast Sundays is chanted in the fasting tune.</li>
+                           <li>The fraction for Great Fast is chanted.</li>
+                           <li>Psalm 150 is chanted in the fasting tune.</li>
+                           <li>The hymn <span class="Coptic">Ounis] mmuct/rion</span> may be said.</li>
+                           <li>A melody for the First Sunday of the Great Fast is chanted.</li>
+                           <li>The Concluding Hymn is mentioned in the Great Fast Saturdays.</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>    
+      
+      <Season id="FirstMondayOfGreatFast | LastFridayOfGreatFast">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">First and Last Days of the Great Fast</Language>               
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Rites                                                
+                        <ol>
+                           <li>The Rite of the first Monday and last Friday of the Great Fast is a combination of the Rite of the Great Fast weekdays, and the Great Fast Sundays.</li>                           
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="GreatFast ^ Weekdays">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Weekdays of the Great Fast</Language>               
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Rites                                                
+                        <ol>
+                           <li>There is no Offering of Evening Incense on the Holy Fast weekdays.</li>
+                           <li>The hymns are chanted in the “sorrowful” tune  of the weekdays of the Holy Fast, without the use of the cymbals; the exceptions are the first Monday of the fast, and the last Friday of the fast.</li>
+                           <li>The rites of the last Friday of the fast are similar to the rites of the Saturdays and Sundays of the fast,</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>  
+      
+      <Season id="GreatFriday">
+          <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Rites                                                
+                        <ol>
+                           <li>The prayers of the first and third hours are prayed and concluded with the prayer of litanies and the benediction according to the rite of the hours of the Pascha week (see page 469).</li>
+                           <li>The explanations of the prophecies are read following the prophecies, before the praise of Holy Pascha week.</li>
+                           <li>The explanation of the Gospel is read following the Gospel, before the exposition.</li>
+                           <li>After the Prime Prayer (first hour), the icon of Crucifixion is decorated with roses, candles, and censors, which are placed around it.</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+      </Season>
+   </Group>
+</Document>

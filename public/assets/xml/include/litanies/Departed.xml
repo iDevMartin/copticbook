@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Departed</Language>
+         <Language id="Arabic">أوشية الراقدين</Language>         
+      </Title>
+      
+      <Group>
+         <Season id="RaisingOfIncense">
+            <Comment>
+               <Language id="English">
+                  This prayer is said during the evening Offering of Incense all year round. It is also said during the morning Offering of Incense on Saturdays.
+               </Language>            
+               <Language id="Arabic">
+                  تُقال أوشية الراقدين في رفع بخور عشية على مدار السنة. كما تُقال أيضاً في رفع بخور باكر أيام السبوت.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="!LiturgyOfTheWaters">
+               <InsertDocument path="include/AgainLetUsAsk"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: ariv~meui~ P[oic n~ni'u,/ n~te neke~biaik e~tauenkot nenio] nem nenc~n/ou.
+            </Language>
+            <Language id="English">
+               We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the souls of Your servants who have fallen asleep, our fathers and our brethren. 
+            </Language>
+            <Language id="Arabic">
+               نسأَلُ ونطلُبُ من صلاحِكَ يا محبَّ البشرِ، اذكر ياربّ أنفس عبيدِكَ الذين رقدوا، آبائِنا وإخوتِنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nenio] nem nenc~n/ou e~taue~nkot aum~ton m~mwou qen v~nah] m~Pi,~rictoc icjen p~e~neh: 
+            </Language>
+            <Language id="English">
+               Pray for our fathers and brethren who have fallen asleep and reposed in the faith of Christ since the beginning: 
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن آبائنا وإخوتِنا الذينَ رقدوا، وتنيحوا في الإيمانِ بالمسيحِ منذُ البدءِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               nenio] eyouab n~ar,ie~pickopoc ke nenio] n~e~pickopoc: nenio] n~h/goumenoc ke nenio] m~p~recbuteroc nem nenc~n/ou n~diakwn: nenio] m~mona,oc: ke nenio] n~laikoc: nem e~h~r/i e~jen ]a~napaucic t/rc n~te ni,~rictianoc:
+            </Language>
+            <Language id="English">
+               our holy fathers the archbishops, our fathers the bishops, our fathers the hegumens, our fathers the priests, our brethren the deacons, our fathers the monks, and our fathers the laymen, and for the full repose of Christians
+            </Language>
+            <Language id="Arabic">
+               آبائنا القديسين رؤساءِ الأساقفةِ، وآبائنا الأساقفةِ، وآبائنا القمامصةِ، وآبائنا القسوسِ وإخوتِنا الشمامسةِ، وآبائنا الرهبانِ، وآبائنا العلمانيينَ، وعن نياحِ الكلِّي المسيحيين،
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Hina n~te Pi,~rictoc Pennou] ]m~ton n~nou'u,/ t/rou qen piparadicoc n~te p~ounof: a~non de hwn n~teferpinai neman: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               that Christ our God may repose all their souls in the paradise of joy, and we too, accord mercy unto us and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               لكي المسيحُ إلهنا ينيحَ نفوسَهم أجمعين في فردوسِ النعيمِ، ونحنُ أيضاً يصنعَ معنا رحمةً، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Arikataxioin P[oic mam~ton n~nou'u,/ t/rou qen kenf n~nenio] eyouab: Abraam nem Icaak nem Iakwb.
+            </Language>
+            <Language id="English">
+               Graciously, O Lord, repose all their souls in the bosom of our holy fathers Abraham, Isaac, and Jacob, 
+            </Language>
+            <Language id="Arabic">
+               تفضل ياربُّ نيح نفوسَهم جميعاً في حضنِ آبائنا القديسين، إبراهيمَ وإسحقَ ويعقوبَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Sanousou qen ouma n~,~lo/~: hijen v~mwou n~te p~emton: qen piparadicoc n~te p~ounof.
+            </Language>
+            <Language id="English">
+               sustain them in a green pasture, beside still waters in the Paradise of joy, 
+            </Language>
+            <Language id="Arabic">
+               عُلْهُم في موضعِ خضرةٍ على ماءِ الراحةِ في فردوسِ النعيمِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pima e~tafvwt e~bol n~q/tf n~je pim~kah n~h/t nem ]lup/ nem pifiahom: qen v~ouwini n~te n/eyouab n~tak.
+            </Language>
+            <Language id="English">
+               the place out of which grief, sorrow, and groaning have fled away in the light of Your saints.
+            </Language>
+            <Language id="Arabic">
+               الموضعِ الذي هَرَبَ منه الحزنُ والكآبةُ والتنهدُ في نورِ قديسيكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eke~tounoc n~toukecarx qen pie~hoou e~takyasf: kata neke~paggelia m~m/i ouoh n~atmeynouj.
+            </Language>
+            <Language id="English">
+               Raise up their bodies also on the day which You have appointed, according to Your true promises which are without lie.
+            </Language>
+            <Language id="Arabic">
+               أقم أجسادَهم في اليومِ الذي رسمتَه كمواعيدِكَ الحقيقيةِ غيرِ الكاذبةِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eke~er,arizecye nwou n~nia~gayon n~te neke~paggelia: n/e~te m~pe bal nau e~rwou: oude m~pe masj coymou: oude m~poui~ e~h~r/i e~jen p~h/t n~rwmi.
+            </Language>
+            <Language id="English">
+               Grant them the good things of Your promises—that which an eye has not seen nor ear heard, neither have come upon the heart of man—
+            </Language>
+            <Language id="Arabic">
+               هبْ لهم خيراتَ مواعيدِكَ، ما لم تره عينٌ ولم تسمعْ به أذنٌ، ولم يخطرْ على قلبِ بشرٍ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               N/e~takcebtwtou Vnou] n~n/eymei m~pekran eyouab.
+            </Language>
+            <Language id="English">
+               the things which You, O God, have prepared for those who love Your holy name.
+            </Language>
+            <Language id="Arabic">
+               ما أعددتَه يا اللهُ لمحبي اسمِكَ القدوسِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je m~mon mou sop n~neke~biaik alla ououwteb e~bol pe.
+            </Language>
+            <Language id="English">
+               For there is no death for Your servants, but a departure.
+            </Language>
+            <Language id="Arabic">
+               لأنه لا يكونُ موتٌ لعبيدِكَ، بل هو انتقالٌ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Icje de ouon oumeta~mel/c [i e~rwou: ie oumetat]h~y/f hwc rwmi: e~auervorin n~oucarx ouoh auswpi qen paikocmoc.
+            </Language>
+            <Language id="English">
+               Even if any negligence or heedlessness has overtaken them as men, since they were clothed in flesh and dwelt in this world,
+            </Language>
+            <Language id="Arabic">
+               وإن كانَ لحِقَهم توانٍ، أو تفريطٌ كبشرٍ، وقد لبسوا جسداً، وسكنوا في هذا العالمِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyok de hwc a~gayoc ouoh m~mairwmi Vnou] a~rikataxioin neke~biaik n~,~rictianoc n~oryodoxoc etqen ]oikoumen/ t/rc: icjen niman~sai n~te vr/ sa nefman~hwtp nem icjen pemhit sa v~r/c: piouai piouai kata pefran nem ]oui~ ]oui~ kata pecran: Kurie~ mam~ton nwou ,w nwou e~bol.
+            </Language>
+            <Language id="English">
+               O God, as the Good One and Lover of Mankind, graciously accord, O Lord, to repose and forgive them, Your servants, the orthodox Christians who are in the whole world from the east to the west and from the north to the south, each one according to his name and each one according to her name.
+            </Language>
+            <Language id="Arabic">
+               فأنتَ كصالحٍ ومحبِّ البشرِ، اللهُمَّ تفضل عبيدَكَ المسيحيينَ الأرثوذكسيينَ الذين في المسكونةِ كلِّها، من مشارقِ الشمسِ إلى مغاربِها، ومن الشمالِ إلى الجنوب كلَّ واحدٍ باسمِه وكلَّ واحدةٍ باسمِها، ياربُّ نيحهم، واغفر لهم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je m~mon h~li efouab e~ywleb oude kan oue~hoou n~ouwt pe pefwnq hijen pikahi.
+            </Language>
+            <Language id="English">
+               For no one is pure and without blemish, even though his life on earth be a single day.
+            </Language>
+            <Language id="Arabic">
+               فإنه ليس أحدٌ طاهراً من دنسٍ، ولو كانت حياتُه يوماً واحداً على الأرضِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nywou men ham n/ P[oic e~ak[i n~nou'u,/ mam~ton nwou: ouoh marouerp~emp~sa n~]metouro n~te niv/oui~.
+            </Language>
+            <Language id="English">
+               As for those, O Lord, whose souls You have taken, repose them, and may they be worthy of the kingdom of the heavens.
+            </Language>
+            <Language id="Arabic">
+               أما هم ياربُّ الذين أخذتَ نفوسَهم، فنيحهم وليستحقوا ملكوتَ السمواتِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Anon de t/ren a~ri,arizecye nan m~penjwk n~,~rictianoc efranak m~pekm~yo.
+            </Language>
+            <Language id="English">
+               As for us all, grant us our Christian perfection that would be pleasing to You,
+            </Language>
+            <Language id="Arabic">
+               وأما نحنُ كلُّنا فهبْ لنا كمالَنا المسيحي الذي يُرضيكَ أمامك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh moi nwou neman n~oumeroc nem ouk~l/roc: nem n/eyouab t/rou n~tak.
+            </Language>
+            <Language id="English">
+               and give them and us a share and inheritance with all Your saints.
+            </Language>
+            <Language id="Arabic">
+               وأعطهم وإيانا نصيباً وميراثاً مع كافةِ قديسيكَ.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role> 
+   </Section>
+</Document>

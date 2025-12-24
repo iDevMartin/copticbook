@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/Pray"/>
+         </Role>
+      </Season>
+      
+      <Season id="Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/Pray"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/Pray"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Epi p~roceu,/ c~tay/te.
+         </Language>
+         <Language id="English">
+            Stand up for prayer.
+         </Language>
+         <Language id="Arabic">
+            للصلاة قفوا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+      
+      <Season id="Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest bows his head toward his fellow priests, and, while turning toward the west, he makes the sign of the cross over the people with his right hand, and says:
+               </Language>            
+               <Language id="Arabic">
+                  ثم  يحنى الكاهن رأسه نحو إخوته الكهنة، ويلتفت إلى الغرب ويرشم الشعب بيده اليمنى بمثال الصليب وهو يقول: 
+               </Language>
+            </Comment>         
+                  
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+</Document>

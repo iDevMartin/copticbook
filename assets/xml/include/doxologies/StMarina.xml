@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMarina:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Marina</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيدة مارينا</Language>
+            <Language id="Coptic">Tseri de m~paryenoc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Marina:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Tseri de m~paryenoc: ecoi n~nis] qen tecjom: e~hote nijwri n~qels/ri: eci~ri n~hannis] n~jom.
+            </Language>
+            <Language id="English">
+               The celibate daughter, greater in her strength, than the strong young men, she performed great miracles.
+            </Language>
+            <Language id="Arabic">
+               وابنة عذراء عظيمة في قوتها أكثر من الشبان الأقوياء صانعة قوات عظيمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ete ]cwtp n~a~gia: ]paryenoc Marin/: ac[i [ro m~p~catanac: ac]sipi n~niourwou.
+            </Language>
+            <Language id="English">
+               This is the chosen saint, the virgin Marina, she overpowered Satan, and embarrassed kings.
+            </Language>
+            <Language id="Arabic">
+               التي هي القديسة المختارة مارينا العذراء غالبة الشيطان وخازية الملوك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ecmenre m~P,#c#: icjen tecmetkouji n~alou: af] nac n~je P,#c#: pefh~mot nem tefjom et[oci.
+            </Language>
+            <Language id="English">
+               For she loved Christ, from her early childhood, Christ gave unto her, His grace and His high strength.
+            </Language>
+            <Language id="Arabic">
+               لأنها أحبت المسيح منذ طفوليتها وأعطاها المسيح نعمته وقوته العالية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Sa n~tecerhupomon/: icjen nibacanoc etos: ac[i m~pi,~lom n~atlwm: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               So that she may be patient, during the many sufferings, she received the unfading crown, of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               لكي تصبر على العذابات الكثيرة فنالت إكليل الشهادة غير المضمحل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               "olcel w~ niparyenoc: etau[i n~]metmarturoc: nem ]a~gia Marin/: ]selet n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Adorn O virgins, who have received martyrdom, with Saint Marina, the bride of Christ.
+            </Language>
+            <Language id="Arabic">
+               تزين أيتها العذارى اللواتى نلن الشهادة مع القديسة مارينا عروس المسيح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMarina"/>
+      </Section>
+   </Season>
+</Document>

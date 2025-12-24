@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            The priest says the blessing according to the season, as in the conclusion of the morning and evening Offering of Incense.
+         </Language>
+         <Language id="Arabic">
+            يقول الكاهن البركة (حسب ترتيبها كل أوان بأوانه، حسبما وردت في ختام بخور عشية وباكر، ).
+         </Language>
+      </Comment>
+   </Role>   
+      
+   <Section silent="true">
+      <InsertDocument path="include/ShortBlessing"/>
+   </Section>
+      
+   <Role id="Deacon">      
+      <Section>
+         <Title>
+            <Language id="English">Through the Prayers</Language>
+            <Language id="Coptic">Eu,ec</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               Meanwhile, the deacon may say the commemoration of the early fathers the patriarchs.
+            </Language>
+            <Language id="Arabic">
+               وفي أثناء ذلك يقول الشمامسة (إذا أرادوا) تذكارات الآباء البطاركة السالفين:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Eu,ec ke precbiec t/c pana~giac u~peren doxou a,rantou u~pereulog/men/c decpin/c /~mwn yeo~tokou ke a~i~ paryenou Mariac. 
+            </Language>
+            <Language id="English">
+               Through the prayers and intercessions of our Lady, the all-holy, full-of-glory, undefiled, most blessed Theotokos and ever-virgin Mary;
+            </Language>
+            <Language id="Arabic">
+               بصلوات وشفاعات ذات كل قداسة الممجدة الطاهره المباركة سيدتنا والدة الإله الدائمة البتولية مريم. 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ke tou a~giou prov/tou ke prodromou baptictou ke marturoc Iwannou.
+            </Language>
+            <Language id="English">
+               and of John, the holy prophet, forerunner, baptist, and martyr;
+            </Language>
+            <Language id="Arabic">
+               والقديس النبى السابق المعمدان الشهيد يوحنا.
+            </Language>         
+         </Text>
+                  
+         <Text>
+            <Language id="Coptic">
+               Ke tou a~giou C~tevanou tou ar,idia~konou ke prwtomarturoc.
+            </Language>
+            <Language id="English">
+               and of Saint Stephen, the archdeacon and protomartyr;
+            </Language>
+            <Language id="Arabic">
+               والقديس استفانوس رئيس الشمامسة وأول الشهداء.
+            </Language>         
+         </Text>
+                  
+         <Text>
+            <Language id="Coptic">
+               Ke twn a~giwn a~poctolwn endoxwn: prov/twn: ke kallinikwn marturwn: ke pantwn twn ,orwn twn a~giwn cou.
+            </Language>
+            <Language id="English">
+               and of the holy, glorious apostles, prophets, and triumphant martyrs, and all the choirs of Your saints;
+            </Language>
+            <Language id="Arabic">
+               و القديسين الرسل الممجدين والأنبياء، والحسنى الظفر الشهداء وكل مصاف القديسين.
+            </Language>         
+         </Text>
+                  
+         <Text>
+            <Language id="Coptic">
+               Abba (nim) kuriou tou ar,ie~pickopou t/c megalo polewc Alexand~riac: ke twn oryodoxwn /~mwn e~pickopwn twn eu,arict/riwn:
+            </Language>
+            <Language id="English">
+               and of Abba (...), lord and archbishop of the great city of Alexandria, and of our Orthodox bishops in the Eucharist;
+            </Language>
+            <Language id="Arabic">
+               أنبا...  السيد رئيس أساقفة المدينة العظمى الإسكندرية وأساقفتنا الارثوذكسيين المشكورين ،
+            </Language>         
+         </Text>
+                  
+         <Text>
+            <Language id="Coptic">
+               Ke u~per gumnecewc ke a~napaucewc ke twn a~giwn paterwn /~mwn.
+            </Language>
+            <Language id="English">
+               and for the well-being and repose of our holy fathers;
+            </Language>
+            <Language id="Arabic">
+               ومن أجل الراقدين ونياحتهم وآبائنا القديسين.
+            </Language>         
+         </Text>
+                  
+         <Text>
+            <Language id="Coptic">
+               (1) Markou tou a~giou a~poctolou euaggelictou ar,/ e~pickopou ke marturoc
+            </Language>
+            <Language id="English">
+               foremost, Saint Mark the apostle, Evangelist, archbishop, and martyr;
+            </Language>
+            <Language id="Arabic">
+               (اولاً) القديس مرقس الرسول الإنجيلى رئيس الأساقفة والشهيد.
+            </Language>         
+         </Text>
+                  
+         <Comment>
+            <Language id="English">
+               The Deacon may continue and mention the names of all the departed patriarchs. He then may continue with “<span class="Coptic">Pinis]</span>...” or conclude with the following verse:     
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ke pantwn twn orywc didaxantwn ton logon t/c a~l/yiac: oryodoxwn e~pickopwn precbuterwn diakonwn k~l/rikwn ke lai~kwn: ke toutwn ke pantwn oryodoxwn. Am/n.
+            </Language>
+            <Language id="English">
+               and all who have rightly taught the word of truth, the orthodox bishops, priests, deacons, clergy, and laity, these and all the orthodox. Amen.
+            </Language>
+            <Language id="Arabic">
+               وجميع الذين علموا كلمة الحق باستقامة، الأساقفة الأرثوذكسيين والقسوس والإكليروس والعلمانيين. هؤلاء وجميع الأرثوذكسيين.آمين
+            </Language>         
+         </Text>
+      </Section>
+      
+      <Section>
+         <InsertDocument path="papal/Departed Patriarchs"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">The Great Abba Antony</Language>
+            <Language id="Arabic">العظيمِ أنبا أنطوني</Language>
+            <Language id="Coptic">Pinis]</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               The deacon may chant the following hymn of the commemoration of the Saints:      
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Pinis] abba Antwni: nem piy~m/i abba Paule: nem pisomt eyouab Makarioc: abba Iwann/c pikoloboc: 
+            </Language>
+            <Language id="English">
+               The great Abba Antony, the righteous Abba Paul, the three saints Abba Macarii, Abba John the Short,.
+            </Language>
+            <Language id="Arabic">
+               العظيم أنبا أنطونيوس والبار  أنبا بولا،والقديسين الثلاثة مقارات وأنبا يحنس القصير 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Abba Piswi: abba Paule: nenio] eyouab n~rwmeoc Maximoc nem Dometioc: abba Mwc/: abba Iwann/c &lt;am/: abba Dani/l: abba ?cidwroc: abba Paqwm: abba Senou]: ke abba Pavnou]: abba Parcwma: abba Teji.
+            </Language>
+            <Language id="English">
+               Abba Pishoy, Abba Paul, our holy Roman fathers Maximus and Dometius, Abba Moses, Abba John Kama, Abba Daniel, Abba Isidore, Abba Pachom, Abba Shenoute, and Abba Paphnoute, Abba Parsoma, Abba Teji
+            </Language>
+            <Language id="Arabic">
+               وأنبا بيشوى وأنبا بولا، وأبوانا القديسان الروميان مكسيموس ودوماديوس، أنبا موسى، أنبا يحنس كاما، أنبا دانيال، أنبا إيسذوروس، أنبا باخوم. أنبا شنوده  وأنبا بفنوتى أنبا برسوما، أنبا رويس
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ke pantwn twn orywc didaxantwn ton logon t/c a~l/yiac: oryodoxwn e~pickopwn p~recbuterwn diakonwn k~l/rikwn ke lai~kwn: ke toutwn ke pantwn oryodoxwn. Am/n.
+            </Language>
+            <Language id="English">
+               And all who have rightly taught the word of truth: the orthodox bishops, Priests, deacons, clergy, laity, and all the Orthodox. Amen.
+            </Language>
+            <Language id="Arabic">
+               وجميع الذين علموا كلمة الحق باستقامة أساقف الأرثوذكسيين والقسوس والإكليروس والعلمانيين. هؤلاء وجميع الأرثوذكسيين آمين
+            </Language>         
+         </Text>
+      </Section>
+      
+      <InsertDocument path="include/GreatPinishti"/>   
+   </Role>
+</Document>

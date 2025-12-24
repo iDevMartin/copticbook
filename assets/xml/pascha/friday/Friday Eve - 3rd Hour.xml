@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ GreatFriday ^ Fridays ^ FuneralTune ^ SeasonOfAirAndFruits">   
+      <Title>
+         <Language id="English">Great Friday Eve (The Third Hour)</Language>
+         <Language id="Arabic">ليلة الجمعة  العظيمة (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~jwrh n~]nis] m~parackeu/ (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 36:16-23</Language>
+               <Language id="Arabic">حزقيال 36: 16-23</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aoucaji n~te P[oic swpi haroi efjwm~moc je Ps/ri m~v~rwmi p~/i m~pI~icra/l auswpi hijen poukahi ouoh au[a~qmef qen poumwit nem noui~dwlon nem qen nou[w~qem 
+               </Language>
+               <Language id="English">
+                   Again the word of the Lord came to me, saying, "Son of man, the house of Israel dwelt upon their land, but they defiled it by their conduct and by their idols and uncleanness. 
+               </Language>
+               <Language id="Arabic">
+                  وكانت إلى كلمة الرب قائلا: يا إبن الإنسان إن بيت اسرائيل سكنوا أرضهم ونجسوها بطريقهم وأصنامهم ونجاستهم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afswpi gar n~je poumwit m~v~r/] m~p~[w~qem n~y/e~toi n~kama m~pam~yo e~bol: Ouoh aivwn m~pam~bon e~h~r/i e~jwou eybe p~c~nof e~tauvonf e~bol hijen pikahi ouoh au[aqem n~q~r/i qen noui~dwlon.
+               </Language>
+               <Language id="English">
+                  Their conduct before me was like the uncleanness of a woman in her customary impurity. Therefore I poured out My anger on them.
+               </Language>
+               <Language id="Arabic">
+                  وصارت طريقهم أمامي كنجاسة الطامث، فصببت غضبي عليهم من أجل الدم الذي سفكوه على الأرض ونجسوها بأصنامهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aijorou e~bolqen nieynoc ouoh aicorou e~bolqen ni,wra katapoumwit nem kata nounobi ai]hap e~rwou. 
+               </Language>
+               <Language id="English">
+                  I scattered them among the nations and dispersed them as chaff into the countries. I judged them according to their conduct and their sins. 
+               </Language>
+               <Language id="Arabic">
+                  فشتتهم في الأمم وفرقتهم في الكور بطرقهم، وخطاياهم دانتهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh etausenwou e~qoun e~nieynoc pimae~tausenwou e~qoun e~rofauoreb m~paran eyouab qen p~jiny~roujoc je v~laoc m~P[oic ne nai ouoh e~taui~ e~bolqen pefkahi. 
+               </Language>
+               <Language id="English">
+                  So when they came to the nations, wherever they went, they desecrated My holy name when they said, 'These are the people of the Lord, and they have come out of His land. 
+               </Language>
+               <Language id="Arabic">
+                  ولما دخلوا إلى الأمم حيث دخلوا دنسوا اسمى القدوس حين قالوا عنهم: إن هذا هو شعب الرب والذين خرجوا من ارضه، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ai]a~co e~rwou eybe paran eyu v/e~tauorbef n~je p~/i m~pI~icra/l qen nieynoc.
+               </Language>
+               <Language id="English">
+                  But I spared them for the sake of My holy name, which the house of Israel desecrated among the nations wherever they went.
+               </Language>
+               <Language id="Arabic">
+                  فتحننت عليهم لأجل اسمى القدوس الذي دنس بيت اسرائيل في الأمم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai a~joc n~nens/ri mp~Iicra/l: je nai ne n/e~tefjw m~mwou n~je P[oic: naii~ri nwten an p~/i mp~Iicra/l: alla eybe paran eyu v/e~ta~reten orbef qen nieynoc: pima eta~retense e~qoun e~rof. 
+               </Language>
+               <Language id="English">
+                  Therefore say to the house of Israel, 'Thus says the Lord: "I will not do this for your sake,  house of Israel, but for the sake of My holy name, which you desecrated among the nations wherever you went.  
+               </Language>
+               <Language id="Arabic">
+                  لذلك فقل لبيت اسرائيل: هذا ما يقوله السيد الرب، ليس لأجلكم أنا صانع يا بيت اسرائيل، بل لأجلى إسمى القدوس الذي نجستموه في الأمم، الموضع الذي دخلتموه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~reten toubo e~qoun e~rof m~panis] n~ran v/etauorbef qen nieynoc: v/eta~retenorbef qen toum/]: ouoh cenae~mi n~je nieynoc t/rou je a~nok pe P[oic: peje a~dwnai P[oic.
+               </Language>
+               <Language id="English">
+                  Thus I will sanctify My great name, desecrated among the nations, which you desecrated in their midst. Then the nations will know that I am the Lord.
+               </Language>
+               <Language id="Arabic">
+                  وقدستم فيه إسمي العظيم الذي نجس في الأمم، الذي نجستموه في وسطهم. وستعلم جميع الأمم أني أنا هو الرب. يقول أدوناى الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.3"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 108:1,3</Language>
+               <Language id="Arabic">مزمور 108: 1 ,3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Vnou] m~per,arwk e~pac~mou je afouwn e~roi n~je rwf n~ourefernobi: nem rwf n~ourefer,~rof. 
+               </Language>
+               <Language id="English">
+                  O God, do not pass over my praise in silence, for the mouth of the sinner and the mouth of the deceitful man opened against me;
+               </Language>
+               <Language id="Arabic">
+                  اللهم لا تسكت عن تسبحتى لأن فم الخاطئ وفم الغاش قد انفتحا علىّ,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aukw] e~roi qen hancaji m~moc]: aubwtc e~roi n~jinj/: All/louia.
+               </Language>
+               <Language id="English">
+                  And they surrounded me with words of hatred, and warred against me without cause. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وبكلام بغض أحاطوني وحاربوني مجاناً: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 26:30-35</Language>
+            <Language id="Arabic">متى 26: 30-35</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eetauecmou aui~ e~bol e~pitwou n~te nijwit. 
+               </Language>
+               <Language id="English">
+                  And when they had sung a hymn, they went out to the Mount of Olives. 
+               </Language>
+               <Language id="Arabic">
+                  ولما سبحوا خرجوا إلى جبل الزيتون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote peje I/couc nwou je n~ywten t/rou tetennaerc~kandalizecye n~q~r/i n~q/t qe/ paie~jwrh: c~q/out gar je eie~i~ni n~ouerqot e~jen pimane~cwou ouoh eue~jwr e~bol n~je nie~cwou n~te piohi.
+               </Language>
+               <Language id="English">
+                  Then Jesus said to them, "All of you will be made to stumble because of Me this night, for it is written: 'I will strike the Shepherd, And the sheep of the flock will be scattered.'
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم يسوع: كلكم تشكون في في هذه الليلة، لأنه مكتوب أنى أضرب الراعى فتتفرق خراف الرعية،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Menenca y~ritwnt de ]naersorp e~rwten e~]Galilea~. A~fe~rouw~ n~je Petroc pejaf naf je icje cenaerc~kandalizecye t/rou n~q~r/i n~q/tk a~nok de n~naerc~kandalizecye. 
+               </Language>
+               <Language id="English">
+                  But after I have been raised, I will go before you to Galilee." Peter answered and said to Him, "Even if all are made to stumble because of You, I will never be made to stumble."
+               </Language>
+               <Language id="Arabic">
+                  ومن بعد قيامتى أسبقكم إلى الجليل. فأجاب بطرس وقال له: إن شك فيك الجميع فأنا لا أشك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/couc naf je a~m/n ]jw m~moc nak: je n~q~r/i qen pai e~jwrh m~pate oua~lektwr mou] ,~najolt e~bol n~somt n~cop. 
+               </Language>
+               <Language id="English">
+                  Jesus said to him, "Assuredly, I say to you that this night, before the rooster crows, you will deny Me three times." 
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: الحق أقول لك أنك في هذه اليله قبل أن يصيح ديك تنكرني ثلاث مراتٍ. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Petroc naf je kan acsanvoh n~tamou nemak n~najolk e~bol: pair/] de naujw m~moc n~je nimay/t/c t/rou.
+               </Language>
+               <Language id="English">
+                  Peter said to Him, "Even if I have to die with You, I will not deny You!" And so said all the disciples.
+               </Language>
+               <Language id="Arabic">
+                  قال له بطرس: لو بلغت أن أموت معك لن أنكرك وهكذا كان يقول جميع التلاميذ.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationMark"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 14:26-31</Language>
+            <Language id="Arabic">مرقس 14: 26-31</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tauc~mou aui~ ebol e~pitwou n~te nijwit.
+               </Language>
+               <Language id="English">
+                  And when they had sung a hymn, they went out to the Mount of Olives.
+               </Language>
+               <Language id="Arabic">
+                  ولما سبحوا خرجوا إلى جبل الزيتون
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou n~je I/couc je tetennaerc~kandadizecye t/rou n~q~r/i n~q/t qen pai e~jwrh je ou/i c~c~q/out je ]nasari e~pimane~cwou ouoh cenajwr e~bol n~je nie~cwou.
+               </Language>
+               <Language id="English">
+                  Then Jesus said to them, “All of you will be made to stumble because of Me this night, for it is written: “I will strike the Shepherd, and the sheep will be scattered.’
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم يسوع: كلكم تشكون في في هذه الليلة، لأنه مكتوب أنى أضرب الراعى فتتفرق الخراف
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla menenca y~ritwnt ]naerswrp e~rwten e~]Galilea~. Petroc de pejaf naf je kan ausanerc~kandalizecye t/rou alla a~nok an.
+               </Language>
+               <Language id="English">
+                  “But after I have been raised, I will go before you to Galilee.” Peter said to Him, “Even if all are made to stumble, yet I will not be”.
+               </Language>
+               <Language id="Arabic">
+                  ولكن بعد قيامتى أسبقكم إلى الجليل. فقال له بطرس: لو شك فيك الجميع فأنا لا أشك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf naf n~je I/couc je a~m/n ]jwm~moc nak: je n~yok m~voou qen paie~jwrh m~pate oua~lektwr mou] ncop c~nau: ,najolt e~bol n~somt ncop. 
+               </Language>
+               <Language id="English">
+                  Jesus said to him, “Assuredly, I say to you that today, even this night, before the rooster crows twice, you will deny Me three times.” 
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: الحق أقول لك أنك اليوم في هذه اليله  قبل أن يصيح ديك مرتين تنكرني ثلاث مرات. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de nafcaji qen oumethouo je kan acsanvoh n~tamou nemak n~najolk e~bol: pair/] de on naujwm~moc t/rou.
+               </Language>
+               <Language id="English">
+                  But he spoke more vehemently, “If I have to die with You, I will not deny You!” And they all said likewise. 
+               </Language>
+               <Language id="Arabic">
+                  فأخذ (بطرس) يبالغ في الكلام قائلا: إني لو إلجئت أن أموت معك لن أنكرك وهكذا أيضاً كانوا يقولون جميعا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationLuke"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:31-39</Language>
+            <Language id="Arabic">لوقا 22: 31-39</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Cimwn Cimwn h/ppe ic p~catanac afere~tin m~mwten e~selsel y/nou m~v~r/] m~picouo. A~nok de aitwbh e~jwk hina n~tefs~tem mounk n~je peknah]: ouoh n~yok hwk kotk n~ouc/ou matajre nekc~n/ou.
+               </Language>
+               <Language id="English">
+                  "Simon, Simon! Indeed, Satan has asked for you, that he may sift you as wheat. But I have prayed for you, that your faith should not fail; and when you have returned to Me, strengthen your brethren."
+               </Language>
+               <Language id="Arabic">
+                  سمعان, سمعان, هوذا الشيطان قد طلبكم لكي يغربلكم مثل الحنطة ولكنى طلبت عنك لكي لا يفنى إيمانك، وانت أيضاً فأرجع وثبت إخوتك زمانا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejaf naf je P[oic ]cebtwt e~se e~p~s~teko nemak nem v~mou. N~yof de pejaf naf je ]jwm~moc nak Petra: je n~ne oua~lektwr mou] m~voou satekjolt e~bol n~somt n~cop eyreke~mi. 
+               </Language>
+               <Language id="English">
+                  But he said to Him, "Lord, I am ready to go with You, both to prison and to death." Then He said, "I tell you, Peter, the rooster shall not crow this day before you will deny three times that you know Me."
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال له: يا رب إنى مستعد أن أذهب معك إلى السجن وإلى الموت. فقال له: أقول لك يا بطرس أنه لن يصيح ديك اليوم حتى تنكرني ثلاث مرات لتعلم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou: je hotan e~tai ouerpy/nou at[~ne a~coui~ nem p/ra nem ywoui~: m/a~te tenerqae~ nh~li: n~ywou de pejwou naf je m~mon.
+               </Language>
+               <Language id="English">
+                  And He said to them, "When I sent you without money bag, knapsack, and sandals, did you lack anything?" So they said, "Nothing."
+               </Language>
+               <Language id="Arabic">
+                  ثم قال لهم: لما أرسلتكم بغير كيس ولا مزود ولا حذاء، هل احتجتم إلى شيء؟. أما هم فقالوا له: لا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de nwou je alla ]nou v/e~te ouonn~taf m~mau n~oua~coui~ marefolc: pair/] on oup/ra: ouoh v/e~te m~monn~taf m~mau n~ouc/fi maref] m~pefh~bwc e~bol ouoh marefsep ouc/fi.
+               </Language>
+               <Language id="English">
+                  Then He said to them, "But now, he who has a money bag, let him take it, and likewise a knapsack; and he who has no sword, let him sell his garment and buy one.
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم: لكن الآن فمن له كيس فليأخذه ومزود كذلك، ومن ليس له سيف فليبع ثوبه ويشتر سيفا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }jw gar m~moc nwten: je v/etc~q/out hw] pe n~tefjwk e~bol n~q~r/i n~q/t: je auopf nem nia~nomoc: ke gar petc~q/out eyb/t de ouon tefjwk. 
+               </Language>
+               <Language id="English">
+                   For I say to you that this which is written must still be accomplished in Me: 'And He was numbered with the transgressors.' For the things concerning Me have an end." 
+               </Language>
+               <Language id="Arabic">
+                   فإنى أقول لكم إنه ينبغى أن يتم في المكتوب، واحصوه مع الآثمة، لأن ما كتب من أجلى له تمامه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de pejwou naf je P[oic ic c/fi c~nou] m~paima: n~yof de pejaf nwou je cerwsi. 
+               </Language>
+               <Language id="English">
+                  So they said, "Lord, look, here are two swords." And He said to them, "It is enough." 
+               </Language>
+               <Language id="Arabic">
+                  فقالوا: يا رب ههنا سيفان. فقال لهم: يكفى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ e~bol afsenaf kata ]kahc epitwou n~te nijwit aumosi de n~cwf n~je nefmay/t/c.
+               </Language>
+               <Language id="English">
+                  Coming out, He went to the Mount of Olives, as He was accustomed, and His disciples also followed Him.
+               </Language>
+               <Language id="Arabic">
+                  وخرج ومضى كالعادة إلى جبل الزيتون وتبعه تلاميذه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 18:1-2</Language>
+            <Language id="Arabic">يوحنا 18: 1-2</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nai e~tafjotou[oic n~je I/couc: afi~ e~bol nem nefmay/t/c e~m/r e~pimoun cwrem n~te pisencifi: pima ete ouon [wm mmof: vai afse eqoun e~rof n~je I/couc nem nefmay/t/c. 
+               </Language>
+               <Language id="English">
+                  When Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where there was a garden, which He and His disciples entered. 
+               </Language>
+               <Language id="Arabic">
+                  فلما قال يسوع هذا خرج مع تلاميذه إلى عبر وادي قدرون حيث كان في ذلك الموضع بستان، فدخله يسوع مع تلاميذه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Ioudac v/e~nafnat/if nafcwoun hwf mpima e~tem~mau: je oum/s n~cop afywou] e~qoun e~mau nem nefmay/t/c.
+               </Language>
+               <Language id="English">
+                  And Judas, who betrayed Him, also knew the place; for Jesus often met there with His disciples.
+               </Language>
+               <Language id="Arabic">
+                  وكان يهوذا مسلمه يعرف الموضع. لأن يسوع اجتمع هناك كثيراً مع تلاميذه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  After they sang a hymn, they went out of Zion and went up Mount Olive. Our Savior started to tell His disciples openly; tonight all of you will have your doubts about me. All that was written in the Book and and will preceed you to Galilee. Peter said in front of his brother and sheep of the flock will be scattered. After this I shall resurrect and will preceed you to Galilee.
+               </Language>
+               <Language id="Arabic">
+                  ولما سبحوا خرجوا من صهيون وصعدوا إلى جبل الزيتون، فابتدأ مخلصنا يقول لتلاميذه علانية: أنتم كلكم في هذه الليلة تشكون في ويكمل المكتوب في هذا الزمان وسائر أقوال الآنبياء الذين قالوا أني أضرب الراعي فتتفرق غنم رعيته، وبعد هذا كله أنا أقوم وأسبقكم إلى الجليل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Peter said in front of his brothers; if they all deny you I shall not, The Lord said to him; "Assuredly, I say to you that this night, before the rooster crows, you will deny me three times. "And when the rooster crows you will realize what you have just did. If I was on the brink of death I shall not deny you my Lord and God;" said Peter and the rest of the disciples in endearment.
+               </Language>
+               <Language id="Arabic">
+                  فقال بطرس أمام إخوته: لو جحدوك كلهم إلا أنا يا سيدي. فقال له الرب: إعلم يا بطرس أنك في هذه الليلة تجحدني ثلاث مرات وإذا صاح الديك عند ذلك تعلم يا بطرس ما يخرج من فيك. لو بلغت واقتربت من الموت لن أجحدك يا ربي وإلهي، وهكذا قال بقية الرسل الأبرار بمحبة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  This all happened so as to fulfill the prophesy of the prophet in the Psalms saying: "O Lord do not ignore my prayer because the mouth of the sinners has spoken I agaisnt me. Who is that sinner? Judas the son of sin and corruption who bought himself a bad lot with the silver of iniquity. He who sold his master to the Gentiles, rejected grace and gained sin.
+               </Language>
+               <Language id="Arabic">
+                  هذا كله كان لكي يتم قول النبي في المزمور القائل: اللهم لا تسكت عن تسبحتي فإن فم الخاطئ انفتح على. من هو الخاطئ إلا يهوذا مولود الخطية والإثم، هذا الذي اقتنى له نصيباً رديئاً من مال الظلم، وهو الذي باع سيده للأمم ورفض النعمة واحتسب الخطية.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>   
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

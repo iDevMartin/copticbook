@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJohnTheShort:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration St. John the Short:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt e#y#u# n~dikeoc: Abba Iwann/c: pikoloboc pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, our father the righteous Saint, Abba John the short, the lover of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة يا أبانا القديس البار أنبا يؤانس القصير حبيب المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

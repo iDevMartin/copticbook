@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PentecostPeriod ^ !Pentecost">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere tefanactacic...</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere tefanactacic: e~taftwnf e~bolqen n/eymwout: sa n~tefcw] m~mon: e~bolqen nennobi.
+            </Language>
+            <Language id="English">
+               Hail to His resurrection, when He rose from the dead, in order to save us, from our sins.
+            </Language>
+            <Language id="Arabic">
+               السلام لقيامته لما قام من بين الأموات حتي خلصنا من خطايانا.
+            </Language>         
+         </Text>
+         
+         <Group>
+            <Season id="PostAscensionPentecostPeriod">
+               <Text>
+                  <Language id="Coptic">
+                     &lt;ere tefa~nalum'ic : e~tafsenaf e~p~swi e~niv/oui : qen ouw~ou nem outaio : afhemci caouinam m~pefiwt.
+                  </Language>
+                  <Language id="English">
+                     Hail to His ascension, when He went up to the heavens, in glory and honor, is seated at the right hand of His Father.
+                  </Language>
+                  <Language id="Arabic">
+                     السلام لصعوده لما صعد إلي السموات بمجد وكرامة وجلس عن يمين أبيه.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Another Praxis Response</Language>
+            <Language id="Coptic">&lt;ere tefa~nactacic...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               Another response to the Praxis (combines both the Resurrection and Ascension):
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere tefa~nactacic: e~taftwnf e~bol qen n/eymwout: ouoh afsenaf e~!p~swi e~niv/oui: afhemci caouinam m~Pefiwt .
+            </Language>
+            <Language id="English">
+               Hail to His Resurrection, when He is risen from the dead and has ascended into the heavens and is seated at the right hand of His Father.
+            </Language>
+            <Language id="Arabic">
+               السلام لقيامته لما قام من بين الأموات، وصعد إلي السموات بمجد وكرامة وجلس عن يمين أبيه.
+            </Language>         
+         </Text>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

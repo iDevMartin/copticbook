@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" MidnightPraises="true">
+   <Title>
+      <Language id="English">Midnight Praises</Language>      
+      <Language id="Arabic">تسبحة نصف الليل</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         The Midnight Prayer is prayed (all three watches) before the Midnight Praise.
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/agpeya/MidnightHourLink"/>
+   
+   <InsertDocument path="include/praises/IntroductionMidnight"/>
+   <InsertDocument path="include/praises/Ode"/>
+   <InsertDocument path="include/praises/HymnBeforeFirstHoos"/>
+   <InsertDocument path="include/praises/FirstHoos"/>
+   <InsertDocument path="include/praises/HymnAfterFirstHoos"/>
+   
+   <Season id="!Sundays">
+      <Group>
+         <Season id="NativityParamoun">
+            <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnSundayTheotokia"/>
+         </Season>
+         
+         <Season id="NativityPeriod">
+            <InsertDocument path="include/praises/nativity/AdamPsaliOnSundayTheotokia"/>
+         </Season>
+         
+         <Season id="TheophanyPeriod">
+            <InsertDocument path="include/praises/theophany/AdamPsaliOnSundayTheotokia"/>
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            On days other than Sundays, proceed to the Gospel according to Saint Luke, <span class="Coptic">&lt;ere ne Maria~</span>, <span class="Coptic">Cemou]</span>, then <span class="Coptic">Sasf n~cop</span> up to the end of <span class="Coptic">Aumou] e~ro</span> before the Second Canticle.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/theotokia/GospelAndSunday7-9"/>
+   </Season>
+   
+   <InsertDocument path="include/praises/HymnBeforeSecondHoos"/>
+   <InsertDocument path="include/praises/SecondHoos"/>
+   <InsertDocument path="include/praises/HymnAfterSecondHoos"/>
+   <InsertDocument path="include/praises/HymnBeforeThirdHoos"/>
+   <InsertDocument path="include/praises/ThirdHoos"/>
+   <InsertDocument path="include/praises/Aripsaleen"/>
+   <InsertDocument path="include/praises/HymnAfterPraiseOfThreeYouth"/>
+   <InsertDocument path="include/praises/Tenen"/>
+   <InsertDocument path="include/praises/HymnBeforeTenowehEnsok"/>
+   <InsertDocument path="include/praises/TenowehEnsok"/>
+   <InsertDocument path="include/praises/HymnBeforeCommemoration"/>
+   <InsertDocument path="include/praises/Commemoration"/>
+   <InsertDocument path="include/praises/HymnBeforeDoxologies"/>
+      
+   <InsertDocument path="include/doxologies/DoxologiesLink"/>
+   
+   <InsertDocument path="include/praises/HymnBeforeFourthHoos"/>
+   <InsertDocument path="include/praises/FourthHoos"/>   
+   <InsertDocument path="include/praises/HymnAfterFourthHoos"/>
+   <InsertDocument path="include/psalies/Psalies"/>
+   <InsertDocument path="include/praises/HymnBeforeTheotokia"/>
+   <InsertDocument path="include/praises/theotokia/Theotokia"/>   
+   
+   <Group>
+      <InsertDocument path="include/praises/koiahk/ExpositionOfLaborers"/>
+      <InsertDocument path="include/praises/nativityparamoun/expositions/Theotokia"/>
+      <InsertDocument path="include/praises/nativity/expositions/Theotokia"/>
+      <InsertDocument path="include/praises/theophany/expositions/Theotokia"/>
+      
+      <Season id="HosannaSunday">
+         <InsertDocument path="include/Eulogimenoc"/>
+         <InsertDocument path="include/HosannaSundayExpositions"/>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="antiphonary/AntiphonaryLink"/>
+   
+   <InsertDocument path="include/praises/ConclusionTheotokia"/>
+   <InsertDocument path="include/praises/koiahk/YourMercies"/>
+   <InsertDocument path="include/praises/koiahk/ConcludingLitany"/>
+   <InsertDocument path="include/praises/ConclusionMidnight"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <LinkDocument path="clergy/Absolution of the Priests">
+      <Language id="English">Absolution of the Priests</Language>
+      <Language id="Arabic">تحليل الكهنة</Language>
+   </LinkDocument>    
+</Document>

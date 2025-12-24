@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StTheodoreShotep:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Theodore:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: &lt;ere piswij n~genneoc: &lt;ere pia~ylovoroc: Yeodwroc pic~tratilat/c
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: Hail to the noble athlete: Hail to the struggle bearer : Theodorus the General
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد: السلام للبطل الشجاع السلام للابس الجهاد ثيؤدوروس الاسفهسلارس.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

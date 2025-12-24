@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday Eve (The Third Hour)</Language>
+         <Language id="Arabic">ليلة خميس العهد (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Ptiou n~nis] (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Amos 4:4-13</Language>
+               <Language id="Arabic">عاموس 4: 4-13</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Amos"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nai ne n/etefjw m~wou n~je P[oic Vnou]: 
+               </Language>
+               <Language id="English">
+                  [Thus says the Lord God:]
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله الرب الإله: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Areten senwten e~qoun e~B/y/l ouoh a~reten era~nomin: ouoh n~q~r/i qen Galaad Galgal a~reten a~sai e~p~jin ermeta~ceb/c:
+               </Language>
+               <Language id="English">
+                  "You come to Bethel and act lawlessly and multiply your transgressions in Gilgal.
+               </Language>
+               <Language id="Arabic">
+                  إنكم دخلتم إلى بيت إيل فأثمتم، وفى جلجال جلعاد أكثرتم النفاق،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~reteni~ni n~hana~tooui~ n~netensouswousi: nem netenrema] m~v~mah somt n~e~hoou: 
+               </Language>
+               <Language id="English">
+                  You bring your sacrifice in the morning and your tithes every three days. 
+               </Language>
+               <Language id="Arabic">
+                  وفى كل صباح قدمتم ذبائحكم، وفى اليوم الثالث عشوركم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~retenws n~ounomoc cab: ouoh autwbh n~hanomologia~ hiwis:
+               </Language>
+               <Language id="English">
+                  Moreover, outside they read things of the Law and call for professions.
+               </Language>
+               <Language id="Arabic">
+                  وقرأت ناموساً خارجاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  je nai aumenritoun~je nens/ri m~p~Icra/l: peje P[oic Vnou]. 
+               </Language>
+               <Language id="English">
+                   Proclaim that the children of Israel love these things," says the Lord God. " 
+               </Language>
+               <Language id="Arabic">
+                  طلبوا الاعتراف والأنذار لأن بنى اسرائيل أحبوا هذه قال الرب الإله، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nok ]na] nwten n~ouq~lij n~najhi qen netenbaki t/rou: nem oumetreferqae~ n~wik qen netenbaki t/rou: ouoh m~petenkety/nou haroi pe je P[oic: 
+               </Language>
+               <Language id="English">
+                  And in all your cities I gave you cleanness of teeth, and in all your places a lack of bread, Yet you did not return to Me," says the Lord. 
+               </Language>
+               <Language id="Arabic">
+                  فأنى أنا سأعطيكم ضرس الأسنان فى جميع مدنكم، وعوز الخبز فى جميع مدنكم، فلم ترجعوا إلى يقول الرب، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nok aitahno m~pimounhwou e~bolharwten qajen somt n~a~bot n~tep~[wl: ouoh eiehwou hijen oubaki n~ouwt: kebaki de ]nahwou e~jwc an:
+               </Language>
+               <Language id="English">
+                  "And also, I withheld rain from you for the three months before the harvest. I caused it to rain upon one city while I withheld rain from another.
+               </Language>
+               <Language id="Arabic">
+                  وأنا أيضاً منعت عنكم المطر قبل الحصاد بثلاثة أشهر، سأمطر على مدينة واحدة وعلى مدينة أخرى لا أمطر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Outoi n~ouwt ece[imwou ouoh ]ketoi ]nahwou e~jwc an ece~swoui~.
+               </Language>
+               <Language id="English">
+                  On one field it rained, but where it did not rain, the crops withered.
+               </Language>
+               <Language id="Arabic">
+                  جزء واحد يشرب، والجزء الآخر لا أمطر عليه فيجف،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eue~ywou] n~je baki c~nou] ie som] e~oubaki n~ouwt eyrocuemwou ouoh n~nouci: ouoh pair/] on m~peten kety/nou haroi peje P[oic:
+               </Language>
+               <Language id="English">
+                  So two or three cities wandered to another city to drink water, but they were not satisfied. Yet," says the Lord, "you did not return to Me."
+               </Language>
+               <Language id="Arabic">
+                  فتجمع مدينتان أو ثلاث إلى مدينة واحدة ليشربوا ماء و لا يرتوا. وكذلك لم ترجعوا إلى قال الرب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aisari e~rwten qen ouq~mom nem oua~rws: a~reteny~re peten[w~qem a~sai: nem neteniaha~loli nem neteniah kente nem neteniahjwit acouo~mou n~je ]et/si: 
+               </Language>
+               <Language id="English">
+                  "I struck you with a parching and blight. When you multiplied your gardens, your vineyards, your fig trees, and your olive trees, the caterpillar devoured them. 
+               </Language>
+               <Language id="Arabic">
+                  ضربتكم بالحمى والبرد فأكثرتم نجاساتكم، وأكل القمص (أبناء الجراد) جناتكم وكرومكم وتينكم وزيتونكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pair/] on m~peten ket y/nou haroi peje P[oic.
+               </Language>
+               <Language id="English">
+                  Yet you did not turn back to Me," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  وكذلك أيضاً لم ترجعوا إلى قال الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aiouwrp n~oumou e~qoun e~rwten qen v~mwit n,/mi: ouoh aiqwteb n~neten qelsiri qen t~c/fi nem oue,malwcia~ n~netenh~ywr: 
+               </Language>
+               <Language id="English">
+                  "I sent forth death against you by way of Egypt, and I killed your young men with a sword, together with your captured horses. 
+               </Language>
+               <Language id="Arabic">
+                  فأرسلت عليكم وباء فى طرق مصر. قتلت بالسيف شبانكم مع سلب خيلكم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aii~ e~h~r/i qen ou,rwm e~jen netenparembol/ qen oujwnt: ouoh pair/] on mpetenket y/nou haroi peje P[oic:
+               </Language>
+               <Language id="English">
+                  And in My wrath I brought fire upon your army camps. Yet you did not return to Me," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  وأتيت بالنار على عساكركم بغضب، هكذا أيضاً لم ترجعوا إلى يقول الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aivenj y/nou m~v~r/] e~tafvenj n~je Vnou] Codoma nem Gomorra ouoh a~retenswpi m~v~r/] n~oulaoc e~au[a~qmef e~bolqen ou,rwm ouoh m~petenket y/nou haroi peje P[oic.
+               </Language>
+               <Language id="English">
+                  "I overthrew you as God overthrew Sodom and Gomorrah, and you became like a torch that burns out after being plucked out of the fire. Yet even after all this you did not return to Me," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  قلبت بعضكم كما قلب الله سدوم وعمورة فصرتم كشعلة منتشلة من الحريق فلم ترجعوا الي يقول الرب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai ]nai~ri nak Piicra/l: p~l/n ]nairi nak m~pair/]: cebtwtk Piicra/l e~twbh m~peknou]: 
+               </Language>
+               <Language id="English">
+                  "Therefore, O Israel, thus shall I do to you, and because I will do thus to you, make yourself ready to call upon your God, O Israel!
+               </Language>
+               <Language id="Arabic">
+                  لذلك أصنع بك هكذا يا اسرائيل، وبما أنى أصنع هذا فإستعد لتدعوا إلهك يا اسرائيل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je h/ppe a~nok ettajro n~ouqarabai: ouoh etcwnt n~oup~neuma: ouoh efhiwis m~pef,rc qen nirwmi: v/etyamio~ n~hana~tooui nem ounifi: ouoh efa~l/i e~jen ni[ici n~te p~kahi: 
+               </Language>
+               <Language id="English">
+                  For behold, I am the One who strengthens the thunder, and creates the wind, and proclaims His Anointed One to mankind, making the daybreak and the darkness, while treading upon the high places of the earth. 
+               </Language>
+               <Language id="Arabic">
+                  فها أنا المثبت الرعد والخالق الريح والمبشر بمسيحه فى البشر الخالق الصبح والنسمة والراكب على أعالى الأرض، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic Vnou] pipantokratwr pe pefran.
+               </Language>
+               <Language id="English">
+                  The Lord God Almighty is His name!"
+               </Language>
+               <Language id="Arabic">
+                  الرب الإله الضابط الكل هو أسمه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 54:21, 1</Language>
+               <Language id="Arabic">مزمور 54: 21, 1</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  The Psalm <span class="Coptic">Au[~non</span> is chanted in the Syrian “Shammy” tune of <span class="Coptic">Peky~ronoc</span>:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Au[~non n~je nefcaji e~hote ouneh: ouoh n~ywou han coynef ne: 
+               </Language>
+               <Language id="English">
+                  His words were softened above oil, And they are arrows. 
+               </Language>
+               <Language id="Arabic">
+                  كلامه ألين من الدهن وهو نصال. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  {ic~m/ Vnou] e~ta p~roceu,/: ouoh m~perhi p~ho m~patwbh: All/louia.
+               </Language>
+               <Language id="English">
+                  Give ear to my prayer, O God, And do not despise my supplication: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أنصت يا الله لصلاتى، و لا تغفل عن تضرعى: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 14:3-11</Language>
+            <Language id="Arabic">مرقس 14: 3-11</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ef,/ qen b/ya~nia~ qen p~/i n~Cimwn pikakceht efrwteb aci~ n~je ouc~himi e~re ouon oumoki n~cojen n~totc nardoc m~pic~tik/ e~nasen~couenf:
+               </Language>
+               <Language id="English">
+                  And being in Bethany at the house of Simon the leper, as He sat at the table, a woman came having an alabaster flask of very costly oil of spikenard.
+               </Language>
+               <Language id="Arabic">
+                  وفيما هو فى بيت عنيا فى منزل سمعان الأبرص متكئاً، جاءت إمرأة ومعها قارورة طيب ناردين خالص كثير الثمن،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eacqomqem m~pimoki acjosf ejen tefa~ve. 
+               </Language>
+               <Language id="English">
+                  Then she broke the flask and poured it on His head. 
+               </Language>
+               <Language id="Arabic">
+                  فكسرت القارورة وسكبته على رأسه، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nare hanouon ,~remrem nem noue~r/ou: je eybeou a~paitako n~te paicojen swpi.
+               </Language>
+               <Language id="English">
+                  But there were some who were indignant among themselves, and said, “Why was this fragrant oil wasted?
+               </Language>
+               <Language id="Arabic">
+                  وكان قوم قد تذمروا فيما بينهم قائلين: لم كان أتلاف هذا الطيب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Neouon s~jom gar e~]m~vai e~bol capswi n~somt se n~cayeri ouoh e~t/itou n~nih/ki: ouoh naum~bon e~roc pe.
+               </Language>
+               <Language id="English">
+                  For it might have been sold for more than three hundred denarii and given to the poor.” And they criticized her sharply.
+               </Language>
+               <Language id="Arabic">
+                  فإنه كان يمكن أن يباع هذا بأكثر من ثلثمائة دينار ويعطى للمساكين. وكانوا يؤنبونها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/couc nwou je ,ac: a~qwten teten]qici nac: ouhwb e~nanef petacerhwb e~rof n~q/t.
+               </Language>
+               <Language id="English">
+                  But Jesus said, “Let her alone. Why do you trouble her? She has done a good work for Me.
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم يسوع: دعوها، ما بالكم تعنفونها؟ عملاً حسناً الذى عملته به،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nc/ou niben nih/ki ce nemwten: ouoh e~swp n~tetenouws ouons~jom m~mwten e~er peynanef nemwou n~c/ou niben: a~nok de ]nemwten an n~c/ou niben. 
+               </Language>
+               <Language id="English">
+                  For you have the poor with you always, and whenever you wish you may do them good; but Me you do not have always. 
+               </Language>
+               <Language id="Arabic">
+                  فإن المساكين معكم كل حين، وإذا أردتم أمكنكم أن تحسنوا إليهم كل حين، وأما أنا فلست معكم فى كل حين، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/e~tac[itf acaif acersorp gar n~yahc m~pacwma m~paicojen e~pjinkoct.
+               </Language>
+               <Language id="English">
+                  She has done what she could. She has come beforehand to anoint My body for burial.
+               </Language>
+               <Language id="Arabic">
+                  عملت ما عندها قد سبقت و دهنت بالطيب جسدي للتكفين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~m/n ]jwm~moc nwten: je pima e~tounahiwis m~paieuaggelion m~mof qen pikocmoc t/rf: v/hwf e~tayai aif eue~caji m~mof eumeui~ nac.
+               </Language>
+               <Language id="English">
+                  Assuredly, I say to you, wherever this gospel is preached in the whole world, what this woman has done will also be told as a memorial to her.”
+               </Language>
+               <Language id="Arabic">
+                  الحق أقول لكم إنه حيثما يكرز بهذا الإنجيل  فى العالم كله، يخبر أيضاً بما عملته هذه تذكاراً لها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Ioudac piickariw~t/c piouai n~te pim/t c~nau afsenaf ha niar,/e~reuc hina n~teft/if nwou. 
+               </Language>
+               <Language id="English">
+                  Then Judas Iscariot, one of the twelve, went to the chief priests to betray Him to them.
+               </Language>
+               <Language id="Arabic">
+                  ثم أن يهوذا الإسخريوطى أحد الإثنى عشر ذهب إلى رؤساء الكهنة لكى يسلمه إليهم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de e~taucwtem aurasi ouoh au]naf n~ouhat: ouoh nafkw] je pwc f~nat/if qen oueukeria.
+               </Language>
+               <Language id="English">
+                  And when they heard it, they were glad, and promised to give him money. So he sought how he might conveniently betray Him.
+               </Language>
+               <Language id="Arabic">
+                  فلما سمعوا فرحوا وأعطوه فضة فكان يلتمس فرصه كيف يسلمه بحيلة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  The woman poured the precious spikenard over the Lords feet and who wiped them with her hair because of her loyalty and great love. 
+               </Language>
+               <Language id="Arabic">
+                  المرأة التى دهنت رجلى الرب بالطيب الفائق ومسحتهما بشعر رأسها، من أجل ثبات أمانتها وحبها الكثير. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Thus she earned for herself good dividends and her name filled the earth.
+               </Language>
+               <Language id="Arabic">
+                  هذه إقتنت لها نصيباً صالحاً وصيتاً عالياً فى جميع العالم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The disciples spread the word about her deed in all corners of the earth. Her name is honored by the faithful from generation to generation.
+               </Language>
+               <Language id="Arabic">
+                  وبشر الرسل بما فعلته فى جميع زوايا الأرض، فدام إسمها فى جميع الأجيال، يتلوه سائر المؤمنين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Behold these spiritual gifts and the high esteem she gained. Let us be filled with zeal over her integrity and love of the Lord with all our hearts.
+               </Language>
+               <Language id="Arabic">
+                  يا لهذه المواهب الروحانية وهذه الكرامات العالية التى فازت بها، فلنمتلئ غيره على فضيلتها ونحب الرب من كل قلوبنا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Not like Judas who became infuriated by her good deed. This cost him his evil thoughts that led him to betray his master.
+               </Language>
+               <Language id="Arabic">
+                  وليس مثل يهوذا الذى حنق عليها من أجل أنها صنعت الخير.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And the silver he received as a price of the precious blood (of Jesus Christ) will perish with him in hell. May His name disappear in one generation and may he be denied descendants on earth.
+               </Language>
+               <Language id="Arabic">
+                  فكلفته أفكاره الشريرة حتى باع سيده، والفضة التى أخذها ثمن الذكى ستهبط معه إلى الجحيم ليفنى أسمه فى جيل واحد و لا يكون له خلف على الأرض.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

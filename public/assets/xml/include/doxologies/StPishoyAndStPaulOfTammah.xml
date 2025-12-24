@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPishoyAndStPaulOfTammah:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Pishoy and St. Paul of Tammah</Language>
+            <Language id="Arabic">ذوكصولوجية لأنبا بيشوى و أنبا بولا الطموهى</Language>
+            <Language id="Coptic">Iwc/v piar...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Pishoy and St. Paul of Tammah:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Iwc/v piar,/e~reuc: n~te ]nis] m~baki Rako]: piparyenoc eutoub/out: etjolh m~piyebio m~m/i.
+            </Language>
+            <Language id="English">
+               O Joseph the archpriest, of the great city of Alexandria, the pure virgin, adorned with true humility.
+            </Language>
+            <Language id="Arabic">
+               يايوساب رئيس كهنة المدينة العظمى الاسكندرية البتول النقى الملتحف بالتواضع الحقيقى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nh~r/i qen nie~hoou: n~te tekmetar,/e~reuc: a~painis] n~h~mot tahon: a~non qa niatemp~sa.
+            </Language>
+            <Language id="English">
+               For in the days, of your high-priesthood, this great grace came to us, we the undeserving.
+            </Language>
+            <Language id="Arabic">
+               فى أيام رئاستك أدركتنا هذه النعمة العظيمة نحن غير المستحقين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ete pijini~ saron: n~te nenio] n~c~taurovoroc: abba Piswi nem abba Paule: nivwct/r e~terouwini.
+            </Language>
+            <Language id="English">
+               That is the coming of our fathers, the cross-bearers, Abba Pishoy and Abba Paul, the shining stars.
+            </Language>
+            <Language id="Arabic">
+               أى مجىء أبوينا لابسى الصليب الينا أنبا بيشوى وأنبا بولا الكوكبين النيرين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nai e~tauswpi nan: c~nau n~lum/n n~te pioujai: aue~rouwini n~nen'u,/: hiten noulum'anon e#y#u#.
+            </Language>
+            <Language id="English">
+               These who became unto us, two harbors of salvation, they have enlightened our souls, through their holy bodies.
+            </Language>
+            <Language id="Arabic">
+               هذان اللذان صارا لنا ميناء للخلاص وأضاءا أنفسنا بواسطة جسديهما الطاهرين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Piswi: piy~m/i pirwmi n~telioc: ,ere peniwt abba Paule: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Pishoy, the just and perfect man, hail to our father Abba Paul, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا بيشوى الرجل البار الكامل السلام لأبينا أنبا بولا حبيب المسيح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StPishoyAndStPaulOfTammah"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelRaphael:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Raphael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~Viwt nem Ps/ri: nem Pip~neuma eyouab: n~tentaio~ n~Rava/l: pimahsomt n~ar,/aggeloc.
+            </Language>
+            <Language id="English">
+               We worship the Father and the Son and the Holy Spirit, and honor Raphael, the third archangel.
+            </Language>
+            <Language id="Arabic">
+               نسجدُ للآب والابن  والروحِ القدس ، ونكرم رافائيل الثالث فى رؤساء الملائكة.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

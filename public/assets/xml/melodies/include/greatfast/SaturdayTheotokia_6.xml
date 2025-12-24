@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Sixth Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة السادسـة)
+            </Language>
+         </Title>
+
+         <Text>
+            <Language id="English">
+               Attend church and recite the readings / 
+               Beat your chest during the prayers / 
+               He who does not love his brother / 
+               Lives in the midst of the darkness
+            </Language>
+            <Language id="Arabic">
+               واظبوا على الكنائس وأتلوا القراءة / 
+               ودقوا صدوركم فى الصلوات / 
+               وأى إنسان لا يحب أخاه / 
+               فهو كائن فى وسط الظلمات
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               How beautiful are the epistles / 
+               Sweeter than the honeycomb / 
+               Saint Paul’s words restored the disobedient / 
+               Both, free and slaves, men and women
+            </Language>
+            <Language id="Arabic">
+               قول الرسائل ياما أحلاه / 
+               ألذ من شهد الخلايات / 
+               بولس رد به كل عصاه / 
+               أحرار وعبيد ذكور وأناث
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The house of worship and guidance / 
+               Is the Orthodox Church / 
+               The house of angels and soldiers<sup>1</sup> / 
+               The house of the Christian nation
+            </Language>
+            <Language id="Arabic">
+               بيت العبادة والإرشاد / 
+               البيعة الأرثوذكسية / 
+               بيت الملائكة والأجناد / 
+               بيت الأمة النصرانية
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               <ol start="1">
+                  <li>Heavenly soldiers</li>                  
+               </ol>
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               [Living] water is available in Her / 
+               For the salvation of humanity / 
+               As mentioned in the Song of Songs / 
+               The homilies and the Didascalia<sup>2</sup>
+            </Language>
+            <Language id="Arabic">
+               موضوع لنا فيها ماء وزاد / 
+               لأجل خلاص البشرية / 
+               يذكر عنه نشيد الأنشاد / 
+               فى المواعظ والدسقولية
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               <ol start="2">
+                  <li>Teachings of the Apostles</li>                  
+               </ol>
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               The mother is joyful in her children / 
+               When they are thirsty, she quenches them / 
+               Their vessels are always full / 
+               The dwellers in her are given drink
+            </Language>
+            <Language id="Arabic">
+               أم الأولاد تفرح بالبنين / 
+               يكونوا عطاشى ترويهم / 
+               وأوعيتها دائماً ملآنين / 
+               والقائمين فيها تسقيهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

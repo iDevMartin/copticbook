@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The Sixth Hour (Sext)</Language>
+      <Language id="Arabic">صلاة الساعة السادسة</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         12:00 PM: To commemorate the Crucifixion of our Lord Jesus Christ.
+      </Language>
+      <Language id="Arabic">
+         تُقابل الثانية عشر ظهراً بالتوقيت الفرنجي. رُتبت بمناسبة تعليق مخلصنا عَلى الصليب في مثل هذه الساعة.
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+   <InsertDocument path="include/agpeya/6thHourIntro"/>
+   <InsertDocument path="include/agpeya/psalms/6thHour"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Matthew, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار متى البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Matthew 5:1-16)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا متى ص 5: 1-16
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               And seeing the multitudes, He went up on the mountain, and when He was seated, His disciples came to Him. And He opened His mouth, and taught them, saying:
+            </Language>
+            <Language id="Arabic">
+               فلما أبصر الجموع صعد إلى الجبل. وعندما جلس تقدم إليه تلاميذه، ففتح فاه وعلمهم قائلا:
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               “Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth. Blessed are those who hunger and thirst for righteousness, for they shall be filled. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure in heart, for they shall see God. Blessed are the peacemakers, for they shall be called sons of God. Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
+            </Language>
+            <Language id="Arabic">
+               طوبى للمساكين بالروح، لأن لهم ملكوت السموات. طوبى للحزانى الآن، لأنهم يتعزون. طوبى للودعاء، لأنهم يرثون الأرضَ. طوبى للجياع والعطاش إلى البر لأنهم يُشبعون. طوبى للرحماء لأنهم يُرحمون. طوبى لأنقياء القلب لأنهم يعاينون الله. طوبى لصانعي السلام، لأنهم يُدعَون أبناءَ الله. طوبى للمطرودين من أجل البر لأن لهم ملكوت السموات.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               “Blessed are you, when they revile you, and persecute you, and say all kinds of evil against you falsely for My sake. Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.
+            </Language>
+            <Language id="Arabic">
+               طوبى لكم إذا طردوكم وعيروكم وقالوا فيكم من أجلي كل شر كاذبين. افرحوا وتهللوا لأن أجركم عظيم في السموات، فإنهم هكذا طردوا الأنبياء الذين كانوا قبلكم.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               “You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.
+            </Language>
+            <Language id="Arabic">
+               أنتم مِلح الأرض، فإذا فسد المِلح فبماذا يُملح؟ لا يصلح بعد لشيء، إلا لأن يطرح خارجا وتدوسه الناس.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               “You are the light of the world. A city that is set on a hill cannot be hidden; nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.
+            </Language>
+            <Language id="Arabic">
+               أنتم نور العالم. لا يمكن أن تخفى مدينة كائنة على جبل. ولا يوقدون سراجا ويضعونه تحت المكيال، بل يضعونه على المنارة فيضيء لكل من في البيت.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               “Let your light so shine before men, that they may see your good works, and glorify your Father Who is in heaven.”
+            </Language>
+            <Language id="Arabic">
+               هكذا فليضئ نوركم قدام الناس، لكي يروا أعمالكم الصالحة فيمجدوا أباكم الذي في السموات.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. O You, Who on the sixth day and in the sixth hour was nailed to the cross, for the sin which our father Adam dared to commit in Paradise, tear the handwriting of our sins, O Christ our God, and save us. I cried to God, and the Lord heard me. God hear my prayer, and do not refuse my petition. Be attentive to me and hear me in the evening, in the morning, and at midday. I say my words, and He hears my voice and delivers my soul in peace.
+            </Language>
+            <Language id="Arabic">
+               1. يا من في اليوم السادس وفى الساعة السادسة سمرت على الصليب، من أجل الخطية التي تجرأ عليها أبونا أدم في الفردوس، مزق صك خطايانا أيها المسيح إلهنا وخلصنا. أنا صرخت إلى الله والرب سمعني. اللهم استجب صلاتي ولا ترفض طلبتي. التفت إليّ واسمعني. عشية وباكر ووقت الظهر، كلامي أقوله فيسمع صوتي، ويخلص نفسي بسلام.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. O Jesus Christ, our God, who was nailed to the cross in the sixth hour, and killed sin by the tree, and by Your death You made alive the dead man, whom You created with Your own hands, and had died in sin. Put to death our pains by Your healing and life-giving passions, and by the nails with which You were nailed. Rescue our minds from thoughtlessness of the earthly deeds and worldly lusts, to the remembrance of Your heavenly commandments, according to Your compassion.
+            </Language>
+            <Language id="Arabic">
+               2. يا يسوع المسيح إلهنا الذي سمرتَ على الصليب في الساعة السادسة، وقتلت الخطية بالخشبة، وأحييت الميت بموتك، الذي هو الإنسان الذي خلقته بيديك، الذي مات بالخطية. اقتل أوجاعنا بآلامك الشافية المحيية، وبالمسامير التي سمرت بها، أنقذ عقولنا من طياشة الأعمال الهيولية والشهوات العالمية، إلى تذكر أحكامك السمائية كرأفتك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. Since we have no favor, nor excuse, nor justification because of our many sins, we, through you, implore to Him who was born of you, O Mother of God (Theotokos), the Virgin, for abundant and acceptable is your intercession with our Savior. O holy mother, do not exclude sinners from your intercession with Him whom you bore, for He is merciful and able to save us, because He suffered for us to deliver us. Let your compassion speedily reach us, for we are exceedingly humbled. Help us, O God, our Savior, for the glory of Your name. O Lord, deliver us and forgive us our sins for the sake of Your holy name.
+            </Language>
+            <Language id="Arabic">
+               3. إذ ليس لنا دالة ولا حجة ولا معذرة من أجل كثرة خطايانا، فنحن بك نتوسل إلى الذي ولد منك يا والدة الإله العذراء. لأن كثيرة هي شفاعتك، قوية ومقبولة عند مخلصنا. أيتها الأم الطاهرة، لا ترفضني الخطاة من شفاعتك عند الذي ولد منك، لأنه رحوم وقادر على خلاصنا، لأنه تألم من أجلنا لكي ينقذنا، فلتدركنا رأفتك سريعا لأننا قد تمسكنَّا جدا. أعنا يا الله مخلصنا من أجل مجد اسمك. يا رب نجنا واغفر لنا خطايانا، من أجل اسمك القدوس.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               4. You wrought salvation in the midst of all the earth, O Christ our God, as You stretched Your holy hands on the cross. Therefore, all nations cry out saying, “Glory be to You O Lord.”
+            </Language>
+            <Language id="Arabic">
+               4. صنعت خلاصا في وسط الأرض كلها أيها المسيح إلهنا، عندما بسطت يديك الطاهرتين على عود الصليب. فلهذا كل الأمم تصرخ قائلة: المجد لك يا رب.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               5. We worship Your incorruptible person, O Good One, asking for the forgiveness of our sins, O Christ our God. For, of Your will, You were pleased to be lifted up onto the cross, to deliver those whom You created from the bondage of the enemy. We cry out unto You and give thanks to You, for You have filled all with joy, O Savior, when You came to help the world. Lord, glory be to You.
+            </Language>
+            <Language id="Arabic">
+               5. نسجد لشخصك غير الفاسد أيها الصالح، طالبين مغفرة خطايانا أيها المسيح إلهنا. لأن بمشيئتك سررت أن تصعد على الصليب، لتنجي الذين خلقتهم من عبودية العدو. نصرخ إليك ونشكرك لأنك ملأت الكل فرحا، أيها المخلص لما أتيت لتعين العالم، يا رب المجد لك.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               6. You are she who is full of grace, O Mother of God (Theotokos), the Virgin, we praise you, for, through the cross of your Son, Hades fell down and death was abolished. We were dead but we are raised and became worthy of eternal life, and gained the delight of the first Paradise. Therefore, we thankfully glorify the immortal Christ our God.
+            </Language>
+            <Language id="Arabic">
+               6. أنت هي الممتلئة نعمة يا والدة الإله العذراء. نعظمك لأن من قبل صليب ابنك انهبط الجحيم وبطل الموت. أمواتا كنا فنهضنا، واستحققنا الحياة الأبدية، ونلنا نعيم الفردوس الأول. من أجل هذا نمجد بشكر غيرَ المائت المسيح إلهنا.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/TrisagionCollapsed"/>   
+   <InsertDocument path="include/agpeya/HailToYouCollapsed"/>
+   
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Section expanded="true">       
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            We thank You, our King, the Almighty (Pantocrator), the Father of our Lord God and Savior Jesus Christ, and glorify You, for You have made the times of the passions of Your Only-Begotten Son, to be times of comfort and prayer. Accept unto You our supplication and abolish the handwriting of our sins that is written against us, just as You tore it in this holy hour, by the cross of Your Only-Begotten Son, Jesus Christ, our Lord and Savior of our souls, this is by which You destroyed all the power of the enemy.
+         </Language>
+         <Language id="Arabic">
+            نشكرك يا ملكنا ضابط الكل أبا ربنا وإلهنا مخلصنا يسوع المسيح ونمجدك، لأنك جعلت أوقات الآلام أبنك الوحيد أوقات عزاء وصلاة. اقبل إليك تضرعنا، وامح عنا صك خطايانا المكتوبة علينا، كما مزقته في هذه الساعة المقدسة بصليب ابنك الوحيد يسوع المسيح ربنا ومخلص نفوسنا، هذا الذي به هدمتَ كل قوة العدو.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            Grant us, O God, a glorious time, a spotless conduct, and a peaceful life, so that we may please Your holy and worshipped name, and that, without falling into condemnation, we may stand before the fearful and just throne of Your Only-Begotten Son Jesus Christ our Lord, and that we, together with all Your saints, glorify You, the Father, who is without beginning, and the Son who is of one essence with You, and the Holy Spirit the Life-Giver, now and forever and unto the ages of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            أعطنا يا الله وقتا بهيا، وسيرة بلا عيب، وحياة هادئة، لنرضي اسمك القدوس المسجود له، ونقف أمام المنبر المخوف العادل الذي لابنك الوحيد يسوع المسيح ربنا بغير وقوع في دينونة، ونمجدك مع كافة قديسيك. أنت الآب غير المبتدئ والابن المساوي لك، والروح القدس المحيى، الآن وكل أوان وإلى دهر الدهور كلها. أمين.
+         </Language>
+      </Text>
+   </Section>
+         
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

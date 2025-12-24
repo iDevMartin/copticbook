@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Sundays">      
+      <InsertDocument path="include/praises/theotokia/Sunday1"/>      
+      <InsertDocument path="include/praises/koiahk/FirstExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday2"/>      
+      <InsertDocument path="include/praises/koiahk/SecondExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday3"/>      
+      <InsertDocument path="include/praises/koiahk/ThirdExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday4"/>      
+      <InsertDocument path="include/praises/koiahk/FourthExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday5"/>      
+      <InsertDocument path="include/praises/koiahk/FifthExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday6"/>      
+      <InsertDocument path="include/praises/koiahk/SixthExplanation"/>
+      
+      <InsertDocument path="include/praises/theotokia/GospelAndSunday7-9"/>
+      <InsertDocument path="include/praises/koiahk/YouAreWorthy"/>
+      
+      <Group>
+         <Season id="KoiahkSeason ^ MidnightPraises">
+            <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia"/>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/praises/theotokia/Sunday10"/>            
+      <InsertDocument path="include/praises/theotokia/Sunday11-17"/>
+   </Season>
+</Document>

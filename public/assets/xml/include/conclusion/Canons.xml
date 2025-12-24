@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/conclusion/CanonJoyousSaturday"/>
+   <InsertDocument path="include/conclusion/CanonResurrectionAndPentecostVespers"/>
+   <InsertDocument path="include/conclusion/CanonPentecostMatins"/>
+   <InsertDocument path="include/conclusion/CanonHosannaSundayVespers"/>
+   <InsertDocument path="include/conclusion/CanonPostAscensionPentecostPeriodRaisingOfIncense"/>
+   <InsertDocument path="include/conclusion/CanonKoiahkWeekdayLiturgy"/>
+   <InsertDocument path="include/conclusion/CanonJonahFastAndGreatFastWeekdays"/>
+</Document>

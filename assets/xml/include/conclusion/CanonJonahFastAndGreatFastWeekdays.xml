@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="!Feasts ^ Liturgy ^ !FirstMondayOfGreatFast ^ !LastFridayOfGreatFast ^ (JonahFast | JonahPassover | (GreatFast ^ Weekdays))">
+      <Group>         
+         <Season id="JonahFast | JonahPassover">
+            <Comment>
+               <Language id="English">
+                  During the Fast of Jonah (there is an opinion that this concluding hymn should not be chanted at all during Jonah’s fast):
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="GreatFast ^ Weekdays">
+            <Comment>
+               <Language id="English">
+                  For the weekdays of the Great Fast:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            Cwmatoc ke /~matoc monogen/c yeou metalabontec autw eu,arict/cwmen. 
+         </Language>
+         <Language id="English">
+            The Body and Blood of the only-begotten God; having partaken, let us give thanks to Him.
+         </Language>
+         <Language id="Arabic">
+            جسد ودم الإله الوحيد اللذان تناولنا منهما فلنشكره.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/DoxaPatriNoRole"/>
+            
+      <Text>
+         <Language id="Coptic">
+            Cwmatoc ke /~matoc monogen/c yeou metalabontec autw eu,arict/cwmen. 
+         </Language>
+         <Language id="English">
+            The Body and Blood of the only-begotten God; having partaken, let us give thanks to Him.
+         </Language>
+         <Language id="Arabic">
+            جسد ودم الإله الوحيد اللذان تناولنا منهما فلنشكره.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+            
+      <Text>
+         <Language id="Coptic">
+            Vai pe picwma nem pic~nof n~te pimonogen/c n~nou] nai e~tan[i e~bol n~q/tou: marenseph~mot n~totf marenhwc nem niaggeloc nem nitagma n~te p~[ici nem p~,oroc n~te niy~m/i enws e~bol n~jw m~moc
+         </Language>
+         <Language id="English">
+            This is the Body and Blood of the only-begotten God; having partaken, let us give thanks to Him. Let us sing praises with the angels and the orders of the Highest and the choir of the righteous, proclaiming and saying:
+         </Language>
+         <Language id="Arabic">
+            هذا هو جسد ودم الإله الوحيد اللذان تناولنا منهما فلنشكره ولنسبح مع الملائكة وطغمات العلا. وصفوف الأبرار صارخين قائلين: 
+         </Language>
+      </Text>
+      
+      <Group>
+         <Season id="JonahFast | JonahPassover">
+            <Text>
+               <Language id="Coptic">
+                  C~mou e~nia~/r n~te t~ve: Mare peknai nem tekhir/n/ oi n~cobt m~peklaoc:
+               </Language>
+               <Language id="English">
+                  Bless the air of heaven. May Your mercy and peace be a fortress unto Your people: 
+               </Language>
+               <Language id="Arabic">
+                  بارك اهوية السماء ولتكن رحمتك وسلامك حصنا لشعبك
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Swp e~rok n~tenn/ctia~ ,w nan e~bol n~nena~nomia: hiten nen twbh nem nen p~recbia~ n~te ten[oic n~n/b Maria: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  Accept the fasting and forgive me my lawlessness, through her prayers and her intercessions, O my Lady Mary. Save us ….
+               </Language>
+               <Language id="Arabic">
+                 أقبل اليك الصوم وأغفر لي أثامي بطلباتها وشفاعاتها سيدتي مريم. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="GreatFast ^ Weekdays">
+            <Text>
+               <Language id="Coptic">
+                  Je v/e~tafern/cteuin e~h~r/i e~jwn n~h~me n~e~hoou nem h~me n~e~jwrh: swp e~rok n~]n/ctia~ ,w n/i e~bol n~na a~nomia: hiten nectwbh nem necp~recbia~ n~te ta[oic n~n/b Maria: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  O You who fasted for us forty days and forty nights, accept the fasting and forgive me my lawlessness, through the prayers and intercessions of my Lady, Mary. Save us …. 
+               </Language>
+               <Language id="Arabic">
+                  يا من صام عنا أربعين يوماً وأربعين ليلة، أقبل اليك الصوم وأغفر لي أثامي بطلبات وشفاعات سيدتي مريم. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>         
+         </Season>
+      </Group>
+   </Season>
+</Document>

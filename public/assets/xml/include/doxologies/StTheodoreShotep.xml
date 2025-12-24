@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StTheodoreShotep:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Prince Theodore The Son of John of Shotep</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيد الأمير تادرس بن يوحنا الشطبى</Language>
+            <Language id="Coptic">APeno#c# I/#c# P,#c#...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Theodore:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               APeno#c# I/#c# P,#c#: sanah~y/f qa niermwoui~: n~te ],/ra et qen Nai~n: aftounoc pecs/ri nac.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, was compassionate to the tears, of the widow of Nain, He raised her son.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح تحنن على دموع الأرملة ببلدة نايين وأقام لها ابنها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Yeodwroc pic~tratilat/c: afsanah~y/f qa niermwoui~: n~te ],/ra et qen Eu,/toc: aftouje necs/ri nac.
+            </Language>
+            <Language id="English">
+               Theodorus the general, was compassionate to the tears, of the widow of Eucaita, he raised her sons.
+            </Language>
+            <Language id="Arabic">
+               وثيؤدوروس الاسفهسلار تحنن على دموع الأرملة التي ببلدة أوخيطس وخلص لها أولادها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tener,oreuin: nem pihumnodoc Dauid: je eke~hwmi e~jen ouhof: nem oubacilickoc.
+            </Language>
+            <Language id="English">
+               Wherefore we sing, with David the Psalmist, saying "Tread upon serpents, and the power of scorpions."
+            </Language>
+            <Language id="Arabic">
+               فلهذا نمدح مع المرتل داود قائلين تدوس الثعبان وملك الحيات.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StTheodoreShotep"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for Prince Theodore The Son of John of Shotep</Language>
+            <Language id="Arabic">ذوكصولوجية آخري للشهيد الأمير تادرس بن يوحنا الشطبى</Language>
+            <Language id="Coptic">APeno#c# I/#c# P,#c#...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Theodore:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               APeno#c# I/#c# P,#c#: sanah~y/f qa niermwoui~: n~te ],/ra et qen Nai~n: aftounoc pecs/ri nac.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ: was compassionate to the tears: of the widow of Nain: and He raised a son for her.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح تحنن على دموع الأرملة ببلدة نايين وأقام لها ابنها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Genoc niben n~te nirwmi: etsop qen t~,wra n~Eu,/toc: aunau e~teknis] m~metjwri: w~ pia~gioc Yeodwroc.
+            </Language>
+            <Language id="English">
+               Every generation of men: who lived in the land of Euchaita: saw your great strength: O Saint Theodore.
+            </Language>
+            <Language id="Arabic">
+               كل جنس البشر سكان اقليم أفخيتوس نظروا قوتك العظيمة أيها القديس ثيؤدوروس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Mv~nau e~takqok e~jen tek]pi: ouoh akqwteb m~pid~rakon: n~reftake kouji n~a~lou: aknohem n~nis/ri n~te ],/ra.
+            </Language>
+            <Language id="English">
+               At the time you girded your loins: and killed the dragon: the destroyer of young children: you rescued the widow’s sons.
+            </Language>
+            <Language id="Arabic">
+               لما نظروا سلاحك علي وسطك وقتلت التنين مُهلك الاطفال الصغار وانقذت أولاد الارملة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etakqolqel m~p~catanac: pinis] m~pid~rakon ethwou: hiten piqellibs n~te pinah]: nem t~c/fi n~te Pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               You slayed Satan: the great and evil dragon: through the breastplate of faith: and the sword of the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               لما ذبحت الشيطان التنين العظيم الشرير من قبل ثبات الايمان وسيف الروح القدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Yeodwroc pic~tratilat/c: piagwnict/c m~m/i: pirefmisi n~kalwc: pijwri n~ref[ro.
+            </Language>
+            <Language id="English">
+               Theodore the General: the righteous struggler: the good fighter: and the strong victor.
+            </Language>
+            <Language id="Arabic">
+               ثيؤدوروس الاسفهسلار الأمير الحقيقي المقاتل حسناً القوي الغالب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/etafjwk e~bol e~jwf: n~je p~caji m~pip~rov/tikon: je akhwmi e~jen ouhof: nem oubacilickoc.
+            </Language>
+            <Language id="English">
+               He who upon him was fulfilled: the prophetic word, saying: “You trampled upon a serpent: and a basilisk”.
+            </Language>
+            <Language id="Arabic">
+               الذي كمل عليك القول النبوي لانك دست علي الثعبان ملك الحيات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~gennoc: ,ere piaylovoroc: Yeodwroc pic~tratilat/c.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail the courageous hero: Hail the struggle-mantled: Theodore the General.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع البطل السلام للمجاهد ثيؤدوروس الاسفهسلار.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StTheodoreShotep"/>
+      </Section>
+   </Season>
+</Document>

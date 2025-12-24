@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Wedding at Cana of Galilee:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc Ps/ri m~V] afc~mou e~nimwou afaitou n~/rp: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Jesus Christ, the Son of God, blessed the waters, and made them wine. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله بارك المياه فصيرها خمرا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

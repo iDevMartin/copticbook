@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">}paryenoc Mariam...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Paramoun of the Nativity:
+            </Language>
+         </Comment>
+        
+         <Text>
+            <Language id="Coptic">
+               }paryenoc Mariam: nem Iwc/v nem Caloum/: auers~v/ri e~masw eybe n/e~taunau e~rwou.
+            </Language>
+            <Language id="English">
+               The Virgin mary: and Joseph and Salome: were very amazed: because of what they saw.
+            </Language>
+            <Language id="Arabic">
+               مريم العذراء ويوسف وسالومي تعجبوا جدا ممن رأوه.  
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>
+   </Season>
+</Document>

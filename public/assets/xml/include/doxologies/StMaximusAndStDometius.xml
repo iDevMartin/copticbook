@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMaximusAndStDometius:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Maximus and St. Dometius</Language>
+            <Language id="Arabic">ذوكصولوجية للقديسين الروميين مكسيموس ودوماديوس</Language>
+            <Language id="Coptic">Nivwct/r...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Maximus and St. Dometius
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Nivwct/r n~te ]meym/i: ouoh ninis] n~ar,/goc: n~te tencunoudia~ e#y#u#: Maximoc nem Dometioc.
+            </Language>
+            <Language id="English">
+               The stars of the truth, and the great princes, of our holy congregation, Maximus and Dometius.
+            </Language>
+            <Language id="Arabic">
+               كوكبا الحق والرئيسان العظيمان اللذان لمجمعنا المقدس مكسيموس ودوماديوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nai e~tacyouwten qen nouran: n~je }t~riac n~reftanqo: eyrenmosi n~ca nousentatci: n~tenervorin m~pouc~,/ma e#y#u#.
+            </Language>
+            <Language id="English">
+               These whom the Life-giving Trinity, has gathered us in their name, that we may follow in their footsteps, and wear their holy images.
+            </Language>
+            <Language id="Arabic">
+               هذان اللذان جمعنا باسميهما الثالوث المحيى لكى نتبع آثارهما ونلبس شكلهما المقدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Au] e~toten n~niws: etc~q/out qen pieuaggelion: e~te yai te ]metmaicon: p~jwk e~bol n~niare~t/ t/rou.
+            </Language>
+            <Language id="English">
+               They gave us the written promises, that were in the Gospel, this is the love of brothers, the perfection of all virtues.
+            </Language>
+            <Language id="Arabic">
+               وسلما لنا المواعيد المكتوبة فى الانجيل التى هى المحبة الأخوية كمال جميع الفضائل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Enersai qen touekk~l/cia~: enjwk m~pouerv~meui~ e~bol: en]w~ou n~}t~riac: m~pie~hoou nem pie~jwrh.
+            </Language>
+            <Language id="English">
+               We celebrate in their church, and we complete their remembrance, we glorify the trinity, by day and by night.
+            </Language>
+            <Language id="Arabic">
+               نعيد فى كنيستهما ونكمل تذكارهما ونمجد الثالوث نهارا وليلا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nidikeoc: ,ere nip#n#a#tovoroc: ,ere nenio] e#y#u# n~rwmeoc: Maximoc nem Dometioc.
+            </Language>
+            <Language id="English">
+               Hail to you O righteous ones, hail to the spirit mantled, hail to our holy roman fathers, Maximus and Dometius.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما أيها الصديقان السلام للابسى الروح السلام لأبوينا القديسين الروميين مكسيموس ودوماديوس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMaximusAndStDometius"/>
+      </Section>
+   </Season>
+</Document>

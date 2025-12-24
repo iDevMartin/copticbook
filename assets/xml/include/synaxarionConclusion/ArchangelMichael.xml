@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Feast">
+      <Role id="People">
+         <Section>
+            <Title>
+               <Language id="English">Veneration Praise for Archangel Michael</Language>
+               <Language id="Coptic">Va nitenh...</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">         
+                  For the Commemoration of Archangel Michael:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Va nitenh n~hat etvwrs e~bol va ]c~tol/ n~erman n~noub: va piqwk m~margarit/c Mi,a/l piar,/aggeloc
+               </Language>
+               <Language id="English">
+                  Who belongs to the silver wings which are spread out:  Who belongs to the robe of golden pomegranates:  Who belongs to the armor of jewels: Michael the Archangel
+               </Language>
+               <Language id="Arabic">
+                  صاحب الأجنحة الفضة المبسوطة صاحب الحُلة ذات الرمانات الذهب صاحب المنطقة الجوهرية ميخائيل رئيس الملائكة
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  N~yof afhwl sa babulon: sa pisomt n~a~lou n~a~gioc: afnahmou e~bol qen ] h~rw n~,~rwm n~te Nabou,olonocor p~ouro
+               </Language>
+               <Language id="English">
+                  He flew to Babylon: up to the three saintly boys: He saved them from the fiery furnace of Nebuchannazuer the king
+               </Language>
+               <Language id="Arabic">
+                  هو مضى إلى بابل إلى الثلاثة فتية القديسين وخلصهم من أتون النار الذى لنبوخذنصر الملك
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  A~ p~catanac [isipi m~voou nem nefc~tratia~ m~pon/ron qen p~taho eratf m~Mi,a/l pinis] n~ar,/ a~ggeloc
+               </Language>
+               <Language id="English">
+                  Satan was embarrassed today with his wicked hosts: by the presentation of Michael the great Archangel
+               </Language>
+               <Language id="Arabic">
+                  الشيطان أفتضح اليوم وعساكره الشريرة باقامة ميخائيل رئيس الملائكة العظيم
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  A~ Mi,a/l pia~r,/ a~ggeloc ] n~ouse n~tenh m~pidia~boloc afberbwrf capec/t e~v~noun sa p~jwk e~bol n~te nie~neh
+               </Language>
+               <Language id="English">
+                  Michael the archangel gave a blow of his wing to the devil: he cast him down to the depths  until the end of eternity
+               </Language>
+               <Language id="Arabic">
+                  ميخائيل رئيس الملائكة ضرب أجنحة ابليس وألقاه إلى أسفل العمق إلى كمال الدهور
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Piar,/aggeloc eyouab Mi,a/l: Afswpi nem nia~poctoloc: sa n~toutacyo n~]oikoumen/: e~qoun e~p~couen ]meym/i
+               </Language>
+               <Language id="English">
+                  The holy archangel Michael: dwelled with the apostles: until they returned the world  to the knowledge of the truth
+               </Language>
+               <Language id="Arabic">
+                  رئيس الملائكة المقدس ميخائيل كان مع الرسل حتى ردوا المسكونة إلى معرفة الحق
+               </Language>         
+            </Text>
+         </Section>
+         
+         <Comment>
+            <Language id="English">         
+               The following hymn may also be chanted:
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="Coptic">}c~tol/</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  }c~tol/ m~p~neumatikon: au]hiwtf m~Mi,a/l: ouoh piqwk m~margarit/c: aum/r m~Mi,a/l m~mof.
+               </Language>
+               <Language id="English">
+                  The spiritual raiment, envelops Michael, and the girdle of jewels, Michael has donned.
+               </Language>
+               <Language id="Arabic">
+                  الحلة الروحية أشتمل بها ميخائيل، والمنطقة الجوهرية ، تمنطق بها ميخائيل.
+               </Language>         
+            </Text>      
+         </Section>
+      </Role>
+   </Season>   
+</Document>

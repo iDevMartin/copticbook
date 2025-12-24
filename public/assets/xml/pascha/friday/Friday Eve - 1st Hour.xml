@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ GreatFriday ^ Fridays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Great Friday Eve (The First Hour)</Language>
+         <Language id="Arabic">ليلة الجمعة  العظيمة (الساعة الاولى)</Language>
+         <Language id="Coptic">Pie~jwrh n~]nis] m~parackeu/ (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Jeremiah 8:15-9:6</Language>
+               <Language id="Arabic">أرميا 8: 15-9: 6</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Jeremiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai h/ppe anok ]naouwrp sarwten n~hanhof n~refqwteb: nai e~te m~mon s~jom e~mou] e~rwou: ouoh cena[ila'in m~moten peje P[oic m~mon tal[o natahey/nou: e~re netenh/t natomt qen oum~kah n~h/t.
+               </Language>
+               <Language id="English">
+                  For behold, I send forth lethal serpents among you, for which there are no charms. They shall bite you mortally [says the Lord] with the pain of your disturbed heart. [My heart is faint in me.]
+               </Language>
+               <Language id="Arabic">
+                  فلذلك هآنذا مرسل عليكم حيات قتالة لا ترقى فتلدغكم يقول الرب، ولايكون لكم شفاء وتتحير قلوبكم بالحزن، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ic t~cm/ m~piws e~bol n~te t~seri m~palaoc e~bol qen oukahi efou/ou: m/ n~te P[oic sop an qen Ciwn: 
+               </Language>
+               <Language id="English">
+                  Behold, the voice of the daughter of my people cries out from a far land, "Is not the Lord in Zion? Is her King not there?" 
+               </Language>
+               <Language id="Arabic">
+                  هوذا صوت استغاثة إبنة شعبي من ارض بعيدة، أليس الرب في صهيون؟ أو ليس ملك هناك؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ie m~mon ouro sop m~mau eybe ouau]jwnt n/i qen nouk~lupton nem nipetsouit n~semmo.
+               </Language>
+               <Language id="English">
+                  "No, because they provoked Me to anger with their carved images and foreign vanities."  They will say,
+               </Language>
+               <Language id="Arabic">
+                  لماذا أسخطوني بمنحوتاتهم وبالأباطيل الغريبة؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afcini n~je piswm afouw~ n~je piwcq: a~non de m~pennohem: Aic~romrem e~jen v~ouwjp n~t~seri mpalaoc qen uotwmt: aua~mahi e~jwi n~je hannakhi m~v~r/] n~y/eynamici. 
+               </Language>
+               <Language id="English">
+                  The summer is gone, the harvest is past, and we are not saved." I am saddened because of the ruin of the daughter of my people. Pains have seized me as one who gives birth.  
+               </Language>
+               <Language id="Arabic">
+                  عبر الصيف وانقضى الحصاد ونحن لم نخلص تحيرت لإنكسار إبنة شعبي واخذتنى الطلق مثل التي تلد، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ m~mon con] sop qen Galaad: ie m~mon c/ini qen pima e~tem~mau: eybeou m~pefi~ e~h~r/i n~je p~tal[o nt~seri m~palaoc.
+               </Language>
+               <Language id="English">
+                  Is there no balm in Gilead? Is there no physician? Why is no healing taking place for the daughter of my people?
+               </Language>
+               <Language id="Arabic">
+                  ألا يوجد ترياق في جلعاد؟ أو ليس هناك طبيب؟ فلماذا لم يصعد شفاء لبنت شعبي؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim eyna] n~oumwou e~jen taa~ve: nem oumoumi n~ermwoui~ e~jen nabal: n~tarimi e~jen pailaoc mpie~hoou nem pie~jwrh nai e~tausojou n~te t~seri m~palaoc.
+               </Language>
+               <Language id="English">
+                  Who will give water to my head and a fountain of tears to my eyes, that I might weep day and night for this people of mine, for the wounded of the daughter of my people? 
+               </Language>
+               <Language id="Arabic">
+                  من يعطى لرأسى ماءاً ولعيني ينبوع دموع، فأبكى على هذا الشعب ليلاً ونهارًا؟ الذين تحطموا مع إبنة شعبي 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim eyna] n/i qen p~safe n~oumanswpi efou/ou n~ta,w n~cwi m~pailaoc: n~taouei cabol m~mwou: je n~ywou t/rou ceoi n~nwik: ]ywoutc n~ten/etoi n~atcwtem ne. 
+               </Language>
+               <Language id="English">
+                  Who will give me lodging in a deserted place, that I might leave my people and depart from them? For they are all adulterers, an assembly of treacherous men. 
+               </Language>
+               <Language id="Arabic">
+                  من يعطيني مسكناً بعيداً في البرية فاترك هذا الشعب وابتعد عنهم، لأنهم كلهم فسقة وجماعة عصاة؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Au[wlk n~noulac m~v~r/] n~ouvi]: a]meynouj jemjom hijen p~kahi ouoh v~nah] an: je e~taui~ e~bolqen han pethwou e~han pethwou: a~nok de m~poucouwnt peje P[oic.
+               </Language>
+               <Language id="English">
+                  They bent their tongues like a bow. Falsehood, not faith, prevails in the land. For they went from evil to evil, and have not known Me [says the Lord].
+               </Language>
+               <Language id="Arabic">
+                  أوتروا ألسنتهم كالقوس، فتغلب الكذب على الأرض وليس إيمان لأنهم خرجوا من شر إلى شر، وإياى لم يعرفوا يقول الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piouai piouai marefa~reh e~rof e~bolha pefs~v/r: ouoh m~per,ah~ye y/nou nnetenc~n/ou: je ouon niben qen oumetref[iyibc fna[iyibc: ouoh sv/r niben namosi qen ou,rof.
+               </Language>
+               <Language id="English">
+                  Let each take heed to his neighbor, and not trust their brothers, for every brother will utterly deceive, and every friend will walk treacherously. 
+               </Language>
+               <Language id="Arabic">
+                  احترزوا كل واحد من صاحبه، ولا تتكلوا على إخوتكم فإن كل واحد يتعقب تعقباً وكل صاحب يسعى بالنميمة، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piouaipiouai nacwbi m~pefsv/r: n~ces~tem je meym/i: je aft~cabo n~je poulac e~caji qen han meynouj: auer[in~jonc ouoh m~pou,atotou e~bol eyrou tacywou. 
+               </Language>
+               <Language id="English">
+                  Each will mock at his friend and not speak the truth. Their tongue learns to speak lies, and they do wrong. They do not pause to turn back.
+               </Language>
+               <Language id="Arabic">
+                  وكل واحد يهزأ بصاحبه ولا يتكلمون بالصدق لأنهم عودوا ألسنتهم أن تنطق بالكذب، وظلموا ولم يخافوا ليرجعوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ci e~jen m/ci: ouoh ou,rof e~jen ou,rof: ouoh m~pou ouwse~couwnt peje P[oic.
+               </Language>
+               <Language id="English">
+                  There is usury upon usury, deceit upon deceit. They are unwilling to know Me," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  رياء على رياء، ومكر على مكر ولم يريدوا أن يعرفوني بقول الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الاولى من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.3"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 101:1,8</Language>
+               <Language id="Arabic">مزمور 101: 1 ,8</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic cwtem e~tap~roc eu,/: mare paq~rwou i~ e~p~swi m~pekm~yo. 
+               </Language>
+               <Language id="English">
+                  Hear my prayer, O Lord, And let my cry come to You.
+               </Language>
+               <Language id="Arabic">
+                  يا رب استمع صلآتٍي وليصعد أمامك صراخي. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpie~hoou t/rf nau]sws n/i n~je najaji: ouoh n/etsousou e~jwi nauwrk e~h~rai pe: All/louia.
+               </Language>
+               <Language id="English">
+                  My enemies reproached me all day long, And those who praised me swore against me. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  النهار كله كان يعيرني أعدائي، والذين يمدحونني كانوا يتحالفون على: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 13:33-14:25</Language>
+            <Language id="Arabic">يوحنا 13: 33-14: 25</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nas/ri e~ti ke kouji n~c/ou ],/ nemwten: ouoh tetennakw] n~cwi: kata v~r/] e~taijoc n~niIoudai je v~ma a~nok e~]nasen/i e~rof n~ywten tetennas~i~ e~rof an: ouoh ]nou hwten ]jw m~moc nwten. 
+               </Language>
+               <Language id="English">
+                  Little children, I shall be with you a little while longer. You will seek Me; and as I said to the Jews, ‘Where I am going, you cannot come,’ so now I say to you. 
+               </Language>
+               <Language id="Arabic">
+                  يا أولادي أنا معكم زماناً يسيراً وستطلوبنني، وكما قلت لليهود أن الموضع الذي أذهب أنا إليه لا تقدرون أنتم أن تأتوا، أقول لكم أنتم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouentol/ m~beri ]]m~moc nwten hina n~tetenmenre netene~r/ou: kata v~r/] e~taimenre y/nou: hina n~ywten hwten n~tetenmenre netene~r/ou. 
+               </Language>
+               <Language id="English">
+                  A new commandment I give to you, that you love one another; as I have loved you, that you also love one another. 
+               </Language>
+               <Language id="Arabic">
+                  الآن أيضاً وصية جديدة أعطيكم، أن يحب بعضكم بعضاً كما أحببتكم أنا، تحبون أنتم أيضاً بعضكم بعضا، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~h~r/i qen vai cenae~mi n~je ouonniben je n~ywten namay/t/c: aretensanmenre netene~r/eu.
+               </Language>
+               <Language id="English">
+                  By this all will know that you are My disciples, if you have love for one another."
+               </Language>
+               <Language id="Arabic">
+                  وبهذا يعرف الجميع أنكم تلاميذى إذا أحببتم بعضكم بعضا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Cimwn Petroc naf je P[oic aknasenak e~ywn: afe~rouw~ n~je I/couc je pima a~nok e~]nasen/i e~rof: m~mons~jom m~mok e~mosi ncwi ]nou: e~p~qae~ de ekemosi. 
+               </Language>
+               <Language id="English">
+                  Simon Peter said to Him, "Lord, where are You going?" Jesus answered him, "Where I am going you cannot follow Me now, but you shall follow Me afterward. "
+               </Language>
+               <Language id="Arabic">
+                  قال له سمعان بطرس: إلى أين تذهب يا رب؟ أجاب يسوع: المكان الذي أذهب أنا إليه لا تقدر الآن أن تتبعنى وستتبعنى أخيراً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Petroc naf je eybeou m~mons~jom mmoi e~mosi n~cwk ]nou: ta'u,/ ]na,ac e~q~r/i e~jwk. Aferouw~ naf n~je I/couc: je tek'u,/ ,~na,ac e~q~r/i e~jwi:
+               </Language>
+               <Language id="English">
+                  Peter said to Him, "Lord, why can I not follow You now? I will lay down my life for Your sake." Jesus answered him, "Will you lay down your life for My sake? 
+               </Language>
+               <Language id="Arabic">
+                  قال له بطرس: لماذا لا أقدر أن أتبعك الآن، إنى إبذل نفسى عنك. أجابه يسوع: أأنت تبذل نفسك عني؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Am/n a~m/n ]jwm~moc nak je n~ne oua~lektwr mou]: san~tekjolt e~bol n~somt n~cop.
+               </Language>
+               <Language id="English">
+                  Most assuredly, I say to you, the rooster shall not crow till you have denied Me three times.
+               </Language>
+               <Language id="Arabic">
+                  الحق أقول لك أنه لن يصيح ديك حتى تنكرني ثلاث مرآتٍ.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpeny~re petenh/t s~yorter: nah] e~v~nou] ouoh nah] e~roi hw. 
+               </Language>
+               <Language id="English">
+                  Let not your heart be troubled; you believe in God, believe also in Me. 
+               </Language>
+               <Language id="Arabic">
+                  لا تضطرب قلوبكم آمنوا بالله وآمنوا بى أيضا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouon oum/s m~mon/ qen p~/i m~paiwt: e~ne m~mon nainajoc nwten pe: je ]nasen/i n~tacebte ouma nwten. 
+               </Language>
+               <Language id="English">
+                  In My Father's house are many mansions; if it were not so, I would have told you. I go to prepare a place for you. 
+               </Language>
+               <Language id="Arabic">
+                  في بيت أبي منازل كثيرة ولو لم تكن هذه لقلت لكم أننى امضى لأعد لكم مكاناً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aisansen/i n~tacebte ouma nwten: palinon eie~i~ n~tael y/nou haroi: hina v~ma a~nok e~]sop mmof n~ywten hwten n~tetenswpi mmau nem/i.
+               </Language>
+               <Language id="English">
+                  And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also.
+               </Language>
+               <Language id="Arabic">
+                  و ان مضيت و اعددت لكم مكانا آتى أيضاً واخذكم إلى، حتى حيث أكون أنا تكونون أنتم أيضاً هناك معى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v~ma a~nok e~]nasen/i e~rof: n~ywten tetencwoun m~pimwit. 
+               </Language>
+               <Language id="English">
+                  And where I go you know, and the way you know."
+               </Language>
+               <Language id="Arabic">
+                  وأنتم عارفون إلى أين أذهب وتعرفون الطريق. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Ywmac naf je P[oic tene~mi an je aknasenak e~ywn: ouoh pwc ouons~jom m~mon e~couen pimwit. 
+               </Language>
+               <Language id="English">
+                  Thomas said to Him, "Lord, we do not know where You are going, and how can we know the way?"
+               </Language>
+               <Language id="Arabic">
+                  فقال له توما: يا رب لسنا نعرف إلى اين تذهب فكيف نقدر أن نعرف الطريق؟! 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje i/c naf je a~nok pe pimwit nem ]meym/i nem piwnq m~pareh~li i~ ha v~iwt afs~tem i~ e~bol hitot.
+               </Language>
+               <Language id="English">
+                  Jesus said to him, "I am the way, the truth, and the life. No one comes to the Father except through Me.
+               </Language>
+               <Language id="Arabic">
+                  قال له يسوع: أنا هو الطريق والحق والحيوة، لا ياتى أحد إلا بي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje a~retencouwnt e~retene~couen pakeiwt: ouoh icjen ]nou tetencwoun m~mof ouoh a~tetennau e~rof: 
+               </Language>
+               <Language id="English">
+                  If you had known Me, you would have known My Father also; and from now on you know Him and have seen Him.
+               </Language>
+               <Language id="Arabic">
+                  لو كنتم تعرفونني لعرفتم أبي ايضا، ومن الآن تعرفونه وقد رأيتموه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Vilippoc naf je P[oic matamon e~v~iwt ouoh k/ne~ron: 
+               </Language>
+               <Language id="English">
+                  Philip said to Him, "Lord, show us the Father, and it is sufficient for us."
+               </Language>
+               <Language id="Arabic">
+                  قال له فيلبس: يا رب أرنا الآب وحسبنا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/couc naf je paic/ou t/rf ],/ nemwten ouoh m~pekcouwnt Vilippe: v/e~tafnau e~roi afnau e~v~iwt: pwc n~yok k~jw m~moc je matamon e~v~iwt.
+               </Language>
+               <Language id="English">
+                  Jesus said to him, "Have I been with you so long, and yet you have not known Me, Philip? He who has seen Me has seen the Father; so how can you say, 'Show us the Father'?
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: أنا معكم كل هذا الزمان ولم تعرفني يا فيلبس. من رآنى فقد راى الآب، فكيف تقول أنت أرنا الآب؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  &lt;nah] an je a~nok ]qen paiwt ouoh paiwt n~q/t: nicaji e~]jw m~mwou nwten nai caji m~mwou an e~bolhitot m~mauat: alla v~iwt etsop n~q/t n~yof v/eti~ri n~nih~b/oui~: 
+               </Language>
+               <Language id="English">
+                  Do you not believe that I am in the Father, and the Father in Me? The words that I speak to you I do not speak on My own authority; but the Father who dwells in Me does the works. 
+               </Language>
+               <Language id="Arabic">
+                  أما تؤمن أنى في الآب والآب في؟!. وهذا الكلام الذي أقوله لكم لست اقوله من ذاتٍي وحدى، بل الآب الحال في هو الذي يعمل الأعمال. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nah] e~roi je a~nok ]qen paiwt ouoh paiwt n~q/t: m~mon kan eybe nih~b/oui~nah] e~roi: 
+               </Language>
+               <Language id="English">
+                  Believe Me that I am in the Father and the Father in Me, or else believe Me for the sake of the works themselves.
+               </Language>
+               <Language id="Arabic">
+                  آمنوا بى أنا في أبى وأبي في وإلا فآمنوا بى من أجل الأعمال. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Am/n a~m/n ]jwm~moc nwten: je v/eynah] e~roi nih~b/oui~ e~]ra m~mwou efe~aitou hwf ouoh hannis] e~nai efe~aitou: je a~nok ]nasen/i ha v~iwt. 
+               </Language>
+               <Language id="English">
+                  "Most assuredly, I say to you, he who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father.
+               </Language>
+               <Language id="Arabic">
+                  الحق الحق أقول لكم أن من يؤمن بى فالأعمال التي أعملها أنا يعملها هو أيضاً، ويعمل أعظم منها، لأنى ماضى إلى الآب 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/e~tetennaere~tin m~mof qen paran eie~aif nwten: hina n~tef[iw~ou n~je V~iwt qen p~s/ri: Ouoh v/e~tetennaere~tin m~mof qen paran vai ]naaif: E~swp tetenmei m~moi teten naa~reh e~naentol/.
+               </Language>
+               <Language id="English">
+                  And whatever you ask in My name, that I will do, that the Father may be glorified in the Son. If you ask anything in My name, I will do it. "If you love Me, keep My commandments.
+               </Language>
+               <Language id="Arabic">
+                  ومهما تسألونه بإسمى أفعله لكم، ليتمجد الآب بالإبن، وما تسألونه بإسمى هذا إفعله. إن كنتم تحبونني فإحفظوا وصاياى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nok eyna]ho e~v~iwt ouoh efe~]nwten n~keparakl/ton: hina n~tefswpi nemwten sa e~neh: 
+               </Language>
+               <Language id="English">
+                  And I will pray the Father, and He will give you another Helper, that He may abide with you forever—
+               </Language>
+               <Language id="Arabic">
+                  وانا أسال الآب فيعطيكم معزيا آخر، ليمكث معكم إلى الأبد،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pip~neuma n~te ]meym/i v/ e~te m~mons~jom m~pikocmoc e~sopf je f~nau e~rof an: oude n~f~cwoun m~mof an: n~ywten de tetencwoun m~mof je afsop nemwten ouoh efe~swpi qen y/nou:
+               </Language>
+               <Language id="English">
+                  the Spirit of truth, whom the world cannot receive, because it neither sees Him nor knows Him; but you know Him, for He dwells with you and will be in you.
+               </Language>
+               <Language id="Arabic">
+                  روح الحق الذي لا يستطيع العالم أن يقبله لأنه لم یراه ولم يعرفه، وأما أنتم فتعرفونه لأنه ماكث معكم وحال فيكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~na,a y/nou e~retenoi n~orvanoc: ]n/ou harwt~en.E~tikekouji pikocmoc nanau e~roi an je n~ywten de tetennanau e~roi: 
+               </Language>
+               <Language id="English">
+                  I will not leave you orphans; I will come to you. "A little while longer and the world will see Me no more, but you will see Me.
+               </Language>
+               <Language id="Arabic">
+                  لا أترككم يتامى إنى آتى إليكم عما قليل لا يرانى العالم بعد وأما أنتم فترونني 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je a~nok ]wnq ouoh n~ywten hwten e~reten e~wnq: qen pie~hoou e~tem~mau e~retene~e~mi n~ywten je a~nok ]qen paiwt:
+               </Language>
+               <Language id="English">
+                  Because I live, you will live also. At that day you will know that I am in My Father, and you in Me, and I in you.
+               </Language>
+               <Language id="Arabic">
+                  لأنى أنا حى وأنتم ايضاً ستحيون. في ذلك اليوم تعلمون أنى أنا في أبى وأنتم في، وأنا أيضاً فيكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh n~ywten n~q~r/i n~q/t: ouoh a~nokhw qen y/nou: V/e~te naentol/ n~totf ouoh eta~reh e~rwou: v/e~tem~mau eymei m~moi: v/ de eymei m~moi efe~menritf n~je paiwt: ouoh a~nok hw eie~menritf: ouoh eie~ouonht e~rof.
+               </Language>
+               <Language id="English">
+                  He who has My commandments and keeps them, it is he who loves Me. And he who loves Me will be loved by My Father, and I will love him and manifest Myself to him."
+               </Language>
+               <Language id="Arabic">
+                  من كانت عنده وصاياى ويحفظها فذاك هو الذي يحبنى والذي يحبنى يحبه أبى، وأنا أحبه وأظهر له ذأتى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje Ioudac naf piIckariw~t/c an: je P[oic ou petafswpi je ,~naouonhk e~ron a~non: ouoh pikocmoc n~yof an:
+               </Language>
+               <Language id="English">
+                  Judas (not Iscariot) said to Him, "Lord, how is it that You will manifest Yourself to us, and not to the world?"
+               </Language>
+               <Language id="Arabic">
+                  فقال له يهوذا وليس الإسخريوطى: يا رب ما الذي حدث حتى أنك مزمع أن تظهر لنا ذآتٍك وليس للعالم؟!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je I/couc efjw m~moc naf: je v/eymei m~moi efe~a~reh e~pacaji: ouoh efe~menritf n~je paiwt: ouoh ene~i~ harof ouoh ene~yamio~ m~penmanswpi n~q/tf.
+               </Language>
+               <Language id="English">
+                  Jesus answered and said to him, "If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our home with him. 
+               </Language>
+               <Language id="Arabic">
+                  أجاب يسوع وقال له: من يحبنى يحفظ كلامي وأبي يحبه وإليه نأتى وعنده نصنع مسكننا 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/e~te n~f~mei m~moi an f~naa~reh an e~pacaji: ouoh picaji e~te tencwtem e~rof vwi an pe: alla va v~iwt e~taftaouoi.
+               </Language>
+               <Language id="English">
+                  He who does not love Me does not keep My words; and the word which you hear is not Mine but the Father's who sent Me.
+               </Language>
+               <Language id="Arabic">
+                  ومن لا يحبنى لا يحفظ قولى، والقول الذي تسمعونه ليس لى بل للآب الذي أرسلني 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai de aijotou nwten eisop qaten y/nou.
+               </Language>
+               <Language id="English">
+                  "These things I have spoken to you while being present with you.
+               </Language>
+               <Language id="Arabic">
+                  كلمتكم بهذا وأنا مقيم عندكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>         
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 14:26-15:25</Language>
+            <Language id="Arabic">يوحنا 14: 26-15: 25</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Eswp de afsani~ n~je piparakl/toc pip~neuma eyouab: v/e~te paiwt naouorpf qen paran: n~yof eynat~cabe y/nou e~hwb niben: ouoh f~na] m~v~meui~ nwten e~hwb niben e~taijotou nwten:
+               </Language>
+               <Language id="English">
+                  But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.
+               </Language>
+               <Language id="Arabic">
+                  وإما المعزى الروح القدس الذي يرسله أبى بإسمى فهو يعلمكم كل شيء ويذكركم بكل ما قلته لكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ]na,w tahir/n/ nwten: tahir/n/ a~nok ]nat/ic nwten: m~v~r/] an e~te pikocmoc ]m~moc e~]na] m~peny~refs~yorter n~je petenh/t oude m~perers~lah n~h/t.
+               </Language>
+               <Language id="English">
+                  Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid.
+               </Language>
+               <Language id="Arabic">
+                  سلامى أترك لكم، سلامى أنا أعطيكم ليس كما يعطى العالم أعطيكم. لا تضطرب قلوبكم ولا تجزع،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~retencwtem je aijoc nwten: je ]nasen/i ouoh ]n/ou harwten: e~naretenmei mmoi nareten narasi pe: je ]nasen/i hav~iwt: je paiwt ounis] e~roi pe. 
+               </Language>
+               <Language id="English">
+                  You have heard Me say to you, 'I am going away and coming back to you.' If you loved Me, you would rejoice because I said, 'I am going to the Father,' for My Father is greater than I.
+               </Language>
+               <Language id="Arabic">
+                  فقد سمعتم أني قلت لكم أننى ماض ثم أتى إليكم، فلو كنتم تحبوننى لكنتم تفرحون بأنى أمضى إلى الآب لأن ابى هو أعظم منى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou aijoc nwten mpatecswpi: hina acsanswpi n~tetennah]: N]naje oum/s n~caji nwten an: je fn/ou gar n~je par,wn n~te paikocmoc ouoh m~mon h~lin~taf n~q/t: Alla hina n~tefe~mi n~je pikocmoc je ]era~gapan m~paiwt: ouoh kata v~r/] e~tafhonhen n/i n~je paiwt ]i~ri m~pair/]: teny/nou maron e~boltai. 
+               </Language>
+               <Language id="English">
+                  And now I have told you before it comes, that when it does come to pass, you may believe. I will no longer talk much with you, for the ruler of this world is coming, and he has nothing in Me. But that the world may know that I love the Father, and as the Father gave Me commandment, so I do.
+               </Language>
+               <Language id="Arabic">
+                  وقد قلت لكم الآن قبل أن يكون حتى متى كان تؤمنون لست اكلمكم كلاماً كثيراً بعد فإن رئيس هذا العالم آتٍ وليس له في شيء، لكن ليعلم العالم أنى أحب أبى، وكما أوصاني أبي هكذا أفعل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok pe ]bw n~a~loli n~tav~m/i ouoh paiwt pe piouwi: K~l/ma niben e~te n~q/t e~te n~fnaen outah e~bol an f~nakorjf: 
+               </Language>
+               <Language id="English">
+                  Arise, let us go from here. I am the true vine, and My Father is the vinedresser.
+               </Language>
+               <Language id="Arabic">
+                  قوموا ننطلق من ههنا. أنا هو الكرمة الحقيقية وأبى الغارس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh v/ niben eynaen outah e~bol f~natoubof:hina n~tefen houo~ n~outah e~bol: &lt;/d/ n~ywten a~te ten toubo eybe picaji e~taicaji m~mof nemwten. 
+               </Language>
+               <Language id="English">
+                  Every branch in Me that does not bear fruit He takes away; and every branch that bears fruit He prunes, that it may bear more fruit.
+               </Language>
+               <Language id="Arabic">
+                  كل غصن في لا يأتٍي بثمر ينزعه وكل ما يأتٍي بثمر ينقيه ليأت بثمر أكثر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Swpi n~q~r/i n~q/t ouoh a~nok hw qen y/nou: m~vr/] m~pik~l/ma e~te m~mon s~jom m~mof n~tefen outah e~bol hitotf m~mauatf: 
+               </Language>
+               <Language id="English">
+                  You are already clean because of the word which I have spoken to you. Abide in Me, and I in you.
+               </Language>
+               <Language id="Arabic">
+                  الآن أنتم أنقياء من أجل الكلام الذي تكلمت به معكم. أثبتوا في وأنا أيضاً فيكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afs~temswpi qen ]bw n~a~loli: pair/] n~ywten hwten m~mon s~jom m~mwten a~retens~temswpi n~q~r/i n~q/t 
+               </Language>
+               <Language id="English">
+                  As the branch cannot bear fruit of itself, unless it abides in the vine, neither can you, unless you abide in Me.
+               </Language>
+               <Language id="Arabic">
+                  كما أن الغصن لا يقدر أن يأتى بثمر من ذآتٍه وحده إن لم يثبت في الكرمة، هكذا أنتم أيضاً لا يمكنكم إن لم تثبتوا في.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok pe ]bw n~a~loli ouoh n~ywten ne nik~l/ma:v/eynaswpi n~q/t ouoh a~nok hw n~q/tf: vai efe~en oum/s noutah e~bol: 
+               </Language>
+               <Language id="English">
+                  I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.
+               </Language>
+               <Language id="Arabic">
+                  أنا الكرمة وأنتم الأغصان من يثبت في وأنا أيضاً فيه. فهذا يأتى بثمر كثير لأنكم بدوني لا تقدرون أن تفعلوا شيئا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  je at[noui~ m~mon s~jom m~mwten e~erh~li: A~res~tem ouaiswpi n~q/t cenahitf e~bol: m~v~r/] m~pik~l/ma ouoh safswoui~ ouoh sauyouw~tou n~cehitou e~pi,rwm ouoh saurwkh. 
+               </Language>
+               <Language id="English">
+                  If anyone does not abide in Me, he is cast out as a branch and is withered; and they gather them and throw them into the fire, and they are burned.
+               </Language>
+               <Language id="Arabic">
+                  إن كان أحد لا يثبت في يطرح خارجا كالغصن فيجف ويجمع ويطرح في النار فيحترق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eswp de a~retensanspi n~q~r/i n~q/t ouoh n~te nacaji swpi qen y/nou: v/e~tetenoua~sf a~rie~tin m~mof ouoh f~naswpi nwten: qen vai af[iw~ou n~je paiwt: hina n~tetennen oum/s n~outah e~bol: ouoh n~tetenswpi n/i m~may/tc: 
+               </Language>
+               <Language id="English">
+                  If you abide in Me, and My words abide in you, you will ask what you desire, and it shall be done for you. By this My Father is glorified, that you bear much fruit; so you will be My disciples.
+               </Language>
+               <Language id="Arabic">
+                  فإن انتم ثبتم في وثبت كلامي فيكم، تطلبون ما تريدون فيكون لكم. بهذا يتمجد أبى أن تأتوا بثمر كثير وتكونوا لى تلاميذا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] e~tafmenrit n~je paiwt a~nok hw aimenre y/nou: swpi n~q~r/i qen taa~gap/. 
+               </Language>
+               <Language id="English">
+                  "As the Father loved Me, I also have loved you; abide in My love. 
+               </Language>
+               <Language id="Arabic">
+                  كما أحبنى أبى كذلك أنا أحببتكم أثبتوا في محبتى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~swp n~tetena~reh e~naentol/ tetennaswpi qen taa~gap/: m~vr/] hw e~taia~reh e~nientol/ n~te paiwt: ouoh ]sop qen tefa~gap/: 
+               </Language>
+               <Language id="English">
+                  If you keep My commandments, you will abide in My love, just as I have kept My Father's commandments and abide in His love.
+               </Language>
+               <Language id="Arabic">
+                  إن حفظتم وصاياى ثبتم فى محبتى. كما انى أنا قد حفظت وصايا أبى وثابت فى محبته
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai aijotou nwten hina n~te parasi swpi qen y/nou: ouoh nte peten rasi hwten n~tefjwk e~bol: 
+               </Language>
+               <Language id="English">
+                  These things I have spoken to you, that My joy may remain in you, and that your joy may be full.
+               </Language>
+               <Language id="Arabic">
+                  قلت لكم هذا ليكون فرحى فيكم ويكمل فرحكم انتم أيضاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Yai a~nok te taentol/ hina n~ywten n~teten menre netene~r/ou m~vr/] e~taimenre y/nou. 
+               </Language>
+               <Language id="English">
+                  This is My commandment, that you love one another as I have loved you.
+               </Language>
+               <Language id="Arabic">
+                  هذه هي وصيتي أنا أن تحبوا بعضكم بعضا كما أحببتكم أنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mmon peynaac e~tai a~gap/ nten h~li: hina n~te ouai ,w n~tef'u,/ e~h~r/i ejen nefs~v/r: N~ywten n~ywten nas~v/r: eswp a~retenani~ri n~n/e~]honhen m~mwten e~rwou:
+               </Language>
+               <Language id="English">
+                  Greater love has no one than this, than to lay down one's life for his friends. You are My friends if you do whatever I command you.
+               </Language>
+               <Language id="Arabic">
+                  ما من حب أعظم من هذا، أن يبذل واحد نفسه عن أحبائه، وانتم أحبائي إن فعلتم ما أوصيتكم به.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N]namou] e~rwten an je bwk: je m~pare pibwk e~mi je ou pete pef[oic ra m~mof: n~ ywten de aimou] e~rwten je nas~v/r: je hwb niben e~taicoymou n~totf m~paiwt aitamwten e~. 
+               </Language>
+               <Language id="English">
+                  No longer do I call you servants, for a servant does not know what his master is doing; but I have called you friends, for all things that I heard from My Father I have made known to you.
+               </Language>
+               <Language id="Arabic">
+                  لست أدعوكم عبيداً بعد لأن العبد لا يعلم ما يصنع سيده أما أنتم قد دعوتكم أحبائي لأني أعلمتكم بكل ما سمعته من أبي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywten an a~tetencotpt alla a~nok aicetp y/nou: ouoh ai,a y/nou hina n~tetensenwten ouoh n~tetenen outah e~bol ouoh petenoutah n~tefo~hi: hina v/eteteneretin m~mof n~totf m~v~iwt qen paran nteft/if nwten: 
+               </Language>
+               <Language id="English">
+                  You did not choose Me, but I chose you and appointed you that you should go and bear fruit, and that your fruit should remain, that whatever you ask the Father in My name He may give you. 
+               </Language>
+               <Language id="Arabic">
+                  ليس أنتم اخترتمونى بل أنا إخترتكم واقمتكم لتنموا وتأتوا بثمر ويثبت ثمركم لكي يعطيكم الآب كل ما تسألونه بإسمى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai de ]honhen m~mwten e~rwou: hina n~tetenmenre netene~r/ou:
+               </Language>
+               <Language id="English">
+                  These things I command you, that you love one another.
+               </Language>
+               <Language id="Arabic">
+                  بهذا أوصيتكم أن يحب بعضكم بعضا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje pikocmoc moc] m~mwten: a~rie~mi je a~nok n~sorp afmectwi. Hina n~tetenmenre netene~r/ou: Icje pikocmoc moc] m~mwten: a~rie~mi je a~nok n~sorp afmectwi. 
+               </Language>
+               <Language id="English">
+                  "If the world hates you, you know that it hated Me before it hated you. If you were of the world, the world would love its own. 
+               </Language>
+               <Language id="Arabic">
+                  إن كان العالم يبغضكم فإعلموا إنه قد أبغضني من قبلكم. لو كنتم من العالم لكان العالم يحب ما هو له، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~ne n~ywten e~bolqen pikocmoc: nare pikocmoc namenre v/e~te vwf: o~ti de n~ywten hane~bolqen pikocmoc an: 
+               </Language>
+               <Language id="English">
+                  Yet because you are not of the world, but I chose you out of the world, therefore the world hates you.
+               </Language>
+               <Language id="Arabic">
+                  ولكن لأنكم لستم من العالم بل أنا أخترتكم من العالم لأجل هذا يبغضكم العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~riv~meui~ m~picaji e~taijof nwten: je m~mon bwk e~naaf e~pef[oic: icje au[oji n~cwi n~ywten hwten eue~[oji n~cay/nou: 
+               </Language>
+               <Language id="English">
+                  Remember the word that I said to you, 'A servant is not greater than his master.' If they persecuted Me, they will also persecute you.
+               </Language>
+               <Language id="Arabic">
+                  أذكروا الكلام الذي قلته لكم، ليس عبد أعظم من سيده إن كانوا قد إضطهدوني فسيضطهدونكم أنتم ايضاً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje aua~reh e~pacajieue~a~rehe~vwten hwten: Alla nai t/rou cenaaitou nwten eybe paran: je cecwoun an m~v/e~taftaouoi. 
+               </Language>
+               <Language id="English">
+                  If they kept My word, they will keep yours also. But all these things they will do to you for My name's sake, because they do not know Him who sent Me.
+               </Language>
+               <Language id="Arabic">
+                  وإن كانوا قد حفظوا كلامي فسيحفظون كلامكم أيضاً لكنهم إنما يفعلون بكم هذا كله من أجل إسمى، لأنهم لم يعرفوا الذي أرسلنى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~ne m~pii~ pe ouoh ntacaji nemwou: ne m~mon tounobi m~mau pe: ]nou de m~montou lwiji m~mau eybe nounobi: V/eymoc] m~moi f~moc] m~pakeiwt: 
+               </Language>
+               <Language id="English">
+                  If I had not come and spoken to them, they would have no sin, but now they have no excuse for their sin. He who hates Me hates My Father also.
+               </Language>
+               <Language id="Arabic">
+                  لو لم آتٍ وأكلمهم لم تكن لهم خطية وأما الآن فليس لهم عذر في خطيتهم. من يبغضنى فإنه يبغض أبي أيضا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~ne m~pii~ri pe n~nih~b/oui~ n~q~r/i n~q/tou n/e~te m~pikeouaiaitou: ne mmontou nobi mmau pe: ]nou de aunau ouoh aumectwi nem pakeiwt.
+               </Language>
+               <Language id="English">
+                  If I had not done among them the works which no one else did, they would have no sin; but now they have seen and also hated both Me and My Father.
+               </Language>
+               <Language id="Arabic">
+                  ولو لم أعمل بينهم أعمالاً لم يعملها آخر لما كانت لهم خطية وأما الآن فقد رأوا وأبغضوني أنا وأبي
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla hina ntefjwk e~bol n~je picaji etc~q/out hipounomoc: je aumectwi n~jinj/.
+               </Language>
+               <Language id="English">
+                  But this happened that the word might be fulfilled which is written in their law, 'They hated Me without a cause.'
+               </Language>
+               <Language id="Arabic">
+                  لكن لكي تتم الكلمة المكتوبة في ناموسهم أنهم أبغضوني مجاناً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 15:26-16:33</Language>
+            <Language id="Arabic">يوحنا 15: 26-16: 33</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+   
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Eswp de afsani~ n~je piparakl/toc v/a~nok e~]naouorpf nwten e~bolhitotf m~paiwt: 
+               </Language>
+               <Language id="English">
+                  "But when the Helper comes, whom I shall send to you from the Father,
+               </Language>
+               <Language id="Arabic">
+                  وإذا جاء المعزى الذي أرسله أنا إليكم من عند أبى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pip~neuma n~te ]meym/i v/eyn/ou e~bolha v~iwt: n~yof eynaermeyre eyb/t.
+               </Language>
+               <Language id="English">
+                  The Spirit of truth who proceeds from the Father, He will testify of Me.
+               </Language>
+               <Language id="Arabic">
+                  روح الحق المنبثق من الآب فهو يشهد لى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nywten hwten tetenermeyre je teten,/ nem/i icjen sorp. Nai aijotou nwten hina n~te tens~tem erc~kandalizecye.
+               </Language>
+               <Language id="English">
+                  And you also will bear witness, because you have been with Me from the beginning. These things I have spoken to you, that you should not be made to stumble.
+               </Language>
+               <Language id="Arabic">
+                  وأنتم أيضاً تشهدون لأنكم معي منذ الابتدأء. كلمتكم بهذا لكى لا تشكوا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ausanery/nou n~a~poucunagwgoc: alla c~n/ou n~je ouounou hina v/ niben eynaqwteb m~mwten: n~tefmeui~ je afi~ni n~ousouswou si e~h~r/i ha Vnou].
+               </Language>
+               <Language id="English">
+                  They will put you out of the synagogues; yes, the time is coming that whoever kills you will think that he offers God service.
+               </Language>
+               <Language id="Arabic">
+                  فإنهم سيخرجونكم من المجامع، بل ستأتى ساعة يظن فيها كل من يقتلكم أنه يقرب قرباناً لله
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nai eue~aitou nwten je ou/i m~poucouen v~iwt oude a~nok m~poucouwnt.
+               </Language>
+               <Language id="English">
+                  And these things they will do to you because they have not known the Father nor Me.
+               </Language>
+               <Language id="Arabic">
+                  وسيفعلون هذا بكم لأنهم لم يعرفوا الآب ولم يعرفوني أنا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla nai aijotou nwten hina acsani~ n~je ]ounou n~tetenerv~meui~je aiouw~ a~nok eijw m~mwou nwten: 
+               </Language>
+               <Language id="English">
+                  But these things I have told you, that when the time comes, you may remember that I told you of them.
+               </Language>
+               <Language id="Arabic">
+                  لكنى كلمتكم بهذا حتى إذا جاءت الساعة تذكرون أنى أنا قد قلته لكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  nai de m~pijotou nwten icjen h/ je nai,/ nemwten pe. 
+               </Language>
+               <Language id="English">
+                  And these things I did not say to you at the beginning, because I was with you.
+               </Language>
+               <Language id="Arabic">
+                  ولم أخبركم بهذا من قبل لأني كنت معكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou de ]nasen/i ha v/e~taftaouoi: ouoh m~mon h~li e~bol qen y/nou sini m~moi je aknasenak e~ywn:
+               </Language>
+               <Language id="English">
+                  "But now I go away to Him who sent Me, and none of you asks Me, 'Where are You going?'
+               </Language>
+               <Language id="Arabic">
+                  وأما الآن فإنى ماض إلى الذي أرسلنى، وليس احد منكم يسألني إلى أين تمضى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla je aije nai nwten a~ p~emkah n~h/t mah petenh/t.
+               </Language>
+               <Language id="English">
+                  But because I have said these things to you, sorrow has filled your heart.
+               </Language>
+               <Language id="Arabic">
+                  ولكن لأني قلت لكم بهذا قد ملأ الحزن قلوبكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla a~nok y~m/i pe]jw m~moc nwten: c~ernofri nwten hina a~nok n~tasen/i:e~swp gar ais~temsen/i piparakl/toc nai~ harwten an: swp gar aisans/en/i ]naouorpf nwten:
+               </Language>
+               <Language id="English">
+                  Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.
+               </Language>
+               <Language id="Arabic">
+                  لكني أقول لكم الحق أنه خير لكم أن أنطلق، لأنه إن لم أ ولكن إذا امضيت أرسله إليكم، نطلق لا يآتٍيكم المعزى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afsani~ n~je v/e~tem~mau efe~cohi m~pikocmoc eybe v~nobi: nem eybe oumeym/i: nem eybe ouhap: 
+               </Language>
+               <Language id="English">
+                  And when He has come, He will convict the world of sin, and of righteousness, and of judgment: 
+               </Language>
+               <Language id="Arabic">
+                  ومتى جاء ذاك فهو يبكت العالم لأجل الخطية ومن اجل البر ومن أجل الدينونة، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe v~nobi men je cenah] e~roi an. Eybe ]meym/i de je ]nasen/i hav~iwt ouoh tetennau e~roi an je: Eybe ouhap de je p~ar,wn n~te paikocmoc auouw~ eu]hap e~rof: Ouonn~t/i n~hankem/s e~jotou nwten alla tetennas~fai qarwou an ]nou.
+               </Language>
+               <Language id="English">
+                  of sin, because they do not believe in Me; of righteousness, because I go to My Father and you see Me no more; of judgment, because the ruler of this world is judged. I still have many things to say to you, but you cannot bear them now.
+               </Language>
+               <Language id="Arabic">
+                  أما على الخطية فلأنهم لم يؤمنوا بي واما على البر فلأنني ماض إلى الآب ولا ترونني بعد وأما من أجل الدينونة لأن رئيس هذا العالم قد دين، ولى أمور كثيرة لأقولها لكم لكن لا تقدرون أن تتحملوا الآن،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~swp de afsani~ n~je v/e~tem~mau pipna n~te ]meym/i: efe~[imwit nwten qen meym/i niben: fnacaji gar an e~bolhitotf m~mauataf: alla n/e~tafcoymou e~tefnacaji m~mwou: ouoh n/eyn/ou efe~tamwten e~rwou:
+               </Language>
+               <Language id="English">
+                  However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come. 
+               </Language>
+               <Language id="Arabic">
+                  ولكن إذا جاء ذاك روح الحق فهو يرشدكم إلى جميع الحق لأنه لا يتكلم من عنده بل كل ما يسمع يتكلم به ويخبركم بما يأتى 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/e~tem~mau fna]wou n/i: je fna[i e~bol qen v/e~te vwi ouoh fnatame y/nou: &lt;wb niben e~te n~te paiwt noui~ ne: 
+               </Language>
+               <Language id="English">
+                  He will glorify Me, for He will take of what is Mine and declare it to you. All things that the Father has are Mine.
+               </Language>
+               <Language id="Arabic">
+                  وذاك يمجدني لأنه يأخذ مما لى ويخبركم. كل ما لأبي فهو لى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai aijoc nwten je fna[i e~bolqen v/e~tevwi ouohn~teftame y/nou. Kekouji teten nanau e~roi je a~nk ]nasen/i hav~iwt:
+               </Language>
+               <Language id="English">
+                  Therefore I said that He will take of Mine and declare it to you. "A little while, and you will not see Me; and again a little while, and you will see Me, because I go to the Father.
+               </Language>
+               <Language id="Arabic">
+                  ومن أجل هذا قلت لكم أنه ياخذ ممالى ويخبركم بعد قليل لا ترونني ثم بعد قليل أيضاً ترونني لأني ذاهب إلى الآب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje hanouon e~bolqen nefmay/t/c n~noue~r/ou: e paicaji ou pe e~tefjw m~mof nan: je kekoji tetennanau e~roi an: ouoh palin kekoujitetennau e~roiouoh je a~nok ]nasen/i hav~iwt:
+               </Language>
+               <Language id="English">
+                  "Then some of His disciples said among themselves, "What is this that He says to us, 'A little while, and you will not see Me; and again a little while, and you will see Me'; and, 'because I go to the Father'?"
+               </Language>
+               <Language id="Arabic">
+                  فقال قوم من تلاميذه بعضهم لبعض: ما هذا الكلام الذي يقوله لنا، بعد قليل لا ترونني ثم بعد قليل أيضاً تروننى وانى ذاهب إلى الآب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naujwoun m~moc pe je ou pe vai e~tefjw m~mof je ke kouji: n~tene~mi an je afjw m~moc je ou.
+               </Language>
+               <Language id="English">
+                  They said therefore, "What is this that He says, 'A little while'? We do not know what He is saying." Now Jesus knew that they desired to ask Him,
+               </Language>
+               <Language id="Arabic">
+                  وكانوا يقولون: ما هو هذا القليل الذي يقول عنه، لسنا نعلم ماذا يقول. فعلم يسوع أنهم كانوا يريدون أن یسألوه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~mi de n~je I/couc je nauouws e~senf pe: ouoh pejaf nwou je tetenkw] n~ca paicaji nem netene~r/ou: je aijoc nwten je kekouji tetennanau e~roi an: ouoh palin kekouji tetennanau e~roi.
+               </Language>
+               <Language id="English">
+                  and He said to them, "Are you inquiring among yourselves about what I said, 'A little while, and you will not see Me; and again a little while, and you will see Me'? 
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم: أعن هذا الكلام تتباحثون بعضكم مع بعض، لأني قلت بعد قليل لا تروننى ثم بعد قليل أيضاً تروننى؟ُ.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~m/n a~m/n ]jwm~moc nwten je tetennarimi n~ywten n~tetenerh/bi: pikocmoc n~yof narasi: n~ywten tetennaerm~kah n~h/t: alla petenemkah n~h/t f~naswpi nwten eurasi.
+               </Language>
+               <Language id="English">
+                  Most assuredly, I say to you that you will weep and lament, but the world will rejoice; and you will be sorrowful, but your sorrow will be turned into joy.
+               </Language>
+               <Language id="Arabic">
+                  الحق الحق أقول لكم أنكم أنتم ستبكون وتنوحون والعالم يفرح أنتم تحزنون ولكن حزنكم يؤول إلى فرح
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }c~himi acsannoui~ e~mici sacerm~kahn~h/t je aci~ n~je tecounou: e~swp de acsanmici m~pis/ri m~pacerv~meui~ je m~pihojhej eybe pirasi: je acmec ourwmi e~pikocmoc.
+               </Language>
+               <Language id="English">
+                  A woman, when she is in labor, has sorrow because her hour has come; but as soon as she has given birth to the child, she no longer remembers the anguish, for joy that a human being has been born into the world.
+               </Language>
+               <Language id="Arabic">
+                  فالمرأة إذا حضرت ولادتها تحزن لأن ساعتها قد أتت لكنها إذا ولدت الإبن لا تعود تذكر الشدة من أجل الفرح لأنها ولدت إنساناً في العالم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~ywten hwten ]nou men e~rete~[i n~oum~kah n~h/t: palin on ]nanau. e~rwten ouoh tetennarasi: ouoh petenrasi m~mon h~li naolf n~teny/nou.
+               </Language>
+               <Language id="English">
+                  Therefore you now have sorrow; but I will see you again and your heart will rejoice, and your joy no one will take from you.
+               </Language>
+               <Language id="Arabic">
+                  وأنتم أيضاً الآن محزونون ولكن سأراكم أيضاً فتفرحون ولاينزع أحد فرحكم منكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen pie~hoou e~tem~mau tetennasent e~h~li nai:
+               </Language>
+               <Language id="English">
+                  And in that day you will ask Me nothing.
+               </Language>
+               <Language id="Arabic">
+                  وفي ذلك اليوم لا تسألونني شيئا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Am/n ]jw m~moc nwten je v/e~tetennaeret m~mof n~totf m~v~iwt qen paran efe~t/if nwten Sa ]nou m~pate tenere~tin n~h~li qen paran: a~rie~tin ouoh tetenna[i: hina n~te petenrasi swpi efj/k ebol.
+               </Language>
+               <Language id="English">
+                  Most assuredly, I say to you, whatever you ask the Father in My name He will give you. Until now you have asked nothing in My name. Ask, and you will receive, that your joy may be full.
+               </Language>
+               <Language id="Arabic">
+                  الحق الحق أقول لكم إن كل ما تسألون الآب بإسمى يعطيكم إياه. إلى الآن لم تسألوا شيئا بإسمى سلوا فتأخذوا ليكون فرحكم كاملاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai de aijotou nwten qen han paroimia~: c~n/ou de n~je ouounou hote einacaji nemwten an je qen hanparoimia~: alla qen ouparr/cia~ ainatamwten eybe v~iwt: qen pie~hoou e~temm~mau e~retene~retin qen paran: ouoh ]najoc nwten anje a~nok eyna]ho e~v~iwt eybe y/nou: 
+               </Language>
+               <Language id="English">
+                  "These things I have spoken to you in figurative language; but the time is coming when I will no longer speak to you in figurative language, but I will tell you plainly about the Father. In that day you will ask in My name, and I do not say to you that I shall pray the Father for you; 
+               </Language>
+               <Language id="Arabic">
+                  قلت لكم هذا بأمثال ولكن تاتي ساعة حين لا اكلمكم ایضا بامثال بل أخبركم عن الآب علانية، في ذلك اليوم تسألون بإسمى ولا أقول لكم أنى أسال الآب من أجلكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof gar hwf v~iwt fmei m~mwten je n~ywten a~retenmenrit: ouoh a~retennaht~ je aii~ e~bolha v~iwt. Aii~ e~bolha v~iwt ouoh aii~ e~pikocmoc: palin on ]na,w n~cwi m~pikocmoc n~tasen/i hav~iwt:
+               </Language>
+               <Language id="English">
+                  for the Father Himself loves you, because you have loved Me, and have believed that I came forth from God. I came forth from the Father and have come into the world. Again, I leave the world and go to the Father."
+               </Language>
+               <Language id="Arabic">
+                  فإن الآب هو أيضاً يحبكم لأنكم أحببتموني وآمنتم أنى من الآب خرجت. قد خرجت من الآب وأتيت إلى العالم، وايضاً أتٍرك العالم وأمضى إلى الآب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje nefmay/t/c naf: je h/ppe ]nou k~caji qen ouparr/cia~: ouoh n~k~je h~li an m~paroimia~: ]nou tene~mi je k~cwoun n~hwb niben ouoh n~k~er,ria~ an n~te ouai senk: qen vai tennah] je e~taki~ e~bok hiten Vnou].
+               </Language>
+               <Language id="English">
+                  His disciples said to Him, "See, now You are speaking plainly, and using no figure of speech! Now we are sure that You know all things, and have no need that anyone should question You. By this we believe that You came forth from God."
+               </Language>
+               <Language id="Arabic">
+                  فقال له تلاميذه: ها إنك الآن تتكلم علانية ولست تقول شيئاً بمثل الآن نعلم أنك عالم بكل شيء ولست محتاج أن يسألك أحد. بهذا نؤمن أنك من الله خرجت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ nwou n~je I/couc je ]nou tetennah]. h/ppe c~n/ou n~je ouounou ouoh aci~ hina n~tetenjwr e~bol v~ouai v~ouai epefma: ouoh ],/ m~mauta an: je f~,/nem/i n~je paiwt. 
+               </Language>
+               <Language id="English">
+                  Jesus answered them, "Do you now believe? Indeed the hour is coming, yes, has now come, that you will be scattered, each to his own, and will leave Me alone. And yet I am not alone, because the Father is with Me. 
+               </Language>
+               <Language id="Arabic">
+                  أجابهم يسوع أتؤمنون الآن، فإنه تأتى ساعة وقد أتت لتتفرقوا كل واحد منكم إلى مكانه وتتركوني وحدي ولست وحدى لأن أبي معى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai aijotou nwten hina n~te ouhir/n/ swpi nwten n~q~r/i n~q/t: ouonn~twten m~mau n~ouhojhej m~pikocmoc: alla jemnom] a~nok ai[ro e~pikocmoc:
+               </Language>
+               <Language id="English">
+                  These things I have spoken to you, that in Me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world."
+               </Language>
+               <Language id="Arabic">
+                  قلت لكم هذا ليكون لكم في سلام لكم ضيق في العالم ولكن ثقوا فإنى قد غلبت العالم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 17:1-26</Language>
+            <Language id="Arabic">يوحنا 17: 1-26</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nai e~tafcaji m~mwou n~je I/couc: ouoh e~taffai n~nefbal e~pswi e~t~ve: pejaf
+               </Language>
+               <Language id="English">
+                  Jesus spoke these words, lifted up His eyes to heaven, and said:
+               </Language>
+               <Language id="Arabic">
+                  تكلم يسوع بهذا ورفع عينيه نحو السماء وقال:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je paiwtaci~ n~je ]ounou maw~ou m~peks/ri hina n~te peks/ri ]wou nak.
+               </Language>
+               <Language id="English">
+                  "Father, the hour has come. Glorify Your Son,
+               </Language>
+               <Language id="Arabic">
+                  يا أبَتِ قد أتت الساعة، فمجد إبنك لكي يمجدك إبنك،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Mv~r/] e~tak]ersisi naf e~jen carx niben: hina v/ niben e~takt/if naf n~tef] nwou n~ouwnq n~e~neh. 
+               </Language>
+               <Language id="English">
+                  That Your Son also may glorify You, as You have given Him authority over all flesh, that He should give eternal life to as many as You have given Him. 
+               </Language>
+               <Language id="Arabic">
+                  كما يعطيه السلطان على كل جسد ليعطى حياة أبدية كل من أعطيته إياه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai de pe piwnq n~eneh hina n~toucouwnk piouai m~mauatf Vnou] n~tav~m/i: nem v/e~tak ouorpf I/couc Pi,~rictoc. 
+               </Language>
+               <Language id="English">
+                  And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent
+               </Language>
+               <Language id="Arabic">
+                  وهذه هي الحياة الأبدية أن يعرفوك أنت الواحد وحده الإله الحق ويسوع المسيح الذي أرسلته.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok ai]wou nak hijen pikahi: e~taijwk m~pihwb e~bol e~takt/if n/i je n~taaif. 
+               </Language>
+               <Language id="English">
+                  I have glorified You on the earth. I have finished the work which You have given Me to do.
+               </Language>
+               <Language id="Arabic">
+                  أنا قد مجدتك على الأرض وقد أكملت العمل الذي اعطيتني لأعمله،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou mawou n/i n~yok paiwt qatotk qen piw~ou e~naf n~t/i n~sorp m~patepikocmo cswpi qatotk. 
+               </Language>
+               <Language id="English">
+                  And now, O Father, glorify Me together with Yourself, with the glory which I had with You before the world was.
+               </Language>
+               <Language id="Arabic">
+                  والآن مجدني أنت يا أبَتِ عندك بالمجد الذي كان لي عندك قبل أن يكون العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aiouwnh m~pekran e~bol n~nirwmi e~takt/itou n/i e~bolqen pikocmoc: 
+               </Language>
+               <Language id="English">
+                  "I have manifested Your name to the men whom You have given Me out of the world.
+               </Language>
+               <Language id="Arabic">
+                  قد أظهرت إسمك للناس الذين اعطيتهم لى من العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nouk ne ouoh akt/itou n/i ouoh pekcaji aua~reh e~rof. Ouoh ]nou aue~mi je hwb niben e~takt/itou n/i han ebol hitotk ne. 
+               </Language>
+               <Language id="English">
+                  They were Yours, You gave them to Me, and they have kept Your word. Now they have known that all things which You have given Me are from You.
+               </Language>
+               <Language id="Arabic">
+                  لك هم وقد أعطيتهم لي وكلامك حفظوه، والآن قد علموا ان كل ما اعطيته لى هو منك،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je nicaji e~takt/itou n/i ait/itou nwou. ouoh n~ywou hwou au[itou ouoh aue~mi tav~m/i je e~taii~ e~bol hitotk: ouoh aunah] je n~yok pe e~taktaouoi. A~nok ]twbh e~h~r/i e~jwou: 
+               </Language>
+               <Language id="English">
+                  For I have given to them the words which You have given Me; and they have received them, and have known surely that I came forth from You; and they have believed that You sent Me. I pray for them.
+               </Language>
+               <Language id="Arabic">
+                  لأن الكلام الذي أعطيته لي قد اعطيته لهم، وهم أيضا قبلوه وعلموا حقا أنى منك خرجت وآمنوا أنك أنت الذي ارسلتني. أنا أطلب عنهم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai twbh an eybe pikocmoc: alla eybe n/etakt/itou n/i je nouk ne. Ouoh n/e~tenoui nouk ne: ouoh n/e~tenouk noui~ ne: ouoh ai[iw~ou n~q~r/i n~q/tou. 
+               </Language>
+               <Language id="English">
+                  I do not pray for the world but for those whom You have given Me, for they are Yours. And all Mine are Yours, and Yours are Mine, and I am glorified in them.
+               </Language>
+               <Language id="Arabic">
+                  ولست أطلب من أجل العالم بل من أجل الذين اعطيتهم لي لأنهم لك وما هو لي فهو لك وما هو لك فهو لي، وأنا قد تمجدت فيهم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ],/ an je qen pikocmoc: nai de n~ywou ce,/ qen pikocmoc: ouoh a~nok ]n/ou harok: paiwt pia~gioc a~reh e~rwou n~q~r/i qen pekran n/e~tak t/itou n/i: hina n~touswpi qen oumetouai m~penr/]. 
+               </Language>
+               <Language id="English">
+                  Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, keep through Your name those whom You have given Me, that they may be one as We are.
+               </Language>
+               <Language id="Arabic">
+                  ولست أنا بعد في العالم، وهؤلاء هم في العالم وأنا آتى إليك. أيها الاب القدوس إحفظهم في إسمك الذين أعطيتهم لي ليكونوا واحدا كما نحن.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hote a~nok ei,/ nemwou naia~reh e~rwou n~q~r/i qen pekran n/e~takt/itou n/i: aia~reh e~rwou ouoh m~pe hli n~q/tou tako: e~b/l e~p~s/ri m~ptako: 
+               </Language>
+               <Language id="English">
+                  While I was with them in the world, and none of them is lost except the son of perdition, that the Scripture might be fulfilled. 
+               </Language>
+               <Language id="Arabic">
+                  حين كنت معهم كننت احفظهم في اسمك، الذين أعطيتهم لي حفظتهم ولم يهلك منهم أحد إلا إبن الهلاك ليتم الكتاب، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  hina n~tecjwk e~bol n~je ]g~rav/. ]nou de ein/ou harok ouoh nai ]caji m~mwou qen pikocmoc: hina n~te parasi swpi efj/k e~bol n~q~r/i n~q/tou. 
+               </Language>
+               <Language id="English">
+                  But now I come to You, and these things I speak in the world, that they may have My joy fulfilled in themselves.
+               </Language>
+               <Language id="Arabic">
+                  أما الآن فإنى آتى إليك وأتكلم بهذا في العالم ليكون فرحي كاملاً بهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok ai]nwou m~pekcaji: ouoh a~pikocmoc mectwou: je han e~bol qen pikocmoc an ne: m~par/] hw e~te a~nok oue~bolqen pikocmoc an.
+               </Language>
+               <Language id="English">
+                  I have given them Your word; and the world has hated them because they are not of the world, just as I am not of the world
+               </Language>
+               <Language id="Arabic">
+                  أنا قد سلمتهم كلامك فأبغضهم العالم، لأنهم ليسوا من العالم كما أنى أنا أيضاً لست من العالم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai ]ho an hina n~tekolou e~bolqen pikocmoc: alla hina n~teka~reh e~rwou e~bol ha pipethwou. Je hane~bolqen pikocmoc an ne m~pair/] hw e~te a~nok ou e~bolqen pikocmoc an.
+               </Language>
+               <Language id="English">
+                  I do not pray that You should take them out of the world, but that You should keep them from the evil one. They are not of the world, just as I am not of the world.
+               </Language>
+               <Language id="Arabic">
+                  ولست أسأل أن تأخذهم من العالم بل أن تحفظهم من الشرير، فإنهم ليسوا من العالم كما أنى أنا لست من العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matoubwou n~q~r/i qen tekmeym/i: v/e~tevwk n~caji pe ]meym/i. Kata v~r/~] e~takouorpt e~pikocmoc: anok hw aiouorpou epikocmoc.
+               </Language>
+               <Language id="English">
+                  Sanctify them by Your truth. Your word is truth. As You sent Me into the world, I also have sent them into the world.
+               </Language>
+               <Language id="Arabic">
+                  قدسهم في حقك وكلامك هو الحق، وكما أرسلتنى إلى العالم أرسلتهم أنا أيضا إلى العالم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]toubo m~moi a~nok e~h~r/i e~jwou: hina n~touswpi hwou eutoub/out qen oumeym/i. 
+               </Language>
+               <Language id="English">
+                  And for their sakes I sanctify Myself, that they also may be sanctified by the truth. 
+               </Language>
+               <Language id="Arabic">
+                  ولأجلهم أقدس أنا ذاتي ليكونوا هم ايضاً مقدسين في الحق 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai ]ho de eybe nai m~maua~tou an: alla nem e~h~r/i e~jen n/eynah] eroi e~bolhiten poucaji.
+               </Language>
+               <Language id="English">
+                  "I do not pray for these alone, but also for those who will believe in Me through their word;
+               </Language>
+               <Language id="Arabic">
+                  ولست أسأل من أجل هؤلاء فقط بل أيضاً من اجل الذين يؤمنون بي بكلامهم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~touswpi t/rou qen oumetouai katav~r/] n~yok v~iwt e~tekswpi n~q~r/i n~q/t: ouoh a~nok hw n~q~r/i n~q/tk: 
+               </Language>
+               <Language id="English">
+                  That they all may be one, as You, Father, are in Me, and I in You; 
+               </Language>
+               <Language id="Arabic">
+                  ليكونوا جميعهم واحدا كما انك أنت أيها الآب في وأنا أيضاً فيك 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~ywou hwou n~touswpi nq/ten qen oumetouai: hina n~te pikocmoc nah] je n~yok petaktaouoi.
+               </Language>
+               <Language id="English">
+                  that they also may be one in Us, that the world may believe that You sent Me.
+               </Language>
+               <Language id="Arabic">
+                  ليكونوا هم واحدا فينا ليؤمن العالم أنك أنت الذي أرسلتني
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nok piw~ou e~takt/if n/i ait/if nwou: hina n~touswpi hwou qen oumetouai m~penr/] hwn e~tensop qen oumetouai. 
+               </Language>
+               <Language id="English">
+                  And the glory which You gave Me I have given them, that they may be one just as We are one: 
+               </Language>
+               <Language id="Arabic">
+                  وأنا قد أعطيتهم المجد الذي أعطيتنى ليكونوا واحداً كما نحن واحد 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok n~q~r/i n~q/tou ouoh n~yok n~q/t: ouoh n~touswpi hwou euj/k e~bokqen oumetouai:
+               </Language>
+               <Language id="English">
+                  I in them, and You in Me; that they may be made perfect in one,
+               </Language>
+               <Language id="Arabic">
+                  أنا فيهم وأنت فى ليكونوا مكملين فى الوحدة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~tefe~mi n~je pikocmoc je n~yok pe e~taktaouoi: ouoh aimenritou m~v~r/] e~takmenrit.
+               </Language>
+               <Language id="English">
+                  and that the world may know that You have sent Me, and have loved them as You have loved Me.
+               </Language>
+               <Language id="Arabic">
+                  ليعلم العالم أنك أنت الذي أرسلتني وأني أحببتهم كما أحببتنى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Paiwt n/e~takt/itou n/i ]ouws hina m~v~ma e~]sop m~mof a~nok n~touswpi m~mau hwou nem/i hina n~tounau e~paw~ou e~takt/if n/i: je akmenrit qajen tkatabol/ m~pikocmoc.
+               </Language>
+               <Language id="English">
+                  Father, I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory which You have given Me; for You loved Me before the foundation of the world.
+               </Language>
+               <Language id="Arabic">
+                  يا أبت إن الذين أعطيتني أريد أن يكونوا معي هناك حيث أكون أنا ليروا مجدي الذي أعطيته لي لأنك أحببتني قبل إنشاء العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Paiwt piy~m/ m~pe pikocmoc couwnk anok de aicouwnk: ouoh nai ke,wouni aue~mi je n~yok pe e~taktaouoi.
+               </Language>
+               <Language id="English">
+                  O righteous Father! The world has not known You, but I have known You; and these have known that You sent Me.
+               </Language>
+               <Language id="Arabic">
+                  يا أبت البار العالم لم يعرفك أما أنا فقد عرفتك، وهؤلاء عرفوا انك أنت الذي أرسلتنى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aitamwou e~pekran ouoh ]natamwou on: hina ]a~gap/ e~takmenr/n~q/tc n~tecswpi n~q~r/i n~q/tou: ouoh a~nokhw n~q~r/i n~q/tou.
+               </Language>
+               <Language id="English">
+                  And I have declared to them Your name, and will declare it, that the love with which You loved Me may be in them, and I in them.
+               </Language>
+               <Language id="Arabic">
+                  وقد عرفتهم اسمك وساعرفهم أيضاً لتكون فيهم المحبة التي أحببتنى بها، وأنا أيضاً فيهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  And when he said, our Lord Jesus Christ raised his eyes towards his Father and said: Father the hour is come. Glorify your Son in the world.
+               </Language>
+               <Language id="Arabic">
+                  ولما قال ربنا يسوع هذا رفع عينيه إلى فوق نحو أبيه وقال يا أبتاه قد أتت الساعة مجد إبنك في العالم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I glorified You Father when I fulfilled your will. And what You gave me Father I gave to them because I selected them from the world.
+               </Language>
+               <Language id="Arabic">
+                  أنا مجدتك يا أبتاه على الأرض لما أكملت ما يرضيك. والذين أعطيتني يا أبتاه أعطيتهم إياه لأني أنا اخترتهم من العالم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And they accepted my word and knew that I came from You. I ask You for their sake and for the sake of all those who believe in me through their word. 
+               </Language>
+               <Language id="Arabic">
+                  وهم هكذا قبلوا كلامي وعلموا أني خرجت من عندك. أطلب إليك من أجلهم ومن أجل كل الذين يؤمنون بي بقولهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I have chosen them from the world and I am coming to You and will leave them in the world.When I was with them, I taught them and delivered your words to them. Father the world did not know You and I knew you.
+               </Language>
+               <Language id="Arabic">
+                  فإني اخترتهم من العالم وأنا آتٍ إليك وأتكهم في العالم. وعندما كنت معهم احفظهم وسلمت إليهم كلامك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Those who are with me knew that You sent me that is why I taught them your name O Father. The love you lavished on me O Father, let it be always on them so that they may proclaim your grace among the nations for I shall be in them. 
+               </Language>
+               <Language id="Arabic">
+                  يا أبتاه العالم لم يعرفك وأنا اعرفك وهؤلاء الذين معي فانهم علموا إنك أرسلتني لذلك اعلمتهم بإسمك يا أبي. المحبة التي احببتني بها يا ابتاه فلتكن دائمة فيهم جميعاً ليخبروا الأمم بنعمتك فإني أنا أيضاً أكون فيهم يا أبي، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Those are the commandments that our Savior gave to his disciples, whom he chose and sent to the world, to harvest for him a big crop. These are the galaxies whose light filled the earth.
+               </Language>
+               <Language id="Arabic">
+                  هذه هي الوصايا التي قررها مخلصنا مع تلاميذه هؤلاء الذين اختارهم وأرسلهم إلى العالم ليآتٍوا له بإثمار كثيرة. هؤلاء هو كواكب المسكونة الذين نورهم ملأ كل العالم.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

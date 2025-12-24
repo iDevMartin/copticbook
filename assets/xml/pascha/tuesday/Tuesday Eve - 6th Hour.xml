@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday Eve (The Sixth Hour)</Language>
+         <Language id="Arabic">ليلة الثلاثاء (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Psomt (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hosea 4:15-5:7</Language>
+               <Language id="Arabic">هوشع 4: 15-5: 7</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Hosea"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  N~yok de p~Icra/l m~pererat e~mi: ouoh Iouda m~perse e~qoun e~galgada: ouoh m~persenwten e~h~r/i ep~[in~jonc: ouoh m~perwrk m~P[oic etonq:
+               </Language>
+               <Language id="English">
+                  "But you, O Israel, be not ignorant, and do not go, men of Judah, to Gilgal; and do not go up to Beth Aven nor swear by the living Lord.
+               </Language>
+               <Language id="Arabic">
+                  وأما أنت يا اسرائيل فلا تكن جاهلاً. ويا يهوذا لا تدخل الجلجال ولا تذهبوا إلى الظلم. ولا تحلفوا بالرب الحى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je m~v~r/] n~ou bahci ecnosp pair/] afnosp n~je p~Icra/l: ]nou f~naa~moni m~mwou n~je P[oic m~vr/] n~ouhi/b qen ouma efouecywn: Ps~v/r n~nii~dwlon e~ V~rem: af,w naf n~ouckandalon:
+               </Language>
+               <Language id="English">
+                  For Israel was maddened like a mad heifer; now the Lord will feed them like a lamb in a wide place. Ephraim, joined with idols, has laid stumbling blocks in his own way.
+               </Language>
+               <Language id="Arabic">
+                  لأنه قد جمح اسرائيل كعجلة جامحة. فالآن يرعاهم الرب كحمل فى موضع رحب خليل الأصنام أفرايم قد ترك له شكاً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aucwtem n~ni&lt;ananeoc auerporneuin qen oupornia~ sae~bol: aumenre ousws e~bol. qen ou[ici n~h/t ouvwn n~te ou p~neuma:
+               </Language>
+               <Language id="English">
+                  He has chosen the Canaanites; they have grievously gone a-whoring; they have loved dishonor through her rudeness.
+               </Language>
+               <Language id="Arabic">
+                  فأطاعوا الكنعانيين وزنوا زنى إلى الآخر وأحبوا الهوان بالتعاظم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Nyok pe qen nektenh ouoh eue~[isipi e~bolqen pouman~erswousi. 
+               </Language>
+               <Language id="English">
+                  You are a blast of wind in her wings, and they shall be ashamed because of their altars."
+               </Language>
+               <Language id="Arabic">
+                   وأنت فى جناحيك هبوب ريح وسيخزون فى مذبحهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cwtem e~nai niou/b ouoh mahy/ten p~/i m~p~Icra/l ouoh [ic~m/ m~p~/i m~p~ouro:
+               </Language>
+               <Language id="English">
+                  Hear these things, O priests, and attend, O house of Israel! Listen, O house of the king!
+               </Language>
+               <Language id="Arabic">
+                  إسمعوا لهذا أيها الكهنة وأنصتوا يا بيت اسرائيل. وأصغوا يا بيت الملك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je are pihap ,/ oube y/nou: je a~retenswpi n~ouvas m~pimana~reh: nem m~v~r/] n~ous~ne efvwrs e~bolhijen pitabiri on: vai e~ta n/et jwrj n~]jorjc yaxf. A~nok de pe petenref]c~bw:
+               </Language>
+               <Language id="English">
+                  For judgment is with you because you have been a snare in Mizpah and a net spread on Tabor, which they that hunt the prey have fixed; but I will be your instructor.
+               </Language>
+               <Language id="Arabic">
+                  لأن الحكم موضوع قبالتكم. إذا قد صرتم فخاً للمحرس. وكالشبكة المنصوبة على تابور (تل مرتفع) تلك التى ينصبها الصيادون للصيد وأنا معلمكم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Anok aicouen e~V~rem: ouoh p~Icra/l f~ou/ou m~moi an: je ou/i aferporneuin ]nou n~je Evrem afcwf n~je p~Icra/l:
+               </Language>
+               <Language id="English">
+                  I know Ephraim, and Israel is not far from Me; for now Ephraim has gone grievously a-whoring; Israel is defiled.
+               </Language>
+               <Language id="Arabic">
+                  أنا عرفت أفرايم ولم يخف عنى اسرائيل لأن الآن قد زنى أفرايم وتنجس اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh m~pou] n~noumeui~ n~h/t eyroutacywou ha pounou]: je oup~neuma m~pornia~ e~te n~q/tou: P[oic de m~poucouwnf:
+               </Language>
+               <Language id="English">
+                  "Their deliberations did not allow them to return to their God, for a spirit of fornication is in them, and they have not gotten to know the Lord.
+               </Language>
+               <Language id="Arabic">
+                  ولم يوجهوا أفكار قلوبهم ليرجعوا إلى إلههم. لأن روح الزنى فيهم والرب لم يعرفوه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~yebio n~je p~swbs m~p~Icra/l e~jen pefho: ouoh p~Icra/l nem Evrem eue~hiw~ni qen ou[in~jonc: ouoh pikeIoudac efe~hiw~ni nemwou:
+               </Language>
+               <Language id="English">
+                  The arrogance of Israel shall be brought low before His face, and Israel and Ephraim shall become weak due to their wrongdoings; and Judah also shall become weak with them.
+               </Language>
+               <Language id="Arabic">
+                  وسيغطى اسرائيل وجهه بذراعه (من الخزى). فيرجم اسرائيل وأفرايم بالظلم ويرجم يـهوذا أيضاً معهم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eue~senwou nem hane~cwou nem hanmaci: eyrou kw] n~ca P[oic: ouoh n~noujemf: je afriki e~bolharwou:
+               </Language>
+               <Language id="English">
+                  "They shall go with sheep and calves diligently to seek the Lord; but they shall not find Him, for He has withdrawn Himself from them.
+               </Language>
+               <Language id="Arabic">
+                  ويذهبون بغنم وثيران ليطلبوا الرب فلا يجدونه لأنه تنحى عنهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je au,a P[oic n~cwou: je auswpi nwou n~je hanmaci auswpi nwou n~je hans/ri n~semmo. 
+               </Language>
+               <Language id="English">
+                  For they have forsaken the Lord because strange children have been born to them. 
+               </Language>
+               <Language id="Arabic">
+                  بما أنهم قد إنصرفوا عن الرب وصارت لهم ثيران وكان لهم بنين غرباء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ]nou ece~ouomou n~je ]e~t/si nem pouk~l/roc.
+               </Language>
+               <Language id="English">
+                  Now the rust shall devour them along with their heritages.
+               </Language>
+               <Language id="Arabic">
+                  فالآن يأكلهم الدبا (القمل) مع ميراثهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 91:2-3</Language>
+               <Language id="Arabic">مزمور 91: 2-3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pama m~vw] panou] ]naerhelpic e~rof: je n~yof efe~nahmet: 
+               </Language>
+               <Language id="English">
+                  "You are my protector and my refuge, my God; I will hope in Him; 
+               </Language>
+               <Language id="Arabic">
+                  ملجأي وإلهى فأتكل عليه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ebolha pivas n~te pirefjwrj: nem e~bolha oucaji n~ref s~yorter: All/louia.
+               </Language>
+               <Language id="English">
+                  For He shall free me from the snare of the hunters, and from every troubling word." Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لأنه ينجينى من فخ الصياد. ومن كلمة مقلقة. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 21:34-38</Language>
+            <Language id="Arabic">لوقا 21: 34-38</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Mahy/ten de e~rwten m/pote ntouh~ros n~je netenh/t qen ou[im/ nem ouyiqi nem hanrwous m~biw~tikon ouoh n~ouho] qen ouho] n~tefi e~jen y/nou n~je pie~hoou e~tem~mau.
+               </Language>
+               <Language id="English">
+                  “But take heed to yourselves, lest your hearts be weighed down with carousing, drunkenness, and cares of this life, and that Day come on you unexpectedly.
+               </Language>
+               <Language id="Arabic">
+                  فأحترزوا لأنفسكم لئلا تثقل قلوبكم من الشبع والسكر والهموم الدنياوية فيقبل عليكم بغته ذلك اليوم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  m~v~r/] n~ouvas efe~i~ gar e~jen ouon niben ethemci hijen p~ho m~p~kahi t/rf: 
+               </Language>
+               <Language id="English">
+                  For it will come as a snare on all those who dwell on the face of the whole earth. 
+               </Language>
+               <Language id="Arabic">
+                  لأنه يأتى كالفخ على جميع الجالسين على وجه الأرض كلها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rwic oun n~c/ou niben e~retentwbh hina n~teten s~jemjom e~er cabol e~nai t/rou eynaswpi: ouoh n~tetenohi y~/nou m~pem~yo m~p~s/ri m~v~rwmi.
+               </Language>
+               <Language id="English">
+                  Watch therefore, and pray always that you may be counted worthy to escape all these things that will come to pass, and to stand before the Son of Man.”
+               </Language>
+               <Language id="Arabic">
+                  أسهروا إذن وتضرعوا فى كل حين لكى تقووا على الهرب من هذه الأمور المزمعة أن تصير وتقفوا أمام إبن الإنسان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nafi~ri de m~pie~hoou ef]c~bw qen piervei: piejwrh de nafn/ou e~bol efm~ton m~mof hijen pitwou v/e~toumou] e~rof je va nijwi:
+               </Language>
+               <Language id="English">
+                  And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet.
+               </Language>
+               <Language id="Arabic">
+                  وكان فى النهار يعلم فى الهيكل. وفى الليل يخرج ويبيت فى الجبل الذى يدعى جبل الزيتون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pilaoc t/rf nafswrp m~mof harof qen piervei e~cwtem e~rof.
+               </Language>
+               <Language id="English">
+                  Then early in the morning all the people came to Him in the temple to hear Him.
+               </Language>
+               <Language id="Arabic">
+                  وكان جميع الشعب يبكرون إليه فى الهيكل ليسمعوا منه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  As an attending physician, Jesus was treating us free. He reminds us that excessive eating taxes the heart and saps the power from the body. 
+               </Language>
+               <Language id="Arabic">
+                  كمثل طبيب مداو كان المسيح إلهنا يداوى مجاناً قائلاً إن زيادة الأكل تثقل القلوب وتقطع القوة من الجسد 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  In a parallel way, engrossment in worldly concerns could bring on us vicious passions, cause us to stray away from the fear of God, the wicked (Satan) can overwhelm us, drive us away from the path of salvation, diminish the awareness of our soul's salvation, and subject us to the dominion of death just as the prey falls in the trap.
+               </Language>
+               <Language id="Arabic">
+                  والأهتمام أيضاً الدنياوى يجلب على الإنسان شروراً كثيرة ويحيد بالإنسان عن مخافة الله فيختنقه الشرير ويبعده عن طريق الخلاص ومعرفة خلاص نفسه ويوقعه فى سلطان الموت مثل الفخ الذى يخطف الفريسة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Be alert and present fruits worthy of righteousness and atonement so that you may stand in front of our Judge and Savior Jesus.
+               </Language>
+               <Language id="Arabic">
+                  أسهروا أنتم أيضاً وأصنعوا ثمرة تليق بالبر والتوبة لكى تكونوا واقفين أمام الديان يسوع المخلص.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He was teaching the public in the temple. By night, He rested on the Mount of Olives. By day, He went down to Jerusalem where people gathered early to listen to His teachings that are replete with righteousness.
+               </Language>
+               <Language id="Arabic">
+                  وكان يعلم الجموع فى الهيكل وفى الليل كان يستريح وكانت راحته فى جبل الزيتون وفى النهار كان يأتى إلى أورشليم. وكان جميع الشعب يبكرون إليه ليسمعوا تعاليمه المفعمة صلاحاً،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Those who heard him, hurried to drink from the spring of His sweet water. As the Book that testifies to His coming says: “He is the healthy nourishing food for those who believe in Him.”
+               </Language>
+               <Language id="Arabic">
+                  والذين سمعوا كانوا يسبقون إلى ينبوعه ويشربون منه الماء الحلو كما قال الكتاب الشاهد بمجيئه أنه الطعام لغير الفاسد المغذى لكل الذين يؤمنون به.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelMichael:Melody">
+         <InsertDocument path="melodies/include/saints/Archangel Michael"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="ArchangelRaphael:Melody">
+         <InsertDocument path="melodies/include/saints/Archangel Raphael"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StJosephTheCarpenter:Melody">
+         <InsertDocument path="melodies/include/saints/St. Joseph the Carpenter"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StMark:Melody">
+         <InsertDocument path="melodies/include/saints/St. Mark"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StGeorge:Melody">
+         <InsertDocument path="melodies/include/saints/St. George"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StPhilopaterMercurius:Melody">
+         <InsertDocument path="melodies/include/saints/St. Philopater Mercurius"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StMena:Melody">
+         <InsertDocument path="melodies/include/saints/St. Mena"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StApanoub:Melody">
+         <InsertDocument path="melodies/include/saints/St. Apanoub"/>
+      </Season>
+   </Group>
+   <Group>
+      <Season id="StMaurice:Melody">
+         <InsertDocument path="melodies/include/saints/St. Maurice"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StDemiana:Melody">
+         <InsertDocument path="melodies/include/saints/St. Demiana"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StBarbara:Melody">
+         <InsertDocument path="melodies/include/saints/St. Barbara"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StCyprianAndStJustina:Melody">
+         <InsertDocument path="melodies/include/saints/St. Cyprian and St. Justina"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StAnthony:Melody">
+         <InsertDocument path="melodies/include/saints/St. Anthony"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StPaulTheHermit:Melody">
+         <InsertDocument path="melodies/include/saints/St. Paul the Hermit"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StThomasTheHermit:Melody">
+         <InsertDocument path="melodies/include/saints/St. Thomas the Hermit"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StPishoyAndStPaulOfTammah:Melody">
+         <InsertDocument path="melodies/include/saints/St. Pishoy and St. Paul of Tammah"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StMoses:Melody">
+         <InsertDocument path="melodies/include/saints/St. Moses"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StShenuteTheArchimandrite:Melody">
+         <InsertDocument path="melodies/include/saints/St. Shenute the Archimandrite"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StSamuelTheConfessor:Melody">
+         <InsertDocument path="melodies/include/saints/St. Samuel the Confessor"/>
+      </Season>
+   </Group>
+
+   <Group>
+      <Season id="StMaryOfEgypt:Melody">
+         <InsertDocument path="melodies/include/saints/St. Mary of Egypt"/>
+      </Season>
+   </Group>
+
+   <Group>
+      <Season id="StVeronica:Melody">
+         <InsertDocument path="melodies/include/saints/St. Veronica"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="FrAbdelmessihElManahri:Melody">
+         <InsertDocument path="melodies/include/saints/Fr. Abdelmessih El-Manahri"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="PopeKyrillos:Melody">
+         <InsertDocument path="melodies/include/saints/Pope Kyrillos"/>
+      </Season>
+   </Group>
+</Document>

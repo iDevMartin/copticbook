@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JonahFast | (GreatFast ^ Weekdays)">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Sare V]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Fast of Jonah or the Great Fast:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               Sare V] w~li: m~mau n~ninobi n~te pilaoc: e~bol hiten pi~[lil: nem pic~yoi n~te pic~yoinoufi.
+            </Language>
+            <Language id="English">
+               God lifts away the sins of the people, through the burnt offering and the aroma of incense 
+            </Language>
+            <Language id="Arabic">
+               يرفع الله هناك خطايا الشعب من قِبل المحرقات ورائحة البخور.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

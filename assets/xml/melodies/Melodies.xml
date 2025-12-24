@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Melodies</Language>
+      <Language id="Arabic">مدائح</Language>
+   </Title>
+   
+   <Group>      
+      <Season id="Joyful29thOfTheMonth">
+         <InsertDocument path="melodies/include/Joyful 29th of the Month"/>
+      </Season>    
+      
+      <InsertDocument path="melodies/include/koiahk/ByWeek"/>
+      
+      <Season id="CopticNewYearPeriod">
+         <InsertDocument path="melodies/include/Coptic New Year"/>
+      </Season>
+      
+      <Season id="FeastOfTheCross">
+         <InsertDocument path="melodies/include/Feast of the Cross"/>  
+      </Season>
+      
+      <Season id="Annunciation">
+         <InsertDocument path="melodies/include/Annunciation"/>
+      </Season>    
+      
+      <Season id="NativityParamoun">
+         <InsertDocument path="melodies/include/Nativity Paramoun"/>
+      </Season>
+      
+      <Season id="NativityPeriod">
+         <InsertDocument path="melodies/include/Nativity"/>
+      </Season>          
+      
+      <Season id="Circumcision">
+         <InsertDocument path="melodies/include/Circumcision"/>
+      </Season>
+      
+      <Season id="TheophanyParamoun">
+         <InsertDocument path="melodies/include/Theophany Paramoun"/>
+      </Season>
+      
+      <Season id="TheophanyPeriod">
+         <InsertDocument path="melodies/include/Theophany"/>
+      </Season>
+      
+      <Season id="WeddingCana">
+         <InsertDocument path="melodies/include/Wedding at Cana of Galilee"/>
+      </Season>
+      
+      <Season id="PresentationInTemple">
+         <InsertDocument path="melodies/include/Presentation of the Lord in the Temple"/>
+      </Season>
+      
+      <Season id="Transfiguration">
+         <InsertDocument path="melodies/include/Transfiguration"/>
+      </Season>
+      
+      <Season id="JonahFast">
+         <InsertDocument path="melodies/include/Jonah Fast"/>
+      </Season>
+      
+      <Season id="(GreatFastWeek1 | GreatFastSunday0) ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/First Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek2 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Second Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek3 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Third Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek4 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Fourth Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek5 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Fifth Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek6 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Sixth Week of Great Fast"/>
+      </Season>
+      
+      <Season id="GreatFastWeek7 ^ !Feasts">
+         <InsertDocument path="melodies/include/greatfast/Last Friday of Great Fast"/>
+      </Season>
+      
+      <Season id="HosannaSunday">
+         <InsertDocument path="melodies/include/hosannasunday/Hosanna Sunday"/>         
+      </Season>
+      
+      <Season id="Resurrection">
+         <InsertDocument path="melodies/include/pentecost/Resurrection"/>
+      </Season>          
+      
+      <Season id="PentecostWeek1">
+         <InsertDocument path="melodies/include/pentecost/First Week of the Holy 50 Days"/>
+         
+         <Group>
+            <Season id="!ThomasSunday">
+               <InsertDocument path="melodies/include/pentecost/Resurrection"/>
+            </Season>
+         </Group>
+      </Season>
+      
+      <Season id="PentecostWeek2">
+         <InsertDocument path="melodies/include/pentecost/Second Week of the Holy 50 Days"/>
+      </Season>
+      
+      <Season id="PentecostWeek3">
+         <InsertDocument path="melodies/include/pentecost/Third Week of the Holy 50 Days"/>
+      </Season>
+      
+      <Season id="PentecostWeek4">
+         <InsertDocument path="melodies/include/pentecost/Fourth Week of the Holy 50 Days"/>
+      </Season>
+      
+      <Season id="PentecostWeek5">
+         <InsertDocument path="melodies/include/pentecost/Fifth Week of the Holy 50 Days"/>
+         
+         <Group>
+            <Season id="!PentecostSunday6">
+               <InsertDocument path="melodies/include/pentecost/Ascension"/>
+            </Season>
+         </Group>
+      </Season>
+      
+      <Season id="Ascension">
+         <InsertDocument path="melodies/include/pentecost/Ascension"/>
+      </Season>
+      
+      <Season id="PentecostWeek6">
+         <InsertDocument path="melodies/include/pentecost/Sixth Week of the Holy 50 Days"/>
+      </Season>
+      
+      <Season id="PentecostWeek7">
+         <InsertDocument path="melodies/include/pentecost/Pentecost"/>
+      </Season>
+      
+      <Season id="ApostlesFast">
+         <InsertDocument path="melodies/include/Apostles Fast"/>
+      </Season>
+      
+      <Season id="ApostlesFeast">
+         <InsertDocument path="melodies/include/Apostles Feast"/>
+      </Season>
+      
+      <Season id="!KoiahkSeason">
+         <InsertDocument path="melodies/include/standard/OurFatherWhoArtInHeaven"/>
+         <InsertDocument path="melodies/include/standard/ListenOChristsCongregation"/>
+         <InsertDocument path="melodies/include/standard/HaveMercyOnYourCreation"/>
+         <InsertDocument path="melodies/include/standard/AlleluiaAlleluia"/>
+         <InsertDocument path="melodies/include/standard/OurSaviorCalledUponUs"/>   
+         <InsertDocument path="melodies/include/standard/NightOfTheLastSupper"/>
+         <InsertDocument path="melodies/include/standard/HosannaOSonOfDavid"/>
+         <InsertDocument path="melodies/include/standard/IntercedeForUs"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="EntranceOfTheHolyFamily">
+         <InsertDocument path="melodies/include/Entrance of the Holy Family into Egypt"/>
+      </Season>
+      
+      <Season id="KoiahkSeason">         
+         <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnMondayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnTuesdayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnWednesdayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnThursdayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnFridayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnSaturdayTheotokia"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnTheFourthHoos"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnWatosPsali"/>
+         <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Part8"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="PentecostPeriod">
+         <InsertDocument path="melodies/include/pentecost/OtherSongs"/>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="melodies/include/Saints"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="GreatFast">
+         <InsertDocument path="melodies/include/greatfast/General"/>
+      </Season>
+   </Group>
+</Document>

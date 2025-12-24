@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who girded Himself with a towel and covered up Adam’s nakedness. You, Who gave us the garment of Divine Sonship, we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا من إشتد بمنديل وستر كل عراء آدم. وأنعم علينا بلباس البنوة الإلهية. نطلب إليك أيها المسيح إلهنا إسمعنا وإرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who for the love of mankind became Man; You girded Yourself with a towel to cleanse us from the stains of our sins; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا من من أجل محبته للبشر صار إنسانا وبمحبته لنا إشتد بمنديل وغسل أدناس خطايانا، نسألك أيها المسيح إلهنا أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who prepared for us the way of life through the washing of the chosen holy disciples’ feet; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا من أعد لنا طريق الحياة بواسطة غسل أرجل رسله المختارين الأطهار نسألك أيها المسيح إلهنا اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Christ our God Who walked on the waters and through Your love of mankind, washed the disciples’ feet; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح إلهنا يا من جعل مشيه على المياه وبمحبته للبشر غسل أرجل تلاميذه. نطلب إليك أيها المسيح إلهنا اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who clothed Himself in light like a garment, girded Himself and washed the disciples’ feet and wiped them; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا من التحف بالنور كالثوب واشتد بمئزرة وغسل أرجل تلاميذه ومسحها. نسألك أيها المسيح إلهنا اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Christ our God, the Pantocrator, the Provider of divine gifts to those who serve Your Holy Name, Who sustains and supports all. You Who feeds them through His love; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح الرب إلهنا الضابط الكل الرازق المواهب الإلهية للذين يخدمون إسمك القدوس الذى ينمى ويربى ويعول الكل ويقوتهم بمحبته. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who gathered the water to one source, and made a limit for it above the sky; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا من جمع المياه إلى مجمع واحد، وجعل لها حداً فوق السموآتٍ. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who weighed the water with His hands, and measured the heaven with the span of His hand, and held all the earth with the palm of His hand; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الذى كال الماء بيده، وقاس السماء بشبره، والأرض كلها بقبضته. نسألك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who through His will made the springs into rivers and through Your indefinable love to mankind had prepared all things and created everything out of nothing for our services; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الذى صيَّر ينابيع الأودية أنهاراً بإرادته المقدسة وبمحبتك الغير مدركة للبشر أعددت لنا كل شئ لخدمتنا، وخلق الكل من لا شئ. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Again, O You the giver of truth and infinite richness, Lover of Mankind, O Lord of mercy; visit the earth and water it by the rising of the rivers, to bring forth good fruits; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               هكذا أيضاً أيها المعطى الحق وعظم الغنى ومحبة البشر يا إله الرحمة إفتقد الأرض واروها بصعود النهر فتثمر حسناً. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               May its furrows be watered and its fruits be plentiful through Your Goodness; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               ليروى حرثها، ليكثر ثمارها بصلاحك. نسألك أيها المسيح إلهنا إستجب لنا وإرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Give joy to the face of the earth and renew it. Raise the waters of the rivers according to their measure; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               فرح وجه الأرض، جددها دفعة أخرى، أصعد نهر النيل كمقداره. نطلب إليك أيها المسيح إلهنا إستجب لنا وإرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Bless the crown of the year with Your Goodness. Fill the land of our country with fatness to increase its furrows, and bless its fruits; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               بارك إكليل السنة بصلاحك، وبقاع بلدنا (مصر) إملأها من الدسم ليكثر حرثها وتتبارك أثمارها. نطلب إليك أيها المسيح إلهنا إستجب لنا وإرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Give joy to the land of our country, may its hills rejoice with gladness, through Your Goodness; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               لتفرح حدود كورة بلدنا (مصر) ولتهلل الآكام بفرح من قبل صلاحك. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord, save Your people, bless Your inheritance and visit the whole world with Your loving kindness and mercy. Exalt the horn of the Christians with the power of Your Life-Giving Cross; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اللهم خلص شعبك. بارك ميراثك. افتقد العالم أجمع بالمراحم والرأفآتٍ. ارفع شأن المسيحيين بقوة صليبك المحيي. نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Grant security, confirmation, and peace to the provinces through Your Goodness. Grant Your mercy and abundance to all the poor of Your people and make our hearts be delighted through the intercession of Your Holy Mother, the Pure Virgin Mary, and St. John the Baptist, and all our fathers the Apostles; we ask You, O Christ our God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اعط طمأنينة وثبآتٍاً وسلاماً للممالك بصلاحك أنعم لنا بالخصب وبمراحمك لسائر فقراء شعبك، ولتبتهج قلوبنا. بطلبآتٍ أمك العذراء الطاهرة مريم والقديس يوحنا المعمدان، وكافة آبائنا الرسل قاطبة نطلب إليك أيها المسيح إلهنا استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         The priest holds the cross with lit candles and the people pray "<span class="Coptic">Kurie e~le/~con</span>" 100 times.
+      </Language>
+      <Language id="Arabic">
+         يرفع الكاهن الصليب وهو مضاء بالشموع ويقولون ( يارب ارحم ) مئة مرة دمجاً.
+      </Language>
+   </Comment>
+</Document>

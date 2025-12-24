@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstMondayOfGreatFast | LastFridayOfGreatFast | (Liturgy ^ GreatFastSunday0) | (GreatFast ^ Weekend)">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Je peniwt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Saturdays and Sundays of the Great Fast:
+            </Language>
+         </Comment>
+
+         <InsertDocument path="include/OurFatherGreatFast"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

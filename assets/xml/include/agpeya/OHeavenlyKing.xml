@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <InsertDocument path="include/agpeya/3rdHour.4"/>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/DoxaPatri"/>
+   
+   <Role id="Reader">
+      <InsertDocument path="include/agpeya/3rdHour.5"/>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/KeNin"/>
+   
+   <Role id="Reader">
+      <InsertDocument path="include/agpeya/3rdHour.6"/>
+   </Role>
+</Document>

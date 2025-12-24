@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Sick</Language>
+         <Language id="Arabic">أوشية المرضى</Language>         
+      </Title>
+      
+      <Group>
+         <Season id="RaisingOfIncense">
+            <Comment>
+               <Language id="English">
+                  The Litany for the sick is said during the morning Offering of Incense all year round, except on Saturday mornings (when the Litany of the Departed is said instead).
+               </Language>            
+               <Language id="Arabic">
+                  تُقال أوشية المرضى في رفع بخور باكر على مدار السنة، فيما عدا باكر السبوت (حيث تُقال أوشية الراقدين بدلاً منها).
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/AgainLetUsAsk"/>  
+         
+         <Text>
+            <Language id="Coptic">
+               Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: ariv~meui~ P[oic n~n/etswni n~te peklaoc.
+            </Language>
+            <Language id="English">
+               We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the sick among Your people.
+            </Language>
+            <Language id="Arabic">
+               نسألُ ونطلبُ من صلاحِك يا محبَّ البشر، اذكر ياربُّ مرضى شعبِك.
+            </Language>
+         </Text>    
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nenio] nem nenc~n/ou etswni qen jinswni niben: i~te qen paitopoc i~te qen mai niben: hina n~te Pi,~rictoc Pennou] erh~mot nan nemwou m~pioujai nem pital[o: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for our fathers and our brethren who are sick with any sickness, whether in this place or in any place, that Christ our God may grant us, with them, health and healing, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               أطلبوا عن آبائنا وأخوتِنا المرضى بكلِّ مرضٍ، إن كانَ في هذا المسكنِ أو بكلِّ موضعٍ، لكي المسيحُ إلهنا ينعمَ لنا ولهم بالعافيةِ والشفاءِ ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">               
+               Eakjempousini qen hannai nem hanmetsenh/t matal[wou.
+            </Language>
+            <Language id="English">
+               You have visited them with mercy and compassion, heal them.
+            </Language>
+            <Language id="Arabic">
+               تعهَّدْهُم بالمراحمِ والرأفاتِ اشفِهِم.
+            </Language>
+         </Text>     
+         
+         <Text>
+            <Language id="Coptic">               
+               Alioui~ e~bolharwou nem e~bolharon n~swni niben nem iabi niben: pip~neuma n~te niswni [oji n~cwf.
+            </Language>
+            <Language id="English">
+               Take away from them, and from us, every sickness and every malady; the spirit of sicknesses, chase away.
+            </Language>
+            <Language id="Arabic">
+               انزع عنهم وعنا كلَّ مرضٍ، وكلَّ سقمٍ، وروحَ الأمراضِ اطرُده.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               N/e~tauwck eus~t/out qen niiabi matounocou ouoh manom] nwou.
+            </Language>
+            <Language id="English">
+               Those who have long lain in maladies, raise up and comfort.
+            </Language>
+            <Language id="Arabic">
+               والذين أبطأوا مطروحينَ في الأمراضِ أقمهم وعزِّهِم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               N/ett~hemk/out n~totou n~nip~neuma n~a~kayarton a~ritou t/rou n~remhe.
+            </Language>
+            <Language id="English">
+               Those who are afflicted by unclean spirits, set them all free.
+            </Language>
+            <Language id="Arabic">
+               والمعذَّبينَ من الأرواحِ النجسةِ، اعتقهم جميعاً.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               N/etqen nis~tekwou: ie nimeta~lwc: ie n/et,/ qen niexorictia:  ie nie,malwcia: ie n/e~toua~moni m~mwou qen oumetbwk ecensasi: P[oic a~ritou t/rou n~remhe ouoh nai nwou.
+            </Language>
+            <Language id="English">
+               Those who are in prisons or dungeons, those who are in exile or captivity, or those who are held in bitter bondage, O Lord, set them all free and have mercy upon them.
+            </Language>
+            <Language id="Arabic">
+               الذينَ في السجونِ أو المطابقِ أو الذينَ في النفي أو السبي أو المقبوضِ عليهم في عبوديةٍ مرةٍ، ياربُّ اعتقهم جميعَهم وارحَمهم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               Je n~yok petbwl n~n/etcwnh e~bol: ouoh ettaho e~ratou n~n/etauraqtou e~q~r/i.
+            </Language>
+            <Language id="English">
+               For You are He who loosens the bound and lifts up the fallen;
+            </Language>
+            <Language id="Arabic">
+               لأنك أنتَ الذي تحلُّ المربوطينَ وتقيمُ الساقطينَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               }helpic n~te n/e~te m~montou helpic: ]bo/~yia n~te n/e~te m~montou bo/~yoc.
+            </Language>
+            <Language id="English">
+               the hope of those who have no hope and the help of those who have no helper;
+            </Language>
+            <Language id="Arabic">
+               رجاءُ من ليس له رجاءٌ، ومعينُ من ليس له معينٌ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               Ynom] n~te n/e~toi n~kouji n~h/t: pilum/n n~te n/e~t,/ qen pi,imwn.
+            </Language>
+            <Language id="English">
+               the comfort of the fainthearted; the harbor of those in the storm.
+            </Language>
+            <Language id="Arabic">
+               عزاءُ صغيري القلوبِ، ميناءُ الذين في العاصفِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               "u,/ niben ethejhwj ouoh e~toua~moni e~jwou: moi nwou P[oic n~ounai: moi nwou n~oum~ton: moi nwou n~ou,~bob: moi nwou n~ouhmot: moi nwou n~oubo/~yia: moi nwou n~oucwt/ria: moi nwou n~oumetref,w e~bol n~te nounobi nem noua~nomia.
+            </Language>
+            <Language id="English">
+               All souls that are distressed or bound, grant them mercy, O Lord; grant them rest, grant them refreshment, grant them grace, grant them help, grant them salvation, grant them the forgiveness of their sins and their iniquities.
+            </Language>
+            <Language id="Arabic">
+               كلُّ الأنفسِ المتضايقةِ، والمقبوضِ عليها، أعطِها ياربُّ رحمةً، أعطِها نياحاً، أعطِها برودةً، أعطِها نعمةً، أعطِها معونةً، أعطِها خلاصاً، أعطِها غفرانَ خطاياها وآثامِها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               Anon de hwn P[oic niswni n~te nen'u,/ matal[wou: ouoh na nenkecwma a~rivaqri e~rwou. 
+            </Language>
+            <Language id="English">
+               As for us, too, O Lord, the sicknesses of our souls, heal; and also those of our bodies, cure.
+            </Language>
+            <Language id="Arabic">
+               ونحنُ أيضاً ياربُّ، أمراضَ نفوسِنا، اشفِها والتي لأجسادِنا، عافِها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">               
+               Pic/ini m~m/i n~te nen'u,/ nem nencwma: pie~pickopoc n~te carx niben: jempensini qen pekoujai.
+            </Language>
+            <Language id="English">
+               O You, the true physician of our souls and bodies, the Bishop of all flesh, visit us with Your salvation.
+            </Language>
+            <Language id="Arabic">
+               أيها الطبيبُ الحقيقيُّ الذي لأَنفسِنا، وأجسادِنا، يا مدبِّرَ كلِّ جسدٍ تعهَدنا بخلاصِكَ.
+            </Language>
+         </Text>             
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>         
+   </Section>
+</Document>

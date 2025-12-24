@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">
+      <Section expanded="true" antiphonePitch="1">
+          <Title>
+            <Language id="English">Doxology for the Transfiguration</Language>
+            <Language id="Arabic">ذوكصوكوجية لعيد التجلى</Language>
+            <Language id="Coptic">Marenhwc e~P,#c#...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Feast of the Transfiguration:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Marenhwc e~P,#c# Pennou]: pio~mooucioc nem Viwt: v/etafyamio~ qen tefmeynou]: n~n/etwnq nem nirefmwout.
+            </Language>
+            <Language id="English">
+               Let us praise Christ, our God: the One in Essence with the Father: Who, through His divinity, made: the living and the dead.
+            </Language>
+            <Language id="Arabic">
+               فلنسبح المسيح إلهنا المساوى مع الآب فى الجوهر الذى خلق بلاهوته الأحياء والأموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               I/#c# P,#c# pimonogen/c: afsenaf cap~swi m~pitwou n~Yabwr: af[i nemaf n~nefmay/t/c: Petroc nem Iakwboc nem Iwann/c.
+            </Language>
+            <Language id="English">
+               Jesus Christ, the Only Begotten: went up to the top of Mount Tabor: He took with Him His disciples: Peter and James and John.
+            </Language>
+            <Language id="Arabic">
+               يسوع المسيح الوحيد صعد فوق جبل تابور وأخذ معه تلاميذه بطرس ويعقوب ويوحنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh af[i,ereb m~poum~yo: pefho nafe~rouwini e~hote v~r/: nefh~bwc m~v~r/] n~ou,iwn: pip~rov/t/c 2 auouwnh naf.
+            </Language>
+            <Language id="English">
+               And He appeared before them: His face shone more than the sun: His clothes looked like snow: and the two prophets appeared to Him.
+            </Language>
+            <Language id="Arabic">
+               وتجلى أمامهم وكان وجهه يلمع أكثر من الشمس وثيابه مثل الثلج وظهر له النبيان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               ?liac nem Mwu~c/c petjor: aunau e~nefh~bwc hi Yabwr: nimay/t/c auerjinior: n~ou[/pi ecerouwini.
+            </Language>
+            <Language id="English">
+               Elijah and Moses, the strong: saw His clothes on Tabor: The disciples passed: through a bright cloud.
+            </Language>
+            <Language id="Arabic">
+               نظر إيليا وموسى القوى ثيابه فوق جبل تابور وعبر التلاميذ سحابة نيرة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh ic ouc~m/ e~bol qen t~ve: e~bolhiten Vnou] Viwt: je vai pe pas/ri pamenrit: aferpaouws cwtem n~cwf.
+            </Language>
+            <Language id="English">
+               And, behold, there was a voice from heaven: coming from God, the Father: saying, “This is My beloved Son: He has done My will, listen to Him.”
+            </Language>
+            <Language id="Arabic">
+               وإذا بصوت من السماء من عند الله الآب قائلاً هذا هو إبنى حبيبى قد صنع ارادتى فاسمعوا له.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Tenhwc e~rof ten]wou naf: tenerhouo~ [ici m~mof: hwc a~gayoc ouoh m~mairwmi: nai nan kata peknis] n~nai.
+            </Language>
+            <Language id="English">
+               We praise Him and glorify Him: and exalt Him above all: as Good and Lover of Mankind: Have mercy on us according to Your great mercy.
+            </Language>
+            <Language id="Arabic">
+               نسبحه ونمجده ونزيده علواً كصالح ومحب البشر إرحمنا كعظيم رحمتك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. I/#c# P,#c# p~s/ri m~V]: afswbt e~jen pitwou n~Yabwr.
+            </Language>
+            <Language id="English">
+               Alleluia. Alleluia: Alleluia. Alleluia: Jesus Christ, the Son of God: was transfigured on Mount Tabor.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا يسوع المسيح إبن الله تجلى على جبل تابور.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>
+      </Section>
+   </Season>
+</Document>

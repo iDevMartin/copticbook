@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia All/louia. I/couc Pi,~rictoc p~s/ri m~V] acmacf n~je ]paryenoc qen B/yleem n~te ]Ioudea kata nic~m/ m~p~rouv/tikon: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. / Jesus Christ the Son of God / was born of the Virgin in Bethlehem of Judea / according to the prophetic voices. Alleulia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله ولدته العذراء في بيت لحم اليهودية كالأصوات النبوية. الليلويا الليلويا
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

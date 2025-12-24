@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday Eve (The Ninth Hour)</Language>
+         <Language id="Arabic">ليلة خميس العهد (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Ptiou n~nis] (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 20:27-33</Language>
+               <Language id="Arabic">حزقيال 20: 27-33</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai caji nem p~/I m~Piicra/l p~s/ri m~v~rwmi ouoh eke~joc nwou: je nai ne n/e~tefjwm~mwou n~je Adwnai P[oic:
+               </Language>
+               <Language id="English">
+                  "Therefore speak to the house of Israel, son of man, and you shall say to them, 'Thus says the Lord:
+               </Language>
+               <Language id="Arabic">
+                  لأجل ذلك كلم بيت اسرائيل يا إبن آدم، وقل لهم: هذا ما يقوله أدوناى الرب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je sa e~qoun e~taiounou au]jwnt n/i n~je netenio] n~q~r/i qen nouparap~ twma n/etauhei n~q/tou e~qoun e~roi:
+               </Language>
+               <Language id="English">
+                  "Up to this point, your fathers provoked Me by the transgressions they committed against Me.
+               </Language>
+               <Language id="Arabic">
+                  إلى هذه الساعة أغضبنى آباؤكم بآثامهم التى سقطوا فيها أمامى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ai[itou e~qoun e~p~kahi v/e~tai couten tajij e~bolhijwf: ouoh aunau e~yal niben et[oci: nem capec/t n~s~s/n niben etoi n~lajwbi:
+               </Language>
+               <Language id="English">
+                  But I led them into the land I swore with an oath to give them, and they saw every high hill and every shade tree.
+               </Language>
+               <Language id="Arabic">
+                  وأدخلتهم إلى الأرض التى بسطت يدى عليها لأعطيهم إياها. فرأوا كل تل عال، وإلى أسفل كل الأشجار المورقة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ausetsouswousi m~mau n~ninou]: ouoh auyws n~c~yoinoufi m~pima e~te m~mau ouoh au ouw~ten m~mau n~ouw~ten e~bol. 
+               </Language>
+               <Language id="English">
+                  There they sacrificed to their gods; and there they appointed fragrant offerings and poured out their drink offerings. 
+               </Language>
+               <Language id="Arabic">
+                  وذبحوا هناك الذبائح للآلهة وقربوا البخور فى ذلك الموضع وسكبوا هناك سكائبهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aijoc nwou: je oupe abbana je n~ywten tetennase e~qoun e~mau: 
+               </Language>
+               <Language id="English">
+                  Then I said to them, 'What is this high place you go to?' 
+               </Language>
+               <Language id="Arabic">
+                  فقلت لهم: ما هذه الأبانا المرتفعة التى تدخلون إليها؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aumou] e~pefran je abbana sa e~qoun e~voou n~e~hoou: Eybe vai a~joc m~p~/i m~pI~icra/l:
+               </Language>
+               <Language id="English">
+                  So they call its name Bamah, to this day.'" Therefore say to the house of Israel,
+               </Language>
+               <Language id="Arabic">
+                  فدعى أسمها أبانا إلى هذا اليوم، لذلك قلت لبيت اسرائيل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  je nai ne n/e~tefjw m~mwou n~je P[oic P[oic: je icje a~retenna[wqem n~ywten qen nia~nomia~ n~te niio] ouoh tetennamowi camenh/ n~nouw~reb: 
+               </Language>
+               <Language id="English">
+                  'Thus says the Lord: "Do you defile yourselves with the lawlessness of your fathers, and commit fornication after their abominations?
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله الرب، إذ كنتم ستتنجسون بآثام الآباء وتتبعون أرجاسهم بتقديم باكورات تقدماتكم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem qen niar,/ n~te netentaio qen p~jinouw~] ebol n~netens/ri qen pi,rwm: nowten teten[aqem qen netenmeui~ t/rou sa e~qoun e~voou n~e~hoou: a~nok hw ]nae~rouw nwten p~/i m~Piicra/l: 
+               </Language>
+               <Language id="English">
+                  You defile yourselves in the first fruits of your gifts with all your inventions to this very day. Shall I answer you, O house of Israel?
+               </Language>
+               <Language id="Arabic">
+                  وإجازة إبنائكم فى النار، تتنجسون بجميع أفكاركم إلى هذا اليوم، وأنا أيضا هل أجاوبكم يا بيت اسرائيل؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }wnq a~nok pe je A~dwnai P[oic: je an ]nae~rouw nwten. Je an vai nai~ e~jen petenpna ouoh n~nec swpi m~pair/]: Ouoh a~retenjw m~moc n~ywten
+               </Language>
+               <Language id="English">
+                  "As I live," says the Lord, "I will not answer you, nor will an answer occur to your spirit; for it will not be as you say,
+               </Language>
+               <Language id="Arabic">
+                  حى أنا، يقول أدوناى الرب إننى لا أجاوبكم، سوف لا يخطر هذا على بالكم ولن يكون هذا،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Je tetennaswpi m~v~r/] n~nieynoc: nem m~v~r/] n~ni.u,/ n~te nirwmi: ep~jinsemsi n~hanse nemhan w~ni: 
+               </Language>
+               <Language id="English">
+                  'We will be like the nations and like the tribes of the earth, to worship trees and stones.'
+               </Language>
+               <Language id="Arabic">
+                  إذ تقولون إننا سنصير مثل الأمم وكقبائل الأرض وكنفوس البشر فنعبد الخشب والحجر،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai ]onq a~nok: peje Adwnai P[oic: je n~q~r/i qen oujij eca~mahi: nem ouswbs ef[oci nem oum~bon efven e~bol: ]naerouro e~jen y/nou.
+               </Language>
+               <Language id="English">
+                  "Therefore, as I live," says the Lord, "I will reign over you with a mighty hand, with a high arm, and with anger poured out.
+               </Language>
+               <Language id="Arabic">
+                  فلذلك حى أنا يقول أدوناى الرب، إننى بيد عزيزة وبذراع عالية وبغضب مسكوب أملك عليكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 7:1-2</Language>
+               <Language id="Arabic">مزمور 7: 1-2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic panou] ai,ah~y/i e~rok nahmet ouoh matoujoi: e~bol n~totou n~n/et[oji n~cwi: 
+               </Language>
+               <Language id="English">
+                  O Lord my God, in You I hope; Save me from all who pursue me, and deliver me,
+               </Language>
+               <Language id="Arabic">
+                  أيها الرب إلهى عليك توكلت فخلصنى، ومن أيدى جميع الطاردين لى نجنى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/pote n~touhwlem: n~ta'u,/ m~vr/] n~oumoui: All/louia.
+               </Language>
+               <Language id="English">
+                  Lest like a lion he snatch away my soul: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لئلا يخطفوا نفسى مثل الأسد: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 10:29-38</Language>
+            <Language id="Arabic">يوحنا 10: 29-38</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  V/e~ta paiwt tpif n/i ounis] pe e~ouon niben: ouoh m~mon h~li nas~holmou e~bolqen t~jij m~paiwt: 
+               </Language>
+               <Language id="English">
+                  My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father’s hand. 
+               </Language>
+               <Language id="Arabic">
+                  ابى الذى أعطانى إياها هو أعظم من الكل، فلا يقدر أحد أن يخطفها من يد أبى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok nem paiwt a~non ouai: Auel wni oun n~je niIoudai hina n~cehioui~ e~jwf.
+               </Language>
+               <Language id="English">
+                  I and My Father are one.” Then the Jews took up stones again to stone Him.
+               </Language>
+               <Language id="Arabic">
+                  أنا وأبى واحد. فتناول اليهود حجارة ليرجموه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ nwou n~je I/couc efjw m~moc: je oum/s n~hwb e~naneu aitamwten e~rwou e~bolhiten paiwt: eybe as oun n~hwb tetennahiw~ni e~jwi:
+               </Language>
+               <Language id="English">
+                  Jesus answered them, “Many good works I have shown you from My Father. For which of those works do you stone Me?”
+               </Language>
+               <Language id="Arabic">
+                  فأجابهم يسوع قائلاً: أعمالاً كثيرة حسنة أريتكم إياها من عند أبى، فمن أجل أى عمل ترجموننى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aue~rouw~ naf n~je niIoudai ouoh pejwou je: eybe ouhwb e~nanef tennahiw~ni e~jwk an alla eybe oujeoua~: je n~yok ourwmi hwk k~iri m~mok n~nou]: 
+               </Language>
+               <Language id="English">
+                  The Jews answered Him, saying, “For a good work we do not stone You, but for blasphemy, and because You, being a Man, make Yourself God.”
+               </Language>
+               <Language id="Arabic">
+                  فأجابه اليهود قائلين: لسنا من أجل عمل حسن نرجمك بل لأجل تجديف، لأنك وأنت إنسان تجعل نفسك إلهاً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ nwou n~je I/couc ouoh pejaf: je m/ c~c~q/out an qen petennomoc je a~nok aijoc je n~ywten hannou].
+               </Language>
+               <Language id="English">
+                  Jesus answered them, “Is it not written in your law, ‘I said, “You are gods” ’?
+               </Language>
+               <Language id="Arabic">
+                  . فأجابهم يسوع وقال: أليس مكتوب فى ناموسكم أنا قلت أنكم آلهة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje afjoc n~n/ je nou] n/eta~ p~caji m~Vnou] swpi harwou ouoh m~mon s~jom n~te ]g~rav/ bwl e~bol: V/eta~ v~iwt teubof ouoh afouorpf epikocmoc n~ywten tetenjwm~moc je akje oua~je aijoc je a~nok pe p~s/ri m~Vnou].
+               </Language>
+               <Language id="English">
+                  If He called them gods, to whom the word of God came (and the Scripture cannot be broken), do you say of Him whom the Father sanctified and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’?
+               </Language>
+               <Language id="Arabic">
+                  فإن كان قد قال آلهة لأولئك الذين صارت إليهم كلمة الله ولايمكن أن ينقض المكتوب فالذى قدسه الآب وأرسله إلى العالم أتقولون له أنتم أنك تجدف لأنى قلت أنا إبن الله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icje ]i~ri an n~nih~b/oui~ n~te paiwt m~pernah] e~roi: Icje de ]i~ri m~mwou kan e~swp a~retenstemnah] e~roi nah] e~nihb/oui~: hina n~tetene~mi ouoh n~tetencwoun je a~nok ]qen paiwt ouoh paiwt n~q/t.
+               </Language>
+               <Language id="English">
+                  If I do not do the works of My Father, do not believe Me; but if I do, though you do not believe Me, believe the works, that you may know and believe that the Father is in Me, and I in Him.”
+               </Language>
+               <Language id="Arabic">
+                  إن كنت لا أعمل أعمال أبى فلا تؤمنوا بى، وإن كنت أعملها فإن لم تؤمنوا بى، فآمنوا بالأعمال، لتعلموا وتعرفوا أنى أنا فى أبى وأبى فى.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O you foolish obstinate, corrupt and contrary people, listen to the Divine clement praise the faithful saying;
+               </Language>
+               <Language id="Arabic">
+                  أيها الناس الجهلة المعاندون، الشعب النجس، والمخالف، اسمعوا الرحوم بفمه الإلهى يمدح المؤمنين به قائلاً: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  what the Father has given me is more precious than all the things on earth, and no one can take them away from my Father's hand.
+               </Language>
+               <Language id="Arabic">
+                  الذى أعطانى الآب هو أعظم من كل من على الأرض، وليس أحد يقدر أن يخطفهم و لا يسلبهم من يد أبى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I and the Father are one with the Holy Spirit without separation.
+               </Language>
+               <Language id="Arabic">
+                  وأنا والآب واحد مع الروح القدس بغير إفتراق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When the Jews in their envy picked the rocks to stone him, He responded to them in modesty saying: I did among you good deeds from My Father.
+               </Language>
+               <Language id="Arabic">
+                  وللوقت تناول اليهود حجارة بحسد عظيم ليرجموه، فأجابهم المخلص بوداعة ليعلمهم: أظهرت لكم أعمالاً حسنة مكرمة جداً من عند أبى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  What do you stone me for when I seek your salvation. Know and be certain you foolish Jews that I am in My Father and My Father is in Me.
+               </Language>
+               <Language id="Arabic">
+                  من أجل أى شئ ترجموننى وأنا أريد خلاصكم؟ إعلموا وتيقنوا أيها اليهود الجهال أننى فى أبى وأبى فى.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

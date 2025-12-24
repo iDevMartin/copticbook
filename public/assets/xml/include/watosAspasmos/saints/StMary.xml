@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMary">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">A~nok nim...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mary:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               A~nok nim qa pie~bi/n para ouon niben ethijen pikahi eyricaji m~petaio Maria t~seri n~Iwakim.
+            </Language>
+            <Language id="English">
+               Who am I, the weakest of all those upon the earth, to speak of your honor, O Mary, daughter of Joachim?
+            </Language>
+            <Language id="Arabic">
+               من أنا الضعيف أكثر من كل من على الأرض لكى أنطق بكرامتك يامريم أبنة يواقيم
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Annunciation">
+      <Comment>
+         <Language id="English">
+            On the Feast of the Annunciation:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            V/ e~taf[icarx e~bol qen }paryenoc: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who was incarnate of the Virgin. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            الذي تجسد من العذراء. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

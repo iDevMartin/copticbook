@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Circumcision">
+      <Text>
+         <Language id="Coptic">
+            I/couc Pi,~rictoc p~s/ri m~V]: afswp e~rof m~picebi
+         </Language>
+         <Language id="English">
+            Jesus Christ, the Son of God, accepted the circumcision
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح ابن الله قبل اليه الختان
+         </Language>
+      </Text>         
+   </Season>
+</Document>

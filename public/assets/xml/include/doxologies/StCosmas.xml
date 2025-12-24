@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StCosmas:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Cosmas</Language>
+            <Language id="Arabic">ذوكصولوجية قزمان ودميان</Language>
+            <Language id="Coptic">Tiou n~con n~a~ylovoroc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Cosmas, Damian, their brothers, and their mother:
+            </Language>
+         </Comment>
+                  
+         <Text>
+            <Language id="Coptic">
+               Tiou n~con n~a~ylovoroc: n~dia~kwn n~te P,#c#: outoubo qen touparyenia~: e~bol qen toumau n~ouwt.
+            </Language>
+            <Language id="English">
+               Five struggling brothers, the ministers of Christ, purity to their virginity, from their one mother.
+            </Language>
+            <Language id="Arabic">
+               خمسة اخوة مجاهدين خدام المسيح أطهارا فى بتوليتهم من أم واحدة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ete Kocma nem Deminoc: nem Anyimoc nem Leontioc: nem ouPrabioc hanc/ini ne: ouoh n~covoc qen toupict/m/.
+            </Language>
+            <Language id="English">
+               Cosmas and Demian, Anthimus and Leontius, and also Arabius, they were doctors and physicians.
+            </Language>
+            <Language id="Arabic">
+               الذين هم قزمان ودميان وأنتيموس ولاونديوس وأبرابيوس أطباء وحكماء فى صناعتهم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Euervaq~ri e~swni niben: na ni'~u,/ nem na nicwma: e~re ]a~gap/ qen toum/]: e~re pou/~i n~ouon niben.
+            </Language>
+            <Language id="English">
+               They healed every sickness, of the soul and the body, and love was in their midst, their house was open for all.
+            </Language>
+            <Language id="Arabic">
+               يعالجون كل الأمراض النفسية والجسدية والمحبة فى وسطهم وكان بيتهم لكل واحد.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Autwounou n~je nit~iou n~con: ausenwou sa pih/gemwn: aui~ri n~hannis] n~s~v/ri: nem hanm/ini hi pimwit.
+            </Language>
+            <Language id="English">
+               The five brothers arose, and went to the governor, they performed many wonders, and signs on the way.
+            </Language>
+            <Language id="Arabic">
+               فقام الخمسة اخوة ومضوا الى الوالى وفى الطريق صنعوا عجائب وآيات عظيمة فى الطريق.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }a~gia yeo~doda: toumau n~t~c~marwout e#y#u#: nactajro m~mwou qen pinah]: e~jen v~ran I/#c# P,#c#.
+            </Language>
+            <Language id="English">
+               Saint Theodota, their blessed and holy mother, confirmed them in the faith, in the Name of Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               والقديسة ثيؤدوتا أمهم المباركة القديسة كانت تثبتهم فى الايمان على اسم يسوع المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Etauo~hi gar e~ratou: m~pem~yo m~pih/gemwn: au] n~]o~mologia~: qen ounis] m~parr/cia~.
+            </Language>
+            <Language id="English">
+               For when they all stood, before the governor, they gave their confession, with great fervor.
+            </Language>
+            <Language id="Arabic">
+               ولما وقفوا أمام الوالى جاهروا باعترافهم باعلان عظيم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Qen nai auervorin n~han,~lom n~atlwm: n~te ]metmarturoc: auersai nem P,#c#: qen t~,wra n~te n/etonq.
+            </Language>
+            <Language id="English">
+               With this they wore the unfading crowns, of martyrdom, they celebrated with Christ, in the land of the living.
+            </Language>
+            <Language id="Arabic">
+               وبهذا توشحوا باكليل الشهادة غير المضمحل وعيدوا مع المسيح فى كورة الأحياء.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StCosmas"/>
+      </Section>
+   </Season>
+</Document>

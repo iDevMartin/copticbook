@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ KoiahkSeason">
+      <Section>
+         <Title>
+            <Language id="English">The Ninth Greek Interpretation</Language>
+            <Language id="Arabic">التفسير التاسع من الرومي</Language>
+            <Language id="Coptic">Ic a~natol/ ke du~cic</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Ic a~natol/ ke du~cic: /li~ou nem pemhit sa v~r/c: ci p~rocveroucin e~necic: eujw m~moc qen ounouc efr/c.
+            </Language>
+            <Language id="English">
+               From east to west, from north to south, they present to you praise, saying with a vigilant mind
+            </Language>
+            <Language id="Arabic">
+               من مشارق الشمس إلي مغاربها ومن الشمال إلى الجنوب يقدمون لك التسبيح.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               W~ y/e~tacswp eroc pl/rwma: t/c a~giac t~ria~doc: ouoh acswp n~ouc~k/noma: tou u~iou Dauid pihumno~doc.
+            </Language>
+            <Language id="English">
+               O who accepted the perfection, of the Holy Trinity, and became a dwelling, to the Son of David the hymnist.
+            </Language>
+            <Language id="Arabic">
+               قائلين بعقل مستيقظ يا التي قبلت كمال الثالوث المقدس وصارت مسكنا لابن داود المرتل.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               O~ Pat/~r e~xale~xato cou: ke p#n#a# e~picki~acen: u~io~c men e~picke~'ato cou: carkwy/~cae / a~gap/cen.
+            </Language>
+            <Language id="English">
+               The Father chose you, and the Spirit overshadowed you, and the Son pledged you, incarnated from you as He loved.
+            </Language>
+            <Language id="Arabic">
+               الآب اختارك والروح ظللك والابن تعهدك متجسدا منك كما أحب.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               H/ppe ic Po#c# afi~ e~bol n~q/]: w~ y/etc~mamat: n~teli~a~ ouoh etcelcwl: qen p~w~ou nem p~taio~ nem pih~mot.
+            </Language>
+            <Language id="English">
+               Behold the Lord came out of you, O blessed one, the perfect one and who is adorned with, glory and honor and grace. 
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب خرج منك أيتها المباركة الكاملة والمزينة بالمجد والإكرام والنعمة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               N~tef] m~v~nohem m~pikocmoc: etafyamiof qen pefouws: n~tououjai apo~ piracmoc: eybe nefmetsenh/t etos.
+            </Language>
+            <Language id="English">
+               That He may grant the world salvation, which He created with His will, that it may be saved from temptation, according to His many compassions.
+            </Language>
+            <Language id="Arabic">
+               ليعطي الخلاص للعالم الذي خلقه بإرادته لينجوا من التجربة من أجل رأفاته الكثيرة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Tenhwc e~rof a~cma keno~n: ouoh on tenerhouo~ [a~cf: ke e~noumen dia~meno~n: nahren decpina y/e~tacmacf.
+            </Language>
+            <Language id="English">
+               We praise Him with a new song, and also exalt Him, and we present praise at all times, before our Lady who bore Him.
+            </Language>
+            <Language id="Arabic">
+               نسبحه تسبيحا جديداً وأيضاً نزيده علوا ثم نسبح دائما أمام سيدتنا التي ولدته.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/RoumiRefrain"/>
+      </Section>
+       
+      <Section>
+         <Title>
+            <Language id="English">The Ninth Bohairic Interpretation A</Language>
+            <Language id="Arabic">التفسير التاسع من البحيري أ</Language>
+            <Language id="Coptic">H/ppe ic Po#c# V]</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               H/ppe ic Po#c# V]: qen teneji afi~ e~bol: ouoh af] nan n~oucw]: w~ y/e~tcmamat etj/k e~bol.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, came out of your womb, and granted us salvation, O blessed perfect one.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب الإله خرج من بطنك وأعطانا الخلاص أيتها المباركة الكاملة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               E~nohem m~pikocmoc: qen nefnai nem nefmetsenh/t: nem tefnis] m~meta~gayoc: nem tefmetrefw~ou n~h/t.
+            </Language>
+            <Language id="English">
+               That He may deliver the world, with His mercies and compassions, and the greatness of His goodness, and His long-suffering.
+            </Language>
+            <Language id="Arabic">
+               ليخلص العالم بمراحمه ورأفاته وعظم صلاحه وطول روحه (أناته).
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Tenhwc e~rof ten]w~ou naf: tenerhouo~ [ici m~mof: tenerp~rockun/cic nahraf: ouoh on tenouwst m~mof.
+            </Language>
+            <Language id="English">
+               We praise and glorify Him, and exalt Him above all, we bow down before Him, and worship Him.
+            </Language>
+            <Language id="Arabic">
+               نسبحه ونمجده ونزيده علوا ونخر امامه وأيضا نسجد له.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/BohairicARefrain"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">The Ninth Bohairic Interpretation B</Language>
+            <Language id="Arabic">التفسير التاسع من البحيري ب</Language>
+            <Language id="Coptic">Iezeki/l pip~rov/t/c</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Iezeki/l pip~rov/t/c: ws e~bol efoi m~meyre: je ainau e~oupul/ n~ca nima n~sai: ectob qen outebc n~s~v/ri.
+            </Language>
+            <Language id="English">
+               Ezekiel the prophet, has witnessed saying, “I saw a gate to the east, sealed with a mysterious seal.
+            </Language>
+            <Language id="Arabic">
+               حزقيال النبي، يصرخ شاهداً قائلاً، "إني رأيت باباً ناحية المشرق، مختوماً بختم عجيب.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               M~peh~li se e~qoun e~roc: e~b/l e~P~[oic n~te nijom: afse e~qoun afi~ e~bol: eco~hi ecsotem m~pecr/].
+            </Language>
+            <Language id="English">
+               And no one went through it, but the Lord of powers, He entered and went out, and the gate remained sealed.”
+            </Language>
+            <Language id="Arabic">
+               ولم يدخل أحد إليه، إلا رب القوات، دخل وخرج، وبقى مختوماً بحاله."
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }pul/ gar pe }paryenoc: y/e~tacmici m~Pencwt/r: ouoh on menenca y~recmacf: aco~hi on ecoi m~paryenoc.
+            </Language>
+            <Language id="English">
+               For the gate is the Virgin, who gave birth to our Savior, and after His birth, she remained a virgin.
+            </Language>
+            <Language id="Arabic">
+               الباب هو العذراء، التي ولدت مخلصنا، وأيضاً من بعد ما ولدته، بَقِيَت عذراء.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               F~c~marwout n~je Pekarpoc: w~ y/e~tacj~ve V~nou] nan qen pikocmoc: sa n~tefcotten qen nenjij: m~pidurannoc n~aynai.
+            </Language>
+            <Language id="English">
+               Blessed is your Fruit, O who gave birth to God for the world, so as to redeem us from the hands, of the unmerciful tyrant.
+            </Language>
+            <Language id="Arabic">
+               مباركة هي ثمرتكِ، يا مَنْ ولدت لنا الله في العالم، حتى خلصنا من أيدي، المضاد غير الرحوم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/praises/koiahk/BohairicBRefrain"/>
+      </Section>
+      
+      <Section>     
+         <Title>
+            <Language id="English">The Ninth Coptic Mo-‘aqap Interpretation</Language>
+            <Language id="Arabic">التفسير التاسع من القبطي المعقَّبْ</Language>
+            <Language id="Coptic">I/#c# P,#c# paboi~yoc</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               I/#c# P,#c# paboi~yoc: nai qa tamete~la,ictoc: eybe tekmeta~gayoc: m~perwp e~roi n~naa~nomia~.
+            </Language>
+            <Language id="English">
+               Jesus Christ my helper, have mercy upon Your poor one, for the sake of Your goodness, do not count my iniquities.
+            </Language>
+            <Language id="Arabic">
+               يا يسوع المسيح معينني أرحم حقارتي من أجل صلاحك لا تحسب على آثامي.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               M~perwp e~roi n~naa~nomia~: nem v~nobi n~tahulikia~: alla coljou eybe Maria~: e~taki~ akswpi n~q/tc.
+            </Language>
+            <Language id="English">
+               Do not count my iniquities, and the sins of my youth, wipe them out for the sake of Mary, to whom you came and dwelt in.
+            </Language>
+            <Language id="Arabic">
+               لا تحسب على آثامي وخطايا شبابي لكن أمحها من أجل مريم التي اتيت وحللت فيها.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Etaki~ akswpi n~q/tc: je n~yok pe e~takerh/tc: akcob] m~moc ouoh akcemn/tc: eybe v~nohem m~pikocmoc.
+            </Language>
+            <Language id="English">
+               To whom You came and dwelt in, for you are the One who begun, you prepared and established her, for the salvation of the world.
+            </Language>
+            <Language id="Arabic">
+               التي أتيت وحللت فيها: لأنك أنت الذي ابتدأت وأعددتها وثبتها من أجل خلاص العالم.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Eybe v~nohem m~pikocmoc: nem pirwmi n~ar,eoc: aki~ akercwmatikoc: e~bolqen ]selet Maria~.
+            </Language>
+            <Language id="English">
+               For the salvation of the world, and the first man, You came and took flesh, from the bride Mary.
+            </Language>
+            <Language id="Arabic">
+               من أجل خلاص العالم: والإنسان الأول أتيت وتجسدت من العروسة مريم.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               E~bolqen ]selet Maria~: kata teke~paggelia~: akcw] n~tekk~l/ronomia~: e~te a~non qa nipictoc.
+            </Language>
+            <Language id="English">
+               From the bride Mary, according to Your promises, You saved Your heritage, we the faithful.
+            </Language>
+            <Language id="Arabic">
+               من العروسة مريم: كموعدك وخلصت ميراثك أى نحن المؤمنون.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               E~te anon qa nipictoc: tenhwc e~rok enjw m~moc: je vwk pe piw~ou nem pihumnoc: icjen ]nou nem sa e~neh.
+            </Language>
+            <Language id="English">
+               We the faithful, praise You saying, "Unto you is due glory and praise, from now and forever."
+            </Language>
+            <Language id="Arabic">
+               أى نحن المؤمنون: نسبحك قائلين : لك المجد والتسبيح من الآن وإلى الأبد
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ten]w~ou ne w~ y/e~tenhot: etfai qa piLogoc n~te V~iwt: je ,ere y/eymeh n~h~mot: ouoh Po#c# sop neme.
+            </Language>
+            <Language id="English">
+               We glorify you O faithful one, who carried the Word of the Father, "Hail to you O full of grace, the Lord is with you."
+            </Language>
+            <Language id="Arabic">
+               نمجدك ايتها الامينة. الحاملة كلمة الأب قائلين إفرحي يا ممتلئة نعمة. الرب معك
+            </Language>
+         </Text>
+      </Section>
+      
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Egyptian Interpretation
+            </Language>
+            <Language id="Arabic">
+               التفسير التاسع من المصري
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe P~[oic V~nou]: w~ }paryenoc etj/k e~bol: afi~ n~q/] eybe pencw]: hina n~tef,w nan e~bol.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, O perfect Virgin, came through you for our salvation, that He may forgive us.
+            </Language>
+            <Language id="Arabic">
+               ها هوذا الرب الإله، أيتها العذراء الكاملة، أتى فيكِ من أجل خلصنا، لكيْ يغفر لنا.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe P~[oic V~nou]: tenhwc e~rof ten]w~ou naf: je n~yof pe V~nou] n~te nenio]: tenerhouo~ [ici m~mof.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, we praise and glorify Him, for He is the God of our fathers, and exalt Him above all.
+            </Language>
+            <Language id="Arabic">
+               ها هوذا الرب الإله، نسبحه ونمجده، لأنه هو إله آبائنا، ونزيده علواً.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe P~[oic V~nou]: afi~ e~nohem m~pikocmoc t/rf: aferrwmi m~penr/]: saten v~nobi m~mauatf.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, came to save the whole world, He became a man like us, except for sin alone.
+            </Language>
+            <Language id="Arabic">
+               ها هوذا الرب الإله، جاء ليخلص العالم كله، وقد صار إنساناً، ما خلا الخطية فقط.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe P~[oic V~nou]: w~ ]ve m~beri m~mahc~nou]: afsai nan e~bol n~q/]: n~je Pir/ n~te ]dikeo~cun/.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, O new and second heaven, out of you the Sun of Righteousness, shone upon us.
+            </Language>
+            <Language id="Arabic">
+               ها هوذا الرب الإله، أيتها السماء الجديدة الثانية، قد أشرق لنا منكِ، شمس البر.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe P~[oic V~nou]: afi~ eyrefaiten naf n~oulaoc: ]twbh m~mok P~[oic Panou]: nai qa tenmete~la,ictoc.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, came to make us a congregation for Himself, I pray to You O Lord my God, have mercy on our poor selves.
+            </Language>
+            <Language id="Arabic">
+               ها هوذا الرب الإله، جاء لكيْ يجعلنا له شعباً، أطلب إليك يا رب إلهي، أن ترحم حقارتنا.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/EgyptianRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Sahidic Interpretation
+            </Language>
+            <Language id="Arabic">
+               التفسير التاسع من الصعيدي
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="Coptic">
+               Iwc m~mwten w~ nipictoc: tenerhumnoc Emmanou/l: Pencwt/r I/couc Pi,~rictoc: n~yof pe V~nou] m~Picra/l.
+            </Language>
+            <Language id="English">
+               Hurry O believers, let us chant to Emmanuel, our Savior Jesus Christ, He is the God of Israel.
+            </Language>
+            <Language id="Arabic">
+               أسرعوا أيها المؤمنون، لنسبح عمانوئيل، مخلصنا يسوع المسيح، لأنه هو إله إسرائيل.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Je afrek niv/oui~: afi~ e~pec/t saron: ouoh afnasten qen nenh~b/oui~: n~atsau m~pon/ron.
+            </Language>
+            <Language id="English">
+               For He bowed the heavens, and came down to us, and made us hard hearted in our works, that are unbeneficial and hidden
+            </Language>
+            <Language id="Arabic">
+               لأنه قد طأطأ السموات، ونزل إلينا، ونشلنا من أعمالنا، الغير الفالحة الخبيئة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Afsai nan e~bol qen Maria: kata nic~m/ n~te nip~rov/t/c: anjimi m~pekcwt/ria: e~bol hiten ]p~roctat/c.
+            </Language>
+            <Language id="English">
+               He shone to us from Mary, according to the prophetic voices, so we found Your salvation, through the intercessor.
+            </Language>
+            <Language id="Arabic">
+               أشرق لنا من مريم، كأصوات الأنبياء، فوجدنا خلاصك، من قِبَل الشفيعة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               H/ppe ic P~[oic V~nou]: va piy~ronoc n~sah n~,~rwm: afouwnh nan e~bol n~q/]: Y~mau m~p~w~ou n~atlwm.
+            </Language>
+            <Language id="English">
+               Behold the Lord God, who has the burning throne, appeared to us from you, the Mother of the unfading glory.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب الإله، ذو الكرسي الملتهب ناراً، ظهر لنا منكِ، يا اُم المجد الغير المضمحل.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Piaidioc nem Pefiwt: e~bol qen oucia n~Nou]: taiParyenoc etcebtwt: acerm~p~sa n~tecfai n~tefmeynou].
+            </Language>
+            <Language id="English">
+               The Eternal One with His Father, has the divine nature, this prepared Virgin, was worthy to carry His divinity.
+            </Language>
+            <Language id="Arabic">
+               الأزلي مع أبيه، من جوهر الإله، هذه العذراء المستعدة، إستحقت أن تحمل لاهوته.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Tenhwc e~rof ouoh tenouwst m~mof: qen n/eth/p nem our/toc: qen ouc~m/ n~at,arwf: eybe je afi~ ouoh afnai nan a~non qa peflaoc.
+            </Language>
+            <Language id="English">
+               We praise and worship Him, in secret and publicly, with an unceasing voice, for He came and had mercy on us His people.
+            </Language>
+            <Language id="Arabic">
+               نسبحه ونسجد له، في السر والإجهار، بصوت لا يسكت، من أجل أنه قد أتى ورحمنا نحن شعبه.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/SahidicRefrain"/>    
+      </Section>
+      
+      <Section antiphonePitch="2">
+         <Title>
+            <Language id="English">The Ninth Hymn of Abou El-Saad of Aboutig</Language>
+            <Language id="Arabic">المديح التاسع من قول أبو السعد الأبوتيجي</Language>
+         </Title>
+          
+         <Text>
+            <Language id="English">
+               Behold, the Lord came from you / and saved the world He created / from the bondage of the cursed Satan / in the belly of Hades He crushed him.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب أتي منك / وخلّص العالم الذي خلقة / من أسر الشيطان اللعين / وفي جوف الجحيم سحقه.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               And we became His justified people / He tore the hand-writing of slavery / our father Adam who was bound / since ancient times in Hades, He released.
+            </Language>
+            <Language id="Arabic">
+               وصيرنا له شعباً مبرور / وكتاب العبودية مزّقة / وآدم أبونا الذي كان مأسور / من قديم في جوف الجحيم عتقة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               We praise and glorify Him / and exalt Him forever / as a good Lover of Man with His father / and the Holy Spirit, One with Him.
+            </Language>
+            <Language id="Arabic">
+               نسبح له ونمجد إباه / ونزيده علواً إلي الآباد / كصالح محب البشر مع أبيه / والروح القدس الذي به اتحد.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               I am with you, O lovers of God / Come let us ask the patient One / through the intercessions of the Theotokos / to grant us deliverance.
+            </Language>
+            <Language id="Arabic">
+               أنا معكم يا محبي الإله / العبد سقيم الروح والجسد / تعالوا نسأل طويل الأناه / أن يهب الخلاص لكل أحد.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               He gave us a sign of signs / by baptism, He gave us life / on judgment day of Resurrection / He will put us as His right hand.
+            </Language>
+            <Language id="Arabic">
+               لأنه أعطانا رسماً رسمه / بالمعمودية يحيينا / ويوم القيامة في الزحمة / من عن يمينه يوقفنا.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/AbuSaadRefrain"/>
+      </Section>
+
+      <Section antiphonePitch="2">          
+         <Title>
+            <Language id="English">Ninth Hymn of Cantor Gabriel of Qay A</Language>
+            <Language id="Arabic">القطعة التاسعة من نظم المعلم المعلم غبريال</Language>
+         </Title>
+          
+         <Text>
+            <Language id="English">
+               Behold the Lord desired and loved / wishing to fulfill the promise / The Lord granted what He promised / He erased all His people’s recklessness.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب شاء و أحب / وأراد وفاء وعد بكمال / وما وعد به الرب وهب / ومحا عن شعبه كل ضلال.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               He erased all His people’s recklessness / and taught us His divine mystery / You bore Him and He fulfilled the word / He baptized us in the Trinity’s Name.
+            </Language>
+            <Language id="Arabic">
+               ومحا عن شعبه كل ضلال / وعرفنا سر اللاهوت / وحملتيه وأكمل الأقوال / وعمدنا باسم الثالوث.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               He baptized us in the Trinity’s Name / He shone His light after darkness / He granted us His Kingdom / and erased all our sins.
+            </Language>
+            <Language id="Arabic">
+               وعمدنا باسم الثالوث / وأشرق نوره من بعد ظلام / وجاد علينا بالملكوت / ومحا عنا كل الآثام.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               And erased all our sins / We praise and glorify Him / He is due eternal glory and honor / as a good lover of man, with His Father.
+            </Language>
+            <Language id="Arabic">
+               ومحا عنا كل الآثام / نسبح له ونمجد إياه / له المجد الدائم والإكرام / كصالح محب البشر مع آباه.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               As a good Lover of Man, with His Father / and the eternal Holy Spirit / only God, no Lord but Him / eternal, everlasting, omnipresent.
+            </Language>
+            <Language id="Arabic">
+               كصالح محب البشر مع آباه / والروح القدس أزلي موجود / إله واحد لا رب سواه / دائم باقي حاضر موجود.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Eternal, everlasting, omnipresent / Creator, giver, bestower / He chose you O daughter of David / Lord of lords dwelt in your womb.
+            </Language>
+            <Language id="Arabic">
+               دائم باقي حاضر موجود / خالق رازق عاطي وهاب / إختاركِ يا إبنة داود / وسكن في أحشاك رب الأرباب.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Lord of lords dwelt in your womb / you gave birth to Him and you suckled Him / while being in His Father’s glory / for the sake of your parents.
+            </Language>
+            <Language id="Arabic">
+               سكن في أحشاك رب الأرباب / وولدتيه ورضع من ثدييك / وهو كائن في مجد الآب / من أجل أمك و أبيك.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               For the sake of your parents / after they were in affliction and sadness / O you, whom the Lord desired / save us from Satan’s evil.
+            </Language>
+            <Language id="Arabic">
+               من أجل أمك وأبيك / بعد أن كانوا في ضيق وأحزان / يا من تاق الرب إليك / نجينا من شر الشيطان.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Save us from Satan’s evil / for we are regarded for you / the servant the composer of the hymn / a sinner who approaches you.
+            </Language>
+            <Language id="Arabic">
+               نحينا من شر الشيطان لأننا محسوبين عليك والعبد الناظم دى الأوزان خاطئ وتقدمت إليك
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               A sinner who approaches you / confessing my sins / hoping by praising you / O Mary, my shelter.
+            </Language>
+            <Language id="Arabic">
+               خاطئ وتقدمت إليك معترفا لك بخطاياي ومتعشم بمديحي فيك يا مريم أنت ملجأي
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               O Mary, my shelter. / I plead you on the deadful day / I your sinful servant / ask you, I who is regarded for you.
+            </Language>
+            <Language id="Arabic">
+               يا مريم أنت ملجأي اترجاك في اليوم المرهوب أنا عبدك الخاطي متوسل بك وعليك محسوب
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Ask you, I who is regarded for you / do not neglect who are regarded for you / your servant who is written in sins / with effort says, hail to you.
+            </Language>
+            <Language id="Arabic">
+               متوسل بك وعليك محسوب فلا تفوتي من حسب عليك عبدك في الرق المكتوب بالجهد يقول السلام إليك
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/GabrielARefrain"/>
+      </Section>
+      
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Hymn of Cantor Gabriel of Qay B
+            </Language>
+            <Language id="Arabic">
+               المديح التاسع من قول المعلم غبريـال القايي ب
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               Behold the Lord came and appeared, from your womb O pride of generations, and walked among people in the day, and perfected humanity. 
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب أتى وظهر، من أحشاكِ يا فخر الأجيال، ومشى بين العالم بالنهار، وأكمل طبع الناسوت بكمال.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               You carried Him without man’s seed, and bore Him without impossibility, to remove for us all harms, and erase all deception.
+            </Language>
+            <Language id="Arabic">
+               حملتِه من غير زرع بشر، وولدتِه حقاً بغير مُحال، ليزيل عنا كل ضرر، ويمحي عنا كل ضلال.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Blessed are you O vessel of coal, your servant entreats and asks, to Him who came and appeared, through you in the end of time.
+            </Language>
+            <Language id="Arabic">
+               طوباكِ يا إناء العنبر، عبدكِ يتضرع ويسأل، إلى مَنْ قد أتى وظهر، منكِ في عَقِب الأجيال.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               As He said in His Book, about the lost sheep, and I the sinner cry openly, “Have mercy O Honored One.
+            </Language>
+            <Language id="Arabic">
+               كما في كتبه قد خبَّر، من أجل الخروف الضال، وأنا الخاطئ أصرخ إجهار، قائلاً "إرحمني يا ذا الجلال.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               And keep the people who are present, O Magnificent and Honored One, and behold with Your kindness and look, to Your servant who wrote these sayings.
+            </Language>
+            <Language id="Arabic">
+               وإحفظ هذا الشعب الحاضر، يا ذا الهيبة مع كل جلال، وتطلَّع بألطافك وأنظر، إلى عبدك ناظم الأقوال.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               My tongue is weak and falling short, from many iniquities and acts, and cannot speak and mention, my name Gabriel among the people.”
+            </Language>
+            <Language id="Arabic">
+               لساني عاجز ومقصِّر، من كثرة إثمي والأفعال، ولم أقدر أنطق وأذكر، إسمي بين الناس غبريـال."
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/GabrielBRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Hymn of Cantor Gabriel of Qay C
+            </Language>
+            <Language id="Arabic">
+               المديح التاسع من قول المعلم غبريـال القايي ت
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               Behold the Lord desired and wanted, to fulfill the old promise, to rescue us from all corruption, and renew us after we were nothing.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب شاء وأراد، أن يوفي الوعد المتقدم، وينقذنا من كل فساد، ويجدِّدنا من بعد عدم.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               So the Father looked down from His heaven, and found no one pure like you O Mary, He sent His Son to be incarnate of you, and to us His promise was fulfilled.
+            </Language>
+            <Language id="Arabic">
+               فتطلَّع الآب من سمائه فلم يجد، مَنْ يُشبه طُهركِ يا مريم، فأرسل إبنه منكِ تجسد، ولنا وعده الصادق قد تم.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               And to us His promise was fulfilled, we praise and glorify Him, as a good Giver and Lover of Man, who lives through His Holy Spirit and Father.
+            </Language>
+            <Language id="Arabic">
+               ولنا وعده الصادق قد تم، نسبح له ونمجد أيَّاه، كصالح محب البشر منعم، الحيْ بروح قدسه وأبيه.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Come let glorify and exalt, and praise the Unseen One, to Him is the eternal glory and honor, forever and ever.
+            </Language>
+            <Language id="Arabic">
+               تعالوا نمجد ونعظِّم، ونسبح من لا عين تراه، له المجد الدائم والإكرام، شا إينيه إنتيه بي إينيه.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Forever and ever, Eternal Immortal and Great, we ask of His goodness and gifts, to give His people eternal grace.
+            </Language>
+            <Language id="Arabic">
+               شا إينيه إنتيه بي إينيه، دائم باقي ذو العظمة، نطلب من جوده وعطاياه، أن يديم على شعبه النعمة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               And the servant who confesses his sins, chants to Mary the pride of the nation, Gabriel who is saying, “Hail to you O Mother of mercy.”
+            </Language>
+            <Language id="Arabic">
+               والعبد المعترف بخطاياه، مادح مريم زين الأمة، غبريـال القائل من فاه، "السلام لكِ يا اُم الرحمة."
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/GabrielCRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Hymn of Pope Abba Markos VIII
+            </Language>
+            <Language id="Arabic">
+               المديح التاسع من قول الأب البطريرك أنبا مرقس الثامن
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               Behold the Lord appeared from you, O Mary the Virgin, and our good Savior, chose your beautiful purity.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب ظهر منكِ، يا مريم تي بارثينوس، وإختار حسن طهارتكِ، بين سوتير إن آغاثوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Blessed are you O who became, a Mother to the holy God, the salvation of Adam appeared from you, through your conception of my Lord Jesus.
+            </Language>
+            <Language id="Arabic">
+               طوباكِ يا مَنْ قد صرتِ، أماً للإله القدوس، خلاص آدم قد ظهر بكِ، بحملكِ في باشويس إيسوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He took a perfect flesh from you, with it He saved Adam the prisoner, in the bottom of Hades he wept, as a captive of the Devil.
+            </Language>
+            <Language id="Arabic">
+               أخذ جسداً كاملاً منكِ، خلِّص به آدم الذي كان محبوس، في قاع الجحيم كان فيه يبكي، مسبياً مع بي ذيَّاڤولوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He shed precious Blood for us, for the salvation of all the souls, you carried in your womb O Mary, the salvation of the Christians.
+            </Language>
+            <Language id="Arabic">
+               سفكه عنا دماً زكي، لأجل خلاص كل النفوس، في أحشائكِ يا مريم حَملْتِ، خلاص إنني إخريستيانوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you O who ate bread, from the hands of the angels, they brought it to you in the temple, O Mary the first-born Bride.
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ يا مَنْ أكلتِ، خبزاً من يد ني أنجيلوس، وفي بي إرفيه أحضروه لكِ، يا مريم بكر وعروس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               I ask and entreat your intercessions, I am the sinner your servant Markos, and for all the people participating, in the faith of the holy Son.
+            </Language>
+            <Language id="Arabic">
+               أسال وأطلب شفاعتِك، أنا الخاطئ عبدِك مرقس، وعن كل الشعب المشترِك، في الإيمان بالإبن القدوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               May the spirits bodies and souls, be preserved through you, and the Church be at rest, with her servants deacons and priests.
+            </Language>
+            <Language id="Arabic">
+               يكونون محفوظين بكِ، أرواحاً وأجساداً ونفوس، والبيعة تكون في طمأنينة، وخدامها شمامسة وقسوس.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/PopeMarkosRefrain"/>    
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Ninth Hymn of El-Bardanohee
+            </Language>
+            <Language id="Arabic">
+               المديح التاسع من قول البردنوهي
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               Behold the Lord came out of you, O Mary the pride of the world, from His highest heaven He chose your beauty, at the end of time He was sent to you.
+            </Language>
+            <Language id="Arabic">
+               هوذا الرب خرج منكِ، يا مريم فخر الأكوان، من عُلو سمائه إختار حسنكِ، أُرسِلَ لكِ في عَقِب الأزمان.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               His only Son came dwelling in your womb, a hidden Mystery was declared, and the sons of your race were saved, from slavery and dishonor.
+            </Language>
+            <Language id="Arabic">
+               نزل وحيده سكن فى بطنِك، سراً مخفى قد صار إعلان، وخلصت أبناء جنسِك، من أسر عبودية وهوان.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               By the dwelling of the Word in your womb, our Savior Jesus the Judge, became a child drinking your milk, resting on your lap and bosom.
+            </Language>
+            <Language id="Arabic">
+               بحلول الكلمة في بطنِك، يسوع مخلصنا الديان، وصار طفلاً يرضع لبنِك، في حجركِ بين الأحضان.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Salome came to you at your request, you put Him in the manger, and the ranks came down to that place, worshiping the Son of Man.
+            </Language>
+            <Language id="Arabic">
+               وأتت لكِ سلومى بقصدِك، ووضعتِه في مذود عريان، والطغمات نزلوا إلى عندِك، بسجود إلى إبن الإنسان.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Their Creator became your Son, praise to Him from every tongue, you kissed Him and, He was nursed like the humans.
+            </Language>
+            <Language id="Arabic">
+               خالقهم قد صار إبنِك، له التسبيح من كل لسان، وقبَّلتيه بفمِك، ورضع كسائر البشريين.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Blessed are you and your honored race, you carried the Creator of the world, and salvation came to us through your purity, and we won [freedom] from the fire.
+            </Language>
+            <Language id="Arabic">
+               طوباكِ وطوبى لشرف جنسِك، حملتِ خالق كل الأكوان، وصار الخلاص لنا بطهرِك، وفزنا من حر النيران.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               The Lord found no one like you, you became a sanctuary for God, we were freed through your honor, and were saved from the Devil’s slavery.
+            </Language>
+            <Language id="Arabic">
+               لم يجد الآب مَنْ هو شبهِك، صرتِ لله هيكلاً منصان، وصرنا أحراراً بشرف قدرِك، وعُتقنا من أسر الشيطان.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/BardanoheeRefrain"/>    
+      </Section>
+   </Season>
+</Document>

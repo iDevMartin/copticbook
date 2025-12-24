@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="NativityFast ^ WatosDays ^ AdamDays ^ KoiahkSeason ^ Weekend ^ FirstWeekOfKoiahk ^ SecondWeekOfKoiahk ^ ThirdWeekOfKoiahk ^ FourthWeekOfKoiahk">
+      <Title>
+         <Language id="English">Koiahk Weekend</Language>
+         <Language id="Arabic">السبوت والأحاد في شهر كيهك</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/koiahk/include/KoiahkContents"/>
+   </ForceSeason>
+</Document>

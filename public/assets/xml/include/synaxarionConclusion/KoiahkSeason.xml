@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason ^ DisplayNonCustomaryPrayers">
+      <Role id="People">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Pa[oic</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pa[oic I/couc Pi,~rictoc: pimici e~bol qen Viwt: qajwou n~nie~wn t/rou: nai nan kata peknis] n~nai.
+               </Language>
+               <Language id="English">
+                  My Lord Jesus Christ / the begotten of the Father / before all ages / have mercy upon us according to Your great mercy.
+               </Language>
+               <Language id="Arabic">
+                  يا ربي يسوع المسيحالمولود من الآب قبل كل الدهور ارحمنا كعظيم رحمتك. 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ni,eroubim ceouwst m~mok: niceravim ce]w~ou nak: euws e~bol eujw m~moc: je ,~ouab ouoh ,~ouab.
+               </Language>
+               <Language id="English">
+                  The cherubim worship You / the seraphim glorify You / proclaiming and saying / Holy and Holy.
+               </Language>
+               <Language id="Arabic">
+                  الشاروبيم سجدون لك، السيرافيم يمجدونك صارخين قائلين:قدوس قدوس 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  &lt;ouab P[oic qen nia~nanso: k~tai/out qen nia~nany~ba: n~yok ouc~yoinoufi pe pacwt/r: je aki~ akcw] m~mon.
+               </Language>
+               <Language id="English">
+                  You are Holy, O Lord, among the thousands / You are glorified among the myriads / You are Incense, O my Savior / for You have come and saved us.
+               </Language>
+               <Language id="Arabic">
+                  قدوس يا رب بالألوف،مكرم بالربوات،أنتَ بخور يا مخلصي،لأنك أتيت و خلصتنا. 
+               </Language>         
+            </Text>
+         </Section>
+      </Role>
+   </Season>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StMaryMagdalene:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary Magdalene: 
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Twbh m~P~o#c# e~h~r/I e~jwn: ]agia Maria ]magdalin/: Nem nihiomi m~faicojen: n~tef ,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf, O St. Mary Magdalene, and the myrrh-bearing women, that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبى من الرب عنا: ايتها القديسة مريم المجدلية: والنسوة حاملات الطيب: ليغفر لنا خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

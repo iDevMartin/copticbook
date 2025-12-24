@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FourIncorporealCreatures:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Four Incorporeal Creatures:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pif~tou n~zwon n~a~cwmatoc: etfai qa piharma n~te V]: ouho m~moui~ nem ouho m~maci: nem ouho n~rwmi nem ouho n~a~/~toc
+            </Language>
+            <Language id="English">
+               Hail to the four bodiless animals: which carry the throne of God: a lion’s face and a calf’s face: and a man’s face and an eagle’s face.
+            </Language>
+            <Language id="Arabic">
+               السلام للأربعة الحيوانات غير المتجسدين ، الحاملين مركبة الله ، وجه أسد ، ووجه ثور ، ووجه إنسان ، ووجه نسر.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

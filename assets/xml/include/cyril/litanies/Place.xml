@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Place</Language>
+         <Language id="Arabic">أوشية الموضع</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic m~paitopoc eyouab n~tak vai: nem topoc niben: nem monact/rion niben n~te nenio] n~oryodoxoc.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, this Your holy place, and every place, and every monastery of our orthodox fathers—
+            </Language>         
+            <Language id="Arabic">
+               اذكر ياربُّ هذا الموضعَ المقدسَ الذي لكَ، وكلَّ المواضعِ وكلَّ أديرةِ آبائِنا الأرثوذكسيينَ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/cyril/litanies/PlaceDeacon"/>
+      <InsertDocument path="include/cyril/litanies/PlacePriestConclusion"/>
+      <InsertDocument path="include/LordHaveMercy"/>      
+   </Section>
+</Document>

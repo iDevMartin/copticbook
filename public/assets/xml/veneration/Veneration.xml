@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Veneration</Language>
+      <Language id="Arabic">تمجيد</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         It is appropriate to chant Veneration praises for Saint Mary and for all other saints and martyrs during any of the following times:
+         <ol>
+            <li>As an independent/standalone service (e.g., on the feast day of a specific saint or martyr).</li>
+            <li>During the evening offering of incense after the priest prays <span class="Coptic">V~nou] nai nan</span>.</li>
+            <li>After the reading of the Synaxarion during the Divine Liturgy.</li>
+         </ol>
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The praise begins with the following introductory hymn:              
+      </Language>
+   </Comment>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Blessed are You</Language>
+         <Language id="Coptic">K~c~marwout</Language>
+      </Title>
+      
+      <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>      
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         The following may also be said:              
+      </Language>
+   </Comment>
+   
+   <Section>
+      <InsertDocument path="include/veneration/ShereTheotokeContents"/>
+   </Section>
+   
+   <InsertDocument path="include/veneration/OKirios"/>
+   <InsertDocument path="include/veneration/ShashfEnsop"/>
+   <InsertDocument path="include/veneration/ZevthePentes"/>
+   <InsertDocument path="include/veneration/Aripresvevin"/>
+   <InsertDocument path="include/veneration/RasheNe"/>   
+   <InsertDocument path="include/veneration/SenaEtcho"/>
+   <InsertDocument path="include/veneration/FaiPevlemen"/>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Doxologies for St. Mary from the Morning Doxology</Language>
+         <Language id="Coptic">Nyo y~mau m~piouwini...</Language>
+      </Title>
+      <InsertDocument path="include/praises/morningdoxology/ConclusionStMary"/>
+   </Section>
+   
+   <InsertDocument path="antiphonary/AntiphonaryLink"/>
+   
+   <InsertDocument path="include/veneration/Apekran"/>
+   <InsertDocument path="include/veneration/AnokNim"/>
+   <InsertDocument path="include/veneration/Ataiparthenos"/>
+   
+   <InsertDocument path="include/PouroSection"/>
+   
+   <Comment>
+      <Language id="English">
+         The melody for the saint is chanted in the tune of <span class="Coptic">P~ouro</span>.       
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/veneration/HailToYouOMary"/>
+   <InsertDocument path="include/veneration/HailToYouOMary2"/>
+   <InsertDocument path="include/veneration/OMotherOfLight"/>
+   
+   <InsertDocument path="melodies/include/Saints"/>
+   <InsertDocument path="include/veneration/KhenEfran"/>
+   
+   <Comment>
+      <Language id="English">
+         The following verses may be chanted with the same tune as <span class="Coptic">Qen v~ran</span>:
+      </Language>
+   </Comment> 
+   
+   <InsertDocument path="include/veneration/KhenEfranConclusion"/>
+   <InsertDocument path="include/praises/ConclusionWatosTheotokia"/>
+   <InsertDocument path="include/LordHearUs"/>
+</Document>

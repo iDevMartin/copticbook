@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="LazarusSaturday">         
+      <Comment>
+         <Language id="English">
+            For Lazarus Saturday:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            &lt;ere Lazaroc v/e~taftounocf: menenca f~tou n~e~hoou: matounoc pah/t Pao#c# I/#c#: v/etafqoybef n~je pipethwou.
+         </Language>
+         <Language id="English">
+            Hail to Lazarus who has risen, after four days, raise my heart my Lord Jesus, which evil has slain. 
+         </Language>
+         <Language id="Arabic">
+            السلام للعازر الذى أقامه بعد أربعة أيام أقم ياربى يسوع قلبى الذى قتله الشرير.
+         </Language>
+      </Text>
+   </Season>  
+</Document>

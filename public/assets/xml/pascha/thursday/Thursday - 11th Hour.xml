@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" CovenantThursday11thHour="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday (The Eleventh Hour)</Language>
+         <Language id="Arabic">خميس العهد (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Piehoou m~Ptiou n~nis] (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 52:13-53:12</Language>
+               <Language id="Arabic">إشعياء 52: 13-53: 12</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  H/ppe efe~ka] n~je paa~lou: efe~[ici ouoh efe~[iwou e~masw: Mv~r/] e~te ouon oum/snatwmt eh~r/i e~jwk: pair/] efe~sws n~je pekc~mot nem pekwo~u e~bolhanirwmi:
+               </Language>
+               <Language id="English">
+                  Behold, My Servant shall have wisdom, and He shall be exalted and glorified exceedingly. Just as many shall be astonished at You, so Your form and glory shall be dishonored by men.  
+               </Language>
+               <Language id="Arabic">
+                  هوذا فتاى يفهم. ويتعالى ويتمجد جداً. كما أن كثيرين يندهشون منك كذلك يهان شكلك ومجدك من الناس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] cue~eps~v/ri n~je oum/s n~eynoc e~h~r/ie~jwf: ouoh hanourwou eue~s~yamn~rwou: je n/e~te m~poucaji qatotou eyb/tf ebe~nau: ouoh n/e~te m~poucwtem eue~ka].
+               </Language>
+               <Language id="English">
+                  Thus many nations shall marvel at Him, and kings shall shut their mouth, because they, to whom no report was brought concerning Him, shall see; and they who did not hear shall understand.
+               </Language>
+               <Language id="Arabic">
+                  وكذلك تتعجب منه أمم كثيرة وأمامه يسد الملوك أفواههم. لأن الذين لم يتكلموا عنه بين أيديهم يرون. والذين لم يسمعوا يفهمون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic nim petafnah] e~tenc~m/ ouoh p~swbs m~P[oic etaf[wrp e~nim. 
+               </Language>
+               <Language id="English">
+                  Lord, who has believed our report, and to whom was the arm of the Lord revealed?
+               </Language>
+               <Language id="Arabic">
+                  يارب من صدق خبرنا ولمن أستعلنت ذراع الرب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ancaji m~pefm~yo m~~vr/] n~oua~lou m~~vr/] n~ounouni qen oukahi efo~bi m~montef c~motm~mau oude w~ou annau e~rof ouoh ne m~montef c~mot m~mau oude cai.  
+               </Language>
+               <Language id="English">
+                  We proclaimed His presence as a Child, as a Root in a thirsty land. He had no form or glory, and we saw Him; and He had no form or beauty.
+               </Language>
+               <Language id="Arabic">
+                  تكلمنا أمامه فإذ هو مثل صبى وكأصل فى أرض عطشى لا صورة له ولا مجد. رأيناه فكان لا منظر له ولا جمال بل شكله حقير
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla pefc~motf~s/s ouoh f~monk e~bol oute nis/ri n~te nirwmi:
+               </Language>
+               <Language id="English">
+                  But in comparison to all men, His form was lacking in honor.
+               </Language>
+               <Language id="Arabic">
+                  ومضنى من بين بنى البشر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ourwmi efqen ouerqot ouohefcwoun n~fi swni e~rof je aftacyo m~pefho afsws ouoh m~pouopf.
+               </Language>
+               <Language id="English">
+                  He was a man in suffering and knew how to bear sickness. His face was turned away, and He was dishonored and not esteemed.
+               </Language>
+               <Language id="Arabic">
+                  رجل أوجاع يعرف ويحمل الأمراض فأنه رد وجهه وأهين ولم يعتد به.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai etfai qanennobi ouoh f~oi n~emkahn~h/t e~h~r/i e~jwn ouoh anmokmek e~rof je f~qen oum~kahnem ouerqot nem out~hemko. 
+               </Language>
+               <Language id="English">
+                  He bears our sins and suffers for us, yet we considered Him to be in pain, suffering, and ill-treatment.
+               </Language>
+               <Language id="Arabic">
+                  هذا الذى حمل خطايانا وتألم عنا. ونحن حسبناه متألماً مضروباً ومعذباً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nyof de af[ierqot eybe nennobi ouoh afswni eybenena~nomia~:
+               </Language>
+               <Language id="English">
+                  But He was wounded because of our lawlessness, and became sick because of our sins.
+               </Language>
+               <Language id="Arabic">
+                  وهو قد جرح لأجل معاصينا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tc~bw n~te tenhir/n/ e~h~r/i e~jwf qen neflele,/mi a~non anoujai. Ancwrem t/rou m~~vr/] n~hane~cwou: ourwmi afcwrem hi pefmwit ouoh P[oic aft/ifqa nennobi.
+               </Language>
+               <Language id="English">
+                  The chastisement of our peace was upon Him, and by His bruise we are healed. All we like sheep have gone astray. Man has gone astray in his way, and the Lord delivered Him over for our sins.
+               </Language>
+               <Language id="Arabic">
+                  وسحق لأجل آثامنا تأديب سلامنا عليه اثم جميعنا. وظلم أما هو فلأجل أنه تألم لم يفتح فاه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yof eybe je aft~hemkof n~f~ouwn n~rwf an m~~vr/] n~oue~cwou e~auenf e~p~qolqelouoh m~~vr/] n~ouhwb m~pem~yo m~v/etqwk m~mof efoi n~atc~m/ pair/] n~f~ouwn n~rwfan. 
+               </Language>
+               <Language id="English">
+                  Although He was ill-treated, He opened not His mouth. He was led as a sheep to the slaughter, and as a lamb is silent before his shearers, so He opens not His mouth. 
+               </Language>
+               <Language id="Arabic">
+                  مثل خروف سيق إلى الذبح وكحمل صامت أمام الذى يجزه هكذا لم يحرك شفتيه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auwli m~pefhap qen pefyebio tefgenea~ de nim eynas~viri e~roc je cenawlim~pefwnq e~bolhijen p~kahi eybe nia~nomia~ n~te pilaoc afi~ e~~vmou.
+               </Language>
+               <Language id="English">
+                  In His humiliation His judgment was taken away, and who will declare His generation? For His life is taken from the earth, and because of the lawlessness of My people He was led to death.
+               </Language>
+               <Language id="Arabic">
+                  رفع حكمه فى تواضعه وجيله من يقدر أن يصفه. لأن حياته تنزع من على الأرض. من أجل آثام الشعب جاء للموت
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eie~] n~nipon/rocn~t~sebiw n~tefkaici nem niramaoi n~t~sebiw m~pefmou je m~pefi~ri n~oua~nomia~ oudem~poujem ou,~rof qen rwf.
+               </Language>
+               <Language id="English">
+                  I will appoint evil men for His burial and rich men for His death, because He committed no lawlessness, nor was deceit found in His mouth.
+               </Language>
+               <Language id="Arabic">
+                  وسيعطى المتجاوزى الناموس مجازاة دفنه والاغنياء مكافأة موته. لأنه لم يصنع اثماً ولم يوجد فى فمه غش.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~ P[oic ouws e~toujov e~bolqen pierqot: e~swp a~preten [an t e~jen v~nobiteten'u,/ nanau e~ouj~roj e~nase peva~maji.
+               </Language>
+               <Language id="English">
+                  The Lord wishes to cleanse Him of His wound, and if You give an offering for sin, Your soul shall see a long-lived seed.
+               </Language>
+               <Language id="Arabic">
+                  أما الرب فشاء أن يشفيه من الجراح. وإذ ما أسلمتم ذواتكم ذبيحة عن الخطية فسترى نفوسكم زرعاً عزه كثير.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic ouws e~wl~i ebol qen piemkah n~tetev'u,/ e~tamof e~ouwini: ouoh e~erp~lazin n~ouka]: e~yamio~ n~oumeym/i: efoi m~bwkn~oum/s n~kalwc: ouoh nounobi n~yof afe~nou e~p~swi. 
+               </Language>
+               <Language id="English">
+                  The Lord wishes to take away the pain of His soul, to show Him light, to form Him with understanding, and to pronounce righteous the Righteous One who serves many well; and He shall bear their sins.  
+               </Language>
+               <Language id="Arabic">
+                  يريد الرب أن ينزع الالم من نفسه ليريه النور ويصور الفهم ويخلق البر ويتعبد حسناً للجماعة. إذ يحمل خطاياهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai n~yofefe~erk~l/ronomin n~oum/s: ouoh efe~vws n~niswl n~te nijwri: e~v~ma je af]n~tef'u,/ e~v~mou.
+               </Language>
+               <Language id="English">
+                  Therefore He shall inherit many, and will divide the spoil with the strong, because His soul was delivered over to death.
+               </Language>
+               <Language id="Arabic">
+                  فلذلك أنه يرث الكثيرين. ويقسم غنائم الأقوياء. حيث أسلم نفسه للموت
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auopf nem nia~nomoc: n~yof afen ninobi n~te oum/s e~p~swi:ouoh eybe noua~nomia~ aut/f.
+               </Language>
+               <Language id="English">
+                  He was considered among the lawless, and He bore the sins of many, and was delivered over because of their sins.
+               </Language>
+               <Language id="Arabic">
+                  احصي مع اثمة وهو قد حمل خطايا كثيرين وأسلم من أجل ذنوبهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 49:17,18</Language>
+               <Language id="Arabic">مزمور 49: 17 ,18</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  N~yok de akmecte tac~bw: ouoh akhioui~ n~nacaji cavahou m~mok: aksannaue~ouref[ioui~ nak[oji nemaf: ak,w n~tektoi nem ninwik: All/louia.
+               </Language>
+               <Language id="English">
+                  You hate My instruction, and cast My words behind you. If you see a thief, you run with him, and you keep company with adulterers: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وأنت قد أبغضت أدبى. وألقيت كلامى إلى خلفك. إذا رأيت سارقاً سعيت معه مع الفسقة جعلت نصيبك. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 13:21-30</Language>
+            <Language id="Arabic">يوحنا 13: 21-30</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nai de e~tafjotou n~je I/couc afs~yorter qen pip~neuma: afermeyre ouoh pejaf: je a~m/na~m/n ]jwm~moc nwten je ouai e~bolqen y/nou peynat/it: 
+               </Language>
+               <Language id="English">
+                  When Jesus had said these things, He was troubled in spirit, and testified and said, "Most assuredly, I say to you, one of you will betray Me." 
+               </Language>
+               <Language id="Arabic">
+                  ولما قال يسوع هذا قلق بالروح. وشهد وقال: الحق الحق أقول لكم، ان واحد منكم هو الذي سيسلمنى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naucomc oun oubenoue~r/ou n~je nimay/t/c n~cee~mi an je afjere nim m~mwou: Nafrwteb de n~je ouaiqen kenf n~I/couc e~bolqen nefmay/t/c: v/ e~nare I/couc mei m~mof.
+               </Language>
+               <Language id="English">
+                  Then the disciples looked at one another, perplexed about whom He spoke. Now there was leaning on Jesus' bosom one of His disciples, whom Jesus loved.
+               </Language>
+               <Language id="Arabic">
+                  فكان التلاميذ ينظرون بعضهم إلى بعض ولا يعلمون من عنى منهم. وكان متكئاً فى حضن يسوع واحد من تلاميذه الذى كان يسوع يحبه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Af[wrem oun e~vai n~je Cimwn Petroc hina n~tefsenf je afjere nim m~mof: Pimay/t/c de oune~tem~mau e~tafouahf e~jen y~mectenh/t n~I/couc pejaf naf je Pa[oic nim pe: 
+               </Language>
+               <Language id="English">
+                  Simon Peter therefore motioned to him to ask who it was of whom He spoke. Then, leaning back on Jesus' breast, he said to Him, "Lord, who is it?"
+               </Language>
+               <Language id="Arabic">
+                  فأشار إليه سمعان بطرس بان يسأله من الذى قال عنه؟ فأتكأ ذاك التلميذ على صدر يسوع وقال له يارب من هو؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~n~je I/couc je v/ a~nok e~]nacep pilwm n~tat/if naf n~yof pe: ouoh e~tafcep pilwmaft/if n~Ioudac Cimwn piIckariw~t/c.
+               </Language>
+               <Language id="English">
+                  Jesus answered, "It is he to whom I shall give a piece of bread when I have dipped it." And having dipped the bread, He gave it to Judas Iscariot, the son of Simon.
+               </Language>
+               <Language id="Arabic">
+                  أجاب يسوع قائلاً: هو ذاك الذى أغمس أنا اللقمة وأعطيه فغمس اللقمة وأعطاها ليهوذا سمعان الاسخريوطى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh menenca pilwm tote afsenaf e~qoune~rof n~je p~catanac: peje I/couc oun naf je v/e~teknaaif aritf n~,wlem. Paicaji je~m~pe h~li e~mi e~rof qen n/eyrwteb je e~tafjoc naf eybeou:
+               </Language>
+               <Language id="English">
+                  Now after the piece of bread, Satan entered him. Then Jesus said to him, "What you do, do quickly." But no one at the table knew for what reason He said this to him.
+               </Language>
+               <Language id="Arabic">
+                  وبعد اللقمة دخله الشيطان. فقال له يسوع ما أنت فاعله فأفعله سريعاً. ولم يعلم أحد من المتكئين لماذا قال له ذلك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  &lt;an ouon de naumeui~ peje e~pid/ e~re pig~locokomwn n~totf n~Ioudac: je a~r/ou e~re I/couc jw m~moc naf je swp m~v/e~tener,ria~ m~mof e~p~sai: ie je hina n~tef] n~ouen,ai n~nih/ki. 
+               </Language>
+               <Language id="English">
+                  For some thought, because Judas had the money box, that Jesus had said to him, "Buy those things we need for the feast," or that he should give something to the poor.
+               </Language>
+               <Language id="Arabic">
+                  فظن قوم منهم، إذ كان الصندوق عند يهوذا، ان يسوع قال له اشتر ما نحتاج إليه للعيد أو ان يعطى شيئاً للمساكين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taf[im~piwik n~je v/e~tem~mau afi~ e~bolcatotf ne pie~jwrh de pe.
+               </Language>
+               <Language id="English">
+                  Having received the piece of bread, he then went out immediately. And it was night.
+               </Language>
+               <Language id="Arabic">
+                  أما ذاك فلما تناول اللقمة خرج لوقته وكان ليلاً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  The Sun of righteousness shined upon us and his rays reached all nations of the world; Jesus Christ the true light who shines to everyone coming to the world. The life giving bread came from heaven and nourished all creation. 
+               </Language>
+               <Language id="Arabic">
+                    شمس البر أضاء شعاعه وبلغ ضياؤه إلى أقطار الأرض. الذى هو يسوع النور الحقيقى الذى يضئ لكل إنسان آتٍ إلى العالم. الخبز السمائى المعطى الحياة المغذى كل صنعة يديه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  From the beginning of times He prepared a table in the wilderness and nourished the people with manna for forty years; 'They ate and died," so says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  فى مبدأ الزمان أعد مائدة فى البرية من المن وأعال منها الشعوب أربعين سنة من الزمان فأكلوا وماتوا كقول الرب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  On the eve of that day in which they ate the unleavend bread of Passover, our Lord and Savior Jesus Christ sat there in the upper chamber of Zion with His disciples to celebrate the New Passover which is His very Body that He gave them as a sacrament and the precious Blood, which is superior than the blood offerings.
+               </Language>
+               <Language id="Arabic">
+                  ومائدة جديدة أعدها الإبن فى عليه صهيون الأم لما كان عشية ذلك اليوم الذى أكلوا فيه فطير الفصح آتٍكأ الرب يسوع المخلص فى الموضع العالى هو عليه صهيون وآتٍكأ معه تلاميذه وكانوا يأكلون الفصح الجديد الذى هو جسده هو بذآتٍه الذى أعطاه لهم بأمر سرى والدم الكريم الحقيقى الذى هو أفضل من دم الحيوانات،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Our Savior took the bread, blessed it, broke it, divided it, and gave it to His disciples saying: Take ye eat from this you all. This is My Body that I divide for you and for many for the remission of sins.
+               </Language>
+               <Language id="Arabic">
+                  أخذ مخلصنا خبزاً فباركه وهكذا قسمه وناوله لصفوة الرسل قائلاً: خذوا كلوا منه كلكم لأن هذا هو جسدى الذى أقسمه عنكم وعن كثيرين لمغفرة خطاياهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  After that He took the cup, mixed the wine with water and handed it to them saying: Drink from it all of you for this is My blood of the new covenant which is shed for many for the remission of sins. Every time you eat of this bread and drink of this cup you proclaim (preach) my death, confess my ressurection and remember me until I come.
+               </Language>
+               <Language id="Arabic">
+                  بعد هذا أمسك كأس الخمر ومزجها بالماء وناولهم قائلاً: خذوا اشربوا من هذه الكأس جميعكم فإن دمى للعهد الذى يهرق عنكم وعن كثيرين لمغفرة خطاياهم. هذا الخبز وتشربون من هذه الكأس تبشرون بموتى وقيامتى وتذكروننى إلى أن أجئ.  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He is the Passover of our salvation. The real Lamb, Christ our Savior said: I say to you I will not drink of this fruit of the vine until that day when I drink it new with you in kingdom of my Father. The Lord said: I say to you, one of you will betray me, and will deliver me to the enemies. And they began to think—each one of them—saying who dares do that?
+               </Language>
+               <Language id="Arabic">
+                  هذا هو فصح خلاصنا، الحمل الحقيقى المسيح مخلصنا. قال إني لا أشرب من هذه الكرمة حتى أشربه معكم جديداً فى ملكوت أبى. قال الرب ان واحداً منكم سيسلمنى فى أيدى المخالفين. فبدأوا يفكرون واحداً فواحداً منهم قائلين مَن الذى يجسر ويفعل هذا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He answered and said: He who dipped his hand in the dish with me will betray me. Then Judas; one of those present said: Is it I? He said to him: You have said it. You have intended evil in your contrariness and dared commit a grave transgression because the Son of God came to save the first man from corruption.
+               </Language>
+               <Language id="Arabic">
+                  فيهوذا أحد المتكئين قال لعلى أنا هو قال له أنت قلت. فأشار إليه العارف قائلاً: الذى يضع يده معى فى الصحفة. أضمرت الآثم أيها المخالف وتجرأت أنت على أمر ردئ لأن إبن الله أتى ليخلص الإنسان الأول من الفساد.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

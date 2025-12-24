@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Matins">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">V] efe~senh/t...</Language>
+         </Title>
+
+         <Comment>
+            <Language id="English">
+               During the Morning Raising of Incense (Psalm 67:1, 2):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               V] efe~senh/t qaron efe~c~mou e~ron: e~feouwnh m~pefho e~h~r/i e~jwn ouoh efe~ nai nan.
+            </Language>
+            <Language id="English">
+               God be merciful to us and bless us, and cause His face to shine upon us.   
+            </Language>
+            <Language id="Arabic">
+               لِيَتَرََّأفِ اللهُ عَلَيْنَا وَلْيُبَارِكْنَا، وَلْيُضِيءْ بِوَجْهِهِ عَلَيْنَا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ep~jin couen m~pekmwit hijen p~kahi: nem pek oujai qen nieynoc t/rou.
+            </Language>
+            <Language id="English">
+               That Your way may be known on earth, Your salvation among all nations.
+            </Language>
+            <Language id="Arabic">
+               لِكَيْ يُعْرَفَ فِي الأَرْضِ طَرِيقُكَ، وَبَيْنَ جَمِيعِ الأُمَمِ خَلاَصُكَ.  
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

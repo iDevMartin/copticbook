@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         At the third signing, he says:         
+      </Language>
+      <Language id="Arabic">
+         ويرشم الرشم الثالث وهو يقول:         
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         F~c~marwout n~je Pip~neuma eyouab m~parakl/ton.  
+      </Language>
+      <Language id="English">
+         Blessed be the Holy Spirit, the Paraclete.  
+      </Language>
+      <Language id="Arabic">
+         مبارك الروح القدس المعزي.
+      </Language>
+   </Text>
+</Document>

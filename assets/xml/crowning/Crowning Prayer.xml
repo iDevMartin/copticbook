@@ -1,0 +1,2350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Crowning="true">
+   <Title>
+      <Language id="English">The Crowning Prayer</Language>
+      <Language id="Arabic">طقس الإكليل</Language>
+   </Title>
+         
+   <Comment>
+      <Language id="English">
+         This prayer is said only if the bridegroom and bride have not been previously married or if one of them has not been previously married. 
+      </Language>
+      <Language id="Arabic">
+         لا تقال هذه الصلاة إلا أذا كان العروسان بكرين، أو أذا كان أحدهما مترملاً و الآخر بكراً.
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The bridegroom and the bride enter the Church together with the chant <span class="Coptic">Pouro</span> and at the end of the service they exit to the chant of our Lady the Virgin, <span class="Coptic">&lt;ere ne Maria</span>….).
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         During the Pentecost, they chant the hymns of the procession of the Resurrection: <span class="Coptic">&lt;rictoc a~nect/</span>....
+      </Language>
+   </Comment>
+   
+   <Group>   
+      <Season id="PentecostPeriod">
+         <InsertDocument path="include/HymnOfTheResurrection"/>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/PouroSection"/>
+         
+         <Section>
+            <Title>         
+               <Language id="Coptic">&lt;ere Maria</Language>               
+            </Title>
+            
+            <InsertDocument path="include/ShereMaria"/>
+         </Section>
+         
+         <Section>
+            <Title>         
+               <Language id="Coptic">Teoi n~hikanoc</Language>               
+            </Title>
+            
+            <InsertDocument path="include/praises/theotokia/Sunday10Contents"/>
+         </Section>
+         
+         <Section>
+            <Title>         
+               <Language id="Coptic">&lt;ere ne Maria~</Language>
+            </Title>
+         
+            <InsertDocument path="include/praises/theotokia/Sunday7Contents"/>
+         </Section>
+         
+         <Section>
+            <Title>         
+               <Language id="Coptic">? paryenoc</Language>
+            </Title>
+         
+            <InsertDocument path="include/EParthenos"/>
+         </Section>
+      </Season>
+   </Group>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we declare in this orthodox assembly and before  the altar of the Lord of hosts the union of possession and the marriage of the blessed Orthodox son, the virgin (...) to his betrothed, the blessed Orthodox daughter, the virgin (...).  
+         </Language>
+         <Language id="Arabic">
+            باسم ربنا وإلهنا ومخلصنا يسوع المسيح، مشرع شريعة الكمال وواضع ناموس الأفضال نعلن في هذا المحفل الأرثوذكسي وأمام هيكل رب الصاباؤوت عقد املاك وزواج الابن المبارك الأرثوذكسي البكر (...) إلى مخطوبته الابنة المباركة الأرثوذكسية البكر (...).
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.1"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we declare in this orthodox assembly and before  the altar of the Lord of hosts the union of possession and the marriage of the blessed Orthodox son, the virgin (...) to his betrothed, the blessed Orthodox daughter, the virgin (...).  
+         </Language>
+         <Language id="Arabic">
+            باسم ربنا وإلهنا ومخلصنا يسوع المسيح، مشرع شريعة الكمال وواضع ناموس الأفضال نعلن في هذا المحفل الأرثوذكسي وأمام هيكل رب الصاباؤوت عقد املاك وزواج الابن المبارك الأرثوذكسي البكر (...) إلى مخطوبته الابنة المباركة الأرثوذكسية البكر (...).
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.2"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>         
+         <Language id="English">            
+            In the name of our Lord, God, and Savior, Jesus Christ, the founder of the statute of perfection and the author of the law of graces, we complete in this orthodox assembly and before  the altar of the Lord of hosts the union of possession and the marriage of the blessed Orthodox son, the virgin (...) to his betrothed, the blessed Orthodox daughter, the virgin (...).  
+         </Language>
+         <Language id="Arabic">
+            باسم ربنا وإلهنا ومخلصنا يسوع المسيح، مشرع شريعة الكمال وواضع ناموس الأفضال نعلن في هذا المحفل الأرثوذكسي وأمام هيكل رب الصاباؤوت عقد املاك وزواج الابن المبارك الأرثوذكسي البكر (...) إلى مخطوبته الابنة المباركة الأرثوذكسية البكر (...).
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.3"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Amen"/>
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <Role id="Priest" silent="true">   
+      <InsertDocument path="include/GloryAndHonor"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/InChristJesusOurLord"/>      
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+            
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Prayer of the Wedding Commitment</Language>
+         <Language id="Arabic">صلاة لعربون الزواج</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            When he mentions the bridegroom and his helpmate he makes the sign of the cross on their foreheads.
+         </Language>
+         <Language id="Arabic">
+            عندما يذكر العريس ومعينته، يرسمهما في جبهتيهما مثال الصليب.
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="Coptic">            
+               Vnou] v/etaferp~lazin m~pirwmi qen nefjij m~min m~mof: af] naf n~tefc~himi n~oubo/yoc ouoh n~tajro naf.
+            </Language> 
+            <Language id="English">            
+               O God who formed man by His own hands, and gave him the woman for his help and strength,
+            </Language>
+            <Language id="Arabic">
+               يا الله الذي جبل الإنسان بيديه وحده وأعطاه المرأة عونًا وقوة له،
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Nyok on ]nou penn/b swpi m~mecit/c n~naia~lwoui nai pinumvioc nem tefbo/yoc: hotpou e~oua~r/b n~te oumets~v/r: e~ak]m/ini nwou m~picumboulon n~te poujinhwtp: n~teouswpi qen oumetouai qen pimour n~te ]agap/: ekjw m~moc nwou je tahir/n/ ]] m~moc nwten tahir/n/ a~nok ],w m~moc nemwten: n~yok pe tenhir/n/ t/ren.
+            </Language> 
+            <Language id="English">            
+               now, also, our Master, be a mediator for the groom and his helpmate, adjoin (...) and (...) through the pledge of fellowship, and grant them the sign of their union, so that, through the bond of love, they may be unified in harmony, and say unto them, “My peace I give you both; My peace I leave with you both.” For You are the peace of us all,
+            </Language>
+            <Language id="Arabic">
+               أنت أيضا الآن يا سيدنا كن وسيطًا لهذين العروسين (...) و(...) صلهما بعربون الشركة، وأعطهما علامة اتصالهما، ليكونا بألفة واحدة برباط المحبة، إذ تقول لهما: ”سلامي أعطيه لكما. سلامي أنا أتركه معكما.“ فأنت سلامنا جميعا.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Tenouwrp nak e~p~swi m~piw~ou nem pitaio~ nem pekmonogen/c n~S/ri nem Pip~neuma eyouab n~reftanqo.
+            </Language> 
+            <Language id="English">            
+               And unto You do we offer the glory and honor with Your only-begotten Son and the Holy Spirit, the Giver of Life,
+            </Language>
+            <Language id="Arabic">
+               ونرسل لك إلى فوق المجد والكرامة مع ابنك الوحيد والروح القدس المحيى.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <Text>        
+            <Language id="Coptic">            
+               }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+            </Language> 
+            <Language id="English">            
+               now and at all times and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               الآن وكلَّ أوان وإلى دهر الدهور كلِها. آمين.
+            </Language>
+         </Text>
+      </Role>
+         
+      <Role id="People">         
+         <InsertDocument path="crowning/include/OChristTheLogos"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Role>      
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Prayer Upon the Wedding Garment (The Chasuble)</Language>
+         <Language id="Arabic">صلاة تقال على ثياب العرس - البرنس</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="Coptic">            
+               Vn/b P[oic I/couc Pi,~rictoc Pennou] v/e~tafcolcel n~t~ve qen hanciou af[wrp m~pikahi hiten y~metcaie~ n~te hanh~r/ri n~ref]karpoc etoi n~ouyo n~r/]: v/e~taferh~mot n~]metrwmi n~naniv/oui:~ ak]nwou n~nia~polaucic n~te p~kahi.
+            </Language> 
+            <Language id="English">            
+               O Master, Lord Jesus Christ, our God, who ornamented the sky with the stars and adorned the earth with the splendor of the many different kinds of fruitful plants, who granted humanity the heavenly things and bestowed upon it rest on the earth.
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب يسوع المسيح إلهنا، الذي زين السماء بالنجوم، وأظهر الأرض ببهاء الأزهار المثمرة ذات الأنواع الكثيرة، الذي أنعم على البشرية بالسمائيات، وأعطاهم راحة الأرض.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Nyok on ]nou pia~gayoc ouoh m~mairwmi ten]ho e~rok c~mou e~naic~tol/ nai et,/ e~q~r/i.
+            </Language> 
+            <Language id="English">            
+               Now, also, we ask You, O Good, the Lover of Mankind, to  bless these vestments,
+            </Language>
+            <Language id="Arabic">
+               أنت الآن أيضا أيها الصالح محب البشر، نسألك أن تبارك هذه الحُلل الموضوعة 
+            </Language>
+         </Text>
+         
+         <Comment>        
+            <Language id="English">            
+               Here he makes the sign of the cross.
+            </Language>
+            <Language id="Arabic">
+               هنا يرشم بالصليب
+            </Language>
+         </Comment>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Hina n~touswpi n~neke~biaik eynaervorin m~mwou hiten p~]ma] n~te tekmeta~gayoc n~hanc~tol/ n~te ouw~ou nem ououjai. Am/n. 
+            </Language> 
+            <Language id="English">            
+               so that they become for Your two servants who will wear them, through the pleasure of Your goodness, vestments of glory and salvation. Amen. 
+            </Language>
+            <Language id="Arabic">
+               لكي تصير لعبديك اللذين يلبسانها بمسرة صلاحك: حُلل المجد والخلاص. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="Coptic">
+               Hanc~tol/ n~te v~rasi nem p~yel/l. Am/n.
+            </Language> 
+            <Language id="English">            
+               Vestments of joy and delight. Amen.
+            </Language>
+            <Language id="Arabic">
+               حُلل الفرح والتهليل. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>        
+            <Language id="Coptic">            
+               Ouoh a~reh e~rwou eutoub/out qen tou'u,/ nem poucwma nem poup~neuma. Am/n.
+            </Language> 
+            <Language id="English">            
+               Preserve them both pure in soul, body, and spirit. Amen.
+            </Language>
+            <Language id="Arabic">
+               واحفظهما نقيين في النفس والجسد والروح. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">         
+         <Text>        
+            <Language id="Coptic">            
+               Mare poujinwnq swpi qen ouhir/n/ nem oueuvrocun/ hiten t~ergacia~ n~te ]meym/i.
+            </Language> 
+            <Language id="English">            
+               That their life be healthy, peaceful, and chaste through the act of righteousness.
+            </Language>
+            <Language id="Arabic">
+               لتكون حياتهما في صحة وسلام وعفاف بواسطة فعل البر.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Arih~mot nwou n~t~apolaucic n~te nat~ve nem nap~kahi: marouerramao~ qen nih~b/oui~ n~te ]meym/i.
+            </Language> 
+            <Language id="English">            
+               Grant them both heavenly and earthly comfort that they become rich through the acts of righteousness;
+            </Language>
+            <Language id="Arabic">
+               هب لهما الراحة السمائية والأرضية ليستغنيا بأفعال البر
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Nou/~ou noutamion: mahou e~bol qen a~gayon niben marouerp~emp~sa eyroui~ri m~petehnak n~c/ou niben je n~yok ouna/t nase peknai ouoh n~y~m/i.
+            </Language> 
+            <Language id="English">            
+               fill their houses and storage places with all blessings, and may they become worthy of doing Your pleasure at all times, for You are merciful, plenteous in mercy, and righteous.
+            </Language>
+            <Language id="Arabic">
+               واملأ منازلهما ومخازنهما من كل الخيرات، وليستحقا أن يعملا رضاك كل حين لأنك رحيم كثير الرحمة وبار.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Ere piw~ou erp~!repi nak nem pekiwt n~a~gayoc nem pip~neuma e~youab n~reftanqo~ n~o~mooucioc nemak.
+            </Language> 
+            <Language id="English">            
+               And to you is due glory, with Your good Father, and the Holy Spirit, the Giver of Life, who is of one essence with You,
+            </Language>
+            <Language id="Arabic">
+               ويليق بك المجد مع أبيك الصالح والروح القدس المحيي المساوي لك 
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               }nou nem n~c/ou niben nem sa e~neh a~m/n.
+            </Language> 
+            <Language id="English">            
+               now and forever and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور آمبن.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>        
+            <Language id="Coptic">            
+               }c~tol/ m~p~neumatikon: au]hiwtf m~Mi,a/l ouoh piqwk m~margarit/c: aum/r m~Mi,a/l m~mof.
+            </Language> 
+            <Language id="English">            
+               The spiritual raiment, envelops Michael, and the girdle of jewels, Michael has donned.
+            </Language>
+            <Language id="Arabic">
+               الحلة الروحية، الملتحف بها ميخائيل، والمنطقة الـجـوهـريـة، تمنطق بها ميخائيل.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               }c~tol/ n~oucwvrocun/: aut/ic  e~jen paiselet: ouoh  pi,~lom nte p~yel/l: aut/if e~jen tefa~ve.
+            </Language> 
+            <Language id="English">            
+               The raiment of chastity, has been given to this bridegroom, and the crown of joy, has been placed upon his head.
+            </Language>
+            <Language id="Arabic">
+               حلة العفاف، أعطيت لهذا العريس، وإكليـل البهجة، وُضع على رأسه.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Kata v~r~/] e~tafjoc: n~je Dauid pihumnodoc: je ouw~ou nem outaio: akt/itou n~ou,~lom e~jwf.
+            </Language> 
+            <Language id="English">            
+               As it is said by, David the Psalmist, “You have made glory and honor, a crown for him”.
+            </Language>
+            <Language id="Arabic">
+               مثل الذي قاله، داود الرتل، مجدًا وكرامة، جعلتــهما تاجًا عليــــه.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Akersorp e~rof qen  pic~mou: n~te  tekmet,~r/ctoc: ak,w  hijwf n~ou,~lom: e~bol  qen ouw~ni eftai/out.
+            </Language> 
+            <Language id="English">            
+               You have manifested to him, the blessing of Your kindness, and placed upon his head, a crown of precious stone.
+            </Language>
+            <Language id="Arabic">
+               أدركته ببركة، صلاحك، ووضعت على رأسه إكليلاً، من حجـر كريــم.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Aferetin m~mok:  n~ouw~nq P[oic: ouoh akt/if naf: v~ouei n~te pie~neh a~m/n.
+            </Language> 
+            <Language id="English">            
+               He asked You for, life O Lord, and You granted it to him, to the furthest age. Amen.
+            </Language>
+            <Language id="Arabic">
+               سألك، حياة يارب، فأعطيته طول الأيام، إلى أبد الآبدين آمين.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Comment>        
+         <Language id="English">            
+            During the hymn, the priest puts the chasuble on the groom and they wear the two wedding bands.
+         </Language>
+         <Language id="Arabic">
+            وأثناء هذا اللحن يتم إلباس البرنس والدبلتين للعروسين بيد الكاهن.
+         </Language>
+      </Comment>
+   </Section>
+   
+   <Role id="People">
+      <InsertDocument path="include/HymnOfTheCenser"/>
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+      
+   <Role id="Deacon">
+      <Section>
+         <Title>
+            <Language id="English">Introduction to the Pauline Epistle</Language>
+            <Language id="Coptic">Pauloc v~bwk...</Language>
+         </Title>
+         
+         <InsertDocument path="include/PaulineEpistleIntroduction"/>
+         <InsertDocument path="include/PaulineEpistleConclusion"/>               
+      </Section>
+      
+      <BibleReference reference="Ephesians 5:22-6:3" type="section"/>      
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">The Chant of the Coming Of the Holy Spirit</Language>
+            <Language id="Arabic">لحن حلول الروح القدس</Language>
+         </Title>
+         
+         <Text>        
+            <Language id="Coptic">            
+               Pip~neuma m~parakl/ton: v/e~tafi~ e~jen nia~poctoloc: qen p~sai n~]pentikoct/ aucaji: qen hanm/s n~lac.
+            </Language> 
+            <Language id="English">            
+               The Comforter Spirit came upon the apostles on the Feast of the Pentecost, so they spoke in many tongues.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزي، الذي حل على الـرسل، في عيد البنطيقسطي، فتكلموا بألسنة كثيرة.
+            </Language>
+         </Text>
+         
+         <Text>        
+            <Language id="Coptic">
+               Acswpi e~taujwk e~bol n~je nie~hoou n~te ]pentikoct/: nauyou/t t/rou hio~ma: n~je pim/t c~nau n~a~poctoloc.
+            </Language> 
+            <Language id="English">            
+               This was when the fifty days were completed, and the twelve apostles were gathered together.
+            </Language>
+            <Language id="Arabic">
+               كان لما كملت أيام الخمسين، كانوا مجتمعين كلهم معًا، الاثنا عشر رسولاً.
+            </Language>
+         </Text>                  
+         
+         <Text>        
+            <Language id="Coptic">            
+               Pip~neuma m~parakl/ton: e~tafi~ e~pec/t e~bol qen t~ve: afvwrs e~jen v~ouai v~ouai: aucaji qen hanm/s n~lac.
+            </Language> 
+            <Language id="English">            
+               When the Comforter Spirit came from heaven, He spread upon each one, so they spoke in many tongues.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزي لما نزل من السماء، انبسط على كل واحد، فنطقوا بألسنة كثيرة.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/gospelResponse/GospelResponse"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Supplications</Language>
+         <Language id="Arabic">طلبات</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               P[oic Vnou] pipantokratwr v/et qen t~ve Vnou] n~te nenio] tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O Lord God the Pantocrator, who are in heaven, the Lord of our forefathers; we beseech You to hear us and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+               أيها الرب الإله ضابط الكل الكائن في السماء إله آبائنا، نطلب إليك أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafyamio~ n~t~ve nem p~kahi nem viom nem hwb niben ete n~q/tou ouoh akcelcwlou qen tekcovia~ tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who created the heaven, the earth, and the sea, and everything therein, and ornamented them with Your wisdom. We beseech You to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               الذي خلق السماء والأرض والبحر وكل ما فيها وزيّنتها بحكمتك، نطلب إليك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafyamio~ m~pirwmi kata pefi~ni nem tefhikwn ouoh af,af qen piparadicoc n~te p~ounof: tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who made man in His image, after His likeness, and placed him in the paradise of joy, we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من صنع الإنسان على صورته ومثاله، وجعله في فردوس النعيم، نسألك يا رب أن تستجيب لنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/etafcwnt n~]c~himi e~bol qen pic~vir n~Adam ouoh aft/ic naf m~bo/~yoc kata rof: tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who created woman from Adam’s side and gave her to him as a helper, fit for him; we beseech You to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من خلق المرأة من جنب آدم وأعطاها له معينة نظيره، نطلب إليك أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafc~mou e~Abraam nem Carra aftomc e~rof euc~himi ouoh af]naf n~]taxic n~te ]metpatriar,/c tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who blessed Abraham and Sarah and made her a wife for him and granted him the title of Head of all Patriarchs; we beseech You to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من بارك إبراهيم وسارة، وجعلها له زوجة، ومنحه رتبة رئاسة الآباء، نطلب إليك أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafa~reh e~Icaak ouoh aftomi e~rof n~ierebekka ouoh afcotf e~bol qen nefjaji tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who preserved Isaac and chose for him Rebecca and delivered him from his enemies, we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من حفظ اسحق ووفق له رفقة وأنقذه من أعدائه، نطلب إليك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafc~mou e~Iakwb ouoh aftomi e~rof n~Ra,/l euc~himi naf ouoh afaitou n~kl/ronomoc n~te ]e~paggelia~ tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who blessed Jacob and gave him Rachel as a wife and did grant them to be heirs of the promise; we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من بارك يعقوب وأعطاه راحيل زوجة، وجعلهما وارثيْ الموعد، نسألك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~taf[ici n~Iwc/v ouoh aftomi e~rof n~acen/y ouoh e~bol hitotf aksans m~p~kahi t/rf n~,/mi tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who raised up Joseph and granted him Asenath as a wife and through him You sustained all the land of Egypt; we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من رفع يوسف ووهب له أسينات زوجة، وبواسطته عُلت كل أرض مصر، نطلب إليك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/ e~taf]ma] qen t~qae~ n~te nie~hoou eyroumacf e~bol qen ouc~himi ouoh afe~rouwini m~p~genoc n~nirwmi tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who was pleased to be born of a virgin in the fullness of time and enlightened mankind; we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من سُرّ في آخر الأيام أن يُولد من عذراء وأضاء على جنس البشر، نسألك يارب استجب لنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafraouw~ e~pihop qen t~Kana n~te ]Galilea~ c~mou e~paijintomi: vai kata v~r/] e~takc~mou e~pijintomi e~tem~mau tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who attended the wedding of Cana of Galilee, bless this marriage as you blessed that marriage.  We beseech You to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من حضر في عرس قانا الجليل، بارك هذا الزواج مثلما باركت ذاك الزواج، نتضرع إليك يارب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafouw~teb m~pimwou e~ou/~rp m~m/i qen piersisi n~te tefmeynou] e~kec~mou e~neke~biaik qen oumoun e~bol ouoh eke~toubwou qen tekmetmairwmi tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O God who transformed water into genuine wine by the authority of His divinity, bless Your two servants and purify them with Your love for mankind, we ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من حوّل الماء خمرًا حقيقيًا بسلطان لاهوته، بارك عبديك وطهرهما بمحبتك للبشر، نطلب إليك أن تستجيب لنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               V/ e~tafswpi qen t~Kana n~te ]Galilea~ ouoh afc~mou e~pi hop m~mau ouoh pimwou afouoybef e~ou/rp m~m/i qen piersisi n~te tefmeynou] eke~c~mou ouoh eke~erc~kepazin m~pai hop vai n~te neke~biaik pa(nim) nem ta(nim) qne ouhir/n/ nem oumetouai nem oua~gap/ eke~rwic e~rwou tentwbh m~mok P[oic cwtem e~ron ouoh nai nan. 
+            </Language>
+            <Language id="English">
+               O You who attended the wedding of Cana of Galilee, and blessed that wedding, and transformed water into genuine wine by the authority of His divinity, bless and guard this wedding of Your two servants (...) and (...) in peace, harmony and love and protect them.  We ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من حلَّ في عرس قانا الجليل، وبارَكَ ذاك الزواج، وحول الماء إلى خمر حقيقي بسلطان لاهوته، بارك واستر هذا العرس الذي لعبديك   (...) و(...) بسلامة وألفة ومحبة واحرسهما. نطلب إليك يا رب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Pireferpey~nanef ouoh pirefsenh/t nase tekmet a~gayoc nem metsan yamaqt P[oic ariten n~emp~sa n~ten]w~ou n~tekmeta~gayoc pimairwmi tentwbh m~mok P[oic cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O You who are beneficent and compassionate and full of goodness and affection, O God make us glorify Your goodness, O Lover of Mankind. We ask You, O Lord, to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها المحسن الرءوف الكثير الصلاح والتحنن، يا رب اجعلنا أن نمجد صلاحك يا محب البشر. نسألك يا رب أن تسمعنا وترحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="crowning/include/OChristTheLogos"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">First Matrimonial Prayer</Language>
+         <Language id="Arabic">صلاة أولى للزواج</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Vnou] v/e~tswpi v/e~ym/n e~bol sa e~neh n~atar,/ v/ e~te m~mon stoi e~tefcovia~ ouoh m~mon aur/jc n~te tefjom v/e~tafyamio~ m~pirwmi e~bol qen p~ahi afkwt naf e~teaf]naf n~ouc~himi e~bol qen pefc~vir afhotpc e~oubo/~yoc katrof. Kata vr/] e~tacrana n~tekmet,~r/toc nem tekmeta~gayoc je nanec an n~te pirwmi swpi m~mauatf.
+            </Language>
+            <Language id="English">
+               O God who is eternal and everlasting, who has no beginning, whose wisdom has no limit and whose power has no end, who made man from the earth, and gave him a woman out of his side, and accommodated her for him as a helper fit for him, as it pleases Your Lordship and goodness, because it is not good for a man to be alone.  
+            </Language>
+            <Language id="Arabic">
+               اللهم الأزلي الدائم إلى الأبد بغير ابتداء، الذي لا حدّ لحكمته ولا انتهاء لقوته، الذي صنع الإنسان من الأرض، وجعل له امرأةً من جنبه، ووفّقها له معينة نظيره، كما يرضي ربوبيتك وصلاحك، لأنه لا يحسن أن يكون الرجل وحده.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nyok on ]nou penn/b ten]ho e~rok hwtp n~neke~biaik (nim) nem (nim) je,ac eue~hwtp e~noue~r/ou qen oucarx n~ouwt maroui~ e~qoun e~v~nomoc m~p~ounof marouswpi qen hanc~bwoui~ euenhot.
+            </Language>
+            <Language id="English">
+               We ask You, also, now, O our King, to join Your two servants (...) and (...) to be united to each other in one body, and to enter into the law of joy, and to abide in Your truthful teachings.
+            </Language>
+            <Language id="Arabic">
+               أنت الآن أيضًا يا ملكنا نسألك أن تصل عبديك (...) و(...) لكي يتصلا ببعضهما بعضًا بجسد واحد، وليدخلا إلى ناموس الفرح، وليكونا في تعاليم صادقة.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Arih~mot nwou n~ou outah e~fonq e~bol qen y~neji eyrouerapolauin n~ou metrefj~ve s/ri enanec nem hanc/ou n~jam/ n~hir/nikon cebtwtou qen hwb niben eynaneu qen Pi,~rictoc I/couc Pen[oic.
+            </Language>
+            <Language id="English">
+               Grant them a living fruit out of the womb so that they rejoice in the birth of good children and have quiet and peaceful times. Prepare them for every good work through Christ Jesus our Lord.
+            </Language>
+            <Language id="Arabic">
+               هب لهما ثمرة محيية من البطن ليبتهجا بولادة البنين الحسنة والأزمنة الهادئة السالمة. هيئهما في كل عمل صالح بالمسيح يســـوع ربنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusionEnding"/>
+      </Role>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="Coptic">
+               Kata v~r/] e~takt/ic: n~neka~gioc n~a~poctoloc: eke~joc nan m~pour/]: je tahir/n/ ]] m~moc nwten.
+            </Language>
+            <Language id="English">
+               As You granted / to your saintly disciples, / tell us as You told them, / “My peace I give to you.”
+            </Language>
+            <Language id="Arabic">
+               كما أعطيتـه، لرسلك القديسين، قل لنا مثلهم، سلامي أعطيكم.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               }pul/ n~te niman~sai: te Maria }paryenoc: piman~selet ettob/out: n~te pinumvioc n~kayaroc.
+            </Language>
+            <Language id="English">
+               The gate of the east / is Mary the Virgin, / the chaste bridal chamber / for the pure bridegroom.
+            </Language>
+            <Language id="Arabic">
+               الباب الذي في المشارق هو مريم العذراء، الخدر الطاهر الذي للختن الحقيقي.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Second Matrimonial Prayer</Language>
+         <Language id="Arabic">صلاة ثانية للزواج</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               P[oic Pennou] v~refcwnt n~te vucic niben v/e~tafcwnt m~pirwmi e~bol qen p~kahi: ouoh akhwtp naf n~oubo/~yoc hiten ]b/t e~take~nc e~bol m~mof ouoh akhotpou e~ou koinwnia~ n~gamoc qen oujinwnq nem oujinaiai eym/n qen p~genoc n~nirwmi. Ouoh akjoc nwou je aiai ouoh asai~ mah pikahi ari[oic e~rof.
+            </Language>
+            <Language id="English">
+               O Father our God who formed all nature, who formed man from earth and made for him a helpmate from the rib You have taken from him and joined them together in the fellowship of marriage for life and continuous growth of mankind, and told them to grow and multiply and fill the earth and rule over it.  
+            </Language>
+            <Language id="Arabic">
+               أيها الآب إلهنا جابل كل الطبائع الذي جبل الإنسان من الأرض. وأصلحتَ له معينة من الضلع الذي أخذته منه، ووفقتهما لشركة الزواج للحياة والنمو الدائم في جنس البشر. وقلت لهما أنميا واكثرا واملأ الأرض وتسلطا عليها.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nyok on pia~gayoc ouoh m~mairwmi c~mou e~p~jin hwtp n~te neke~biaik (nim) nem (nim) nai e~tauhotpou e~nouer/ou kata v/e~te vwk n~ouws.
+            </Language>
+            <Language id="English">
+               You, also, O Good, the Lover of Mankind, bless the union of Your two servants (...) and (...) who are united to each other according to Your will.  
+            </Language>
+            <Language id="Arabic">
+               أنت أيضًا الآن أيها الصالح محب البشر، بارك اتحاد عبديك (...) و(...) اللذين اتصلا ببعضهما بعضًا حسب إرادتك.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Cmou e~rwou: maroua~sai m~v~r/] e~takc~mou e~nensorp n~io] Abraam nem Icaak nem Iakwb.
+            </Language>
+            <Language id="English">
+               Bless them and multiply them as you blessed our forefathers Abraham, Isaac, and Jacob.
+            </Language>
+            <Language id="Arabic">
+               باركهما، وليكثرا كما باركت آباءنا الأولين إبراهيم وإسحاق ويعقوب.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Cmou e~rwou m~v~r/] n~Abraam nem Carra: [acou m~v~r/] n~Icaak nem Ierebekka: maroua~sai m~v~r/] e~taky~re Iakwb a~sai nem pefjroj: maw~ou nwou m~v~r/] e~tak]w~ou n~Iwc/v qen &lt;/mi.
+            </Language>
+            <Language id="English">
+               Bless them as You blessed Abraham with Sarah, elevate them as You did Isaac and Rebecca, and multiply them as You multiplied Jacob and his offspring.  Glorify them as You have glorified Joseph in Egypt. 
+            </Language>
+            <Language id="Arabic">
+               باركهما كما باركت إبراهيم وسارة. ارفعهما مثل اسحق ورفقة. أكثرهما كما أكثرت يعقوب وزرعه. ومجدهما كما مجدت يوسف بمصر. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Eke~er,arizecye nwou m~peftoubo: eke~y~roua~sai m~v~r/] n~Elkana nem Anna: e~takc~mou e~rwou e~akerh~mot nwou m~pipictoc Camou/l pip~rov/t/c.
+            </Language>
+            <Language id="English">
+               Grant them purity. Multiply them as Elkanah and Anna, whom You blessed and to whom You granted Samuel, the faithful prophet.  
+            </Language>
+            <Language id="Arabic">
+               هب لهما طهارة. أكثرهما مثل ألقانة وحنة اللذين باركتهما وأنعمت عليهما بصموئيل النبي الأمين
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Ouoh eke~aitou nem p~sa m~pi hisennoufi m~pekar,/aggeloc eyouab. Mv~r/] n~Za,ariac nem E~licabet
+            </Language>
+            <Language id="English">
+               Make them worthy of the pure good tidings of the Archangel as You did with Zacharias and Elizabeth,
+            </Language>
+            <Language id="Arabic">
+               اجعلهما أهلاً لبشارة رئيس الملائكة الطاهرة، مثل زكريا وإليصابات
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Etakerh~mot nwou m~pijinjvo m~pinis] qen pijin mici n~te nihiomi Iwann/c vai e~tafswpi m~pi p~rodromoc qajwf m~pekmonogen/c n~S/ri.
+            </Language>
+            <Language id="English">
+               to whom You granted the birth of John, the greatest among those born of women, who became a forerunner before Your only-begotten Son.
+            </Language>
+            <Language id="Arabic">
+               اللذين أنعمت عليهما بولادة يوحنا أعظم مواليد النساء، الذي صار سابقًا قدام ابنك الوحيد.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nyok on v~n/b P[oic akc~mou e~Iwakim nem Anna akerhwb n~q/tou n~]kubwtoc n~no/ra ]yeo~tokoc Maria~ af[icarx n~q/tc n~je pekmonogen/c n~s/ri afi~ e~pikocmoc. Afc~mou e~pihop n~te t~Kana n~te ]Galilea~. Cmou e~neke~biaik (nim) nem (nim) nai etaumoulj qen taiounou yai.
+            </Language>
+            <Language id="English">
+               You also, O Master Lord, blessed Joachim and Anna and made from them the rational ark, the Mother of God, Mary, from whom Your only-begotten Son was incarnate and came into the world, and blessed the wedding of Cana of Galilee; bless Your two servants (...) and (...) who are united at this hour.
+            </Language>
+            <Language id="Arabic">
+               وأنت أيضًا أيها السيد الرب باركت يواقيم وحنة، وصنعت منهما التابوت العقلي والدة الإله مريم، التي تجسد منها ابنك الوحيد وجاء إلى العالم، وبارك عرس قانا الجليل. بارك عبديك (...) و(...) اللذين اقترنا في هذه الساعة.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Arih~mot nwou n~oumethenoufi nem oumetcabe nem hanc~mot n~oujai. Hina n~ceswpi qen oumeteuceb/c niben nem metcemnoc niben euhwtp qen poucwma nem poup~neuma.
+            </Language>
+            <Language id="English">
+               Grant them prosperity, wisdom, and salvation’s blessings, so that they may be in all godliness and all purity united in their bodies and souls
+            </Language>
+            <Language id="Arabic">
+               أنعم عليهما بالرخاء والحكمة وبركات الخلاص لكي يكونا بكل تقوى وكل عفاف متصلين بجسدهما وروحهما.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Eyrouerp~emp~sa m~pic~mou pie~bol hitotk n~ce]w~ou m~pekran e~youab nem pekmonogen/c n~S/ri nem Pip~neuma eyouab ]nou nem n~c/ou niben.
+            </Language>
+            <Language id="English">
+               and be worthy of Your blessing and glorify Your holy name together with Your only-begotten Son and the Holy Spirit now and forever and unto the age of ages.  Amen.
+            </Language>
+            <Language id="Arabic">
+               ويستحقا البركة التي من قبلك ويمجدا اسمك القدوس مع ابنك الوحيد والروح القدس. الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="Coptic">
+               Tahir/n/ a~nok:  y/etai[itc hiten Paiwt: anok ],w m~moc  nemwten: icjen ]nou  nem sa e~neh.
+            </Language>
+            <Language id="English">
+               My peace that I have received / from My Father, / I leave unto you / now and forever.
+            </Language>
+            <Language id="Arabic">
+               سلامى أنا، الذي أخذته من أبى، أنا أتركه معكم، من الآن وإلـى الأبـد.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Niourwou t/rou n~te p~kahi cemosi qen peouwini: ouoh\ nieynoc qen peviri: w~ Maria y~mau m~Vnou].
+            </Language>
+            <Language id="English">
+               All the kings of the earth / walk in your light, / and the nations are in your light, / O Mary the Mother of God.
+            </Language>
+            <Language id="Arabic">
+               كافة ملوك الأرض، يسيرون في نورك، والأمم في ضيائك، يا مريــــم أم الله.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Colomon mou] e~ro: qen pijw n~te nijw: je tacwni ouoh\ tas~veri tapolic m~m/i Ieroucal/m.
+            </Language>
+            <Language id="English">
+               Solomon called you / in the Song of Songs saying, / “My beloved sister and my spouse, / my true city Jerusalem.”
+            </Language>
+            <Language id="Arabic">
+               سليمان يدعوك، في نشيد الأنشاد قائلاً: أختي حبيبتي، مدينتي الحقيقية أورشليم
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Third Matrimonial Prayer</Language>
+         <Language id="Arabic">صلاة ثالثة للزواج</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               P[oicPennou] pinis] pisae~neh v/e~tafy~re p~wnq swpi e~bol qen v/e~nafsopan e~aker,arizecye m~pijinswpi hiten pekcaji ouoh pirwmi n~yok akerp~lazin m~mof hiten tekjij n~atywleb kata y/e~teywk n~hukwn nem kata peki~ni.
+            </Language>
+            <Language id="English">
+               O Lord, our God, the great and eternal, who brought life into existence out of nonexistence, and created the universe by Your Logos, and formed man with Your pure Hands, in Your image and after Your likeness, 
+            </Language>
+            <Language id="Arabic">
+               أيها الرب إلهنا العظيم الأبدي، الذي كونت الحياة مما لم يكن، وخلقت الكون بكلمتك، وجبلت الإنسان بيدك الطاهرة، كصورتك ومثالك. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Ebol hiten piouai aktahe pi,et e~ratf e~akjoc je nanec aneyre pirwmi swpi m~mauatf ouoh aki~ni n~ouc~rom n~hinim e~jen A~dam afenkot aki~ni n~oub/t e~bol qen pefc~vir akmah pecma n~carx n~tecsebiw~.
+            </Language>
+            <Language id="English">
+               and from one created the other, for You said that it is not good that the man should be alone, so You caused sleep to fall upon Adam, so he slept, and You took a rib from his side and closed up its place with flesh instead of it.  
+            </Language>
+            <Language id="Arabic">
+               ومن الواحد أقمت الآخر إذ قلت أنه لا يحسن أن يكون الرجل وحده، فأتيت بنعاس على آدم فرقد، وأخرجت ضلعًا من جنبه وملأت موضعها لحماً عوضاً عنها.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Hina eybe vai e~re pirwmi ,a pefiwt nem tefmau n~cwf efe~tomf e~tefc~himi ouoh eue~swpi m~p~c~nau n~oucarx n~ouwt v/e~tav] tomf m~peny~re v~rwmi vorjf.
+            </Language>
+            <Language id="English">
+               For this a man leaves his father and mother and cleaves to his wife, and they both become one body, and what God has joined together let no man put asunder.  
+            </Language>
+            <Language id="Arabic">
+               لهذا يترك الرجل أباه وأمه ويلتصق بامرأته، ويكونان كلاهما جسدًا واحدًا وما جمعه الله لا يفرقه الإنسان
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               V/e~tafc~mou n~Abraam e~jen Carra nem Icaak e~jen Ierebekka nem Iakwb e~jen Elia~ nem Ra,/l ouoh aktoubo n~ouon niben etaumoujt qen ouc~mou. N~yok on ]nou penn/b P[oic joust e~q~r/i e~jen neke~biaik (nim) nem (nim) tefbo/~yoc
+            </Language>
+            <Language id="English">
+               O You who blessed Abraham with Sarah, Isaac with Rebecca, and Jacob with Leah and Rachel, and purified all who were joined in blessing, now, also, O Master Lord, look upon Your two servants (...) and (...) his helpmate.  
+            </Language>
+            <Language id="Arabic">
+               فيا من باركت إبراهيم مع سارة، واسحق مع رفقة، ويعقوب مع ليئة وراحيل، وطهرت كل اللذين اجتمعوا بالبركة، الآن أيضًا أيها السيد الرب اطلع على عبديك (...) و(...) معينته.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Matajre p~oujinhwtp a~reh e~tousari ectoub/out aric~kepazin m~mwou nem pou/i hiten tekoui~nam n~at[ro e~roc.
+            </Language>
+            <Language id="English">
+               Confirm their union, guard their bed in purity. Cover them and their home with Your unconquerable Right Hand.  
+            </Language>
+            <Language id="Arabic">
+               ثبت اتصالهما. احرس مضجعهما نقيًا. استرهما مع بيتهما بيمينك غير المغلوبة. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nahmou e~bol ha v~yonoc niben nem e~piboul/ niben rwic e~rwou qen oumeth/t n~ouwt nem ouhir/n/ ari,arizecye nwou n~ouyel/l nem ourasi eyrououwnh nak e~bol Vnou] e~tonq n~oukarpoc e~fonq e~bol qen y~neji.
+            </Language>
+            <Language id="English">
+               Deliver them from all envy and intrigues.  Preserve them in oneness, harmony, and peace, grant them joy and happiness to reveal unto You, O Living God, the fruit of life from the womb.
+            </Language>
+            <Language id="Arabic">
+               نجهما من كل حسد وكل مكيدة. احفظهما بإمتزاج واحد وسلام. هب لهما فرحًا وسرورًا ليظهرا لك يا الله الحي ثمرة الحياة من البطن.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Cmou e~rwou m~v~r/] e~takcmou e~Abraam e~jen Carra: nem Icaak e~jen Ierbekka: nem Iwakwb: e~jen Elia~ nem Ra,/l.
+            </Language>
+            <Language id="English">
+               Bless them, O God, as You blessed Abraham with Sarah, and Isaac with Rebecca, and Jacob with Leah and Rachel.
+            </Language>
+            <Language id="Arabic">
+               باركهما يا الله كما باركت إبراهيم مع سارة، واسحق مع رفقة، ويعقوب مع ليئة وراحيل
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               N/et qen paima neman: nirwmi nem nihio~mi: c~mou e~rwou qen v~ran Pen[oic ouoh Pennou] ouoh Pencwt/r I/couc Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               As for the men and women who are here with us, bless them in the name of our Lord and our God and Savior Jesus Christ, 
+            </Language>
+            <Language id="Arabic">
+               أما الرجال والنساء اللذين ههنا معنا، فباركهم بإسم ربنا وإلهنا ومخلصنا يسوع المسيح 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusionEnding" />
+      </Role>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="Coptic">
+               Mpererp~wbs n~]diay/k/ y/etakcemn/tc nem nenio]: Abraam Icaak Iakwb: Pic~ra/l peyouab n~tak.
+            </Language>
+            <Language id="English">
+               Do not forget Your covenant / that You have established with our fathers / Abraham, Isaac, and Jacob, / Israel your saints.
+            </Language>
+            <Language id="Arabic">
+               لا تنسَ العهد الذي قررته مع آبائنا إبراهيم واسحق ويعقوب، اسرائيل قديسك.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Piaggeloc n~te paie~hoou: eth/l e~p~[ici nem paihumnoc: a~ripenmeui~ qa t~h/ m~P[oic: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               O the angel of this day / flying up to the heights with this hymn, / remember us before the Lord / that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               يا ملاك هذا اليوم الطائر إلى العلو بهذه التسبحة، اذكرنا أمام الرب ليغفر لنا خطايانا.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Teerouwini e~hote v~r/: n~yo pe p~ca n~]anatol/: e~re niy~m/i joust e~bol qajwf: qen ouounof nem ouyel/l.
+            </Language>
+            <Language id="English">
+               You are brighter than the sun, / you are she who is towards the east / for whom the righteous await / with joy and praise.
+            </Language>
+            <Language id="Arabic">
+               مضيئة أكثر من الشمس، أنت هي ناحية المشرق، التي ينتظرها الأبرار، بفرح وتهليل.
+            </Language>
+         </Text>
+         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Prayer of Submission</Language>
+         <Language id="Arabic">صلاة خضوع</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Rek pekmasj P[oic ouoh cwtem e~ron anon qa nirefernobi ouoh n~atm~p~sa: matajre pijinhwtp n~te neke~biaik (nim) nem (nim) tefbo/~yoc.
+            </Language>
+            <Language id="English">
+               Listen, O Lord, to us, and hear us, we, the unworthy sinners, and establish the union of Your two servants (...) and (...) his helpmate.  
+            </Language>
+            <Language id="Arabic">
+               أمل سمعك يا رب واسمعنا نحن الخطاة غير المستحقين، وثبت اتصال عبديك (...) و(...) معينته
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nahmou e~bol hapethwou niben marou ernebahi qen pasai n~te hane~hoou euwnq qen oumetremreus nem oumetcemnoc nem ]hupomon/ nem p~[nejwf euoi n~atariki n~at[rop.
+            </Language>
+            <Language id="English">
+               Deliver them from all evil, and lengthen their lives with length of days, that they may live in meekness, calmness, endurance and submission, and keep them blameless and without offense.  
+            </Language>
+            <Language id="Arabic">
+               نجهما من كل شر. وليطل عمرهما بكثرة الأيام. وليعيشا بدعة وهدوء واحتمال وخضوع. وهما بلا لوم ولا عثرة.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Ariouwini e~rwou qen nibal n~te pouh/t nem pouka] e~p~jini~ri m~petehnak n~c/ou niben n~yok ouna/t qar nase peknai n~ouon niben etws e~h~r/i oub/k
+            </Language>
+            <Language id="English">
+               Enlighten their hearts and understanding so that they may always do Your will, because You are merciful, plenteous in mercy, to all who cry out to You,
+            </Language>
+            <Language id="Arabic">
+               أنر أعين قلبيهما وفهميهما، ليصنعا إرادتك كل حين، لأنك رحيم كثير الرحمة لكل الصارخين إليك.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Tenouwrp nak e~p~swi m~piw~ou nem pitaio~ nem ]p~rock/n/cic ]nou nem n~c/ou niben.
+            </Language>
+            <Language id="English">
+               and we send unto You glory, honor and worship, now and forever and unto the age of ages.  Amen.
+            </Language>
+            <Language id="Arabic">
+               ونرسل لك المجد والكرامة والسجود، الآن وكل أوان وإلى دهر الدهور آمبن.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/MayGodBlessUs"/>         
+         <InsertDocument path="include/Jefcmarwout"/>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Prayer Upon the Oil</Language>
+         <Language id="Arabic">صلاة على الزيت</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Comment> 
+            <Language id="English">
+               The priest recites the following prayer over the oil before anointing the couple.
+            </Language>
+            <Language id="Arabic">
+               يقول الكاهن هذه الصلاة على الزيت قبل دهنهما.
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="Coptic">
+               Vn/b P[oic Vnou] pipantokratwr v~iwt m~Pen[oic ouoh Pennou] ouoh Pencwt/r I/couc Pi,~rictoc. V/ e~te e~bol hiten pigenn/ma n~te ]bw n~jwit n~notem akywhc n~hanou/b nem hanourwou nem hanp~rov/t/c.
+            </Language>
+            <Language id="English">
+               O Master, Lord, God the Pantocrator, the Father of our Lord, God and Savior Jesus Christ, who anointed, out of the fruit of the rich olive tree, priests, kings, and prophets.
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الإله ضابط الكل، أبو ربنا وإلهنا ومخلصنا يسوع المسيح، الذي من ثمرة شجرة الزيتون الدسم مسحت كهنةً وملوكًا وأنبياء
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Ten]ho ouoh tentwbh m~mok P[oic pimairwmi n~a~gayoc hopwc qen ouc~mou n~tekc~mou epai neh vai marefswpi n~ou neh n~a~giacmoc n~neke~biaik (nim) nem (nim). Am/n.
+            </Language>
+            <Language id="English">
+               We beseech and entreat You, O Good Lord, the Lover of Mankind, to bless this oil with blessings, so that it becomes an oil to sanctify Your two servants (...) and (...).  Amen.
+            </Language>
+            <Language id="Arabic">
+               نبتهل ونتضرع إليك أيها الرب محب البشر الصالح، لكي تبارك هذا الزيت تبريكًا. ليكون زيتًا لتقديس عبديك (...) و(...). آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ouhoplon n~te ]meym/i. Nem ]diaio~cun/. Am/n.
+            </Language>
+            <Language id="English">
+               A weapon of righteousness and justice.  Amen.
+            </Language>
+            <Language id="Arabic">
+               سلاح البر و العدل. آمين
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ouywhc n~te outoubo nem oumetattako~. Am/n.
+            </Language>
+            <Language id="English">
+               An anointment of purity and incorruption.  Amen.
+            </Language>
+            <Language id="Arabic">
+               مسحة الطهارة و عدم الفساد. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ououwini nem oucai n~aylwm. Am/n.
+            </Language>
+            <Language id="English">
+               Light and unfading beauty.  Amen.
+            </Language>
+            <Language id="Arabic">
+               نورًا و جمالاً لا يذبل. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eouerouot nem oucolcel n~tav~m/i. Am/n.
+            </Language>
+            <Language id="English">
+               Joy, ornament, and true comfort. Amen.
+            </Language>
+            <Language id="Arabic">
+               فرحًا و زينة و عزاءً حقيقيًا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eoujom nem oujai nem [or oube energia~ niben n~te pian tikimenoc. Am/n.
+            </Language>
+            <Language id="English">
+               Power, salvation, and victory over all the deeds of the adversary.  Amen.
+            </Language>
+            <Language id="Arabic">
+               قوة و خلاصًا وغلبة على كل أفعال المضاد. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eoumetberi~ nem oucwt/ria~ n~te tou'u,/ nem poucwma nem poup~neuma. Am/n.
+            </Language>
+            <Language id="English">
+               Renewal and salvation for their souls, bodies and spirits.  Amen.
+            </Language>
+            <Language id="Arabic">
+               تجديدًا وخلاصًا لنفسيهما وجسديهما وروحيهما. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eoumetramao~ nem ou]outah n~te hanh~b/oui~ e~naneu. Am/n.
+            </Language>
+            <Language id="English">
+               Richness with the fruit of good deeds.  Amen.
+            </Language>
+            <Language id="Arabic">
+               غنى مع ثمرة الأفعال الحسنة. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eouw~ou nem outaio~ m~pekran eyouab nem pekmonogen/c n~s/ri nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak ]nou nem n~c/ou niben.
+            </Language>
+            <Language id="English">
+               Glory and honor to Your holy name with Your only-begotten Son and the Holy Spirit, the Giver of Life, who is of one essence with You now and forever and to the age of ages.  Amen.
+            </Language>
+            <Language id="Arabic">
+               مجدًا و إكرامًا لاسمك القدوس مع ابنك الوحيد والروح القدس المحيي المساوي لك. الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      
+         <Comment> 
+            <Language id="English">
+               The priest anoints the bridegroom with the oil, while the people chant:
+            </Language>
+            <Language id="Arabic">
+               ثم يدهن الكاهن العريس بالزيت بينما يقول المرتلون
+            </Language>
+         </Comment>
+
+         <Text> 
+            <Language id="Coptic">
+               Paineh vai n~tefkwrf n~nidemwn: paineh vai oube m~p~neuma m~poun/ron: paineh\ vai n~nip~neuma n~a~gion: paineh\ vai oube n~antia~\n~nip~neuma n~kayarton: hiten I/couc Pi,~rictoc p~ouro n~te p~w~ou.
+            </Language>
+            <Language id="English">
+               May this oil, destroy the demons. This oil is against the evil spirits. This is the oil of holy spirits. This oil is against the impure spirits, through Jesus Christ, the King of Glory.
+            </Language>
+            <Language id="Arabic">
+               هــذا الـدهن ليبطل الشياطين، هذا الدهن ضد الأرواح الرديئة، هذا دهن الأرواح المقدسة، هذا الدهن ضد مقاومة الأرواح النجسة، بيسوع المسيح ملك المجد.
+            </Language>
+         </Text>
+         
+         <Comment> 
+            <Language id="English">
+               While the priest anoints the bride, the people chant:
+            </Language>
+            <Language id="Arabic">
+               و عندما يدهن العروس يقول المرتلون
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="Coptic">
+               Akywhc n~taa~ve n~ouneh: ouoh peka~vot etyaqi m~v~r/] n~ouamahi: penknai efe~[oji n~cwi n~niehoou t/rou n~te pawnq.
+            </Language>
+            <Language id="English">
+               You have anointed my head with oil, / and Your cup cheers me like the best wine; / Your mercy will follow me / all the days of my life.
+            </Language>
+            <Language id="Arabic">
+               دهنت بالزيت رأسي، وكأسك روتني مثل الصرف، رحمتك تدركني، جميع أيام حياتي.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Haneynoc t/rou cenaermakarizin m~mwou e~joc e~bol ece~swpi: a~m/n.
+            </Language>
+            <Language id="English">
+               All the nations / shall bless both / of them saying, / “So be it.  Amen.”
+            </Language>
+            <Language id="Arabic">
+               تطوبها الامم جميعها قائلين سيكون (آمين)
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               A P[oic ouwrp m~pefaggeloc: afolt e~bol qen nie~cwou m~paiwt: afyahc m~moi qen p~neh m~pefywhc.
+            </Language>
+            <Language id="English">
+               The Lord sent His angel / and took me from my father’s sheep / and anointed me with the oil / of His anointing.
+            </Language>
+            <Language id="Arabic">
+               الرب أرسل ملاكه وأخذني من غنم أبي ومسحني بدهن مسحته.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Nac~n/ou naneu ouoh hannis] ne: cenaermakarizin m~moi najoc e~bol ece~swpi ece~swpi: a~m/n.
+            </Language>
+            <Language id="English">
+               My brothers were / handsome and great; / they exalt me saying, / “So be it. So be it.  Amen.”
+            </Language>
+            <Language id="Arabic">
+               أخوتي حسان وهم عظماء يغبطوني قائلين سيكون سيكون (آمين).
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Prayer After Anointing the Oil</Language>
+         <Language id="Arabic">صلاة بعد دهنهما الزيت</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               P[oic Vnou] n~te nijom piat[i/pi m~mof qen nefmetsenh/t ouoh n~atstahof qen tefmeta~gayoc swp e~rok n~nen]ho aric~kepazin e~jen neke~biaik (nim) nem (nim).
+            </Language>
+            <Language id="English">
+               O Lord, the God of hosts, whose mercies are countless, whose goodness is beyond comprehension, accept our supplications unto You.  Guard Your two servants (...) and (...). 
+            </Language>
+            <Language id="Arabic">
+               أيها الرب إله القوات، الذي لا تحصى مراحمه، غير المدرك في صلاحه، اقبل إليك تضرعنا. استر على عبديك  (...) و(...) 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Rwic e~poujinhwtp a~rehe~tousairi ectoub/out.
+            </Language>
+            <Language id="English">
+               Protect their unity. Keep their bed in purity.  
+            </Language>
+            <Language id="Arabic">
+               واحرس اتصالهما. واحفظ مضجعهما نقيًا.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Aricobt e~ron nemwou hiten han aggeloc eyouab ouwrp e~q~r/i e~jwn e~bol qen pekmanswpi etcebtwt m~p~asai n~te nekmetsenh/t.
+            </Language>
+            <Language id="English">
+               Fortify them by Your pure angels, and send upon us from Your prepared habitation a multitude of Your compassions. 
+            </Language>
+            <Language id="Arabic">
+               حصنهما بملائكتك الأطهار. وأرسل علينا من مسكنك المستعد كثرة رأفاتك. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Jwr e~bol m~p~asai n~te nenparaptwma hiten tekmeta~gayoc: ouoh eke~erh~mot nan oneyrenswpi qen niman~emton n~te n/eyouab n~tak n~h~r/i qen y~metouro n~niv/oui~ hiten pekmonogen/c n~s/ri I/couc Pi,~rictoc Pen[oic.
+            </Language>
+            <Language id="English">
+               Disperse our many iniquities by Your goodness, and grant us, also, to be in the places of rest of Your saints in the heavenly kingdom, through Your only-begotten Son Jesus Christ, our Lord
+            </Language>
+            <Language id="Arabic">
+               بدد زلاتنا الكثيرة بصلاحك، وأنعم علينا أيضًا أن نكون في أماكن راحة قديسيك في ملكوت السموات. بابنك الوحيد يسوع المسيح ربنا،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusionEnding"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Prayer Upon the Crowns</Language>
+         <Language id="Arabic">صلاة على الأكاليل</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Comment> 
+            <Language id="English">
+               The priest holds the crowns and prays over them.  Each time, the people respond with, “Amen”.
+            </Language>
+            <Language id="Arabic">
+               يمسك الكاهن بالأكاليل و يصلي عليها هذه الصلاة. و في كل مرة يرد المرتلون: "آمين"
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="Coptic">
+               Vnou] v/eyouab v/etaf] ,~lom e~jen n/ eyouab n~taf qen han,~lom n~aylwm ouoh afhwtp n~na t~ve nem na p~kahi qen oumetouai n~yok on ]nou penn/b c~mou e~nai ,~lom e~tancebtwtou eyrent/itou e~jen neke~biaik.
+            </Language>
+            <Language id="English">
+               O Holy God, who crowned the saints with unfading crowns and reconciled the heavenly and earthly and united them; O You our Master, now, also, bless these crowns which we prepared to be set upon Your two servants, 
+            </Language>
+            <Language id="Arabic">
+                الله القدوس الذي كلل قديسيه بأكاليل لا تذبل، وصالح السمائيين مع الأرضيين ووحدهما. أنت أيضًا الآن يا سيدنا بارك هذه الأكاليل التي هيأناها لنضعها على عبديك. 
+            </Language>
+         </Text>
+         
+         <Comment> 
+            <Language id="English">
+               The priest places the crowns upon them while saying the following prayer to which the people respond with, “Amen”.
+            </Language>
+            <Language id="Arabic">
+               يضع الكاهن عليهما الأكاليل وهو يقول هذه الصلاة، ويرد المرتلون: (آمين).
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="Coptic">
+               Marouswpi nwou: n~ou,~lom n~w~ou nem outaio~. Am/n.
+            </Language>
+            <Language id="English">
+               to be for them: Crowns of glory and honor. Amen.
+            </Language>
+            <Language id="Arabic">
+                لتكون لهما: أكاليل مجد وكرامة. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te ouc~mou nem ououjai. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of blessing and salvation. Amen.
+            </Language>
+            <Language id="Arabic">
+                أكاليل بركة و خلاص. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te ourasi nem ou]ma]. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of joy and happiness. Amen.
+            </Language>
+            <Language id="Arabic">
+                أكاليل فرح ومسرة. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te p~yel/l nem p~ounof. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of jubilation and delight. Amen.
+            </Language>
+            <Language id="Arabic">
+                أكاليل تهليل و بهجة. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te ]aret/ nem ]dikeocun/. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of virtue and justice. Amen.
+            </Language>
+            <Language id="Arabic">
+               أكاليل فضيلة و عدل. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~covia~ nem metremn~h/t. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of wisdom and understanding hearts. Amen.
+            </Language>
+            <Language id="Arabic">
+               أكاليل حكمة و فهم قلب. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~nom] nem outajro. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of comfort and confirmation. Amen.
+            </Language>
+            <Language id="Arabic">
+               أكاليل عزاء و ثبات. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ari,arizecye n~neke~biaik eynaervorin m~mwou n~ouaggeloc n~te ]hir/n/ nem v~mour n~te ]a~gap/ matoujwou e~bol ha meui~ niben n~[lof nem oue~piyumia~ ecjaiw~ou.
+            </Language>
+            <Language id="English">
+               Grant Your two servants, who shall wear them, the angel of peace and the bond of love. Deliver them from all evil thoughts and vile desires.
+            </Language>
+            <Language id="Arabic">
+               هب لعبديك اللذين يلبسانها ملاك السلامة ورباط المحبة. وانقذهما من كل فكر قبيح وشهوة رديئة. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Ouoh cotou e~bol ha baroc niben m~pon/ron nem e~p/ra niben n~dia~bolikon: marefswpi n~je peknai e~h~r/i e~jwou cwtem e~p~q~rwou n~te poutwbh: hioui~ n~tekho] e~q~r/i e~pouh/t.
+            </Language>
+            <Language id="English">
+               Deliver them from every weight of cunning and from every devilish hardship; let your mercy be upon them. Hear the voice of their supplication. Set Your fear in their hearts.
+            </Language>
+            <Language id="Arabic">
+               ونجهما من كل ثقل الخبث، ومن كل محنة شيطانية. ولتكن رحمتك عليهما. استمع صوت طلباتهما. اطرح مخافتك في قلبيهما.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Arihemi m~poujinwnq euoi n~aterqae~ sa e~q~r/i e~oumetqello eke~yrouounof qen p~jinnau n~te hans/ri nem hanseri ouoh n/etounaj~vwou.
+            </Language>
+            <Language id="English">
+               Manage their lives without delay unto old age. Make them rejoice by beholding the sons and daughters whom they will beget.
+            </Language>
+            <Language id="Arabic">
+               دبر حياتهما بغير تأخير إلى حد الشيخوخة. اجعلهما يفرحان بنظر البنين والبنات اللذين يلدانهم.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Eke~enou e~bol euersau qen tekoui~ m~mauatc n~kayolik/ n~apoctolik/ n~ekk~l/cia~ eyouab eutajr/out qen pinah] n~oryodoxoc sa e~bol.
+            </Language>
+            <Language id="English">
+               Make them useful in Your one, holy, catholic, and apostolic church, confirm them in the Orthodox faith to the end. 
+            </Language>
+            <Language id="Arabic">
+               إئت بهم نافعين في كنيستك الواحدة المقدسة الجامعة الرسولية، ثابتين في الإيمان الأرثوذكسي إلى الانقضاء. 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Eke~erhemi m~mwou qen v~mwit n~te ]meym/i hiten p~]ma] m~pekiwt n~a~gayoc nem pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               Lead them in the way of Your righteousness through the pleasure of Your good Father and the Holy Spirit,
+            </Language>
+            <Language id="Arabic">
+               دبرهما في سبيل برك، بمسرة أبيك الصالح و الروح القدس 
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               }nou nem n~c/ou niben...
+            </Language>
+            <Language id="English">
+               now and forever and unto the end.  Amen.
+            </Language>
+            <Language id="Arabic">
+               الآن وكل أوان وإلى الأبد آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="English">
+               Place the crowns O [high]+ priest of Immanuel, / place the crowns O shepherd of Israel, / place the crowns in joy and jubilation / upon (...) the bridegroom and (...) the bride.
+            </Language>
+            <Language id="Arabic">
+               ضع الأكاليل يا كاهن (رئيس كهنة)+ عمانوئيل ضع الأكاليل يا راعي إسرائيل. ضع الأكاليل بالفرح و التهليل لـ ـــ العريس وـــ العروس.
+            </Language>
+         </Text>
+         
+         <Comment> 
+            <Language id="English">
+               + In the presence of the pope or a bishop.
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Eke~,w P[oic e~jen nekebiaik: n~ou,~lom n~te ouh~mot n~at[ro e~rof. Am/n.
+            </Language>
+            <Language id="English">
+               Place, O Lord, upon Your two servants crowns of unvanquished grace. Amen.
+            </Language>
+            <Language id="Arabic">
+               ضع يا رب على عبديك أكاليل النعمة غير المغلوبة. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te ouw~ou ef[oci ouoh e~naswf.  Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of elevated and everlasting glory, Amen.
+            </Language>
+            <Language id="Arabic">
+               أكاليل مجد مرتفع و غير فانٍ. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Ou,~lom n~te ounah] e~nanef ouoh eke~c~mou ouoh n~atbwtc oub/f ouoh eke~emou e~nouhb/oui~ t/rou. Am/n.
+            </Language>
+            <Language id="English">
+               Crowns of unopposed and unattacked good faith, and bless all their actions.  Amen.
+            </Language>
+            <Language id="Arabic">
+               أكاليل أمانة حسنة غير مضادة و لا محاربة، وبارك جميع أعمالهما. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="Coptic">
+               Je n~yok pe piref] n~niagayon t/rou Pi,~rictoc Pennou]: ere piw~ou nem pitaio~ erp~repi nak nem pekiwt na~gayoc nem pekp~neuma eyouab n~ref tanqo ouoh n~omooucioc nemak.
+            </Language>
+            <Language id="English">
+               For You, Christ our God, are the giver of all good things and glory and honor are due to You, with Your good Father, and Your Holy Spirit, the Giver of Life, who is of one essence with You, 
+            </Language>
+            <Language id="Arabic">
+               لأنك أنت المعطي سائر الخيرات أيها المسيح إلهنا، ويليق بك المجد والإكرام مع أبيك الصالح وروحك القدوس المحيي المساوي لك.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               }nou nem n~c/ou niben nem sa e~neh a~m/n.
+            </Language>
+            <Language id="English">
+               now and forever and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور آمبن.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+      
+      <Role id="Priest">
+         <Comment> 
+            <Language id="English">
+               The priest puts the heads of the groom and bride together and says the following three phrases while making the sign of the cross over them after each. The people respond each time with, “Amen”.
+            </Language>
+            <Language id="Arabic">
+               يضم الكاهن رأس العريس إلى رأس العروس ويقول العبارات الثلاثة الاتية. ومع كل عبارة يرشم بالصليب على رأسيهما ويرد الشعب (آمين).
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="English">
+               Crown them with glory and honor, O Father. Amen.
+            </Language>
+            <Language id="Arabic">
+               كللهما بالمجد و الكرامة أيها الآب.آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="English">
+               Bless them, O only-begotten Son. Amen.
+            </Language>
+            <Language id="Arabic">
+               باركهما أيها الابن الوحيد. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="English">
+               Sanctify them, O Holy Spirit. Amen.
+            </Language>
+            <Language id="Arabic">
+               قدسهما أيها الروح القدس. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Amen"/>         
+         <InsertDocument path="crowning/include/KhenEfran"/>
+         
+         <Text> 
+            <Language id="Coptic">
+               Axioc axioc axioc: pipatselet nem tefbo/yoc.
+            </Language>
+            <Language id="English">
+               Worthy, worthy, worthy, the bridegroom and his helpmate.
+            </Language>
+            <Language id="Arabic">
+               مستحق، مستحق، مستحق، العريس ومعينته.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">A Melody in the Adam Tune</Language>
+         <Language id="Arabic">مديحة بلحن آدام</Language>
+      </Title>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="Coptic">
+               Han,~lom n~aylwm: aft/itou n~je P[oic: e~jen pipatselet: n~te I/couc Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               Unfading crowns, / the Lord has granted / to this bridegroom, / of Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               أكاليل لا تبلى، منحها الرب، لهذا العريس، الذي ليسوع المسيح.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               {iouwini [iouwini: w~ pipatselet nem tekselet m~m/i: etqen pekma etcebtwt.
+            </Language>
+            <Language id="English">
+               Be enlightened, be enlightened, / O bridegroom / and your true bride, / in your prepared place.
+            </Language>
+            <Language id="Arabic">
+               إستضيء إستضيء، أيها العريس مع عروسك الحقيقية التي في موضعك المستعد.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               {i nak n~ourasi: nem ]dwrea~ n~te Vnou]: e~taft/itou nak n~je Pi,~ricotc pennou].
+            </Language>
+            <Language id="English">
+               Accept the joy / and the gift of God / that our God Christ / granted you.
+            </Language>
+            <Language id="Arabic">
+               إقبل الفرح وموهبة الله التي أعطاها لك المسيح إلهنا.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Masenak qen ourasi: e~pekma n~selet: etcelcwl e~bol: qen ouyo n~r/].
+            </Language>
+            <Language id="English">
+               Go with joy / to your bridal chamber / which is ornamented / with varied things.
+            </Language>
+            <Language id="Arabic">
+               إمضِ بفرحٍ، إلى خدرك، المزين، بكل نوع.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <Role id="Priest">
+      <Comment> 
+         <Language id="English">
+            The priest places the holy cross on the bridegroom’s head, and signs him saying:
+         </Language>
+         <Language id="Arabic">
+            يضع الكاهن الصليب المقدس على رأس العريس ويرشم قائلاً.
+         </Language>
+      </Comment>
+   
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou m~peniwt A~dam nem Nwe nem Abraam nem Mwuc/c qen p~kahi m~Madian efc~mou e~rok w~pi pastel/t nem tefbo/~yoc.
+         </Language>
+         <Language id="English">
+            May He who blessed our father Adam, Noah, Abraham, and Moses in the land of Midian, bless you, O bridegroom and your helpmate. 
+         </Language>
+         <Language id="Arabic">
+            الذي بارك أبانا آدم ونوح وإبراهيم وموسى في أرض مديان، يباركك أيها العريس ومعينتك.
+         </Language>
+      </Text>
+      
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou n~Icaak pimenrit nem Abel piy~m/i n~houit nem Colomwn nem pefiwt Dauid efc~mou e~rok w~pi pastel/t nem tefbo/~yoc.
+         </Language>
+         <Language id="English">
+            May He who blessed Isaac the beloved and Abel the first righteous, and Solomon and his father David, bless you, O bridegroom and your helpmate.  
+         </Language>
+         <Language id="Arabic">
+            الذي بارك إسحق الحبيب وهابيل الصديق الأول وسليمان وأبيه داود، يباركك أيها العريس ومعينتك. 
+         </Language>
+      </Text>
+      
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou m~peniwt Iakwb Picra/l nem ?cou nem piym/i Iwb efc~mou e~rok n~sasf n~kwb w~pi pastel/t nem tefbo/~yoc.
+         </Language>
+         <Language id="English">
+            May He who blessed our father Jacob and the righteous Joseph, bless you seven fold, O bridegroom and your helpmate.
+         </Language>
+         <Language id="Arabic">
+            الذي بارك أبانا يعقوب والصديق أيوب، يباركك سبعة أضعاف أيها العريس ومعينتك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="crowning/include/LordHaveMercyOrLordHearUs"/>
+   
+   <Role id="Priest">
+      <Comment> 
+         <Language id="English">
+            Likewise, he signs the bride and says:
+         </Language>
+         <Language id="Arabic">
+            وهكذا أيضاً يرشم العروس ويقول:
+         </Language>
+      </Comment>
+   
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou m~peniwt  Adam nem Eua~ nem Abraam nem Carra nem Icaak nem Ierebekka efc~mou e~pai jintomi vai.
+         </Language>
+         <Language id="English">
+            May He who blessed our father Adam with Eve, and Abraham with Sarah, and Isaac with Rebecca, bless this marriage. 
+         </Language>
+         <Language id="Arabic">
+            الذي بارك أبانا آدم وحواء، وإبراهيم مع سارة، وإسحق مع رفقة، يبارك هذا الزواج. 
+         </Language>
+      </Text>
+      
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou n~Iakwb Picra/l e~jen Lia nem Ra,/l nem Anna y~mau n~Camou/l efc~mou e~pai jintomi vai.
+         </Language>
+         <Language id="English">
+            May He who blessed Jacob in his mariage, and Hanna the mother of Samuel, bless this marriage. 
+         </Language>
+         <Language id="Arabic">
+            الذي بارك يعقوب في زواجه، وحنة أم صموئيل، يبارك هذا الزواج. 
+         </Language>
+      </Text>
+      
+      <Text> 
+         <Language id="Coptic">
+            V/e~tafc~mou n~Iwc/f nem Acen/y: nem Za,ariac nem Elicabet: nem Mariam y~mau n~selet: nem nihio~mi t/rou etc~mamat: efc~mou e~paijintomi vai.
+         </Language>
+         <Language id="English">
+            May He who blessed Joseph with Asenath and Zacharias with Elizabeth, and Mary the mother of the Bridegroom, and the rest of the blessed women, bless this marriage.
+         </Language>
+         <Language id="Arabic">
+            الذي بارك يوسف مع أسينات، وزكريا مع أليصابات، ومريم أم الختن، وكافة النساء المباركات، يبارك هذا الزواج.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="crowning/include/TheCherubimWorshipSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text> 
+         <Language id="English">
+            You are crowned, O bridegroom, in this assembly; / at your right hand sits a virgin, / whom the Lord of might has set apart for you, / in perfection and purity from among the people of Jesus.
+         </Language>
+         <Language id="Arabic">
+            توجت يا عريس في هذه الحضرة، وعن يمينك جلست عذراء، بها خصك رب القدرة، بكمال وطهر من شعب إيسوس.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="crowning/include/LordHaveMercyOrLordHearUs"/>
+   
+   <Role id="Priest">
+      <Text> 
+         <Language id="English">
+            Now since you have been present at this blessed time before the sanctuary of the Lord of Hosts and His holy altar and this Orthodox gathering, you have been joined by this blessed marriage and holy crowning. According to this rite and this law, so also the rest of the fathers, the believers, took one wife in purity and cleanness for the sake of descendants and childbearing.
+         </Language>
+         <Language id="Arabic">
+            والآن وقد حضرتما في هذه الساعة المباركة قدام هيكل رب الصاباؤوت ومذبحه المقدس، في هذا المحفل الأرذوكسي. وجمعتكما هذه الزيجة المباركة، والإكليل المقدس. فعلى هذا الرسم وهذه الشريعة، هكذا إتخذ سائر الآباء المؤمنون امرأةً واحدةً بطهرٍ ونقاوةٍ، لطلب الذرية وإيجاد الخلف.
+         </Language>
+      </Text>
+      
+      <Text> 
+         <Language id="English">
+            So, you should know each other’s rights and submit yourselves to one another, and let each of you be faithful to the other according to our teacher Paul the apostle: “The wife does not have authority over her own body, but her husband does. And likewise the husband does not have authority over his own body, but the wife does” (1 Cor 7:4).
+         </Language>
+         <Language id="Arabic">
+            فيجب عليكما أن يعرف بعضكما حق بعض، ويخضع كل منكما لصاحبه. وليكن كلُ منكما أميناً نحو الآخر كقول معلمنا بولس الرسول ”ليس للمرأة تسلط على جسدها بل للرجل وكذلك الرجل أيضاً ليس له تسلط على جسده بل للمرأة“  (1كو 7 : 4).
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text> 
+         <Language id="Coptic">
+            Tahir/n/ a~nok: y/e~tai[itc hiten Paiwt: ],w m~moc nemwten: icjen ]nou nem sa e~neh.
+         </Language>
+         <Language id="English">
+            My peace that I have received / from My Father, / I leave unto you / now and forever.
+         </Language>
+         <Language id="Arabic">
+            سلامي أنا، الذي أخذته من أبي، أنا أتركه معكم، من الآن وإلى الأبد.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text> 
+         <Language id="English">
+            Receive, O bridegroom, a bride who is yours, / Jesus Christ has given her to you, / and at the hand of our father the [high]+ priest He has presented her to you, / and blessed you both with His holy name.
+         </Language>
+         <Language id="Arabic">
+            استلم يا عريس عروسًا وهي لك، يسوع المسيح أعطاها لك، وبيد أبينا الكاهن (الأسقف) سلمها لك، وبارككما باسمه القدوس. 
+         </Language>
+      </Text>
+      
+      <Comment> 
+         <Language id="English">
+            + In the presence of the pope or a bishop.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <InsertDocument path="crowning/include/LordHaveMercyOrLordHearUs"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">The Command to the Bridegroom</Language>
+         <Language id="Arabic">الوصية للعريس</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Comment> 
+            <Language id="English">
+               The priest presents the bride to the bridegroom. Then, he says the following command to the bridegroom:
+            </Language>
+            <Language id="Arabic">
+               يسلم الكاهن العروس لعريسها، ثم يقول هذه الوصية للعريس
+            </Language>
+         </Comment>
+         
+         <Text> 
+            <Language id="English">
+               My blessed son, who is supported by the grace of the Holy Spirit, you are required to receive your wife at this blessed hour with a clear conscience, a pure soul, and a full heart.  Excel in doing all that is good for her.  Have compassion on her and hasten to do that which will gladden her heart.
+            </Language>
+            <Language id="Arabic">
+               يجب عليك أيها الابن المبارك، المؤيد بنعمة الروح القدس، أن تتسلم زوجتك في هذه الساعة المباركة بنية خالصة، ونفس طاهرة، وقلب سليم. وتجتهد فيما يعود لصالحها. وتكون حنوناً عليها. وتسرع إلى ما يسر قلبها.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="English">
+               Today, you are responsible for her instead her parents. You have both been crowned with heavenly crowns and the spiritual marriage. The grace of God has settled upon you. When you accept what has been commanded of you, the Lord will take your hand, increase your livelihood, grant you blessed children by whom God will delight your eyes, grant you a long age and prosperous life, and prosper your outcome in this life and the hereafter.
+            </Language>
+            <Language id="Arabic">
+               فأنت اليوم المسئول عنها من بعد والديها. وقد تكللتما بالإكليل السمائي والزيجة الروحانية، وحلت عليكما نعمة الله. ومتى قبلت ما أوصيت به، أخذ الرب بيدك وأوسع في رزقك، ويرزقك أولاداً مباركين يقر الله بهم عينيك، ويمنحك العمر الطويل والعيش الرغد، ويحسن لك العاقبة في الدنيا و الآخرة.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text> 
+            <Language id="Coptic">
+               Cwtem taseri a~nau rek pemasj: arip~wbs m~pelaoc nem p~/i n~te peiwt: je a~ piouro e~repiyumin e~pecai: je ou/i n~yof pe Pe[oic.
+            </Language>
+            <Language id="English">
+               Hear, O daughter, and see and incline your ear, forget your people and your father’s house because the king has desired your beauty, for He is your Lord.
+            </Language>
+            <Language id="Arabic">
+               اسمعي يا إبنتي وانظري ميلي بسمعك وانسي شعبك وبيت أبيك فإن الملك قد إشتهى حسنك، لأنه هو ربك.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="Coptic">
+               Cwtem ]selet: ouoh ka] rek pemasj je a~ piselet e~repiyumin n~te pemetagayoc: je ou/i n~yof pehai ouoh f~emp~sa n~cwtem n~cwf.
+            </Language>
+            <Language id="English">
+               Listen O bride, understand and incline your ear, for the bridegroom desired your goodness, for he is your husband and is worthy to be listened to.
+            </Language>
+            <Language id="Arabic">
+               اسمعي يا عروس وافهمي وميلي بسمعك لأن العريس قد إشتهى طهرك، لأنه رجلك فيجب أن تطيعيه.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text> 
+            <Language id="English">
+               Listen, O bride and incline your ear, / forget your people and your father’s house, / for your chastity has appealed to the bridegroom, / and he is your husband and to him you will submit.
+            </Language>
+            <Language id="Arabic">
+               اسمعي يا عروس واصغيْ بسمعك وانسيْ شعبك و بيت أبيك لأن العريس راق له طهرك، فهو زوجك وله تخضعين. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="crowning/include/LordHaveMercyOrLordHearUs"/>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">The Command to the Bride</Language>
+         <Language id="Arabic">الوصية للعروس</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text> 
+            <Language id="English">
+               And you, blessed daughter, and happy bride, you have heard what was commanded of your husband.  So you are required to honor and respect him, do not disagree with him but increase your obedience to him many times over what was commanded.  For today you are alone with him and he is responsible for you instead of your parents. So you must receive him with joy and cheer, do not frown in his face, do not neglect any of his rights upon you, and fear God in all matters with him.
+            </Language>
+            <Language id="Arabic">
+               وأنت أيتها الابنة المباركة، العروس السعيدة، قد سمعت ما أوصي به زوجك. فيجب عليك أن تكرميه وتهابيه، ولا تخالفي رأيه، بل زيدي في طاعته على ما أوصي به أضعافًا. فقد صرت اليوم منفردة معه وهو المسئول عنك بعد والديك. فيجب عليك أن تقابليه بالبشاشة والترحاب، ولا تضجري في وجهه، ولا تضيعي شيئًا من حقوقه عليك، وتتقي الله في سائر أمورك معه.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="English">
+               Because God commanded you to submit to him and ordered you to obey him as your parents. So be with him as our mother Sarah was obedient to our father Abraham, and used to address him “my lord.” Thus, God looked upon her obedience to him, blessed her, gave her Isaac in her old age, and made her offspring as the stars of heaven and the sand on the seashore.
+            </Language>
+            <Language id="Arabic">
+               لأن الله تعالى أوصاك بالخضوع له، وأمرك بطاعته بعد والديك. فكوني معه كما كانت أمنا سارة مطيعة لأبينا إبراهيم، وكانت تخاطبه: ”يا سيدي“. فنظر الله إلى طاعتها له، وبارك عليها، وأعطاها اسحق بعد الكبر، وجعل نسلها مثل نجوم السماء، والرمل الذي على شاطئ البحر.
+            </Language>
+         </Text>
+         
+         <Text> 
+            <Language id="English">
+               So if you listened to what we commanded you to do, and followed all the instructions, the Lord will take your hand, increase your livelihood, and blessings will descend upon your home, and He will grant you blessed children by whom God will delight your eyes.
+            </Language>
+            <Language id="Arabic">
+               فإذا سمعتِ جميع ما أوصيناك به واتبعت جميع الأوامر، أخذ الرب بيدك ووسّع في رزقك، وحلت البركات في منزلك، ورزقك أولادًا مباركين يقر الله بهم عينيك.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/Pouro.1"/>         
+      </Role>
+      
+      <Role id="Deacon">
+         <Text> 
+            <Language id="English">
+               A pure marriage and a revered crown, / bless it O our Lord Immanuel / as You blessed the wedding at Cana of Galilee / for (...) the bridegroom and (...) the bride.
+            </Language>
+            <Language id="Arabic">
+               زواج طاهر وإكليل جليل ، باركه يا إلهنا عمانوئيل، كما باركت عرس قانا الجليل لـ(...) العريس و(...) العروس. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="crowning/include/LordHaveMercyOrLordHearUs"/>
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         The priest opens the veil of the sanctuary and both the bridegroom and bride kneel before the altar.
+      </Language>
+      <Language id="Arabic">
+         يفتح الكاهن ستر الهيكل ويجثو العروسان أمام باب الهيكل.
+      </Language>
+   </Comment>
+   
+   <Text> 
+      <Language id="English">
+         May the Lord bless you, my brother, and bless your wife, as He blessed Noah and his wife when they left the ark and populated the earth with their seed and as He blessed Abraham with Sarah, and Isaac with Rebecca, and Jacob with Leah and Rachel.
+      </Language>
+      <Language id="Arabic">
+         كذلك يباركك الرب أيها الأخ، ويبارك زوجتك، كما بارك نوح وزوجته عند خروجهما من السفينة، وعمّر الأرض من ذريتهما. وكما بارك لإبراهيم في سارة، ولإسحق في رفقة، وليعقوب في ليئة وراحيل.
+      </Language>
+   </Text>
+   
+   <Text> 
+      <Language id="English">
+         May the blessing of the Lord, to His name be the honor, at the wedding of Cana of Galilee, settle upon you and your home, unify you in harmony, create spiritual love in your hearts, sustain your livelihood, fill your house and grant you a long age and happy life with blessed children.
+      </Language>
+      <Language id="Arabic">
+         وبركة الرب جلَّ اسمه الحالة في عرس قانا الجليل تحل عليكما، وفي منزلكما، وتوفق بينكما، وتجعل المحبة الروحانية في قلبكما، وتديم أرزاقكما، وتعمر منزلكما، وتمنحكما العمر الطويل، والحياة الهنيئة مع الأولاد المباركين.
+      </Language>
+   </Text>
+   
+   <Text> 
+      <Language id="English">
+         We ask Him to accept from us the prayers of this blessed crowning, reward us with the eternal for the temporal, the heavenly for the earthly, and forgive us our sins, iniquities, and transgressions and keep away from us the traps and cunning of the devil, the evil enemy.
+      </Language>
+      <Language id="Arabic">
+         وإياه نسأل أن يتقبل منا صلوات هذا الإكليل المبارك، ويعوضنا عن الفانيات بالباقيات، وعن الأرضيات بالسمائيات، ويغفر لنا خطايانا وذنوبنا وزلاتنا. ويكفينا مكائد ومكاره العدو الشيطان الشرير.
+      </Language>
+   </Text>
+   
+   <Text> 
+      <Language id="English">
+         May He keep the rest of the brethren who attended with us, with His protective right hand, all the days of their lives and fill their homes and keep away from them the temptations of the enemy and grant them heavenly joy free from trouble.
+      </Language>
+      <Language id="Arabic">
+         ويحفظ كافة الإخوة الحاضرين معنا بيمينه الحصين كل أيام حياتهم. ويعمر منازلهم. ويكفيهم تجارب العدو. ويعطيهم الفرح السمائي الذي لا يشوبه كدر.
+      </Language>
+   </Text>
+   
+   <Text> 
+      <Language id="English">
+         Through the intercession of the Lady of us all and the pride of our race the Lady the pure Virgin, the honored Mother of Salvation who is preferred over all mankind, the pure St. Mary and the honored, chosen martyr, Saint Mark the Evangelist and apostle, and all the righteous martyrs and holy saints. Amen.
+      </Language>
+      <Language id="Arabic">
+         بشفاعة سيدتنا كلنا وفخر جنسنا السيدة العذراء الطاهرة، والدة الخلاص الزكية، المفضلة على سائر جنس البشر، القديسة مريم النقية، والشهيد المكرم المختار مرقص الإنجيلي الرسول، وكافة الشهداء والأبرار والقديسين الأطهار. آمين.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/ThreeAbsolutions"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Group>   
+      <Season id="PentecostPeriod">
+         <InsertDocument path="include/AllYouHeavenlyOrders"/>
+         <InsertDocument path="include/HymnOfTheResurrection"/>
+      </Season>
+      
+      <Season id="Other">
+         <Section expanded="true">
+            <Title>         
+               <Language id="Coptic">&lt;ere Maria</Language>               
+            </Title>
+            
+            <InsertDocument path="include/ShereMaria"/>
+         </Section>
+      </Season>
+   </Group>
+</Document>

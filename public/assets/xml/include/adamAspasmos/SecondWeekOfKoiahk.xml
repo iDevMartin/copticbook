@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="SecondWeekOfKoiahk">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">N~yok on...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the second week of the month of Koiahk:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               N~yok on akhwl: sa y/eyouab Maria: akhisennoufi nac: m~v~rasi m~pikocmoc.
+            </Language>
+            <Language id="English">
+               You also flew to Saint Mary, and announced to her glad tidings of the joy of the world.
+            </Language>
+            <Language id="Arabic">
+               انت أيضاً طرت الي القديسة مريم وبشرتها بفرح العالم
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh akws e~bol e~roc qen ouc~m/ n~yel/l: je ,ere y/e/meh n~h~mot ouoh P[oic sop neme.
+            </Language>
+            <Language id="English">
+               And You cried out to her, with a voice of joy, saying: “Hail, O full of grace, the Lord is with you.”
+            </Language>
+            <Language id="Arabic">
+               وصرخت اليها قائلا السلام لك يا ممتلئة نعمة الرب معك.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

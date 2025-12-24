@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Matins="true" RaisingOfIncense="true" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday (The First Hour)</Language>
+         <Language id="Arabic">خميس العهد (الساعة الاولى)</Language>
+         <Language id="Coptic">Piehoou m~Ptiou n~nis] (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 17:8-16</Language>
+               <Language id="Arabic">خروج 17: 8-16</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Afi~ de n~je pia~mal/k ouoh afbwtc e~pI~cra/l qen Ravazin:
+               </Language>
+               <Language id="English">
+                  Now Amalek came and fought with Israel in Rephidim.
+               </Language>
+               <Language id="Arabic">
+                  وأتى عماليق وحارب اسرائيل فى رافازين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pe je Mwu~c/c de n~I/cou: je cwtp nak n~hanrwmi masenak] nem piA~mal/k n~rac]:
+               </Language>
+               <Language id="English">
+                  So Moses said to Joshua, "Choose for yourself some mighty men and go out, and set the army in array against Amalek.
+               </Language>
+               <Language id="Arabic">
+                  فقال موسى ليشوع: اختر لك رجالاً وأخرج حارب عماليق غداً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~nok h/ppe ]o~hie~rat hijen t~a~ve m~pitwou: ouh pisbwt n~te Vnou] f~,/ qen tajij. 
+               </Language>
+               <Language id="English">
+                  Tomorrow I will stand on the top of the hill with the rod of God in my hand."
+               </Language>
+               <Language id="Arabic">
+                  وهوذا أنا أقف على رأس الجبل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afiri n~jeI/cou kata v~r/] e~tafjoc n~je Mwu~c/c: Afse naf af] nem piA~mal/k:
+               </Language>
+               <Language id="English">
+                  So Joshua did as Moses said to him and set the army in array against Amalek.
+               </Language>
+               <Language id="Arabic">
+                  وعصا الله فى يدى. ففعل يشوع كما قال له موسى. وخرج فحارب عماليق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Mwu~c/c nem A~a~rwn nem Wr: auseawou e~p~swi e~jen t~a~ve m~pitwou: 
+               </Language>
+               <Language id="English">
+                  Then Moses, Aaron, and Hur went up to the top of the hill.
+               </Language>
+               <Language id="Arabic">
+                  وصعد موسى وهرون وحور على قمة الجبل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acswpia~ersan Mwu~c/c fai n~nefjij e~p~swi afjemnom] n~je p~Icra/l e~swp de afsan,wn~nefjij e~q~r/i: safjemnom] n~je piAmal/k.
+               </Language>
+               <Language id="English">
+                  And so it was, when Moses held up his hands, that Israel prevailed; but when he let down his hands, Amalek prevailed.
+               </Language>
+               <Language id="Arabic">
+                  فكان إذا رفع موسى يديه يغلب بنو اسرائيل، وإذا خفض يديه يغلب عماليق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nenjij de m~Mwu~c/c ne auh~ros pe:ouoh au[i n~ouw~ni au,af qarof afhemci hijwf:
+               </Language>
+               <Language id="English">
+                  Now Moses' hands became heavy; so they took a stone and put it under him, and he sat on it.
+               </Language>
+               <Language id="Arabic">
+                  فلما كلت يدا موسى أخذا حجراً ووضعاه تحته وجلس عليه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Aa~rwn nem Wr nau tajron~nefjij ouai cam~nai nem ouai cam~nai: ouoh auswpi n~je nenjij m~Mwu~c/c eutajr/out sate v~r/hwtp:
+               </Language>
+               <Language id="English">
+                  Then Aaron and Hur supported his hands, one on one side, and one on the other; and his hands were steady until the going down of the sun.
+               </Language>
+               <Language id="Arabic">
+                  ودعم هرون وحور يديه، أحدهما من هنا والآخر من هناك. فكانت يدا موسى ثابتتين إلى غروب الشمس
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~I/cou qwteb m~piA~mal/k qen ouqwteb n~t~c/fnem pefm/s t/rf.
+               </Language>
+               <Language id="English">
+                  So Joshua defeated, Amalek and his people with the edge of the sword.
+               </Language>
+               <Language id="Arabic">
+                  فقتل يشوع عماليق وكل جمعه قتلا بحد السيف.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic m~Mwu~c/c: je c~c~qe vai hioujwm e~v~meui e~rof ouohm/if e~q~r/i e~nenjij n~I/cou: je qen oufw] ]nafw] m~v~meui~ m~piA~mal/k ebol capec/t n~t~ve. 
+               </Language>
+               <Language id="English">
+                  Then the Lord said to Moses, "Write this for a memorial in a book and recount it in the hearing of Joshua, that I will utterly blot out the remembrance of Amalek from under heaven."
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لموسى أكتب هذا فى سفر للذكرى وسلمه ليدىّ يشوع لأنى سأمحو ذكرى عماليق محوا من تحت السماء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afkwt n~je Mwu~c/c n~ouman~erswousi: af]ren pefran je P[oic pepaman~vwt: Je qen oujij ech/p P[oic na]oube piAmal/k icjen jwou sajwou.
+               </Language>
+               <Language id="English">
+                  Now Moses built an altar and called its name The-Lord-My-Refuge; for with a secret hand the Lord wars with Amalek from generation to generation.
+               </Language>
+               <Language id="Arabic">
+                  فبنى موسى مذبحاً ودعا اسمه الرب ملجأى. لأنه بيد خفية يحارب الرب عماليق من جيل إلى جيل
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الساعة الاولى، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <InsertDocument path="raisingOfIncense/include/Header"/>
+      <InsertDocument path="raisingOfIncense/include/Intro"/>
+      <InsertDocument path="raisingOfIncense/include/Body"/>
+      <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 54:21,12</Language>
+               <Language id="Arabic">مزمور 54: 21 ,12</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  The Psalm <span class="Coptic">Au[~non</span> is chanted in the Syrian “Shammy” tune of <span class="Coptic">Peky~ronoc</span>:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Au[~non n~je nefcaji e~hote ouneh: (All/louia.) Nywou hancoynef ne: 
+               </Language>
+               <Language id="English">
+                  His words were softened above oil, (Alleluia.) And they are arrows.
+               </Language>
+               <Language id="Arabic">
+                  كلامه ألين من الدهن )الليلويا). وهو نصال. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je e~ne oujaji pe taf]sws n/i nai nafai e~rof pe: ouoh e~ne peymoc] m~moi afjw n~hannis] n~caji e~h~r/I e~jwi nai na,opt e~bol harof: All/louia.
+               </Language>
+               <Language id="English">
+                  For if an enemy reviled me, I would have endured it; And if one hating me boasted against me, I would have hidden from him: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  فلوكان العدو عيرنى إذا لاحتملت. ولو ان مبغضى عظّم علىّ الكلام لاختفيت منه. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:7-13</Language>
+            <Language id="Arabic">لوقا 22: 7-13</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Afi~ de n~je pie~hoou n~te vniatsem/r v/e~te c~se e~sat m~pipac,a n~q/tf. 
+               </Language>
+               <Language id="English">
+                  Then came the Day of Unleavened Bread, when the Passover must be killed.
+               </Language>
+               <Language id="Arabic">
+                  جاء يوم الفطير الذى ينبغى أن يُذبح فيه الفصح. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afouwrp m~Petroc nem Iwann/c e~afjoc: je masenwten cebte pipac,a nan hinan~tenouomf. 
+               </Language>
+               <Language id="English">
+                  And He sent Peter and John, saying, “Go and prepare the Passover for us, that we may eat.”
+               </Language>
+               <Language id="Arabic">
+                  فأرسل بطرس ويوحنا قائلاً: أمضيا وأعدا لنا الفصح لنأكله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de pejwou naf je ,~ouws n~tencebtwtf ywn.
+               </Language>
+               <Language id="English">
+                  So they said to Him, “Where do You want us to prepare?”
+               </Language>
+               <Language id="Arabic">
+                  فقالا له: أين تريد أن نعده.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejafnwou: je h/ppe e~reten nasenwten e~qoun e~]baki: f~nai~ e~bol e~h~ren y/nou n~jeourwmi effai n~ousosou m~mwou: mosi n~cwf e~p/i: e~tefnase eqoun e~rof.
+               </Language>
+               <Language id="English">
+                  And He said to them, “Behold, when you have entered the city, a man will meet you carrying a pitcher of water; follow him into the house which he enters.
+               </Language>
+               <Language id="Arabic">
+                  فقال لهما: إذا دخلتما المدينة يلقاكما رجل حامل جرة ماء، فاتبعاه إلى البيت الذى يدخله
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~joc mpineb/i n~te pi/i: je peje piref]c~bw nak je aspe pama n~emton: v~ma e~]naouwmm~papac,a m~mof nem namay/t/c. 
+               </Language>
+               <Language id="English">
+                  Then you shall say to the master of the house, ‘The Teacher says to you, “Where is the guest room where I may eat the Passover with My disciples?’”
+               </Language>
+               <Language id="Arabic">
+                  وقولا لرب البيت المعلم يقول لكَ أين موضع راحتى الذى آكل فيه الفصح مع تلاميذى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/e~te m~mau f~natamwten eounis] m~maefcap~swi efvwrs: cebtwt m~mau.
+               </Language>
+               <Language id="English">
+                  Then he will show you a large, furnished upper room; there make ready.”
+               </Language>
+               <Language id="Arabic">
+                  فهو يريكما عليه كبيرة مفروشة فاعدا هناك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etausenwou de aujimi kata v~r/] e~tafjocnwou: ouoh aucebte pipac,a.
+               </Language>
+               <Language id="English">
+                  So they went and found it just as He had said to them, and they prepared the Passover.
+               </Language>
+               <Language id="Arabic">
+                  فانطلقا ووجدا كما قال لهما. فاعدا الفصح.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى، من يوم الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Passover is drawing near O Lord. We have found the place to celebrate it in. You are our Passover. 
+               </Language>
+               <Language id="Arabic">
+                  يوم الفصح قد اقترب يا سيدنا. عرفنا المكان الذى فيه نعده لك. هكذا قال التلاميذ للمعلم. أنت هو فصحنا يا يسوع المسيح. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He sent two of his disciples Peter and John—and he told them; go to this town and you will find a man carrying a jar of water. 
+               </Language>
+               <Language id="Arabic">
+                  فأرسل اثنين من تلاميذه، الصفا ويوحنا، وقال لهما: قوما وامضيا إلى هذه المدينة فتجدان رجلاً حاملاً جرة ماء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Follow his footsteps to the place where he goes in.
+               </Language>
+               <Language id="Arabic">
+                  إذا مشى، سيرا أنتما خلفه إلى الموضع الذى يدخل إليه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Go see the owner of the house and tell him, the Lord says, "where is the place where I celebrate passover.
+               </Language>
+               <Language id="Arabic">
+                  وقولا لصاحب البيت: يقول المعلم أين المكان الذى أكمل فيه الفصح؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He will show you an upper room which is vacant but furnished. Make preparation for Passover there. They did as the Lord said.
+               </Language>
+               <Language id="Arabic">
+                  فذلك يريكما عليه علوية خالية مفروشة. أعدا الفصح فى ذلك الموضع. وهكذا صنعا كقول الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Come along all you nations and rejoice, God the Word is our Passover. The First Passover lamb delivered the people from the servitude of Pharoah. 
+               </Language>
+               <Language id="Arabic">
+                  تعالوا أيها الأمم وأفرحوا وتهللوا، لأن الإله الكلمة صار لكم فصحاً. الفصح الأول الذى بالخروف خلص الشعوب من عبودية فرعون 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The new Passover is the Son of God who saves the World from corruption. In so many forms he prepared the world—from the east to the west—for eternal salvation.
+               </Language>
+               <Language id="Arabic">
+                  والفصح الجديد هو إبن الله الذى خلص العالم من الفساد. وبأنواع كثيرة وطرق شتى أعد الخلاص والنجاة الأبدية، لكن هذا الخلاص هو لكل العالم من مشارق الشمس إلى مغاربها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He lifted us to the heights of his mercy and compassion. He manifested the greatness of His grace that He bestowed on all the creation.
+               </Language>
+               <Language id="Arabic">
+                  جذب كل أحد إلى علو رحمته ورأفته التى كان يصنعها. وأظهر لهم كثرة نعمته التى أفاضها على كل موضع من المسكونة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He carried our load and granted us His righteousness.
+               </Language>
+               <Language id="Arabic">
+                  أخذ الذى لنا وأعطانا الذى له، وتفضل علينا بصلاحه.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+      
+      <Comment>
+         <Language id="English">
+            The Gospel of St. Luke is read in its entirety.
+         </Language>
+      </Comment>
+   </ForceSeason>
+</Document>

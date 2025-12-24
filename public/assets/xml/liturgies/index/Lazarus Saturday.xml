@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="LazarusSaturday ^ WatosDays ^ Saturdays">
+      <Title>
+         <Language id="English">Lazarus Saturday</Language>
+         <Language id="Arabic">سبت لعازر</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <ForceSeason id="MidnightPraises">
+         <InsertDocument path="include/psalies/OccasionPsalies"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Offering of Morning Incense</Language>
+         <Language id="Arabic">رفع بخور باكر</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins">
+         <InsertDocument path="include/versesofthecymbals/Index"/>
+         <InsertDocument path="include/doxologies/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <ForceSeason id="Other">
+            <InsertDocument path="include/PostProcessionOfTheLambIntro"/>
+            <InsertDocument path="include/hiten/Index"/>
+            <InsertDocument path="include/praxisResponse/Index"/>
+         </ForceSeason>
+         
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/adamAspasmos/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/distribution/Index"/>
+      </ForceSeason>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/praises/koiahk/HymnAfterPraiseOfThreeYouth"/>
+      <InsertDocument path="include/praises/nativityparamoun/expositions/ThirdHoos"/>
+      <InsertDocument path="include/praises/nativity/expositions/ThirdHoos"/>
+      <InsertDocument path="include/praises/theophany/expositions/ThirdHoos"/>
+   </Group>
+</Document>

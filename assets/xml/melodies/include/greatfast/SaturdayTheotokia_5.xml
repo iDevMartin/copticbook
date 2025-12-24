@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Fifth Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة الخامسـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Jesus was walking on the road / 
+               Dust son of dust called to Him from the crowd / 
+               Saying, “Have mercy on me, O Son of God / 
+               O God of mercy and compassion!”
+            </Language>
+            <Language id="Arabic">
+               يسوع ماشياً فى الطريق فوافاه / 
+               طيما إبن طيما فى الزحمة / 
+               فصاح إرحمنى يا إبن الله / 
+               يا إله الرأفة والرحمة
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He spat on the ground with His mouth / 
+               And anointed the eyes of that blind man / 
+               Immediately his eyes were opened / 
+               He saw light after the darkness
+            </Language>
+            <Language id="Arabic">
+               فتفل على الأرض من فاه / 
+               وطلى به عينى ذلك الأعمى / 
+               وللوقت إنفتحت عيناه / 
+               وأبصر النور بعد الظلمة
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Many miracles by our Master were done / 
+               As the bleeding woman whose flow He stopped / 
+               She was purified by touching His garment / 
+               He accepted the sinful woman in Simon’s house
+            </Language>
+            <Language id="Arabic">
+               كم عجائب لسيدنا ظهرت / 
+               والنازفة منع عنها الجرايان / 
+               وبلمس ثيابه قد طهرت / 
+               والخاطية قبلها فى بيت سمعان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Through His power He turned water / 
+               Into good wine at the wedding / 
+               His true faith was confirmed / 
+               And spread throughout all the land
+            </Language>
+            <Language id="Arabic">
+               والمياه من هيبته إنقلبت / 
+               خمراً طيب وسط الأدنان / 
+               والأمانة الصحيحة به ثبتت / 
+               وإنتشرت فى كل البلدان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               By His death, He loosened the bound / 
+               And shone His light on them in the darkness / 
+               He saved all the captives / 
+               From the shame of their father Adam
+            </Language>
+            <Language id="Arabic">
+               بموته حل الموثوقين / 
+               وأشرق فى الظلمة عليهم / 
+               وخلص كل المسبيين / 
+               مـن زلـة آدم أبيهـم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

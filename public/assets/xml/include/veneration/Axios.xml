@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         A verse for the male saint is chanted:       
+      </Language>
+   </Comment> 
+   
+   <Text>
+      <Language id="Coptic">
+         Axioc axioc axioc...
+      </Language>
+      <Language id="English">
+         Worthy, worthy, worthy…
+      </Language>
+      <Language id="Arabic">
+         مستحق مستحق مستحق...
+      </Language>         
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         A verse for the female saint is chanted:       
+      </Language>
+   </Comment> 
+   
+   <Text>
+      <Language id="Coptic">
+         Axia  axia axia...
+      </Language>
+      <Language id="English">
+         Worthy, worthy, worthy…
+      </Language>
+      <Language id="Arabic">
+         مستحقة مستحقة مستحقة...
+      </Language>         
+   </Text>
+</Document>

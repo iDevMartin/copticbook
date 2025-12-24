@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>         
+      <Season id="NativityParamoun">
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Je f~c~marwout</span> is chanted in the hymn of <span class="Coptic">Icyermegi</span>:     
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="KoiahkSeason">
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Je f~c~marwout</span> is chanted in its great Koiahk tune:     
+            </Language>
+         </Comment>            
+      </Season>
+      
+      <Season id="!Feasts ^ ((JonahFast | (GreatFast ^ Weekdays)) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast))">
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Je f~c~marwout</span> is chanted in the Great Fast tune followed by <span class="Coptic">Pimairwmi</span>.     
+            </Language>
+         </Comment>            
+      </Season>               
+   </Group>
+   
+   <InsertDocument path="include/Jefcmarwout"/>
+</Document>

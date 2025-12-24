@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <InsertDocument path="include/litanies/AssembliesDeacon"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Group>
+         <Season id="Liturgy">
+            <Comment>
+               <Language id="English">
+                  The priest takes the censer.
+               </Language>
+               <Language id="Arabic">
+                  يأخذ الكاهن المجمرة.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            M/ic eyrouswpi nan n~aterkwlin n~attahno: eyrenaitou kata pekouws eyouab ouoh m~makarion.
+         </Language>            
+         <Language id="English">
+            Grant that they may be to us without obstacle or hindrance, that we may hold them according to Your holy and blessed will:
+         </Language>
+         <Language id="Arabic">
+            أعطِ أن تكون لنا بغير مانعٍ ولا عائقٍ، لنصنَعها كمشيئتِكَ المقدسةِ الطوباويةِ.
+         </Language>
+      </Text>
+      
+      <Group>
+         <Season id="Liturgy">
+            <Comment>
+               <Language id="English">
+                  The priest stretches forth his hand with the censer over the altar toward the four corners, first to the east, then the west, the north, and the south, while saying:
+               </Language>
+               <Language id="Arabic">
+                  يمد الكاهن يده بالمجمرة فوق المذبح إلى الجهات الأربع بمثال الصليب أي إلى الشرقِ ثم الغرب ثم الشمال ثم الجنوب وهو يقول:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            han/i n~eu,/: han/i n~toubo: han/i n~c~mou: a~ri,arizecye m~mwou nan P[oic nem neke~biaik eyn/ou menencwn sa e~neh.
+         </Language>            
+         <Language id="English">
+            houses of prayer, houses of purity, houses of blessing. Grant them to us, O Lord, and to Your servants who will come after us, forever.
+         </Language>
+         <Language id="Arabic">
+            بيوتَ صلاةٍ، بيوتَ طهارةٍ، بيوتَ بركةٍ، أنعم بها لنا ياربُّ، ولعبيدِك الآتينَ بعدَنا إلى الابد.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The following may be said.
+         </Language>
+         <Language id="Arabic">
+            هنا تقال هذه الأوشية أو تترك:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/TheWorshipOfIdols"/>
+      
+      <Text>
+         <Language id="Coptic">
+            P[oic a~ritou t/rou n~aprakton: ouoh jwr e~bol m~pouco[ni: Vnou] v/e~tafjwr e~bol m~p~co[ni n~A,itovel.
+         </Language>            
+         <Language id="English">
+            O Lord, bring them all to no avail. Disperse their counsel, O God, who dispersed the counsel of Ahithophel.
+         </Language>
+         <Language id="Arabic">
+            ياربُّ إجعلْهم كلَّهم كلا شيءٍ، وبدِّد مشورَتَهم يا الله الذي بدَّد مشورةَ أخيتوفل.
+         </Language>
+      </Text>            
+   </Role>
+
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest censes toward the East three times above the altar, saying:
+         </Language>
+         <Language id="Arabic">
+            ثم يرفع الكاهن يده ويبخر شرقاً فوق المذبح ثلاث مرات وهو يقول بقية أوشيه الاجتماعات وهي هذه:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/AriseOLordGod"/>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            The priest turns to the East and censes three times, saying inaudibly:
+         </Language>
+         <Language id="Arabic">
+            ثم يبخر شرقا ثلاث أياد وهو يقول سراً:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/SilentPriestConclusion"/>
+      
+      <Group>
+         <Season id="Unction | Baptism | Liturgy">
+            <Comment>
+               <Language id="English">
+                  At the words “Through whom” (<span class="Coptic">Vai e~te</span>), the priest again censes three times toward the East, then gives the censer to the deacon.
+               </Language>
+               <Language id="Arabic">
+                  وعند ما يقول  <span class="Coptic">Vai e~te</span> يعطي البخور إلى الشرقِ ثلاث مرات. ثم يعطي المجمرة للشماس.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+   </Role> 
+</Document>

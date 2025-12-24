@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Feasts ^ !SecondProstration ^ !ThirdProstration">
+         <InsertDocument path="include/FaiErePeoo"/>  
+         
+         <Group>
+            <Season id="DisplayNonCustomaryPrayers">
+               <InsertDocument path="include/Jefcmarwout"/>
+            </Season>
+         </Group>
+      </Season>
+      
+      <Season id="Other">     
+         <InsertDocument path="include/gospelResponse/saints/StMaryStandard"/>
+         <InsertDocument path="include/gospelResponse/saints/Saints"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Season>
+   </Group>
+</Document>

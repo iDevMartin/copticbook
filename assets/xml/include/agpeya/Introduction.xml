@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Introduction of Every Hour</Language>
+      <Language id="Arabic">مقدمة كل ساعة</Language>
+   </Title>
+    
+   <InsertDocument path="include/KhenEfranAmen"/>
+         
+   <Text>
+      <Language id="English">
+         <span class="Coptic">Kurie e~le/~con.</span> Lord have mercy, Lord have mercy, Lord bless us. Amen.
+      </Language>
+      <Language id="Arabic">
+         يا رب ارحم. يا رب ارحم. يا رب بارك. آمين.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/agpeya/GloryBeToTheFather"/>
+         
+   <InsertDocument path="include/LordsPrayer"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">The Prayer of Thanksgiving</Language>
+         <Language id="Arabic">صلاة الشكر</Language>
+      </Title>
+      
+      <InsertDocument path="include/ThanksgivingPrayer.Priest.1"/>
+      <InsertDocument path="include/ThanksgivingPrayer.Priest.2"/>
+      <InsertDocument path="include/ThanksgivingPrayer.Priest.3"/>
+      <InsertDocument path="include/ThanksgivingPrayer.Priest.4"/>
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/psalms/50"/>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!JoyousSaturday ^ !CovenantThursday ^ !PentecostPeriod">      
+         <LinkDocument path="veneration/Veneration">
+            <Language id="English">
+               Veneration
+            </Language>
+            <Language id="Arabic">
+               تمجيد
+            </Language>
+         </LinkDocument>   
+      </Season>
+   </Group>
+</Document>

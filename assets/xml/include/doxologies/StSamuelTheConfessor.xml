@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StSamuelTheConfessor:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Samuel the Confessor</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس أنبا صموئيل المعترف</Language>
+            <Language id="Coptic">&lt;ere peniwt...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Samuel the Confessor:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Camou/l: pinis] qen nia~gioc: v/e~tafi~ri n~hannis] n~are~t/: qen p~twou n~te Sih/t.
+            </Language>
+            <Language id="English">
+               Hail to Abba Samuel, the great among the saints, who has gained great virtues, in the mountain of Shiheet.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا صموئيل العظيم فى القديسين الذى صنع فضائل عظيمة فى جبل شيهات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Camou/l: v/e~tafvwq m~p~tomoc n~Lewn: ouoh aftajro n~nefc~n/ou: qen pinah] n~oryodoxoc.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Samuel, who tore the Tome of Leo, he confirmed his brothers, in the Orthodox faith.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا صموئيل الذى مزق طومس لاوون وثبت اخوته فى الايمان الأرثوذكسى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai af[oji n~cwf: n~je Makic Atria~noc pia~ceb/c: ouoh afi~ ha p~twou n~Kalamon: nem f~tou n~cwtp m~mona,oc.
+            </Language>
+            <Language id="English">
+               Wherefore the impious one, Macius Atrianus sought him, he sent him to the mountain of Qualamon, with four chosen monks.
+            </Language>
+            <Language id="Arabic">
+               لأجل هذا طارده ماكيس اتريانوس المنافق فأتى الى جبل القلمون مع أربعة رهبان مختارين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Abba Camou/l pio~mologit/c: n~yof aferhupomonin: e~jen niqici n~te pidiwgmoc: nem ]e,malwcia~ n~te nibarbaroc.
+            </Language>
+            <Language id="English">
+               Abba Samuel the confessor, was very patient, through the pains of the sufferings, and the captivity of Barbarians.
+            </Language>
+            <Language id="Arabic">
+               أنبا صموئيل المعترف قد صبر على أتعاب الاضطهاد وسبى البربر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Camou/l: v/e~tafi~ri n~hanm/ini nem hans~v/ri: ouoh aftal[o n~n/etswni: qen pimonact/rion nem y~baki n~nibarbaroc.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Samuel, who performed wonders and signs, he healed the sick, in the monastery and the city of the Barbarians.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا صموئيل الذى صنع آيات وعجائب وشفى المرضى فى الدير ومدينة البربر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Camou/l: V/e~tafswpi n~iwt n~na/t: nem ouref]c~bw n~a~gayoc: n~nefs/ri m~mona,oc.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Samuel, who became a merciful father, and a good teacher, for his children the monks.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا صموئيل الذى صار أبا رحوما ومعلما صالحا لأبنائه الرهبان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Camou/l: v/e~tafernis] e~masw: qen t~ve nem hijen pikahi: qaten V] nem nirwmi.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Samuel, who became exceedingly great, in heaven and on earth, before God and men.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا صموئيل الذى صار عظيما جدا فى السماء وعلى الأرض عند الله والناس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StSamuelTheConfessor"/>
+      </Section>
+   </Season>
+</Document>

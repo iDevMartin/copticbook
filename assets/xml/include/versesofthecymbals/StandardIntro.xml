@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+       
+   <InsertDocument path="include/versesofthecymbals/StandardIntroComment"/>
+   
+   <Group>      
+      <Season id="!ThirdProstration ^ (ChurchConsecration | AdamDays | SecondProstration)">
+         <InsertDocument path="include/versesofthecymbals/Amoini"/>         
+      </Season>
+      
+      <Season id="WatosDays | ThirdProstration">
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~V~iwt nem Ps/ri: nem Pip~neuma e#y#u#: }triac ey#u#: n~omooucioc.
+            </Language>
+            <Language id="English">
+               We worship the Father and the Son, and the Holy Spirit, The Holy and Co-essential, Trinity.
+            </Language>
+            <Language id="Arabic">
+               نسجد للاب والابن والروح القدس الثالوث المقدس المساوي في الجوهر.
+            </Language>
+         </Text>   
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/versesofthecymbals/StandardIntroConclusionNoComment"/>
+</Document>

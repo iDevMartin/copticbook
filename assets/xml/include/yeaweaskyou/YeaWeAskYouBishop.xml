@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Yea, we ask You...</Language>
+         <Language id="Arabic">نعم نسألُكَ...</Language>
+         <Language id="Coptic">Ce ten]ho e~rok...</Language>
+      </Title>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.1"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.2"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.3"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.4"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.5"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.6"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.7"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.8"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.9"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.10"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/yeaweaskyou/YeaWeAskYou.11"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+</Document>
+      

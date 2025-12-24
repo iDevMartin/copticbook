@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">      
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per t/c teliac i~r/n/c ke a~gap/c ke twn a~giwn acpacmwn twn a~poctolwn.
+         </Language>
+         <Language id="English">
+            Pray for perfect peace, love, and the holy apostolic greetings.
+         </Language>
+         <Language id="Arabic">
+            صلوا من أجل السلامة الكاملة والمحبة، والقبلة الطاهرة الرسولية.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

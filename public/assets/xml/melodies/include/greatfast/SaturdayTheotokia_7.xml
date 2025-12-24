@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Seventh Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة السابعـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Love your enemies, forgive your brethren / 
+               To become children of the most high God / 
+               Bless those who curse you / 
+               As He said in the Gospel
+            </Language>
+            <Language id="Arabic">
+               حبوا الأعداء وسامحوا إخوتكم / 
+               لتصيروا بنين لله المتعال / 
+               وباركوا على من يشتمكم / 
+               كما قال فى الإنجيل بكمال
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Do not resist those who cast you out / 
+               Because the end of evil is murder / 
+               Do not let anything distract you / 
+               From the kingdom of the most high glory
+            </Language>
+            <Language id="Arabic">
+               لا تقاوموا من يطردكم / 
+               لأن الشر آخره قتال / 
+               ولا تدعوا شيئاً يشغلكم / 
+               عن مُلك نعيم المجد المتعال
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Whoever does good works will find it / 
+               On Resurrection Day in heaven / 
+               Woe to him who does evil works / 
+               He will always suffer from punishment
+            </Language>
+            <Language id="Arabic">
+               من يعمل خيراً يلقاه / 
+               يوم القيامة فى السموات / 
+               ومن يعمل شراً يا شقاه / 
+               دائماً يقاسى فى عقوبات
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Fear your God and keep His commandments / 
+               He will save you from evil / 
+               He who puts death before his eyes / 
+               All things will be dispensable for him
+            </Language>
+            <Language id="Arabic">
+               خف إلهك وإعمل وصاياه / 
+               وهو ينجيك من الآفات / 
+               ومن نصب الموت بين عيناه / 
+               هانت عليه كل الأشياء
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Visit your imprisoned brethren / 
+               Treat them with gentleness / 
+               Be a supporter in their calamities / 
+               As members of the body help each other
+            </Language>
+            <Language id="Arabic">
+               إفتقدوا إخوتكم المحبوسين / 
+               وحنوا بالشفقة عليهم / 
+               فى المصائب كونوا لهم مشاركين / 
+               فإن الأعضاء تساعد بعضهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

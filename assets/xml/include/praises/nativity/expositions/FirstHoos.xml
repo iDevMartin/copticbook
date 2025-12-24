@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Nativity">
+      <Section expanded="true"> 
+         <Title>
+            <Language id="English">Adam Exposition For the First Hoos</Language>
+            <Language id="Arabic">طرح آدام على الهوس الأول</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Maria~ ]Paryenoc: nem Iwc/v nau,/: qen piman~jwili: m~v~r/] n~hansemmwou.
+            </Language>
+            <Language id="English">
+               The virgin Mary / was with Joseph / in a foreign place / like strangers /
+            </Language>
+            <Language id="Arabic">
+               كانت مريم العذراء مع يوسف في موضع الملجأ مثل الغرباء.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Acmici m~pecS/ri: pisorp m~mici pe: acs~tof qen ouonhf: n~te nitebnwoui~.
+            </Language>
+            <Language id="English">
+               And she gave birth / to her first born / and laid him down / in the animals' manger.
+            </Language>
+            <Language id="Arabic">
+               ولدت ابنها البكر وأضجعته في مذود البهائم.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               The shepherds were awake at night watching their flock, when light from the heavens shone on them. They were enlightened with the light of God and marveled at it's brightness and how it came upon them and they spoke to each other saying: This light that is shining upon us is a mystery and immediately appeared to them a great miracle; the angel of the Lord talked to them and told them that the Messiah is born for you today in Bethlehem; and this is a sign for you, you will find a babe wrapped in worn rags and laid in a manger. Rejoice and be exceedingly glad O shepherds for this great mystery that was revealed to you. So they arose and went to Bethlehem and found our Savior and worshiped Him. Let us praise with the angels saying "Glory to God in the highest, peace on earth and goodwill toward men" to Him be the glory forever, Amen, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               وكان رعاة ساهرين في الليل على قطيع الخراف: أشرق عليهم نور من السموات. وأضاء عليهم مجد الله فتعجب الرعاة من أجل النور العظيم الذي أشرف عليهم وتكلم بعضهم مع بعض وقالوا: ان في هذا النور الذي أشرف عليها لسراً. وظهرت أعجوبة عظيمة للرعاة في تلك الليلة. وتكلم معهم ملاك الرب أن قد ولد المسيح لكم اليوم في بيت لحم: وهذه علامة لكم أنكم تجدون طفلاً ملفوفاً في خرق بالية وموضوعاً في مذود. أفرحوا وأجزلوا يا أيها الرعاة على هذا السر الذي ظهر لكم: فقاموا ومضوا إلى بيت لحم فوجدوا مخلصنا وسجدوا له فلنسبحه مع الملائكة قائلين. المجد لله في الأعالي وعلى الأرض السلام وفي الناس المسرة له المجد إلى الأبد آمين، الليلويا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

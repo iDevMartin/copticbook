@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/StartOfService"/>
+   
+   <Role id="Priest" silent="true">
+      <Group>
+         <Season id="!LiturgyOfTheWaters">
+            <Comment>
+               <Language id="English">
+                  After this, the priest prostrates himself before the sanctuary door, saying:
+               </Language>
+               <Language id="Arabic">
+                  وبعد ذلك يسجد الكاهن أمـام باب الهيكل ويقول:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      
+      <Comment>
+         <Language id="English">
+            Then he prostrates before his fellow priests and the deacons, saying:
+         </Language>
+         <Language id="Arabic">
+            ثم يضرب مطانية نحو إخوته الكهنة ومطانية لناحية الشمامسـة، وهو يقول:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/BlessMeLo"/>
+      
+      <Comment>
+         <Language id="English">
+            The priest greets his fellow priests by touching their hands, then he returns and stands before the sanctuary door with contrition while spreading forth his hands. The deacon stands behind him and to his right while he holds the cross in his hand.
+         </Language>
+         <Language id="Arabic">
+            ثم يصافح إخوته الكهنة. ويعود فيقف أمام باب الهيكل بخشوع ويبسط يديه. وخلفه الشماس عن يمينه ممسكاً الصليب في يده.
+         </Language>
+      </Comment>      
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+      
+   <Group>
+      <Season id="(JonahFast | (GreatFast ^ Weekdays)) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast)">
+         <Role id="People">
+            <Comment>
+               <Language id="English">
+                  The hymn “<span class="Coptic">Kurie Ele/~con</span>” for the Great Fast is chanted instead of the verses of the cymbals.
+               </Language>
+            </Comment>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>  
+         
+         <Role id="People">   
+            <InsertDocument path="include/EyrenhwcSeasonalResponse"/>
+         </Role>  
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>         
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="ReceptionNewPriest">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The new priest descends from the sanctuary and the other priests approach him.  The new priest gives the incense to each priest who takes the censer, faces east, and directs the incense towards the altar, then turns and gives the incense to the new priest. This is repeated with each priest.
+               </Language>
+               <Language id="Arabic">
+                  يقبل الكاهن الجديد المذبح ويصعد معه الكهنة الي الهيكل ، يناوله كبير الكهنة المجمرة فيضع يد البخور الاولى ويشترك كل الكهنة في اليد الثانية ثم يكمل الخمس ايادي كالمعتاد ويدور حول المذبح. ثم يتقدم اليه الكهنه واحدا فواحد ويعطي لكل واحد منهم البخور فياخذ الكاهن منه المجمرة ويعطي البخور نحو الشرق وهكذا جميع الكهنه. ثم يدخل الجميع الهيكل.
+               </Language>
+            </Comment>
+            
+            <Comment>
+               <Language id="English">
+                  The new priest prays the Litany of the Departed, then he enters the sanctuary with his right foot and raises the incense once and circles the altar.  He then gives the incense to each of the other priests, before descending into the church nave and rounding the whole church offering incense with two priests or deacons carrying candles before him.
+               </Language>
+               <Language id="Arabic">
+                  يصلي الكاهن الجديد أوشية الراقدين وفي نهايتها يصعد الي الهيكل ليكمل دورة البخور كالمعتاد وامامه شماسان يحملان الشموع.
+               </Language>
+            </Comment>
+          
+            <Comment>
+               <Language id="English">
+                  During this time the deacons recite the usual doxologies beginning with “Graciously accord, O Lord...” while adding the doxology for the twenty-four priests.
+               </Language>
+               <Language id="Arabic">
+                  في هذه الاثناء يرتل الشمامسة الذكصولوجيات مع الجزء الخاص بال 24 قسيسا.
+               </Language>
+            </Comment>
+         </Role>
+      </Season>
+   </Group>
+</Document>

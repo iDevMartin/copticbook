@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(Crowning | FuneralPrayer | RaisingOfIncense) ^ NativityPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>    
+            <Language id="Arabic">مرد الإنجيل</Language>        
+            <Language id="Coptic">Je piatcarx af[icarx...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/gospelResponse/Nativity.1"/>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4). I/couc Pi,~rictoc p~s/ri m~V]: v/e~taumacf qen B/yleem
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ the Son of God, who was born in Bethlehem. 
+            </Language>
+            <Language id="Arabic">
+               الليلويا(4) يسوع المسيح ابن الله الذي ولد في بيت لحم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+   
+   <Season id="Liturgy ^ NativityPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>  
+            <Language id="Arabic">مرد الإنجيل</Language>          
+            <Language id="Coptic">Ouciou afsai...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouciou afsai qen nimansai a~ nimagoc mosi n~cwf san~tefe~nou e~ B/yleem auouwst m~p~ouro n~nie~wn.
+            </Language>
+            <Language id="English">
+               A star shone in the East: and the wise men followed it: until it brought them to Bethlehem: where they worshipped the King of the ages
+            </Language>
+            <Language id="Arabic">
+               نجم أشرق في المشارق والمجوس تبعوه حتي أدخلهم بيت لحم وسجدوا لملك الدهور.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4). I/couc Pi,~rictoc p~s/ri m~V]: v/e~taumacf qen B/yleem
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ the Son of God, who was born in Bethlehem. 
+            </Language>
+            <Language id="Arabic">
+               الليلويا(4) يسوع المسيح ابن الله الذي ولد في بيت لحم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Alternate Gospel Response</Language>          
+            <Language id="Arabic">مرد الإنجيل</Language>  
+            <Language id="Coptic">Po#c# m~p~wo~u...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Another response to the Gospel may be chanted:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Po#c# m~p~wo~u aumou] e~rof n~o~S/ri: kata p~caji m~pete Iwann/c nau e~rof: piLogoc e~pie~w~nion af[icarx: Afi n~q~r/i n~q/ten ennau e~rof.
+            </Language>
+            <Language id="English">
+               The Lord of Glory was called a Son / according to the words of John before he saw him / the Eternal Logos took flesh / He dwelt in us and we saw Him
+            </Language>
+            <Language id="Arabic">
+               رب المجد دُعى ولدا:  كقول يوحنا قبل أن يراه:  الكلمة الازلى صار جسدا:  وحل فينا ورأيناه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4). I/couc Pi,~rictoc p~s/ri m~V]: v/e~taumacf qen B/yleem
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ the Son of God, who was born in Bethlehem. 
+            </Language>
+            <Language id="Arabic">
+               الليلويا(4) يسوع المسيح ابن الله الذي ولد في بيت لحم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>   
+         
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Eu,arict/cwmen tw Kuriw.
+      </Language>
+      <Language id="English">
+         Let us give thanks to the Lord.
+      </Language>
+      <Language id="Arabic">
+         فلنشكر الرب
+      </Language>         
+   </Text>
+</Document>

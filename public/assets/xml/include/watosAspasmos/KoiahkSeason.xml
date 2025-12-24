@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Gabri/l...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the month of Koiahk:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Gabri/l piaggeloc afhisennoufi n~]paryenoc: je ,ere y/eymeh n~h~mot: ouoh P[oic sop neme.
+            </Language>
+            <Language id="English">
+               Gabriel the angel announced glad tidings to the Virgin, saying, “Hail, O full of grace, the Lord is with you.”
+            </Language>
+            <Language id="Arabic">
+               غبريال الملاك بشر العذراء قائلا افرحي يا ممتلئة نعمة الرب معك
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               Teraerboki ouoh n~temici n~ous/ri: eue~mou] e~pefran je I/couc: acerouw n~je ]cabe: petehnak P[oic marefswpi
+            </Language>
+            <Language id="English">
+               You will conceive and give birth to a Son, His name shall be called Jesus,” so the wise (one) answered, “Your will Lord, let it be.”
+            </Language>
+            <Language id="Arabic">
+               ستحبلين وتلدين ابنا ويدعي اسمه يسوع. فأجابت الحكيمة لتكن مشيئتك يارب
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia All/louia All/louia Pimici ebol qen v~iwt qajwou n~nie~wn t/rou: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Who was born of the Father before all the ages, save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا المولود من الآب قبل كل الدهور خلصنا وارحمنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Second Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Piaggeloc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Another Watos Aspasmos for the month of Koiahk:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Piaggeloc eyouab Gabri/l: afhisennoufi n~]paryenoc: menenca piacpacmoc aftajro m~moc qen pefcaji
+            </Language>
+            <Language id="English">
+               The holy angel Gabriel announced glad tidings to the Virgin. Upon greeting her, he strenghthed her by his word.
+            </Language>
+            <Language id="Arabic">
+               الملاك المقدس غبريال بشر العذراء وبعد السلام قواها بقوله:
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               Je m~pererho] Mariam arejimi gar n~ouh~mot: qaten V] h/ppe gar teraerboki: ouoh n~temici n~ous/ri All/louia All/louia All/louia
+            </Language>
+            <Language id="English">
+               Saying, “Fear not Mary, for you found grace before God. For behold You will conceive and give birth to a Son.” Alleluia, Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               لا تخافي يا مريم لأنك قد وجدت نعمة عند الله، ها انت ستحبلين وتلدين إبناً : الليلويا الليلويا الليلويا
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc pimici ebol qen v~iwt qajwou n~nie~wn t/rou: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Christ, the begotten of the Father before all the ages, save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح المولود من الآب قبل كل الدهور خلصنا وارحمنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Ouoh Za,ariac...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               A Third Watos Aspasmos for the month of Koiahk:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Ouoh Za,ariac piou/b: n~yok akhisennoufi naf: qen p~jinmici m~pip~rodromoc: Iwann/c piref]wmc.
+            </Language>
+            <Language id="English">
+               You announced glad tidings to Zachariah the priest of the birth of the forerunner, John the Baptist.
+            </Language>
+            <Language id="Arabic">
+               وزكريا الكاهن، أنتَ بشرته بميلاد السابق، يوحنا المعمدان.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia All/louia All/louia Pimici ebol qen v~iwt qajwou n~nie~wn t/rou: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Who was born of the Father before all the ages, save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا المولود من الآب قبل كل الدهور خلصنا وارحمنا.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

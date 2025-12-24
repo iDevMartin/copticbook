@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StVerena:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Verena</Language>
+            <Language id="Arabic">ذوكصولوجية القديسة فيرينا</Language>
+            <Language id="Coptic">W~ounia] qen oumeym/i...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Verena:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               W~ounia] qen oumeym/i: w~ y/eyouab Bir/na ]paryenoc: ]selet n~te pi,~rictoc: Pipatselet m~m/i.
+            </Language>
+            <Language id="English">
+               Truly you are blessed, O the holy Verena the virgin, The bride of Christ, The pure bridegroom.
+            </Language>
+            <Language id="Arabic">
+               مباركة أنت بالحقيقة، القديسة فيرينا العذراء، عروس المسيح، العريس الطاهر.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je a~resws: mp~w~ou m~paikocmoc: Nem ]met[acih/t m~pibioc: aremenre pitoubo.
+            </Language>
+            <Language id="English">
+               For you despised, The whole glory of this world, And the pride of this life, And you loved the purity.
+            </Language>
+            <Language id="Arabic">
+               لأنكِ تركتى، كل أمجاد هذا العالم، و كل مباهج هذه الحياة، و أحببتى الطهارة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Acsosf m~p~catanac: Nem nefdemwn euhwou: Hiten tecnis] n~hupomon/: Qen pitoubo n~te tecparyenia.
+            </Language>
+            <Language id="English">
+               She embarrassed Satan, And his evil demons, Through her great endurance, In the purity of her virginity.
+            </Language>
+            <Language id="Arabic">
+               قد فضحت الشيطان، و كل جنوده الأشرار، بثباتها العظيم، فى الطهارة و العفّة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je ounis] pe qen  oumeym/i: Pe picwtp n~toubo : n~te y/eyouab Bir/na: ]selet n~te pi,~rictoc.
+            </Language>
+            <Language id="English">
+               For truly great , Is the chosen sanctity, Of Saint Verena, The bride of Christ.
+            </Language>
+            <Language id="Arabic">
+               لأنه هو عظيم، إختيار القداسة، للقديسة فيرينا، عروس المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Acjwk e~bol m~pecbioc: Qen pecnis] n~yebio: Acenkot nem n/eyouab: Qen t~,wra n~n/etonq.
+            </Language>
+            <Language id="English">
+               She completed her life, In her great humility, She reposed with the saints, In the land of the living.
+            </Language>
+            <Language id="Arabic">
+               أكملت حياتها، بتواضعها العظيم، و إستراحت مع القديسين، فى أرض الأحياء.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne w~]a~lou m~paryenoc: w~ panagia m~p~colcel: w~]selet ectoub/out: ]a~gia m~m/i Bir/na.
+            </Language>
+            <Language id="English">
+               Hail O the virgin maiden, The all-holy adornment, The pure bride, The true Saint Verena.
+            </Language>
+            <Language id="Arabic">
+               السلام للعذراء العفيفة، كليّة الزينة المقدسة، العروس الطاهرة، القديسة فيرينا الحقيقية.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne w~ ]a~gia: ,ere ne w~ y/ey~ouab: ,ere ne w~ ack/t/c: ]selet n~te v~n/b p~[oic.
+            </Language>
+            <Language id="English">
+               Hail to you O saint, Hail to you O pure one, Hail to you O the ascetic one, The bride of the Master.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيتها القديسة، السلام لك أيتها الطاهرة، السلام لك أيتها الناسكة، عروس السيد.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StVerena"/>
+      </Section>
+   </Season>
+</Document>

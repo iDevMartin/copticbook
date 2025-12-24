@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StStephen:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">&lt;ere nak...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Stephen:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak W~ piayl/t/c: n~te pen[oic I/couc Pi,~rictoc: V/eyouab Ctevanoc: ete pefouwhem pe pi,~lom:
+            </Language>
+            <Language id="English">
+               Hail to you O the Athlete: Of our Lord Jesus Christ: Saint “Stephen”: which is interpreted “The crown.”
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها المجاهد الذي لربنا يسوع المسيح القديس إسطفانوس الذي تفسيره الإكليل 
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

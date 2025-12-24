@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/synaxarionConclusion/Nativity"/>
+      <InsertDocument path="include/synaxarionConclusion/StJohnTheBaptistAndTheophany"/>
+      <InsertDocument path="include/synaxarionConclusion/HosannaSunday"/>
+      <InsertDocument path="include/synaxarionConclusion/JoyousSaturday"/>
+      
+      <Season id="PreAscensionPentecostPeriod">
+         <InsertDocument path="include/ProcessionOfTheResurrection"/>
+         
+         <Role id="People">
+            <Group>
+               <InsertDocument path="include/synaxarionConclusion/ThomasSundayParalex"/>
+               <InsertDocument path="include/synaxarionConclusion/PreAscensionPentecostPeriodParalex"/>
+            </Group>            
+          </Role>
+      </Season>
+      
+      <InsertDocument path="include/synaxarionConclusion/PostAscensionPentecostPeriod"/>
+      
+      <Season id="Pentecost">
+         <InsertDocument path="include/synaxarionConclusion/PentecostThirdHourLitanies"/>
+                  
+         <Role id="People">
+            <InsertDocument path="include/synaxarionConclusion/PentecostPiEpnevmaAndParalex"/>
+         </Role>      
+      </Season>
+      
+      <InsertDocument path="include/synaxarionConclusion/WeddingCana"/>
+      <InsertDocument path="include/synaxarionConclusion/Apostles"/>
+      <InsertDocument path="include/synaxarionConclusion/FeastOfTheCross"/>
+      <InsertDocument path="include/synaxarionConclusion/KoiahkSeason"/>
+      <InsertDocument path="include/synaxarionConclusion/GreatFastWeekend"/>
+      <InsertDocument path="include/synaxarionConclusion/ArchangelMichael"/>
+   </Group>
+</Document>

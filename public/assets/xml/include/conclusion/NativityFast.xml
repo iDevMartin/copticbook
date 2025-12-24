@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityFast">
+      <Comment>
+         <Language id="English">
+            During the Nativity Fast:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Pimici e~bolqen Viwt qajwou n~nie~wn t/rou: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The begotten of the Father before all the ages. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            المولود من الاب قبل كل الدهور. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

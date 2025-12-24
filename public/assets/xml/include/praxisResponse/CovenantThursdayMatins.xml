@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CovenantThursday ^ Matins">
+      <InsertDocument path="include/HymnOfTheCross"/>
+      <InsertDocument path="include/KcmarwoutSeasonalResponse"/> 
+   </Season>
+</Document>

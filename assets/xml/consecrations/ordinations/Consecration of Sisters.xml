@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true">
+   <Title>
+      <Language id="English">The Consecration of Sisters</Language>
+      <Language id="Arabic">تكريس المكرسات</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         After the Morning Doxologies, and before Matins.
+      </Language>
+      <Language id="Arabic">
+         بعد ذكصولوجيات باكر وقبل رفع البخور
+      </Language>
+   </Comment>
+         
+   <Comment>
+      <Language id="English">
+         The person approaching for consecration reads the appropriate undertaking, then stands before the sanctuary bowing her head humbly.
+      </Language>
+      <Language id="Arabic">
+         تقرأ المتقدمة للتكريس التعهد المناسب لها وهو احد ثلاثة انواع من التعهد، وتقف امام الهيكل مطأطئة الرأس فى انسحاق.
+      </Language>
+   </Comment>
+ 
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Vow of the Consecrated Sister</Language>
+         <Language id="Arabic">تعهد المكرسة</Language>
+      </Title>
+ 
+      <Role id="Sister">
+         <Text>
+            <Language id="English">
+               “I the weak ... request my acceptance in the way of consecration for the Coptic Orthodox Church, undertake before the altar of God,
+            </Language>
+            <Language id="Arabic">
+               انا الضعيفة (...) إذ ألتمس قبولى فى طريق التكريس بالكنيسة القبطية الأرثوذكسية، أتعهد أمام مذبح الله وأمام
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               and before our father His Holiness Pope (...), His Grace the Metropolitan / His Grace the Bishop, to commit to the commandments of the Holy Bible and the Coptic Orthodox dogma, practicing the Sacrament of Confession and Communion, striving in spiritual life, faithfulness in responsibility, good dealing with others
+            </Language>
+            <Language id="Arabic">
+               أبينا قداسة البابا (...) وامام نيافة أبينا المطران / الأسقف الانبا  (...) أن ألتزم بوصايا الكتاب المقدس، والعقيدة القبطية الأرثوذكسية ، وممارسة الإعتراف والتناول، وجهادات الحياة الروحية، والأمانة فى المسئولية، وحسن التعامل مع الغير ،
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               and submission to church leadership, represented by His Holiness Pope (...) / His Grace Metropolitan (...) / His Grace the Bishop (...)”
+            </Language>
+            <Language id="Arabic">
+               والخضوع للرئاسة الكنسية، ممثلة فى قداسة البابا البطريرك / ونيافة أبينا المطران / الأسقف.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               “For as I receive the blessing of being dressed in this garment, (...) today, the (date) do undertake that the continuation of my dressing is conditional to my commitment to the way of consecration to the end, by the grace of God.”
+            </Language>
+            <Language id="Arabic">
+               وإنى إذ أنال بركة ارتداء زى (...) اليوم الموافق (...) ش أتعهد أن يكون استمرارى فى ارتدائه، مشروطا بالتزامى بطريق التكريس ، إلى النهاية بنعمة الله.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+
+   <Role id="Sister">
+      <Comment>
+         <Language id="English">
+            She then bows her head and recites the following:
+         </Language>
+         <Language id="Arabic">
+            تحني رأسها وتقول ما يلي:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            “Please pray for me. Absolve me, and bless me, my master Your Holiness Pope (...) / Your Grace Metropolitan (...) / Your Grace Bishop (...).”
+         </Language>
+         <Language id="Arabic">
+            أرجو أن تصلوا من أجلى. هاميطانية. حاللنى وباركنى ياسيدى قداسة البابا ونيافة أبينا المطران / الأسقف.
+         </Language>
+      </Text>
+   </Role>
+
+   <Role id="Bishop">
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Lord, wise in His counseling, who created human beings in Your likeness and image: male and female, He created and blessed. We ask You O Lord hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            " أيها الرب الحكيم فى مشورته، الذى خلق الإنسان على صورته ومثاله، ذكراً وأنثى خلقهما على صورته ومثاله، ومنحهما البركة، نسألك يارب: اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+            
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Lord who granted prophecy to Miriam, the sister of Moses and Aaron, and to Deborah, Huldah, Anna daughter of Phanuel, and allowed Philip the evangelist to have virgin daughters who prophesy. We ask You O Lord hear and have mercy upon us
+         </Language>
+         <Language id="Arabic">
+            يارب يامن منحت النبوة لمريم اخت موسى وهارون، ولدبورة وخلدة وحنا ابنة فنوئيل ، وسمحت ان يكون لفيلبس المبشر بنات عذارى يتنبأن، نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LordHaveMercy"/>
+       
+   <Role id="Bishop">      
+      <Text>
+         <Language id="English">
+            You who poured Your Holy Spirit on men and women altogether and gave them talents of the Spirit ... We ask You O Lord hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            يامن أفضت روحك القدوس على الرجال والنساء معاً، واعطيتهم مواهب الروح ... نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+    </Role>
+    
+    <InsertDocument path="include/LordHaveMercy"/>
+       
+    <Role id="Bishop">       
+      <Text>
+         <Language id="English">
+            Lord who permitted Mary Magdalene to tell Your saintly Apostles about Your Glorious Resurrection and who allowed Phoebe to become a deaconess in Your Holy Church ...
+         </Language>
+         <Language id="Arabic">
+            يارب يامن سمحت ان ترسل مريم المجدلية، لتخبر رسلك القديسين بقيامتك المجيدة، ويامن سمحت ان تكون فيبى شماسة فى كنيستك المقدسة نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            As You allowed in the past, Lord allow her today in Your service, and make us worthy to fulfill this service without falling into condemnation before You, and pour the grace of your Holy Spirit upon (her) by the grace and compassion ...”
+         </Language>
+         <Language id="Arabic">
+            كما سمحت يارب فى القديم اسمح امامك اليوم، ان تشترك (هذه)  او هؤلاء فى خدمتك، واجعلنا مستحقين ان نكمل هذه الخدمة بغير وقوع فى دينونة امامك، وافض نعمة روحك القدوس عليهن. بالنعمة والرأفات نسألك يارب : اسمعنا وارحمن
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Lord God who does not reject women who come forward by the divine will to serve with good intention, and call them Your servants. Grant the grace of Your Holy Spirit to Your maidservant, she who will give herself to You, to fulfill Your service, as You granted the grace of this service to Your servant Phoebe, whom You called for work in Your Church, so she was a helper to Your servant St. Paul the Apostle … Pour on her Your holy gifts, by the grace and compassion...”
+         </Language>
+         <Language id="Arabic">
+            ايها الرب الإله الذى لا ترفض النساء اللاتى يقدمن انفسهن، بإتفاق المشيئة الإلهية، ليخدمن بنية صالحة، بل سمحت ان تدعوهن خادمات لك ، اعطى نعمة الروح القدس (لإمائك هؤلاء) (اللاتى) يرغبن فى ان يقدمن انفسهن لك ، ليتممن خدمتك، كما منحت نعمة هذه الخدمة لعبدتك فيبى، التى دعوتها للعمل فى كنيستك ، فكانت معينة لعبدك بولس الرسول .. أفض عليهن مواهبك المقدسة بالنعمة والرأفات."  نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+       
+   <InsertDocument path="include/LordHaveMercy"/>
+    
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Eternal Lord, the Father of our Lord Jesus Christ, look now to Your maidservant, she is called for the service of consecration. Give her the Holy Spirit and purify her from all blemishes of body and soul, to be worthy to fulfill the work which You give her.
+         </Language>
+         <Language id="Arabic">
+            ايها الرب الازلى ابوربنا يسوع المسيح انظر الآن الى إمائك هؤلاء، اللاتى دعينا لخدمة التكريس. أعطيهن نعمة الروح القدس , وطهرهن من كل دنس الجسد والروح، لكى مابإستحقاق يتممن العمل الذى تعهد به إليهن ..
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            Glory and worship are due to You and Your Only Begotten Son and the Holy Spirit forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            لك المجد والسجود مع ابنك الوحيد والروح القدس الى ابد الآبدين آمين.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            O Lord, Holy Almighty God, who sanctified women by the birth of Your Only Son from the Virgin St. Mary, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            ايها الرب الإله القدوس القادر على كل شئ ، يامن قدست النساء بميلاد إبنك الوحيد، من العذراء القديسة مريم حسب الجسد) نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LordHaveMercy"/>
+    
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            You who granted the grace of the Holy Spirit, not only to men but to women too. Now Lord look unto Your maidservant, call her to service and pour upon her the gift of Your Holy Spirit. Keep her in the Orthodox Faith to accomplish Your service continually, without blame according to Your joy. Glory, honor and worship are sent to You O Father, Son and Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            يامن أعطيت نعمة الروح القدس ليس للرجال فقط وإنما للنساء ايضاً. الآن يارب أنظر إلى إمائك هؤلاء، أدعهن للخدمة ، وأفض عليهن موهبة روحك القدوس ، إحفظهن فى الإيمان الأرثوذكسى، متممات خدمتك بإستمرار بلا لوم حسب مسرتك، لأن لك كل المجد وكرامة وسجود، أيها الآب والإبن والروح القدس) نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>   
+      
+   <InsertDocument path="include/LordHaveMercy"/>
+            
+   <Role id="Bishop">            
+      <Text>
+         <Language id="English">
+            O Holy God on high, looking to the humble, You who chose the strong and weak, and dignified those in humility, Lord send the grace of Your Holy Spirit to Your maidservant. Empower her by Your righteousness, so that if she acts by Your commandments, and serves in the house of Your holiness, she becomes Yours, a vessel gifted for Your glorification.
+         </Language>
+         <Language id="Arabic">
+            يا الله  القدوس العلى ، الناظر الى المتواضعات، يامن اختار الضعفاء والاقوياء ، وكرم اللاواتى هن فى اتضاع . أرسل يارب نعمة روحك القدوس على إمائك هؤلاء. قويهن ببرك، فإذا عملن بوصاياك، وخدمن فى بيت قدسك ليكن لك اوان مكرمة لتمجيدك. نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>        
+    
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Grant her power O Lord, to act joyfully according to Your teachings that You drew as a rule for their service. Lord give her the Spirit of meekness, power, praise, bearing and patience, so if she carries Your yoke with joy and struggle patiently, she will be granted the crowns of service.
+         </Language>
+         <Language id="Arabic">
+            إعطيهن يارب قوة لكى يسلكن بإبتهاج، حسب تعاليمك التى رسمتها قانوناً لخدمتهن، هبهن يارب روح التواضع والقوة ، والتسبيح والإحتمال والصبر، فإذا حملن نيرك بفرح، وصبرن على الجهاد، تكون لهن أكاليل الخدمة.  نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+           
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Lord who knows our weakness, perfect Your maidservant to serve women, visit the sick and those who are absent from the church, serve the poor and needy, assist adult women for baptism, teach the catechumens, organize women in church. Empower her for edification and good example. Sanctify her and enlighten her. Give her wisdom, as You are blessed and glorified O Father, Son and Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            نعم ايها الرب العارف بضعفنا، كمل إمائك وليقمن بخدمة النساء ويفتقدن المريضات والغائبات عن الكنيسة ويقمن بخدمة الفقيرات والمحتاجات، ويساعدن فى يوم عماد النساء الكبيرات، ويعلمن الموعوظات ، ويرتبن النساء فى الكنيسة. قوهن للبنيان والمثال الصالح. قدسهن .. أنرهن .. أعطيهن حكمة.. لأنك مبارك وممجد ،أيها الآب والإبن والروح القدس " نسألك يارب : اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+    
+   <InsertDocument path="include/LordHaveMercy"/>
+      
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Lord listen to our prayers and send the blessing of Your Holy Spirit to her, to accomplish Your service without falling into condemnation, and become an example of holy life. Bless her, O Lord whom You bought by Your Precious Blood ...”
+         </Language>
+         <Language id="Arabic">
+            استمع يارب صلواتنا ، وارسل عليهن بركة من الروح القدس، لكى يتممن خدمتك بغير وقوع فى دينونة ، ويقدمن مثالاً للحياة المقدسة. باركهن يارب، هؤلاء اللاتى اشتريتهن بالدم الثمين.." نسألك يارب : اسمعنا وارحمنا
+         </Language>
+      </Text>
+   </Role>
+    
+   <InsertDocument path="include/LordHaveMercy"/>
+   <InsertDocument path="consecrations/ordinations/include/FromTheLordWeAsk"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the peace of the Holy, Universal, Apostolic Church
+         </Language>
+         <Language id="Arabic">
+            عن سلام الكنيسة المقدسة الجامعة الرسولية
+         </Language>
+      </Text>
+   </Role>
+       
+   <InsertDocument path="include/LordHaveMercy"/>
+   <InsertDocument path="consecrations/ordinations/include/FromTheLordWeAsk"/>
+            
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the service of women in Church, the poor, the sick, and the catechumens
+         </Language>
+         <Language id="Arabic">
+            عن خدمة النساء فى الكنيسة ، وعن الفقيرات ، والمريضات ، والموعوظات
+         </Language>
+      </Text>
+   </Role>
+        
+   <InsertDocument path="include/LordHaveMercy"/>
+   <InsertDocument path="consecrations/ordinations/include/FromTheLordWeAsk"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For her who is coming forward for the service of consecration, commanded from those presenting her, for the Lord to grant her grace and power, bless her service as He blessed Phoebe before
+         </Language>
+         <Language id="Arabic">
+            عن هؤلاء المتقدمات إلى خدمة التكريس بتزكية من قدموهن، لكيما يمنحنهن الرب نعمة وقوة، ويبارك خدمتهن، كما بارك خدمة فيبى منقبل
+         </Language>
+      </Text>
+   </Role>
+               
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">    
+      <Text>
+         <Language id="English">
+            And finally...
+         </Language>
+         <Language id="Arabic">
+            أخيرا...
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/LordsPrayer"/>
+      
+      <Comment>
+         <Language id="English">
+            Then the bishop makes the sign of the cross (without laying of hands), three times, saying each time:
+         </Language>
+         <Language id="Arabic">
+            ثم يرشم الأسقف علامة الصليب (بدون وضع الأيدي)، ثلاث مرات، في كل مرة قائلا:
+         </Language>
+      </Comment>
+
+      <Text>
+         <Language id="English">
+            (...) consecrated for the Holy Coptic Orthodox Church of God, Khen En Efran (In the name of the Father) ...”,
+         </Language>
+         <Language id="Arabic">
+            (فلانة) مكرسة فى كنيسة الله المقدسة القبطية الارثوذكسية (خين إفران ....)
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            Then the bishop blesses the service garments (making the sign of the cross on them three times) for them to be clothed.
+         </Language>
+         <Language id="Arabic">
+            ثم يبارك الأسقف ملابس الخدمة (برشم علامة الصليب عليها ثلاث مرات).
+         </Language>
+      </Comment>
+       
+      <Text>
+         <Language id="English">
+            Blessed daughter know that the Lord chose you for the service of consecration for the Holy Church, keep the commandment. Watch always to be blameless, to keep the consecration garment undefiled. Fill your mouth with praise, be always in the fullness of grace through the Holy Sacraments. Be obedient to your father the bishop, and whoever guides you into the way of God. Keep faithfully the dogma and the service to which you are entrusted from the church and may the Lord empower you by His grace, and count you amongst the wise virgins, the blessed brides of Christ.
+         </Language>
+         <Language id="Arabic">
+            اعلمى ايتها الابنة المباركة ان الرب قد اختارك لخدمة التكريس بالكنيسة المقدسة فإحفظى الوصية وإحرصى أن كونى بلا لوم،وأن تحفظى ثوب التكريس بلا عيب.إملئى فمك من التسبيح ،وكونى دائما فى ملء النعمة بوسائط الاسرار المقدسة. وأسلكى فى الطاعة لأبيك الأسقف ، ولمن يرشدك فى طريق الله.وإحفظى الأمانة فى العقيدة، وفى الخدمة التى إئتمنت عليها من قبل الكنيسة، وليهبك الرب قوة بنعمته ، ويحسبك مع العذارى الحكيمات عرائس المسيح المباركات.  بعد ذلك تختم الصلاة بالختام المعروف ( أمين الليلويا ..)، ثم البركة، وأبانا الذى فى السموات.. يحضرن القداس الإلهى، ويتناولن من الاسرار المقدسة.
+         </Language>
+      </Text>
+   </Role>
+</Document>

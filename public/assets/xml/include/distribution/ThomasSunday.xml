@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ThomasSunday">
+      <Comment>
+         <Language id="English">
+            The “Hymn for Thomas” (<span class="Coptic">Ywmac pacwtp</span>) may be chanted after Psalm 150.
+         </Language>
+      </Comment>
+      
+      <Section>
+         <Title>
+            <Language id="English">Hymn for Thomas</Language>                        
+            <Language id="Coptic">Ywmac pacwtp...</Language>
+         </Title>
+         
+         <InsertDocument path="include/HymnForThomas"/>
+      </Section>
+   </Season>
+</Document>

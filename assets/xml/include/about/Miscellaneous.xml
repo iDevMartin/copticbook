@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FeastsOfTheLordPeriods">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Major and Minor Feasts of the Lord</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">               
+                  The feasts of the Lord are those feasts that commemorate important events that took place during the life of Christ.  There are fourteen feasts altogether, seven major and seven minor feasts. The rites and hymns for the below feasts are cited according to the indicated Coptic date.                 
+                  <ol class="UpperAlpha">
+                     <li>
+                        Major feasts
+                        <ol>
+                           <li>Annunciation (29 Paremhotep)</li>
+                           <li>Nativity (29 Koiahk)</li>
+                           <li>Theophany (Baptism of Christ) (11 Tobe)</li>
+                           <li>The Lord’s entry into Jerusalem (Hosanna Sunday)</li>
+                           <li>Resurrection</li>
+                           <li>Ascension</li>
+                           <li>Pentecost (Coming of the Holy Spirit)</li>
+                        </ol>
+                     </li>
+                     <li>
+                        Minor feasts
+                        <ol>
+                           <li>Circumcision (6 Tobe)</li>
+                           <li>Entry into Egypt (24 Pashons)</li>
+                           <li>Presentation of the Lord into the temple (8 Meshir)</li>
+                           <li>Wedding at Cana of Galilee (13 Tobe)</li>
+                           <li>Transfiguration (13 Mesri)</li>
+                           <li>Covenant (Holy) Thursday</li>
+                           <li>Thomas Sunday (New Sunday)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+            
+      <Season id="StMary">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Twenty-first of each Coptic Month</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">               
+                  On the twenty-first of every Coptic month, the church commemorates the Virgin Saint Mary.  The rites follow the same rites as those for the twenty-first of every Coptic month with the exception that there is a different psali for every feast that is chanted in the praises.  There are seven feasts for Virgin Saint Mary:  
+                  <ol>
+                     <li>The Annunciation of the Virgin’s birth (7 Mesore)</li>
+                     <li>The Birth of the Virgin (1 Pashons)</li>
+                     <li>The Virgin’s entrance into the temple (3 Koiahk)</li>
+                     <li>The departure of Virgin Mary (21 Tobe)</li>
+                     <li>The proclamation of the assumption of the body of Virgin Mary (16 Mesore)</li>
+                     <li>The Consecration of the first church in her name in Philippi, which is the same day for the miracle of the liquefaction of metal (21 Paone)</li>
+                     <li>The apparition of Virgin Saint Mary in her church in Zeiton, Egypt (24 Paremhotep)</li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Joyful29thOfTheMonthRaw">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Twenty-ninth of each Coptic Month</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">               
+                  On the twenty-ninth of every Coptic month, the church commemorates three major feasts of the Lord, Annunciation, Nativity, and Resurrection. This being because the Annunciation falls on 29 Paremhotep, the Nativity falls on 29 Koiahk, and the Resurrection was actually on 29 Paremhotep in the year of His passion. Therefore, the church designated the twenty-ninth of every Coptic month (except for the months of Tobe and Meshir) to be a commemoration of these feasts. The months of Tobe and Meshir are not celebrated because they fall outside of the period between the annunciation and birth of Christ, i.e. outside the period of the Virgin’s pregnancy. Another view says that these two months represent the law and the prophets of the Old Testament.               
+               </Language>
+            </Comment>
+            
+            <Comment>
+               <Language id="English">               
+                  The hymns on these days are chanted in the festive tune.  The psalms of the third and sixth hours only are prayed at the beginning of the Liturgy. On these days, the readings for the day are used unless it falls on the fifth Sunday, where the readings of 29 of Paremhotep are used instead.               
+               </Language>
+            </Comment>
+         </Section>
+      </Season>   
+   </Group>
+   
+   <Season id="FifthSunday">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">The Readings on the Fifth Sunday</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">               
+               <ol class="UpperAlpha">
+                  <li><u>During the first six months of the Coptic calendar (i.e., Thoout - Meshir)</u>:<br/>If there is a fifth Sunday, the readings of the second Sunday of the month of Meshir are read.</li>
+                  <li><u>During the second six months of the Coptic calendar (i.e., Paremhotep - Mesore)</u>:<br/>If there is a fifth Sunday, the readings of “The fifth Sunday” are read (written in the standard Katamarous for Sunday).</li>
+                  <li><u>In the month of Thoout</u>:<br/>If the Coptic New Year (Nayrouz) which is 1 Thoout falls on a Sunday, the readings of Coptic New Year are read, and the readings of the four Sundays of Thoout are transferred to the following Sundays, i.e. on 8 Thoout, the readings of the first Sunday of Thoout are read, etc.</li>
+                  <li><u>The twenty ninth of every Coptic month (except Tobe and Meshir)</u>:<br/>If the twenty-ninth of a Coptic month falls on a Sunday, the readings of the twenty-ninth of Paremhotep are read, commemorating the Annunciation.</li>
+                  <li><u>The pre-Jonah’s Fast Sunday</u>:<br/>If the Sunday before the Fast of Jonah is the fifth Sunday of Tobe, the readings of pre-Great Fast Sunday are read instead.</li>
+               </ol>               
+            </Language>
+         </Comment>
+      </Section>      
+   </Season>   
+</Document>

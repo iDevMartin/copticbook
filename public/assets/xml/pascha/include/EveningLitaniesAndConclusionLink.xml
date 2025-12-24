@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="pascha/include/LitaniesLinkComment"/>
+   
+   <LinkDocument path="pascha/Evening Litanies">
+      <Language id="English">Evening Litanies</Language>
+      <Language id="Arabic">طلبة المساء</Language>
+   </LinkDocument>
+</Document>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" Baptistery="true">
+   <Title>
+      <Language id="English">In the Name of God</Language>
+      <Language id="Arabic">بسم الله</Language>
+   </Title>
+   
+   <Title>
+      <Language id="English">The Rites for the Consecration of the Holy Baptistery When Broken or Destroyed</Language>
+      <Language id="Arabic">ترتيب تكريس المعمودية المقدسة إذا انحلت</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         First, they prepare green leaves from fruitful trees and form garlands to ornate the baptistery, and light candles. The Bishop opens the prayers with the Thanksgiving prayer, then raise the incense 
+      </Language>
+      <Language id="Arabic">
+         يحضرون أولاً ورقاً أخضر من أشجار مثمرة ويعملون أكاليلاً ويزينون الفسقية بها وينيرون الشموع ويبتدئ الأسقف بالصلاة قائلاً: صلاة الشكر ويرفع البخور  
+      </Language>
+   </Comment>   
+   
+   <Role id="People">
+      <InsertDocument path="include/agpeya/psalms/50"/>
+      <InsertDocument path="include/agpeya/psalms/121"/>
+      <InsertDocument path="include/agpeya/psalms/123"/>
+      <InsertDocument path="include/agpeya/psalms/131"/>
+      <InsertDocument path="include/agpeya/psalms/132"/>
+      <InsertDocument path="include/agpeya/psalms/133"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Psalm 134
+            </Language>
+            <Language id="Arabic">
+               المزمور المائة والثالث والأربعون
+            </Language>
+         </Title>
+               
+         <Text>
+            <Language id="English">
+               Praise the Lord! Praise the name of the Lord; Praise Him, O you servants of the Lord!
+            </Language>
+            <Language id="Arabic">
+               هَلِّلُويَا. سَبِّحُوا اسْمَ الرَّبِّ. سَبِّحُوا يَا عَبِيدَ الرَّبِّ 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You who stand in the house of the Lord, In the courts of the house of our God,
+            </Language>
+            <Language id="Arabic">
+               الْوَاقِفِينَ فِي بَيْتِ الرَّبِّ فِي دِيَارِ بَيْتِ إِلَهِنَا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Praise the Lord, for the Lord is good; Sing praises to His name, for it is pleasant.
+            </Language>
+            <Language id="Arabic">
+               سَبِّحُوا الرَّبَّ لأَنَّ الرَّبَّ صَالِحٌ. رَنِّمُوا لاِسْمِهِ لأَنَّ ذَاكَ حُلْوٌ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               For the Lord has chosen Jacob for Himself, Israel for His special treasure.
+            </Language>
+            <Language id="Arabic">
+               لأَنَّ الرَّبَّ قَدِ اخْتَارَ يَعْقُوبَ لِذَاتِهِ وَإِسْرَائِيلَ لِخَاصَّتِهِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               For I know that the Lord is great, And our Lord is above all gods.
+            </Language>
+            <Language id="Arabic">
+               لأَنِّي أَنَا قَدْ عَرَفْتُ أَنَّ الرَّبَّ عَظِيمٌ وَرَبَّنَا فَوْقَ جَمِيعِ الآلِهَةِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Whatever the Lord pleases He does, In heaven and in earth, In the seas and in all deep places.
+            </Language>
+            <Language id="Arabic">
+               كُلَّ مَا شَاءَ الرَّبُّ صَنَعَ فِي السَّمَاوَاتِ وَفِي الأَرْضِ فِي الْبِحَارِ وَفِي كُلِّ اللُّجَجِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               He causes the vapors to ascend from the ends of the earth; He makes lightning for the rain; He brings the wind out of His treasuries.
+            </Language>
+            <Language id="Arabic">
+               الْمُصْعِدُ السَّحَابَ مِنْ أَقَاصِي الأَرْضِ. الصَّانِعُ بُرُوقاً لِلْمَطَرِ. الْمُخْرِجُ الرِّيحَ مِنْ خَزَائِنِهِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               He destroyed the firstborn of Egypt, Both of man and beast.
+            </Language>
+            <Language id="Arabic">
+               الَّذِي ضَرَبَ أَبْكَارَ مِصْرَ مِنَ النَّاسِ إِلَى الْبَهَائِمِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               He sent signs and wonders into the midst of you, O Egypt, Upon Pharaoh and all his servants.
+            </Language>
+            <Language id="Arabic">
+               أَرْسَلَ آيَاتٍ وَعَجَائِبَ فِي وَسَطِكِ يَا مِصْرُ عَلَى فِرْعَوْنَ وَعَلَى كُلِّ عَبِيدِهِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               He defeated many nations And slew mighty kings—
+            </Language>
+            <Language id="Arabic">
+               الَّذِي ضَرَبَ أُمَماً كَثِيرَةً وَقَتَلَ مُلُوكاً أَعِزَّاءَ: 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Sihon king of the Amorites, Og king of Bashan, And all the kingdoms of Canaan—
+            </Language>
+            <Language id="Arabic">
+               سِيحُونَ مَلِكَ الأَمُورِيِّينَ وَعُوجَ مَلِكَ بَاشَانَ وَكُلَّ مَمَالِكِ كَنْعَانَ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               And gave their land as a heritage, A heritage to Israel His people.
+            </Language>
+            <Language id="Arabic">
+               وَأَعْطَى أَرْضَهُمْ مِيرَاثاً مِيرَاثاً لإِسْرَائِيلَ شَعْبِهِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Your name, O Lord, endures forever, Your fame, O Lord, throughout all generations.
+            </Language>
+            <Language id="Arabic">
+               يَا رَبُّ اسْمُكَ إِلَى الدَّهْرِ. يَا رَبُّ ذِكْرُكَ إِلَى دَوْرٍ فَدَوْرٍ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               For the Lord will judge His people, And He will have compassion on His servants.
+            </Language>
+            <Language id="Arabic">
+               لأَنَّ الرَّبَّ يَدِينُ شَعْبَهُ وَعَلَى عَبِيدِهِ يُشْفِقُ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               The idols of the nations are silver and gold, The work of men’s hands.
+            </Language>
+            <Language id="Arabic">
+               أَصْنَامُ الأُمَمِ فِضَّةٌ وَذَهَبٌ عَمَلُ أَيْدِي النَّاسِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               They have mouths, but they do not speak; Eyes they have, but they do not see;
+            </Language>
+            <Language id="Arabic">
+               لَهَا أَفْوَاهٌ وَلاَ تَتَكَلَّمُ. لَهَا أَعْيُنٌ وَلاَ تُبْصِرُ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               They have ears, but they do not hear; Nor is there any breath in their mouths.
+            </Language>
+            <Language id="Arabic">
+               لَهَا آذَانٌ وَلاَ تَسْمَعُ. كَذَلِكَ لَيْسَ فِي أَفْوَاهِهَا نَفَسٌ! 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Those who make them are like them; So is everyone who trusts in them.
+            </Language>
+            <Language id="Arabic">
+               مِثْلَهَا يَكُونُ صَانِعُوهَا وَكُلُّ مَنْ يَتَّكِلُ عَلَيْهَا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Bless the Lord, O house of Israel! Bless the Lord, O house of Aaron!
+            </Language>
+            <Language id="Arabic">
+               يَا بَيْتَ إِسْرَائِيلَ بَارِكُوا الرَّبَّ. يَا بَيْتَ هَارُونَ بَارِكُوا الرَّبَّ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Bless the Lord, O house of Levi! You who fear the Lord, bless the Lord!
+            </Language>
+            <Language id="Arabic">
+               يَا بَيْتَ لاَوِي بَارِكُوا الرَّبَّ. يَا خَائِفِي الرَّبِّ بَارِكُوا الرَّبَّ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Blessed be the Lord out of Zion, Who dwells in Jerusalem! Praise the Lord!
+            </Language>
+            <Language id="Arabic">
+               مُبَارَكٌ الرَّبُّ مِنْ صِهْيَوْنَ السَّاكِنُ فِي أُورُشَلِيمَ. هَلِّلُويَا.
+            </Language>
+         </Text>
+      </Section>
+   
+      <Comment>
+         <Language id="English">
+            Then they read prophecies read in the Liturgy of the Waters of the feast of the our fathers the apostles.  
+         </Language>
+         <Language id="Arabic">
+            ويقول أيضاً النبوات التي تقرأ في قداس لقان عيد أبائنا الرسل.
+         </Language>
+      </Comment>   
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 15:22-16:1" type="section"/>
+      <BibleReference reference="Exodus 30:17-30" type="section"/>
+      <BibleReference reference="Isaiah 1:16-26" type="section"/>
+      <BibleReference reference="Isaiah 35:1-10" type="section"/>
+      <BibleReference reference="Isaiah 43:16-44:6" type="section"/>
+      <BibleReference reference="Zechariah 8:7-19" type="section"/>
+      <BibleReference reference="Zechariah 14:8-11" type="section"/>
+      <BibleReference reference="Ephesians 4:1-7" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/ThreeGreatLitanies"/>
+   <InsertDocument path="include/SevenGreatLitanies"/>
+   <InsertDocument path="include/CreedPeople"/>
+   <InsertDocument path="include/EvnotiNaiNan"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               O Lord Jesus Christ, the only begotten Son of God the Father, Who, through His holy incarnation, has shined upon all those under heaven, saving them from the power of Satan, manifesting to us the oldness of these holy mysteries, leading us to the sanctuaries that the angels long to see. 
+            </Language>
+            <Language id="Arabic">
+               أيها الرب يسوع المسيح الابن الوحيد الذي لله الآب الذي أضاء على الذين تحت السماء جميعاً بظهور جسده المقدس. و أنقذهم من جبروت إبليس و أظهرت لنا عتق هذه السرائر الألهية وهديتنا إلى المقادس التي تشتهي الملائكة أن تراها. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You have granted us the manifestation of the entrance into Your kingdom through the bathing of the new birth. You have said, “whoever is not born again from water and Spirit cannot enter into the kingdom of God”. 
+            </Language>
+            <Language id="Arabic">
+               ووهبت لنا ظهور الدخول إلى ملكوتك بحميم الميلاد الجديد أنت قلت أن من لم يولد مرة أخرى من الماء والروح لا يستطيع الدخول إلى ملكوت الله. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Therefore O Lord, You graciously were baptized in the Jordan, although You are not in need for purification, for You are holy but rather you have purified and sanctified it by descending into it. 
+            </Language>
+            <Language id="Arabic">
+               ولهذا تفضلت يا رب وتعمدت في الأردن ولست محتاجاً إلى الطهر لأنك قدوس لكن طهرتها وقدستها بنزولك إليها 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You have crushed the dragon heads in waters and we, who were contaminated with them by sin, may receive forgiveness of our sins and iniquities through our bathing in it.
+            </Language>
+            <Language id="Arabic">
+               وحطمت رؤوس التنين على المياه ونحن الذين تملينا معهم في الخطية ننال مغفرة خطايانا وآثامنا بحميمنا فيه.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               Now also O Lord, we ask and entreat You for the sake of this baptistery, which is placed in the pattern of the Jordan, in which You O Lord, by Your own will, were baptized by Your servant John, for our salvation, purifying the waters that everyone who descends into it may receive the forgiveness of his sins and the heavenly gift, and have their names written in the book of life according to the will of Your good Father and the Holy Spirit, the life giver, who is one in essence with Him now….
+            </Language>
+            <Language id="Arabic">
+               الآن أيضاً يا رب نسألك ونرغب إليك على هذه الفسقية الموضوعة مثال الأردن هذا من أجل خلاصنا تعمدت فيه من عبدك يوحنا بارادتك يا رب وطهرت المياه حتى أن كل من ينزل إليها يستحق غفران خطاياه والموهبة السمائية وتكتب أسمائهم في سفر الحياة بمشيئة أبيك الصالح والروح القدس المحيي المساوي معه. الآن الخ 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Take the Myron and anoint it saying:  
+            </Language>
+            <Language id="Arabic">
+               خذ الميرون وأرشمها قائلاً:    
+            </Language>
+         </Comment>   
+         
+         <Text>
+            <Language id="English">
+               I consecrate this baptistery after the name of St. John the Baptist In the name of the Father, and of the Son and of the Holy spirit, one God.                
+            </Language>
+            <Language id="Arabic">
+               أقدس هذه الفسقية على اسم القديس يوحنا المعمدان باسم الأب والابن والروح القدس إله واحد مبارك الله الآب ضابط الكل آمين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Blessed be God the Father the Pantocrator Amen.                
+            </Language>
+            <Language id="Arabic">
+               مبارك الله الآب ضابط الكل آمين. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Blessed be His only Begotten Son, Jesus Christ our Lord Amen.
+            </Language>
+            <Language id="Arabic">
+               مبارك إبنه الوحيد يسوع المسيح ربنا آمين
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Blessed be His only Begotten Son, Jesus Christ our Lord Amen.
+            </Language>
+            <Language id="Arabic">
+               مبارك إبنه الوحيد يسوع المسيح ربنا آمين
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Glory and honor, honor and glory to the all holy Trinity, the Father, the Son and the Holy Spirit, peace and edification to the one only holy catholic and apostolic church of God Amen.
+            </Language>
+            <Language id="Arabic">
+               مجداَ وإكراماً إكراماً ومجداً للثالوث القدوس الآب والأبن والروح القدس، سلاماً وبنياناً لكنيسة الله الواحدة الوحيدة المقدسة الجامعة الرسولية آمين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            Then he takes the green leaves and draws the sign of the cross around it. 
+         </Language>
+         <Language id="Arabic">
+            ويأخذ الريحان ويصلب حولها.  
+         </Language>
+      </Comment>   
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/agpeya/psalms/25"/>
+      <InsertDocument path="include/agpeya/psalms/26"/>
+      <InsertDocument path="include/agpeya/psalms/42"/>
+   </Role>
+   
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Comment>
+      <Language id="English">
+         The prayers of the consecration of the baptistery is concluded with the peace of God and glory be to our Lord Amen. 
+      </Language>
+      <Language id="Arabic">
+         تمت بسلام الله صلوات تكريس المعمودية ولربنا المجد   
+      </Language>
+   </Comment>   
+</Document>

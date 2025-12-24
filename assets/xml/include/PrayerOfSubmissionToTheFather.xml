@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">The Prayer of Submission Addressed to the Father</Language>
+         <Language id="Arabic">صلاة خضوع للآب</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Aumoh e~bol n~je nih~mot n~te ]metreferpeynanef n~te pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.
+         </Language>
+         <Language id="English">
+            The graces of the beneficence of Your only-begotten Son, our Lord, God, and Savior Jesus Christ, are fulfilled.
+         </Language>
+         <Language id="Arabic">
+            كَمُلَتْ نِعَمُ إحسانِ ابنِك الوحيدِ ربِّناوإلهِنا ومخلِّصِنا يسوعَ المسيحِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Anero~moligin n~nefm~kauh n~oujai: anhiwis m~pefmou: annah] e~tefa~nactacic: a~ pimuct/rion jwk e~bol.
+         </Language>
+         <Language id="English">
+            We have confessed His saving Passion; we have proclaimed His Death; we have believed in His Resurrection; and the Mystery is accomplished.
+         </Language>
+         <Language id="Arabic">
+            اعترفنا بآلامِهِ المخلِّصةِ، بشَّرنا بموتِهِ، آمنَّا بقيامَتِهِ، وكَمُلَ السرُّ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Tenseph~mot n~totk P[oic Vnou] pipantokratwr: je ounis] pe peknai e~h~r/i e~jwn: e~akcob] nan n~n/e~tere niaggeloc ere~piyumin e~nau e~rwou.
+         </Language>
+         <Language id="English">
+            We give thanks to You, O Lord God the Pantocrator, for Your mercy is great upon us, for You have prepared for us those things which the angels desire to behold.
+         </Language>
+         <Language id="Arabic">
+            نشكُرُكَ أيها الربُّ الإلهُ ضابطُ الكلِّ، لأن رحمتَكَ عظيمةٌ علينا، إذ أعددتَ لنا ما تشتهي الملائكةُ أن تطلعَ عليه.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi hina e~aktoubon t/ren: n~tekhotpen e~rok: e~bolhiten penjin[i e~bolqen nekmuct/rion n~nou].
+         </Language>
+         <Language id="English">
+            We ask and entreat Your goodness, O Lover of Mankind, that—since You have purified us all—You join us to Yourself through our partaking of Your divine Mysteries,
+         </Language>
+         <Language id="Arabic">
+            نسألُ ونطلبُ من صلاحِكَ يا محبَّ البشرِ، لكي إذ طهرتَنا كلَّنا، تؤلفنا بكَ من جهةِ تناولِنا من أسرارِكَ الإلهيةِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eyrenswpi enmeh e~bolqen Pekp~neuma eyouab: ouoh entajr/out qen peknah] etcoutwn: e~anmoh e~bolqen pi[isswou n~te teka~gap/ m~m/i: ouoh n~tencaji m~pekw~ou n~c/ou niben: qen Pi,rictoc I/couc Pen[oic.
+         </Language>
+         <Language id="English">
+            that we may become filled with Your Holy Spirit and confirmed in Your upright faith. Having been filled with the longing for Your true love, may we speak of Your glory at all times, in Christ Jesus our Lord. 
+         </Language>
+         <Language id="Arabic">
+            لكي نكونَ مملوئين من روحِكَ القدوسِ، وثابتين في إيمانِكَ المستقيمِ. وإذ قد امتلأنا من شوقِ محبتِكَ الحقيقيةِ، فإننا ننطقُ بمجدِكَ كلَّ حينٍ، بالمسيحِ يسوع ربنا.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/SilentPriestConclusionEnding"/>
+   </Section>
+</Document>

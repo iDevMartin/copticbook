@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen p~cemni: m~paitopoc eyouab vai: nem topoc niben: nem monact/rion niben n~te nenio] n~oryodoxoc: nisafeu nem niqelloi etsop n~q/tou: nem p~cemni m~pikocmoc t/rf eucop: hina n~te Pi,rictoc Pennou] a~reh e~rwou e~bolha pethwou niben: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray for the security of this holy place and every place, and every monastery of our orthodox fathers; the deserts and the elders who dwell therein; and for the security of the world altogether, that Christ our God may keep them from every evil, and forgive us our sins.
+         </Language>         
+         <Language id="Arabic">
+            اطلبوا عن طُمأنينةِ هذا الموضعِ المقدسِ، وكلِّ موضعٍ، وكلِّ ديرٍ لآبائِنا الأرثوذكسيينَ، والبرارِي، والشيوخِ السكانِ فيها، وطُمأنينةِ العالمِ أجمع معاً، لكي يحفظَهم المسيحُ إلَهُنا من كلِّ شرٍ، ويغفرَ لنا خطايانا.
+         </Language>
+      </Text>
+   </Role>
+</Document>

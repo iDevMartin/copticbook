@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Pi,~rictoc Pencwt/r...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc Pencwt/r: qen ounis] n~yebio: afse eqoun e~Il#/#m#: eftal/out e~oue~w~.
+            </Language>
+            <Language id="English">
+               Christ our Savior, in great humility, entered into, Jerusalem riding on a colt.
+            </Language>
+            <Language id="Arabic">
+               المسيح مخلصنا بعظم تواضع دخل إلي أورشليم راكباً علي أتان.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ic nikouji n~alwoui:~ euhwc je Emmano/l: w~canna qen n/et[oci: vai pe P~ouro m~piIcra/l
+            </Language>
+            <Language id="English">
+               The young children are singing, “Immanuel, Hosanna in the highest, this is the King of Israel.”
+            </Language>
+            <Language id="Arabic">
+               ها الأطفال يسبحون قائلين : ياعمانوئيل أوصنا في الأعالي هذا هو ملك إسرائيل.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

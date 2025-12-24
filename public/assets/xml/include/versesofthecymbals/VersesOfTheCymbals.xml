@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Verses of the Cymbals</Language>
+         <Language id="Arabic">ارباع الناقوس</Language>
+      </Title>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="People">
+         <Group>
+            <Season id="!Feasts ^ !JoyousSaturday ^ !FuneralPrayer ^ !TheophanyLiturgyOfTheWaters">
+               <Comment>
+                  <Language id="English">
+                     At the end of the Thanksgiving Prayer, the Verses of the Cymbals are chanted:
+                     <ol>
+                        <li>From Sunday-Tuesday, the Adam days, the Verses of the Cymbals begin with <span class="Coptic">Amwini marenouwst</span>…</li>
+                        <li>From Wednesday-Saturday, the Watos days, the Verses of the Cymbals begin with <span class="Coptic">Tenouwst m~Viwt</span>…</li>
+                        <li>The congregation continue the Verses of the Cymbals, mentioning verses for the saint of the church and any special occasion, and conclude the hymn.</li>
+                     </ol>
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="(Feasts ^ !CovenantThursday ^ !ThirdProstration ^ !GeneralFuneralPrayer) | TheophanyLiturgyOfTheWaters">
+               <Comment>
+                  <Language id="English">The verses of the cymbals are chanted in the festive tune:</Language>
+               </Comment> 
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="!LiturgyOfTheWaters ^ ((Matins ^ MajorNightFeasts) | JoyousSaturday)">
+               <InsertDocument path="include/praises/morningdoxology/Introduction"/>
+            </Season>
+            
+            <Season id="(!PentecostPeriod | SecondProstration | ThirdProstration) ^ !GeneralFuneralPrayer ^ (!FuneralPrayer | Feasts)">
+               <InsertDocument path="include/versesofthecymbals/StandardIntro"/>
+            </Season>
+         </Group>
+            
+         <Group>
+            <Season id="!(SecondProstration | ThirdProstration) ^ ((FeastsOfTheLordPeriods ^ !CovenantThursday ^ !GeneralFuneralPrayer) | JoyousSaturday | TheophanyLiturgyOfTheWaters)">
+               <InsertDocument path="include/versesofthecymbals/FeastsOfTheLordPeriods"/>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="(Vespers | !MajorNightFeasts) ^ !JoyousSaturday ^ !TheophanyLiturgyOfTheWaters">
+               <Group>
+                  <InsertDocument path="include/versesofthecymbals/Funeral"/>
+                  
+                  <Season id="Other">
+                     <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord"/>   
+                  </Season>
+               </Group>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="!(SecondProstration | ThirdProstration) ^ ((!CovenantThursday ^ Feasts) | TheophanyLiturgyOfTheWaters) ^ !GeneralFuneralPrayer">
+               <InsertDocument path="include/JesusChristIsTheSame"/>
+               <InsertDocument path="include/Pouro"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/hiten/StMary"/>
+               <InsertDocument path="include/EyrenhwcSeasonalResponse"/>      
+            </Season>
+         </Group>  
+      </Role>
+   </Section>
+</Document>

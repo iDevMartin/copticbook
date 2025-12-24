@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StSergiusAndStBacchus:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Sergius and St. Bacchus:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nimarturoc: ,ere niswij n~genneoc: ,ere nia~ylovoroc: Niagioc Cergioc nem Ba,oc.
+            </Language>
+            <Language id="English">
+               Hail to the martyrs: Hail to the courageous heroes: Hail to the struggle-mantled: Sergius and Bacchus.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما ايها الشهيدان. السلام للشجاعين البطلين. السلام للابس الجهاد.        القديسين     سرجيوس وواخس.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

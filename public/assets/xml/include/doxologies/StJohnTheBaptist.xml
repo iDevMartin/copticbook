@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheBaptist:Doxology | KoiahkSeason">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. John the Baptist</Language>
+            <Language id="Arabic">ذوكصولوجية ليوحنا المعمدان</Language>
+            <Language id="Coptic">Mpe ouon twnf...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John the Baptist:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Mpe ouon twnf qen nijinmici: n~te nihiomi efo~ni m~mok: n~yok ounis] qen n/e#y#u# t/rou: Iwann/c piref]wmc.
+            </Language>
+            <Language id="English">
+               Among those born of women, no one is like you, you are great among all the saints, O John the Baptist.
+            </Language>
+            <Language id="Arabic">
+               لم يقم فى مواليد النساء من يشبهك أنت عظيم فى جميع القديسين يايوحنا المعمدان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyok ouhouo~ m~p~rov/t/c: ak[ici qen ]meym/i: n~yok pe p~s~v/r m~pipatselet: pihi/b n~te V].
+            </Language>
+            <Language id="English">
+               You are much more than a prophet, exalted in righteousness, you are the partner of the Bridegroom, the Lamb of God.
+            </Language>
+            <Language id="Arabic">
+               أنت أفضل من نبى تعاليت فى البر أنت هو صديق الختن حمل الله.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akermeyre qa piouwini: n~tav~m/i e~tafi~ e~pikocmoc: n/eynah] e~pefran: auswpi n~s/ri n~te piouwini.
+            </Language>
+            <Language id="English">
+               You have borne witness to the True Light, who came into the world; those who believed in His Name, became children of the Light.
+            </Language>
+            <Language id="Arabic">
+               شهدت للنور الحقيقى الذى أتى الى العالم والذين يؤمنون باسمه صاروا أبناء النور.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJohnTheBaptist"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for St. John the Baptist</Language>
+            <Language id="Arabic">وأيضاً ذوكصولوجية ليوحنا المعمدان</Language>
+            <Language id="Coptic">Afermeyre n~je...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John the Baptist:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Afermeyre n~je Iwann/c: qen pif~tou n~euaggelion: je ai]wmc m~Pacwt/r: qen nimwou n~te piIordan/c.
+            </Language>
+            <Language id="English">
+               John has borne witness, in the four Gospels, saying “I have baptized my Savior, in the waters of the Jordan.
+            </Language>
+            <Language id="Arabic">
+               شهد يوحنا في الأناجيل الأربعة أنى عمدت مخلصي في مياه الاردن.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ainau e~Pip#n#a# e#y#u#: e~tafi~ e~pec/t e~bol qen t~ve: aicwtem e~t~c~m/ n~te Viwt: ecws e~bol ecjw m~moc.
+            </Language>
+            <Language id="English">
+               "I saw the Holy Spirit, come down from heaven. I heard the voice of the Father, proclaiming and saying,
+            </Language>
+            <Language id="Arabic">
+               ونظرت الروح القدس إذ هبط من السماء وسمعت صوت ألآب صارخا قائلا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je vai pe pas/ri pamenrit: e~ta ta'u,/ ]ma] n~q/tf: aferpaouws cwtem n~cwf: je n~yof pe pireftanqo.
+            </Language>
+            <Language id="English">
+               This is My beloved Son, in whom I am well pleased. He does My will; listen to Him, for He is the giver of life."
+            </Language>
+            <Language id="Arabic">
+               هذا هو ابني حبيبي الذي سرت به نفسي وصنع مشيئتي اسمعوا له لأنه هو المحيى.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJohnTheBaptist"/>
+      </Section>
+   </Season>      
+</Document>

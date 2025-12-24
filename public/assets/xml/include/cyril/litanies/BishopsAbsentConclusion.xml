@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Nip~recbutroc nidiakwn: nihupodiakwn nia~nagnwct/c: ni'alt/c niexorgict/c: nimona,oc niparyenoc: ni,/ra niorvanoc: niegk~rat/c nilaikoc.
+         </Language>
+         <Language id="English">
+            and the priests, the deacons, the subdeacons, the readers, the chanters, the exorcists, the monks, the virgins, the widows, the orphans, the ascetics, and the laity;
+         </Language>         
+         <Language id="Arabic">
+            والقسوسَ، والشمامســةَ، والإِبوذياقونيينَ، والأغنسطسيينَ، والمرتلينَ، والقرَّاءَ، والرهبانَ، والعذارى، والأرامِلَ، والأيتامَ، والنساكَ، والعلمانيينَ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            N/ethwtp qen pigamoc: nem n/etsaness/ri.
+         </Language>
+         <Language id="English">
+            those who are joined in wedlock and those who rear children;
+         </Language>         
+         <Language id="Arabic">
+            والمقترنينَ بالزيجةِ، ومربِّي الأولادِ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            N/e~taujoc nan je a~ripenmeui~: nem n/e~te m~poujoc.
+         </Language>
+         <Language id="English">
+            those who said to us, “Remember us,” and those who did not say this;
+         </Language>         
+         <Language id="Arabic">
+            الذين قالوا لنا اذكرونا والذين لم يقولوا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            N/e~tencwoun m~mwou: nem n/e~tencwoun m~mwou an.
+         </Language>
+         <Language id="English">
+            those whom we know and those whom we do not know;
+         </Language>         
+         <Language id="Arabic">
+            الذين نعرِفُهُم والذين لا نعرِفُهُم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nenjaji nem nenmenra]: Vnou] nai nwou.
+         </Language>
+         <Language id="English">
+            our enemies and our loved ones, O God, have mercy upon them.
+         </Language>         
+         <Language id="Arabic">
+            أعداءَنا وأحباءَنا، اللهُمَّ ارحَمْهم.
+         </Language>
+      </Text>
+   </Role>   
+</Document>

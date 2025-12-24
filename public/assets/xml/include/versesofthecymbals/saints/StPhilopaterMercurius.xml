@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StPhilopaterMercurius:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Philopater Mercurius:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere pia~ylovoroc: Vilopat/r Merkourioc.
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: hail to the courageous hero: hail to the struggle-mantled: Philopateer Mercurius. 
+            </Language>
+            <Language id="Arabic">
+               السلام لك ايها الشهيد. السلام للشجاع البطل. السلام للابس الجهاد. فيلوباتير مرقوريوس.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

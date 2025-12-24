@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!Feasts ^ ((JonahFast | (GreatFast ^ Weekdays)) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast))">
+         <Section>
+            <Title>
+               <Language id="Coptic">Pimairwmi</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pimairwmi n~a~gayoc Pa[oic I/couc ]]ho e~rok m~perhit caja[/m~mok nem nibaempi n~refernobi
+               </Language>
+               <Language id="English">
+                  O Good One and Lover of Mankind, my Lord Jesus, I beg you, cast me not to Your left with the goats, the sinners.”
+               </Language>
+               <Language id="Arabic">
+                  يا محب البشر الصالح سيدي يسوع أسألك لا تطرحني على يسارك مع الجداء الخطاة.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Oude on m~perjoc n/i je ]cwoun m~mok an masenak ebolharoi w~v/etcebtwt m~pi,~rwm n~e~neh
+               </Language>
+               <Language id="English">
+                  And likewise say not to me, “I never knew you; depart from Me, O you prepared for the everlasting fire.”
+               </Language>
+               <Language id="Arabic">
+                  ولا تقل لي أيضاً إني لا أعرفك إذهب عني أيها المعد للنار الأبدية.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  }e~mi gar qen oumeym/i je anok ourefernobi ouoh nah~b/oui t/rou ethwou ceouwnh ebol m~pekm~yo
+               </Language>
+               <Language id="English">
+                  For I know in truth that I am a sinner, and all my evil deeds are manifest before You.
+               </Language>
+               <Language id="Arabic">
+                  لأني أعلم بالحقيقة إني خاطئ وأعمالي الرديئه كلها ظاهرة أمامك.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  }jw n~t~c~m/ n~te pitelwn/c eiws ebol eijw m~moc je V~nou] ,w n/i ebol je anok ourefernobi
+               </Language>
+               <Language id="English">
+                  With the voice of the tax collector, I cry out and say, “O God, forgive me, for I am a sinner.”
+               </Language>
+               <Language id="Arabic">
+                  أقول بصوت العشار صارخاً قائلاًاللهم اغفر لي فإني خاطئ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Aiernobi aiernobi pa[oic I/couc ,w n/i e~bol je m~mon bwk n~aternobi oude m~mon [oic n~at,w e~bol
+               </Language>
+               <Language id="English">
+                  “I have sinned, I have sinned. My Lord Jesus, forgive me; for there is no servant without sin, nor master without forgiveness.”
+               </Language>
+               <Language id="Arabic">
+                  أخطأت أخطأت يا ربي يسوع إغفر لي لأنه ليس عبد بلا خطية ولا سيد بلا مغفرة.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Moi n/i P~[oic n~oumeta~noia~ e~p~jintaermeta~noin m~patev~mou masyam n~rwi qen nipul/ n~te a~men]
+               </Language>
+               <Language id="English">
+                  Grant me  repentance, O  Lord, so that I repent before death shuts my mouth inside the gates of Hades.
+               </Language>
+               <Language id="Arabic">
+                  أعطني يا رب توبة لكي أتوب قبل أن يسدُّ الموت فمي في أبواب الجحيم.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh on n~ta] logoc qa nai t/rou e~taiaitou pik~rit/c m~m/i I/couc: n~yof eyna]hap e~roi
+               </Language>
+               <Language id="English">
+                  And also that I may give an account for all that I have done, O true Judge Jesus, who will judge me.
+               </Language>
+               <Language id="Arabic">
+                  وأعطني أيضاً جواباً عن كل ما فعلته، القاضي العادل يسوع الذي يدينني.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ourefsenh/t pe pacwt/r: efe~senh/t qa peflaoc: hwc a~gayoc ouoh m~mairwmi: nai nan kata peknis] n~nai.
+               </Language>
+               <Language id="English">
+                  Compassionate is my Savior, who shall have compassion upon His people. As the Good One and Lover of Mankind, have mercy upon us according to Your great mercy.
+               </Language>
+               <Language id="Arabic">
+                  رؤوف هو مخلصي يتراءف على شعبه كصالح ومحب البشر، إرحمنا كعظيم رحمتك.
+               </Language>         
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

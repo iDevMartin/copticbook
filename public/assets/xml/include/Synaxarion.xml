@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="PentecostPeriod">
+         <Comment>
+            <Language id="English">         
+               The Synaxarion is not read during the Pentecost Period.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="HosannaSunday">
+         <Comment>
+            <Language id="English">         
+               The Synaxarion is not read on Hosanna Sunday.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="JoyousSaturday">
+         <Comment>
+            <Language id="English">         
+               The Synaxarion is not read on Joyous Saturday.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Comment>
+            <Language id="English">         
+               The Synaxarion (chronicle of the saints) is read:
+            </Language>
+         </Comment>
+         
+         <LinkDocument path="readings/Synaxarion">
+            <Language id="English">
+               Synaxarion
+            </Language>
+            <Language id="Arabic">
+               السنكسار
+            </Language>
+         </LinkDocument>
+      </Season>
+    </Group>
+</Document>

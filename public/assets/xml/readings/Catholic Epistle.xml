@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Catholic Epistle</Language>
+      <Language id="Arabic">الكاثوليكون</Language>
+   </Title>
+
+   <Section>           
+      <Title>
+         <Language id="English">Introduction to the Coptic Catholic Epistle</Language>
+         <Language id="Coptic">Kayolikon...</Language>
+      </Title>        
+       
+      <Comment>
+         <Language id="English">         
+            If the catholic Epistle is read in Coptic, the following introduction is chanted.
+         </Language>
+         <Language id="Arabic">         
+            وإذا قرئ الكاثوليكون قبطياً  تقال مقدمته وهي:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Kayolikon (e~bolqen ]e~pictol/ n~te) peniwt (...): namenra].
+         </Language>
+         <Language id="English">
+            The Catholic Epistle of our father (...), my beloved.
+         </Language>
+         <Language id="Arabic">
+            الكاثوليكون من أبينا (...) أحبائي
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+            The catholic Epistle is chanted in Coptic.
+         </Language>            
+      </Comment>
+   </Section>
+      
+   <Group>
+      <InsertDocument path="readings/include/Catholic"/>
+   </Group>
+   
+   <Section>           
+      <Title>
+         <Language id="English">Conclusion to the Coptic Catholic Epistle</Language>
+         <Language id="Coptic">Nac~n/ou...</Language>
+      </Title>        
+       
+      <Comment>
+         <Language id="English">         
+            After the reading, the following conclusion is chanted.
+         </Language>
+         <Language id="Arabic">         
+            وفي ختامه يقول:
+         </Language>
+      </Comment>
+   
+      <Text>         
+         <Language id="Coptic">
+            Nac~n/ou m~permenre pikocmoc oude n/e~tsop qen pikocmoc: pikocmoc nacini nem tefe~piyumia: v/ de eti~ri m~v~ouws m~Vnou] f~naswpi sa e~neh: a~m/n.         
+         </Language>
+         <Language id="English">
+            Do not love the world or the things in the world. The world is passing away, and its lust; but he who does the will of God abides for ever. Amen.
+         </Language>
+         <Language id="Arabic">
+            لا تحبوا العالم ولا الأشياء التي في العالم. العالم يمضي وشهواته. والذي يصنع إرادة الله يدوم إلى الأبد. آمين.
+         </Language>         
+      </Text>
+   </Section>
+</Document>

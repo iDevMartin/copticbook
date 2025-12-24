@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Section>
+         <Title>
+            <Language id="English">You shall sprinkle...</Language>
+            <Language id="Arabic">تنضح عليَّ بزوفاكَ...</Language>
+            <Language id="Coptic">Eke~noujq e~jwi...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               During the above chant, the priest washes his hands three times at the north side of the altar, saying the first time:
+            </Language>
+            <Language id="Arabic">         
+               وفي أثناء تلحينها يغسل الكاهن يديه في جانب المذبح البحري ثلاث مرات وهو يقول في المرة الأولى:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/YouShallSprinkleIntroduction"/>
+      </Section>
+   </Role>
+</Document>

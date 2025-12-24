@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMaximusAndStDometius:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Maximus and St. Dometius:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nidikeoc:  &lt;ere nipneumatovoroc: &lt;ere nenio] e#y#u# n~romeoc:  Maximoc nem Dometioc.
+            </Language>
+            <Language id="English">
+               Hail to you O righteous ones, hail to the spirit mantled, hail to our holy roman fathers, Maximus and Dometius.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما ايها الصديقان السلام للابسي الروح. السلام لابوينا القديسين الروميين مكسيموس ودوماديوس.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

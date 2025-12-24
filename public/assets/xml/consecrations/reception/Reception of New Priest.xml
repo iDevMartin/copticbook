@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" ReceptionNewPriest="true" Vespers="true" RaisingOfIncense="true">
+   <Title>
+      <Language id="English">Rite of Receiving the Reverend Fathers of the Coptic Church</Language>
+      <Language id="Arabic">طقس استقبال الكهنة</Language>
+   </Title>    
+   
+   <Role id="Deacon">
+      <Comment>
+         <Language id="English">
+            The deacons greet the new priest at the outer gate with the chant of joy, <span class="Coptic">Pouro</span>, until they reach the door of the sanctuary.
+         </Language>
+         <Language id="Arabic">
+            يدخل الكاهن الجديد بلحن <span class="Coptic">Pouro</span>.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/PouroSection"/>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            After the new priest wears his service clothing, he opens the veil of the sanctuary and begins the Vesper raising of incense service with <span class="Coptic">Ele/~con /~mac...</span>, and the Lord’s Prayer.  He then kneels before the altar and begins the Prayer of Thanksgiving.
+         </Language>
+         <Language id="Arabic">
+            بعدما يرتدي الكاهن الجديد ملابس الخدمه، يفتح الستر ويصلي (<span class="Coptic">Ele/~con /~mac</span> ثم ابانا الذي في السموات ثم يسجد امام الهيكل ويصلي صلاة الشكر.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <InsertDocument path="raisingOfIncense/include/Intro"/>
+   <InsertDocument path="raisingOfIncense/include/Body"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+   </Role>
+   
+   <Role id="Deacon">
+      <BibleReference reference="1 Timothy 5:17-6:2" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/PiEpnevma"/>
+      
+      <Comment>
+         <Language id="English">
+            And may be followed by:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            To the end of ages, O tongue of incense; to the end of ages, O tongue of gold; the successor of Saint Mark the Apostle; Pope Abba (...), head of the priests.
+         </Language>
+         <Language id="Arabic">
+            الي منتهي الاعوام يا لسان العطر الي منتهي الاعوام يا لسان الذهب، يا خليفة القديس مرقص الرسول، بابا انبا (...) رئيس الكهنة.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then, the Trisagion hymn is sung in the joyful tune before the Litany of the Gospel is prayed by the new priest, who then reads the Psalm (132:7, 12, 13) and Gospel (John 1:1-17). 
+      </Language>
+      <Language id="Arabic">
+         يقال لحن اجيوس بالطريقة الفرايحي ثم اوشية الانجيل ويقرأ الانجيل من يوحنا. 
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/gospelResponse/GospelResponse"/>
+   
+   <Comment>
+      <Language id="English">
+         Then, the priests and deacons escort the new priest, carrying a Bible wrapped in a white silk covering, around the altar three times before circling the entire nave of the church an additional three times while chanting <span class="Coptic">Nieynoc t/rou</span> followed by <span class="Coptic">Kc~marwout</span>. 
+      </Language>
+      <Language id="Arabic">
+         بعد ذلك يوقد الكهنه والشمامسة الشموع ويدورون حول المذبح 3 مرات مع الكاهن الجديد الذي يحمل الانجيل ملفوفا في ستر ابيض حرير ويدورون حول الكنيسة 3 مرات وهم يردون لحن <span class="Coptic">Nieynoc t/rou</span> ولحن .<span class="Coptic">Kc~marwout</span> 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/Psalm116"/>
+      <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+      
+      <Comment>
+         <Language id="English">
+            Following the procession, the following hymn is chanted in the familiar Hosanna tune: 
+         </Language>
+         <Language id="Arabic">
+            ثم يقال هذا اللحن بالنغمه الشعانيني: 
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Reception Hymn</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Exalt the Lord with me: Let us exalt His name together: For the grace which you received: Our priest, Father (...).
+            </Language>
+            <Language id="Arabic">
+               عظموا الرب معي: ولنرفع اسمه معا: كالنعمه التي قبلتها: يا ابانا القس (...).
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You pray for us by night: That He may defend us from the devil: That He may bestow peace and joy: Our priest, Father (...).
+            </Language>
+            <Language id="Arabic">
+               الساهرعلينا بصلواتك: ليحرسنا الرب من الشيطان: فننعم بالسلام والتهليل: يا ابانا القس (...).
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               It is good you came to us: To comfort us with your words: That are full of life: Our priest, Father (...).
+            </Language>
+            <Language id="Arabic">
+               حسنا اتيت الينا اليوم: لتعزيينا بكلامك: المملوء خياة: يا ابانا القس (...)
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               It is good you came to us today: O honorable presbyter: The priest of the Almighty God: Our priest, Father (...).
+            </Language>
+            <Language id="Arabic">
+               حسنا اتيت الينا اليوم: ايها القس المكرم: كاهن الله العلي: يا ابانا القس (...).
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               It is good you came to us today: O chosen of Christ: The Lord be with you: Our priest, Father (...).
+            </Language>
+            <Language id="Arabic">
+               حسنا اتيت الينا اليوم: يا مختار المسيح: الرب يكون معك: يا ابانا القس (...).
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               It is good you came to us today: Ask the Lord on our behalf: Our priest, Father (...): That He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               حسنا اتيت الينا اليوم: اطلب من الرب عنا: يا ابانا القس (...): ليغفرلنا خطايانا.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Exposition</Language>
+         <Language id="Arabic">الطرح</Language>
+      </Title>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">
+               Rejoice Father (...) for this grace, which God bestowed upon you. Exalt God and glorify His great Name for the grace, which our blessed Father … accepted.  This is he who was chosen by God to be a preacher and a spiritual guide, who was presented the great mystery of priesthood to serve the Divine Sacraments and gather the congregation for the Word of God, as a mother who teaches her children.  Truly, O our Father, the priest of the Almighty God, you have received this great grace and this high rank from our archbishop, to teach the flock of Jesus Christ.  To teach them the Patristic of Life, as our pure Apostles did.  You have accepted the holy breath of His Holiness and have become a teacher and guide for the salvation of our souls.  Therefore we praise you saying:
+            </Language>
+            <Language id="Arabic">
+               عظموا الرب ومجدوا اسمه العظيم العالي من اجل النعمة التي قبلها الاب الطوباوي القس ... الذي اختاره الله واقامه معلما ومرشدا واعطاه الكهنوت العظيم ليخدم السرائر الالهيه ويجمع الشعب علي كلمة التعليم كمربية تربي اولادها بالحقيقة يا ابانا المكرم كاهن الله العلي قد نلت هذه النعمة العظيمة من قبل اسقفنا الحبر الجليل الانبا يوسف لتعلم القطيع الصغير الذي للرب يسوع المسيح اقوال الحياه مثل ابائنا الرسل الاطهار لانكم قبلتم النفخة المقدسة وصرتم معلمين ومرشدين لخلاص النفوس لهذا نمدحكم قائلين :
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="consecrations/reception/include/Axios"/>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">
+               This exalted priesthood is better and greater than the rank of Aaron, Zacharias, and Simeon, the priests of old. For the sacrifices of these priests were of flesh, unable to promise eternal life and the heavenly kingdom. For what has been entrusted to you, and priests such as yourself, the angels cannot behold, as the Lord Christ, to Him be the glory, said: “Many prophets and righteous men have desired to see the things which you see and have not seen them, and to hear the things which you hear and have not heard them. But blessed are your eyes for they see and your ears for they hear.”
+            </Language>
+            <Language id="Arabic">
+               رتبة هارون وزكريا وسمعان كهنة العتيقة حقا ان هذا الكهنوت المرتفع افضل واعظم لان هؤلاء الاباء الكهنة كانت ذبائحهم لحمية لا تعد الحياة الابدية والملك السماوي لان الذي اوتمنت عليه انت وامثالك الكهنة لا تستطيع الملائكة النظر اليه كما قال السيد المسيح له المجد: ان انبياء وابرارا كثيرين اشتهوا ان يروا ما انتم ترون فلم يروا وان يسمعوا ما انتم تسمعون فلم يسعوا اما انتم فطوبي لاعينكم لانها تبصر ولاذانكم لانها تسمع.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Today, joy has come upon the children of this Church and the Orthodox congregation gathered here for the sake of your pure priesthood which offers prayers and supplications for the forgiveness of the people’s sins. Truly, great is your exalted rank before Our Lord Jesus Christ who chose you to serve His pure sanctuary and entrusted you with His Pure Body and Honored Blood. Therefore, we magnify you, proclaiming and saying:
+            </Language>
+            <Language id="Arabic">
+               فرح قد صار اليوم لابناء هذه البيعة والشعب الارثوذكسي المجتمع بها لاجل كهنوتك الطاهر الذي يقدم الصلوات والطلبات عن غفران خطايا الشعب بالحقيقة عظيمة هي درجتك الرفيعة عند السيد المسيح الذى اختارك لخدمة هيكله الطاهر وائتمنك علي جسده الطاهر ودمه الكريم من اجل هذا نطوبك ونصرخ قائلين:
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="consecrations/reception/include/Axios"/>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="English">
+               We praise you with the pure Apostles saying, “And no man takes this honor to himself, but he who is called by God, just as Aaron was” (Heb 5:4).  You have become a partner with St. Peter the Apostle, as he said, “The elders who are among you I exhort, I who am a fellow elder and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed: Shepherd the flock of God which is among you, serving as overseers, not by constraint but willingly, not for dishonest gain but eagerly; nor as being lords over those entrusted to you, but being examples to the flock; and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away” (1 Pet 5:1-4).
+            </Language>
+            <Language id="Arabic">
+               نمدحك مع الرسل الاطهار قائلين ليس احد ينال الكرامة لنفسه الا من دعاه الله كما دعي هارون صرت شريكا للقديس بطرس الرسول لانه قال في رسالته واما القسوس الذين بينكم فاني اعظمهم انا القس مثلهم ومن له نصيب في المجد عند تجليه: أرعوا قطيع الله الذي وكل اليكم واحرسوه طوعا لا كرها كما يريد الله لا رغبه في مكسب خسيس بل لما فيكم من حميه ولا تتسلطوا علي الذين هم في رعايتكم بل كونوا قضوه للقطيع ومتى ظهر رئيس الرعاه تنالون اكليل المجد الذي لا يبلي.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               As for you, O beloved of Christ, put not yourself above your congregation, but keep the perfect love for God’s people.  Obtain humility, for self-righteousness is rejected before God.  Follow God’s commandment in His Holy Gospel, “whoever desires to become great among you shall be your servant.  And whoever of you desires to be first shall be slave of all” (Mar 10:43-44).  St.  Paul the Apostle said, “so that He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus Christ with all His saints” (1 The 3:13). Be most careful in distributing the Holy Eucharist.  Give it not to anyone unless you are certain he is worth of it, lest if you carelessly give it to those who are unworthy, you shall be greatly judged, for the consequences for a careless priest is no small matter.  Keep your purity without which no one may observe God.
+            </Language>
+            <Language id="Arabic">
+               وان يا صاحب المسيح لا ترفع نفسك علي شعب الله بل لازم المحبه الكاملة لشعب الله واقتني التواضع فان التعظم مرذول امام الله واتبع قول الرب في انجيله المقدس حيث قال من كان فيكم كبيرا فليكن خادما معدا للجميع وقول القديس بولس الرسول فان الذين يحسنون الخدمة ينالون منزله رفيعه وجرأه عظيمه في الايمان بالمسيح يسوع واحترس غاية الاحتراس في توزيع السرائر الالهيه ولا تعطيهاالا لمن تتحقق انه اهلا لها لئلا اذا تهاونت وناولتهم لمن لا يستحق تصير مدان لتهاونك اعظم دينونه لان عقوبة ذلك مع الكهنة المتهاونين ليست صغيرة والتزم الطهارة التي لا يعاين احد ربنا بدونها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               If you keep all these commandments, you will be worthy to hear that joyful voice saying, “Well done, good and faithful servant; you were faithful over a few things, I will make you ruler over many things.  Enter into the joy of your lord” (Mat 25:21). May God reward you, help you, exalt you, and keep us in the true faith through your prayers and through the intercessions of the pure Virgin Theotokos St.  Mary, all the heavenly hosts, and the 24 priests, and the prayers of the holy patriarchs Abraham, Isaac, and Jacob, and the prayers of St. Mina, the prayers of His Holiness Pope (...), and the prayers of all those who please the Lord.  Amen.
+            </Language>
+            <Language id="Arabic">
+               فاذا اكملت هذا تكون مستحق لسماع الصوت البهي القائل طوباك ايها العبد الصالح الامين كنت امينا علي القليل انا اقيمك علي الكثير ادخل الي فرح سيدك والله الذي له المجد يعضدك ويساعدك ويرفعك ويحفظنا بشفاعة العذراء الطاهرة ام النور البتول الذكية وجميع الطغمات السمائية وال24 قسيسا النورانيين والشهيد العظيم مارجرجس ومارمينا وكافة الشهداء والقديسين وبصلوات جميع من يرضي الرب امين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>   
+
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            At this point, the sermon is given before the five short litanies are prayed by the new priest followed by the Lord’s Prayer.  Then, the head priest prays the absolution while placing his hand with the cross on the head of the new priest. 
+         </Language>
+         <Language id="Arabic">
+            يقف الكاهن الجديد ليصلي الاواشي كالمعتاد ثم يقرأ كبير الكهنة التحليل وهو يضع الصليب علي راس الكاهن الجديد. 
+         </Language>
+      </Comment>
+   </Role>
+
+   <InsertDocument path="include/FiveShortLitanies"/>
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>   
+   <InsertDocument path="include/AmenLordHaveMercy3"/>   
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+</Document>

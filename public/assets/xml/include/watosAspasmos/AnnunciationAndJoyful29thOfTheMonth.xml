@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Annunciation | Joyful29thOfTheMonth">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Coptic">Afrek niv/oui...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Annunciation and the 29th of the Coptic Month:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Afrek niv/oui n~te niv/oui: afi~ e~y~m/tra n~]paryenoc: aferrwmi m~penr/]: saten v~nobi m~mauatf
+            </Language>
+            <Language id="English">
+               He bent the heavens of the heavens and came to the Virgin’s womb, became Man like us, except for our sin only.
+            </Language>
+            <Language id="Arabic">
+               طأطأ سماء السموات وأتى إلى بطن العذراء وصار إنساناً مثلنا ما خلا الخطية وحدها.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V] af[icarx e~bolqen ]paryenoc: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ, the Son of God, was incarnate of the Virgin, save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا : يسوع المسيح ابن الله تجسد من العذراء ، خلصنا وارحمنا.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Psalm 114 -  I loved, because the Lord...
+         </Language>
+         <Language id="Arabic">
+            المزمور المائة والرابع عشر - أحببتُ أن يسمع الرب...
+         </Language>
+      </Title>
+      
+      <InsertDocument path="include/Psalm114Content"/>      
+   </Section>
+</Document>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section antiphonePitch="1">
+      <Title>
+         <Language id="English">Hymn of the Virtues</Language>
+         <Language id="Coptic">}m/] c~nou]...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The following hymn may said in place of <span class="Coptic">Pih~mot gar</span>:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            }m/] c~nou] n~a~ret/ m~piP~neuma eyouab: etc~q/out qen nig~rav/ eyouab e~te nai ne nouran.
+         </Language>
+         <Language id="English">
+            The twelve virtues of the Holy Spirit which are written in the Holy Scriptures, which these are their names, 
+         </Language>
+         <Language id="Arabic">
+            الإثنتا عشرة فضيلة التي للروح القدس المكتوبة في الكتب المقدسة وهذه أسماؤها.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/ShallComeUpon"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }houi~] te ]a~gap/:  }mah c~nou] te]helpic: }mahsom] te ]pictic.
+         </Language>
+         <Language id="English">
+            The First is love / The Second is hope / The Third is faith.
+         </Language>
+         <Language id="Arabic">
+            الأولي المحبة / الثانية الرجاء / الثالثة الإيمان.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/ShallComeUpon"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah f~toou te pitoubo: }mah t~iou te ]paryenia: }mah coou te ]hir/n/.
+         </Language>
+         <Language id="English">
+            The Fourth is purity / The Fifth is virginity / The Sixth is peace.
+         </Language>
+         <Language id="Arabic">
+            الرابعة الطهارة / الخامسة البتولية / السادسة السلام.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/ShallComeUpon"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah sasf te ]covia: }mah s~m/n te ]dikeo~cun/: }mah 'i] te ]metremraus.
+         </Language>
+         <Language id="English">
+            The Seventh is wisdom / The Eighth is righteousness / The Ninth is meekness.
+         </Language>
+         <Language id="Arabic">
+            السابعة الحكمة / الثامنة البر / التاسعة الوداعة.
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/ShallComeUpon"/>
+      
+      <Text>
+         <Language id="Coptic">
+            }mah m/] te ]hupomon/: }mah m/touai te ]metrefw~ou n~h/t: }mah m/t c~nou] te ]egkratia~.
+         </Language>
+         <Language id="English">
+            The Tenth is patience / The Eleventh is long-suffering / The Twelfth is self-control.
+         </Language>
+         <Language id="Arabic">
+            العاشرة الصبر / الحادية عشر طول الروح / الثانية عشر النسك.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Am/n ece~swpi ece~swpi.
+         </Language>
+         <Language id="English">
+            Amen. So be it. So be it.
+         </Language>
+         <Language id="Arabic">
+            أمين يكون يكون.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Efe~era~poleuin m~mwou.
+         </Language>
+         <Language id="English">
+            He shall select them (for himself).
+         </Language>
+         <Language id="Arabic">
+            يتجمل يتجمل.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Efe~era~poleuin m~mwou.
+         </Language>
+         <Language id="English">
+            He shall select them (for himself).
+         </Language>
+         <Language id="Arabic">
+            يتجمل يتجمل.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Hi paikairoc vai pe pao#c# n~iwt.
+         </Language>
+         <Language id="English">
+            At this opportune time. This is my fatherly lord.
+         </Language>
+         <Language id="Arabic">
+            بهذا المديح سيدي الأب.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Pao#c# n~iwt.
+         </Language>
+         <Language id="English">
+            My fatherly lord.
+         </Language>
+         <Language id="Arabic">
+            سيدي الأب.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Peniwt e#y#u#.
+         </Language>
+         <Language id="English">
+            Our holy father.
+         </Language>
+         <Language id="Arabic">
+            أبونا القديس.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ettai/out n~a~r,/ e~reuc papa abba (nim)
+         </Language>
+         <Language id="English">
+            (who is) honored, the archpriest, Pope Abba(...).
+         </Language>
+         <Language id="Arabic">
+            المكرم رئيس الكهنة البابا أنبا (...).
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Am/n am/n am/n: ece~swpi nak qen nie~hoou t/rou n~te pekw~nq.
+         </Language>
+         <Language id="English">
+            Amen, amen, amen. It shall be to you, all the days of your life.
+         </Language>
+         <Language id="Arabic">
+            أمين. أمين. أمين. يكون لك في جميع.
+         </Language>         
+      </Text>
+   </Section>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/psalmResponse/Funeral"/>
+   <InsertDocument path="include/psalmResponse/Nativity"/>
+   <InsertDocument path="include/psalmResponse/Theophany"/>
+   <InsertDocument path="include/psalmResponse/HosannaSunday"/>
+   <InsertDocument path="include/psalmResponse/Annunciation"/>
+   <InsertDocument path="include/psalmResponse/PreAscensionPentecostPeriodEntrance"/>
+   <InsertDocument path="include/psalmResponse/PostAscensionPentecostPeriodEntrance"/>
+   <InsertDocument path="include/psalmResponse/PentecostEntrance"/>
+   <InsertDocument path="include/psalmResponse/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/psalmResponse/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/psalmResponse/Pentecost"/>
+   <InsertDocument path="include/psalmResponse/WeddingCana"/>
+   <InsertDocument path="include/psalmResponse/PresentationInTemple"/>
+   <InsertDocument path="include/psalmResponse/Circumcision"/>
+   <InsertDocument path="include/psalmResponse/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/psalmResponse/Transfiguration"/>
+   <InsertDocument path="include/psalmResponse/CopticNewYear"/>
+   <InsertDocument path="include/psalmResponse/FeastOfTheCross"/>
+   <InsertDocument path="include/psalmResponse/Joyful29thOfTheMonth"/>
+</Document>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The First Hour (Prime)</Language>
+      <Language id="Arabic">صلاة باكر</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         6:00 AM: To commemorate the Resurrection of our Lord Jesus Christ. To be prayed in the morning to give thanks to God for the beginning of a new day, and to glorify Him for His Resurrection.
+      </Language>
+      <Language id="Arabic">
+         بهذه الصلاة نشكر الله عَلى إنقضاء الليل بسلام، ونطلب من أجل نهار مضئ بالأعمال الصالحة، ونذكر قيامة السيد المسيح في باكر النهار.
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>   
+   <InsertDocument path="include/agpeya/ComeLetUsKneelDown"/>   
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Pauline Epistle (Ephesians 4:1-5)
+         </Language>
+         <Language id="Arabic">
+            البولس من رسالة أفسس  4: 1-5
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+             I, therefore, the prisoner of the Lord, beseech you to walk worthy of the calling with which you were called, with all lowliness and meekness, with longsuffering, bearing with one another in love, endeavoring to keep the unity of the Spirit in the bond of peace. There is one body, and one Spirit, just as you were called in one hope of your calling; one Lord, one faith, one baptism.
+         </Language>
+         <Language id="Arabic">
+            أسألكم أنا الأسير في الرب أن تسلكوا كما يحق للدعوة التي دعيتم إليها، بكل تواضع القلب والوداعة وطول الأناة، محتملين بعضكم بعضا بالمحبة، مسرعين إلى حفظ وحدانية الروح برباط الصلح الكامل لكي تكونوا جسداً واحداً وروحاً واحدا، كما دعيتم في رجاء دعوتكم الواحد. ربٍّ واحد. وإيمان واحد. ومعمودية واحدة.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            The Faith of the Church
+         </Language>
+         <Language id="Arabic">
+            من إيمان الكنيسة
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            One is God the Father of everyone. One is His Son, Jesus Christ the Word, Who took flesh and died and rose from the dead on the third day, and raised us with Him. One is the Holy Spirit, the Comforter, one in His Hypostasis, proceeding from the Father, purifying the whole creation, and teaching us to worship the Holy Trinity, one in divinity and one in essence. We praise Him and bless Him forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            واحد هو الله أبو كل أحد. واحد هو أيضا ابنه يسوع المسيح الكلمة، الذي تجسد ومات وقام من الأموات في اليوم الثالث وأقامنا معه، واحد هو الروح القدس المعزى الواحد بأقنومه، منبثق من الآب، يطهر كل البرية. يعلمنا أن نسجد للثالوث القدوس بلاهوت واحد وطبيعة واحدة، نسبحه ونباركه إلى الأبد. آمين.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The Morning Prayer of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            صلاة باكر من النهار المبارك، أقدمها للمسيح ملكي وإلهي، وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 1</li>
+            <li>Psalm 15</li>
+            <li>Psalm 142</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/1"/>
+   <InsertDocument path="include/agpeya/psalms/2"/>
+   <InsertDocument path="include/agpeya/psalms/3"/>
+   <InsertDocument path="include/agpeya/psalms/4"/>
+   <InsertDocument path="include/agpeya/psalms/5"/>
+   <InsertDocument path="include/agpeya/psalms/6"/>
+   <InsertDocument path="include/agpeya/psalms/8"/>
+   <InsertDocument path="include/agpeya/psalms/11"/>
+   <InsertDocument path="include/agpeya/psalms/12"/>
+   <InsertDocument path="include/agpeya/psalms/14"/>
+   <InsertDocument path="include/agpeya/psalms/15"/>
+   <InsertDocument path="include/agpeya/psalms/18"/>
+   <InsertDocument path="include/agpeya/psalms/24"/>
+   <InsertDocument path="include/agpeya/psalms/26"/>
+   <InsertDocument path="include/agpeya/psalms/62"/>
+   <InsertDocument path="include/agpeya/psalms/66"/>
+   <InsertDocument path="include/agpeya/psalms/69"/>
+   <InsertDocument path="include/agpeya/psalms/112"/>
+   <InsertDocument path="include/agpeya/psalms/142"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint John, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار يوحنا البشير بركته علي جميعنا أمين.
+         </Language>      
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (John 1:1-17)
+            </Language>
+            <Language id="Arabic">
+               إنجيل يوحنا 1: 1-17
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made by Him; and without Him was not anything made that was made. In Him was life; and the life was the light of men. And the light shines in darkness; and the darkness did not comprehend it.
+            </Language>
+            <Language id="Arabic">
+               في البدء كان الكلمة، والكلمة كان عندَ الله. وكان الكلمة الله، هذا كان في البدء عند الله. كل شئ به كان، وبغيره لم يكن شئ مما كان. فيه كانت الحياة، والحياة كانت نورَ الناس، والنور أضاء في الظلمة، والظلمة لم تدركه.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               There was a man sent from God, whose name was John. This man came for a witness, to bear witness of the Light, that all men through him might believe. He was not the Light, but was sent to bear witness to the Light. That was the true Light that gives light to every man coming into the world. He was in the world, and the world was made by Him, and the world did not know Him. He came unto His own, and His own did not receive Him. But as many as received Him, to them He gave power to become children of God, to those who believe in His name; who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
+            </Language>
+            <Language id="Arabic">
+               كان إنسان مرسل من الله اسمه يوحنا، هذا جاء للشهادة ليشهد للنور ليؤمن الكل بواسطته. لم يكن هو النور بل ليشهد للنور، كان النورُ الحقيقي الذي ينير كل إنسان آتيا إلى العالم. كان في العالم، وكُوِّنَ العالم به، ولم يعرفه العالم. إلى خاصته جاء، وخاصته لم تقبله. وأما الذين قبلوه فأعطاهم سلطانا أن يصيروا أبناء الله، الذين يؤمنون باسمه، الذين ولدوا ليس من دم، ولا من مشيئة جسد، ولا من مشيئة رجل، لكن من الله ولدوا.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               And the Word became flesh, and dwelt in us, and we beheld His glory, the glory as of the Only-Begotten of His Father, full of grace and truth. John bore witness of Him, and cried out, saying, “This was He of whom I said, `He who comes after me is preferred before me: for He was before me.’” And of His fullness we have all received, and grace for grace. For the law was given by Moses, but grace and truth came through Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               والكلمة صار جسدا وحل بيننا ورأينا مجده مثل مجد ابن وحيد لأبيه مملوءا نعمة وحقا. يوحنا شهد له وصرخ قائلا: هذا هو الذي قلت عنه إن الذي يأتي بعدى كان قبلي، لأنه كان أقدم منى. ونحن جميعا أخذنا من ملئه، ونعمة عوضا عن نعمة. لأن الناموس بموسى أعطى. أما النعمة والحق فبيسوع المسيح صارا.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. O the true Light Who gives light to every man coming into the world, You came into the world through Your love for mankind, and all creation rejoiced in Your coming. You saved our father, Adam, from the seduction, and delivered our mother, Eve, from the pangs of death, and gave us the spirit of sonship. Let us, therefore, praise You and bless You saying:
+            </Language>
+            <Language id="Arabic">
+               1. أيها النور الحقيقي الذي يضئ لكل إنسان آت إلى العالم، أتيت إلى العالم بمحبتك للبشر، وكل الخليقة تهللت بمجيئك. خلصت أبانا آدم من الغواية، وعتقت أمنا حواء من طلقات الموت، وأعطيتنا روح البنوة، نسبحك ونباركك قائلين:
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. As the daylight shines upon us, O Christ Our God, the true Light, let the luminous senses and the bright thoughts shine within us, and do not let the darkness of passions hover over us, that mindfully we may praise You with David saying, “My eyes hastened to awake before the dawn, that I might meditate on Your sayings.”  Hear our voices according to your great mercy, and deliver us, O Lord our God, through Your compassion.
+            </Language>
+            <Language id="Arabic">
+               2. إذا ما دخل إلينا وقت الصباح أيها المسيح إلهنا النور الحقيقي، فلتشرق فينا الحواس المضيئة والأفكار النورانية. ولا تغطينا ظلمة الآلام، لكي نسبحك عقليا مع داود قائلين: " سبقت عيناي وقت السحر لأتلو في جميع أقوالك". اسمع أصواتنا كعظيم رحمتك، ونجنا أيها الرب إلهنا بتحننك.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. You are the honored Mother of the Light; from the risings of the sun to its settings praises are offered to you, O Mother of God (Theotokos), the second heaven, for you are the bright and unchanging flower, and the ever virgin mother; for the Father chose you, and the Holy Spirit overshadowed you, and the Son condescended and took flesh from you. Wherefore, ask Him to give salvation to the world which He created, and to deliver it from all tribulations. Let us praise Him a new praise, and bless Him, now and forever and unto the ages of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               3. أنت هي أم النور المكرمة، من مشارق الشمس إلى مغاربها يقدمون لك تمجيدات يا والدة الإله السماء الثانية، لأنك أنت هي الزهرة النيرة غير المتغيرة والأم الباقية عذراء، لأن الآب اختارك، والروح القدس ظللك، والابن تنازل وتجسد منك. فاسأليه أن يعطى الخلاص للعالم الذي خلقه، وأن ينجيَّه من التجارب. نسبحه تسبيحا جديدا ونباركه الآن وكل أوان وإلى الأبد. أمين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+    
+   <InsertDocument path="include/agpeya/Gloria"/>
+   <InsertDocument path="include/agpeya/Trisagion"/>
+   <InsertDocument path="include/agpeya/HailToYou"/>
+   <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+   <InsertDocument path="include/Creed"/>
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>      
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            First Absolution
+         </Language>
+         <Language id="Arabic">
+            وهذا التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            O Lord, God of hosts, who is existing before all ages and abides forever, who created the sun for daylight, and the night as rest for all men; we thank You, O King of ages, for You have let us pass through the night in peace, and brought us to the daybreak. Therefore, we ask You, O our Master, the King of all ages, let Your face shine upon us, and the light of Your divine knowledge enlighten us. Grant us, O our Master, to be sons of light and sons of day, to pass this day in righteousness, chastity and good conduct, that we may complete all the rest of the days of our life without offence; through the grace, the compassion and the love of mankind of Your Only-Begotten Son Jesus Christ, and the gift of Your Holy Spirit, now and at all times and forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            أيها الرب إله القوات، الكائن قبل الدهور والدائم إلى الأبد، الذي خلق الشمس لضياء النهار، والليل راحة لكل البشر، نشكرك يا ملك الدهور لأنك أجزتنا هذا الليل بسلام وأتيت بنا إلى مبدأ النهار. من أجل هذا نسأل يا ملكنا ملك الدهور، ليشرق لنا نور وجهك، وليضيء علينا نور علمك الإلهي. واجعلنا يا سيدنا أن نكون بنى النور وبني النهار، لكي نجوز هذا اليوم ببر وطهارة وتدبير حسن، لنكمل بقية أيام حياتنا بلا عثرة. بالنعمة والرأفة ومحبة البشر اللواتي لابنك الوحيد يسوع المسيح، وموهبة روحك القدوس. الآن وكل أوان وإلى الأبد. أمين.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">
+            Second Absolution
+         </Language>
+         <Language id="Arabic">
+            تحليل آخر
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            O God Who causes the light to burst forth, Who lets His sun shine upon the righteous and the wicked, Who created the light which illuminates the whole world, enlighten our minds, our hearts and our understandings, O Master of all, and grant us to please You this present day. Guard us from every bad thing, from every sin, and from every adversitive power; through Christ Jesus our Lord, with whom You are blessed, with the Holy Spirit, the Life-Giver and one essence with You, now and at all times and unto the ages of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            أيها الباعث النور فينطلق، المشرق شمسه على الأبرار والأشرار، الذي صنع النور الذي يضئ على المسكونة، أنر عقولنا وقلوبنا وأفهامنا يا سيد الكل. هب لنا في هذا اليوم الحاضر أن نرضيك فيه. واحرسنا من كل شئ رديء ومن كل خطيئة، ومن كل قوة مضادة بالمسيح يسوع ربنا. هذا الذي أنت مبارك معه مع الروح القدس المحيى المساوي لك، الآن وكل أوان وإلى دهر الدهور. أمين.
+         </Language>
+      </Text>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

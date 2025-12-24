@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Verses of the Cymbals</Language>
+         <Language id="Arabic">ارباع الناقوس</Language>
+      </Title>
+      
+      <InsertDocument path="include/versesofthecymbals/FeastsOfTheLordVerses"/>
+      <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.1"/>
+      <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.2"/>
+      <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.3"/>
+      <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.4"/>
+   </Section>
+</Document>

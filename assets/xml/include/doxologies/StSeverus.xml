@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StSeverus:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Severus, Patriarch of Antioch</Language>
+            <Language id="Arabic">ذوكصولوجية الأنبا ساويرس البطريرك</Language>
+            <Language id="Coptic">Pikebernit/c...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Severus:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Pikebernit/c ettajr/out: pirefmisi n~kalwc: piref[ro qen nibwtc: piq/bc e~tafe~rouwini.
+            </Language>
+            <Language id="English">
+               The confirmed leaders, the great defenders, the winners of the fight, the bright lamps.
+            </Language>
+            <Language id="Arabic">
+               المدبر الثابت المحارب جيداً الغالب فى الحروب السراج المنير.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pikurix n~te ]oryodoxia: pe Ceu/~roc pipatriar,/c: piref]c~bw n~te pio~hi: n~logikon n~te P,#c#.
+            </Language>
+            <Language id="English">
+               The pillar of Orthodoxy, is Abba Severus the patriarch, the teacher of the rational, flock of Christ.
+            </Language>
+            <Language id="Arabic">
+               المنادى بالارثوذكسية هو ساويرس البطريرك معلم القطيع الناطق الذى للمسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anekdogma etcoutwn: misi m~p~h/t n~niheretikoc: m~v~r/] n~ouc/fi n~ro2: hiten t~jom n~}t~riac.
+            </Language>
+            <Language id="English">
+               Your upright teaching, defeated the heretics, like the two edged sword, through the power of Christ.
+            </Language>
+            <Language id="Arabic">
+               اعتقاداتك المستقيمة ضربت فى قلوب الهراطقة مثل سيف ذى حدين بقوة الثالوث.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wcautwc ten[ici m~mok: nem pihumnodoc Dauid: je n~yok pe piou/b sa e~neh: kata t~taxic m~Mel,icedek.
+            </Language>
+            <Language id="English">
+               Likewise we magnify You, with David the psalmist, You are the priest forever, according to the order of Melchizedek.
+            </Language>
+            <Language id="Arabic">
+               لذلك نرفعك مع المرتل داود قائلين أنت هو الكاهن إلى الأبد على طقس ملشيصاداق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akeli niben kwlj m~Po#c#: a~lac niben c~mou e~rof: a~p~w~ou m~V] ouwsc e~bol: afmoh m~p~ho n~]oikoumen/.
+            </Language>
+            <Language id="English">
+               Every knee bows to the Lord, every tongue blesses Him, the glory of God has spread, and filled the whole world.
+            </Language>
+            <Language id="Arabic">
+               كل ركبة جثت للرب وكل لسان سبحه ومجدُ الله اتسع وملأ وجه للمسكونة.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StSeverus"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" ChurchConsecration="true">
+   <Title>
+      <Language id="English">Church Consecration (Part 1)</Language>      
+      <Language id="Coptic">Pjineragiazin n~]ekkl/cia m~beri</Language>
+   </Title>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   <InsertDocument path="consecrations/church/include/FoundationPrayer"/>
+   
+   <Role id="Bishop">
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/MidnightHourLink"/>   
+   <InsertDocument path="include/praises/IntroductionMidnight"/>
+   
+   <Comment>
+      <Language id="English">
+         <ul>
+            <li>Psalms 1-120 are read by the congregation inaudibly.</li>
+            <li>Psalms 121-150 are chanted out aloud.</li>
+            <li>Psalm 151 is chanted in the Bright Saturday tune:</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/Psalm151Chant"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/FirstHoos"/>
+      <InsertDocument path="include/praises/SecondHoos"/>
+      <InsertDocument path="include/praises/ThirdHoos"/>
+      
+      <InsertDocument path="include/praises/Aripsaleen"/>
+      <InsertDocument path="include/praises/TenowehEnsok"/>
+      <InsertDocument path="include/praises/Commemoration"/>
+      <InsertDocument path="include/doxologies/DoxologiesLink"/>
+      <InsertDocument path="include/praises/ConclusionWatosTheotokia"/>
+      <InsertDocument path="include/praises/FourthHoos"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Sick"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Genesis 1:1-2:3" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/Psalies"/>
+      <InsertDocument path="include/praises/theotokia/Sunday1"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 1:46-50" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Travelers"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Genesis 28:10-22" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday2"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 1:51-56" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/Seasons"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 25:1-26:30" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday3"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 1:68-72" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/cyril/litanies/Leader"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 30:17-31:13" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday4"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 1:73-77" type="section"/>
+   </Role>
+</Document>

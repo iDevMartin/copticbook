@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily ^ WatosDays">
+      <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyWatos"/>
+   </Season>
+   
+   <Season id="EntranceOfTheHolyFamily ^ AdamDays">
+      <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyAdam"/>
+   </Season>
+</Document>

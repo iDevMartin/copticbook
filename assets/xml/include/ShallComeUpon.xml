@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Ece~swpi ece~swpi e~jen t~a~ve m~peniwt eyouab n~ar,/ e~reuc papa abba (nim).
+      </Language>
+      <Language id="English">
+         Shall be upon the head of our Holy father, the archpriest, Pope Abba (...).
+      </Language>
+      <Language id="Arabic">
+         تحل علي رأس أبينا القديس رئيس الكهنة البابا أنبا (...). 
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">         
+         If a metropolitan or bishop is present:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Nem pefkes~v/r n~litourgoc peniwt eyouab m~m/tropol/c (n~e~pickopoc) abba (nim).
+      </Language>
+      <Language id="English">
+         And his partner in the liturgy, our holy father the metropolitan (Bishop) Abba (...).
+      </Language>
+      <Language id="Arabic">
+         في حضور أسقف: وشريكه في الخدمة أبينا الأسقف أنبا (...).
+      </Language>         
+   </Text>
+</Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="melodies/include/pentecost/Resurrection"/>
+   <InsertDocument path="melodies/include/pentecost/First Week of the Holy 50 Days"/>
+   <InsertDocument path="melodies/include/pentecost/Second Week of the Holy 50 Days"/>
+   <InsertDocument path="melodies/include/pentecost/Third Week of the Holy 50 Days"/>
+   <InsertDocument path="melodies/include/pentecost/Fourth Week of the Holy 50 Days"/>
+   <InsertDocument path="melodies/include/pentecost/Fifth Week of the Holy 50 Days"/>
+   <InsertDocument path="melodies/include/pentecost/OtherSongs"/>
+</Document>

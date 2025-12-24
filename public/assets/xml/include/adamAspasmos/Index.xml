@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/adamAspasmos/CovenantThursday"/>
+   <InsertDocument path="include/adamAspasmos/JoyousSaturday"/>
+   <InsertDocument path="include/adamAspasmos/Nativity"/>
+   <InsertDocument path="include/adamAspasmos/Theophany"/>
+   <InsertDocument path="include/adamAspasmos/HosannaSunday"/>
+   <InsertDocument path="include/adamAspasmos/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/adamAspasmos/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/adamAspasmos/Pentecost"/>
+   <InsertDocument path="include/adamAspasmos/AnnunciationAndJoyful29thOfTheMonth"/>
+   <InsertDocument path="include/adamAspasmos/WeddingCana"/>
+   <InsertDocument path="include/adamAspasmos/CopticNewYear"/>
+   <InsertDocument path="include/adamAspasmos/FeastOfTheCross"/>
+   <InsertDocument path="include/adamAspasmos/FirstWeekOfKoiahk"/>
+   <InsertDocument path="include/adamAspasmos/SecondWeekOfKoiahk"/>
+   <InsertDocument path="include/adamAspasmos/ThirdWeekOfKoiahk"/>
+   <InsertDocument path="include/adamAspasmos/FourthWeekOfKoiahk"/>
+   <InsertDocument path="include/adamAspasmos/NativityParamoun"/>
+   <InsertDocument path="include/adamAspasmos/ApostlesFast"/>
+   <InsertDocument path="include/adamAspasmos/ApostlesFeast"/>
+   <InsertDocument path="include/adamAspasmos/GreatFast"/>
+   
+   <InsertDocument path="include/adamAspasmos/saints/StMaryFeast"/>
+   <InsertDocument path="include/adamAspasmos/saints/ArchangelMichael"/>
+   <InsertDocument path="include/adamAspasmos/saints/ArchangelGabriel"/>
+   <InsertDocument path="include/adamAspasmos/saints/ArchangelRaphael"/>
+   <InsertDocument path="include/adamAspasmos/saints/TwentyFourPriests"/>
+   <InsertDocument path="include/adamAspasmos/saints/StJohnTheBaptist"/>
+   <InsertDocument path="include/adamAspasmos/saints/StStephen"/>
+   <InsertDocument path="include/adamAspasmos/saints/StMark"/>
+   <InsertDocument path="include/adamAspasmos/LazarusSaturday"/>
+   <InsertDocument path="include/adamAspasmos/saints/StGeorge"/>
+   <InsertDocument path="include/adamAspasmos/saints/StTheodoreShotep"/>
+   <InsertDocument path="include/adamAspasmos/saints/StPhilopaterMercurius"/>
+   <InsertDocument path="include/adamAspasmos/saints/StMena"/>
+   <InsertDocument path="include/adamAspasmos/saints/StSergiusAndStBacchus"/>
+   <InsertDocument path="include/adamAspasmos/saints/StApakirAndStJohn"/>
+   <InsertDocument path="include/adamAspasmos/saints/StMoses"/>    
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Wouniatf m~v/e~takcotpf ouoh aksopf e~rok: efe~swpi qen nekaul/ou sae~neh. 
+      </Language>
+      <Language id="English">
+         Blessed is he whom You choose and help; he shall dwell in Your courts. 
+      </Language>
+      <Language id="Arabic">
+         طوبي لمن أخترته وقبلته ليسكن في ديارك إلي الأبد, 
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         F~ouab n~je pekervei: ouoh foi n~s~v/ri qen oumeym/i: All/louia.
+      </Language>
+      <Language id="English">
+         Holy is Your temple, wondrous in righteousness. Alleluia.
+      </Language>
+      <Language id="Arabic">
+         قدوس هو هيكلك وعجيب بالبر. الليلويا.
+      </Language>
+   </Text>
+</Document>

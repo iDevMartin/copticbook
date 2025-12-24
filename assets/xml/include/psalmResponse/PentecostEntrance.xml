@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost ^ EntranceOfTheHolyFamily">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Entrance of the Holy Family into Egypt on the Feast of the Pentecost:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. Pi,~rictoc aftwnf ouoh afsenaf: afouwrp nan m~piParakl/ton Pip~neuma n~te ]meym/i. afi~ eqoun e~p~kahi n~,/mi: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Christ is risen and has ascended; He sent to us the Paraclete, the Spirit of truth; entered into the land of Egypt. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا المسيح قام ثم صعد، وارسل لنا البارقليط، روح الحق، دخل إلي أرض مصر. الليلويا الليلويا
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

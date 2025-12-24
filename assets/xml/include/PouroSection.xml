@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Hymn of Joy</Language>
+         <Language id="Coptic">Pouro</Language>               
+      </Title>
+      
+      <InsertDocument path="include/Pouro"/>
+   </Section>
+</Document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StMarina:All">
+      <Title>
+         <Language id="English">St. Marina the Martyr</Language>
+         <Language id="Arabic">الشهيدة مارينا</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

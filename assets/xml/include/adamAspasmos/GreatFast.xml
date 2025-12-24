@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="GreatFast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Je ,~ouws m~v~mou...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Great Fast:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Je ,~ouws m~v~mou an m~pirefernobi: m~v~r/] n~teftacyof: n~tecw~nq n~je tef'u,/
+            </Language>
+            <Language id="English">
+               For You desire not the death of the sinner, but that he returns: that his soul may live.
+            </Language>
+            <Language id="Arabic">
+               لأنك لا تشاء موت الخاطئ مثل أن يرجع وتحيا نفسه.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matacyon V]: e~qoun e~pekoujai: a~rioui neman: kata tekmeta~gayoc
+            </Language>
+            <Language id="English">
+               Return us God, unto Your salvation, and deal with us according to Your goodness.
+            </Language>
+            <Language id="Arabic">
+               ردنا يا الله إلى خلاصك واصنع معنا كصلاحك.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Text>
+         <Language id="Coptic">
+            Pi,~rictoc aftwnf e~bolqen n/eymwout ouoh afsenaf e~p~swi e~niv/oui  
+         </Language>
+         <Language id="English">
+            Christ is risen from the Dead and Ascended to the Heavens
+         </Language>
+         <Language id="Arabic">
+            المسيح قام من الأموات وصعد الي السموات
+         </Language>
+      </Text>         
+   </Season>
+</Document>

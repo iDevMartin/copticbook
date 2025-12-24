@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Watos Aspasmos</Language>
+         <Language id="Arabic">الاسبسمس الواطس</Language>
+         <Language id="Coptic">P[oic V~nou]...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            P[oic V~nou] n~te nijom: kotk ouoh joust e~bolqen t~ve: a~nau ouoh jemp~sini n~taibw n~a~loli: cebtwtc ouoh cemn/tc yai e~tac[oc n~je tekouinam.
+         </Language>
+         <Language id="English">
+            O Lord, God of hosts, return and behold from heaven, and look and visit this vine, restore and establish Her, this which Your right hand has planted.
+         </Language>
+         <Language id="Arabic">
+            أيها الرب إله القوات، إرجع واطلع من السماء، انظر وتعهد هذه الكرمة، أصلحها وثبتها، هذه التي غرستها يمينك
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/> 
+      <InsertDocument path="include/watosAspasmos/Conclusion"/>
+   </Section>   
+</Document>

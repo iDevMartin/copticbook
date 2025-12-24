@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Role id="People">
+         <Section>
+            <Title>            
+               <Language id="English">Today the Virgin</Language>         
+               <Language id="Coptic">?~ Paryenoc</Language>
+            </Title>
+            
+            <InsertDocument path="include/EParthenos"/>
+         </Section>
+         
+         <Section expanded="true">
+            <Title>                     
+               <Language id="English">The virginal birth</Language>
+               <Language id="Coptic">Pijinmici</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pijinmici m~paryenikon ouoh ninakhi mp~neumatikon ous~v/ri m~paradoxon kata nic~m/ m~p~rov/tikon. 
+               </Language>
+               <Language id="English">
+                  The virginal birth and spiritual pangs — a paradoxical wonder, according to the prophetic voices!
+               </Language>
+               <Language id="Arabic">
+                  الميلاد البتولي والطلقات الروحانية عجب عجيب كالأخبار النبوية.
+               </Language>         
+            </Text>                    
+         </Section>
+         
+         <Comment>
+            <Language id="English">
+               The following hymn may be said in its tune after the previous hymn or during the Distribution:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/Geneylion"/>
+         
+         <Comment>
+            <Language id="English">
+               The following hymn  may also be chanted. This hymn was never recorded or handed down by any cantor and is considered one of the many lost hymns of our church:
+            </Language>
+         </Comment>
+         
+         <Section>
+            <Title>                     
+               <Language id="English">A star appeared</Language>
+               <Language id="Coptic">Ouciou...</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouciou afsai qen niman~sai: ouo~uro aumasf qen B/yleem: hanmagoc aue~n dwron naf auhitou: e~q~ryi auo~uw~st m~mof. 
+               </Language>
+               <Language id="English">
+                  A star appeared in the east, a King was born in Bethlehem, and the Magi brought Him offerings, and they bowed down and worshiped Him.
+               </Language>
+               <Language id="Arabic">
+                  نجم أشرق في المشارق، ملك وُلد في بيت لحم، ومجوس قدموا له قرابين، وخروا وسجدوا له.
+               </Language>         
+            </Text>                    
+            
+            <Text>
+               <Language id="Coptic">
+                  Aui~ni naf n~oulibanoc hwc nou]: nem ounoub hwc o~uro: nem ousal ef]m/ini: e~pefjinmou n~reftanqo. 
+               </Language>
+               <Language id="English">
+                  They brought Him frankincense as for a Lord, gold as for a king, and myrrh as for His living death.
+               </Language>
+               <Language id="Arabic">
+                  قدموا له لباناً كإله، وذهباً كملك، ومراً يدل علي موته المحي.
+               </Language>         
+            </Text>
+         </Section>               
+      
+         <Comment>
+            <Language id="English">
+               The Paralex (Exposition) hymn <span class="Coptic">Apen[oic</span> is then chanted:
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Apen[oic</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Apen[oic I/couc Pi,~rictoc v/e~tacmacf n~je ]paryenoc qen B/yleem n~te ]Ioudea~ kata nic~m/ m~p~rov/tikon
+               </Language>
+               <Language id="English">
+                  Our Lord Jesus Christ, who was born of the Virgin, in Bethlehem of Judea, according to the prophetic voices.
+               </Language>
+               <Language id="Arabic">
+                  ياربنا يسوع المسيح الذي ولدته العذراء في بيت لحم اليهودية كالأصوات النبوية 
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/StandardPachoicConclusion"/>
+         </Section>
+      </Role>
+   </Season>
+</Document>

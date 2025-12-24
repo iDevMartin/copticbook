@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Matins ^ Theophany">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for Matins of the Theophany
+            </Language>
+            <Language id="Arabic">
+               باكر عيد الغطاس  المجيد
+            </Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Chanted after The Doxologies of the Theophany
+            </Language>
+            <Language id="Arabic">
+               تقال بعد ذوكصولوجيات الغطاس
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="melodies/include/MatinsTheophany_Refrain"/>
+         
+         <Comment>
+            <Language id="English">
+               First Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الأولـى
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Glory to the Lord of hosts / 
+               High beyond our eyes’ reach / 
+               Who dawned upon us in the flesh / 
+               Revealing the greatest of mysteries
+            </Language>
+            <Language id="Arabic">
+               المجد لك يارب الصباؤوت / 
+               يا متعالياً عن الأبصار / 
+               يا من أشرقت بالناسوت / 
+               وأظهرت لنا سامي الأسرار
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Bestowed upon us the kingdom’s blessings / 
+               And made us awash in light / 
+               Guided us to the mysteries of His divinity / 
+               By His appearance, enlightening our sights
+            </Language>
+            <Language id="Arabic">
+               ومنحتناً خيرات الملكوت / 
+               ووشحت نفوسنا بالأنوار / 
+               وأرشدتنا لسر اللاهوت / 
+               بظهـورك الـذي أنـار الأبصـار.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               We were lost in darkness / 
+               Tossed about in transgressions / 
+               Heading the abominable idols / 
+               Without canons or covenants
+            </Language>
+            <Language id="Arabic">
+               قد كنا في الظلمة حائرين / 
+               متقلبين في الآثام / 
+               ولرجس الأوثان خاضعين / 
+               لا عَهْدَ لنا ولا نظام
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               With no fear nor reverence / 
+               With no law, nor rules / 
+               In the shadow of death residing / 
+               Only to pursue our bodily pleasures
+            </Language>
+            <Language id="Arabic">
+               ولا مخافة تجعلنا خاشعين / 
+               ولا ناموس ولا أحكام / 
+               وفي ظل الموت مقيمين / 
+               متعبدين لهوى الأجسام
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Then the Word of God appeared / 
+               Showing us the right path / 
+               He lifted the darkness / 
+               And renewed our souls
+            </Language>
+            <Language id="Arabic">
+               فظهر إبنُ العَلىِّ الكلمة / 
+               وأوضح لنا السبيل الرشيد / 
+               ورفع عنا حُجُبَ الظلمة / 
+               وأعاد نفوسنا بالتجديد
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsTheophany_Refrain"/>
+         
+         <Comment>
+            <Language id="English">
+               Second Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الثانيـة
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               He appeared shining from the Virgin / 
+               His splendid Divinity united with flesh / 
+               A mystery beyond all human grasp / 
+               One Hypostasis without alteration
+            </Language>
+            <Language id="Arabic">
+               ظهر مشرقاً من البتول / 
+               متجسداً بلاهوت شريف / 
+               بسر يعلو على العقول / 
+               إقنوماً واحداً بلا تكييف
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He was carried in His mother’s bosom / 
+               Bringing honor to those who beheld Him / 
+               While always present with His Father / 
+               He is worshiped without confusion
+            </Language>
+            <Language id="Arabic">
+               في حضن أمه وهو محمول / 
+               للناس به الشرف المنيف / 
+               وهو مع أبيه دائماً لا يزول / 
+               معبوداً غنياً عن التعريف
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               His mystery remains concealed / 
+               Until the time of His choosing / 
+               He reached thirty years of age / 
+               His divinity hidden from His creation
+            </Language>
+            <Language id="Arabic">
+               ولم يزل محجوباً سره / 
+               إلى الوقت الذى إرتضاه / 
+               وتكامل للثلاثين عمره / 
+               وهو مستتر عن براياه
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The light of His glory has shown / 
+               When His forerunner John proclaimed Him / 
+               John came to the Jordan to reveal Him / 
+               Calling people to repent to God
+            </Language>
+            <Language id="Arabic">
+               وقد أشرق ليُعلن قدره / 
+               وأنهض يوحنا فتاه / 
+               فجاء الأردن وأظهر أمره / 
+               ونادى بالتوبة إلى الله
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He received the multitudes who came / 
+               And explained the promised salvation of old / 
+               Completing the confessors’ repentance / 
+               By baptizing them with water
+            </Language>
+            <Language id="Arabic">
+               وجعل يقبل إليه الآتيين / 
+               ويعلمهم الخلاص العتيد / 
+               ويتمم توبة المعترفين / 
+               بنزولهم الماء للتعميد
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsTheophany_Refrain"/>
+         
+         <Comment>
+            <Language id="English">
+               Third Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الثـالثـة
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               To John they came from all regions / 
+               Multitudes of the repentant / 
+               To hear the words of comfort / 
+               Awaiting the Word of God
+            </Language>
+            <Language id="Arabic">
+               فإجتمع إليه من الجهات / 
+               المحيطة جموعٌ جَمَّه / 
+               وأقبلوا زارفين العبارات / 
+               مترقبين إستماع الكلمة
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He spoke to them with steadfastness / 
+               As they listened to his wisdom / 
+               He preached to them the commandment / 
+               “Bear fruits worthy of repentance”
+            </Language>
+            <Language id="Arabic">
+               فخاطبهم بهمة وثبات / 
+               وهم يتلقون منه الحكمة / 
+               وهتف عليهم بالعظات / 
+               إصنعوا أثمارَ النعمة
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               “Repent of the evil acts / 
+               Walk in the righteous path / 
+               Avoid the ways of disobedience / 
+               Do not be proud of your old ways”
+            </Language>
+            <Language id="Arabic">
+               وتوبوا عن فعل العصيان / 
+               وأسلكوا المنهج القويم / 
+               وتجنبوا طرق الطغيان / 
+               غير مفتخرين بالسلف القديم
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               “Pride in the faith should not be / 
+               In being children of the patriarchs / 
+               God is able to raise up children / 
+               To Abraham from these stones”
+            </Language>
+            <Language id="Arabic">
+               فإنما الفخر بالإيمان / 
+               لا بالآباء والعَظْم الرميم / 
+               لأن الله قادر أن / 
+               يقيم من الحجر بنين لإبراهيم
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The multitude heeded his teaching / 
+               They accepted his preaching / 
+               They diligently sought understanding / 
+               And approached him seeking baptism
+            </Language>
+            <Language id="Arabic">
+               فالجموع خشعوا لتعليمه / 
+               وإقتبلوا وعظه بالتأييد / 
+               وأزعنوا حقاً لتفهيمه / 
+               وشرعوا يلتمسون التعميد
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsTheophany_Refrain"/>
+      </Section>
+   </Season>
+</Document>

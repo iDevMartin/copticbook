@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday Eve (The Third Hour)</Language>
+         <Language id="Arabic">ليلة الثلاثاء (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Psomt (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Malachi 1:1-9</Language>
+               <Language id="Arabic">ملاخي 1: 1-9</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Malachi"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pl/mma m~p~caji m~P[oic e~jen p~Icra/l qen tjij m~pefaggeloc: ,ac ejen petenh/t: aimenre y/nou peje P[oic ouoh pejwten je qen ou akmenriten: 
+               </Language>
+               <Language id="English">
+                  The burden of the word of the Lord to Israel by the hand of His messenger Malachi. Take it to heart! "I have loved you," says the Lord. "But you say, 'In what way have You loved us?' 
+               </Language>
+               <Language id="Arabic">
+                  فتح كلام الرب لاسرائيل على يد ملاكه. ضعوا فى قلوبكم أنى أحببتكم يقول الرب. وقلتم بم أحببتنا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ ne p~con an n~Iakwb pe /~cau peje P[oic: ouoh Iakwb aimenritf: ouoh /~cau aimectwf: ouoh aiyws n~nef[ii~ eutako: ouoh tefk~l/ronomia~ n~te hantoi n~te p~safe:
+               </Language>
+               <Language id="English">
+                  Was not Esau the brother of Jacob?" says the Lord. "Yet Jacob I have loved, but Esau I have hated, and I have appointed his borders for destruction and made his heritage as dwellings of the wilderness."
+               </Language>
+               <Language id="Arabic">
+                  أليس عيسو أخا ليعقوب يقول الرب. وقد أحببت يعقوب وأبغضت عيسو. وجعلت حدوده للفساد ونصيب ميراثه قفراً (لبنات آوى)
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  je ou/i e~fe~joc je acouwjp n~je ]hudoumea~ maren tacyon ouoh n~tenkwt n~necsafeu. 
+               </Language>
+               <Language id="English">
+                  Because one will say, "Edom has been destroyed, but let us return and rebuild the desolate places," 
+               </Language>
+               <Language id="Arabic">
+                  وأن قال الأدوميون أننا قد أنهدمنا فلنرجع ونبنى خربها 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai ne n/e~ tefjw m~mwou n~je P[oic pipantokratwr: je n~ywou eue~kwt: a~nok eie~ouwjp:
+               </Language>
+               <Language id="English">
+                  Thus says the Lord, Ruler of all: "They may build, but I will throw down.
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقول الرب الضابط الكل. هم يبنون وأنا أهدم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh eie~mou] e~rwou je niyws n~te ]a~nomia~ ouoh pilaoc v/e~taf ]oub/f n~je P[oic sae~neh: 
+               </Language>
+               <Language id="English">
+                  They shall be called the Territory of Wickedness, and the people against whom the Lord has placed Himself forever. 
+               </Language>
+               <Language id="Arabic">
+                  وأدعوها تخم الأثم والشعب الذى قاومه الرب إلى الأبد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eue~nau n~te netenbal: ouoh n~ywten e~reten e~joc: je afernis] n~je P[oic cap~swi n~niyws n~te p~Icra/l:
+               </Language>
+               <Language id="English">
+                  Your eyes will see, and you will say, 'The Lord is magnified beyond the borders of Israel.'
+               </Language>
+               <Language id="Arabic">
+                  فتبصر عيونكم وأنتم تقولون لقد تعظم الرب فوق تخوم اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ous/ri saf]wou m~pefiwt: ouoh oubwk m~pef[oic: icje a~nok ouiwt afywn paw~ou ouoh icje a~nok ou[oic acywn taho]: pe je P[oic pipantokratwr. 
+               </Language>
+               <Language id="English">
+                  "A son honors his father, and a servant his master. If then, I am the Father, where is My honor? And if I am a Master, where is the reverence due to me?" says the Lord Almighty. 
+               </Language>
+               <Language id="Arabic">
+                  الإبن يكرم أباه والعبد سيده. فأن كنت أنا أباً فأين كرامتى. وأن كنت سيداً فأين مهابتى. قـال الرب الضابط الكل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywten niou/b n/etsosf m~paran: ouoh pejwten jee~tansosf m~pekran qen ou:
+               </Language>
+               <Language id="English">
+                  "You priests are the ones who disparage My name, yet you say, 'In what way have we disparaged Your name?'
+               </Language>
+               <Language id="Arabic">
+                  وأنتم أيها الكهنة المحتقرون أسمي. وقلتم بم أحتقرنا أسمك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ereteni~ni e~qoun ha pamanerswsi n~hanwik eu[a~qem. ouoh pejwten je e~tan[a~qmef qen ou:
+               </Language>
+               <Language id="English">
+                  You offer defiled bread on My altar, but you say, 'How have we defiled You?'
+               </Language>
+               <Language id="Arabic">
+                  لأنكم قربتم على مذبحى خبزاً نجساً وقلتم بم نجسناه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen p~jiny~retenjoc je c~sosf n~je ]t~rapeza n~te P[oic: ouoh cesosf n~je niq~r/oui~ et,/ hijwc:
+               </Language>
+               <Language id="English">
+                  By saying, 'The table of the Lord is contemptible and the food placed upon it is contemptible.' 
+               </Language>
+               <Language id="Arabic">
+                  بـقولكم أن مائدة الرب حقيرة وحقيرة هى الأطعمة الموضوعة عليها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eswp aretensani~ni e~qoun n~oubelle e~ousouswousi m/ f~hwou an:
+               </Language>
+               <Language id="English">
+                  And when you offer the blind as a sacrifice, is that not evil?
+               </Language>
+               <Language id="Arabic">
+                  إذ قربتم الأعمى ذبيحة. أفليس ذلك شراً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~swp a~reten sani~ni e~qoun n~ou[ale ie ouai efswni m/ f~hwou an a~litf de e~qoun e~pekhugoumenoc an f~na[itf n~totk an f~na[im~pek]ho: peje P[oic pipantokratwr.
+               </Language>
+               <Language id="English">
+                  And when you offer the lame and sick, is that not evil? Offer it then to your ruler! See if he will accept it, if he will accept it favorably," says the Lord Almighty.
+               </Language>
+               <Language id="Arabic">
+                  وإذ قربتم الأعرج أو السقيم أفليس ذلك شراً قربه لرئيسك أفيقبله منك أو يقبل وجهك. يقول الرب الضابط الكل.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 12:4,6</Language>
+               <Language id="Arabic">مزمور 12: 4 ,6</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Comc cwtem e~roi P[oic panou]: mav~ouwini n~nabal m/pwc n~tahwrp qen v~mou: 
+               </Language>
+               <Language id="English">
+                  Look upon me and hear me, O Lord my God; enlighten my eyes, lest I sleep in death, 
+               </Language>
+               <Language id="Arabic">
+                  أنظر و أستجب لى ياربى وإلهي أنر عينى لئلا أنام فى الموت. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok de aierhelpic e~peknai: pah/t nayel/l e~h~r/i e~jen peknohem: All/louia.
+               </Language>
+               <Language id="English">
+                  But I hope in Your mercy; my heart shall greatly rejoice in Your salvation. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أما أنا فعلى رحمتك توكلت يبتهج قلبى بخلاصك. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 13:31-35</Language>
+            <Language id="Arabic">لوقا 13: 31-35</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  N~h~r/i de qen pie~hoou e~te m~mau aui~harof n~je hanvariceoc eujw m~moc naf: je masenak e~bol ouoh hwl e~bol tai je Prwd/c f~ouws e~qoybek.
+               </Language>
+               <Language id="English">
+                  On that very day some Pharisees came, saying to Him, “Get out and depart from here, for Herod wants to kill You.”
+               </Language>
+               <Language id="Arabic">
+                  وفى ذلك اليوم جاء إليه قوم من الفريسيين وقالوا له. أخرج وأذهب من هنا فأن هيرودس يريد قتلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ouoh pejaf nwou je masenwten a~joc n~taibasor: je h/ppe ]hi demwn e~bol: ouoh ]jwk n~hantal[o m~voou nem rac] ouoh qen pimah somt ]najwk e~bol. 
+               </Language>
+               <Language id="English">
+                  And He said to them, “Go, tell that fox, ‘Behold, I cast out demons and perform cures today and tomorrow, and the third day I shall be perfected.’  
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم. أذهبوا وقولوا لهذا الثعلب. ها أنا أخرج الشياطين. وأتمم الشفاء اليوم وغداً. وفى اليوم الثالث أكمل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pl/n hw] e~roi pe n~taervoou nem rac] ouoh peyn/ou n~tasen/i: je n~c~,/ an n~te oup~rov/t/c tako cabol n~Ieroucal/m.
+               </Language>
+               <Language id="English">
+                  Nevertheless I must journey today, tomorrow, and the day following; for it cannot be that a prophet should perish outside of Jerusalem.
+               </Language>
+               <Language id="Arabic">
+                  ولكنى ينبغى لى أن أقيم اليوم وغداً وفى اليوم الأتى أذهب. لأنه لا يهلك نبي خارجاً عن أورشليم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ieroucal/m Ieroucal/m y/etqwteb n~nip~rov/t/c ouoh ethiw~ni n~n/e~tauouorpou haroc:
+               </Language>
+               <Language id="English">
+                  “O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her!
+               </Language>
+               <Language id="Arabic">
+                  يا أورشليم يا أورشليم يا قاتلة الآنبياء وراجمه المرسلين إليها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ou/r n~cop aiouws e~you/t nes/ri m~v~r/] n~ouhal/t m~pefmoh qen neftenh ouoh m~petenouws.
+               </Language>
+               <Language id="English">
+                  How often I wanted to gather your children together, as a hen gathers her brood under her wings, but you were not willing! 
+               </Language>
+               <Language id="Arabic">
+                  كما من مرة أردت أن أجمع بينك كما يجمع الطائر فراخه تحت جناحيه فلم تريدوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ic peten/i ef,af nwten efswf: ]jw de m~moc nwten je n~neten nau e~roi icjen ]nou satetenjoc je f~c~marwout n~je v/eyn/ou qen v~ran m~P[oic.
+               </Language>
+               <Language id="English">
+                  See! Your house is left to you desolate; and assuredly, I say to you, you shall not see Me until the time comes when you say, ‘Blessed is He who comes in the name of the LORD!’”
+               </Language>
+               <Language id="Arabic">
+                  هوذا بيتكم يترك لكم خراباً وأنى أقول لكم أنكم لا تروننى من الآن. حتى تقولوا مبارك الأتى بإسم الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of the eve of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من ليلة الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  On this day some people came and told Him that king Herod wants to kill him saying, “Teacher, get out of here and leave this area because this irreverent Herod wants to kill you.” 
+               </Language>
+               <Language id="Arabic">
+                  فى ذلك اليوم وافاه قوم و أخبروه عن هيرودس الملك قائلين يا معلم أخرج من ههنا فإن هيرودس المارق يريد قتلك فأجاب 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Jesus said to them: "Go and tell this wicked fox that I will heal many today and tomorrow and in the coming days. It is written that no prophet shall perish outside Jerusalem.
+               </Language>
+               <Language id="Arabic">
+                  وقال للذى قال له أمض وقل لهذا الثعلب الشرير أنى أكمل شفاء كثيرين اليوم وغداً وفى اليوم الأتى فقد كتب أنه لا يهلك نبي خارجاً عن أورشليم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  O Jerusalem, Jerusalem, the one who kills the prophets and stones those that are sent to you; how often I wanted to gather your children together and you were not willing. Behold your house will be desolate forever.
+               </Language>
+               <Language id="Arabic">
+                  يا أورشليم يا أورشليم يا قاتلة الأنبياء و راجمة المرسلين. كم من مرة أردت أن أجمع بنيك فلم تريدى. هوذا اترك لكم بيتكم خراباً إلى كل الأجيال.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  For those who hear Me I say, from now on you shall not see Me until you all say in one voice, Blessed is he who comes in the name of the Lord God.”
+               </Language>
+               <Language id="Arabic">
+                  أقول لكم أيها الذين تسمعوننى أنكم لا تروننى منذ هذا اليوم حتى تقولوا كلكم من فم واحد مبارك الآتى بإسم الرب الإله.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

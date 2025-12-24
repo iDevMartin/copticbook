@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         &lt;ere ne ten]ho e~ro: w~ y/e#y#u# eymeh n~w~ou: e~toi m~paryenoc n~c/ou niben: ]macnou] y~mau m~P,#c#.
+      </Language>
+      <Language id="English">
+         Hail to you. We ask you, O saint, full of glory, the ever-virgin, the Mother of God (Theotokos), the Mother of Christ,
+      </Language>
+      <Language id="Arabic">
+         السَّلامُ لَكِ، نَسْألكِ أيَّتُها القِدّيسَةُ الممْتَلِئةُ مَجْداً، العَذْراءُ كلَّ حينٍ، والِدةُ الإلَهِ، أمُّ المسيحِ:
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Anioui~ n~tenp~roceu,/: e~p~swi ha pes/ri m~menrit: n~tef,a nennobi nan e~bol.
+      </Language>
+      <Language id="English">
+         Lift up our prayers unto your beloved Son, that He may forgive us our sins.
+      </Language>
+      <Language id="Arabic">
+         اصْعدي صَلَواتَنا إلى ابْنِكِ الحَبيبِ، ليغْفِرَ لَنا خَطايانا.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         &lt;ere y/e~tacmici nan: m~piouwini n~tav~m/i: P,#c# Pennou]: ]paryenoc e#y#u#.
+      </Language>
+      <Language id="English">
+         Hail to the Holy Virgin, who has brought forth unto us the true Light, Christ our God.
+      </Language>
+      <Language id="Arabic">
+         السَّلامُ لِلَّتي وَلَدتْ لَنا النّورَ الحَقيقيَّ المسيحَ إلَهنا. العَذْراءُ القدّيسَةُ.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Ma]ho m~Po#c# e~h~r/i e~jwn: n~teferounai nem nen'u,/: n~tef,a nennobi nan e~bol.
+      </Language>
+      <Language id="English">
+         Ask the Lord on our behalf, that He may have mercy on our souls, and forgive us our sins.
+      </Language>
+      <Language id="Arabic">
+          اسْألي الرَّبَّ عنّا ليَصْنَعَ رَحْمَةً مَعَ نُفوسِنا، ويغْفر لَنا خَطايانا.
+      </Language>
+   </Text>
+</Document>

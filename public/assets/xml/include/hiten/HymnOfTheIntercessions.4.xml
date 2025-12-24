@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="include/hiten/StGeorge"/>
+   <InsertDocument path="include/hiten/StTheodoreShotep"/>
+   <InsertDocument path="include/hiten/StPhilopaterMercurius"/>
+   <InsertDocument path="include/hiten/StMena"/>
+   <InsertDocument path="include/hiten/StApanoub"/>
+   <InsertDocument path="include/hiten/StSarapamon"/>
+   <InsertDocument path="include/hiten/StMaurice"/>   
+</Document>

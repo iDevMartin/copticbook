@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StGeorge:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Sasf n~rompi...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. George:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Sasf n~rompi afjokou e~bol: n~je v/eyouab Gewrgioc: ere pis~be n~ouro n~anomoc: eu]hap e~rof m~m/ni: All/louia (3)
+            </Language>
+            <Language id="English">
+               Seven years were completed, by Saint George, seventy lawless Kings, judging him daily. Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               سبع سنين أكملها القديس جورجيوس وسبعون ملكاً منافقين يحكمون عليه كل يوم. الليلويا (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="Coptic">A~rip~recbeuin</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            A~rip~recbeuin e~h~r/i e~jwn w~ ten[oic n~n/b t/ren ]yeo~tokoc: Maria y~mau n~I/couc Pi,~rictoc n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Intercede on our behalf, O Lady of us all, the Theotokos, Mary, the mother of Jesus Christ, that He may forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            أشفعي فينا يا سيدتنا كلنا السيدة والدة الإله مريم أم مخلصنا ليغفر لنا خطايانا.
+         </Language>         
+      </Text>
+   </Section> 
+</Document>

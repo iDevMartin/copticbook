@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">For the Archdeacon</Language>
+      <Language id="Arabic">من أجل رئيس الشمامسة</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Master, Lord God, great in mercy and eminent in compassion and goodness: Who through Your Only-begotten Son, our Lord Jesus Christ had set up the heavenly Jerusalem, and became the head of all things. And upon the earth also through the laying of hands had possessed all the likeness thereof.  And had named all the diverse rites and canons of the Church according to the type (or likeness) within it pertaining to all the priestly services without transgression.     
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب الله العظيم الرحمة العالي في التحنن والصلاح الذي من قبل ابنك الوحيد يسوع المسيح ربنا أقمت أورشليم السمائية وصرت رأساً على كل الأشياء وعلى الأرض أيضاً من قبلك مسكت جميع أشباههم. وأعطيت كل الطقوس وكل قوانين البيعة كالمثال الذي بها كل الخدم الكهنوتية بغير معصية. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LetUsPray"/>
+      
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            You, also now, O our Master, the lover of mankind, accept our petition, we the sinners and send the grace of Your Holy Spirit upon Your servant … who has been called to the archdeaconate through the nomination and the judgment of those who have brought him in the midst and the inquiry of those who have given account concerning him. Make him worthy to be an archdeacon upon all Your holy Church. Manifest him like the one from the seven deacons who were appointed by the holy apostles, even Stephen the Protodeacon and the Protomartyr.
+         </Language>
+         <Language id="Arabic">
+            أنت الآن يا ملكنا محب البشر اقبل سؤالنا نحن الخطاة وارسل نعمة روح قدسك على عبدك (فلان) الذي دعى لرياسة الشمامسة بحكم تزكية الذين قدموه في الوسط وسؤال الذين خطبوه. أجعله مستحقا أن يكون رئيس شمامسة على بيعتك المقدسة جميعها. أظهره مثل الواحد من السبعة الخدم الذين أقامهم الرسل الأطهار استفانوس أول الشمامسة وأول الشهداء. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Fill him with power and understanding in the likeness of Stephen the first archdeacon in Your holy Church in (this) bloodless service and holy rational sacrifices. That he may handle the chalice of the precious blood of the unblemished lamb (which is) Your Only-begotten Son. And to serve the orphans, to help the widows, to care for the worshipers, to teach the senseless, to correct the undisciplined. To rebuke the lawless, to restore those who have gone astray, to settle the clergy, to serve the strangers, to command what is fitting, to be a good example for all the church. 
+         </Language>
+         <Language id="Arabic">
+            املأه من القوة والفهم كمثل استفانوس أول رؤساء الشمامسة في بيعتك المقدسة بخدم غير دموية وصعائد نقية ناطقة ويمسك كأس الدم المكرم الذي للحمل الذي بلا عيب الذي لابنك الوحيد ويخدم الأيتام ويساعد الأرامل ويهتم بالمتعبدين ويعلم الجهال ويبكت غير المتأدبين وينتهر المخالفين ويرد الضالين وينظر الاكليروس ويخدم الغرباء ويأمر بما ينبغي ويكون مثالاً لجميع الكنيسة. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            That he may create for himself an exceedingly good and exalted grade. And to find favor with everyone. He was not granted this grace through the (laying on) of our hands we the sinners, but rather (from) above, through the visitation of Your rich compassions which are given to those worthy of them.
+         </Language>
+         <Language id="Arabic">
+            ولكي يصنع له درجة صالحة عالية بالأكثر. ويجد دالة أمام كل أحد. ولم تعط هذه النعمة بوضع أيدينا نحن الخطاة بل بافتقاد مراحمك ذات الغني التي تعطي لمستحقيها.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LetUsPray"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Now also, O our Master, we ask and entreat You, O Good One and Lover of Mankind for your servant … to make him worthy of the calling of the archdeaconate through the coming down upon him of Your Holy Spirit. And I, too cleanse me from the sins of others, and free me from those that are mine, through the mediation of Your Only-begotten Son, our Lord, God and Savior Jesus Christ. This is He …
+         </Language>
+         <Language id="Arabic">
+            الآن أيضاً يا ملكنا نسأل ونطلب منك أيها الصالح محب البشر من أجل عبدك (فلان) لكي تجعله مستحقاً لدعوة رياسة الشمامسة بحلول روح قدسك عليه. وأنا أيضاً طهرني من كل الخطايا الغريبة واعتقني من التي لي بوساطة ابنك الوحيد ربنا وإلها ومخلصنا يسوع المسيح. هذا الذي.. الخ  
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         The ordination of an archdeacon has been concluded in peace.  Amen.
+      </Language>
+      <Language id="Arabic">
+         تمت رسامة رئيس الشمامسة بسلام. آمين.
+      </Language>
+   </Comment>
+   
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Role id="People">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Pa[oic</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  For Joyous Saturday:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pa[oic I/#c# P,#c# v/etau,af qen pim~hau : ekeqomqem n~q~r/i n~q/ten n~]couri n~te v~mou.
+               </Language>
+               <Language id="English">
+                  My Lord Jesus Christ : who was placed in the tomb : You shall trample in us: the thorn of death.
+               </Language>
+               <Language id="Arabic">
+                  ياربي يسوع المسيح الذي وضع في القبر، أسحق عنا شوكة الموت. 
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/StandardPachoicConclusion"/>
+         </Section>
+      </Role>
+   </Season>
+</Document>

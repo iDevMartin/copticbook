@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FourthWeekOfKoiahk">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Ten[ici m~mo...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the fourth week of the month of Koiahk:
+            </Language>
+         </Comment>
+        
+         <InsertDocument path="include/TenichiciEmo"/>               
+         <InsertDocument path="include/EthveFai"/>
+         
+         <Group>
+            <Season id="DisplayNonCustomaryPrayers">
+               <Text>
+                  <Language id="Coptic">
+                     Elicabet acmici n~ous/ri: acmou] e~ pefran je Iwannyc: Za,ariac piou/b: afouwn n~rwf efhwc e~V].
+                  </Language>
+                  <Language id="English">
+                     Elizabeth gave birth to a son, and called his name John, Zachariah the priest, opened his mouth praising God.
+                  </Language>
+                  <Language id="Arabic">
+                     اليصابات ولدتإبن ، ودعت إسمه يوحنا ، زكريا الكاهن ، فتح فاه مسبحً الله.   
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     M~peouon twnf qen nijinmici: n~te nihio~mi efo~ni m~mok: n~yok ounis] qen n/eyouab t/rou Iwan/c piref]wmc.
+                  </Language>
+                  <Language id="English">
+                     No one has risen among those born of women, who is like you, You are great among all saints, O John the Baptist.
+                  </Language>
+                  <Language id="Arabic">
+                     لم يقم في مواليد النساء ،  من يشبهك ،  أنت عظيم في جميع القديسين ،  يا يوحنا المعمدان.  
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>
+   </Season>
+</Document>

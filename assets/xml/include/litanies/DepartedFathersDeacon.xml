@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen t~'u,/ m~penmakarioc n~iwt ettai/out abba (...) hina n~te P[oic Vnou] ]m~ton nac: qen kenf n~nenio] eyouab Abraam nem Icaak nem Iakwb: qen piparadicoc n~te p~ounof: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray for the soul of our blessed and honored father Abba (...) that the Lord God may repose him in the bosom of our holy fathers Abraham, Isaac, and Jacob in the paradise of joy, and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن نفسِ أبينا الطوباويّ المكرم أنبا (...)، لكي الربُّ الإلهُ ينيِّحَها في حضنِِ آبائِنا القديسينَ، إبراهيمَ وإسحقَ ويعقوبَ في فردوسِ النعيمِ، ويغفرَ لنا خطايانا.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

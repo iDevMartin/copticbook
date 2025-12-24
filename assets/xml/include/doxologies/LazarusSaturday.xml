@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="LazarusSaturday">
+      <Section expanded="true" antiphonePitch="1">         
+         <Title>
+            <Language id="English">Doxology for Lazarus Saturday</Language>
+            <Language id="Arabic">ذوكصولوجية سبت لعازر</Language>
+            <Language id="Coptic">Lazaroc pie~pickopoc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For Lazarus Saturday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Lazaroc pie~pickopoc: pimenrit n~te P,#c#: v/etaftounocf qen n/eymwout: menenca f~tou n~e~h~oou.
+            </Language>
+            <Language id="English">
+               Lazarus the bishop, the beloved of Christ, who was risen from the death, after four days.
+            </Language>
+            <Language id="Arabic">
+               لعازر الأسقف حبيب المسيح الذى اقامه من الأموات بعد أربعة أيام.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh afwnq n~h~me n~rompi: ouoh afswpi n~oue~pickopoc: hijen piy~ronoc n~te Kuproc: afa~moni nio~hi n~te P,#c#.
+            </Language>
+            <Language id="English">
+               And he lived for forty years, and became a bishop, on the throne of Cyprus, he shepherded the flock of Christ.
+            </Language>
+            <Language id="Arabic">
+               وعاش أربعين سنة وصار أسقفاً على كرسى قبرص ورعى قطيع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wouniatk peniwt e#y#u#: Lazaroc pie~pickopoc: je akerp~emp~sa n~t~c~m/ n~te I/#c#: V] n~n/etwnq nem nirefmwout.
+            </Language>
+            <Language id="English">
+               Blessed are you O our holy father, Lazarus the bishop, for you were worthy to hear the voice of Jesus, the Lord of the living and the dead.
+            </Language>
+            <Language id="Arabic">
+               طوباك يا أبانا القديس لعازر الأسقف لأنك استحققت صوت يسوع إله الأحياء والأموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Rasi Lazaroc pimenrit: je akemp~sa n~]mete~pickopoc: aka~moni n~nie~cwou: w~ pinis] m~mane~cwou.
+            </Language>
+            <Language id="English">
+               Rejoice O Lazarus the Beloved, for you were worthy of the episcopate, you tended the sheep, O great shepherd.
+            </Language>
+            <Language id="Arabic">
+               افرح يا لعازر الحبيب لأنك استحققت الأسقفية ورعيت الخراف أيها الراعى العظيم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Tentwbh m~mok w~ pat/r u~mwn: n~tekerp~recbeuin e~jwn: nahren P,#c# v/etafmenritk: ouoh aftounock qen n/eymwout.
+            </Language>
+            <Language id="English">
+               We entreat you O our father, to intercede on our behalf, before Christ who has loved you, and has risen you from the dead.
+            </Language>
+            <Language id="Arabic">
+               نطلب إليك يا أبانا لكى تشفع فينا أمام المسيح الذى أحبك وأقامك من الأموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn:  w~ pimane~cwou n~te P,#c#: Lazaroc pie~pickopoc: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf, O shepherd of Christ, Lazarus the bishop, that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               أطلب من الرب عنا أيها الراعى الذى للمسيح لعازر الأسقف ليغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

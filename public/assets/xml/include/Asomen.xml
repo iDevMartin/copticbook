@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="2">
+      <Title>
+         <Language id="Coptic">Acwmen</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Acwmen tw Kuriw: endoxwc gar dedoxacye
+         </Language>
+         <Language id="English">
+            Let us praise the Lord, for with glory He was glorified. 
+         </Language>
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainGreekEnglish"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Marenhwc e~P[oic: je qen ouw~ou gar af[iw~ou
+         </Language>
+         <Language id="Arabic">
+            فلنسبح الرب لأنه بالمجد قد تمجد
+         </Language>         
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainCopticArabic"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Touc duo~ k~ticac ic e~na: ton ouranon ke t/n g/n
+         </Language>
+         <Language id="English">
+            He made the two into one, that is  the heaven and the earth. 
+         </Language>
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainGreekEnglish"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Pentafer pic~nau n~ouai: e~te vai pe t~ve nem p~kahi
+         </Language>
+         <Language id="Arabic">
+            جعل الإثنين واحداً أى السماء والأرض
+         </Language>         
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainCopticArabic"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Deute pantec ilai~: p~roc kun/cwmen I/cou &lt;~rictw
+         </Language>
+         <Language id="English">
+            O Come, all you peoples, let us worship Jesus Christ.  
+         </Language>
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainGreekEnglish"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Amwini nilaoc t/rou: n~tenouwst n~I/couc P,#c
+         </Language>
+         <Language id="Arabic">
+            تعالوا يا جميع الشعوب لنسجد ليسوع 
+         </Language>         
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainCopticArabic"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Outoc ectin o~Yeoc o~Cwt/r /~mwn: ke Kurioc pac/c carkoc: A~nelywn...
+         </Language>
+         <Language id="English">
+            This is God our Savior, and the Lord of all flesh.  
+         </Language>
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainGreekEnglish"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Vai pe V] pencwt/r: ouoh P~[oic n~carx niben
+         </Language>
+         <Language id="Arabic">
+            هذا هو الله مخلصنا ورب كل جسد ، 
+         </Language>         
+      </Text>         
+      
+      <InsertDocument path="include/AsomenRefrainCopticArabic"/>
+      
+      <Text>
+         <Language id="Coptic">
+            T~riacen mounadi: ke mounacen t~ri a~di: o~Pat/r ke o~u~ioc: ke to a~gion Pn##a#: to Pn#a# t/c al/yiac: Am/n A#l#
+         </Language>
+         <Language id="English">
+            Three in One and One in Three: the Father and the Son and the Holy Spirit, the Spirit of truth, (the Comforter). Amen. Alleluia. 
+         </Language>
+      </Text>         
+      
+      <Text>
+         <Language id="Coptic">
+            Out~riac ecj/k e~bol: ecoi n~somt ecoi n~ouai: ete vai pe V~iwt nem P~s/ri nem Pn##a# eyouab: Pn##a# n~te ]meym/i: Am/n A#l#
+         </Language>
+         <Language id="Arabic">
+            ثالوث فى واحد وواحد فى ثالوث ، الآب الإبن والروح القدس روح الحق ، آمين الليلويا.
+         </Language>         
+      </Text>
+   </Section>
+</Document>

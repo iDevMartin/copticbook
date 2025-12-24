@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelRaphael:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Raphael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nip~recbia~ n~te piar,/aggeloc e~youab Rava/l p~ounof n~h/t: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the intercessions of the holy archangel Raphael the joy of hearts: O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بشفاعات رئيس الملائكة الطاهر رافائيل مفرح القلوب. ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

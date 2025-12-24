@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">         
+      <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+   </Season>
+</Document>

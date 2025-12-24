@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod ^ WatosDays">
+      <InsertDocument path="include/psalies/ResurrectionContentWatos"/>
+      
+      <Section expanded="true" antiphonePitch="2">
+         <Title>
+            <Language id="English">
+               Psali Watos for the Feast of the Ascension
+            </Language>
+            <Language id="Arabic">
+               أبصالية واطس لعيد الصعود
+            </Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               The following psali is said on the Watos days from the Feast of the Ascension until the Feast of Pentecost
+            </Language>
+            <Language id="Arabic">
+               تقال من عيد الصعود إلى عيد العنصرة
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ainahwc e~rok Po#c# qen ounai: nem ouhir/n/ nem oumeym/i: je n~yok pe pirefcw]: ouoh piref]hap m~m/i.
+            </Language>
+            <Language id="English">
+               I will praise You O Lord, with mercy peace and righteousness, for You are the Savior, and the True Judge.
+            </Language>
+            <Language id="Arabic">
+               أسبحك يا رب بالرحمة والسلامة وبحق لأنك أنت هو المخلص والديان الحقيقى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Bon n~nibal n~te paka]: eue~caji qen neks~v/ri: je aki~ri n~oucw]: akouwnh ebol n~nekh~b/oui~.
+            </Language>
+            <Language id="English">
+               All the eyes of my understanding, speak of Your mystery, for You have ministered salvation, and revealed Your works.
+            </Language>
+            <Language id="Arabic">
+               كل أعين فهمى تنطق بعجائبك لأنك صنعت خلاصاً وأظهرت أعمالك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Genoc niben n~nirwmi: euhwc e~teka~nactacic: nem pekjinse e~p~swi e~niv/oui~: eunah] a[ne canic.
+            </Language>
+            <Language id="English">
+               All the races of man, praise Your Resurrection, and Your Ascension to the heavens, we believe without doubt.
+            </Language>
+            <Language id="Arabic">
+               كل أجناس البشر تسبح قيامتك وصعودك إلى السموات وتؤمن بغير شك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Dauid p~ouro n~Ieroucal/m: afjw m~moc icjen ouc/ou: je afwlf e~jen ni,eroubim: afhalai e~jen niy/ou.
+            </Language>
+            <Language id="English">
+               David the King of Jerusalem, spoke long ago and said, "He was lifted upon the Cherubim, and He flew upon the wind."
+            </Language>
+            <Language id="Arabic">
+               داود ملك أورشليم قال منذ زمان إنه ركب على الشاروبيم وطار على الرياح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Es~l/loui~ e~bol m~Po#c#: niar,/ nem niexoucia: niy~ronoc nem nimeto#c#: nijom je qen ouAll/louia.
+            </Language>
+            <Language id="English">
+               Rejoice in the Lord, you principalities and dominions, you thrones and lordships, and powers saying Alleluia.
+            </Language>
+            <Language id="Arabic">
+               هللى للرب أيتها الرئاسات والسلطات والكراسى والسيادات والقوات قائلة الليلويا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ze ontoc qen oua~l/yia: afsenaf e~p~swi e~niv/oui~: afere,malwteuin n~hane,malwcia~: af] n~hantaio n~nirwmi.
+            </Language>
+            <Language id="English">
+               Yes truly indeed, He ascended up to the heavens, He led captivity captive, and gave honor to mankind.
+            </Language>
+            <Language id="Arabic">
+               نعم حقاً بالحقيقة صعد إلى السموات وسبى سبياً وأعطى للناس كرامات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               ?deon tenc~mou e~rok: nem n~tagma n~aynau e~rwou: ouoh tenouwst m~mok: nem n/e~tounau e~rwou.
+            </Language>
+            <Language id="English">
+               And we also praise You, with the invisible orders, and we worship You, with the visible.
+            </Language>
+            <Language id="Arabic">
+               وأيضاً نباركك مع الطغمات غير المرئية ونسجد لك مع المرئيين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Yel/l m~V] qen hanc~m/: n~te oumeym/i nem ounai: je afsenaf e~p~swi e~t~ve: n~te t~ve ca niman~sai.
+            </Language>
+            <Language id="English">
+               Rejoice in God with voices, of mercy and truth, for He ascended to the Heaven, of Heavens toward the East.
+            </Language>
+            <Language id="Arabic">
+               هللوا لله بأصوات الحق والرحمة قائلين صعد إلى سماء السموات ناحية المشارق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Iwann/c piyeologoc: afjoc qen pefeuaggelion: je ainau p~ouro P,#c#: afsenaf e~ouranoc.
+            </Language>
+            <Language id="English">
+               John the Theologian, said in his Gospel, "I saw Christ the King, ascend to heaven."
+            </Language>
+            <Language id="Arabic">
+               يوحنا الناطق بالإلهيات قال فى إنجيله انى رأيت الملك المسيح صعد إلى السموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ke palin peniwt Petroc: aftamon e~bol qen rwf: je afsenaf e~ouranoc: a~niaggeloc ouwst m~mof.
+            </Language>
+            <Language id="English">
+               And also our father Peter, taught us through his mouth, "He has ascended to heaven, and the angels worshiped Him."
+            </Language>
+            <Language id="Arabic">
+               وأيضاً أبونا بطرس أعلمنا من فمه أنه صعد إلى السماء وسجدت له الملائكة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Loukac pic/ini m~m/i: afc~qai qen nip~raxic: je vai pe I/#c# qen oumeym/i: afsenaf sa teftaxic.
+            </Language>
+            <Language id="English">
+               Luke the True Physician, wrote in the book of Acts, that this is Jesus who has truly, ascended to His rank.
+            </Language>
+            <Language id="Arabic">
+               لوقا الطبيب الحقيقى كتب فى الأعمال أن هذا هو يسوع بالحقيقة صعد إلى فوق إلى رتبته.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Markoc pieywrimoc: afouwnh nan m~paic~mot: je afsenaf a~l/ywc: afhemci caoui~nam m~pefiwt.
+            </Language>
+            <Language id="English">
+               Mark the Beholder of God, likewise has revealed unto us, saying "He has truly ascended, and sat at the right hand of His Father."
+            </Language>
+            <Language id="Arabic">
+               مرقس الناظر الإله أظهر لنا هذا الشبه قائلا صعد بالحقيقة وجلس عن يمين أبيه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nijom t/rou n~te niv/oui~: auhitou e~q~r/i auouwst m~mof: na niv/oui~ nem na p~kahi: qen hanc~mou auhwc e~rof.
+            </Language>
+            <Language id="English">
+               All the powers of the heavens, came and worshiped Him, the heavenly and the earthly, praised Him with blessings.
+            </Language>
+            <Language id="Arabic">
+               كل قوات السموات خروا وسجدوا له  السمائيون والأرضيون سبحوه بالبركات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Xc~marwout w~ piouro: piy~m/i qen tefk~t/cic: va piersisi nem pi[~ro: piref]hap qen ]k~ricic.
+            </Language>
+            <Language id="English">
+               Blessed are You O King, who is Just with His creation, He who has authority and victory, and judgment in retribution.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت أيها الملك البار فى خليقته صاحب السلطان والغلبة القاضى فى الدينونة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouw~ou nak qen ouseph~mot: w~ pinou] n~a~l/yoc: je akouwrp m~pekh~mot: e~jen neka~poctoloc.
+            </Language>
+            <Language id="English">
+               Glory be to You with thanksgiving, You the True God, for You sent Your grace, upon Your Apostles.
+            </Language>
+            <Language id="Arabic">
+               لك المجد بالشكر أيها الإله الحقيقى لأنك أرسلت نعمتك على رسلك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pipneuma m~parakl/ton: m~v~r/] n~hanlac n~,~rwm: qen ]bahmi n~te Ciwn: afmahou e~bol qen tefjom.
+            </Language>
+            <Language id="English">
+               The Spirit of Comfort, like tongues of fire, in the upper room of Zion, filled them with His strength.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزى مثل ألسنة نار فى علية صهيون ملأهم من قوته.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ran niben aue~mi e~rwou: nivul/ niacpi n~lac: n/eth/p aucaji m~mwou: hiten e~t~jom n~}t~riac.
+            </Language>
+            <Language id="English">
+               They knew all names, all tribes and different tongues, they spoke of the hidden things, through the power of the Trinity.
+            </Language>
+            <Language id="Arabic">
+               عرفوا كل الأسماء والقبائل ولغات الألسن وتكلموا بالخفيات من قبل قوة الثالوث.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Cwtem e~p~caji n~Iou/l: pip~rov/t/c ettai/out: n~te na p~/i m~Pic~ra/l: e~jen paie~hoou etcmarwout.
+            </Language>
+            <Language id="English">
+               Hear the word of Joel, the honored Prophet, of the house of Israel, concerning this blessed day.
+            </Language>
+            <Language id="Arabic">
+               إسمعوا قول يوئيل النبى المكرم لآل بيت إسرائيل عن هذا اليوم المبارك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Tqae~ n~te nie~hoou: ]najws e~bol m~Papneuma: e~jen carx niben e~taiyamio~: eie~ouwnh e~bol n~nikayartwma.
+            </Language>
+            <Language id="English">
+               "In the end of the days, I will pour my Spirit, upon everybody I have created, I will reveal miracles."
+            </Language>
+            <Language id="Arabic">
+               فى آخر الايام أسكب من روحى على كل جسد خلقته وأظهر المعجزات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Umnologia~ niben n~c~mou: tenouwrp m~mwou harok eucop: kata p~caji m~piyeovoroc: Dauid pip~rov/t/c.
+            </Language>
+            <Language id="English">
+               All praises and psalmody together, we ascribe unto You, as said by the Divine-mantled, David the Prophet.
+            </Language>
+            <Language id="Arabic">
+               كل تمجيد وتسبيح نرسله إليك معاً كقول اللابس الاله داود النبى الطاهر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/ethemci hijen ni,eroubim: ouonhk e~bol m~pem~yo n~Evrem: nem Manacc/ nem Baniamin: matounoc tekjom a~mou e~v~nahmen.
+            </Language>
+            <Language id="English">
+               "He who sits on the Cherubim, reveal Yourself before Ephrem, and Manasseh and Benjamin, raise Your strength and come for our salvation."
+            </Language>
+            <Language id="Arabic">
+               أيها الجالس على الشاروبيم أظهر أمام أفرآم ومنسى وبنيامين أقم قوتك وهلم لخلاصنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ouab ,ouab ,~ouab: w~ piouro n~e~pouranion: nem pekpneuma e#y#u#: piyucauroc n~te nia~gayon.
+            </Language>
+            <Language id="English">
+               Holy Holy Holy, O Heavenly King, with Your Holy Spirit, the Treasure of good things.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس أيها الملك السماوى مع روحك القدوس كنز الخيرات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               "wt/r n~te ouon niben: ouoh v~ref] m~p~wnq: a~mou swpi n~q/ten: Ps/ri m~V] etonq.
+            </Language>
+            <Language id="English">
+               O Savior of everyone, and Giver of life, come and dwell within us, O Son of the Living God.
+            </Language>
+            <Language id="Arabic">
+               يا مخلص الجميع ومعطى الحياة هلم وحل فينا يا إبن الله الحى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Woun~h/t e~jen pekbwk: w~ pimonogen/c n~nou]: v/etafernobi e~rok: a~rih~mot naf m~picw].
+            </Language>
+            <Language id="English">
+               Be patient with Your servant, O Only-Begotten God, he who has sinned against You, grant him salvation.
+            </Language>
+            <Language id="Arabic">
+               تأنى على عبدك أيها الاله الوحيد الذى أخطأ اليك أنعم له بالخلاص.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               W Peno#c# I/#c# P,#c#: a~riv~meui~ n~nenio] n~e~pickopoc: nem nimona,oc nem nidia~kwnoc: nem p~cepi m~peklaoc m~pictoc.
+            </Language>
+            <Language id="English">
+               O our Lord Jesus Christ, remember our fathers the bishops, the monks and the deacons, and the rest of Your faithful people.
+            </Language>
+            <Language id="Arabic">
+               يا ربنا يسوع المسيح أذكر آبائنا الأساقفة والرهبان والشمامسة وسائر شعبك المؤمن.
+            </Language>
+         </Text>   
+      </Section>
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyWatos"/>
+         </Season>
+      </Group>
+   </Season>
+   
+   <Season id="PostAscensionPentecostPeriod ^ AdamDays">
+      <InsertDocument path="include/psalies/ResurrectionContentAdam"/>
+      
+      <Section expanded="true" antiphonePitch="2">
+         <Title>
+            <Language id="English">
+               Psali Adam for the Feast of Ascension
+            </Language>
+            <Language id="Arabic">
+               أبصالية آدام لعيد الصعود
+            </Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               The following psali is said on the Adam days of the Ascension
+            </Language>
+            <Language id="Arabic">
+               تقال فى عيد الصعود
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ari'alin kalwc: qen handoxologia~: n~I/#c# P,#c#: va ]exoucia~.
+            </Language>
+            <Language id="English">
+               Sing with joy, with doxologies, to Jesus Christ, who has all authority.
+            </Language>
+            <Language id="Arabic">
+               رتلوا حسناً بتماجيد ليسوع المسيح ذى السلطان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Bon niben cehwc: e~piats~tahof: Pencwt/r I/#c#: piaynau e~rof.
+            </Language>
+            <Language id="English">
+               Everyone praises, the Incomprehensible, and the Invisible One, Our Savior Jesus.
+            </Language>
+            <Language id="Arabic">
+               الجميع يسبحون الغير المدرك مخلصنا يسوع غير المرئى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ge gar dikeon: m~v~r/] m~paie~hoou: afsenaf e~ouranoc: n~je p~ouro n~te p~wou.
+            </Language>
+            <Language id="English">
+               For truly indeed, like in that day, the King of Glory, ascended to heaven.
+            </Language>
+            <Language id="Arabic">
+               لأنه حقاً فى مثل هذا اليوم صعد إلى السماء ملك المجد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Dauid gar afjoc: qen ouc~m/ n~calpiggoc: ari'alin e~P,#c#: qen hanhumnoc.
+            </Language>
+            <Language id="English">
+               For David has said, with the voice of the trumpet, "Sing unto Christ, with all praises.
+            </Language>
+            <Language id="Arabic">
+               قال داود بصوت البوق رتلوا للمسيح بتسابيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe nimuct/rion: e~tafi~ri m~mwou: n~je p~ouro n~nie~wn: afcaji nemwou.
+            </Language>
+            <Language id="English">
+               Because of the mysteries, which the King, of all ages has done, He spoke to them.
+            </Language>
+            <Language id="Arabic">
+               من أجل الأسرار التى صنعها ملك الدهور تكلم أيضاً معهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Zeos pimonogen/c: afcaji nem nefa~poctoloc: menenca ]a~nactacic: efjw m~moc.
+            </Language>
+            <Language id="English">
+               The Only Begotten God, said many things, to His Apostles, after the Resurrection.
+            </Language>
+            <Language id="Arabic">
+               كثيراً ما تكلم الإبن الوحيد مع رسله بعد القيامة قائلا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               ?ppe je ouon: teten en,ai n~ouwm: au] naf de on: ouoh af[i afouwm.
+            </Language>
+            <Language id="English">
+               Behold "Do you have, anything to eat, they gave to Him, and He took and ate.
+            </Language>
+            <Language id="Arabic">
+               هل يوجد عندكم شئ يؤكل فأعطوه أيضاً وأخذ وأكل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ywou] au] naf: n~outebt efjefjwf: nem oun/ni: e~taf[i afouwm.
+            </Language>
+            <Language id="English">
+               They gathered and gave Him, broiled fish, and honey, and He took and ate.
+            </Language>
+            <Language id="Arabic">
+               واجتمعوا وأعطوه سمكاً مشوياً وشهداً فأخذ وأكل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               I/#c# qen pefersisi: afc~mou e~nefa~poctoloc: acsopf n~je ou[/pi: afsenaf e~ouranoc.
+            </Language>
+            <Language id="English">
+               Jesus in His authority, blessed His apostles, and was taken by a cloud, and ascended to heaven.
+            </Language>
+            <Language id="Arabic">
+               يسوع بسلطانه بارك رسله وأخذته سحابة وصعد إلى السماء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Kurioc I/#c# m~m/i: p~ouro n~te t~ve: piouwini n~tavm/i: afsenaf e~t~ve.
+            </Language>
+            <Language id="English">
+               Jesus the True Lord, the King of heaven, the True Light, ascended to heaven.
+            </Language>
+            <Language id="Arabic">
+               الرب يسوع الحقيقى ملك السماء النور الحقيقى صعد إلى السماء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Loukac afjoc: qen pieuaggelion: nem Matyeoc afjoc: nem Markoc de on.
+            </Language>
+            <Language id="English">
+               Luke has said, in the Gospel, as Matthew has said, likewise Mark also.
+            </Language>
+            <Language id="Arabic">
+               قال لوقا فى الإنجيل مع متى ومرقس أيضاً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Mpe h~li senaf: e~p~swi e~t~ve: e~b/l e~v/e~tafi~ e~pec/t: e~bol qen t~ve.
+            </Language>
+            <Language id="English">
+               No one has ascended, up into heaven, except the One who came, down from heaven.
+            </Language>
+            <Language id="Arabic">
+               ليس أحد صعد إلى السماء إلا الذى نزل من السماء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nje p~s/ri m~v~rwmi: pe v/etsop qen t~ve: I/#c# pireferhemi: Iwann/c afermeyre.
+            </Language>
+            <Language id="English">
+               That is the Son of Man, who dwells in heaven, Jesus the Governor, John has witnessed.
+            </Language>
+            <Language id="Arabic">
+               إبن البشر الساكن فى السماء يسوع المدبر وشهد يوحنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Xc~marwout al/ywc: w~ penn/b P,#c#: hijen piy~ronoc: n~te pekwou kalwc.
+            </Language>
+            <Language id="English">
+               Blessed are You indeed, O Christ our Master, upon the Throne, of Your glory.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة أيها السيد المسيح على كرسى مجدك حسناً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh aft~cabwou: sa pie~hoou: e~tafhonhen e~totou: n~nefa~poctoloc.
+            </Language>
+            <Language id="English">
+               And He has taught, His Apostles, until the day, wherein He ordered them.
+            </Language>
+            <Language id="Arabic">
+               وعلم رسله إلى اليوم الذى أمرهم فيه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               P,#c# penouro: menenca tefa~nactacic: afouonhf e~rwou: ouoh afouwm nemwou.
+            </Language>
+            <Language id="English">
+               Christ our King, after His Resurrection, appeared unto them, and He ate with them.
+            </Language>
+            <Language id="Arabic">
+               المسيح ملكنا بعد قيامته ظهر لهم وأكل معهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Rasi w~ nipictoc: qen p~sai m~pimonogen/c: etafyamio n~ouranoc: nem noudunamic.
+            </Language>
+            <Language id="English">
+               Rejoice O believers, in the feast of the Only-Begotten, who has created heaven, and all its hosts.
+            </Language>
+            <Language id="Arabic">
+               افرحوا أيها المؤمنون فى عيد الوحيد الذى خلق السماء وجندها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Cmou e~pimairwmi: p~ouro n~niewn: afyamio~ m~pirwmi: kata tefhukwn.
+            </Language>
+            <Language id="English">
+               Praise the Lover of man, the King of all ages, who created man, in His likeness.
+            </Language>
+            <Language id="Arabic">
+               سبحوا محب البشر ملك الدهور الذى خلق الأنسان كصورته.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Tentwbh m~mok: qen ouh/t efcoutwn: tenouwrp nak: n~hwc m~pneumatikon.
+            </Language>
+            <Language id="English">
+               We pray unto You, with an upright heart, and ascribe unto You, spiritual praise.
+            </Language>
+            <Language id="Arabic">
+               نطلب منك بقلب مستقيم ونرسل إليك تسابيح روحية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Uioc Yeoc a~reh e~ron: e~bolha nih~bwn: nem oumou nem oumonmen: nem nidiwgmoc.
+            </Language>
+            <Language id="English">
+               O Son of God, guard us from inflation, and death and earthquakes, and from persecution.
+            </Language>
+            <Language id="Arabic">
+               ياإبن الله إحفظنا من الغلاء والموت والزلازل والاضطهاد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Vai pe pie~hoou: e~ta Po#c# yamiof: marenyel/l m~mon n~q/tf: ouoh n~tenounof.
+            </Language>
+            <Language id="English">
+               This is the day, which the Lord has made, let us rejoice, and be glad in it.
+            </Language>
+            <Language id="Arabic">
+               هذا هو اليوم الذى صنعه الرب فلنفرح ونتهلل فيه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]anactacic: w Ieroucal/m nem Ciwn: nem pitwou n~a~nalumic: nem pitwou n~k~ranion.
+            </Language>
+            <Language id="English">
+               Hail to the Resurrection, O Jerusalem and Zion, and the mountain of the Ascension, and the mountain of Calvary.
+            </Language>
+            <Language id="Arabic">
+               السلام للقيامة ياأورشليم وصهيون وجبل الصعود وجبل الأقرانيون.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               "wt/r m~pikocmoc: qen tekparoucia~: nohem m~peklaoc: c~mou e~tekk~l/ronomia~.
+            </Language>
+            <Language id="English">
+               O Savior of the world, at Your Coming, save Your people, and bless Your inheritance.
+            </Language>
+            <Language id="Arabic">
+               يامخلص العالم فى ظهورك خلص شعبك وبارك ميراثك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               W Peno#c# I/#c# P,#c#: senh/t qa peklaoc: a~reh erwou al/ywc: qen piparadicoc.
+            </Language>
+            <Language id="English">
+               O our Lord Jesus Christ, have compassion upon Your people, guard them in truth, in the Paradise.
+            </Language>
+            <Language id="Arabic">
+               ياربنا يسوع تحنن على شعبك واحفظهم بالحقيقة فى الفردوس.
+            </Language>
+         </Text>             
+      </Section>
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyAdam"/>
+         </Season>
+      </Group>
+   </Season>
+</Document>

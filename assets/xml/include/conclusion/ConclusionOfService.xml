@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Section expanded="true">   
+         <Title>
+            <Language id="English">Concluding Hymn</Language>         
+            <Language id="Arabic">قانون ختام الصلوات الإجتماعية</Language>
+         </Title>
+      
+         <Group>
+            <Season id="Baptism | HomeBlessing | Unction">      
+               <InsertDocument path="include/conclusion/Standard"/>
+            </Season>
+            
+            <InsertDocument path="include/conclusion/Canons"/>
+                       
+            <Season id="Other">      
+               <InsertDocument path="include/conclusion/Standard"/>
+            </Season>
+         </Group>         
+      </Section>
+      
+      <InsertDocument path="include/conclusion/Bishop"/>
+      
+      <Comment>
+         <Language id="English">
+             Concluded by:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Kurie e~le/~con: Kurie e~le/~con: Kurie eulog/con a~m/n. Cmou e~roi: (c~mou e~roi) ic ]metanoia: ,w n/i e~bol: jw m~pic~mou. 
+         </Language>
+         <Language id="English">
+            Lord have mercy. Lord have mercy. Lord bless us. Amen. Bless me. [Bless me.] Lo, the repentance. Forgive me. Say the blessing.
+         </Language>
+         <Language id="Arabic">
+            يارب ارحم. يارب ارحم. يا رب بارك. امين باركوا على. ها مطانية. اغفروا لى. قل البركة
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/ShortBlessingToEnd"/>
+   
+   <Group>
+      <Season id="Liturgy">
+         <Comment>
+            <Language id="English">
+               Then the priest turns and kisses the altar, and encircles it once, saying Psalm 46. Then he descends from the altar and takes off his priestly vestments and distributes the eulogia, that is, the blessed bread. And he dismisses the people in peace from the Lord. May His grace, mercy, and blessing be upon us for ever. Amen.
+            </Language>
+            <Language id="Arabic">
+               وإذا تكامل ذلك يلتفت الكاهن ويقبِّل المذبح. ويدور دورة واحدة ويقول المزمور 46 ”ياجميع الأمم صفقوا بأيديكم“ بتمامه. ثم ينزل من المذبح، ويخلع ثياب الكهنوت، ويفرِّق الأولوجية، أي خبز البركة. ويصرف الشعب بسلام من الرب. وعلينا نعمته ورحمته وبركته إلى الأبد. آمين.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Matins ^ HosannaSunday">
+         <Comment>
+            <Language id="English">
+               Note that after the Morning Offering of Incense, the palms are placed aside in order to concentrate on the prayer of the Liturgy.
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+</Document>

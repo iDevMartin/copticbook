@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         The priest makes the sign of the cross once on the people, saying:
+      </Language>
+      <Language id="Arabic">
+         ههنا يرشم الشعب رشماً واحداً وهو يقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Cmou e~rwou.
+      </Language>            
+      <Language id="English">
+         Bless them.
+      </Language>
+      <Language id="Arabic">
+         بارِكْها.
+      </Language>
+   </Text>
+</Document>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Gospel Response</Language>
+         <Language id="Arabic">مرد الإنجيل</Language>
+      </Title>
+      
+      <InsertDocument path="include/gospelResponse/saints/Saints"/>
+   </Section>   
+</Document>

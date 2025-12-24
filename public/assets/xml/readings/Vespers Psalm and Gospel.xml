@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/VespersNotPrayedComment"/>   
+   
+      <Season id="Other">
+         <InsertDocument path="readings/StandInTheFear"/>
+         <InsertDocument path="readings/FromThePsalms"/>
+         <InsertDocument path="readings/Vespers Psalm"/>
+         <InsertDocument path="readings/GospelIntro"/>
+         <InsertDocument path="readings/Vespers Gospel"/>
+      </Season>
+   </Group>
+</Document>

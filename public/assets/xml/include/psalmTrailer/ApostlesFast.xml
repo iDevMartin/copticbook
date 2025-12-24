@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFast">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">N/e~te n~cecwtem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the the Fast of the Apostles (Ps 18:3-4):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               N/e~te n~cecwtem an e~touc~m/ apou q~rwou senaf e~bol hijen p~ho m~p~kahi t/rf: ouoh noucaji auvoh sa aur/jc n~]oikoumen/.
+            </Language>
+            <Language id="English">
+               Where their voice is not heard, their voice went out on the face of the entire earth; and their words reached the end of the world. 
+            </Language>
+            <Language id="Arabic">
+               الذين لم تسمع اصواتهم خرجت اصواتهم علي وجه الأرض كلها ، وبلغت اقوالهم إلي أقطار المسكونة 
+            </Language>
+         </Text>               
+      </Section>
+   </Season>
+</Document>

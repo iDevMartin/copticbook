@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Deacons</Language>      
+      <Language id="Arabic">الشمامسة</Language>
+   </Title>
+   
+   <Title>
+      <Language id="English">Psalms Recited on the Way to Church</Language>      
+      <Language id="Arabic">المزامير يتلى في الطريق إلى الكنيسة</Language>
+   </Title>
+   
+   <InsertDocument path="include/agpeya/psalms/121"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Psalms 26:4-5</Language>
+         <Language id="Arabic">مزامير 26: 4-5</Language>
+      </Title>
+      
+      <InsertDocument path="include/agpeya/psalms/26.4-5"/>
+   </Section>
+      
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Psalms 64:4</Language>
+         <Language id="Arabic">مزامير 64: 4</Language>
+      </Title>
+      
+      <Text>
+         <Language id="English">
+            Blessed is the man You choose, And cause to approach You, That he may dwell in Your courts. We shall be satisfied with the goodness of Your house, Of Your holy temple.
+         </Language>
+         <Language id="Arabic">
+            طُوبَى لِلَّذِي تَخْتَارُهُ وَتُقَرِّبُهُ لِيَسْكُنَ فِي دِيَارِكَ. لَنَشْبَعَنَّ مِنْ خَيْرِ بَيْتِكَ قُدْسِ هَيْكَلِكَ. 
+         </Language>
+      </Text>
+   </Section>
+   
+   <Title>
+      <Language id="English">Psalms Recited While Entering the Church</Language>      
+      <Language id="Arabic">مزامير تتلى أثناء دخولهم الكنيسة</Language>
+   </Title>
+   
+   <InsertDocument path="include/agpeya/psalms/83"/>
+   
+   <Title>
+      <Language id="English">Psalms Recited in Front of the Altar</Language>      
+      <Language id="Arabic">مزامير تتلى أمام المذبح</Language>
+   </Title>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Psalms 5:7</Language>
+         <Language id="Arabic">مزامير 5: 7</Language>
+      </Title>
+      
+      <InsertDocument path="include/agpeya/psalms/5.7"/>
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         A prostration is then made while saying:
+      </Language>      
+   </Comment>
+   
+   <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   <InsertDocument path="include/agpeya/psalms/122"/>
+   <InsertDocument path="include/agpeya/Vestments"/>
+</Document>

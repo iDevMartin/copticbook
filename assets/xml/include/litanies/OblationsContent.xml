@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Litany of the Oblations</Language>
+      <Language id="Arabic">أوشية القرابين</Language>
+   </Title>
+   
+   <Group>
+      <Season id="RaisingOfIncense">
+         <Comment>
+            <Language id="English">
+               The prayer for the sacrifices is said during the morning Offering of Incense instead of the Litany for the Travelers on Sundays and the Feasts of the Lord. It is also said during the morning Offering of Incense on weekdays if the Lamb is present and the Divine Liturgy is celebrated directly after the morning Offering of Incense. If it is not said here (because the Lamb is not present), it should be said inaudibly before the Prayer for the Acts.  On Feast days, it is prayed in the joyous Coptic tune. 
+            </Language>
+            <Language id="Arabic">
+               تُقال أوشية القرابين في رفع بخور باكر بدلاً من اوشية المسافرين في أيام الآحاد والأعياد السيدية. كما تُقال أيضاً في رفع بخور باكر أيام الاسبوع إذا كان الحمل حاضراً ويقامُ القداس الإلهي بعد رفع بخور باكر مباشرة. أما إذا تأجَّلت تلاوتها هنا (أي في رفع بخور باكر، بسبب أن الحمل لم يكن حاضراً) فأنها تقال سراً قبل سرِّ الإبركسيس. 
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/litanies/AgainLetUsAsk"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/litanies/AgainLetUsAsk"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/litanies/OblationsDeacon"/>
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Group>
+      <Season id="Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/litanies/OblationsContent.1"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/litanies/OblationsContent.1"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

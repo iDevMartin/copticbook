@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StPishoyAndStPaulOfTammah:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration St. Pishoy and St. Paul of Tammah:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Piswi: piy~m/i pirwmi n~telioc: ,ere peniwt abba Paule: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to our father Abba Pishoy, the just and perfect man, hail to our father Abba Paul, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا أنبا بيشوى الرجل البار الكامل السلام لأبينا أنبا بولا حبيب المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

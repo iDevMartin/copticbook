@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekend ^ JoyousSaturday ^ Saturdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Prayers of the Third and Sixth Hours</Language>      
+         <Language id="Arabic">صلوات ساعات الثالثة والسادسة</Language>
+      </Title>
+   
+      <Title>
+         <Language id="English">Third Hour</Language>      
+         <Language id="Arabic">الساعة الثالثة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The Agpeya Psalms of the Third Hour are read inaudibly, distributed on the entire congregation.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/agpeya/3rdHourIntro"/>
+      <InsertDocument path="include/agpeya/psalms/3rdHour"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Jeremiah 13:15-22" type="section"/>
+         
+         <Comment>
+            <Language id="English">
+               The Psalm is chanted half in the Paschal “Edreebe” tune, and the other half in the standard tune.
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 16:10-11</Language>
+               <Language id="Arabic">مزامير 16: 10-11</Language>
+            </Title>
+         
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Je nnekcwjp n~tau,/ qen a~men] oude n~nek5 m~peyou n~tak enaf eptako.
+               </Language>
+               <Language id="English">
+                  Because You shall not leave my soul in Hades, neither shall You suffer Your holy One to see corruption.
+               </Language>
+               <Language id="Arabic">
+                  لأنك لا تترك نفسي في الجحيم. ولا تدع قدوسك يرى فسادا.
+               </Language>
+            </Text>     
+            
+            <Text>
+               <Language id="Coptic">
+                  Nimwit n~te p~wnq aktamoi e~rwou ekemaht novnof nem pekho.
+               </Language>
+               <Language id="English">
+                  You have made known to me the ways of life; You will fill me with joy with Your face; delight is in Your right hand forever.
+               </Language>
+               <Language id="Arabic">
+                  قد عرفتني سبل الحياة. تملأني فرحا مع وجهك. البهجة في يمينك إلى الانقضاء.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/KeEperto"/>
+      <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+            </Language>
+            <Language id="Arabic">
+               ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+            </Language>
+         </Comment>
+         
+         <BibleReference reference="Matthew 16:24-28" type="section" hideIntroConclusion="true"/>
+      </Role>
+      
+      <InsertDocument path="include/agpeya/LordHaveMercy"/>
+      
+      <Title>
+         <Language id="English">Sixth Hour</Language>      
+         <Language id="Arabic">الساعة السادسة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The Agpeya Psalms of the Sixth Hour are read inaudibly, distributed on the entire congregation.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/agpeya/6thHourIntro"/>
+      <InsertDocument path="include/agpeya/psalms/6thHour"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Isaiah 50:10-51:8" type="section"/>
+         
+         <Comment>
+            <Language id="English">
+               The Psalm is chanted half in the Paschal “Edreebe” tune, and the other half in the standard tune.
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 130:1; 142:7</Language>
+               <Language id="Arabic">مزامير 130: 1; 142: 7</Language>
+            </Title>
+         
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ebol qen n/ets/k aiws oub/k Po#c#: Po#c# cwtem etacm/.
+               </Language>
+               <Language id="English">
+                  Out of the depths I have cried to You, O Lord. O Lord, hear my voice.
+               </Language>
+               <Language id="Arabic">
+                  من الأعماق صرخت إليك يا رب، يا رب استمع صوتي.
+               </Language>
+            </Text>     
+            
+            <Text>
+               <Language id="Coptic">
+                  Anioui n~tau/ e~bolqen ous~tekopna e~p~jinouwnh e~bol m~pekran Po#c.
+               </Language>
+               <Language id="English">
+                  Bring my soul out of prison, that I may give thanks to Your name, O Lord. The righteous wait for me until You reward me.
+               </Language>
+               <Language id="Arabic">
+                  أخرج من الحبس نفسي، لكي أشكر اسمك يا رب. إياي ينتظر الصديقون حتى تجازيني.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/KeEperto"/>
+      <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+            </Language>
+            <Language id="Arabic">
+               ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+            </Language>
+         </Comment>
+         
+         <BibleReference reference="Matthew 5:3-12" type="section" hideIntroConclusion="true"/>
+      </Role>
+      
+      <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Comment>
+         <Language id="English">
+            During the Coptic New Year:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            C~mou e~pi,~lom n~te ]rompi hiten tekmet,~r/ctoc P[oic: niiarwou nem nimoumi nem nici] nem nikarpoc: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            Bless the crown of the year with Your goodness, O Lord: the rivers, the springs, the plants and the fruits, Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            بارك اكليل السنه بصلاحك يارب. الأنهار والعيون والزروع والأثمار. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

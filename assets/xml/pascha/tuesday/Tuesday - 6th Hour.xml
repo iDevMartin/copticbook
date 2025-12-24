@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday (The Sixth Hour)</Language>
+         <Language id="Arabic">يوم الثلاثاء (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~hoou m~Psomt (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 21:3-13</Language>
+               <Language id="Arabic">حزقيال 21: 3-13</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nai ne n/e~tefjw mmwou n~je A~dwnai P[oic je h/ppe a~nok oub/k ouoh ]naywkem n~tac/fi e~bol qen peckwhi ouoh ]nafw] n~ouref[in~jonc e~bol n~q/~tk nem oua~nomoc:
+               </Language>
+               <Language id="English">
+                  Thus says the Lord: You shall say to the land of Israel, 'Behold, I am against you, and I will draw My sword out of its sheath and destroy both the unrighteous man and the lawless man from among you.
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله السيد الرب: هأنذا ضدك وأستل سيفي من غمده  وأستأصل منك الظالم والمتجاوز الناموس 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] c~nai~ e~bol n~je tac/fi e~bol qen peckwhi hijen carx niben: icjen pement sapemhit:
+               </Language>
+               <Language id="English">
+                  Because I will destroy both the unrighteous man and the lawless man from among you, thus My sword shall go out of its sheath against all flesh from north to south,
+               </Language>
+               <Language id="Arabic">
+                  هكذا يخرج سيفي من علي كل ذي جسد  من المغرب إلي الشمال
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh cenae~mi n~je carx niben je a~nok pe P[oic ouoh aicwkem n~tac/fi e~bol qen peckwhi n~c~natacyo an je: 
+               </Language>
+               <Language id="English">
+                  and all flesh will know that I, the Lord, have drawn My sword out of its sheath; and it shall not return anymore.' 
+               </Language>
+               <Language id="Arabic">
+                    ويعلم كل ذي جسد أني أنا هو الرب  جردت سيفي من غمده ولا يرتد 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yok hwk p~s/ri m~v~rwmi fia~hom qen pifia~hom n~te nek]mi ouoh eke~fia~hom qen p~qomqem n~te han m~kahn~h/t nahren noubal e~bo. 
+               </Language>
+               <Language id="English">
+                  As for you, son of man, groan with a breaking heart, and sigh with bitterness before their eyes.
+               </Language>
+               <Language id="Arabic">
+                  بعد  أما أنت يا إبن الإنسان فتنهد بتنهد قراك وبإنسحاق الحزن تتأوه أمام عيونهم  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ece~swpi ausanjocnak: je eybeou kfia~hom: ke~joc je eifia~hom eybe pisini je ou/i f~n/ou:
+               </Language>
+               <Language id="English">
+                  It will be, if they say to you, 'Why are you groaning?' that you shall say, 'Because of the news, for it is coming.
+               </Language>
+               <Language id="Arabic">
+                  ويكون إذا قالوا لك: علام تتنهد فتقول:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cena qomqem n~je h/t niben: ouoh cenabwl e~bol n~je jij niben: ouoh cenajwjeb n~je carx niben nem p~neuma niben: ouoh a~loj niben cenaywleb n~hwou: h/ppe fn/ou ouoh f~naswpi peje P[oic: 
+               </Language>
+               <Language id="English">
+                  Every heart will be oppressed, all hands will be feeble, all flesh and every spirit will faint, and every thigh will be stained with urine. Behold, it is coming and will be,' says the Lord and Master."
+               </Language>
+               <Language id="Arabic">
+                  أنني أتنهد علي الخير لأنه آتٍ فينسحق كل قلب وترتخي كل يد ويضعف كل جسد وكل روح ويتدنس كل صلب بالردي. ها هو آتٍ ويكون قال الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~oucaji n~te P[oic swpi haroi efjw m~moc je p~s/ri m~v~rwmi a~rip~prov/teuin ouoh eke~joc je naine n/e~tev jwm~mwou n~je P[oic P[oic. 
+               </Language>
+               <Language id="English">
+                  Again the word of the Lord came to me, saying, "Son of man, prophesy and you will say, 'Thus says the Lord: 
+               </Language>
+               <Language id="Arabic">
+                  وكان إلي كلام الرب قائلا: يا إبن الإنسان تنبأ وقل : هذا ما يقوله السيد الرب 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ajoc n~]c/fi je ]c/fi ]c/fi hioui~ ouoh jwnt hopwc n~te qolqel n~hanqolqel ouoh mare rw hioui~ hopwc n~teswpi e~re ielel cebtwt e~bol qomqem n~hansws ,w e~q~r/i n~s~s/n niben: avt/ic e~cebtwtc e~p~jin te tefjij a~moni m~moc:
+               </Language>
+               <Language id="English">
+                  "Say, 'O sword, sword, be sharpened and furious, that you may slay victims. Be sharpened, that you may be glistening and ready for destruction. Despise and reject every tree.' So he made it ready for his hand to hold.
+               </Language>
+               <Language id="Arabic">
+                  قل للسيف: يا سيف يا سيف إحتد وإضرب لكي تذبح ذبحاً  وإضرب بحدك لكي تكون لامعاً  وتأهب وإسحق العار وأسقط كل الأشجار لأنه قد أعطي ليكون مهيئاً عندما يمسك باليد ليضرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Arwc hioui~ ouc/ji eccebtwt e~p~jint/ic e~t~jij m~v/etqolqel: 
+               </Language>
+               <Language id="English">
+                  The sword is sharpened and ready to put in the hand of the slayer:'" 
+               </Language>
+               <Language id="Arabic">
+                  تجده سيفاً مستعداً ليعطي ليد الذي يذبح. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Os e~bol ouoh a~rioui~ n~oues~l/loui~ p~s/ri m~v~pwmi je a~yai swpi m~palaoc: acswpi qen nihugoumenoc t/rou n~tep~/i m~p~Icra/l:
+               </Language>
+               <Language id="English">
+                  "Cry out and wail, son of man, for this sword is come among My people; this sword is come among all the leaders of Israel.
+               </Language>
+               <Language id="Arabic">
+                  اصرخ وولول يا ابن الإنسان، لأنه يكون على شعبي وعلى كل رؤساء إسرائيل . 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cenajwili e~qoun n~jeouc/fi ac[wpi m~palaoc: 
+               </Language>
+               <Language id="English">
+                  They shall be as strangers because of the sword that is come among My people; 
+               </Language>
+               <Language id="Arabic">
+                  اهوال بسبب السيف تكون علي شعبي 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai kwlh e~jen tekjij je acy~maio~ ouoh c~] icjennauhioui~ e~bol n~ouvul/ n~necswpi peje P[oic.
+               </Language>
+               <Language id="English">
+                  Therefore, clap your hands, because it is justified; and what if even the tribe is rejected? It shall not be," says the Lord and Master.
+               </Language>
+               <Language id="Arabic">
+                  لذلك صفق علي يدك فإنه قد تزكي وهو يضرب منذ إخراج القبائل فلا يكون  قال الرب.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 4:20-5:2</Language>
+               <Language id="Arabic">سيراخ 4: 20-5: 2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Mah~y/k e~pic/ou n~teka~reh e~rok e~bol ha pipethwou: ouoh m~per[isipi eybe tekmetatc~bw:
+               </Language>
+               <Language id="English">
+                  Watch for a proper opportunity and keep yourself from evil; and do not bring shame upon your soul.
+               </Language>
+               <Language id="Arabic">
+                  تأمل الزمان وتحفظ من الشر ولا تستحي من عدم معرفتك    
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouon ousipi gar e~safi~ni m~v~nobi: ouoh ousipi n~ouw~ou nem ouh~mot: 
+               </Language>
+               <Language id="English">
+                  For there is a shame that brings sin, and there is a shame which is glory and grace. 
+               </Language>
+               <Language id="Arabic">
+                  فإنه من الحياء ما يجلب الخطية ومنه ماهو مجد ونعمة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mper[iho: oupethwou pe n~tek'u,/: ouoh m~persipi qen pekhei: 
+               </Language>
+               <Language id="English">
+                  Do not show partiality to someone to your own harm, and do not let your respect for another cause you to fall.
+               </Language>
+               <Language id="Arabic">
+                  لا تحاب  فلذلك ضرر لنفسك ولا تستحي من سقطتك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpera~moni n~oucaji qen ouc/ou n~oujai: e~saucouen ]covia~ gar qen picaji: ouoh ]metcabe qen p~caji m~pilac: 
+               </Language>
+               <Language id="English">
+                  Do not withhold a word in time of need; for wisdom is made known by a word, and instruction by a-word of the tongue. 
+               </Language>
+               <Language id="Arabic">
+                  ولا تمتنع عن الكلام في وقت الخلاص  لأن بالكلام تعرف الحكمة  والفهم من نطق اللسان  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mper]oube ]meym/i ouoh n~tek[isipi eybe tekmetatc~bw:
+               </Language>
+               <Language id="English">
+                  Do not speak against the truth, and do not be put to shame by your ignorance.
+               </Language>
+               <Language id="Arabic">
+                  لا تقاوم الحق وتستحي من جهالتك  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  m~persipi e~eromologin n~neknobi: m~pera~moni n~ouiaro efqa]:
+               </Language>
+               <Language id="English">
+                  Do not be ashamed to confess your sins, and do not exercise force against the current of a river. 
+               </Language>
+               <Language id="Arabic">
+                  لا تستحي أن تعترف بخطاياك ولا تغالب نهراً جارياً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpervorsk e~bolqaten ourwmi n~coj: m~per[i m~p~ho n~oujwri:
+               </Language>
+               <Language id="English">
+                  Do not subject yourself to a foolish man, and do not show partiality to a ruler.
+               </Language>
+               <Language id="Arabic">
+                  ولا تتزلل للرجل الأحمق. ولا تحاب المقتدر  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }ejen ]meym/i sa e~q~r/i e~v~mou: hina n~te P[oic Vnou] ]e~h~r/i ejwk.
+               </Language>
+               <Language id="English">
+                  Fight to the death for the truth, and the Lord God will fight for you.
+               </Language>
+               <Language id="Arabic">
+                  جاهد عن الحق إلي الموت لكي يقآتٍل الله عنك  ولا تكن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mperer ref,wlem e~caji: ekouwsf ekb/l e~bol qen nekh~b/oui~: 
+               </Language>
+               <Language id="English">
+                  Do not be rash with your tongue and sluggish and neglectful in your works.
+               </Language>
+               <Language id="Arabic">
+                  سريع الكلام كسلاناً متراخياً في أعمالك  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mperswpi m~v~r/] noumoui~ qen pek/i: ekoi n~tarah qen neke~biaik: m~peny~re tekjij swpi eccoutwn e~k~[i: tekcokc e~rok ekna]: 
+               </Language>
+               <Language id="English">
+                  Do not be like a lion in your home and act in pretense with your servants. Do not let your hand be extended to receive and shut when you should repay. 
+               </Language>
+               <Language id="Arabic">
+                  لا تكن كأسد في بيتك  قاسياً علي عبيدك  لا تكن يدك مبسوطة للأخذ مقبوضة عن العطاء  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mper,a h~y/k e~ni,r/ma: m~perjoc je cerwsi e~roi qen pawnq: m~perouahk n~ca pekh/t nem tekjom: eyrekmosi qen niouws n~te pekh/t.
+               </Language>
+               <Language id="English">
+                  Do not set your heart on your possessions, and do not say, "I am independent." Do not follow yourself and your strength so as to walk in the desires of your heart.
+               </Language>
+               <Language id="Arabic">
+                  لا تتوكل علي الأموال ولا تقل هي تكفيني في حياتٍي  لا تتبع هواك وقوتك لتسير في شهوات قلبك.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 18:48,17</Language>
+               <Language id="Arabic">مزمور 18: 48 ,17</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Paref nahmet e~bol n~totou n~najaji n~refjwnt: nem e~bol n~totou n~n/ettwoun m~mwou e~h~r/i e~jwi eke~[oci: 
+               </Language>
+               <Language id="English">
+                  My deliverer from the rage of my enemies; because of those who rise up against me, You will exalt me; 
+               </Language>
+               <Language id="Arabic">
+                  منقذي من أعدائي الراجزين ومن الذين يقومون علي ترفعي : 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nahmet e~bolha ourwmi n~oji efe~nahmet e~bol n~totou n~najaji etjor: nem e~bol n~totou n~n/eymoc] m~moi: All/louia.
+               </Language>
+               <Language id="English">
+                  You will deliver me from the unrighteous man. He will deliver me from my strong enemies, and from those who hate me. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  ومن الرجل الظالم تنجيني  يخلصني من أعدائي الأشداء ومن ايدي الذين يبغضونني. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 8:12-20</Language>
+            <Language id="Arabic">يوحنا 8: 12-20</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Palin on afcaji nemwou n~je I/couc efjwm~moc: je a~nok pe v~ouwini m~pikocmoc: v/eynamosi n~cwi n~nefmosi qen pi,aki: alla efe~[i m~v~ouwini n~te p~wnq:
+               </Language>
+               <Language id="English">
+                  Then Jesus spoke to them again, saying, “I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life.”
+               </Language>
+               <Language id="Arabic">
+                  ثم كلمهم أيضاً يسوع قائلاً: أنا هو نور العالم ومن يتبعني لا يمشي في الظلمة بل يكون له نور الحياة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje nivariceoc naf je n~yok m~mauatk e~termeyre qarok: tekmetmeyre oum/i an te:
+               </Language>
+               <Language id="English">
+                  The Pharisees therefore said to Him, “You bear witness of Yourself; Your witness is not true.”
+               </Language>
+               <Language id="Arabic">
+                  فقال له الفرسيون : أنت وحدك تشهد لنفسك فليست شهادتك حقاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je I/couc ouoh pejaf nwou: je kan e~swp a~nok aisan ermeyre qaroi tametmeyre oum/i te: 
+               </Language>
+               <Language id="English">
+                  Jesus answered and said to them, “Even if I bear witness of Myself, My witness is true, 
+               </Language>
+               <Language id="Arabic">
+                  أجاب يسوع وقال لهم : إني وإن كنت أشهد لنفسي فشهادتي حق. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ]e~mi je e~taii~ e~bolywn ie einasen/i e~ywn: n~ywten de tetene~mi an je e~taii~ e~bolywn ie einasen/i e~ywn.
+               </Language>
+               <Language id="English">
+                  For I know where I came from and where I am going; but you do not know where I come from and where I am going.
+               </Language>
+               <Language id="Arabic">
+                  لأني أعلم من أين جئت وإلي أين أذهب  وأما أنتم فلا تعلمون من أين أتيت ولا إلي أين أمضي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywten de a~reten ]hap kata carx a~nok de ]]hap ehli an: Ouoh e~swp a~nok aisan]hap pahap a~nok oum/i pe: je n~],/ m~mauat an alla a~nok nem v/e~taftaouoi v~iwt: 
+               </Language>
+               <Language id="English">
+                  You judge according to the flesh; I judge no one. And yet if I do judge, My judgment is true; for I am not alone, but I am with the Father who sent Me .
+               </Language>
+               <Language id="Arabic">
+                  أنتم إنما تدينون بحسب الجسد وأنا لا أدين أحداً. وإن أنا دنت فدينوني حق هي. لأني لست وحدي بل أنا والآب الذي أرسلني 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh c~c~q/out de on qen petennomoc je y~metmeyre n~rwmi c~nau oum/ite. A~nok de ]ermeyre qaroi ouoh f~ermeyre qaroi n~je viwt v~/e~taftaouoi:
+               </Language>
+               <Language id="English">
+                  It is also written in your law that the testimony of two men is true. I am One who bears witness of Myself, and the Father who sent Me bears witness of Me.”
+               </Language>
+               <Language id="Arabic">
+                  وقد كتب أيضاً في ناموسكم أن شهادة رجلين حق هي، أنا أشهد لنفسي وأبي الذي أرسلني يشهد لي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nau jw oun m~moc naf pe je afywn pekiwt. afe~rouw n~je I/couc je oude a~nok n~tetencwoun m~moi an oude pakeiwt: e~naertencwoun m~moi pe nare ten nacouen pakeiwt:
+               </Language>
+               <Language id="English">
+                  Then they said to Him, “Where is Your Father?” Jesus answered, “You know neither Me nor My Father. If you had known Me, you would have known My Father also.”
+               </Language>
+               <Language id="Arabic">
+                  قالوا : أين هو أبوك ؟! قال يسوع : لستم تعرفونني أنا ولا أبي لو كنتم تعرفونني لعرفتم أبي أيضاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naicaji afjo tou qen pigazovulakion ef]c~bw qen piervei: ouoh m~pe hli s~a~moni m~mof je ne m~pateci~ n~je tefounou.
+               </Language>
+               <Language id="English">
+                  These words Jesus spoke in the treasury, as He taught in the temple; and no one laid hands on Him, for His hour had not yet come.
+               </Language>
+               <Language id="Arabic">
+                  هذه الأقوال قالها في الخزانه وهو يعلم في الهيكل ولم يمسكه أحد لأن ساعته لم تكن قد أتت بعد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  The True God who came to the world says: "I am the light of the world", and what He says is the truth, “he who follows Me shall not walk in the darkness, but will have the light of life which will lead him to the way of the truth.” 
+               </Language>
+               <Language id="Arabic">
+                  الإله الحقيقي الذي أتى إلي العالم يقول وقوله الحق من فمه غير الكاذب: أنني أنا نور العالم ومن يتبعني لن يمشي في الظلام بل يجد نور الحياة يهديه إلي طريق الحق  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Truly, You are the light of the Father and the Person from His essence, whose glory shines with great luminescence over the creation unto eternity.
+               </Language>
+               <Language id="Arabic">
+                  أنت هو بالحق نور الآب والشخص الذي من جوهره الذي مجده يشرق بلمعان عظيم علي المسكونة في آخر الدهور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He drew us after Him, the estranged nation, to the knowledge of the truth in His name. He enlightened us with the light of His divinity, we who are sitting in the darkness and shadow of death.
+               </Language>
+               <Language id="Arabic">
+                  جذبنا معاً نحن معشر الشعوب الغريبة إلي معرفة الحق بإسمه. وأضاء علينا بنور لا هوته نحن الجلوس في الظلمة وظلال الموت  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  As for the contrary Jews who are His own: He relegated them to the darkness of Hell forever because they refused His words, rejected Him, and condemned Him to death. Let us praise his holy name and exalt in glorifying Him.
+               </Language>
+               <Language id="Arabic">
+                  فأما اليهود المخالفون الذي هم خواصه ألقاهم في ظلمة الجحيم إلي الأبد  لأنهم رفضوا أقواله ولم يقبلوه وحكموا عليه بحكم الموت. فلنعظم نحن إسمه القدوس ونمجده بغير فتور.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Praxis Response</Language>
+         <Language id="Arabic">مرد الابركسيس</Language>
+         <Language id="Coptic">&lt;ere ne Maria...</Language>
+      </Title>
+      
+      <InsertDocument path="include/praxisResponse/saints/StMary.1"/>
+      <InsertDocument path="include/praxisResponse/StandardConclusion"/>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="English">Alternate Praxis Response</Language>
+         <Language id="Coptic">Tote a~l/ywc...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The following is an alternate verse that may be chanted for the response to the Praxis:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/praxisResponse/saints/StMary.2"/>
+      <InsertDocument path="include/praxisResponse/StandardConclusion"/> 
+   </Section>   
+</Document>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         M/ic P[oic eyrecswpi ecs/p m~pekm~yo n~je tenyucia: e~h~r/i e~jen n/e~te noui~ n~nobi: nem nimetate~mi n~te peklaoc.
+      </Language>
+      <Language id="English">
+         Grant, O Lord, that our sacrifice may be accepted before You for my own sins and for the ignorance of Your people.
+      </Language>
+      <Language id="Arabic">
+         أعطِ ياربُّ أن تكونَ مقبولةً أمامَكَ ذبيحَتَنا عن خطاياي وجهالاتِ شعبِك.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Ouoh je c~toub/out: kata ]dwrea~ n~te Pekp~neuma eyouab: qen Pi,rictoc I/couc Pen[oic.
+      </Language>
+      <Language id="English">
+         For behold, it is pure according to the gift of Your Holy Spirit, in Christ Jesus our Lord.
+      </Language>
+      <Language id="Arabic">
+         ولأنها طاهرةٌ كموهبةِ روحِك القدوس، بالمسيحِ يسوع ربنا.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/SilentPriestConclusionEnding"/>
+</Document>

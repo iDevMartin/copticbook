@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         In the morning Offering of Incense, the priest says inaudibly this Prayer of Morning Incense.
+      </Language>
+      <Language id="Arabic">
+         وفي رفع بخور باكر يقول الكاهن أوشية بخور باكر هذه سراً بدل الأوشية السابقة:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Vnou] v/e~tafswp e~rof n~nidwron n~te Abel piym/i: nem ]yucia n~te Nwe~ nem Abraam: nem pic~yoinoufi n~te Aa~rwn nem Za,ariac.
+      </Language>
+      <Language id="English">
+         O God, who received to Yourself the offerings of the righteous Abel, the sacrifice of Noah and Abraham, and the incense of Aaron and Zachariah—
+      </Language>
+      <Language id="Arabic">
+         يا الله الذي قَبِلَ إليه قرابينَ هابيل الصديق، وذبيحةَ نوح وإبراهيم، وبخورَ هرون وزكريا.
+      </Language>
+   </Text>
+</Document>

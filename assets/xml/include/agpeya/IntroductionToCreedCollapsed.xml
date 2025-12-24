@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>     
+      <InsertDocument path="include/agpeya/IntroductionToCreedContents"/> 
+   </Section>
+</Document>

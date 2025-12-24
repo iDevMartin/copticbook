@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod | NativityParamoun">
+      <Comment>
+         <Language id="English">
+            From the Nativity Feast until the Feast of the Circumcision:
+         </Language>
+      </Comment>
+       
+      <Text>
+         <Language id="Coptic">
+            V/e~taumacf qen B/ylee~m: kata nic~m/ m~p~rov/t/kon: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who was born in Bethlehem, according to the prophetic voices. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            الذي ولد في بيت لحم كالأخبار النبوية. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

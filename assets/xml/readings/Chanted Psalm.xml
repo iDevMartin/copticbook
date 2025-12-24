@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">   
+      <InsertDocument path="include/ChantedPsalmIntro"/>
+      <InsertDocument path="readings/Psalm"/>
+      <InsertDocument path="include/psalmResponse/PsalmBishop"/>      
+      <InsertDocument path="include/psalmTrailer/PsalmTrailer"/>
+   </Role>
+</Document>

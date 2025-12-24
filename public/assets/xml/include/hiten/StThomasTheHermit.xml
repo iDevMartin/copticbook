@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StThomasTheHermit:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Thomas the Hermit:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/: n~te peniot e#y#u# n~dikeoc: Abba Ywmac piana,writ/c: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers Of our holy righteous father Abba Thomas the Anchorite O Lord grant us the forgiveness of our sins
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

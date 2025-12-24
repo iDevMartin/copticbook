@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="ArchangelMichael:All">
+      <Title>
+         <Language id="English">Archangel Michael</Language>
+         <Language id="Arabic">الملاك ميخائيل</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Offering of Incense</Language>
+         <Language id="Arabic">رفع بخور</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins ^ Vespers">
+         <InsertDocument path="include/versesofthecymbals/Index"/>
+         <InsertDocument path="include/doxologies/Index"/>         
+         <InsertDocument path="include/psalmTrailer/Index"/>
+         <InsertDocument path="include/gospelResponse/saints/Index"/>         
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/hiten/Index"/>
+         <InsertDocument path="include/praxisResponse/saints/Index"/>  
+         <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+         <InsertDocument path="include/gospelResponse/saints/Index"/>
+         <InsertDocument path="include/adamAspasmos/Index"/>         
+         <InsertDocument path="include/watosAspasmos/Index"/>
+         <InsertDocument path="include/fractions/Index"/>         
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Distribution of the Holy Mysteries</Language>
+         <Language id="Arabic">توزيع الأسرار</Language>
+      </Title>
+      
+      <InsertDocument path="veneration/VenerationLink"/>
+      <InsertDocument path="melodies/include/Saints"/>
+   </ForceSeason>
+</Document>

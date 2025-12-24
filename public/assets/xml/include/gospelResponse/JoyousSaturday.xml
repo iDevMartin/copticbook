@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday ^ Liturgy">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>    
+            <Language id="Arabic">مرد الإنجيل</Language>        
+            <Language id="Coptic">Pa[oic I/#c# P,#c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Joyous Saturday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Pa[oic I/#c# P,#c# v/etau,af qen pim~hau : ekeqomqem n~q~r/i n~q/ten n~]couri n~te v~mou.
+            </Language>
+            <Language id="English">
+               My Lord Jesus Christ : who was placed in the tomb : You shall trample in us: the thorn of death.
+            </Language>
+            <Language id="Arabic">
+               ياربي يسوع المسيح الذي وضع في القبر، أسحق عنا شوكة الموت.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>      
+   </Season>
+</Document>

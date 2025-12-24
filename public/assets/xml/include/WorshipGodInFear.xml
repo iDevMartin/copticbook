@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Ouwst m~Vnou] qen ouho] nem ouc~yerter.
+         </Language>
+         <Language id="English">
+            Worship God in fear and trembling.
+         </Language>
+         <Language id="Arabic">
+            اسجدوا لله بخوف ورعدة
+         </Language>         
+      </Text>
+   </Role>
+</Document>

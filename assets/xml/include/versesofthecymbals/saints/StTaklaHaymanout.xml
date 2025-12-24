@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StTaklaHaymanout:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Takla Haymanout:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pinis] na~gioc: n~te Eyiopia nem Aiguptoc: ,ere piyaumatourgoc: Yekla Humanoy pip~recbuteroc.
+            </Language>
+            <Language id="English">
+               Hail to the great Saint, who belongs to Ethiopia and Egypt, Hail to the wonderworker, Takla Haymanout the priest.
+            </Language>
+            <Language id="Arabic">
+               السلام للقديس العظيم: الذي لأثيوبيا ومصر: السلام للعجائبي:  تكلا هيمانوت القس.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

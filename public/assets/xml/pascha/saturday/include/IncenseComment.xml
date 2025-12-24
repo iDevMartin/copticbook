@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+       <Comment>
+         <Language id="English">
+            Every time the word “Incense” is mentioned, the priest offers incense.         
+         </Language>
+         <Language id="Arabic">
+            كل ما وصل القارئ إلى ذكر لفظة "بخور" يرفع الكاهن البخور.
+         </Language>
+      </Comment>
+   </Role>
+</Document>

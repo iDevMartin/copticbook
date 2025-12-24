@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StBarbara:GospelResponse | StJuliana:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Barbara and St. Juliana: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StBarbaraAndStJuliana"/>
+      </Season>
+   </Group>
+</Document>

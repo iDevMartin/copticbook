@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen n/etfi m~v~rwous n~niyucia nip~rocvora nia~par,/ nineh nic~yoinoufi nic~kepacma nijwm n~ws nikumillion n~te piman~erswousi: hina n~te Pi,rictoc Pennou] ]sebiw nwou qen Ieroucal/m n~te t~ve: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray for those who provide for the sacrifices, offerings, first fruits, oil, incense, coverings, reading books, and altar vessels, that Christ our God may reward them in the heavenly Jerusalem, and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن المهتمينَ بالصعائدِ، والقرابينْ، والبكورِ، والزيوتِ، والبخورِ، والستورِ، وكُتُبِ القراءةِ، وأواني المذبحِ، لكي المسيحُ إلَهُنا يكافِئَهم في أورشليمَ السمائيةِ، ويغفرَ لنا خطايانا.
+         </Language>
+      </Text>         
+   </Role>
+</Document>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FourthWeekOfKoiahk">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Ououwini...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the fourth week of the month of Koiahk:
+            </Language>
+         </Comment>
+
+         <InsertDocument path="include/praises/theotokia/Monday9.1"/>                              
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

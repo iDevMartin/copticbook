@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StTheodoreShotep:All">
+      <Title>
+         <Language id="English">Prince Theodore the Son of John of Shotep</Language>
+         <Language id="Arabic">الأمير تادرس بن يوحنا الشطبى</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

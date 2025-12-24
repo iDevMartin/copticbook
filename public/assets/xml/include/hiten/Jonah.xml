@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="JonahPassover">
+         <Comment>
+            <Language id="English">         
+               For the Passover of Jonah:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te pirefhiwis n~te niremNineu/~ Iwnac pip~rov/t/c: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of the Preacher of the Ninevites, Jonah the Prophet; O Lord, grant us the forgiveness of our sins. 
+            </Language>
+            <Language id="Arabic">
+               بصلوات كاروز أهل نينوي يونان النبي ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

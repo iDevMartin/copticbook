@@ -1,0 +1,2133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" MyronConsecration="true">
+   <Title>
+      <Language id="English">Sanctification of Myron</Language>
+      <Language id="Arabic">صلاة تقديس الميرون</Language>
+   </Title>
+      
+   <Comment>
+      <Language id="English">
+         After concluding the offering of the morning incense, the prayers of the hours are recited up to the ninth hour. 
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/3rdHourLink"/>
+   <InsertDocument path="include/agpeya/6thHourLink"/>
+   <InsertDocument path="include/agpeya/9thHourLink"/>
+   
+   <Comment>
+      <Language id="English">
+         The prayer for the sanctification of Myron then begins: 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Blessed are You</Language>
+            <Language id="Coptic">K~c~marwout</Language>
+         </Title>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>      
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/StartOfService"/>
+   
+   <Role id="Patriarch" silent="true">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      <InsertDocument path="include/BlessMeLo"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then His Holiness the Pope starts the Prayer of Thanksgiving before the altar. The Verses of the cymbals are chanted while the incense is offered while the inaudible prayer of incense for the Pauline epistle is prayed. 
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/ThanksgivingPrayer"/>   
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   <InsertDocument path="include/ProcessionOfIncense"/>
+   
+   <Role id="Archdeacon">
+      <InsertDocument path="include/LetUsEntreatContents"/>
+   </Role>
+      
+   <Comment>
+      <Language id="English">
+         His Holiness the Pope facing Eastward signs the sign of the Cross saying:
+      </Language>
+   </Comment>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            O Master, Lord, God of hosts, Who has set us in the inheritance of this service,
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب إله القوات الذي أدخلنا إلى نصيب هذه الخدمة،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Who establishes the knowledge of men and searches hearts and reins,
+         </Language>
+         <Language id="Arabic">
+            الذي يقيم فهم البشر، فاحص القلوب والكُلى،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            hear us according to the multitude of Your compassion, and cleanse us from every defilement of body and spirit; 
+         </Language>
+         <Language id="Arabic">
+            اسمعنا بكثرة رأفتك ونقِّنا من كلِّ أدناس الجسد والروح،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            wipe out the cloud of our sins and our unrighteousness like darkness; fill us with Your divine power and the grace of Your  Only-begotten Son and the working of the Holy Spirit. 
+         </Language>
+         <Language id="Arabic">
+            مزِّق سحابة خطايانا وآثامنا كما تمزق الضباب. املأنا من قوتك الإلهية ونعمة ابنك الوحيد وفعل روح قدسك. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May we be made sufficient for the service of this New Covenant that we may be able to bear Your Holy Name, and serve the priesthood of Your holy mysteries; 
+         </Language>
+         <Language id="Arabic">
+            اجعلنا جديرين بهذه الخدمة، خدمة العهد الجديد لكي نستطيع باستحقاق أن نعظم اسمك القدوس ونقف لخدمة أسرارك المقدسة،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            and grant us true knowledge that we may say those [things] which are worthy and to approach Your holy altar; 
+         </Language>
+         <Language id="Arabic">
+            وهب لنا معرفة حقيقية لننطق بما يجب ونقترب إلى مذبحك الطاهر، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And accept unto You our petitions, we Your servants.
+         </Language>
+         <Language id="Arabic">
+            واقبل إليك ابتهالاتنا نحن عبيدك، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And grant us that we may offer unto You  the rational service of this holy Myron as a savour of incense, looking for Your heavenly gift.
+         </Language>
+         <Language id="Arabic">
+            وامنحنا أن نقرب امامك الخدمة الناطقة التي لهذا الميرون المقدس برائحة البخور، إذ نحن منتظرين مواهبك السمائية 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For You are Good and plenteous in mercy toward all who call upon You, and strong is Your might with Your Only-begotten Son and the Holy Spirit, both now and always and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            لأنكَ صالح كثير الرحمة لكلِّ مَن دعاكَ، وبكَ يليق المجد والعزة أيها الآب والإبن والروح القدس الآن وكل أوان...
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+   
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Isaiah 61:1-7" type="section"/>
+      <BibleReference reference="Exodus 30:22-33" type="section"/>
+      <BibleReference reference="Exodus 39:43-40:38" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Nisavev.1"/>  
+   </Role>
+   
+   <Role id="Patriarch" silent="true">
+      <InsertDocument path="include/PrayerOfAbsolutionToTheFather"/>
+   </Role>
+   
+   <Role id="Patriarch">
+      <InsertDocument path="include/AbsolutionOfTheServants"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/Nisavev.2"/>
+      
+      <Comment>
+         <Language id="English">
+            <span class="Coptic">Cwyic Am/n</span> is chanted in the quick tune.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/SavedAmenMedium"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Hymn of the Censer</Language>
+            <Language id="Coptic">}sour/...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               On all fasting days (except during the Great Fast and Jonah’s Fast), Saturdays and Sundays of the Great Fast, and on the two Feasts of the Cross, the following is chanted.
+            </Language>
+            <Language id="Arabic">         
+               وفي كل أيام الأصوام (ما عدا أيام الصوم الكبير وصوم نينوى) وفي سبوت وآحاد الصوم الكبير وفي عيدي الصليب تقال هذه عوضاً عن السابقة:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/Teeshoree"/>
+      </Section>
+      
+      <InsertDocument path="include/PaulineEpistleResponses"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Hebrews 1:5-2:4" type="section"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 John 2:20-28" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/SilentPrayerCatholicEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Acts 10:34-46</Language>
+            <Language id="Arabic">اعمال 10: 34-46</Language>
+         </Title>
+         
+         <BibleReference reference="Acts 10:34-45" hideConclusion="true"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Naucwtem gar e~rwou pe eucaji qen hanlac ouoh eu[ici m~V].
+            </Language>
+            <Language id="English">
+               For they heard them speak with tongues and magnify God.
+            </Language>
+            <Language id="Arabic">
+               لأَنَّهُمْ كَانُوا يَسْمَعُونَهُمْ يَتَكَلَّمُونَ بِأَلْسِنَةٍ وَيُعَظِّمُونَ اللهَ.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="readings/ActsConclusion"/>
+      </Section>
+      
+   </Role>
+      
+   <InsertDocument path="include/InaudiblePrayerForThePraxis"/>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+   <Comment>
+      <Language id="English">
+         The Mystagogy (from the book of the Didascalia) is then wrapped and is carried by His Holiness the Pope in a procession around the sanctuary and the cathedral, while the people sing the hymn “<span class="Coptic">&lt;ere Yeo~toke</span>”. 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <Section expanded="true">
+         <InsertDocument path="include/veneration/ShereTheotokeContents"/>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="pascha/include/Omonogenees"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/doxologies/Apostles"/>
+      <InsertDocument path="include/doxologies/PatriarchContents"/>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            His Holiness ascends to the chancel and one of the fathers reads the book of “Song of Songs.” 
+         </Language>
+      </Comment>
+   
+      <BibleReference reference="Song of Solomon 1:1-17" type="section" hideConclusion="true"/>
+      <BibleReference reference="Song of Solomon 2:1-17" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 3:1-11" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 4:1-16" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 5:1-16" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 6:1-13" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 7:1-13" type="section" hideIntroConclusion="true"/>
+      <BibleReference reference="Song of Solomon 8:1-14" type="section" hideIntro="true"/>
+   </Role>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Henceforth let no catechumen or energumen or unbeliever stand. Let us ask for each other that we may know uprightness. Stand right and seek peace from the Lord.
+         </Language>
+         <Language id="Arabic">
+            ها هنا لا يقيم موعوظ ولا من فيه عيب أو من ليس له قوة إيمان، نحن نطلب من بعضنا بعض أن نعرف كل إستقامة، قفوا جيداً ومن الرب أطلبوا السلام. 
+         </Language>
+      </Text>
+   </Role>   
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Christ our God has commanded us in the Law and the Prophets that we be called priests through the grace of Your goodness. 
+         </Language>
+         <Language id="Arabic">
+            المسيح إلهنا أمرنا في الناموس والأنبياء أن ندعى كهنة من قبل نعمة صلاحك.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            He, Who glorified His people, preparing them to be a kingdom and a purified nation.
+         </Language>
+         <Language id="Arabic">
+            الذي مجد شعبه وأعدهم مملكة وأمة مطهرة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            You also now, bless this Myron set forth.
+         </Language>
+         <Language id="Arabic">
+            أنت الآن أيضاً بارك هذا الميرون الموضوع أمامنا.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We invoke Your name upon it for it shall not be blessed through the ointment but rather through Your power and the grace of Your Only-begotten Son and the working of Your Holy Spirit. 
+         </Language>
+         <Language id="Arabic">
+            نصلي باسمك عليه لأنه لا يكون مباركاً من قبل الطيب بل من جهة قوتك ونعمة إبنك الوحيد وفعل روحك القدوس.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And since we are not worthy to complete this great mystery, rather You, O our King now, send down upon it Your Holy Spirit that it may become a spiritual ointment.
+         </Language>
+         <Language id="Arabic">
+            وإن كنا نحن غير مستحقين أن نكمل هذا السر العظيم لكن أنت الآن يا ملكنا أرسل عليه روح قدسك ليصير طيباً روحانياً
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            By the grace, compassion and love towards mankind of Your Only-begotten Son our Lord Jesus Christ.
+         </Language>
+         <Language id="Arabic">
+            بالنعمة والرأفة ومحبة البشر اللواتي لإبنك الوحيد ربنا يسوع المسيح.
+         </Language>
+      </Text>
+   </Role>   
+      
+   <InsertDocument path="include/BowYourHeads"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            We submit our necks to You and we bow our hearts to You, raising our hands, asking You, O Beneficent One that You make us worthy to complete the service of this holy Myron that it may be a keeper of the lambs of Your holy Church. 
+         </Language>
+         <Language id="Arabic">
+            نخضع لك باعناقنا وننحني لك بقلوبنا ونرفع أيدينا ونطلب منك أيها المحسن لكي تجعلنا مستحقين أن نكمل هذه الخدمة التي لهذا الميرون المقدس ليكون حافظاً لخراف بيعتك المقدسة
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For it is not like the Myron of the Law of that time that comes down to the edge of Aaron’s garment.
+         </Language>
+         <Language id="Arabic">
+            لأنه ليس مثل ميرون ناموس ذلك الزمان، المنحدر على جيب قميص هارون
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Rather may it be now an ointment invested by the Holy Spirit the Comforter. For it is not like the horn of Samuel or like the box that was poured upon Your holy and blessed feet.
+         </Language>
+         <Language id="Arabic">
+            بل فليكن الآن دهناً مشتملاً بالروح القدس المعزي. لأنه ليس مثل قرن صموئيل أو مثل القارورة التي أفيضت على قدميك المقدسة المباركة. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For You have not made this unspeakable ointment salvation for those upon the earth only, but rather a heavenly ointment and a sign unto them to fear You as in the scripture and even better.
+         </Language>
+         <Language id="Arabic">
+            لأنك لم تجعل هذا الدهن الغير موصوف خلاصاً للذين على الأرض فقط. لكن دهناً سمائياً هذا الذي علامة للذين يخافونك كما في الكتب وأفضل.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For an ointment poured is Your Holy Name and rather unutterable. And incomprehensible is Your divine grace.
+         </Language>
+         <Language id="Arabic">
+            لأن طيب فائق هو اسمك القدوس بل ولا ينطق به ولا تدرك نعمتك الإلهية.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            O our King, make us worthy to complete all of these offerings in the name of the holy Trinity, the undivided and Co-essential.
+         </Language>
+         <Language id="Arabic">
+            يا مليكنا اجعلنا أهلاً أن نكمل هذه التقدمات كلها باسم الثالوث القدوس الغير منحل والمساوي.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            This which You have granted as a holy and fearsome ointment and a perfect mystery unto all goodness.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي أنعمت به لنا دهناً مقدساً ومخوفاً لسر كامل لكل الصلاح.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant that it be a sign undivided unto the healing of all who believe in You. A chaser of all the evil passions for all those who are anointed therewith.
+         </Language>
+         <Language id="Arabic">
+            تعطيه علامة بغير افتراق لشفاء كل المؤمنين بك. طارداً لكل الآلام الرديئة عن الذين يدهنون به.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Make it O Lord a holy ointment unto all who are anointed with it. Sanctify them and may the rising of evil spirits be dispersed away from those who are renewed through it. 
+         </Language>
+         <Language id="Arabic">
+            اجعله يارب دهناً مقدساً للذين يرسمون به. قدسهم لتفترق قيام الأراوح الشريرة. عن الذين ينالون منه تجديداً 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May those anointed with it have a garment of righteousness that they may be freed from sin. 
+         </Language>
+         <Language id="Arabic">
+            والمدهونبن منه يكون لهم لباس البر لكي ما يعتقوا من الخطية. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Confirm our souls O Lord God in the orthodox faith. Grant us the perfection of faith in righteousness and purity through Your fear. 
+         </Language>
+         <Language id="Arabic">
+            ثبِّت نفوسنا أيها الرب الله في الأمانة الأرثوذكسية. أنعم لنا بكمال الإيمان ببر وطهر بخوفك 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And we send up unto You the glory and the might and the adoration forever and unto the age of ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            ونرسل لك إلى فوق المجد والعزة والسجود إلى الأبد وإلى دهر الدهور آمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Comment>
+      <Language id="English">
+         Then shall be said “Alleluia” followed by the following versicles of the psalms in the “Hos” tune and  the chanters shall say “Alleluia” following each versicle:
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/Alleluia"/>   
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Your throne O God is unto the age of ages, a scepter of uprightness is the scepter of Your kingdom.
+         </Language>
+         <Language id="Arabic">
+            كرسيك يا الله إلى دهر الدهور. قضيب إستقامة قضيب ملكك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/Alleluia"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Because of truth and meekness and righteousness; and Your right hand shall guide  You wonderfully, therefore God, Your God, has anointed You with  the oil  of gladness above Your fellows. Myrrh, and stacte, and cassia, (smell) out of  Your garments, from the ivory  palaces (which) have made You glad. 
+         </Language>
+         <Language id="Arabic">
+            من أجل الحق والدعة والبر فتريك يمينك مخاوف. أحببت البر وأبغضت الإثم من أجل ذلك مسحك الله إلهك بدهن الإبتهاج أكثر من رفقائك. المر والميعة والسليخة من ثيابك. طيب لباسك من شريف العاج التي منها أبهجتك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/Alleluia"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            I have exalted one chosen out of my people: I have found David my servant; with holy oil have I anointed him: and my hand supported him. For he has kept my mercy and my faithfulness, his seed shall endure forever, and His Throne as the days of heaven.
+         </Language>
+         <Language id="Arabic">
+            رفعت مختاراً من شعبي وجدت داود عبدي. بدهن قدسي مسحته. يدي أعانته وذراعي قوته. لأنه حفظ رحمتي وأمانتي إلى الأبد. نسله في طمأنينة إلى الأبد وكرسيه مثل أيام السماء.
+         </Language>
+      </Text>
+   </Role>   
+      
+   <InsertDocument path="include/Alleluia"/>
+      
+   <Role id="Deacon">
+      <InsertDocument path="include/BlessMeBlessMe"/>
+   </Role>
+      
+   <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Blessed be the Lord God Who came into the world and gave light to all mankind    
+         </Language>
+         <Language id="Arabic">
+            مبارك الرب الإله الذي جاء إلى العالم وأضاء لكلِّ البشر.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/agpeya/KeNin"/>
+      
+   <Role id="Patriarch">
+      <InsertDocument path="include/PeaceBeWithAll"/>
+   </Role>
+      
+   <InsertDocument path="include/AndWithYourSpirit"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            O God, our Father and Lord of mercy, Who has created everything by Your Word. And also with Your Wisdom You have adorned man that he may have dominion over everything that You have created. 
+         </Language>
+         <Language id="Arabic">
+            الله أبانا و رب الرحمة الذي خلق كل شيء بكلمته وبحكمتك أيضاً زينت الإنسان كي يكون مالكاً على كل شيء خلقته.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant me, I Your servant, who is unworthy of Your wisdom through Your joyful throne, 
+         </Language>
+         <Language id="Arabic">
+            أنعم لي أنا عبدك الغير مستحق لحكمتك من قبل كرسيك السعيد. كي
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            that I may be worthy when I enter to serve Your holy altar to complete this order of the holy Myron that is set forth,
+         </Language>
+         <Language id="Arabic">
+            أستحق عندما أدخل إلى خدمة مذبحك الطاهر أن نكمل هذا الترتيب الذي للميرون المقدس الموضوع الآن أمامنا 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            that it may become elect and pleasing unto You. Perfect it through Your Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            ليصير مختاراً ويرضيك وتكمل عليه روح قدسك 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For Your Name is blessed and glorified and hallowed forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            لأن إسمك مبارك وممجد وقدوس إلى الأبد آمين.
+         </Language>
+      </Text>
+   </Role> 
+      
+   <Role id="Deacon">
+      <Text>
+         <Language id="English">
+            Pray for the peace of the One, Holy, Catholic and Apostolic, Orthodox Church, and for God’s salvation among the people, stability in all places, and that He may forgive us our sins. 
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن سلام الواحدة الوحيدة المقدسة الجامعة الرسولية كنيسة الله الأرثوذكسية وخلاص الله في الشعوب والطمأنينة في كل مكان ومغفرة خطايانا.
+         </Language>
+      </Text>
+   </Role>   
+      
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Role id="Patriarch">
+      <InsertDocument path="include/PeaceBeWithAll"/>
+   </Role>
+      
+   <InsertDocument path="include/AndWithYourSpirit"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            The Lord, God the Great the eternal, wondrous in His glory, Who keeps His covenant and His mercy to those who love Him. 
+         </Language>
+         <Language id="Arabic">
+            الرب الله العظيم الأبدي العجيب في مجده الذي حفظ عهده ورحمته للذين يحبونه،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Who has given us redemption from our sins through His Son. Who has granted a new life to those liberated from sin.
+         </Language>
+         <Language id="Arabic">
+            الذي أعطانا الخلاص من خطايانا بابنه، الذي أنعم بحياة جديدة للذي يعتقون من الخطية.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For You are God Who makes wise the blind (Ps 145) Who looses the bound and uplifts the fallen. Who loves the righteous and keeps the strangers and guides them all to His true knowledge.
+         </Language>
+         <Language id="Arabic">
+            لأنك أنت هو الله المعطي حكمة للعميان وتحل المربوطين وتقيم الساقطين، الذي يحب الصديقين ويحفظ الغرباء ويهديهم كلهم 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            You have brought us, we the bound out of darkness and the shadow of death.
+         </Language>
+         <Language id="Arabic">
+            إلى علمه الحق. أنت الذي أخرجتنا نحن المربوطين في الظلمة وظلال الموت.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Enlighten, O Lord, our hearts with the light of the knowledge of Your Christ, “Who showed Himself on earth and conversed with men” (Baruch 3:37) who knew You and believed in You.
+         </Language>
+         <Language id="Arabic">
+            أضيء يارب قلوبنا بنور معرفة مسيحك هذا الذي ظهر على الأرض وتربى مع البشر. والذين عرفوك وآمنوا بك.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            You gave them authority to be children of yours through the new birth. Having made us heirs of Your holy Name. 
+         </Language>
+         <Language id="Arabic">
+            أعطيتهم سلطاناً أن يصيروا أبناء لك من قبل حميم الميلاد الجديد. إذ صيرتنا خلفاء لإسمك القدوس
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And now, O Master of every one, You took no pleasure in the blood of the Old Covenant to purify those blemished by their sins. 
+         </Language>
+         <Language id="Arabic">
+            أنت الآن يا سيد كل أحد لم تسر بدماء العهد القديم أن تطهر المدنسين بخطاياهم،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            But rather with a holy ointment You have given a sign to those who fear You (Ps 59:3) through the anointing by Your Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            بل بدهن مقدس أعطيت علامة للذين يخافونك برشم روح قدسك. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant us we too, O Lord, grace at the opening of our mouth and give us power to complete this service. 
+         </Language>
+         <Language id="Arabic">
+            أعطنا نحن أيضاً يارب نعمة عند افتتاح فمنا وامنحنا قوة لكي نكمل هذه الخدمة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Even as You have granted unto Your servants Moses and Samuel and John, whom You have chosen, together with all those who have pleased You, each one of all the generations that were (before).
+         </Language>
+         <Language id="Arabic">
+            لأنه كما أنعمت لعبيدك موسى وصموئيل ويوحنا الذين إخترتهم وجميع الذين ارضوك واحداً فواحد من كل الأجيال الذين كانوا هكذا.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Now also, O Lord, strengthen us that we may serve Your New Covenant and anoint Your people, this which You have acquired through the pure blood of Your Only-begotten Son our Lord Jesus Christ.
+         </Language>
+         <Language id="Arabic">
+            الآن أيضاً يا رب قوِّنا لنخدم عهدك الجديد، لندهن شعبك هذا الذي اقتنيته من قبل الدم الطاهر الذي لابنك الوحيد ربنا يسوع المسيح.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That we may put off the old (man) with the lusts of the world. And if we have died in sin, may we live in righteousness.
+         </Language>
+         <Language id="Arabic">
+            لكي نخلع القديم وشهوات العالم، وإن كنا قد متنا بالخطية فنعيش بالبر،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And put on Christ unto the purity of our members through the anointing with this holy Myron. Send down upon it now the grace and the gift of Your Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            ونلبس المسيح بطهارة أعضائنا من قبل المسحة بهذا الميرون المقدس. أرسل عليه الآن النعمة والموهبة التي لروحك القدُّوس،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That it may be an anointing of joy and rejoicing and a garment of light. Amen.
+         </Language>
+         <Language id="Arabic">
+            ليكون دهن الفرح والتهليل ولباس النور آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A royal grace. Amen.
+         </Language>
+         <Language id="Arabic">
+            ونعمة ملوكية آمين. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Purity to our souls and bodies. Amen.
+         </Language>
+         <Language id="Arabic">
+            طهارة لنفوسنا وأجسادنا آمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A spiritual gift. Amen. 
+         </Language>
+         <Language id="Arabic">
+            موهبة روحانية آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A safeguard for life. Amen.
+         </Language>
+         <Language id="Arabic">
+            حرز الحياة آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A seal of incorruption. Amen.
+         </Language>
+         <Language id="Arabic">
+            خاتم غير فاسد آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A weapon of faithfulness and a shield of strength against the evil workings of Satan. Amen.
+         </Language>
+         <Language id="Arabic">
+            سلاح الأمانة، درع القوة قبالة الأفعال الشريرة التي للشيطان آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A pledge of salvation and safety and eternal life. Amen.
+         </Language>
+         <Language id="Arabic">
+            عربون الخلاص والنجاة والحياة الأبدية آمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AmenPeople"/>
+      
+   <Role id="Patriarch">   
+      <Text>
+         <Language id="English">
+            That the adversaries may have fear and dread towards those who are anointed therewith. That we may stand on judgment day shining like the stars of heaven in the light of Your saints, where there is no blemish or mire. 
+         </Language>
+         <Language id="Arabic">
+            لكي يكون للمقاومين مخافة وقلق من قبل الذين يدهنون به. حتى نقف في يوم الدينونة مضيئين مثل النجوم السمائية في نور جميع قديسيك حيث لا دنس ولا حمأة
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That we may find mercy and repose in Your eternal tabernacles. And grow through the gift of Your Holy Spirit, that we may be worthy of the heavenly gifts from on high. Through the grace, compassion …
+         </Language>
+         <Language id="Arabic">
+            لكي نجد رحمة ونياحاً في مظالك الأبدية وننمو بموهبة روحك القدوس لنستحق العطايا السمائية التي من فوق بالنعمة والرأفة...
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">A~Pipneuma eyouab...</Language>
+         </Title>
+      
+         <Text>
+            <Language id="Coptic">
+               A~Pipneuma eyouab: nehci qen Dauid: je twnk ari'alin: je a piouwini sai.
+            </Language>
+            <Language id="English">
+               The Holy Spirit awoke David saying: Arise and sing for the Light has shone: 
+            </Language>
+            <Language id="Arabic">
+               الروح القدس أيقظ داود قائلاً: قُم رتِّل لأن النور قد أشرق.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aftwnf n~je Dauid: pihumnodoc e#y#u#: af[i n~tefkuyara: m~pneumatikon.
+            </Language>
+            <Language id="English">
+               David, the holy psalmist arose; he took his spiritual lyre.
+            </Language>
+            <Language id="Arabic">
+               فقام داود المرتِّل القدِّيس وأخذ قيثارته الروحية.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+      
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Let us stand aright.  Let us stand in piety.  Let us stand with attachment.  Let us stand with the fear of God, and with trembling and reverence.  Offer in order, stand, and look towards the East.  Let us attend.
+         </Language>
+         <Language id="Arabic">
+            قفوا حسناً قفوا بورعٍ قفوا باتصالٍ قفوا بخوفِ الله ورعدةٍ وخشوعٍ، قدِّموا وقفوا برعدةٍ وإلى الشرقِ انظروا، نُنصِت.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="People">
+      <InsertDocument path="include/hiten/StMary"/>
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Eleoc i~r/n/c: oucai muron.
+         </Language>
+         <Language id="English">
+            A mercy of peace: a holy Myron.
+         </Language>
+         <Language id="Arabic">
+            رحمةُ السلام، ميرون مقدَّس.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Title>
+      <Language id="English">Anaphora</Language>      
+      <Language id="Arabic">الانافورا</Language>
+   </Title>
+   
+   <InsertDocument path="include/AnaphoraIntro"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Meet and right, meet and right, meet and right. O God our Father and Lord of mercy, Who has created life without corruption. 
+         </Language>
+         <Language id="Arabic">
+            مستحق وعادل، مستحق وعادل، مستحق وعادل، الله أبانا ورب الرحمة الذي خلق الحياة وعدم الفساد، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Then, when we fell and followed the Devil and transgressed Your Law we were delivered unto death because of our sins.
+         </Language>
+         <Language id="Arabic">
+            ثم لما سقطنا وتبعنا إبليس وتعدينا ناموسك أسلمتنا للموت بسبب خطايانا، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Again you called us back to life, having compassion on Your hands’ creation according to the good will of Your Only-begotten Son Jesus Christ our Lord.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً دعوتنا إلى الحياة، وتحننت على جبلة يديك بمسرة ابنك الوحيد يسوع المسيح ربنا
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Through Whom You have brought us to this  incomprehensible and indescribable service. 
+         </Language>
+         <Language id="Arabic">
+            هذا الذي من قبله اتيت بنا إلى هذه الخدمة 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And the shame of sin you have exchanged  with a heavenly hidden mystery, when You made us believers through water and the Spirit. 
+         </Language>
+         <Language id="Arabic">
+            الغير مدركة ولا موصوفة، وعوض خزي الخطية بدلته بسر خفي سمائي لما جعلتنا مؤمنين بالماء والروح
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Having shown us the path of salvation and renewed us through the grace of the anointing of joy.
+         </Language>
+         <Language id="Arabic">
+            إذ أريتنا طريق الخلاص وجددتنا من جهة الإنعام علينا بدهن المسرة.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/YouWhoAreSeated"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Therefore, O Master our Lord, we ask and entreat You to send Your Holy Spirit upon this Myron set forth: stir it so that it may become the perfect seal of purity and salvation unto all mankind.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا أيها السيد ربنا نسألك ونطلب منك أن ترسل روحك القدوس على هذا الميرون الموضوع أمامنا، حركه لكي يصير الختم الكامل بطهارة وخلاص كل البشر لتحل فيه 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May the grace and working of Your Holy Spirit come upon it, that He may make us unto Him evangelists and servants and that we may become worthy to glorify You with a pure heart, O True God.
+         </Language>
+         <Language id="Arabic">
+            النعمة وفعل روحك القدوس، لكي يجعلنا له مبشرين وخدام لنستحق بقلب طاهر أن نمجدك أيها الإله الحقيقي.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LookTowardsTheEast"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Who is praised, blessed, and glorified by the angelic orders, the archangels, the principalities, the authorities, the dominions and the powers and all the heavenly hosts with unfailing lips and incessant voices.
+         </Language>
+         <Language id="Arabic">
+            الذي تسبحه وتباركه وتمجده بشفاه لا تفتر وأصوات لا تسكت صفوف الملائكة ورؤساء الملائكة والرؤساء والسلاطين والكراسي والأرباب والقوات وجميع العساكر السمائية
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            The Cherubim full of eyes and the awesome Seraphim, six wings to the one and six wings to the other.
+         </Language>
+         <Language id="Arabic">
+            الشاروبيم الكثير الأعين والسارافيم المخوف ذو الستة الأجنحة للواحد وستة أجنحة للآخر.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            With two wings they cover their faces, on account of Your Godhead, that cannot be seen or comprehended, and with two, they cover their feet, and with the other two, they do fly.
+         </Language>
+         <Language id="Arabic">
+            فبجناحين يسترون وجوههم من أجل لاهوتك الذي لا يستطاع النظر إليه ولا التفكر فيه، وباثنين يسترون أرجلهم ويطيرون باثنين. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And one cries unto another. They praise and bless and give thanks and offer to Your compassion the hymn of victory and redemption, which pertains to us, proclaiming and saying:
+         </Language>
+         <Language id="Arabic">
+            ويصرخون واحد قبالة واحد منهم. يسبحون ويباركون ويشكرون ويقدمون إلى تحننك تسبحة الغلبة التي لخلاصنا ويصرخون قائلين:
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LetUsAttend"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/watosAspasmos/Conclusion"/>
+   </Role>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy, You are in truth and exceedingly hallowed O Father the Pantocrator, giver of all purity.
+         </Language>
+         <Language id="Arabic">
+            قدوس قدوس قدوس أنتَ هو بالحقيقة ومتزايد تقديساً أيها الآب ضابطَ الكل معطي كل الطهارة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Holy is Your Only-begotten Son our Savior Jesus Christ, begotten of You before all ages without dissolution.
+         </Language>
+         <Language id="Arabic">
+            قدوسٌ هو ابنكَ الوحيد مخلصنا يسوع المسيح المولود منكَ قبلَ كل الدهور بغيرِ انحلالٍ.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Holy also is Your Holy Spirit through Whom is sanctified every one in heaven and all that are on earth.
+         </Language>
+         <Language id="Arabic">
+            قدوسٌ هو أيضاً روحك القدوس هذا الذي من قِبَلِه يتقدس جميع الذين في السماء وكل الذين على الأرض.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            O Holy of holies and giver of holiness, purifier of all the world. 
+         </Language>
+         <Language id="Arabic">
+            يا قُدسَ القديسين مُعطي القدس مطهر جميع المسكونة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Who has anointed with His Holy Spirit those who believed in His manifestation which is full of salvation.
+         </Language>
+         <Language id="Arabic">
+            الذي مسحَ بروحِهِ القدوس الذين آمنوا بظهوره المملوء خلاصاً.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Exceedingly pure and full of joy is this bodily ointment that You have granted unto us by the counsels of Your unfading anointing, which is the sign of truth and the fellowship of Your incomprehensible light. 
+         </Language>
+         <Language id="Arabic">
+            طاهر جداً وسعيد هو هذا الدهن الجسداني هذا الذي أنعمتَ به علينا بمشورات مسحتك غير الهالكة. إذ هي علامة الحق وشركة نورك الغير مُدركة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Having granted us the royal rank unto the purification of our souls and our bodies and gave it as a divine ointment unto those who are anointed with it in faith, that they may be without blemish, an elect people unto Your Godhead. 
+         </Language>
+         <Language id="Arabic">
+            وإنعامك علينا بالرتبة الملوكية طُهراً لنفوسنا وأجسادنا. وأعطيته طيباً إلهياً للمدهونين منه بأمانة لكي يكونوا بلا عيبٍ شعباً مختاراً للاهوتك. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Dwell in them and may the holy Name of Your Christ be called upon them, that we too may acquire the coming life and the repose of the eternal good things, which You have prepared, O Lord for those who love Your Holy Name. 
+         </Language>
+         <Language id="Arabic">
+            حل فيه ليدعى الاسم المقدس الذي لمسيحك عليهم لنقتني نحن أيضاَ الحياة الآتية ونياح الخيرات الدهرية التي أعددتها يا رب لمحبي إسمك القدوس.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Ouwst m~V] ~Viwt pipantokratwr.
+         </Language>
+         <Language id="English">
+            Worship God the Father the Pantocrator.
+         </Language>
+         <Language id="Arabic">
+            اسجدوا لله الآب ضابط الكل.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Have mercy upon us O God according to Your great mercy and send down Your Holy Spirit upon this honored and blessed Myron that it may become a holy anointing and a perfect seal.
+         </Language>
+         <Language id="Arabic">
+            ارحمنا يا الله كعظيم رحمتك وارسل روح قدسك على هذا الميرون المكرم المبارك، لكي يصير مسحة مقدسة وخاتماً كاملاً،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            An ointment of rejoicing and mercy and salvation, which was given in type through the Law, by which were anointed kings and high priests and prophets from Moses to John, and also likewise in the New Covenant.
+         </Language>
+         <Language id="Arabic">
+            دهن التهليل والرحمة والخلاص، الذي أعطى علامة من قبل الناموس يدهنون به الملوك ورؤساء الكهنة والأنبياء من موسى إلى يوحنا. هكذا أيضاً في العهد الجديد
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            By which were anointed kings and high priests and prophets from Moses to John.
+         </Language>
+         <Language id="Arabic">
+            يدهنون به الملوك ورؤساء الكهنة والأنبياء من موسى إلى يوحنا.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Yes, O our King, God the Father the Pantocrator, we ask You to send down Your Holy Spirit on this Myron that it may become a garment of incorruption and a holy anointing unto the glory and honor of Your Holy Name which is blessed with Your Only-begotten Son and the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            نعم يا ملكنا الله الآب ضابط الكل نسألك أن ترسل روح قدسك على هذا الميرون لكي يكون لباساً لعدم الفساد ومسحة مقدسة، مجداً وإكراماً لاسمك القدوس المبارك مع ابنك الوحيد والروح القدس. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For by this is anointed the apostles and all the saints and the little children who are born in the name of Christ when they present them to the anointing of the new birth.
+         </Language>
+         <Language id="Arabic">
+            لأن هذا هو الذي يدهن به الرسل وكل القديسين والأطفال الصغار المولودين على اسم المسيح عندما يقدموهم إلى مسحة الميلاد الجديد،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And by this also are anointed the bishops and the priests until this day. 
+         </Language>
+         <Language id="Arabic">
+            وبهذا أيضاً تدهن الأساقفة والقسوس إلى هذا اليوم.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask You, O our King, let this be now a garment of salvation, a garment of incorruption, an honorable anointing, and a firm seal unto those whom they present before You to be baptized by the new birth.
+         </Language>
+         <Language id="Arabic">
+            نسألك يا ملكنا ليصير هذا الآن لباساً للخلاص، لباساً لعدم الفساد ومسحة مكرمة وخاتماً ثابتاً للذين يقدمونهم أمامك ليعمدوهم بالميلاد الجديد
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May they know Your Law, and glorify Your Holy Name together with Your Only-begotten Son Jesus Christ our Lord and the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            لكي يعرفوا ناموسك ويمجدوا اسمك القدوس وابنك الوحيد يسوع المسيح ربنا والروح القدس
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May they be citizens of the city of heaven, and elect servants, having purified their souls and their bodies.
+         </Language>
+         <Language id="Arabic">
+            ويصيروا من أهل مدينة السماء وعبيداً مختارين إذ تُطَهَّر نفوسهم وأجسادهم.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Cast away from them every evil and every sin and make us worthy of Your holy incorruptible glory.
+         </Language>
+         <Language id="Arabic">
+            وانزع عنهم كل شر وكل خطية وتجعلنا أهلاً لمجدك القدوس غير الفاسد، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Having made them through this honorable seal guarded by Your holy angels and archangels, that they may have victory over all the adverse powers.
+         </Language>
+         <Language id="Arabic">
+            إذ جعلتهم بهذا الخاتم المكرم أن يكونوا محروسين بملائكتك ورؤساء ملائكتك الأطهار لكي ينتصروا على جميع القوى
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            May they be unto You a pure people when they are anointed with this holy Myron.
+         </Language>
+         <Language id="Arabic">
+            المضادة ويصيروا لكَ شعباً طاهراً عندما يدهنوا بهذا الميرون المقدس
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            For Yours is the mercy and the purity and the salvation, O Christ our God. And unto You is due the glory, O Father, Son and Holy Spirit, now and forever and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            لأن بيدك الرحمة والطهارة والخلاص أيها المسيح إلهنا. وبك يليق المجد أيها الآب والابن والروح القدس الآن...
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/ForYourPeople"/>
+      
+   <Role id="Archdeacon">
+      <InsertDocument path="include/LetUsEntreatContents"/>
+   </Role>
+      
+   <Role id="Patriarch">      
+      <Text>
+         <Language id="English">
+            God, Who is great in His counsel and in His works. Who, through His love for mankind and His goodness has granted us to stand upon His holy altar to offer unto You this pure ministry.
+         </Language>
+         <Language id="Arabic">
+            الله العظيم في مشورته القوي في أعماله الذي بمحبته لبشر وصلاحه أنعم علينا بالقيام على مذبحه الطاهر لنقدم لكَ هذه الخدمة النقية.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            O our good King, hear us according to the multitude of Your mercy and compassion and behold us speedily. May Your compassions overtake us O Lord.
+         </Language>
+         <Language id="Arabic">
+            أنتَ يا ملكنا الصالح إسمعنا بكثرة رحمتك ورأفتك وانظر إلينا سريعاً. ولتدركنا بتحننك يا رب.
+         </Language>
+      </Text>
+   </Role>
+      
+      
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            One of the fathers the bishops prays:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            Again, we ask you O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً نسألك يارب إسمعنا وارحمنا. 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LordHaveMercy"/>
+      
+   <Comment>
+      <Language id="English">
+         One of the fathers the bishops prays the following Litany and the people respond Lord have mercy following each petition:
+      </Language>
+   </Comment>
+      
+      
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the salvation and help and length of days of our blessed honorable father the Pope Abba (...) and our fathers the metropolitans and the bishops and the clergy and all the Christ loving people, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل خلاص، ومعاضدة، وطول أيام أبينا الطوباوي المكرم البابا الأنبا (...) وآبائنا المطارنة والأساقفة والإكليروس وسائر الشعب المحب للمسيح نسألك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For this hidden mystery and divine ointment and the upright offering of our father the Pope Abba (...), we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا السر الخفي والدهن الإلهي والتقدمة المستقيمة التي لأبينا البابا الأنبا (...) نطلب إليك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For this holy Myron, the oil of rejoicing, the garment of light, the spiritual covering, the royal ointment, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا الميرون المقدس، زيت التهليل، لباس النور، الغطاء الروحاني، الدهن الملوكي. نسألك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For all the beneficent who are vested with the fruit of the Church of God. And the remembrance of the widows and the orphans and the stranger and the sojourner, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل عاملي الحسنات اللابسين ثمرة كنيسة الله وذِكر الأرامل والأيتام والغريب والضيف نطلب إليك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the president, the ministers and all the armies and the soldiers, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل الرئيس والوزراء وكل القوات والجند نطلب إليك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            We ask You, O who are compassionate, long-suffering, and exceedingly merciful, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            نطلب إليك أيها المتحنن الطويل الروح الكثير الرحمة إسمعنا نحن الخطاة نسألك يا رب إسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+      
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Klinate Yeou meta vobou.
+         </Language>
+         <Language id="English">
+            Worship God with fear.
+         </Language>
+         <Language id="Arabic">
+            اسجدوا لله بخوف.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch" silent="true">   
+      <Text>
+         <Language id="English">
+            Send down from Heaven, from Your holy highest and from Your prepared mansion, and from your boundless bosom, and from the throne of the kingdom of Your glory, 
+         </Language>
+         <Language id="Arabic">
+            إرسل من السماء من عُلُوِّك المقدَّس ومِن مسكنِكَ المستعِد، من الغير محدود الذي في حضنِكَ، ومن كرسي مجد مُلكِكَ، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            the Paraclete, the Holy Spirit, the BEING, unto the salvation and healing of those who use it, and those who enter into the laver of (new) birth, that it may be unto them a pure anointing.
+         </Language>
+         <Language id="Arabic">
+            المعزي الروح القدس الكائن لخلاص وشفاء الذين يستعملونه والداخلين حميم الميلاد ليكون لهم مسحة طاهرة.
+         </Language>
+      </Text>
+   </Role>      
+
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            His Holiness the Pope shall sign the Myron Vessels and says the following verses, and after each verse the people shall say: Amen.
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            A holy Myron. Amen.
+         </Language>
+         <Language id="Arabic">
+            ميرون مقدس آمين. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            An oil of rejoicing. Amen.
+         </Language>
+         <Language id="Arabic">
+            زيت التهليل آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A royal grace. Amen.
+         </Language>
+         <Language id="Arabic">
+            نعمة ملوكية آمين. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A garment of light. Amen.
+         </Language>
+         <Language id="Arabic">
+            لباس النور آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A garment of salvation. Amen. 
+         </Language>
+         <Language id="Arabic">
+            لباس الخلاص آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A safeguard for life. Amen.
+         </Language>
+         <Language id="Arabic">
+            حرز الحياة آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A spiritual grace. Amen.
+         </Language>
+         <Language id="Arabic">
+            نعمة روحانية آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Purity for soul and body. Amen.
+         </Language>
+         <Language id="Arabic">
+            طهارة للنفس والجسد آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Rejoicing of grace. Amen.
+         </Language>
+         <Language id="Arabic">
+            تهليل النعمة آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Eternal joy. Amen.
+         </Language>
+         <Language id="Arabic">
+            فرح أبدي آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A seal that cannot be loosed. Amen.
+         </Language>
+         <Language id="Arabic">
+            خاتم غير مُنحَل آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Repose of faith. Amen.
+         </Language>
+         <Language id="Arabic">
+            نياح الإيمان آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A shield of power against all the workings of Satan. Amen.
+         </Language>
+         <Language id="Arabic">
+            درع القوة قِبالة كل فعل شيطاني آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+      <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            His Holiness the Pope continues the prayer saying:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            That we may be purified through it, we, who are anointed with it, and shine, without offense towards our adversaries who stand against us in the day of the true judgment that we shine like the stars of heaven in the light of Your saints. 
+         </Language>
+         <Language id="Arabic">
+           كي نتطهر من قبله نحن المدهونين منه ونكون مضيئين بغير عثرة بإزاء مقاومينا القائمين علينا في يوم الحكم الحقيقي لنكون منيرين مثل كواكب في السماء في نور قديسيك 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And abide in the eternal tabernacles, in the mansions of those who have pleased You, according to Your true promises which are without lie. 
+         </Language>
+         <Language id="Arabic">
+             ونكون في المظال الأبدية في منازل الذين أرضوك حسب مواعيدك الصادقة غيرالكاذبة
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            In Christ Jesus our Lord, Through Whom is due unto You and the Holy spirit glory and honor and might and adoration, now and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+             بالمسيح يسوع ربنا هذا الذي من قبله يليق بك معه ومع الروح القدس المجد والإكرام والعزة والسجود الآن...
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            One of the fathers the bishops prays the following Litany and the people respond Lord have mercy following each petition:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            Again, we ask you O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً نطلب إليك يا رب أن تسمعنا وترحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Lord, God the Pantocrator, God of our fathers, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            أيها الرب الإله ضابط الكل السمائي إله آبائنا. نسألك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the sake of the peace from on high, and love of mankind, and our safety by night, and the spiritual service, we ask You O Lord hear us and have mercy upon us
+         </Language>
+         <Language id="Arabic">
+           من أجل السلامة العلوية ومحبة البشر وسلامتنا الليلية والخدمة الروحانية نسألك يارب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For our deliverance from all sorrow, anger, afflictions, famine, drowning, bitter death and breaking of the Law, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل نجاتنا من كل الأحزان والغضب والشدائد والجوع والغرق والموت المُر والخروج عن الناموس. نسألك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            That You may forgive us our iniquities which we have committed knowingly and which we have committed unknowingly, and the uprightness of our petitions. That we may win mercy and compassion and be worthy of the kingdom of the heavens, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل أن تغفر لنا زلاتنا التي صنعناها معرفة والتي صنعناها بغير معرفة واستقامة طلباتنا لكي نفوز بالرحمة والرأفة ونستحق ملكوت السماوات نسألك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the consecration of this holy and honored ointment offered by our blessed father the Pope Abba (...), archbishop (serving) the Lord God, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل تقديس هذا الدهن المقدس المكرم الذي قدمه أبانا الطوباوي البابا الأنبا (...) رئيس أساقفة الرب الإله. نسألك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For the long life of our father the Pope Abba (...) and his divine appointment for (our) salvation and assistance, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل طول عمر أبينا البابا الأنبا (...) ووضعه الإلهي للخلاص والمعاضدة. نسألك يارب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            For this holy Myron, the oil of rejoicing, the garment of light, the spiritual covering, the royal ointment, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا الميرون المقدس زيت التهليل لباس النور الغطاء الروحاني الدهن الملوكي. نسألك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            We ask You, O compassionate, longsuffering, plenteous in mercy, hear us we the sinners, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            نطلب إليك أيها المتحنن الطويل الروح الكثير الرحمة اسمعنا نحن الخطاة. نطلب إليك يا رب اسمعنا وارحمنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>   
+      
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            His Holiness the Pope raises the Cross and says:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            We ask You, O Lord, hear us and have mercy upon us and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            نسألك يا رب اسمعنا وارحمنا واغفر لنا خطايانا.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The deacons and the people respond with one voice saying “Lord have mercy” 41 times.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/LordHaveMercy41"/>
+   </Role>
+   
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            Then one of the fathers the bishops prays the following petition:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            In the peace of the Lord, for the sake of the peace from on high and the salvation of our souls. For the safety of the world and the holy churches. 
+         </Language>
+         <Language id="Arabic">
+            بسلام من الرب من أجل السلامة العُلوية وخلاص نفوسنا ومن أجل سلامة العالم والبِيَع المقدسة
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And for the sake of this holy ointment put forth, we ask our God to send down upon it His Holy Spirit. 
+         </Language>
+         <Language id="Arabic">
+            ومن أجل هذا الدهن المقدس الموضوع نطلب من إلهنا أن يرسل عليه روح قدسه
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Through the petitions of the Lady of us all, the holy Mother of God Mary and all His saints, we ask the Lord to have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            بطلبات سيدتنا كلنا والدة الإله القديسة مريم وكل قديسيه نطلب من الرب أن يرحمنا.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            We offer to You, O everlasting King the perfection of this mystery, the (keeping) of the feast of this holy and honored Myron, by which churches are consecrated.
+         </Language>
+         <Language id="Arabic">
+            نقدم لكَ أيها الملك الدائم كمال هذا السر الذي لعيد هذا الميرون المقدس المكرم الذي به رَسم الكنائس، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            This, through which the secrets of our souls are purified by Your Holy Name. This, which the Church had believed in for a season, taking the type of the true lover of Your Only-begotten Son, our Lord, God and Savior Jesus Christ.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي مِن قِبله تُطهِر سرائر نفوسنا باسمك القدوس. هذا الذي آمَنت به البيعة زماناً وأخذت مثال الحميم الحقيقي الذي لابنكَ الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            This which has become a royal sign and a prophetic mystery, truly filled with faith and truth. It became in truth a strong seal, through which You have given a sign to those who fear You, that they may flee from the face of the bow. 
+         </Language>
+         <Language id="Arabic">
+            هذا الذي صار علامة ملوكية وسراً نبوياً، بالحقيقة مملوءاً من الإيمان والصدق، وبالحقيقة صار خاتماً قوياً هذا الذي من قِبَله أَعطَيت علامة للذين يخافونك أن يهربوا من وجه القوس.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant us now, O our King the grace of this ministry, even as You had given Moses and Samuel and John Your chosen ones. 
+         </Language>
+         <Language id="Arabic">
+            أعطنا نحن الآن يا ملكنا نعمة هذه الخدمة كما أعطيت موسى عبدك وصموئيل ويوحنا صفيك. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Likewise we too strengthen us that we may call your people at the signing (with) this holy Myron, that they may be an elect flock of Your Christ, a kingdom, a priesthood, a purified nation and a justified people. 
+         </Language>
+         <Language id="Arabic">
+            كذلك نحن أيضاً الآن قوِّنا لندعو شعبك عند رشم هذا الميرون المقدس ليكونوا قطيعاً مختاراً لمسيحك ومملكة وكهنوتاً وأُمة مُطَهرة وشعباً مُبَرراً لكي
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That, through good works wrought by the gift of Your Holy Spirit, they may become children of the higher calling. That You make them one with the firstborn of the kingdom of the heavens. 
+         </Language>
+         <Language id="Arabic">
+            بأعمال حسنة يصنعوها بموهبة روحك القدوس ويكونوا أبناء الدعوة العلوية وتآلفهم مع الأبكار في ملكوت السماوات
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            In Christ Jesus our Lord, Through Whom is due unto You and the Holy spirit glory and honor and might and adoration, now and forever and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            بالمسيح يسوع ربنا هذا الذي يليق بك معه ومع الروح القدس المجد والإكرام والعزة والسجود الآن وكل أوان...
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The people sing in the tune of the Gregorian Liturgy:
+         </Language>
+      </Comment>
+         
+      <InsertDocument path="include/LooseRemit"/>
+   </Role>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Again we thank You, O our King, the only God, the Pantocrator, Holy and omnipotent, for You have made us worthy to complete this ministry.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً نشكرك يا ملكنا الله ضابط الكل وحدك، القدوس القادر على كل شيء لأنكَ أهَّلتنا أن نكمل هذه الخدمة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask You, O Lord, our God, accept unto You this savor of incense in your highest heavens, and send Your grace upon it that it may be perfected by the mercy of Your grace and the working of Your Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            نسألك أيها الرب إلهنا إقبل إليك رائحة البخور في علو السموات وارسل نعمتك عليها فتُكَمَّل برحمة نعمتك وفعل روح قدسك،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Even this holy Myron by which is sanctified the priests and the high priests and the prophets and the kings from Moses to John. 
+         </Language>
+         <Language id="Arabic">
+            أعني هذا الميرون المقدس الذي يتقدس به الكهنة ورؤساء الكهنة والأنبياء والملوك من موسى إلى يوحنا 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            And all that were born after them through the new birth. This, by which Your Only-begotten Son had anointed them. For nothing is impossible with Him, for He was incarnate and humbled Himself by His own will, and started to obtain the government and be one from our race, and sent us this, that we may be purified therewith.
+         </Language>
+         <Language id="Arabic">
+            وجميع الذين ولدوا من بعدهم بالميلاد الجديد. هذا الذي مسحهم به ابنك الوحيد لأنه لا يعجز عن شئ بل تجسد وتنازل بمشيئته، وابتدأ أن ينال الرياسة وأن يكون واحداً من جنسنا، وأرسل هذا لنتطهر منه
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask You, O our King, grant those who shall be anointed with it the sign of Your Light and Your royal person, that the passions that are of the Devil and the power of the fearsome evil spirits may not stain us.
+         </Language>
+         <Language id="Arabic">
+            نسألك يا ملكنا هِب للذين يُدهنون منه علامة نورك وشخصك الملوكي ولا تدنسنا الآلام التي لإبليس وقوة الأرواح الخبيثة المخوفة جداً. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant this, O our King, that those who come forward to the baptism of the new birth, when they have been purified and perfected (might be) altars upon which we may offer unto You rational bloodless services and pure sacrifices, 
+         </Language>
+         <Language id="Arabic">
+            أنعم بهذا يا ملكنا للذين يتقدمون إلى المعمودية للميلاد الجديد إذا طَهروا وكملوا مذابحاً لنقدم لك عليهم خِدَماَ ناطقة غير دموية، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            unto the purification and healing of all who come unto You. Glory and honour unto Your Kingdom, O Father, now and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            وذبائح طاهرة تطهيراً وشفاءً لكل الذين يأتون إليك. مجداً وإكراماً لمملكتك أيها الآب الآن وكل أوان...
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="People">
+      <InsertDocument path="include/gregorian/AsItWas"/>
+   </Role>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            That, as in this, so also in all things, Your great and Holy Name be glorified, blessed and exalted, in everything which is honored and blessed, together with Jesus Christ Your beloved Son, and the Holy Spirit.  Peace be with all.
+         </Language>
+         <Language id="Arabic">
+            كي وبهذا في كل شيء يتمجد ويتبارك ويرتفع اسمك العظيم القدوس في كل شيء كريم ومبارك مع ابنك الوحيد يسوع المسيح ربنا والروح القدس. السلام للكل.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AndWithYourSpirit"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Again we send up unto You, O heavenly King the perfection of this great mystery of this feast which is full of glory, the perfect seal of Your Church.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً نرسل لكَ إلى فوق أيها الملك السمائي كمال هذا السر العظيم الذي لهذا العيد المملوء مجداً الخاتم الكامل الذي لكنيستك
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That is this holy Myron, by which are anointed those who enter into the holy faith, that they may all be purified by Your Holy Name.
+         </Language>
+         <Language id="Arabic">
+            الذي هو هذا الميرون المقدس الذي يُرشَم به الداخلون في الأمانة المقدسة لكي يتطهروا كلهم باسمك المبارك، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That which comes down to the edge of Aaron’s garment. This also which the harlot presented to You, pouring it on Your holy feet and wiping them with her hair. 
+         </Language>
+         <Language id="Arabic">
+            النازل على لحية هارون الكاهن وعلى جيب قميصه. هذا أيضاً الذي قدَّمَته إليك الزانية وأفرغته على رجليك المقدسة ومسحتهما بشعر رأسها، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            You did not suffer this heavenly mystery to be in this earthly blemished place. For ointment poured forth is Your Holy Name as scripture says, therefore do the virgins love You. 
+         </Language>
+         <Language id="Arabic">
+            ولم تجعل هذا السر السمائي أن يكون في الموضع النجس الأرضي لأنه طيب فائق هو إسمك القدوس كما قال الكتاب لهذا أحبك الفتيان. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            A royal sign is this priestly and prophetic mystery, and a mystery full of awe is this through which You have given a sign to those who fear You, that they may flee from the face of the bow. 
+         </Language>
+         <Language id="Arabic">
+            علامة ملوكية هو هذا السر الكهنوتي النبوي وسر مملوء خوف هذا الذي من قِبَله أعطيت علامة للذين يخافونك أن يهربوا من وجه القوس. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Worthy are You, O our King of this great glory, for You have given a spiritual food for the children entering into Your holy faith. 
+         </Language>
+         <Language id="Arabic">
+            مستحق أنتَ يا ملكنا هذا المجد العظيم لأنكَ أعطيتَ طعاماً روحانياً للأطفال الداخلين في أمانتك المقدسة 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            This is what Your servant Paul commanded, giving them a divine mystery, having fed them with the rational milk, to wit those who are born again, those who believe on Your Holy Name.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي أمر به عبدك بولس للآتين إليه إذ يعطيهم سراً إلهياً، مُسقيهِم اللبن الناطق أعني المولودين مرة أخرى المؤمنين باسمك القدوس.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask You, O Lord, the lover of mankind, to send down Your Holy Spirit upon this Myron set forth before us, that whosoever partakes of it becomes worthy of the nourishment of the kingdom of the heavens. 
+         </Language>
+         <Language id="Arabic">
+            نسألك يا رب يا محب البشر أن ترسل روح قدسك على هذا الميرون الموضوع أمامنا لكي كل من ينال منه يستحق غذاء ملكوت السماوات
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            That through it we may be purified and perfected and dare to ask You saying:
+         </Language>
+         <Language id="Arabic">
+            لكي من قبله نستطبع أن نَطهُر ونُكَمَّل ونجسر أن نطلب إليك قائلين: يا أبانا الذي...
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+      
+   <Role id="Patriarch" silent="true">
+      <Text>
+         <Language id="English">
+            You are He unto whom we bow our heads and hearts, O One Only God, King of all, we Your unworthy servants. 
+         </Language>
+         <Language id="Arabic">
+            أنتَ الذي نحني لكَ رؤوسنا وقلوبنا أيها الواحد الوحيد الله ملك الكل نحن الغير مستحقين عبيدك
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask and entreat Your great goodness that You make us worthy to serve Your holy mysteries and publish the greatness of Your mercy, this which You have richly bestowed unto us. 
+         </Language>
+         <Language id="Arabic">
+            نسأل ونطلب من عِظَم صلاحك لكي تجعلنا مستحقين أن نخدم سرائرك المقدسة ونبشر بعظم رحمتك هذه التي أفضتها علينا بغنى.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Forgive us O Lord all of our sins and accept unto You this holy Myron like the precious ointment upon the head. For ointment poured forth is Your Holy Name. 
+         </Language>
+         <Language id="Arabic">
+            اغفر يا رب جميع خطايانا واقبل إليك هذا الميرون المقدَّس مثل الطيب الكائن على الرأس، فإن طيب فائقٌ هو اسمك القدوس، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            So that its smell spreads all over the world both seen and unseen. For pure and filled with glory and perfect mercy is this holy Myron set forth before us.
+         </Language>
+         <Language id="Arabic">
+            بهذا تفوح رائحته في العالم كله الذي يُرى والذي لا يُرى لأنه طاهر ومملوء مجداً ورحمة كاملة هذا الميرون المقدس 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            In the name of the Father and the son and the Holy spirit, One God. Amen.
+         </Language>
+         <Language id="Arabic">
+            الموضوع أمامنا باسم الآب والابن والروح القدس الإله الواحد آمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Deacon">
+      <InsertDocument path="include/SavedAmen"/>
+   </Role>
+      
+   <InsertDocument path="include/AmenLordHaveMercy3"/>
+      
+   <Role id="Patriarch">      
+      <Comment>
+         <Language id="English">
+            His holiness the Pope signs the Myron Vessels thrice with the sign of the Cross saying:
+         </Language>
+      </Comment>
+         
+      <InsertDocument path="include/BlessedBeTheLord"/>
+   </Role>
+      
+   <Role id="People">
+      <InsertDocument path="include/OneIsTheAllHoly"/>
+   </Role>   
+      
+   <Comment>
+      <Language id="English">
+         The Myron vessels are then removed from the altar of the offering to the top of the synthronos and are covered with a white veil, and the chanters sing the hymn of the Holy Spirit “<span class="Coptic">Pip~neuma</span>.” 
+      </Language>
+   </Comment>
+
+   <Role id="People">
+      <InsertDocument path="include/PiEpnevma"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         And if there is time, they sing “<span class="Coptic">Qen v~ran</span>” or other appropriate hymns. 
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/veneration/KhenEfran"/>
+   
+   <Comment>
+      <Language id="English">
+         Thus ends the order of the Liturgy of the holy Myron.
+      </Language>
+   </Comment>
+</Document>

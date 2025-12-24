@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Am/n: all/louia Doxa Patri ke Uiw ke a~giw P~neumati:
+      </Language>
+      <Language id="English">
+         Amen. Alleluia. Glory to the Father and to the Son and to the Holy Spirit.
+      </Language>
+      <Language id="Arabic">
+         امين هلليلويا المجد للاب والابن والروح القدس. 
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   
+   <Text>
+      <Language id="Coptic">
+         Tenws e~bol enjw m~moc: je w~ Pen[oic I/couc Pi,~rictoc.
+      </Language>
+      <Language id="English">
+         We proclaim, saying, O our Lord Jesus Christ,
+      </Language>
+      <Language id="Arabic">
+         نصرخ قائلين يا ربنا يسوع المسيح
+      </Language>
+   </Text>
+   
+   <Group>
+      <InsertDocument path="include/conclusion/Seasonal"/>
+   </Group>
+</Document>

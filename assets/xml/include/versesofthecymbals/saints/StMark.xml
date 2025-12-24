@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMark:VersesOfCymbals">
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere pieuaggelict/c: ,ere pia~poctoloc: abba Markoc piyew~rimoc.
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: Hail to the evangelist: Hail to the apostle: Mark the beholder of God. 
+            </Language>
+            <Language id="Arabic">
+               السلام لك ايها الشهيد السلام للانجيلي السلام للرسول مرقس ناظر الاله.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

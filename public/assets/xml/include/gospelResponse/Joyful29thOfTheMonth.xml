@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Joyful29thOfTheMonth">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>     
+            <Language id="Arabic">مرد الإنجيل</Language>       
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the 29th of each Coptic Month:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc Ps/ri m~V~nou]: af[icarx ebol qen ]paryenoc. Acmacf n~je ]paryenoc qen B/yleem n~te }iodea: aftwnf e~bol qen n/eymwout qen pie~hoou m~mahsomt. 
+            </Language>
+            <Language id="English">
+               Alleluia (4) Jesus Christ, the Son of God, is incarnate of the Virgin: is born of the Virgin in Bethlehem of Judea: is risen from the dead, on the third day
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله تجسد من العذراء ، ولدته من العذراء في بيت لحم اليهودية ، قام من بين الأموات في اليوم الثالث. الليلويا.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

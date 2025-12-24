@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="WatosDays">
+         <InsertDocument path="include/praises/ConclusionWatosTheotokia"/>
+      </Season>
+      
+      <Season id="AdamDays">
+         <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+      </Season>
+   </Group>
+</Document>

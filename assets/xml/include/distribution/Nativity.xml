@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Comment>
+         <Language id="English">
+            The following hymn may be said during the Distribution:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Geneylion"/>
+   </Season>
+</Document>

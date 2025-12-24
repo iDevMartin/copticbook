@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <InsertDocument path="include/HymnOfTheResurrection"/>
+      
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">First Greek hymn for the Procession</Language>
+            <Language id="Coptic">Ton cunanar,on</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Ton cunanar,on logon Patri ke P~neumati: ton ekparyenou te,yenta ic cwt/rian /~mwn: a~numn/cwmen picti ke p~rockun/cwmen: o~ti /udok/ce carki: a~nelyin entwctaurw: ke yanaton u~pomine: ke e~gire touc teynew~o tac: ent/ endoxw anactaci autou.
+            </Language>
+            <Language id="English">
+               We believers hymn and worship the Logos, without beginning with the Father and the Spirit, having been born of a virgin for our salvation, for He appeared in the flesh to ascend the Cross. He persevered unto death and raised the dead through His glorious Resurrection.
+            </Language>
+            <Language id="Arabic">
+                نسبح نحن المؤمنين ونمجد الكلمة المساوي للآب والروح في الأزلية وعدم الابتداء، المولود من العذراء لخلاصنا، لأنه سر وارتضي بالجسد أن يعلو علي الصليب، يحتمل الموت وينهض الموتي، بقيامته المجيدة.
+            </Language>         
+         </Text>            
+      </Section>
+      
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">Second Greek hymn for the Procession</Language>
+            <Language id="Coptic">Tou liyouc</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Tou liyouc vragiceyen toc u~po twnioudewn: ke c~tratiw~ twn vulac contwnto a,ranton cou Cwma: anect/c t~ri/~meroc Cwt/r: dwroumenoc tw kocmwt/n zw/n: dia~ touto e~dunamic twn ouranwn ebown ci zwodotai: doxa t/ a~nactaci cou&lt;~ricte: doxat/ Bacilia cou: doxat/ i~konomia cou: mone Vilany~rwpe.
+            </Language>
+            <Language id="English">
+               When the stone was sealed by the Jews and the soldiers were guarding Your undefiled Body, You arose on the third day, O Savior, granting life to the world. For this reason, the heavenly powers cried out to You, O Giver of Life, “Glory to Your Resurrection, O Christ. Glory to Your kingdom. Glory to Your economy, O You who alone are the Lover of Mankind.”
+            </Language>
+            <Language id="Arabic">
+                أن الحجر لما ختم من اليهود وجسدك الطاهر حفظ من الجند، قمت في اليوم الثالث أيها المخلص، مانحا العالم الحياة لأجل هذا قوات السموات هتفوا إليك ياواهب الحياة المجد لقيامتك أيها المسيح، المجد لتدبيرك، يامحب البشر وحدك.
+            </Language>         
+         </Text>            
+      </Section>
+      
+      <Group>
+         <Season id="DisplayNonCustomaryPrayers">
+            <Section expanded="true">            
+               <Title>
+                  <Language id="English">Third Greek hymn for the Procession</Language>
+                  <Language id="Coptic">T/n a~nactacin</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     T/n a~nactacin cou &lt;ricte Cwt/r aggeli: umnoucin en ouranic: ke /~mac touc e~pi g~/c kata xiw~con en kayara kardia~ ce doxazin.
+                  </Language>
+                  <Language id="English">
+                     O Christ our Savior, the angels in heaven praise your resurrection. We ask you to make us worthy, we who are on earth, to forever glorify You with pure hearts.
+                  </Language>
+                  <Language id="Arabic">
+                      ايها المسيح مخلصنا ان الملائكة لا يزالون في السماء يسبحون قيامتك ولذلك نضرع إليك فأليك فأهلنا نحن الذين علي الارض أن نكون ممجدين إياك بقلوب نقية أبداً.
+                  </Language>         
+               </Text>            
+            </Section>
+         </Season>
+      </Group>
+      
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">Coptic Hymn for the Resurrection</Language>
+            <Language id="Coptic">Pi,~rictoc aftwnf</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc aftwnf e~bol qen n/eymwout v/etafmou afhwmi e~jen v~mou ouoh n/et~,/ qen nim~hau afer h~mot nwou m~piw~nq n~eneh.
+            </Language>
+            <Language id="English">
+               Christ is risen from the dead; He who died trampled down death and upon those in the tombs bestowed eternal life.
+            </Language>
+            <Language id="Arabic">
+                المسيح قام من بين الأموات، الذي مات داس الموت والذين في القبور انعم لهم بالحياة الأبدية.
+            </Language>         
+         </Text>            
+      </Section>
+   </Role>
+</Document>

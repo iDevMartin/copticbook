@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Role id="People">
+         <InsertDocument path="include/HymnOfConstantine"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Pa[oic</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pa[oic I/couc Pi,~rictoc: v/e~tauasf e~pic~tauroc: eke~qomqem m~p~catanac: capec/t n~nen[alauj.
+               </Language>
+               <Language id="English">
+                  My Lord Jesus Christ, who was crucified on the Cross, trample satan under our feet.
+               </Language>
+               <Language id="Arabic">
+                  ياربي يسوع المسيح الذي صلب علي الصليب اسحق الشيطان تحت ارجلنا. 
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/StandardPachoicConclusion"/>
+         </Section>
+      </Role>
+   </Season>
+</Document>

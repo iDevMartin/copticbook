@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutionsIntro"/>
+      
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <Comment>
+               <Language id="English">
+                  The patriarch turns his face toward the west and signs the congregation with the cross in his hand, and says:
+               </Language>
+               <Language id="Arabic">
+                  يتجه البطريرك إلى الغرب ويرشم الشعب بالصليب الذي بيده ويقول:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+      
+      <Season id="Consecration">
+         <Role id="Bishop">
+            <Comment>
+               <Language id="English">
+                  The bishop turns his face toward the west and signs the congregation with the cross in his hand, and says:
+               </Language>
+               <Language id="Arabic">
+                  يتجه الأسقف إلى الغرب ويرشم الشعب بالصليب الذي بيده ويقول:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest turns his face toward the west and signs the congregation with the cross in his hand, and says:
+               </Language>
+               <Language id="Arabic">
+                  يتجه الكاهن إلى الغرب ويرشم الشعب بالصليب الذي بيده ويقول:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/PeaceBeWithAll"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+   
+   <Group>
+      <Season id="Consecration | MyronConsecration | GladnessConsecration">
+         <Role id="Bishop">
+            <Comment>
+               <Language id="English">
+                  Still facing west, the bishop, bowing his head, says audibly:
+               </Language>
+               <Language id="Arabic">
+                  يقول الأسقف الصلاة الثالثة جهراً وهو متجه إلى الغرب ومطامن الرأس.
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/PrayerOfAbsolutionToTheSon"/>
+         </Role>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  Still facing west, the priest, bowing his head, says audibly:
+               </Language>
+               <Language id="Arabic">
+                  يقول الكاهن الصلاة الثالثة جهراً وهو متجه إلى الغرب ومطامن الرأس.
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/PrayerOfAbsolutionToTheSon"/>
+         </Role>
+      </Season>
+   </Group>
+</Document>

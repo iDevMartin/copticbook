@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">Piym/i efe~viri...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Theophany (Ps 91:10-11):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Piym/i efe~viri m~v~r/] mpibeni: ouoh efe~a~sai m~v~r/] m~pisencifi n~te piLibanoc. n/etr/t qen p/i m~P[oic ouoh euvori e~bolqen niaul/ou n~te p/i mPennou].
+            </Language>
+            <Language id="English">
+               The righteous shall flourish like a palm tree; He shall grow like a cedar in Lebanon.  Those who are planted in the house of the Lord Shall flourish in the courts of our God. 
+            </Language>
+            <Language id="Arabic">
+               اَلصِّدِّيقُ كَالنَّخْلَةِ يَزْهُو كَالأَرْزِ فِي لُبْنَانَ يَنْمُو. مَغْرُوسِينَ فِي بَيْتِ الرَّبِّ فِي دِيَارِ إِلَهِنَا يُزْهِرُونَ. 
+            </Language>
+         </Text>               
+      </Section>
+   </Season>
+</Document>

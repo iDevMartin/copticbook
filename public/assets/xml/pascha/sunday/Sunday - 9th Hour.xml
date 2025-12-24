@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" SundayPascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekend ^ Sundays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Hosanna Sunday (The Ninth Hour)</Language>
+         <Language id="Arabic">احد الشعانين (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~hoou n~]kuria~ki n~te Pieulog/menoc (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Lamentations 1:1-4</Language>
+               <Language id="Arabic">أرميا 1: 1-4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Lamentations"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Acswpi de menenca y~rouer ,~malwteuin m~piIcra/l ouoh Ieroucal/m n~tousorc afhemci n~je Ieremiac afrimi ouoh aferh/b m~pai h/bi e~jen Ieroucal/m ouoh pejef.
+               </Language>
+               <Language id="English">
+                  Now it came to pass that after Israel was taken captive and Jerusalem became desolate, Jeremiah sat weeping; and he lamented this song of grief over Jerusalem and said:
+               </Language>
+               <Language id="Arabic">
+                  وكان بعد سبى اسرائيل وخراب أورشليم. أن أرميا جلس باكياً وناح على أورشليم بهذا النوح وقال.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Je Pwcac hemci m~mauatc n~je ]baki y/etos m~m/s e~acer m~v~r/] n~ou,/ra y/etos
+               </Language>
+               <Language id="English">
+                  "How does the city now sit alone, she who was full of people? She has become like a widow, she who was multiplied among the nations,
+               </Language>
+               <Language id="Arabic">
+                  كيف جلست وحدها المدينة الكثيرة الشعوب كيف صارت كأرملة العظيمة فى الأمم.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  qen nieynoc y/etoi n~ar,wn e~ni,wra acswpi euhw].
+               </Language>
+               <Language id="English">
+                  she who was ruling among the countries. She has become subject to tribute.
+               </Language>
+               <Language id="Arabic">
+                  رئيسة البلدان صارت تحت الجزية.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Qen ouirmi acrimi qen pie~jwrh: ouoh necermwoui~ ausouo e~jen necouoji. f~sop an n~je v/eyna]nom] nac e~bol qen n/eymei m~moc t/rou: 
+               </Language>
+               <Language id="English">
+                  "She weeps bitterly in the night; she sheds tears on her cheeks. Yet among all her lovers there is no one who comforts her.
+               </Language>
+               <Language id="Arabic">
+                  تبكى فى الليل بكاء. ودموعها على خديها. ليس لها من معز من جميع محبيها. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  ouon gar niben eymei m~moc ausosc: auswpi nac n~hanjaji.
+               </Language>
+               <Language id="English">
+                  All who love her have dealt treacherously with her. They have become her enemies.
+               </Language>
+               <Language id="Arabic">
+                  وكل أصدقائها أهانوها. وصاروا لها أعداء.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Auouw~teb n~]Ioudea~ e~bol eybe Pecyebio nem ebe p~a~sai n~te tecmetbwk: 
+               </Language>
+               <Language id="English">
+                  "Judea has gone into captivity because of her humiliation and harsh servitude.
+               </Language>
+               <Language id="Arabic">
+                  قد سبيت اليهودية من المذلة وشدة العبودية. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  achemci qen nieynoc ouoh m~pecjemm~ton: ouon niben e~t[oji n~cwc autahoc qen y~m/] n~n/ethojhej m~moc.
+               </Language>
+               <Language id="English">
+                  She dwells among the Gentiles; she finds no rest. All who pursue her overtake her in the midst of her distress.
+               </Language>
+               <Language id="Arabic">
+                  سكنت بين الأمم ولم تجد راحة. قد أدركها جميع مضطهديها بين المضايق.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Nimwit n~te Ciwn erh/bi je m~mon peyn/ou e~h~r/i e~pisai: necpul/ t/rou cetak/out. Necou/b cefi~ahom: necparyenoc ce[wrem n~cwou ouoh n~yoc ecm~bon n~q~r/i n~q/tc.
+               </Language>
+               <Language id="English">
+                  "The roads of Zion mourn, because no one comes to the feast. All her gates are destroyed, her priests groan, her virgins are led away, and she is embittered in herself.
+               </Language>
+               <Language id="Arabic">
+                  كل طرق صهيون نائحة لعدم الآتين إلى العيد. جميع أبوابها متهدمة. كهنتها متنهدون وعذاراها مسبية وهى مغشية بالمرارة.
+               </Language>
+            </Text>
+             
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Zephaniah 3:11-20</Language>
+               <Language id="Arabic">صفونيا 3: 11-20</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Zephaniah"/>
+             
+            <Text>
+               <Language id="Coptic">
+                  Nai n/e~te P[oic jw m~moc: je qen pic/ou e~tem~mau ]naw~li e~bolharo n~nimetref]sws n~te pesws:
+               </Language>
+               <Language id="English">
+                  [Thus says the Lord:] In that day, For at that time I will take away from you the contempt of your arrogance,
+               </Language>
+               <Language id="Arabic">
+                  يقول الرب. فى ذلك اليوم أنزع من بيتك المرحين معك بتكبر.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~neouah to] je e~je metqerouw e~jen patwou eyouab. 
+               </Language>
+               <Language id="English">
+                  And you shall no longer be haughty upon My holy mountain.
+               </Language>
+               <Language id="Arabic">
+                  فلا تعودين تستعلى بكبرياء قلبك فى جبل قدسى. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nacwjp nqr/i n~q/t n~oulaoc n~remraus ouoh efyebi/out: ouoh eerhw] qat~h/ m~P[oic: 
+               </Language>
+               <Language id="English">
+                  And I will leave among you a gentle and humble people, who will show reverence to the name of the Lord.
+               </Language>
+               <Language id="Arabic">
+                  وأبقى فى وسطك شعباً وديعاً ومتواضعاً فيتوكلون على أسم الرب. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  N~je nicwjp n~te p~iIcra/l ouoh n~noui~ri n~ou[i n~jonc oude n~noucaji n~hanmete~v~l/ou ouoh n~noujimi n~oulac n,rof qen rwou: 
+               </Language>
+               <Language id="English">
+                  The remnant of Israel will not commit unrighteousness nor speak vanities; neither will a deceitful tongue be found in their mouth;
+               </Language>
+               <Language id="Arabic">
+                  بقية اسرائيل لا يفعلون أثماً. ولا ينطقون بالكذب. ولا يوجد فى أفواههم لسان غش. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i n~ywou eue~moni ouoh euenkot ouoh n~nefswpi n~je v/eyna]hot nwou.
+               </Language>
+               <Language id="English">
+                  For they will feed and lie down, and there will be no one terrifying them.
+               </Language>
+               <Language id="Arabic">
+                  لأنهم يرعون ويضطجعون وليس من يذعرهم.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Rasi tseri n~Ciwn: yel/l p~Icra/l ounof ouoh erouot e~bol qen peh/t t/rc t~seri n~Ieroucal/m: 
+               </Language>
+               <Language id="English">
+                  Rejoice greatly, O daughter of Zion! Cry aloud, O daughter of Jerusalem! Be glad and rejoice with your whole heart, O daughter of Jerusalem!
+               </Language>
+               <Language id="Arabic">
+                  أفرحى يا إبنة صهيون تهلل يا اسرائيل. أفرحى وأبتهجى من كل قلبك يا إبنة أورشليم.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Afw~li gar n~je P[oic n~ne[in~jonc afcot] e~bol qen nenjij n~nejaji: 
+               </Language>
+               <Language id="English">
+                  The Lord has taken away your iniquities and ransomed you from your enemies.
+               </Language>
+               <Language id="Arabic">
+                  لأن الرب قد رفع عنك الظلم. وخلصك من يد أعدائك. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Fnaerouro n~je P[oic qen tekm/] pIcra/l: n~neknau e~hanpethwou je.
+               </Language>
+               <Language id="English">
+                  The Lord, the King of Israel, is in your midst; you will no longer see any evil.
+               </Language>
+               <Language id="Arabic">
+                  الرب يملك اسرائيل فى وسطك فلا ترين بعد شراً.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Qen pic/ou de e~tem~mau efe~joc n~je P[oic n~Ieroucal/m je jemnom] Ciwn m~peny~rou bwl ebol n~je nejij: 
+               </Language>
+               <Language id="English">
+                  At that time the Lord shall say to Jerusalem, "O Zion, be of good courage; do not let your hands grow slack.
+               </Language>
+               <Language id="Arabic">
+                  فى ذلك اليوم يقول الرب لاورشليم. لا تخافى يا صهيون ولا تسترخ يدال. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  P[oic penou] oujwr pe nqr/i n~q/]: f~natoujo efe~i~ni n~ounof e~h~r/i e~jw ouoh efeai] m~beri: qen tefa~gap/ ouoh efe~ounof m~mof e~h~r/i e~jw
+               </Language>
+               <Language id="English">
+                  The Lord your God is with you. The Mighty One shall save you. He shall bring gladness upon you and will renew you with His love.
+               </Language>
+               <Language id="Arabic">
+                  الرب إلهك فى وسطك جبار فهو يخلصك. ويسكب عليك الفرح.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Qen ourwoutf m~v~r/] qen oue~hoou n~sai.
+               </Language>
+               <Language id="English">
+                  He will delight over you with Joy as in a day of feasting.
+               </Language>
+               <Language id="Arabic">
+                  ويجددك فى محبته. ويبتهج بك متهللاً كما فى يوم عيد.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eieywou] n/etqomqem n~teouoh nim petaf[i n~ousws e~h~r/i e~jwc.
+               </Language>
+               <Language id="English">
+                  I shall gather together your broken ones. Alas! who has taken up a reproach against her?
+               </Language>
+               <Language id="Arabic">
+                  وأبناءك المتفرقين أجمعهم لئلا يكون لك عار عليهم.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  H/ppe a~nok ]nai~ri n~q/] eyb/] qen pic/ou e~tem~mau peje P[oci ouoh ]natoujo n~y/e~taut~hemkocj: 
+               </Language>
+               <Language id="English">
+                  "Behold, at that time I will act among you for your sake," says the Lord. "I will save the oppressed and welcome those being rejected.
+               </Language>
+               <Language id="Arabic">
+                  هأنذا فى ذلك اليوم أقتل جميع الذين أحزنوك يقول الرب. فى ذلك الوقت أنجى التى ضايقوها. وأقبل إلى التى طردوها,
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh y/etauhitc e~bol ]nasopc e~roi ouoh ]nakau eusousou euoi n~onomatoc qen p~kahi t/rf.
+               </Language>
+               <Language id="English">
+                  I will make them a praise and renowned throughout the whole earth.
+               </Language>
+               <Language id="Arabic">
+                  وأجعل بنيها فى مجد. فيكون لهم أسم فى كل الأرض.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eue~[isipi qen pic/ou e~tem~mau e~swp aisanerpeynanef nwten nem qen pic/ou hotan aisansepy/nou e~roi ou/i ]na]y/nou e~retenoi n~onomatoc: 
+               </Language>
+               <Language id="English">
+                  And they shall be put to shame in that day when I do well with you, at the time when I shall receive you,
+               </Language>
+               <Language id="Arabic">
+                  ويخزى فى ذلك الحين أعداؤك. لما أحسن عليكم وأقبلكم إلى. 
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~sousou qen nilaoc t/rou n~te pkahi qen p~jinyritacyo n~tetene,malwcia~ m~petenm~yo peje P[oic.
+               </Language>
+               <Language id="English">
+                  for I will make you praised and renowned among all the peoples of the earth when I return your captivity," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  فأنى أعطيكم أسماً ومجداً فى كل شعوب الأرض. عند ما أرد سبيكم أمام عيونكم يقول الرب.
+               </Language>
+            </Text>
+      
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 8:3-4</Language>
+               <Language id="Arabic">مزمور 8: 3-4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+             
+            <Text>
+               <Language id="Coptic">
+                  E~bolqen rwou n~hankouji n~a~lwoui~: nem n/eyouem[i akcebte pic~mou: eybe nekjaji e~p~jin]ouw~ n~oujaji nem ouref[i m~p~sis.
+               </Language>
+               <Language id="English">
+                  From the mouths of babies and nursing infants You prepared praise because of Your enemies, that You may destroy the enemy and avenger.
+               </Language>
+               <Language id="Arabic">
+                  من أفواه الأطفال والرضعان هيأت سبحاً. من أجل أعدائك لتهدِ عدواً ومنتقماً.  لأنى أرى السموآتٍ أعمال أصابعك القمر والنجوم أنت أسستها. الليلويا.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Je ]nanau e~niv/oui~ nih~b/oui~ n~tenekt/b: piioh nem niciou n~yok akhicen] m~mwou: All/louia.
+               </Language>
+               <Language id="English">
+                  For I shall look at the heavens, the works of Your fingers, the moon and stars You established. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لأنى أرى السموات أعمال أصابعك القمر والنجوم أنت أسستها. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+   
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 21:10-17</Language>
+            <Language id="Arabic">متى 21: 10-17</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ e~qoun e~ Ieroucal/m acmonmen n~je ]baki t/rc eujw m~moc je nim pe vai.
+               </Language>
+               <Language id="English">
+                  And when He had come into Jerusalem, all the city was moved, saying, "Who is this?"
+               </Language>
+               <Language id="Arabic">
+                  ولما دخل أورشليم أرتجت المدينة كلها قائلة من هذا.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Nim/s de naujw m~moc je vai pe pip~rov/t/c I/couc piremnazarey n~te ]galilia~:
+               </Language>
+               <Language id="English">
+                  So the multitudes said, "This is Jesus, the prophet from Nazareth of Galilee."
+               </Language>
+               <Language id="Arabic">
+                  فقالت الجموع هذا هو يسوع النبي الذى من ناصرة الجليل.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afsenaf n~je I/c eqoun e~piervei ouoh afhioui~ e~bol n~ouonniben et] e~bolqen piervei nem n/etswp ouoh n~trapeza n~te nireferkerma afvonjou nem nikayedra n~te n~/et][rompi ebol.
+               </Language>
+               <Language id="English">
+                  Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves.
+               </Language>
+               <Language id="Arabic">
+                  فدخل يسوع إلى الهيكل. وأخرج جميع الذين كانوا يبيعون ويشترون فى الهيكل وقلب موائد الصيارفة وكراسي باعة الحمام.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf nwou je c~c~q/out je Pa/i eue~mou] e~rof je ou/i m~p~roceu,/ n~ywten de teteni~ri m~mof m~man,wp nconi.
+               </Language>
+               <Language id="English">
+                  And He said to them, "It is written, 'My house shall be called a house of prayer, but you have made it a den of thieves.'"
+               </Language>
+               <Language id="Arabic">
+                  وقال لهم مكتوب أن بيتي بيت الصلاة يدعى وأنتم جعلتموه مغارة لصوص.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taui~ harof n~je hanbelleu nem han[a~leu qen piervei ouoh afervaqri e~rwou.
+               </Language>
+               <Language id="English">
+                  Then the blind and the lame came to Him in the temple, and He healed them.
+               </Language>
+               <Language id="Arabic">
+                  وتقدم إليه عمي وعرج فى الهيكل فشفاهم.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  E~taunau de n~je niar,/e~reuc nem nicaq n~nis~v/ri e~tafaitou nem nia~lwoui~ etws e~bol qen piervei eujw m~moc je w~canna p~s/ri n~Dauid au,~remrem.
+               </Language>
+               <Language id="English">
+                  But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, "Hosanna to the Son of David!" they were indignant.
+               </Language>
+               <Language id="Arabic">
+                  فلما رأى رؤساء الكهنة والكتبة العجائب التي صنعها. والصبيان يصيحون فى الهيكل ويقولون أوصنا لإبن داود تقمقموا.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejwou naf je k~cwtem an je oupete nai jw m~mof: I/couc de pejaf nwou je ce m~petenws e~neh qen nigrav/ je e~bolqen rwou n~hankouji n~a~lwoui~ nem n/eyouem[i akcebte pic~mou.
+               </Language>
+               <Language id="English">
+                  And said to Him, "Do You hear what these are saying?" And Jesus said to them, "Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'?"
+               </Language>
+               <Language id="Arabic">
+                  وقالوا له أما تسمع ما يقول هؤلاء. فقال لهم يسوع نعم. أما قرأتم قط فى الكتب أن من أفواه الأطفال والرضعان هيأت سبحاً.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taf,au afi~ cabol n~]baki e~B/ya~nia~ ouoh afenkot m~mau.
+               </Language>
+               <Language id="English">
+                  Then He left them and went out of the city to Bethany, and He lodged there.
+               </Language>
+               <Language id="Arabic">
+                  ثم تركهم وخرج خارج المدينة إلى بيت عنيا وبات هناك.
+               </Language>
+            </Text>
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of Hosanna Sunday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من يوم احد الشعانين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O come all of you today, O blessed, pious, Christian, church-loving people;
+               </Language>
+               <Language id="Arabic">
+                  هلموا كلكم اليوم أيها الشعب المبارك المحب للكنيسة.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  Let us glorify the One God, who, in this week received the sufferings on our behalf for the salvation of our father Adam and our mother Eve, the mother of all the living.
+               </Language>
+               <Language id="Arabic">
+                  لنمجد الله الواحد الذى قبل الآلام عنا فى هذه الجمعه, لأجل خلاص آدم أبونا وأمنا حواء, أم جميع الأحياء.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  On this day, the Lord entered Jerusalem, together with His disciples. And when He entered, all the city was moved and shaken, saying, Who is this?
+               </Language>
+               <Language id="Arabic">
+                  فى هذا اليوم دخل الرب إلى أورشليم وتلاميذه, فلما دخل أرتجت وتزعزعت المدينه كلها قائلين: من هذا؟
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  And the great multitudes said, this is the great prophet from Nazareth.
+               </Language>
+               <Language id="Arabic">
+                  فكان الجمع الكبير يقولون: هذا هو النبى العظيم الذى من الناصرة.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  Then the blind and the lame came to Him, and He healed them all, and all the children cried out saying, "Hosanna to the Son of David!"
+               </Language>
+               <Language id="Arabic">
+                  وتقدم إليه العميان والعرج فشفاهم جميعاً, والأطفال كلهم صرخوا قائلين: أوصنا لأبن داود.
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  But when the chief priests saw it that murmured saying, what shall we do?
+               </Language>
+               <Language id="Arabic">
+                  فلما رأى رؤساء الكهنة هذا ندموا وقالوا: ماذا نصنع؟
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  And Jesus said to them, "Yes. Have you never read in the scripture, 'Out of the mouth of babes and nursing infants You have perfected praise'?"
+               </Language>
+               <Language id="Arabic">
+                  فقال لهم المخلص: نعم ما قرأتم الآن فى الكتب, أن من أفواه الأطفال والرضعان هيأت سبحاً؟!
+               </Language>
+            </Text>
+               
+            <Text>
+               <Language id="English">
+                  When the infidel and treacherous Jews heard this, they all took counsel to kill Him.
+               </Language>
+               <Language id="Arabic">
+                  فلما سمعوا اليهود المرد هذا, تشاوروا جميعاً لكى يقتلوه.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+   </ForceSeason>
+</Document>

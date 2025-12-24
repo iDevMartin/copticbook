@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">   
+      <Title>
+         <Language id="English">Litany of the Assemblies</Language>
+         <Language id="Arabic">أوشية الاجتماعات</Language>
+      </Title>
+      
+      <InsertDocument path="include/litanies/Assemblies.1"/>
+            
+      <Role id="Priest">
+         <Group>
+            <Season id="Baptism | Crowning | FuneralPrayer">
+               <InsertDocument path="include/litanies/Assemblies.2"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/AgainLetUsAsk"/>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: a~riv~meui~ P[oic n~nenjinywou].
+                  </Language>            
+                  <Language id="English">
+                     We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, our assemblies.
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُ ونطلبُ من صلاحِك يا محبَّ البشرِ، اذكر ياربُّ اجتماعاتِنا.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/litanies/Assemblies.3"/> 
+      </Role>
+      
+      <InsertDocument path="include/litanies/Assemblies.4"/>
+   </Section>
+</Document>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost">      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <Comment>
+               <Language id="English">
+                  For the Entrance of the Holy Family into Egypt on the Feast of the Pentecost:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  V/e~taftwnf ouoh afsenaf afouwrp m~piparakl/ton pip~neuma n~te ]meym/i. afi~ e~qoun e~t,wra n~,/mi: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  who rose from the dead and ascended into the Heavens and sent to us the spirit of truth, the Paraclete, entered into the land of Egypt. Save us and have mercy on us. 
+               </Language>
+               <Language id="Arabic">
+                  الذي قام ثم صعد وأرسل البارقليط روح الحق, دخل الي كورة مصر. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Pentecost">
+            <Comment>
+               <Language id="English">
+                  For the Feast of the Pentecost:
+               </Language>
+            </Comment> 
+            
+            <Text>
+               <Language id="Coptic">
+                  V/e~taftwnf ouoh afsenaf afouwrp m~piparakl/ton pip~neuma n~te ]meym/i: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  who rose from the dead and ascended into the Heavens and sent to us the spirit of truth, the Paraclete. Save us and have mercy on us. 
+               </Language>
+               <Language id="Arabic">
+                  الذي قام ثم صعد وأرسل البارقليط روح الحق. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+   </Season>
+</Document>

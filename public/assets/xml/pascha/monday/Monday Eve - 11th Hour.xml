@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday Eve (The Eleventh Hour)</Language>
+         <Language id="Arabic">ليلة الأثنين (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~jwrh m~p~c~nau (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Micah 3:1-4</Language>
+               <Language id="Arabic">ميخا 3: 1-4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Micah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic de efe~[imwit nwou ouoh efejoc je cwtem e~nai ni ar,wn te p~/i n~Iakwb nem nicotp nte p~/i m~PiIcra/l m~/vwten an pe e~e~mi e~pihap: 
+               </Language>
+               <Language id="English">
+                  He will say, "Hear these things, O heads of the house of Jacob, and you remnant of Israel. Is it not for you to know judgment?
+               </Language>
+               <Language id="Arabic">
+                  والرب يرشدهم ويقول. أسمعوا هذا يا رؤساء بيت يعقوب ومختارى بيت اسرائيل. أما ينبغى لكم أن تعرفوا الحكم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/eymoc] n~nipeynaneu ouoh eukw] n~ca pipethwou euhwlem n~nousar e~bol m~mwou nem noucarx e~bolqen noukac.
+               </Language>
+               <Language id="English">
+                  You who hate good and love evil; you who seize their skins in order flay them and cut their flesh off their bones?
+               </Language>
+               <Language id="Arabic">
+                  أيها الباغضون الخيرات والمبتغون الشرور. النازعـون جلودهم عنهم ولحومهم عن عظامهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh m~v~r/] e~tauouwm n~nicarx n~te palaoc ouoh nousar ausatou e~bol ha noukac ouoh auqemqwmou:
+               </Language>
+               <Language id="English">
+                  Who devoured the flesh of my people by removing their skin, breaking their bones, 
+               </Language>
+               <Language id="Arabic">
+                  وكما أكلوا لحوم شعبى وكشطوا جلودهـم عـن عظامهم. وكسروا عظامهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auvasou m~v~r/] n~han carx eulab/c nem hanaf eusiw~.
+               </Language>
+               <Language id="English">
+                  And dividing them as merely flesh for the cauldron and as meat for the pot?"
+               </Language>
+               <Language id="Arabic">
+                  وقطعـوهـا كلحوم المراجل. وكاللحم فى وسط القدور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] eue~ws e~bol oube P[oic ouoh n~nefcwtem e~rwou. 
+               </Language>
+               <Language id="English">
+                  Thus they will cry out to the Lord, but He will not hear them. Instead, 
+               </Language>
+               <Language id="Arabic">
+                  حينئذ يصرخون إلى الرب فلا يجيبهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~tacyo m~pefho e~bol harwou qen pic/ou e~tem~mau e~v~ma je auer pethwou qen nouh~b/oui e~h~r/i e~jwou.
+               </Language>
+               <Language id="English">
+                  He will turn His face from them at that time because they have done wickedly in their deeds against themselves.
+               </Language>
+               <Language id="Arabic">
+                  بل يصرف وجهه عنهم فى ذلك الوقت. والشر الذى صنعوا باساءتهم يأتى عليهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 18:17-18</Language>
+               <Language id="Arabic">مزمور 18: 17-18</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nahmet e~bol n~totou n~najaji etjor: nem e~bol n~totou n~n/eymoc] m~moi. Je autajro e~hoteroi: 
+               </Language>
+               <Language id="English">
+                  He will deliver me from my strong enemies, and from those who hate me, because they were too strong for me. 
+               </Language>
+               <Language id="Arabic">
+                  نجنى من أعدائى الأقوياء ومن أيدى الذين يبغضوننى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auersorp e~roi qen p~e~hoou n~te pat~hemko: All/louia.
+               </Language>
+               <Language id="English">
+                  They overran me in the day of my misfortune. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لأنهم تقووا أكثر منى أدركونى فى يوم ضري. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 17:19-23</Language>
+            <Language id="Arabic">متى 17: 19-23</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Tote aui~ n~je nimay/t/c ha I/couc ca p~ca m~mauatou ouoh pejwou naf je eybeou a~non m~pens~jemjom e~hitf e~bol:
+               </Language>
+               <Language id="English">
+                  Then the disciples came to Jesus privately and said, “Why could we not cast it out?”
+               </Language>
+               <Language id="Arabic">
+                  حينئذ جاء التلاميذ إلى يسوع منفردين وحدهم وقالوا له لماذا لم نقدر نحن أن نخرجه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de pejaf nwou je eybe petenkouji n~nah] a~m/n gar ]jw m~moc nwten je e~swp e~ouon teten nah] m~mau m~v~r/] n~ounavri n~seltam e~reten e~joc m~pai twou je ouw~teb e~bol tai e~m~n/ ouoh efe~ouw~teb ouoh n~neh~li e~rat~jom n~teny/nou: 
+               </Language>
+               <Language id="English">
+                  So Jesus said to them, “Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you. 
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال لهم لأجل قلة إيمانكم. الحق أقول لكم لو كان لكم إيمان مثل حبة خردل لكنتم تقولون لهذا الجبل أنتقل من هنا إلى هناك فينتقل. ولا يكون شئ غير ممكن لديكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paigenoc m~pafi~ e~bolqen hli e~b/l n~oup~roceu,/ nem oun/ctia~.
+               </Language>
+               <Language id="English">
+                  However, this kind does not go out except by prayer and fasting.”
+               </Language>
+               <Language id="Arabic">
+                  وأما هذا الجنس فلا يخرج إلا بالصلاة والصوم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~taukotou de e~h~r/i e~]Galilea~ peje I/couc nwou je p~s/ri m~v~rwmi cenat/if e~q~r/i e~nenjij n~nirwmi:
+               </Language>
+               <Language id="English">
+                  Now while they were staying in Galilee, Jesus said to them, “The Son of Man is about to be betrayed into the hands of men,
+               </Language>
+               <Language id="Arabic">
+                  وبينما هم يترددون فى الجليل قال لهم يسوع أن إبن الإنسان سيسلم إلى أيدى الناس,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenaqoybef ouoh menenca somt n~e~hoou efe~twnf: Ouoh a~pouh/t m~kah e~masw.
+               </Language>
+               <Language id="English">
+                   And they will kill Him, and the third day He will be raised up.” And they were exceedingly sorrowful.
+               </Language>
+               <Language id="Arabic">
+                  فيقتلونه, وبعد ثلثة أيام يقوم. فحزنت قلوبهم جداً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Listen to the Merciful and Beneficent who is all goodness and compassion. He praises prayer and honors fasting because they are the roots for all virtues. When His disciples asked Him: ''why could we not cast the demon out." 
+               </Language>
+               <Language id="Arabic">
+                  أسمعوا الرؤوف الصانع الخيرات ذا الصلاح والتحنن. يمجد الصلاة ويكرم الصوم لأنهما أساس سائر الفضائل. فإن تلاميذه عندما سألوه قائلين: لماذا لا نقدر نحن أن نخرج الشيطان؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He said to them, "Because of your little faith the demon would not come out. For truly I say to you, if you have faith, you will say to this mountain 'Move from here to there' and it will move; and nothing will be impossible for you;" for everything is possible to the believer.
+               </Language>
+               <Language id="Arabic">
+                  أما هو فقال لهم: لأجل قلة إيمانكم امتنع الشيطان أن يخرج. أقول لكم قال الرب : لو كان لكم إيمان لكنتم تقولون لهذا الجبل انتقل إلى هنا فلوقته سريعاً كان يسمع لكم. ولا يعسر عليكم شئ. فإن كل شئ مستطاع للمؤمن.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So let us cherish a great hope and a true faith free of doubt, and let us be zealous in charity that surpasses everything; for He who loves accepts everything. Let us love fasting and pray consistently so that we may gain His promises.
+               </Language>
+               <Language id="Arabic">
+                  فلنقتن لنا رجاءً عظيماً وأمانه حقيقية بغير شك ولنغر على المحبة التى تفوق كل شئ فإن الذى يحب يصدق كل شئ. ونواظب على الصلاة ونحب الصوم لكى نفوز بمواعيده.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

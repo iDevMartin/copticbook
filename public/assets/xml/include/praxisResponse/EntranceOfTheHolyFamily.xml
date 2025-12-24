@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Rasi yel/l w~ niremn~...</Language>
+         </Title>
+         
+         <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+      </Section>
+   </Season>
+</Document>

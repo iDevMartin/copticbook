@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Group>
+         <InsertDocument path="include/praxisResponse/Index.1"/>
+         
+         <InsertDocument path="include/praxisResponse/FirstAndThirdWeekOfKoiahkFull"/>
+         <InsertDocument path="include/praxisResponse/SecondWeekOfKoiahkFull"/>
+         <InsertDocument path="include/praxisResponse/FourthWeekOfKoiahkFull"/>
+         
+         <Season id="Other">
+            <InsertDocument path="include/praxisResponse/StMary"/>
+         </Season>
+      </Group>
+   </Role>
+</Document>

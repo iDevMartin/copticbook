@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StSarapamon:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Sarapamon:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimart/roc: ,ere piswij n~genneoc: ,ere piaylovoroc: Abba Carapamwn pie~pickopoc.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail to the courageous hero: Hail to the fighter: Abba Sarapamon the Bishop.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع المجاهد السلام للابس الجهاد أنبا صرابامون الأسقف.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

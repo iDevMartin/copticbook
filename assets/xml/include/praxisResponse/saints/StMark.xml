@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMark:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mark:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~pimarturoc: &lt;ere pieuaggelict/c: &lt;ere piapoctoloc: Markoc piyew~rimoc
+            </Language>
+            <Language id="English">
+               Hail to you O martyr, Hail to the evangelist, Hail to the apostle, Mark the beholder of God
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للإنجيلي السلام للرسول مرقس ناظر الإله.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

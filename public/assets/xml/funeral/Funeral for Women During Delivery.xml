@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true" FuneralWomenDelivery="true">
+   <Title>
+      <Language id="English">The Funeral of Women Passing Away During Delivery</Language>
+      <Language id="Arabic">تجنيز النساء في حالة الوفاة عند الوضع</Language>
+   </Title>
+   
+   <InsertDocument path="funeral/include/FuneralContent"/>
+</Document>

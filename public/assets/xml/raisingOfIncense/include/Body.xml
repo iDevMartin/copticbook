@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CovenantThursday | JoyousSaturday">      
+      <Group>
+         <Season id="JoyousSaturday">
+            <InsertDocument path="include/agpeya/ComeLetUsKneelDown"/>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>      
+   </Season>
+   
+   <Group>
+      <Season id="Matins ^ MajorNightFeasts">
+         <Comment>
+            <Language id="English">
+               The priest prays the Litany of the Sick, but does not perform the procession of the incense:
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/ProcessionOfIncense"/>
+          
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest ascends to the sanctuary to pray the litanies, as follows:
+               </Language>
+            </Comment>
+         </Role>
+      </Season>
+   </Group>
+        
+   <InsertDocument path="include/StandardPrayerIntro"/>
+     
+   <Group>
+      <Season id="JoyousSaturday">
+         <InsertDocument path="include/litanies/Sick"/>
+         
+         <Role id="People">
+            <InsertDocument path="include/praises/morningdoxology/BodyAndConclusion"/>
+         </Role>
+         
+         <InsertDocument path="include/litanies/Departed"/>
+         
+         <Role id="People">
+            <InsertDocument path="include/agpeya/GraciouslyAccord"/>          
+            <InsertDocument path="include/psalies/JoyousSaturday"/>
+            <InsertDocument path="melodies/include/JoyousSaturday"/>   
+            <InsertDocument path="include/psalies/ConclusionWatos"/>       
+            <InsertDocument path="include/praises/theotokia/Saturday"/>
+         </Role>         
+      </Season>
+      
+      <Season id="Other">
+         <Group>
+            <Season id="Vespers | (Matins ^ Saturdays ^ !FeastsOfTheLordPeriods ^ !FeastOfTheCross ^ !CopticNewYearPeriod)">
+               <InsertDocument path="include/litanies/Departed"/>
+            </Season>
+            
+            <Season id="Matins ^ (Sundays | FeastsOfTheLordPeriods | FeastOfTheCross | CopticNewYearPeriod | Weekdays)">   
+               <InsertDocument path="include/litanies/Sick"/>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Season id="!CopticNewYearPeriod ^ !FeastOfTheCross ^ !FeastsOfTheLordPeriods ^ Matins ^ Weekdays">   
+      <InsertDocument path="include/litanies/Travelers"/>
+   </Season>
+   
+   <Season id="Matins ^ MajorNightFeasts">
+      <InsertDocument path="include/HymnOfSevenTunes"/>
+   </Season>
+   
+   <Season id="(Matins ^ (Sundays | FeastsOfTheLordPeriods | FeastOfTheCross | CopticNewYearPeriod)) | (Vespers ^ DayAfterResurrection) | JoyousSaturday">   
+      <InsertDocument path="include/litanies/Oblations"/>
+   </Season>
+   
+   <Role id="People">
+      <Group>
+         <Season id="Vespers">
+            <Comment>
+               <Language id="English">
+                  During the evening Offering of Incense, the congregation says:
+               </Language>            
+               <Language id="Arabic">
+                  فى رفع بخور عشية
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/agpeya/GraciouslyAccord"/>
+         </Season>
+         
+         <Season id="Matins">
+            <Comment>
+               <Language id="English">
+                  During the morning Offering of Incense, the congregation says, “Let us praise with the angels.”
+               </Language>            
+               <Language id="Arabic">
+                  بينما في باكر يقول الشعب تسبحة الملائكة ”فلنسبح مع الملائكة...“ 
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/agpeya/Gloria"/>
+         </Season>
+      </Group>
+      
+      <Group>
+         <Season id="(CovenantThursday | JoyousSaturday) ^ Matins">
+            <InsertDocument path="include/trisagion/SeasonalContents"/>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="include/agpeya/Trisagion"/>
+         </Season>
+      </Group>
+      
+      <Group>
+         <Season id="CovenantThursday">
+            <Comment>
+               <Language id="English">
+                  The doxologies are chanted, in the standard tune.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/doxologies/DoxologiesLink"/>
+   </Role>
+   
+   <InsertDocument path="include/ProcessionOfIncenseDuringDoxologies"/>
+   
+   <Role id="People">
+      <Group>
+         <Season id="JoyousSaturday">
+            <InsertDocument path="include/praises/ConclusionWatosTheotokia"/>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+      <InsertDocument path="include/Creed"/>
+   </Role>
+   
+   <InsertDocument path="include/EvnotiNaiNan"/>   
+   
+   <Group>
+      <Season id="ReceptionNewPriest">
+         <Role id="People">
+            <InsertDocument path="include/Taishoree"/>
+            <InsertDocument path="include/hiten/StMary"/>
+            <InsertDocument path="include/hiten/TwentyFourPriestsContents"/>
+         </Role>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/PostEvnotiNaiNan"/>
+   
+   <Group>
+      <Season id="!CovenantThursday ^ !Pascha ^ !JoyousSaturday">
+         <InsertDocument path="veneration/VenerationLink"/>
+      </Season>
+   </Group>
+</Document>

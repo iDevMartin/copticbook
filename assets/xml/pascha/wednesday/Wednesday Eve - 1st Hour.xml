@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday Eve (The First Hour)</Language>
+         <Language id="Arabic">ليلة الأربعاء (الساعة الاولى)</Language>
+         <Language id="Coptic">Pie~jwrh m~Pf~tou (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 22:17-22</Language>
+               <Language id="Arabic">حزقيال 22: 17-22</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+                     
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~oucaji n~te P[oic swpi haroi efjw m~moc:
+               </Language>
+               <Language id="English">
+                  Again the word of the Lord came to me, saying,
+               </Language>
+               <Language id="Arabic">
+                  وكانت إلي كلمة الرب قائلاً:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je p~s/ri m~v~rwmi: h/ppe auswpi n/i n~je p~/i m~pI~c#l# eumoujt t/rou n~ouhomt nem ouy~ran nem oubenipi nem outath efmoujt nem ouhat: 
+               </Language>
+               <Language id="English">
+                  "Son of man, behold, the house of Israel is mixed before Me—they are altogether mixed—the house is mixed together in the midst of the silver, with bronze, iron, tin, and lead. 
+               </Language>
+               <Language id="Arabic">
+                  يا إبن الإنسان هوذا قد صار لدي بيت اسرائيل جميعهم خليطاً نحاساً وقصديراً وحديداً ورصاصاً مخلوطاً مع الفضة  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai a~joc je nai ne n/e~tefjw m~mwou n~je P[oic: je e~vma je a~reten swpi t/rou euywt n~ouwt: eybe vai a~nok ]nasepy/nou e~roi qen Ieroucal/m. 
+               </Language>
+               <Language id="English">
+                  Therefore thus says the Lord: 'Because all of you are one mixture, therefore, I will gather you into the midst of Jerusalem, 
+               </Language>
+               <Language id="Arabic">
+                  لأجل ذلك قل هذا ما يقوله الرب: بما أنكم جميعاً قد صرتم إمتزاجاً واحداً فلاجل هذا ها أنا أخذكم في أورشليم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kata v~r/] e~taisep pihat nem pihomt nem pibenipi nem pitath nem piy~ran qen y~m/] nouh~rw: eyrefnifi n~ewou n~je ou,~rwm e~p~jin ouotheu e~bol: pair/] on ]nasepy/nou eroi qen pam~bon:
+               </Language>
+               <Language id="English">
+                  As men gather silver, bronze, iron, tin, and lead into the midst of a furnace, to blow fire on it, to cast it like metal into a mold.
+               </Language>
+               <Language id="Arabic">
+                  كما أخذ الفضة والنحاس والحديد والرصاص والقصدير في وسط الآتون, لنفخ النار عليها لسبكها,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nayouet y/nou ouoh ]naoueth y/nou e~bol ouoh ]nanifi n~cay/nou qen ou,rwm n~te pajwnt. Ouoh ]naoueth y/nou e~bolqen tecm/].
+               </Language>
+               <Language id="English">
+                  Thus I shall gather you in My wrath, and bring you together and cast you. I shall blow on you with the fire of My wrath and cast you in her midst.
+               </Language>
+               <Language id="Arabic">
+                  وهكذا أخذكم إلي برجزي وأجمعكم وأذيبكم وأنفخ عليكم بنار غضبي وأسبككم في وسطها,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] e~wauouwth n~hat e~bolqen y~m/] n~ouh~rw: pair/] cenaouethy/nou e~bolqen tecm/]: ouoh tetennae~mi je a~nok pe P[oic ouoh aivwn m~pajwnt hijen y/nou.
+               </Language>
+               <Language id="English">
+                  As silver is cast into a mold in the midst of a furnace, so shall you be cast in her midst. Then you shall know that I, the Lord, have poured out My anger upon you.'"
+               </Language>
+               <Language id="Arabic">
+                  كما تسبك الفضة في وسط الآتون كذلك تسبكون في وسطه فتعلمون أني هو الرب صببت غضبي عليكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الاولى، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 58:17-18</Language>
+               <Language id="Arabic">مزمور 58: 17-18</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Akswpi n/i n~ourefsopt e~rof: nem oumam~vwt qen p~e~hoou m~pahojhej.
+               </Language>
+               <Language id="English">
+                  For You are my protector, and my refuge in the day of my affliction.
+               </Language>
+               <Language id="Arabic">
+                  صرت ناصري وملجأي في يوم شدتي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yok pe pabo/~yoc ainaer'alin e~rok panou]: je n~yok pe parefsopt e~rof panou] panai: All/louia.
+               </Language>
+               <Language id="English">
+                  You are my helper; I will sing to You; for You, O God, are my protector; You are my mercy, O my God. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أنت معيني, لك أرتل يا إلهي, لأنك أنت ناصري إلهي, ورحمتي. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 22:1-14</Language>
+            <Language id="Arabic">متى 22: 1-14</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afe~rouw nwou on n~je I/couc qen hanparabol/ efjw m~moc:
+               </Language>
+               <Language id="English">
+                  And Jesus answered and spoke to them again by parables and said:
+               </Language>
+               <Language id="Arabic">
+                  ثم أجابهم يسوع بأمثال قائلاً:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je c~oni n~je ]metouro n~te niv/oui~: n~ourwmi n~ouro e~afi~ri n~ouhop e~pefs/ri: 
+               </Language>
+               <Language id="English">
+                   “The kingdom of heaven is like a certain king who arranged a marriage for his son, 
+               </Language>
+               <Language id="Arabic">
+                  يشبه ملكوت السموات إنساناً ملكاً صنع عرساً لإبنه  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afouwrp n~nefe~biaik e~mou] e~n/etyahem e~qoun e~pihop ouoh m~pououws e~i~.
+               </Language>
+               <Language id="English">
+                  And sent out his servants to call those who were invited to the wedding; and they were not willing to come.
+               </Language>
+               <Language id="Arabic">
+                  فأرسل عبيده ليدعوا المدعوين إلي العرس, فلم يريدون أن يأتوا,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Palin on afouwrp n~hankee~biaik efjwm~moc: je a~joc n~n/etyahem je ic paa~ricton aicebtwtf: namaci nem n/etsaneus cesat ouoh cecebtwt t/rou: a~mwini eqoun e~pihop: 
+               </Language>
+               <Language id="English">
+                  Again, he sent out other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.’” 
+               </Language>
+               <Language id="Arabic">
+                  فأرسل أيضاً عبيداً آخرين قائلاً: قولوا للمدعوين هأنذا قد أعددت وليمتي, وعجولي المعلوفة قد ذبحت وكل شئ معد, فتعالوا إلي العرس. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou de e~tauera~mel/c: ausenwou ouai men e~pefiohi: keouai de etefiebswt Pcepi de e~taua~moni n~nefe~biaik ausosou ouoh auqoybou.
+               </Language>
+               <Language id="English">
+                  But they made light of it and went their ways, one to his own farm, another to his business. And the rest seized his servants, treated them spitefully, and killed them.
+               </Language>
+               <Language id="Arabic">
+                  أما هم فتهاونوا. فذهب واحد إلى حقله وآخر إلي تجارته والباقون أمسكوا عبيده وأهانوهم وقتلوهم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piouro de e~tafcwtem afjwnt ouoh aftaouc n~nefctrateuma ouoh aftako n~nirefqwteb e~tem~mau: ouoh toubaki afrokhc qen pi,rwm: 
+               </Language>
+               <Language id="English">
+                  But when the king heard about it, he was furious. And he sent out his armies, destroyed those murderers, and burned up their city. 
+               </Language>
+               <Language id="Arabic">
+                  فلما سمع الملك غضب وأرسل جنوده وأهلك أولئك القتلة, وأحرق مدينتهم بالنار. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote pejaf n~nefe~biaik: je pihop men efcebtwt: n/etyahem de nau m~p~sa an pe: 
+               </Language>
+               <Language id="English">
+                  Then he said to his servants, ‘The wedding is ready, but those who were invited were not worthy.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ قال لعبيده: أما العرس فمعد وأما المدعوون فلم يكونوا مستحقين,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Masenwten de e~bol e~nimanmosi n~te nimwit: ouoh n/e~tetennajemou yahmou e~qoun e~pihop.
+               </Language>
+               <Language id="English">
+                  Therefore go into the highways, and as many as you find, invite to the wedding.’
+               </Language>
+               <Language id="Arabic">
+                  فإذهبوا إلي مفارق الطرق, وكل من وجدتموه فإدعوه إلي العرس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taui e~bol n~je nie~biaik e~tem~mau hinimwit: auywou] n~ouon niben e~taujemou n/ethwou nem n/eynaneu: ouoh afmoh n~je pihop e~bolqen n/eyrwteb:
+               </Language>
+               <Language id="English">
+                  So those servants went out into the highways and gathered together all whom they found, both bad and good. And the wedding hall was filled with guests.
+               </Language>
+               <Language id="Arabic">
+                  فخرج أولئك العبيد إلى الطرق وجمعوا كل من وجدوا أشرار وصالحين فإمتلأ العرس من المتكئين,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etafi~ de e~qoun n~je piouro e~nau e~n/eyrwteb: afnau e~ourwmi m~mau n~t~hebcw m~pihop toi hiwtf an: 
+               </Language>
+               <Language id="English">
+                  “But when the king came in to see the guests, he saw a man there who did not have on a wedding garment. 
+               </Language>
+               <Language id="Arabic">
+                  فلما دخل الملك لينظر إلي المتكئين, ورأي هناك رجلاً ليس عليه ثياب العرس, فقال له: يا صاحب, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf naf je pas~v/r: pwc aki e~qoun e~m~nai n~t~hebcw m~pihop toihiwtk an: n~yof de a~rwf ywm.
+               </Language>
+               <Language id="English">
+                  So he said to him, ‘Friend, how did you come in here without a wedding garment?’ And he was speechless.
+               </Language>
+               <Language id="Arabic">
+                  كيف دخلت إلي هنا وليس عليك ثياب العرس؟ أما هو فسكت,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote peje p~ouro n~nidia~kwn: je conh m~vai n~totf nem ratf: hitf e~pi,aki etcb~ol: pima e~te v~rimi naswpi mmof nem pic~yerter n~te ninajhi: 
+               </Language>
+               <Language id="English">
+                  Then the king said to the servants, ‘Bind him hand and foot, take him away, and cast him into outer darkness; there will be weeping and gnashing of teeth.’ 
+               </Language>
+               <Language id="Arabic">
+                  حينئذ قال الملك للخدام: أوثقوا يديه ورجليه وأطرحوه في الظلمة الخارجية, هناك يكون البكاء وصرير الأسنان, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouon hanm/s gar euyahem hankouji de ne nicwtp.
+               </Language>
+               <Language id="English">
+                  “For many are called, but few are chosen.”
+               </Language>
+               <Language id="Arabic">
+                  لأن المدعوين كثيرون والمختارين قليلون.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  That king who held the marriage feast and invited the guests to the banquet, is God the Father. His Son is Jesus Christ our Savior.
+               </Language>
+               <Language id="Arabic">
+                  الإنسان الملك الذي صنع العرس,  ودعا المدعوين هو الله الآب, وإبنه هو المسيح يسوع مخلصنا 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The feast is the world to which he came, and was incarnated from the Theotokos and was among the people as one of them.
+               </Language>
+               <Language id="Arabic">
+                  والعرس هو العالم الذي ظهر فيه, الذي ولدته بالجسد والدة الإله وصار مع الناس كواحد منهم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The servants He commissioned to carry His message are the prophets who preceded Him preaching to the nations His imminent coming.
+               </Language>
+               <Language id="Arabic">
+                  والعبيد الذين أرسلهم هم الآنبياء الذين سبقوه, ودعوا الأمم قبل مجيئه قائلين إن الآتي سوف يآتٍي ولا يبطئ,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The (nations), however, neglected the matter and rejected their message; they went each one his own way: the one to his field, the other to his business, and the rest killed the messengers.
+               </Language>
+               <Language id="Arabic">
+                  فتكاسلوا ولم يقبلوا أقوالهم, ثم مضوا متهاونين واحداً إلي حقله وآخر إلي تجارته والباقون أمسكوا عبيده وقتلوهم  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The king became enraged, sent his troops, disciplined these killers, and burned their town. Who were those who were invited to the real banquet which was for God the Word, but the contrary antipathetic Jews whose names were eliminated from the Book of Life.
+               </Language>
+               <Language id="Arabic">
+                  فغضب الملك وأرسل عسكره وضرب أولئك القتلة وأحرق مدينتهم. من هم الناس الذين دعوا إلي الوليمة الحقيقية التي لله الكلمة إلا اليهود المخالفون الذين محيت أسماؤهم من سفر الحياة؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He (God the Father) sent others and commanded them. to go in the streets and to invite everyone they find. When they did that, they invited many who were good and many who were bad, until they had a full house.
+               </Language>
+               <Language id="Arabic">
+                  فعاد أيضاً وأرسل آخرين وأوصاهم هكذا قائلاً  أخرجوا إلي مسالك الطرق وأدعوا كل الذين تجدونهم. فلما خرجوا دعوا كثيرين صالحين وطالحين فامتلأ العرس من المتكئين,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The king came in to inspect the guests; he saw someone who was not appropriately attired for the occasion. He asked him: Friend how did you get in without the proper dress. The man was speechless and embarrassed and the servants shoved him out to the outer darkness..
+               </Language>
+               <Language id="Arabic">
+                  فلما دخل الملك لينظر المتكئين رأي هناك إنساناً لم يكن لابساً لباس العرس فقال له: يا صاحب كيف دخلت هنا وليس عليك ثياب العرس؟ فللوقت صمت وصار في فضيحة, ثم ألقاه الخدام إلي الظلمة الخارجية.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Who is this individual, but Judas, who lost his heavenly garment and became dressed with damnation which seeped as water into his stomach because he denied His master's blessings and dared to betray Him. He was thus estranged from his (master's) glory and his priesthood was given to another.
+               </Language>
+               <Language id="Arabic">
+                  من هو هذا الإنسان إلا يهوذا الذي تعري من الحلة السمائية ولبس اللعنة مثل الثوب, ودخلت إلي أمعاءه مثل الماء؟ لأنه أنكر نعمة سيده وتجرأ أن يسلم معلمه, فذلك صار غريباً من مجده ورئاسة كهنوته.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

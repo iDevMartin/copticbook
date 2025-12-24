@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+   
+   <Group>
+      <Season id="HosannaSundayFirstLiturgyGospel">
+         <Role id="Reader">   
+            <InsertDocument path="include/ChantedPsalmIntro"/>
+            <InsertDocument path="readings/HosannaSundayFirstLiturgyPsalm"/>
+         </Role>
+      </Season>
+      
+      <Season id="!JoyousSaturday">
+         <LinkDocument path="readings/Chanted Psalm">
+            <Language id="English">
+               Psalm Chant
+            </Language>
+            <Language id="Arabic">
+               المزمور
+            </Language>
+         </LinkDocument>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="!JoyousSaturday">
+         <Role id="Deacon">
+            <InsertDocument path="include/psalmResponse/PsalmBishop"/>
+            <InsertDocument path="include/psalmTrailer/PsalmTrailer"/>
+         </Role>
+         
+         <InsertDocument path="include/psalmResponse/PsalmResponse"/>   
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="RaisingOfIncense | Liturgy">
+         <Role id="Priest" silent="true">
+            <Section>
+               <Title>
+                  <Language id="English">Bow down before the Gospel...</Language>
+                  <Language id="Arabic">اسجدوا لإنجيلِ...</Language>
+                  <Language id="Coptic">Ouwst m~pieuaggelion...</Language>            
+               </Title>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest turns toward the Gospel and censes it, while saying inaudibly:
+                  </Language>
+                  <Language id="Arabic">
+                     يلتفت الكاهن نحو الإنجيل ويعطي البخور له وهو يقول (سرا(ً:
+                  </Language>
+               </Comment>
+                     
+               <Text>
+                  <Language id="Coptic">
+                     Ouwst m~pieuaggelion n~te I/couc Pi,rictoc. Hiten nieu,/ n~te piiero'alt/c Dauid pip~rov/t/c: P[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+                  </Language>
+                  <Language id="English">
+                     Bow down before the Gospel of Jesus Christ. Through the prayers of the psalmist David the prophet, O Lord, grant us the forgiveness of our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     اسجدوا لإنجيلِ يسوع المسيح. بصلُّواتِ المرتل داود النبي، ياربُّ انعم لنا بغفرانِ خطايانا.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest goes up to the sanctuary and makes the sign of the cross over the incense box and puts a spoonful of incense into the censer, saying “Glory and honor” (<span class="Coptic">Ouw~ou nem outaio</span>) to the end. The deacon goes up to the sanctuary with the Gospel, and the priest offers incense to it as they both go around the altar once counterclockwise, while the priest says this Prayer of Simeon the Priest inaudibly.
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يصعد إلى الهيكل ويرشم درج البخور رشماً واحداً بمثال الصليب ويضع يد بخور في المجمرة وهو يقول<span class="Coptic">Ouw~ou nem outaio</span>  بكاملها. ويصعد الشماس بالإنجيل إلى الهيكل ويعطيه الكاهن البخور وهو دائر حول المذبح دورة واحدة يميناً والشماس حامل الإنجيل  والكاهن يقول صلاة سمعان الكاهن هذه سراً:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }nou pan/b ,~na,a pekbwk e~bol qen ouhir/n/ kata pekcaji: je aunau n~je nabal e~peknohem: v/e~takcebtwtf m~pem~yo n~nilaoc t/rou: ououwini eu[wrp e~bol n~te haneynoc: nem ouw~ou n~te peklaoc Picra/l.
+                  </Language>
+                  <Language id="English">
+                     Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation which You have prepared before the face of all peoples, a light for revelation to the Gentiles, and for glory to Your people Israel.
+                  </Language>
+                  <Language id="Arabic">
+                     الآن يا سيدي تُطلق عبدَكَ بسلامٍ كقولِكَ، لأن عينَيَّ قد أبصرتا خلاصَكَ الذي أعددتَه قدامَ جميعِ الشعوبِ، نورَ إعلانٍ للأممِ ومجداً لشعبِك إسرائيل.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     After encircling the altar, the priest offers incense to the Gospel three times, while saying inaudibly:
+                  </Language>
+                  <Language id="Arabic">
+                     وبعد انتهاء الدورة يعطي الكاهن البخور للإنجيل ثلاث مرات وهو يقول (سرا(ً:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouwst m~pieuaggelion n~te I/couc Pi,rictoc P~s/ri m~Vnou] etonq: piw~ou naf sa e~neh.
+                  </Language>
+                  <Language id="English">
+                     Bow down before the Gospel of Jesus Christ, the Son of the living God; to Him be the glory for ever.
+                  </Language>
+                  <Language id="Arabic">
+                     اسجدوا لإنجيلِ يسوعَ المسيح ابن الله الحي، له المجد إلى الأبد.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     The priest takes the Gospel from the deacon, turns to the west, and offers it to the other priests, while saying,
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يأخذ الإنجيل من الشماس ويلتفت به إلى الغرب ويعطيه للأباء الكهنة وهو يقول:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nywten de w~ouniatou n~netenbal je cenau: nem netenmasj je cecwtem: marenerp~emp~sa n~cwtem ouoh e~i~ri n~nekeuaggelion eyouab: qen nitwbh n~te n/eyouab n~tak.
+                  </Language>
+                  <Language id="English">
+                     Blessed are your eyes for they see, and your ears for they hear. May we be worthy to hear and to act according to Your Holy Gospels, through the prayers of Your saints.
+                  </Language>
+                  <Language id="Arabic">
+                     أما أنتم فطوبى لأعينِكم لأنها تبصر، ولآذانِكم لأنها تسمع، فلنستحق أن نسمعَ ونعملَ بأناجيلِك المقدسةِ بطلباتِ قديسيك.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     The priests come forward to kiss the Gospel, saying, “Bow down before the Gospel” (<span class="Coptic">Ouwst m~pieuaggelion</span>) to the end. Then the serving priest kisses the Gospel himself and offers the censer to the fellow priest or any non-serving priest to cense the Gospel. He approaches the lectern and reads the Gospel. However, if the Pope, a metropolitan, or a bishop is present, then the one of highest rank reads the Gospel at the sanctuary door facing west, while the serving priest offers incense. After chanting the Psalm, the deacon, while still standing at the door of the sanctary, says:
+                  </Language>
+                  <Language id="Arabic">
+                     ويأتي الكهنة ويقبلون الإنجيل وهم يقولون أيضاً <span class="Coptic">Ouwst m~pieuaggelion</span>  بكاملها. ثم يقبله هو بعدهم أيضاً ويسلم المجمرة للكاهن الشريك أو الكاهن غير الخديم ليبخر للإنجيل. وهو يتقدم إلى المنجلية فيقرأ الإنجيل. أما إذا كان البابا أو المطران أو الأسقف حاضراً فهو الذي يقرأ الإنجيل على باب الهيكل ووجهه إلى الغرب، والكاهن الخديم يبخر للإنجيل. وبعد قراءة المزمور يقول الشماس (وهو واقف داخل باب الهيكل):
+                  </Language>
+               </Comment>
+            </Section>      
+         </Role>
+      </Season>
+   </Group>
+      
+   <Group>
+      <Season id="!JoyousSaturday">
+         <Role id="Deacon">         
+            <Text>
+               <Language id="Coptic">
+                  Ctay/te meta vobou Yeou a~koucwmen tou a~giou euaggeliou.
+               </Language>
+               <Language id="English">
+                  Stand in the fear of God. Let us hear the Holy Gospel.
+               </Language>
+               <Language id="Arabic">
+                  قفوا بخوف الله لسماع الإنجيل المقدس.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Comment>
+            <Language id="English">
+               The Gospel is read in Coptic as follows:
+            </Language>
+         </Comment>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  F~c~marwout n~je v/eyn/ou qen v~ran m~P[oic nte nijwm. Kurie eulog/con ek tou kata (nim) a~giou euaggeliou to a~nagnwcma.
+               </Language>
+               <Language id="English">
+                  Blessed is He who comes in the name of the Lord of hosts. Bless, O Lord, the reading of the Holy Gospel according to Saint. (...).
+               </Language>
+               <Language id="Arabic">
+                  مبارك الآتي باسم رب القوات. يارب بارك الفصل من الإنجيل المقدس من (...)
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  Doxa ci Kurie.
+               </Language>
+               <Language id="English">
+                  Glory to You, O Lord.
+               </Language>
+               <Language id="Arabic">
+                  المجد لك يارب
+               </Language>
+            </Text>
+         </Role>
+         
+         <Section>
+            <Title>
+               <Language id="English">Introduction to the Coptic Gospel When Read by the Pope or a Bishop</Language>
+            </Title>
+            
+            <Role id="Deacon">         
+               <Comment>
+                  <Language id="English">
+                     If the reader is the Pope, the deacon says:
+                  </Language>
+                  <Language id="Arabic">
+                     وإذا كان الأب البطريرك هو القارئ يقول الشماس:  
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/PopeGospelIntro"/>
+               
+               <Comment>
+                  <Language id="English">
+                     If the reader is a metropolitan or bishop, the deacon says:
+                  </Language>
+                  <Language id="Arabic">
+                     وإذا كان الأب الأسقف هو القارئ يقول الشماس: 
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="English">
+                     Stand in the fear of God. Let us hear the Holy Gospel from the mouth of our honored and righteous father, the thrice blessed, our honored father the bishop, Abba (...), bishop of the Christ-loving city of (...) and its vicinity. May the God of heaven confirm him on his throne for many years and peaceful times, humiliate all his enemies under his feet speedily, grant him calm and delightful times, and grant us grace and mercy through his prayers and supplications. The Gospel according to our teacher Saint (...) the Evangelist. May his blessing be with us. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     قفوا بخوف أمام الله لنسمع من فم أبينا المكرم البار المثلث الطوبى، أبينا المكرم الأسقف أنبا (...) أسقف المدينة المحبة للمسيح (...) وتخومها. إله السماء يثبته على كرسيه سنين وأزمنة سالمة. ويخضع جميع أعدائه تحت قدميه سريعا. ويعطيه زمانا هادئا لذيذا ويعطينا نعمة ورحمة بصلواته وطلباته الأنجيل لمعلمنا (...) البشير بركته علينا آمين  
+                  </Language>
+               </Text>
+            </Role>
+         </Section>      
+         
+         <Section>
+            <Title>
+               <Language id="English">Coptic Gospel</Language>
+            </Title>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Pen[oic ouoh Pennou] ouoh pencwt/r ouoh penouro t/ren I/couc Pi,~rictoc Ps/ri m~Vnou] etonq piw~ou naf sa e~neh.
+                  </Language>
+                  <Language id="English">
+                     Our Lord, God, Savior, and King of us all, Jesus Christ, Son of the Living God, to whom is glory forever.
+                  </Language>
+                  <Language id="Arabic">
+                     ربنا وإلهنا ومخلصنا وملكنا كلنا يسوع المسيح، ابن الله الحي، الذي له المجد للأبد.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     The Coptic Gospel is read concluded with the following:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Piw~ou va Pennou] pe sa e~neh n~te nie~neh t/rou. Am/n.
+                  </Language>
+                  <Language id="English">
+                     Glory is due to our God unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     المجد لإلهنا إلى ابد الآبدين. آمين.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>
+                  <Language id="Coptic">
+                     Doxa ci Kurie.
+                  </Language>
+                  <Language id="English">
+                     Glory to You, O Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     المجد لك يارب.
+                  </Language>
+               </Text>
+            </Role>
+         </Section>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="readings/Psalm and Gospel"/>         
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            At the conclusion of the Gospel, the priest censes it three times and says:
+         </Language>         
+         <Language id="Arabic">
+            وعند الإنتهاء من قراءة الإنجيل يبخر الكاهن نحوه ثلاث أياد ويقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh n~yok pe e~tecerp~repi nak n~je ]doxologia: qen ouc~m/ n~ouwt n~te ouon niben: piw~ou nem pitaio~ ]metnis] ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~omooucioc nemak.
+         </Language>
+         <Language id="English">
+            You are He to whom praise is due from everyone with one voice, along with glory, honor, majesty, and worship, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+         </Language>
+         <Language id="Arabic">
+            وأنت الذي ينبغي لكَ التمجيدُ، بصوتٍ واحدٍ من كلِّ أحدٍ، والمجدُ والإكرامُ والعظمةُ والسجودُ، مع أبيك الصالحِ والروحِ القدسِ المحيِي المساوِي لكَ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            now and at all times and unto the age of all ages.  Amen.
+         </Language>
+         <Language id="Arabic">
+            الآنَ وكل أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         After the Gospel is read, the congregation says:
+      </Language>
+      <Language id="Arabic">
+         يقرأ الإنجيل وفي ختامه يقول الشعب:
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/GloryBeToGodForever"/>
+   
+   <Comment>
+      <Language id="English">
+         Please note that several Churches in the lands of immigration have grown accustomed to reading the Gospel in both English and Arabic without reading it in Coptic. As a result, after the Litany of the Gospel, “Alleluia” is chanted without reading the Psalm. This practice is improper. Therefore, in these instances, we recommend the following order be observed:
+         <ol>   
+            <li>After the Litany of the Gospel, the Psalm is read (Arabic or English) followed by “Alleluia” or the response to the Psalm.</li> 
+            <li>The deacon says “<span class="Coptic">Ctay/te</span>”</li>
+            <li>The priest says “<span class="Coptic">F~c~marwout</span>”</li> 
+            <li>The deacon says, “Stand in the fear of God…”</li> 
+            <li>The Gospel is read (Arabic or English) preceded by the priest saying, “<span class="Coptic">Pen[oic</span>”</li> 
+            <li>The Psalm is read.</li>
+            <li>The reader says, “Blessed is He who comes in the name of the Lord…”</li> 
+            <li>The Gospel is read.</li>
+         </ol>         
+      </Language>
+   </Comment>
+   
+   <Group>
+      <Season id="Liturgy">
+         <InsertDocument path="include/SilentPrayerGospel"/>
+      </Season>
+   </Group>
+</Document>

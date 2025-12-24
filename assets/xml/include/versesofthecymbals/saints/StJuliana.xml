@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJuliana:VersesOfCymbals"> 
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Juliana:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               }a~lou n~cab/ m~paryenoc: ]cwtp n~kuria m~m/i: ]selet n~te P,#c#: }a~gia    Ioulia~n/.
+            </Language>
+            <Language id="English">
+               The wise virgin child: the chosen and true lady: the bride of Christ: Saint Juliana.
+            </Language>
+            <Language id="Arabic">
+               العذراء الصبية الحكيمة السيدة المختارة الحقيقية عروسة المسيح. القديسة يوليانه.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

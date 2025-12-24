@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Coptic New Year:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia.  C~mou e~pi,~lom n~te ]rompi hiten tekmet,~r/ctoc P[oic: niiarwou nem nimoumi nem nici] nem nikarpoc All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Bless the crown of the year with Your goodness, O Lord; the rivers, the springs, the plants and the fruits. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا بارك اكليل السنة بصلاحك، يارب الأنهار والينابيع والزروع والأثمار. الليلويا الليلويا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

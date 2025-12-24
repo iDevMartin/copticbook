@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Vn/b P[oic I/couc Pi,rictoc Pennou]: v/e~tafjoc n~nefa~gioc ettai/out m~may/t/c ouoh n~a~poctoloc eyouab.
+         </Language>
+         <Language id="English">
+            O Master, Lord Jesus Christ our God, who said to His saintly, honored disciples and holy apostles,
+         </Language>
+         <Language id="Arabic">
+            أيها السيدُ الربُّ يسوعُ المسيح إلَهُنا، الذي قالَ لتلاميذِهِ القديسين المكرمين ورُسُلِه الأطهارِ:
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je hanm/s m~p~rov/t/c nem hany~m/i: auere~piyumin e~nau e~n/e~tetennau e~rwou ouoh m~pounau: ouoh e~cwtem e~n/e~tetencwtem e~rwou ouoh m~poucwtem.
+         </Language>
+         <Language id="English">
+            “Many prophets and righteous men have desired to see the things which you see, and have not seen them, and to hear the things which you hear, and have not heard them.
+         </Language>
+         <Language id="Arabic">
+            ”إن أنبياءً وأبراراً كثيرين اشْتَهَوْا أن يَرَوْا ما أنتم تَرَوْن ولم يَرَوْا، وأن يسمعوا ما أنتم تسمعون ولم يسمعوا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nywten de w~ouniatou n~netenbal je cenau: nem netenmasj je cecwtem.
+         </Language>
+         <Language id="English">
+            But as for you, blessed are your eyes, for they see, and your ears, for they hear.”
+         </Language>
+         <Language id="Arabic">
+            أما أنتم فطوبى لأعينِكم لأنها تُبصِر، ولآذانِكم لأنها تَسْمَع.“
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Marenerp~emp~sa n~cwtem ouoh e~i~ri n~nekeuaggelion eyouab: qen nitwbh n~te n/eyouab n~tak.
+         </Language>
+         <Language id="English">
+            May we be worthy to hear and to act according to Your Holy Gospels, through the prayers of Your saints.
+         </Language>
+         <Language id="Arabic">
+            فلنستحقَّ أن نسمَعَ ونعمَلَ بأناجيلِك المقدسةِ بطلباتِ قديسيك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per tou a~giou euaggeliou.
+         </Language>
+         <Language id="English">
+            Pray for the Holy Gospel.
+         </Language>
+         <Language id="Arabic">
+            صلوا من اجل الإنجيل المقدس.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ de on penn/b n~ouon niben e~tauhonhen nan e~erpoumeui~ qen nen]ho nem nentwbh eteni~ri m~mwou e~p~swi harok P[oic Pennou].
+         </Language>
+         <Language id="English">
+            Remember, also, O our Master, all those who have bidden us to remember them in our supplications and prayers which we offer up unto You, O Lord our God.
+         </Language>
+         <Language id="Arabic">
+            اُذكر أيضاً يا سيدَنا كلَّ الذين أوصونا أن نذكرَهُم في تضرُّعاتِنَا وطلباتِنا التي نُصعِدُها إليك أيها الربُّ إلَهُنا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            N/e~tauersorp n~enkot mam~ton nwou: n/e~tswni metal[wou.
+         </Language>
+         <Language id="English">
+            Those who have already fallen asleep, repose them. Those who are sick, heal them.
+         </Language>
+         <Language id="Arabic">
+            الذين سبقوا فرقدوا، نيحهم. المرضى اشفهم.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="Coptic">
+            Je n~yok gar pe penwnq t/rou: nem penoujai t/rou: nem tenhelpic t/rou: nem pental[o t/rou: nem tena~nactacic t/ren.
+         </Language>
+         <Language id="English">
+            For You are the life of us all, the salvation of us all, the hope of us all, the healing of us all, and the resurrection of us all,
+         </Language>
+         <Language id="Arabic">
+            لأنكَ أنتَ حياتُنَا كلِّنا، وخلاصُنا كلِّنا، ورجاؤنا كُلِّنا، وشفاؤنا كلِّنا، وقيامتُنا كلِّنا.
+         </Language>
+      </Text>      
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Text>
+         <Language id="Coptic">
+            Ouoh n~yok petenouwrp nak e~p~swi: m~p~w~ou nem pitaio nem ]prockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+         </Language>
+         <Language id="English">
+            and to You we send up the glory, the honor, and the worship, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+         </Language>
+         <Language id="Arabic">
+            وأنت الذي نرسلُ لكَ إلى فوق المجدَ والإكرامَ والسجودَ، مع أبيكَ الصالحِ والروحِ القدسِ المحيي المساوِي لكَ.
+         </Language>
+      </Text>      
+      
+      <Text>
+         <Language id="Coptic">
+            }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            now and at all times and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            الآن وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+         </Language>
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StGeorgeTheZahimian:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. George the Zahimian: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StGeorgeTheZahimian"/>
+      </Season>
+   </Group>
+</Document>

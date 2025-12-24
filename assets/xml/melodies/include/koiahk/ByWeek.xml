@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstWeekOfKoiahk">
+      <InsertDocument path="melodies/include/koiahk/FirstWeek"/>
+   </Season>
+   
+   <Season id="SecondWeekOfKoiahk">
+      <InsertDocument path="melodies/include/koiahk/SecondWeek"/>
+   </Season>
+   
+   <Season id="ThirdWeekOfKoiahk">
+      <InsertDocument path="melodies/include/koiahk/ThirdWeek"/>
+   </Season>
+   
+   <Season id="FourthWeekOfKoiahk">
+      <InsertDocument path="melodies/include/koiahk/FourthWeek"/>
+   </Season>
+</Document>

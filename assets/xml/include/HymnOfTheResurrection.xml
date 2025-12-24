@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">            
+      <Title>
+         <Language id="English">Hymn of the Resurrection</Language>
+         <Language id="Coptic">&lt;~rictoc a~nect/</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            &lt;~rictoc a~nect/ eknekrwn: yanatw yanaton pat/cac ke tic en tic m~n/maci zw/n ,aricamenoc
+         </Language>
+         <Language id="English">
+            Christ is risen from the dead, trampling down death by death and upon those in the tombs bestowing life.
+         </Language>
+         <Language id="Arabic">
+             المسيح قام من الأموات، بالموت داس الموت والذين في القبور أنعم لهم بالحياة الأبدية...
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/DoxaPatri"/>
+   </Section>
+</Document>

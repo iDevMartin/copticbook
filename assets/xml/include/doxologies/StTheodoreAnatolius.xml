@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StTheodoreAnatolius:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Prince Theodore Anatolius</Language>
+            <Language id="Arabic">ذوكصولوجية الشهيد الأمير تادرس المشرقي</Language>
+            <Language id="Coptic">Nyok oumoui~ efhelhem...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Theodorus:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyok oumoui~ efhelhem: qen y~m/] n~nipolemoc: e~jen ouh~yo efhemhem: Yeodwroc pia~natoleoc.
+            </Language>
+            <Language id="English">
+               You are the victorious lion, in the midst of the wars, upon the screaming horse, O Theodorus Anatolius.
+            </Language>
+            <Language id="Arabic">
+               أنت الأسد الغالب في وسط الحروب على صهيل الفرس ياثيؤدوروس المشرقي.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh aksan] m~pekq~rwou: sauhei n~je nibarbaroc: sauhei n~je nekjaji ethwou: e~te nai ne nidiaboloc.
+            </Language>
+            <Language id="English">
+               And when your voice came forth, the Barbarians fell, and your evil enemies, which are the devils feared.
+            </Language>
+            <Language id="Arabic">
+               إذا ما أعطيت صوتك تسقط البرابرة وتصرع أعداءك الأشرار الذين هم الشياطين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akqwteb m~pid~rakon: etcapec/t n~]mouki: akjwk e~bol m~peka~gwn: qen oucwouten n~atriki.
+            </Language>
+            <Language id="English">
+               You slaughtered the dragon, who was under the ladder, you completed your struggle, with unbending uprightness.
+            </Language>
+            <Language id="Arabic">
+               قتلت التنين الكائن تحت السلم وأكملت جهادك بغير ملل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ak[iwmc nak eybe V]: qen ]lumn/ n~,~rwm: al/ywc n~yok nem neks~v/r c~nau: Leontioc nem Panikaroc.
+            </Language>
+            <Language id="English">
+               You were truly baptized for the sake, of Christ in the lake of fire, with your two friends, Leontius and Panikarus.
+            </Language>
+            <Language id="Arabic">
+               غطست في بحيرة النار من أجل الله بالحقيقة أنت وصديقيك لاونديوس وبانيكاروس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai aftaio~ m~mok: n~je Dauid qen ouounof: je mour n~tekc/fi e~peka~loj: v/e~te ouon s~jom m~mof.
+            </Language>
+            <Language id="English">
+               Therefore David, joyfully honored you, saying "Gird your sword, upon your thigh O mighty one."
+            </Language>
+            <Language id="Arabic">
+               لأجل هذا كرمك داود بابتهاج تقلد بسيفك على فخذك أيها الجبار.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StTheodoreAnatolius"/>
+      </Section>
+   </Season>
+</Document>

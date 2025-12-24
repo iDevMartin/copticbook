@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="LazarusSaturday">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Nim gar qen ninou]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Lazarus Saturday:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Nim gar qen ninou]: eto~ni m~mok P[oic n~yok pe V] m~m/i: etiri n~hans~v/ri
+            </Language>
+            <Language id="English">
+               For who among the gods is likened unto You? You are the true God, which performs wonders.
+            </Language>
+            <Language id="Arabic">
+               من في الآلهه يشبهك يارب أنت هو الإله الحقيقي الصانع العجائب.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               K~c~marwout a~l/ywc: w~ Pa[oic I/couc nem pekiwt n~agayoc: nem pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               Blessed are You in truth, O my Lord Jesus, with Your Good Father and the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة ياربي يسوع مع أبيك الصالح والروح القدس.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

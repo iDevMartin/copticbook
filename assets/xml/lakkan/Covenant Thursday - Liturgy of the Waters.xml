@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" LiturgyOfTheWaters="true" PaschaLiturgyOfTheWaters="true" Pascha="true">
+   <!-- This is necessary so that the same Liturgy of the Waters document is not referenced twice from the menu system.  That causes the navigation menus to get out of whack. -->
+   <InsertDocument path="pascha/thursday/Liturgy of the Waters"/>
+</Document>

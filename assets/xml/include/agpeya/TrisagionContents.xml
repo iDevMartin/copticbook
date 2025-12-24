@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">Trisagion</Language>
+      <Language id="Arabic">الثلاث تقديسات</Language>
+      <Language id="Coptic">A~gioc o~ Yeoc...</Language>
+   </Title>
+
+   <InsertDocument path="include/trisagion/Born"/>
+   <InsertDocument path="include/trisagion/Crucified"/>
+   <InsertDocument path="include/trisagion/RisenAndAscended"/>      
+   <InsertDocument path="include/DoxaPatri"/>
+
+   <Text>
+      <Language id="Coptic">
+         Agia Triac e~le/~con /~mac: pana~gia Triac e~le/~con /~mac: }t~riac e#y#u# nai nan.
+      </Language>
+      <Language id="English">
+         O Holy Trinity, have mercy on us. O Holy Trinity, have mercy on us. O Holy Trinity, have mercy on us.
+      </Language>
+      <Language id="Arabic">
+          أيُّها الثّالوثُ القُدّوسُ ارْحَمْنا، أيُّها الثّالوثُ القُدّوسُ ارْحَمْنا، أيُّها الثّالوثُ القُدّوسُ ارْحَمْنا،
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Po#c# ,a nennobi nan e~bol: Po#c# ,a nena~nomia nan e~bol: Po#c# ,a nenparaptwma nan e~bol.
+      </Language>
+      <Language id="English">
+         O Lord, forgive us our sins. O Lord, forgive us our iniquities. O Lord, forgive us our trespasses.
+      </Language>
+      <Language id="Arabic">
+          يارَبُّ اغْفِرْ لَنا خَطايانا، يارَبُّ اغْفِرْ لَنا آثامَنا، يارَبُّ اغْفِرْ لَنا زَلاّتَنا.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Po#c# jemp~sini n~n/etswni n~te peklaoc: matal[wou eybe pekran e#y#u#: nenio] nem nenc~n/ou e~tauenkot Po#c# mam~ton n~nou'u,/.
+      </Language>
+      <Language id="English">
+         O Lord, visit the sick of Your people, heal them for the sake of Your holy name. Our fathers and brethren who have fallen asleep, O Lord, repose their souls.
+      </Language>
+      <Language id="Arabic">
+          يارَبُّ افْتَقدْ مَرْضَى شَعْبكَ. اشْفِهمْ مِنْ أجْل اسْمكَ القُدّوسِ. آباؤُنا وإخْوَتنا الَّذينَ رَقدوا يارَبُّ نَيِّحْ نُفوسَهُم.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Piaynobi Po#c# nai nan: piaynobi Po#c# a~ribo/~yin e~ron sep pen]ho e~rok
+      </Language>
+      <Language id="English">
+         O You who are without sin, Lord, have mercy on us. O You who are without sin, Lord, help us and receive our supplications.
+      </Language>
+      <Language id="Arabic">
+          يا مَنْ هُوَ بِلا خَطيَّة يارَبُّ ارْحَمْنا. يا الَّذي بِلا خَطيَّةِ يارَبُّ أَعِنّا واقْبَلْ طَلباتِنا إليكَ،
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Je vwk pe piw~ou nem pia~mahi nem pit~riac a~gioc: Kurie e~le/~con Kurie e~le/~con Kurie eulog/con  a~m/n.            
+      </Language>
+      <Language id="English">
+         For Yours is the glory, the dominion, and triple holiness. Lord have mercy. Lord have mercy. Lord bless us. Amen.
+      </Language>
+      <Language id="Arabic">
+          لأنَّ لَكَ المجْدَ والعِزَّةَ والتَّقْديسَ المثلَّثَ، يارَبُّ ارْحَمْ، يارَبُّ ارْحَمْ، يارَبُّ بارِكْ، آمين.
+      </Language>
+   </Text>   
+</Document>

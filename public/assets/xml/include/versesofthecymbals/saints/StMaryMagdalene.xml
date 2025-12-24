@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMaryMagdalene:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary Magdalene:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne w~ ]agia: Maria ]magdalin/: ,ere ]hiw~is: n~te ]anactacic.
+            </Language>
+            <Language id="English">
+               Hail to you O Saint, Mary Magdalene, the preacher of the Resurrection
+            </Language>
+            <Language id="Arabic">
+               السالم لك أيتها القديسة مريم المجدلية: السالم للمبشرة بالقيامة.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

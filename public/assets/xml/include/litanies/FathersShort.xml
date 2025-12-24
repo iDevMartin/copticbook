@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Fathers</Language>
+         <Language id="Arabic">أوشية البطريرك والأساقفة</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic m~penpatria,/c n~iwt ettai/out n~ar,iereuc papa abba (...): nem nefc~n/ou m~p~neumatikon: pipatriar,/c n~t~Antio~,ia~ Mar Ignatioc (...): nem pipatriar,/c n~Eritrea Apouna 
+            </Language>
+            <Language id="English">
+               Remember, O Lord, our honored patriarch and father, the archpriest, Pope Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...), and the Patriarch of Eritrea Abouna (...),
+            </Language>
+            <Language id="Arabic">
+               اذكر ياربُّ بطريركَنا الأب المكرم رئيسَ الكهنةِ البابا أنبا (...) وأخويه الروحيين مار إغناطيوس (...) بطريرك أنطاكيه وأبونا (...) بطريرك إريتريا،
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               If a bishop or metropolitan is present, he adds:
+            </Language>
+            <Language id="Arabic">
+               وفي وجود مطران أو أسقف يضيف:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               nem pefkes~v/r n~litourgoc peniwt n~e~pickopoc (m~m/tropolit/c) abba (...).
+            </Language>
+            <Language id="English">
+               and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (...).
+            </Language>
+            <Language id="Arabic">
+               وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا (...).
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/litanies/FathersDeacon"/>
+            
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KeepThemSecureForUs"/>
+      </Role>
+   </Section>
+   
+   <Section expanded="false">
+      <Title>
+         <Language id="English">Litany of the Departed Patriarch / Metropolitan / Bishop</Language>
+         <Language id="Arabic">أوشية الآباء</Language>
+      </Title>
+      
+      <InsertDocument path="include/litanies/DepartedFathersComment"/>
+      <InsertDocument path="include/litanies/DepartedFathersPriestIntro"/>      
+      <InsertDocument path="include/litanies/DepartedFathersDeacon"/>
+      <InsertDocument path="include/LordHaveMercy"/>
+      <InsertDocument path="include/litanies/DepartedFathersPriestContinuation"/>      
+      <InsertDocument path="include/litanies/DepartedFathersBishopPresent"/>      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KeepHimSecureForUs"/>
+      </Role>
+      
+   </Section>
+</Document>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="!Feasts ^ (FirstMondayOfGreatFast | LastFridayOfGreatFast | (GreatFast ^ Weekend))">
+      <Role id="People">         
+         <Comment>
+            <Language id="English">         
+               The hymn <span class="Coptic">Megalou</span> is chanted, followed by the hymn <span class="Coptic">Apen[oic</span>.  Note that if only the first verse in <span class="Coptic">Megalou</span> is chanted, it is completed as follows: <span class="Coptic">a~gioc ic,uroc: a~gioc a~yanatoc e~le~/con /~mac</span>.
+            </Language>
+         </Comment>
+            
+         <Section expanded="true">
+            <Title>               
+               <Language id="Coptic">Megalou</Language>
+            </Title>
+                        
+            <Text>
+               <Language id="Coptic">
+                  Megalou ar,ie~reuc ictouc e~w~nac a,ranton a~gioc o~ Yeoc: 
+               </Language>
+               <Language id="English">
+                  The great High Priest, undefiled for ever. Holy God.
+               </Language>
+               <Language id="Arabic">
+                  رئيس الكهنة الأعظم إلي الأبد الطاهر قدُّوس الله.  
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Kata t/n taxin tou Mel,icedek telioc a~gioc ic,uroc
+               </Language>
+               <Language id="English">
+                  According to the order of Melchizedek, perfect. Holy Mighty.
+               </Language>
+               <Language id="Arabic">
+                  على طقس ملكي صادق الكامل قدُّوس القوي.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  O~carkwyenta ek P~neumatoc a~giou ke a~giac Mariac t/c paryenou mega to muct/rion a~gioc a~yanatoc e~le~/con /~mac.
+               </Language>
+               <Language id="English">
+                  You became incarnate of the Holy Spirit and of the holy Virgin Mary. Great is the mystery. Holy Immortal, have mercy upon us.
+               </Language>
+               <Language id="Arabic">
+                  المتجسد من الروح القدس ومن العذراء مريم البتول بسِِرّ عظيم، قدُّوس الذي لا يموت ارحمنا.
+               </Language>         
+            </Text>
+         </Section>
+         
+         <Comment>
+            <Language id="English">         
+               Then the following hymn is chanted:
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">A~ Pen[oic</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  A~ Pen[oic I/couc Pi,~rictoc ern/cteuin e~h~r/i e~jwn n~h~me n~e~hoou nem h~me n~e~jwrh: sa n~tefcotten qen nennobi
+               </Language>
+               <Language id="English">
+                  Our Lord Jesus Christ, fasted for us forty days and forty nights in order to save us from our sins.
+               </Language>
+               <Language id="Arabic">
+                  ربنا يسوع المسيح: صام عنا أربعين يوماً وأربعين ليلة حتى خلصنا من خطايانا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  A~non hwn maren ern/cteuin: qen outoubo nem oumeym/i: ouoh n~tenerp~roceu,ecye: enws e~bol enjw m~moc
+               </Language>
+               <Language id="English">
+                  And we too, let us fast with purity and righteousness, and let  us pray, proclaiming and saying:
+               </Language>
+               <Language id="Arabic">
+                  ونحن أيضاً فلنصم بطهارة وبر . ونصلى صارخين قائلين:
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Aiernobi aiernobi pa[oic I/couc ,w n/i e~bol je m~mon bwk n~aternobi oude m~mon [oic n~at,w e~bol
+               </Language>
+               <Language id="English">
+                  “I have sinned, I have sinned. My Lord Jesus, forgive me; for there is no servant without sin, nor master without forgiveness.”
+               </Language>
+               <Language id="Arabic">
+                  أخطأت أخطأت ياربى يسوع المسيح اغفر لى لأنه ليس عبد بلا خطية ولا سيد بلا مغفرة.
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/OurFatherGreatFast"/>
+            
+            <Group>
+               <Season id="DisplayNonCustomaryPrayers">
+                  <Comment>
+                     <Language id="English">         
+                        The following two verses may be chanted:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Ouc~yoinoufi pe Maria: o~uc~yoinoufi etqen tecneji: ouc~yoinoufi acmici m~mof saf,anennobi nan ebol
+                     </Language>
+                     <Language id="English">
+                        Incense is Mary, incense which is in her womb, the incense Whom she bore, forgives us our sins.
+                     </Language>
+                     <Language id="Arabic">
+                        البخور هو مريم، البخور الذى فى بطنها ، البخور الذى ولدته كى يغفر لنا خطايانا .
+                     </Language>         
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Marenhwc nem niaggeloc enws e~bol enjw m~moc: je axiac axiac axiac Maria ]paryenoc.
+                     </Language>
+                     <Language id="English">
+                        Let us sing with the Angels crying out saying: worthy, worthy, worthy Mary the Virgin.
+                     </Language>
+                     <Language id="Arabic">
+                        فلنسبح مع الملائكة صارخين قائلين مستحقة مستحقة مستحقة يا مريم العذراء.
+                     </Language>         
+                  </Text>
+               </Season>
+            </Group>
+         </Section>
+      </Role>         
+   </Season>
+</Document>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Je qen pekouwini...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Joyous Saturday:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Je qen pekouwini P~[oic ene~nau e~ouwini: marefi~ n~je peknai n~n/etcwoun m~mok
+            </Language>
+            <Language id="English">
+               For by Your light : Lord we shall see light : may Your mercy come unto those who know you.
+            </Language>
+            <Language id="Arabic">
+               بنورك يارب تعاين نوراً ، فلتأت رحمتك للذين يعرفونك.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Piouwini n~te v~m/i: v/e~terouwini : e~rwmi niben: eyn/ou e~pikocmoc
+            </Language>
+            <Language id="English">
+               The True Light: who enlightens : every man : who comes into the world.
+            </Language>
+            <Language id="Arabic">
+               أيها النور الحقيقي الذي يضئ لكل إنسان آت إلى العالم.
+            </Language>         
+         </Text>
+      </Section>
+   </Season>
+</Document>

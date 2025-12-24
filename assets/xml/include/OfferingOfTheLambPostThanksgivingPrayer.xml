@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="CovenantThursday">
+         <Comment>
+            <Language id="English">         
+               The hymn <span class="Coptic">Cwyic am/n</span> is not chanted since salvation was completed on the Cross.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="People">
+            <Group>
+               <Season id="JonahFast | (GreatFast ^ Weekdays)">
+                  <Comment>
+                     <Language id="English">         
+                        After the Thanksgiving prayer, <span class="Coptic">Cwyic Am/n</span> is chanted in the quick tune, followed by <span class="Coptic">Nefcen]</span> and <span class="Coptic">Ciwn ]mau</span>
+                     </Language>
+                  </Comment>
+               </Season>
+               
+               <Season id="Other">
+                  <Comment>
+                     <Language id="English">
+                        After the Thanksgiving Prayer, the congregation chants the hymn <span class="Coptic">Cw</span>- followed by -<span class="Coptic">yic a~m/n</span> after the Absolution of the Servants.  
+                     </Language>
+                  </Comment>
+               </Season>
+            </Group>
+   
+            <Comment>
+               <Language id="English">       
+                  Or if the Pope, a metropolitan, or a bishop is present, <span class="Coptic">Nicabeu t/rou</span> is chanted followed by <span class="Coptic">Cwyic a~m/n</span>.
+               </Language>
+            </Comment>
+            
+            <Section>
+               <Title>                  
+                  <Language id="Coptic">Nicabeu</Language>
+               </Title>
+               
+               <Comment>
+                  <Language id="English">                  
+                     Contrary to some practices, this is not a joyous hymn. Although optional on feast days, it is, as indicated, chanted primarily in the presence of the Pope, a metropolitan, or a bishop, regardless of time of year.
+                  </Language>               
+               </Comment>
+               
+               <InsertDocument path="include/Nisavev"/>  
+            </Section>
+            
+            <InsertDocument path="include/SavedAmenMedium"/>
+         </Role>
+         
+         <Group>
+            <Season id="JonahFast | (GreatFast ^ Weekdays)">
+               <Role id="People">
+                  <InsertDocument path="include/Nefcenti"/>
+               </Role>
+               
+               <InsertDocument path="include/LetUsBow"/>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+</Document>

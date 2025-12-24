@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section>
+      <Title>
+         <Language id="English">Psalm Trailer for the Pope or a Bishop</Language>
+         <Language id="Coptic">Marou[acf qen t~ekk~l/cia...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The Trailer Psalm is chanted in the presence of the Pope or a bishop, after the psalm:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Marou[acf qen t~ekk~l/cia n~te peflaoc:
+         </Language>
+         <Language id="English">
+            Let them exalt Him in the church of His people, 
+         </Language>
+         <Language id="Arabic">
+            فليرفعوه في كنيسةِ شعبِه
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh marouc~mou e~rof hi t~kayedra n~te nip~recbuteroc:
+         </Language>
+         <Language id="English">
+            and praise Him in the seat of the elders
+         </Language>
+         <Language id="Arabic">
+            وليبارِكوه على منابرِ الشيوخ
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je af,w n~oumetiwt m~v~r/] n~h~ane~cwou:
+         </Language>
+         <Language id="English">
+            for He has made the family like a flock of sheep
+         </Language>
+         <Language id="Arabic">
+            لأنه جَعَلَ ابوة مثل الخراف
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eue~nau n~je n/etcoutwn ouoh eue~ounof.
+         </Language>
+         <Language id="English">
+            the upright shall see and rejoice
+         </Language>
+         <Language id="Arabic">
+            يُبْصِرُ المستقيمون ويفرحون
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Afwrk n~je P[oic ouoh n~nefouwm n~h~y/f:
+         </Language>
+         <Language id="English">     
+            The Lord has sworn and will have no regret,
+         </Language>
+         <Language id="Arabic">
+            أقسم الربُ ولن يندم، 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je n~yok pe v~ou/b sa e~neh kata t~taxic m~Mel,icedek:
+         </Language>
+         <Language id="English">
+            “You are a priest for ever, after the order of Melchizedek.” 
+         </Language>
+         <Language id="Arabic">
+            أنتَ هو الكاهن إلى الأبدِ على رتبة ملكيصادق.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            P[oic caouinam m~mok Peniwt eyouab m~patriar,/c papa abba (nim)
+         </Language>
+         <Language id="English">
+            The Lord is at your right hand, our saintly father, the patriarch, Pope Abba (…)
+         </Language>
+         <Language id="Arabic">
+            الرب عن يمينِك يا أبانا القديس البطريرك الأنبا (...)
+         </Language>
+      </Text>
+      
+      <Group>
+         <Season id="Enthronement">
+            <Text>
+               <Language id="Coptic">
+                  nem neniw] m~m/tropolit/c nem nie~pickopoc n/et,/ neman
+               </Language>
+               <Language id="English">
+                  and your partners in the Apostolic Liturgy, our fathers the metropolitans and the bishops assembled with us, 
+               </Language>
+               <Language id="Arabic">
+                  وشركائك في الخدمة الرسولية آبائنا المطارنة والأساقفة المجتمعين معنا
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic efe~a~reh e~petenwnq: AL
+               </Language>
+               <Language id="English">
+                  May the Lord keep your lives.
+               </Language>
+               <Language id="Arabic">
+                  الرب يحفظ حياتَّكم: آمين الليلويا
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <Text>
+               <Language id="Coptic">
+                  Nem peniwt n~e~pickopoc (mm/tropolt/c) abba (nim)
+               </Language>
+               <Language id="English">
+                  and our father the bishop (metropolitan), Abba (…). 
+               </Language>
+               <Language id="Arabic">
+                  وأبينا الأسقف (المطران) الأنبا (...) 
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic efe~a~reh e~tekmetwnq (e~petenwnq)
+               </Language>
+               <Language id="English">
+                  May the Lord keep your life (lives).
+               </Language>
+               <Language id="Arabic">
+                  الرب يحفظ حياتَّكما.
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+   </Section>
+</Document>

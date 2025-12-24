@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Matins Psalm</Language>
+      <Language id="Arabic">المزمور</Language>
+   </Title>
+   
+   <Group>
+      <InsertDocument path="readings/include/MatinsPsalm"/>
+   </Group>
+</Document>

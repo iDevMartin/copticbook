@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Resurrection ^ Matins">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Matins of the Resurrection By Hegomen Philotheous
+            </Language>
+            <Language id="Arabic">
+               باكر عيد القيامة المجيد من نظم القمص فيلوثاؤس
+            </Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Chanted after the Doxologies Of the Resurrection
+            </Language>
+            <Language id="Arabic">
+               تقال بعد ذكصولوجيات القيامة
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="melodies/include/MatinsResurrection_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               First Passage
+            </Language>
+            <Language id="Arabic">
+               القطعة الأولى
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Glory and majesty to God / 
+               Whose wisdom is above understanding / 
+               Whose graciousness and love shone upon us / 
+               And granted us the most precious grace
+            </Language>
+            <Language id="Arabic">
+               المجد والعظمة للإله / 
+               ذى الحكمة السامية عن الأفهام / 
+               من أشرق علينا فضله ورضاه / 
+               وخولنا أشرف الأنعام
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He guided us by warnings and His gifts / 
+               And healed us from all sickness / 
+               Bore suffering for us of His own will / 
+               To wipe out the handwriting of our sins
+            </Language>
+            <Language id="Arabic">
+               أرشدنا بإنذاره وهداه / 
+               وأبرأنا من أنواع الأسقام / 
+               وحمل عنا الآلام برضاه / 
+               ليمحو سطور سجل الآثام
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He tasted death in His humanity / 
+               To save us from the death of sins / 
+               He transfigured by His majestic divinity / 
+               To restore Adam, the ashamed patriarch[83]
+            </Language>
+            <Language id="Arabic">
+               وذاق الموت بناسوته / 
+               ليحيينا من موت الذنوب / 
+               وتجَلَّى بعزة لاهوته / 
+               ليـردَّ آدم الجـد المشجـوب
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               On the third day after  His Crucifixion / 
+               He arose with awesome glory / 
+               Adam rested in the land of the living / 
+               His descendants achieved the anticipated hope
+            </Language>
+            <Language id="Arabic">
+               وفي ثالث يوم لصلبوته / 
+               نهض قائماً بجلال مرهوب / 
+               وإستراح آدم في أرض حياته / 
+               وبنوه فازوا بالأمل المرغوب
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               When the criminal and murdering thief / 
+               Understood the hidden mystery / 
+               He contemplated with understanding / 
+               That the Crucified is the King of the universe
+            </Language>
+            <Language id="Arabic">
+               واللص القاتل المجرم / 
+               منذ تيقن السر المكنون / 
+               وتأمل ببصره وعلم / 
+               أن المصلوب هو ملك الكون
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He confessed Him openly with honor / 
+               And received the secured joy / 
+               He entered immediately into the place of joy / 
+               His grace exceeded the leaders of Zion
+            </Language>
+            <Language id="Arabic">
+               إعترف به جهاراً مع التكريم / 
+               فحظى بنوال نعيم مصون / 
+               وولج حالاً منفذ النعيم / 
+               وفاق فضله رؤساء صهيون
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsResurrection_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               Second Passage
+            </Language>
+            <Language id="Arabic">
+               القطعة الثانية
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               O come with joy and gladness / 
+               To visit the city of the father David / 
+               Go to the garden[84] with reverence / 
+               To witness an unexplainable deed
+            </Language>
+            <Language id="Arabic">
+               هلموا بتهليل وسرور / 
+               نزور مدينة الآب داود / 
+               ونمضى إلى البستان بحبور / 
+               لنشاهد عملاً غير معهود
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Women with spices and fragrance / 
+               At the tomb with immeasurable sadness / 
+               Imagining that Christ is entombed / 
+               Not understanding the promised mystery
+            </Language>
+            <Language id="Arabic">
+               نسوة معهن طيوب وعطور / 
+               للقبر بحزن غير محدود / 
+               متوهمات أن المسيح مقبور / 
+               ولـم يدريـن للسـر الموعـود
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               They glimpsed the illuminating angels / 
+               With extremely bright clothes / 
+               With vivid lights shinning / 
+               That their minds became confused
+            </Language>
+            <Language id="Arabic">
+               لمحن الملائكة تبرق / 
+               بلبوس فائقة اللمعان / 
+               بأنوار زهية تشرق / 
+               فصار عقلهن لذا حيران.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The tomb which was secured / 
+               And sealed by the leaders / 
+               The guards which were set / 
+               To watch the buried dead Man
+            </Language>
+            <Language id="Arabic">
+               والقبر الذي كان مغلق / 
+               مختوم من الرؤساء مصون / 
+               وترتب الحراس محقق / 
+               وهم للضريح حافظون
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The stone which was secured / 
+               Was removed as their eyes witnessed / 
+               The angels cry with loud voices, / 
+               “The Lord of hosts is risen now!”
+            </Language>
+            <Language id="Arabic">
+               والحجر الذي كان محكماً موضوع / 
+               قد فض وشاهدته العيون / 
+               والملائكة تنادى بصوت مسموع / 
+               قد قام الآن الرب المكنون
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The women were astonished while weeping / 
+               The daughters of Zion were confused / 
+               They did not understand Jesus’ mysteries / 
+               Nor His faithful promises
+            </Language>
+            <Language id="Arabic">
+               دهش النسوة بعجب ودموع / 
+               وتحيرت بنات صهيون / 
+               ولم يدركن أسرار يسوع / 
+               وصادق وعده المصون
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsResurrection_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               Third  Passage
+            </Language>
+            <Language id="Arabic">
+               القطعة الثالثة
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               What is the matter, O women? / 
+               Going while crying with depression / 
+               Carrying the spices with determination / 
+               To anoint Him in His fearful tomb
+            </Language>
+            <Language id="Arabic">
+               ما لَكُنَّ يا أيتها النسوة / 
+               ذاهباتٍ بنوحٍ وإكتئاب / 
+               حاملاتٍ طيبٍ بعزمٍ وقوة / 
+               ليمسَحْنَ قبَرهُ المهاب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Do you not understand His majesty / 
+               And His faithful unbroken promise / 
+               That He suffered to heal Eve / 
+               And her children from disasters
+            </Language>
+            <Language id="Arabic">
+               ألَمْ تدرين عزته القصوى / 
+               ووعدَه الصادق بلا إرتياب / 
+               أنه تألم لشفاء حوا / 
+               وبنيها وبناتها من الأوصاب
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He shall rise from the tomb with His power / 
+               On the third day with great glory / 
+               Through His Resurrection, goodness will come / 
+               And shame to the priests of Israel
+            </Language>
+            <Language id="Arabic">
+               وينهض من قبره بقدرة / 
+               في ثالث يوم بمجد جليل / 
+               وَتَعُمُّ بقيامته المسرة / 
+               وتَخزَى كهنةُ إسرائيل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               His mother the Virgin will rejoice / 
+               Her soul shall be filled with joy / 
+               The apostles shall announce the good news / 
+               And be confirmed in the Gospel’s wisdom
+            </Language>
+            <Language id="Arabic">
+               وتتهللُ أمُّهُ العذرا / 
+               ويمتلئُ فؤادُها بالتهليل / 
+               وتذيع الرسل البشرى / 
+               ويتأيدوا بحكمة الإنجيل
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Until when shall you soldiers stand? / 
+               Why are you astonished with great fear? / 
+               Can you restrain the Holy of Holies? / 
+               He who was buried is risen alive!
+            </Language>
+            <Language id="Arabic">
+               إلى متى وقوفكم يا حراس / 
+               ومالكم بالرعب داهشون / 
+               هل تضبطون قدسَ الأقداس / 
+               قد قام حياً من كان مدفون
+            </Language>
+         </Text>
+      
+         <InsertDocument path="melodies/include/MatinsResurrection_Refrain"/>
+      </Section>
+   </Season>
+</Document>

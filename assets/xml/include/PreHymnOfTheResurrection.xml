@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The icon of the Resurrection is prepared for the Resurrection procession, while the people chant the following hymns:
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">            
+         <Title>
+            <Language id="English">All the Choirs</Language>
+            <Language id="Coptic">Kata ni,oroc</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Kata ni,oroc e~]cwtem e~rwou: w~nim nai cumvwnia eyn/ou e~namasj.
+            </Language>
+            <Language id="English">
+               All the choirs that I hear, O what are these symphonies that are coming to my ears
+            </Language>
+            <Language id="Arabic">
+               كل الصفوف التي اسمعها ياللاتفاقات الآتية إلي أذني.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc aftwnf e~bol qen n/eymwout: n~swrp m~v~ouai n~te nicabbaton.
+            </Language>
+            <Language id="English">
+               Christ rose from the dead early on the first day of the week.
+            </Language>
+            <Language id="Arabic">
+               المسيح قام من بين الأموات باكر أحد السبوت. 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nimatoi m~per je meynouj: qa t~anactacic m~pencwt/r: qen pie~hoou n~te ]kuriak/.
+            </Language>
+            <Language id="English">
+               O soldiers lie not about the Resurrection of our Savior on the Lord’s Day.
+            </Language>
+            <Language id="Arabic">
+               أيها الجند لا تكذبوا نحو قيامة مخلصنا في يوم الأحد.
+            </Language>         
+         </Text>
+      </Section>
+      
+      <Group>
+         <Season id="Resurrection">
+            <Comment>
+               <Language id="English">
+                  The Hymn “All you heavenly orders” is chanted before the re-enactment of the Lord’s Resurrection takes place:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/AllYouHeavenlyOrders"/>
+   </Role>         
+</Document>

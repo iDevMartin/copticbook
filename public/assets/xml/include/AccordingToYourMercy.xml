@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Kata to e~leoc cou Kurie: ke m/ kata tac a~martiac /~mwn.
+         </Language>
+         <Language id="English">
+            According to Your mercy, O Lord, and not according to our sins.
+         </Language>
+         <Language id="Arabic">
+            كرحمتك يارب، ولا كخطايانا
+         </Language>         
+      </Text>      
+   </Role>
+</Document>

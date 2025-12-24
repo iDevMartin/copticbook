@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday (The Sixth Hour)</Language>
+         <Language id="Arabic">يوم الأربعاء (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~hoou m~Pf~tou (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 14:13-15:1</Language>
+               <Language id="Arabic">خروج 14: 13-15: 1</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Peje mwu~c/c de nahren pilaoc je jemno]: e~reteno~hi e~raten y/nou e~retennau e~pioujai pie~bolhiten P[oic: vai e~tefnaaif nwten m~voou:
+               </Language>
+               <Language id="English">
+                  Then Moses said to the people, "Be of good courage. Stand still and see the Lord's salvation which He will accomplish for you today.
+               </Language>
+               <Language id="Arabic">
+                  فقال موسى للشعب: تقووا قفوا وانظروا خلاص الرب يصنعه  لكم اليوم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/ gar etaretennau e~niremn~,/mi m~voou: n~netenouahteny/nou enau e~rwou sae~neh n~ouc/ou: P[oic v/et] e~jen y/nou n~ywten de ,arwten.
+               </Language>
+               <Language id="English">
+                  For the Egyptians whom you see today, you will never see again. The Lord will fight for you, and you shall hold your peace."
+               </Language>
+               <Language id="Arabic">
+                  فأنه كما رايتم المصريين اليوم لا تعودون ترونهم الى الابد؛ الرب يقاتل عنكم وانتم تصمتون
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje P[oic de m~Mwu~c/c je a~qok ekws e~p~swi haroi caji nem nens/ri m~p~Icra/l eue~kotou e~vahou:
+               </Language>
+               <Language id="English">
+                  Then the Lord said to Moses, "Why do you cry to Me? Tell the children of Israel to go forward.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لموسى  ما بالك تصرخ الى؟ قل لبنى اسرائيل ان يرجعوا الى الوراء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~tekw~li m~peksbwt n~tekcouten tekjij e~h~r/i e~jen v~iom n~tekvaqf: n~te nens/ri m~p~Icra/l se eqoun e~y~m/] m~viom kata petsouw~ou:
+               </Language>
+               <Language id="English">
+                  Now lift up your rod, and stretch out your hand over the sea and divide it; and let the children of Israel go on dry ground through the midst of the sea.
+               </Language>
+               <Language id="Arabic">
+                  وخذ عصاك ومد يدك على البحر وشقه فيدخل بنو اسرائيل فى وسط البحر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ic h/ppe a~nok ]na] ensot m~p~h/t m~Varaw~ nem niremn~,/mi n~cei~ e~qoun cavahou m~mwou: n~ta[iw~ou qen Varaw~ nem pefm/s t/rf ouoh n~h~r/i qen nefharma nem nefh~ywr.
+               </Language>
+               <Language id="English">
+                  I indeed will harden Pharaoh's heart and all the Egyptians, and they will go in after them. So I will be glorified in Pharaoh and over all his army, his chariots, and his horses.
+               </Language>
+               <Language id="Arabic">
+                  كما على اليابسة وها انا اقسى قلب فرعون والمصريين حتى يدخلوا وراءهم فاتمجد بفرعون وكل جيشه بمركباته وفرسانه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~cee~mi t/rou n~je niremn~,/mi je a~nok pe P[oic eie~[iw~ou qen Varaw~ nem nefharma nem nefh~ywr: 
+               </Language>
+               <Language id="English">
+                  Then the Egyptians will know I am the Lord, when I am glorified upon Pharaoh, his chariots, and his horses." 
+               </Language>
+               <Language id="Arabic">
+                  فيعلم كل المصريين أنى أنا هو الرب أتمجد بفرعون ومراكبه وفرسانه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aftwnf de n~je piaggeloc n~te P[oic efmosi hit~h/ n~]parembol/ n~te nens/ri m~p~Icra/l afmosi hivahou m~mwou: afouwteb de on n~je pic~tulloc n~[/pi etqajwou: 
+               </Language>
+               <Language id="English">
+                  Now the Angel of God who went before the camp of Israel moved and went behind them; and the pillar of cloud also went from before them and stood behind them.
+               </Language>
+               <Language id="Arabic">
+                  فقام ملاك الرب السائر أمام عسكر بنى اسرائيل وسار وراءهم. وأنتقل عمود السحاب من أمامهم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  afse e~qoun oute ]parembol/ n~te niremn~,/mi: nem oute ]parembol/ n~te p~Icra/l afohi e~ratf ouoh afswpi n~je ou,aki nem oug novoc: ouoh afcini n~je pie~jwrh ouoh mpoumojt nem noue~r/ou m~pie~jwrh t/rf.
+               </Language>
+               <Language id="English">
+                  So it came between the camp of the Egyptians and the camp of Israel, and the night passed; but there was such darkness and blackness, they did not come near one another all that night.
+               </Language>
+               <Language id="Arabic">
+                  ودخل مابين عسكر المصريين وعسكر اسرائيل ووقف فصار ظلاماً وضباباً. وعبر الليل. ولم يختلط (يقترب) أحد بعضهم بعضاً الليل كله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afcouten tefjij de n~je Mwu~c/c e~h~r/i e~jen v~iom: afi~ni n~je P[oic m~pie~jwrh t/rf n~ouyour/c efnast: aftsouie v~iom: e~afvwq n~je pimwou:
+               </Language>
+               <Language id="English">
+                  Then Moses stretched out his hand over the sea; and the Lord carried back the sea by a strong south wind all that night and made the sea dry ground. Thus the waters were divided.
+               </Language>
+               <Language id="Arabic">
+                  ومد موسى يده على البحر فجلب الرب ريحاً قبلية شرقية شديدة الليل كله فنشف البحر وإنشق الماء,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ause e~qoun n~je nens/ri m~PIcra/l e~y~m/] m~v~iom kata petsouw~ou: ouoh pimwou afsopnwou n~cobt caoui~nam nem caja[/ m~mwou: 
+               </Language>
+               <Language id="English">
+                  So the children of Israel went into the midst of the sea on the dry ground, and the waters were a wall to them on their right hand and on their left. 
+               </Language>
+               <Language id="Arabic">
+                  فدخل بنو اسرائيل في وسط البحر علي اليبس وصار الماء لهم سوراً عن يمينهم وعن يسارهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Au[oji n~je niremn~,/mi cavahou n~nens/ri m~p~Icra/l ouoh au[oji n~cwou n~je nih~ywr t/rou n~te Varaw~ nem nefharma nem n/ettal/oute~h~r/i e~jwou e~y~m/] m~v~iom.
+               </Language>
+               <Language id="English">
+                  Then the Egyptians pursued and went after them into the midst of the sea, all Pharaoh's horses, chariots, and horsemen.
+               </Language>
+               <Language id="Arabic">
+                  وتعقب المصريون بني اسرائيل ودخل وراءهم جميع خيل فرعون ومركباته إلي وسط البحر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acswpi de qen v~nau n~hana~tooui~: a~ P[oic joust e~jen ]parembol/ n~te niremn~,/mi qen pic~tulloc n~,~rwm nem ][/pi: afs~yorter n~]parembol/ n~te niremn~,/mi:
+               </Language>
+               <Language id="English">
+                  Now it came to pass, in the morning watch, the Lord looked down upon the army of the Egyptians through the pillar of fire and cloud; and He troubled the army of the Egyptians.
+               </Language>
+               <Language id="Arabic">
+                  وكان في هزيع الصبح أن الرب إطلع علي عسكر المصريين من عمود النار والغمام وازعج عسكر المصريين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afmour n~niauxwn n~nouharma afi~nimmwou e~qoun n~jonc: pejwou n~je niremn~,/mi je marenvwt qath/ m~PIcra/l: P[oic gar ] e~h~r/i e~jwou oube niremn~,/mi:
+               </Language>
+               <Language id="English">
+                  He bound the axles of their chariot wheels and caused them to proceed with difficulty; and the Egyptians said, "Let us flee from the face of Israel, for the Lord fights for them against the Egyptians."
+               </Language>
+               <Language id="Arabic">
+                  وربط بكر مركباتهم وسقاهم قسراً فقال المصريون فلنهرب من أمام اسرائيل لأن الرب يقاتل عنهم ضد المصريين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje P[oic de m~Mwu~c/c: je couten tekjij e~bole~h~r/i e~jen v~iom: n~te pimwou i~ e~pefma n~tefhwbc n~niremn~,/mi: e~h~r/i e~jen niharma nem n/ettal/out e~h~r/i e~jwou.
+               </Language>
+               <Language id="English">
+                  Then the Lord said to Moses, "Stretch out your hand over the sea so the waters may come back upon the Egyptians, on their chariots and the riders."
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لموسي: مد يدك علي البحر فيرجع الماء إلي مكانه, فيغطي المصريين. ومركباتهم وفرسانهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afcouten tef jij e~bol n~je Mwu~c/c e~h~r/i e~jen v~iom: apimwou i~ e~pefma p~kwt n~oue~hoou: niremn~,/mi de ausenwou qaratf m~pimwou:
+               </Language>
+               <Language id="English">
+                  So Moses stretched out his hand over the sea; and when the morning appeared, the sea returned to its full depth, while the Egyptians were trying to flee. 
+               </Language>
+               <Language id="Arabic">
+                  فمد موسي يده علي البحر فرجع الماء إلي مكانه عند إقبال النهار والمصريين هاربون تحت الماء, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic de afborber n~niremn~,/mi qen y~m/] m~viom:
+               </Language>
+               <Language id="English">
+                  But the Lord shook off the Egyptians in the midst of the sea.
+               </Language>
+               <Language id="Arabic">
+                  وغرق الرب المصريين في وسط البحر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afkotf n~je pimwou afhwbc n~niharma nem n/ettal/out eh~r/ie~jwou: nem ]jom t/rc n~te Varaw~: 
+               </Language>
+               <Language id="English">
+                  Then the waters returned and covered the chariots, the horsemen, and all of Pharaoh's army that came into the sea after them. 
+               </Language>
+               <Language id="Arabic">
+                  ورجع الماء وغطي المركبات والفرسان وكل قوات فرعون الداخلين وراءهم في البحر,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  nai e~tau[oji n~cwou e~q~r/i ev~iom: m~pefewjp n~je ouai ebol n~q/tou:
+               </Language>
+               <Language id="English">
+                  Not so much as one of them remained. But the children of Israel walked on dry ground in the midst of the sea.
+               </Language>
+               <Language id="Arabic">
+                  ولم يبق منهم أحد, وأما بنو اسرائيل فمشوا علي اليابسة في وسط البحر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nens/ri de m~PIcra/l naumosi hijen petwouw~ou qen y~m/] m~v~iom: pimwou de afswpi nwou n~cobt caoui~nam nem caja[/ m~mwou: P[oic afnohem m~PIcra/l qen pie~hoou e~tem~mau e~bolqen t~jij n~niremn~,/mi:
+               </Language>
+               <Language id="English">
+                  The waters were a wall to them on their right hand and on their left. So the Lord saved Israel that day from the hand of the Egyptians, 
+               </Language>
+               <Language id="Arabic">
+                  وصار الماء سوراً عن يمينهم وشمالهم فخلص الرب في ذلك اليوم اسرائيل من يد المصريين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afnau n~je p~Icra/l eniremn~,/mi eaumou qaten pic~votou mviom:
+               </Language>
+               <Language id="English">
+                  and Israel saw the Egyptians dead on the seashore.
+               </Language>
+               <Language id="Arabic">
+                  ونظر اسرائيل المصريين امواتاً علي شاطئ البحر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau e~]nis] n~jij e~tafaic n~je P[oic n~niremn~,/mi: aferho] n~je pilaoc qath/ m~P[oic: ouoh aunah] e~ Vnou] nem pefbwk Mwu~c/c.
+               </Language>
+               <Language id="English">
+                  Thus Israel saw the Lord's mighty hand and the things He did to the Egyptians; therefore, the people feared the Lord and believed God and His servant Moses.
+               </Language>
+               <Language id="Arabic">
+                  وشاهد اليد القوية العظيمة التي صنعها الرب بالمصريين فخاف الشعب الرب وأمنوا بالله وبعبده موسي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote afhwc n~je Mwu~c/c nem nens/ri m~PIcra/l e~taihwd/ m~Vnou] e~afjoc eyroujoc je marenhwc e~P[oic je qen ouw~ou gar af[iw~ou.
+               </Language>
+               <Language id="English">
+                  Now Moses and the children of Israel sang this song to God and spoke, saying: "Let us sing to the Lord, for He is greatly glorified.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ سبح موسي وبنو اسرائيل بهذه التسبحة لله قائلاً: ليقولوا فلنسبح الرب لأنه بالمجد قد تمجد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 23:7-14</Language>
+               <Language id="Arabic">سيراخ 23: 7-14</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cwtem pas/ri e~ouc~bw nterwi: ouoh v/eta~reh e~roc n~neftako: ouoh eue~jemc qen nefc~votou: 
+               </Language>
+               <Language id="English">
+                  My children, hear the teaching of my mouth, for he who keeps it will not be conquered.
+               </Language>
+               <Language id="Arabic">
+                  إسمع يا إبني تعليم فمي, من يحفظه لن يهلك, وسيوجد بشفتيه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pirefernobi de nem pirefcahoui~ nem pi[a~cih/t naerc~kandalizin n~q/tou:
+               </Language>
+               <Language id="English">
+                  A sinner will be overtaken by his lips, and a slanderer and arrogant man will be made to stumble by them.
+               </Language>
+               <Language id="Arabic">
+                  وأما الخاطئ والشتام والمتكبر فيشكون فيه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpertcabe rwk e~wrk: ouoh m~pert~cabok e~taoue~ v~ran m~v/e~youab. 
+               </Language>
+               <Language id="English">
+                  Do not accustom your mouth to vows, nor make a habit of using the name of the Holy One. 
+               </Language>
+               <Language id="Arabic">
+                  لا تعود فمك الحلف, ولا تألف تسمية القدوس, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] gar n~oubwk eusenf n~oum/s n~cop: n~nefere~bol e~as: 
+               </Language>
+               <Language id="English">
+                  For as a servant who is continually beaten will not lack bruises, 
+               </Language>
+               <Language id="Arabic">
+                  فإنه كما أن العبد الذي يحاسب مراراً كثيرة لا يفلت من العقاب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  vai pe m~v~r/] m~v/etwrk ettaouo m~piran n~oum/s n~cop: e~te n~nefs~toubo an e~nobi.
+               </Language>
+               <Language id="English">
+                  So also he who makes a vow and continually names the Holy One will never be cleansed from sin.
+               </Language>
+               <Language id="Arabic">
+                  كذلك من يحلف ويذكر الإسم (القدوس) مرات عديدة فلا يمكن أن يتبرر من الخطية,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ourwmi n~refa~sai n~wrk: f~namoh n~anomia: ouoh n~neoumactiggoc ,a pef/i: afsanouwm n~h~y/f pefnobi n~h/t sau,w naf e~bol: ouoh afsanobsf a~pefnobi erc~nau: 
+               </Language>
+               <Language id="English">
+                  A man who swears many oaths will be filled with lawlessness, and that plague will not depart from his house. If he offends, his sin will be on him, and if he overlooks it, he has sinned doubly. 
+               </Language>
+               <Language id="Arabic">
+                  الرجل الكثير الحلف يمتلئ إثماً ولا يبرح السوط بيته, فإذا ندم غفرت خطية قلبه وإن تغافل فخطيته مضاعفة 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh e~swp afsanwrk e~v~l/ou n~nefymaio: pef/i gar namoh n~themko.
+               </Language>
+               <Language id="English">
+                  If he swears in vain, he will not be declared righteous, for his house will be filled with trouble.
+               </Language>
+               <Language id="Arabic">
+                  وإن حلف باطلاً لا يتبرر وبيته يمتلئ نوائباً,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oucaji efjolh mvmou: n~noujemf qen ]k~l/ronomia n~Iakwb: nai gar t/rou nauei n~niremn~nou]: ouoh n~noujemou qen ninobi: 
+               </Language>
+               <Language id="English">
+                  There is a way of speaking comparable to death. May it not be found in the inheritance of Jacob; for all these things will be far from the godly, and they will not be involved in sins.
+               </Language>
+               <Language id="Arabic">
+                  كلام مشمول بالموت لا يوجد في ميراثك يا يعقوب أن هذه كلها تبتعد عن رجال الله, فلا يوجدون في الخطايا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpertcabe rwk e~c~bw echwou: je ouon caji n~nobi n~q/tou.
+               </Language>
+               <Language id="English">
+                  Do not accustom your mouth to lewd expressions, for this is sinful speech.
+               </Language>
+               <Language id="Arabic">
+                  لا تعلم فاك سوء الأدب, لأن كلام الخطية يوجد فيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ari v~meui~ m~pekiwt nem tekmau: e~,naywou] gar e~qoun qen y~m/] n~hannis]: m/pote n~tekerp~wbs m~poum~yo e~bol: n~tekercoj n~tektapc:
+               </Language>
+               <Language id="English">
+                  Remember your father and mother when you sit in council with great men, lest you forget yourself in their presence and by habit act foolishly.
+               </Language>
+               <Language id="Arabic">
+                  أذكر أباك وأمك, إذا اجتمعت بالعظماء لئلا تنساهما أمامهم وتصير جاهلاً,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ntek ere~piyumin e~ne m~pouj~vok: n~tek c~houer pie~hoou e~taumack.
+               </Language>
+               <Language id="English">
+                  Then you will wish you had never been born, and you will curse the day of your birth.
+               </Language>
+               <Language id="Arabic">
+                  فتود لو لم تولد وتلعن يوم ولادتك.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Memoirs of Job</Language>
+               <Language id="Arabic">ميمر أيوب الصديق</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  The Book of Job is read on Wednesday of the Holy Pascha since the pains of Job parallel the pains of Our LORD Jesus Christ. The Sixth Hour of Paschal Wednesday readings include the “Memoirs of Job” and consequently it is known as Job’s Wednesday. Furthermore, the Copts have a tradition, of bathing in water containing plants, which is known as “flourishing Job” (ra3-ra3 Ayoub), as a reminder of the pains of Job.
+               </Language>
+               <Language id="Arabic">
+                  يقرأ جزء من سفر أيوب الصديق في يوم الأربعاء من البصخة المقدسة لأن ألامه ترمز لألام السيد المسيح. ولأن قراءات الساعة السادسة من هذا اليوم تتضمن ميمر أيوب ، لذا سمى بأربعاء أيوب. ومن تقاليد الأقباط انهم كانوا يضعون نبات يسمى رعرع أيوب  (وهو عشب من فصيلة النعناع الأخضر) فى ماء الأستحمام تذكارآ لألام أيوب الصديق. 
+               </Language>
+            </Comment>
+         
+            <Comment>
+               <Language id="English">
+                  Biography of Job prior to tribulation: 
+               </Language>
+               <Language id="Arabic">
+                  بشري الملاك وشفاء ايوب:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="English">
+                  There was a man in the land of Uz, whose name was Job; and that man was blameless and upright, and one who feared God and shunned evil fasting and praying regularly and was full of mercy and compassion toward all of God’s creation.
+               </Language>
+               <Language id="Arabic">
+                  كان رجل في أرض عوص أسمه ايوب, وكان هذا الرجل عبداً مخلصاً لله مملوءأً بالإيمان, باراً تقياً صالحاً صديقاً, محباً لله بعيداً عن الأعمال الرديئة, مصلياً صائماً كاملاً مملوءاً رحمة وشفقة علي سائر الخليقة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job was remarkably wealthy in possessions and land. He had seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very large household of servants, and thus he was the greatest of all the people of the East.
+               </Language>
+               <Language id="Arabic">
+                  وكان ايوب غنياً جداً بالأموال والمقتنيات, فكان له سبعة آلاف من الغنم وثلاثة آلاف جمل وخمسمائة فدان بقر وخمسمائة أتان, وكان له عبيد وخدم كثيرون, فكان أعظم بني المشرق غني.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  His wife, the daughter of Joseph, was named Rahmah (‘Mercy’) and she was upright. She was notably beautiful having a pure soul and body like her husband, Job.  She conceived and gave birth to seven sons and three daughters, who were virtuous and were exceedingly loved by their parents and had tremendous love for each other. 
+               </Language>
+               <Language id="Arabic">
+                  وكرامة وكانت له زوجة صالحة تسمي رحمة إبنة يوسف, حسنة الوجه, طاهرة النفس والجسد مثل زوجها البار أيوب, وانجبت له سبعة بنين وثلاث بنات, وكانوا حساناً جداً ومحبوبين من والديهم ومحبين جداً بعضهم لبعض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job would gather the less fortunate, including the poor, widows, and orphans to eat at his table of his provisions.  (He was a fatherly guardian to the orphans, a generous caretaker of the widows and a great supporter for the impoverished.)
+               </Language>
+               <Language id="Arabic">
+                  كان أيوب يجمع الفقراء والمساكين والأرامل كالزوج  الكريم ولسائر المساكين المعين العظيم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  While they ate of his offerings, he would speak to those at his table, “Eat and drink my brethren from what God has provided and give thanks unto Him.” He would clothe the naked, pay the debts of the debtors and comfort the sorrows of those in suffering.
+               </Language>
+               <Language id="Arabic">
+                  وكان يقول لمن يأكلوا علي مائدته: كلوا وإشربوا يا إخوتي مما رزقكم  الله وأشكروه, كما كان يكسو العريان ويسدد ديون المديونين ويسعف المتضايقين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  This blameless man would keep vigil for himself reflecting on the Judgment Day and contemplating the day in which God will reward everyone according to his deeds.  
+               </Language>
+               <Language id="Arabic">
+                  ويواسي المحزونين والمتألمين وكان هذا الصديق  ساهراً علي نفسه يذكرها دائماً بالدينونة الآتية وحساب يوم القيامة العظيم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He would teach and minister and serve mankind cautioning them of the suffering the sinners would endure in Hades while reminding the righteous of the Paradise for their good deeds.
+               </Language>
+               <Language id="Arabic">
+                  وكان يعظ ويعلم من يأتي إليه ويذكره بعذاب الخطاة بالنار الحامية في الجحيم, وما يصل إليه الأبرار من النعيم المقيم ويجعل الناس يزهدون في أمور هذه الدنيا الفانية لكونها مائلة إلي الزوال.
+               </Language>
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  The devastation of sheep and sheepherders: 
+               </Language>
+               <Language id="Arabic">
+                  حرق الغنم والرعاة:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Satan, the enemy of good, saw Job joyful and benevolent towards the forsaken and the poor. When Satan failed to separate him from his love of God and the people, he became extremely angry and sought a chance to make him fall.
+               </Language>
+               <Language id="Arabic">
+                  اما الشيطان عدو كل بر فلما رأي أيوب وما فيه من نعمة. وما يفعله من الصدقات والحسنات مع الفقراء والمساكين والمحتاجين, وعجز ان يطغيه أو يميله عن محبة الله والناس  أو يزرع في قلبه غشاً أو مكراً أو شيئاً مما يغضب الله,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Now there was a day when the sons of God came to present themselves before the LORD and Satan also came among them.  And the LORD said to Satan, “From where do you come?” So Satan answered the LORD and said, “From going to and fro on the earth, and from walking back and forth on it.”
+               </Language>
+               <Language id="Arabic">
+                  غضب إبليس جداً وظل يتحبن الفرصة للإيقاع به. وذات يوم جاءت الملائكة ليمثلوا امام الله وجاء الشيطان في وسطهم, فقال له الله: من أين جئت أيها الشيطان؟! قال الشيطان: من الجولان في الأرض ومن التمشي فيها 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the LORD said to Satan, “Have you considered My servant Job, that there is none like him on the earth, a blameless and upright man, one who fears God and shuns evil?”
+               </Language>
+               <Language id="Arabic">
+                  قال الله: هل جعلت قلبك علي عبدي أيوب لأنه ليس مثله في الأرض؟ رجل كامل ومستثيم يتقي الله ويحيد عن الشر؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So Satan answered the LORD and said, “Does Job fear God for nothing? Have You not made a hedge around him, around his household, and around all that he has on every side? And I ask You to give me permission to destroy everything he has and he will surely forget Your name and curse You to Your face!”
+               </Language>
+               <Language id="Arabic">
+                  أجاب الشيطان: هل مجاناً يتقي ايوب الله, أليس لأنك سيجت حوله وحول بيته وكل ماله وباركت اعمال يديه ولكن اسألك أن تسلطني علي كل ما له فأبدده فإنه ينسي إسمك ويعصاك ويجدف في وجهك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And the LORD said to Satan, “Behold, all that he has is in your power; only do not lay a hand on his person.” Satan went out from the presence of the LORD rejoicing and gathered all his evil armies and told them, “I have gathered you today to help me conquer Job unless he overcomes us.”
+               </Language>
+               <Language id="Arabic">
+                  قال الله: هوذا كل ماله في يدك وإنما إليه لا تمد يدك.هبط إبليس فرحاً وجمع كل جنوده وقال لهم: جمعتكم اليوم لتعينوني علي أيوب لئلا يغلبنا قال جنوده: مرنا  يا سيدنا بما تريد ونحن نعمله بأقصي سرعة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                    His armies said, “Order us O Master what you desire and we will perform it at once.” And Satan said, “Go to the sheep and sheepherders and burn them with fire.  And I will go to Job during his prayers and inform him of this disaster.”
+               </Language>
+               <Language id="Arabic">
+                  قال إبليس: إذهبوا الآن إلي أغنام أيوب ورعاتها وأحرقوهم بالنار وأنا اذهب غليه وقت صلاته واخبره بذلك. ذهب الشياطين المردة إلي الأغنام ورعاتها ونفخوا عليهم ناراً مشتعلة أحرقت سائر الأغنام والرعاة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So the devils went to them and a fire fell from heaven and burned up the sheep and sheepherders and consumed them. Satan, in the guise of a chief sheepherder, went to Job and found him praying and told him, “O Master Job, you are praying but God has sent a fire to burn all the sheep with the sheepherders and I alone have escaped to tell you!”
+               </Language>
+               <Language id="Arabic">
+                  ثم تمثل إبليس برئيس الرعاة وأتي إلي أيوب فوجده قائماً يصلي فقال له: يا سيدي ايوب أنت قائم تصلي وقد أرسل الله ناراً أحرقت سائر أغنامك مع رعاتها ونجوت انا وحدي فجئت لاخبرك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job did not mind Satan until he finished his worship and prayers before God and raised his eyes to heaven and said, “I thank You God for the sheep You have given me; for what you take is eternally Your possession. I ask You God for it to be an acceptable sacrifice.”
+               </Language>
+               <Language id="Arabic">
+                  فلم يلتفت أيوب إلي كلامه حتي فرغ من صلاته وسجد لله ثم رفع عينيه إلي السماء وقال: أشكرك يا رب لأنك وهبتني هذه الأغنام ثم أخذتها مني, أسألك أن تجعلها عندك كقربان ذكي خالص.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  The devastation of oxen, camels, and donkeys: 
+               </Language>
+               <Language id="Arabic">
+                  هلاك البقر والجمال والحمير:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Having been defeated, the devil departed from Job and called his evil armies to destroy Job’s oxen, camels, and donkeys along with the herdsmen. And so the evil armies did what was commanded of them.  Again the devil appeared to Job in an image of a shepherd and found him praying. 
+               </Language>
+               <Language id="Arabic">
+                  خرج إبليس من عند أيوب خائباً ونادي جنوده وأمرهم أن يبيدوا البقر والجمال والحمير التي يملكها أيوب مع رعاتها ففعل الشياطين ذلك. وذهب إبليس لأيوب في زي راعي فوجده يصلي, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He said to him, “I would like you to know that a large army came and burned all your oxen, camels, and donkeys.” Job did not pay any attention to these words until he finished his worship and prayers to God and said, “I thank You Lord for every condition; for You give and You take away.  May Your name be glorified.”  And the devil left humiliated.
+               </Language>
+               <Language id="Arabic">
+                  وقال له: إعلم يا سيدي ان جيشاً عظيماً اقبل وأحرق كل بقرك وجمالك وحميرك. فلم يلتفت إليه ايوب ولما فرغ من صلاته سجد لله وقال: أشكرك يا رب علي كل حال, أنت أعطيت وأنت أخذت, فليكن إسمك ممجداً. فخرج إبليس مخزياً.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  The burned servants: 
+               </Language>
+               <Language id="Arabic">
+                  حرق العبيد:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Once again, the devil called his armies and said, “Destroy the servants and slaves of Job and spare none.”  And they did as their Master commanded.  He then went to Job and informed him that a fire came from heaven and burned all his servants and slaves.  But again, Job thanked God and beseeched God’s help and the devil departed in disgrace.
+               </Language>
+               <Language id="Arabic">
+                  نادي إبليس جنوده وقال لهم: إهلكوا عبيد أيوب وإمائه ولا تبقوا منهم أحداً  ففعلوا كما أمرهم سيدهم وذهب هو إلي أيوب وأخبره أن ناراً نزلت من السماء وأحرقت كل عبيده وإمائه. فشكر ايوب الرب وطلب منه المعونة فخرج إبليس حزيناً.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  The loss of his children: 
+               </Language>
+               <Language id="Arabic">
+                  هلاك أولاده:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Satan became infuriated with Job and gathered his evil armies and ordered, “Go to Job’s sons and daughters that are gathered for the feast in the oldest brother’s house and demolish the house on them.” They did as their Master ordered.  
+               </Language>
+               <Language id="Arabic">
+                  إشتد حنق الشيطان علي أيوب, فجمع جنوده وأمرهم أن يذهبوا بسرعة إلي أولاد أيوب وبناته المجتمعين في بيت أخيهم الأكبر يعيدون عنده ويهدموا عليهم البيت ففعلوا كما أمرهم سيدهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Yet again the devil went to Job and said to him, “A great wind came unto the house and destroyed it upon your sons and daughters and they died.”  But Job was not shaken and said, “The LORD gave, and the LORD has taken away; blessed be the name of the LORD.”  The devil became anguished and departed in shame because he could not shake Job’s faith despite the tribulations and afflictions.
+               </Language>
+               <Language id="Arabic">
+                  ففرح إبليس وذهب إلي أيوب وقال: إن ريحاً عاصفة هبت علي البيت وهدمته علي أولادك وبناتك فماتوا أجمعين فلم يتزعزع أيوب وقال: الرب أعطي والرب أخذ فليكن إسم الرب مباركاً فحزن الشيطان اللعين وخرج مخزياً لأنه لم يستطع أن يزعزع إيمان أيوب رغم كل هذه التجارب والأحزان التي جلبها عليه.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Satan and Job’s wife: 
+               </Language>
+               <Language id="Arabic">
+                  الشيطان وزوجة ايوب:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Now Satan planned to make Job fall using his wife, Rahmah, like Adam fell through Eve.  Satan came unto Rahmah and made her resentful as he reminded her of the loss of wealth and riches and her children that died.  
+               </Language>
+               <Language id="Arabic">
+                  فكر الشيطان أن يسقط ايوب عن طريق زوجته رحمة كما اسقط آدم عن طريق زوجته حواء , فجاء الشيطان إلي رحمة وذكرها بالغني الذي ضاع وبالأولاد الذين ماتوا فحزنت جداً ولوقتها جاءت 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  She went to Job and said to him, “Do you still hold fast to your integrity? And what are you waiting for after you lost all the wealth and children?”
+               </Language>
+               <Language id="Arabic">
+                  إلي ايوب وقالت له: لماذا أنت متمسك بعد بكمالك؟ وماذا ترجو بعد فقد المال والأولاد؟! 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job sensed that Satan affected her, so he rebuked her saying, “You speak as one of the foolish women speaks. Shall we indeed accept good from God, and shall we not accept adversity? My dear Rahmah, don’t be fooled by this world for it is in vain and passing away but Heaven is eternal.”  Rahmah was comforted by the wisdom of his words; so Satan fled in displeasure knowing his scheme was ineffective.
+               </Language>
+               <Language id="Arabic">
+                  فحزن أيوب عندما أحس أن الشيطان هو الذي وسوس لها وأثر عليها فقال لها: لماذا تتكلمين كلاماً كإحدي الجاهلات. هل الخير من عند الله نقبل والشر لا نقبل؟! يا رحمة لا تتذكري شيئاً من أمور هذه الدنيا فإنها فانية اما الآخرة فهي الباقية فتعزت رحمة وهذأت. ولما رأي الشيطان أن فخه قد إنكسر ولي هارباً خائباً.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Satan’s complaints: 
+               </Language>
+               <Language id="Arabic">
+                  الشيطان يشتكي:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  And the LORD said unto Satan, “Have you seen the patience and righteousness of my servant Job and his endurance and thanksgiving after you abolished all his wealth, servants, and even his dear children?”  
+               </Language>
+               <Language id="Arabic">
+                  طار  الشيطان إلي السماء فقال له الرب: هل رأيت صبر وتقوي عبدي أيوب؟ كيف يحتمل ويشكر بعد أن اهلكت أنت كل ماله وعبيده حتي أولاده الأعزاء؟! 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And Satan said, “Job knows You are testing him and You will reward him twice for all his loss but give me permission to bring a trial on his body and he will surely curse You to Your face!” And the LORD said, “I give you authority but spare his soul and intellect”
+               </Language>
+               <Language id="Arabic">
+                  فقال الشيطان: إن أيوب يعرف أنك تمتحنه وستضاعف له كل ما خسره ولكن سلطني علي جسده فإنه في وجهك يجدف قال له الله: ها قد سلطتك علي جسده ولكن إلي نفسه وعقله لا تقترب.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  The illness of Job: 
+               </Language>
+               <Language id="Arabic">
+                  مرض أيوب:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Thus, Satan went to Job and breathed a molten air onto him that altered his body forming painful boils, which grew as his flesh separated from the bones. Within ten days he became unbearable as maggots slithered from his flesh.  
+               </Language>
+               <Language id="Arabic">
+                  نزل الشيطان بسرعة ونفخ في أيوب فسرت النفخة في جسده كله كالنار, فتغير جسمه واحمر كالدم ثم ظهرت فيه نقط كالجدري وظلت تكبر وتتقيح وصار لحمه يتساقط وفي ظرف عشرة أيام اصبح كالخيال وتناثر الدود من جسده 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When Rahmah saw her husband in his horrific state, she bemoaned and wept bitterly. Job assured her saying, “Do not weep for God has remembered me with His grace and do not be sad for my endurance, since this illness is a great reward before God.”  
+               </Language>
+               <Language id="Arabic">
+                  ولما رأت رحمة زوجها في هذه الحالة التعسة حزنت وبكت بكاءً مراً وكان ايوب يعزيها قائلاً: لا تبكي فقد إفتقدني ربي بالنعمة ولا تحزني لأن إحتماله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When Rahmah heard Job’s words, she was consoled and wiped her tears. She carried her husband departing from the city and had him sit on ashes as he instructed. When she saw his longsuffering and thanksgiving, she too became patient and offered thanksgiving.
+               </Language>
+               <Language id="Arabic">
+                  تعزت ومسحت دموعها وحملت زوجها المبتلي وخرجت المدينة وجعلت تحته رماداً كما قال لها, ولما رأت صبره وشكره حصل عندها هي أيضاً شئ من الصبر وشكرت الله.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Job can not find crumbs of bread: 
+               </Language>
+               <Language id="Arabic">
+                  أيوب لا يجد فتات الخبز:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  When Rahmah looked upon Job, she knew he was hungry. As he looked to her, knowing she did not have any food, he said to her, “Rahmah, go into the city and ask them for anything to eat.” On her way, having left Job at the outskirts of the city, Satan met her in the semblance of a physician and gave her medicine for Job. When she returned cheerful, Job knew this was an evil trap and didn’t accept it, leaving him starved and without food.
+               </Language>
+               <Language id="Arabic">
+                  نظرت رحمة إلي أيوب فعرفت أنه جوعان وصابر علي جوعه وبلواه, ونظر هو إلي زوجته رحمة وليس معها شئ يطلبه منها, فقال لها: يا رحمة قومي وأدخلي هذه البلدة وأطلبي منهم أن يعطوك شيئأ نقتات به فقامت لتدخل البلد بعد أن تركت أيوب خارجها وفي الطريق قابلها الشيطان في هيئة طبيب ووصف لها دواء لشفاء أيوب فرجعت فرحة وأخبرت زوجها, ولكن ايوب عرف أنها حيلة شيطانية فلم يقبلها وظل جائعاً بغير طعام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When Satan saw Job’s patience increase and his thanksgiving grow, he was despondent and gathered his devils once again.  And they told him, “Go to Job’s friends and deceive them so they can deceive Job.”
+               </Language>
+               <Language id="Arabic">
+                  ولما راي الشيطان صبر أيوب يعظم وشكره لربه يزداد حزن جداً وجمع شياطينه وإستشارهم في الأمر فقالوا له: إمض إلي أصحاب ايوب لتخدعهم ليمضوا هم ويخدعوه.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Miserable comforters are you all: 
+               </Language>
+               <Language id="Arabic">
+                  بشري الملاك وشفاء ايوب:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Satan appeared to Job’s friends and said to them, “Have you not heard what happened to your friend Job regarding his calamity and he has become poor and hungry and almost died.  And now he is on the road begging and his body is seeping maggots and oozing pus.  
+               </Language>
+               <Language id="Arabic">
+                  ترأي الشيطان لاصحاب أيوب وقال لهم: أما علمتم ما أصاب صديقكم أيوب من بلاء وقد إفتقر وجاع وأشرف علي الموت وهو يقيم الآن علي قارعة الطريق يتسول وقد ذاب جسمه وسال منه الصديد وإعتره الدود, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Go and take food and water and visit him and help him eat and drink without praising God’s name and advise him not to oppose Satan’s will for he can neither defeat nor stand against Satan’s battle.  And he should refrain his thanksgiving for God so the devil can end his warfare.”  
+               </Language>
+               <Language id="Arabic">
+                  قوموا وخذوا له طعاماً وشراباً وزوروه وإعملوا أن يأكل ويشرب منها دون أن يذكر إسم الله وإنصحوه ألا يتصدي لمحاربة الشيطان, لانه لا قدرة له علي حربه, إدعوه لينزل قليلاً عن شكره لربه لعل إبليس يقلل من حربه فيبرأ من بلواه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And Job’s friends, Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite arose quickly, along with the younger Elihu the son of Barachel to inquire about Job.  They took with them the best foods and drinks.  
+               </Language>
+               <Language id="Arabic">
+                  فقام أصحاب أيوب بسرعة, أليفاز التيمتني وبلدد الشوحي وصوفر النعماني ومعهم شاب آخر يدعي أليهو بن برخئيل البوزي, وحملوا معهم أطيب الأطعمه والأشربة ,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When they arrived, they saw Job in a dire state, sitting on ashes and they saw Rahmah wearing old rags begging for food.  Job’s friends wept for Job’s immense grief.   They began to sneer and remind him of his wealth, his children and his glory. Their words were full of blame and reproach as they spoke about his tragedy.  
+               </Language>
+               <Language id="Arabic">
+                  فلما وصلوا وجدوا أيوب في أسوأ حال جالساً علي تل رماد وعليه قطعة مسح شعر ونظروا رحمة زوجته تلبس ثوباً قديماً رثاً وهي تطلب صدقة من السائرين في الطريق فبكي اصحاب أيوب لانهم رأوا أن كآبته عظيمة جداً, ثم بدأوا يتحدثون معه ويذكرونه بغناه وأولاده ومجده وما وصل إليه من أسوأ الأحوال ولم يخل كلامهم من اللوم والتوبيخ,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job rebuked them saying, “Miserable comforters are you all! Carry your food and drink and depart for I will not consume any of it because I know Satan deceived you to say these words and he sent you to deceive me.  Depart from me and ask God for forgiveness.” And Job the righteous overcame Satan’s failed plot.
+               </Language>
+               <Language id="Arabic">
+                  فتضايق أيوب من كلامهم وقال لهم: معزون متعبون كلكم, إحملوا طعامكم وشرابكم وإنصرفوا لأنني لن أذوق منها شيئاً بعد أن عرفت أن الشيطان هو الذي خدعكم لتقولوا هذا الكلام وأرسلكم لتخدعوني وتضلوني, إذهبوا عني وأطلبوا إلي الله لكي يغفر لكم ما تفوهتم به.فإنكسر فخ الشيطان ونجا أيوب من النار.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Satan does not cease warfare: 
+               </Language>
+               <Language id="Arabic">
+                  الشيطان لا يكف عن الحرب:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  Satan saw Job’s and Rahmah’s patience and endurance in their poverty; for she would go into the city to beg for food and saw the people were merciful and provided all her needs. 
+               </Language>
+               <Language id="Arabic">
+                  لما رأي الشيطان صبر أيوب وإحتمال زوجته رحمة علي الفقر والمذلة وأنها كانت تدخل المدينة وتتصدق منها من الخبز لها ولزوجها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Satan went into the city in the guise of a sage and warned the people, “Do not allow Rahmah to enter your houses! She wipes her husband’s sores with her hands; she is contagious and will infect your families. Refuse her and do not give her any provisions.”
+               </Language>
+               <Language id="Arabic">
+                  ورأي أن الناس يشفقون عليها ويعطونها ما تريد غضب ودخل إلي المدينة في شكل شيخ وقور, وأخذ يقول للناس: لا تسمحوا لرحمة التي تأتي إليكم أن تدخل بيوتكم لئلا تعديكم وتسبب لكم ولأولادكم الأمراض والقروح فهي كل يوم تمسح صديد أيوب بيديها ثم تأتي إليكم أطردوها ولا تعطوها صدقة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The people believed his words and when she returned again, they refused her and did not give her anything.  She departed weeping to Job and informed him of the incident.
+               </Language>
+               <Language id="Arabic">
+                  فصدق الناس كلامه وعندما أتت طردوها ولم يعطوها شيئاً فرجعت إلي أيوب باكية وقصت عليه ما حدث,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He raised his eyes up to Heaven and prayed and offered thanksgiving and comforted his wife, Rahmah, from all the oppressions and rejections.  He directed her to enter another town so she may find grace in the eyes of the people in the new city.
+               </Language>
+               <Language id="Arabic">
+                  فرفع أيوب عينيه نحو السماء وصلي وشكر وعزي زوجته رحمة عماً اصابها من إهانة وأمرها أن تحمله إلي بلد آخر لعلهما يجدا نعمة في عيون أهله.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  The loyalty of Rahmah: 
+               </Language>
+               <Language id="Arabic">
+                  وفاء رحمة:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  As she carried her husband, pus would pour from his open sores onto her. Job apologized for the stench and she answered him, 
+               </Language>
+               <Language id="Arabic">
+                  حملت رحمة زوجها أيوب المبتلي وكان الصديد عليها من قروحه, ولما كان أيوب يعتذر لها عن صديده ورائحته الكريهة كانت تجيبه: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  “God knows, my master Job, that your smell to me is more pleasant than all the perfumes and fragrances.  Please do not be sorrowful or worry about me, for I am patient with you until the end.”
+               </Language>
+               <Language id="Arabic">
+                  الله يعلم يا سيدي أيوب أن رائحتك عندي أطيب من سائر الروائح والعطور الذكية, وأني صابرة معك إلي النهاية فلا تحزن ولا تحمل همي
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So he praised her that God would reward her with good blessings. And on her way to the new city, as she left him on the outskirts, she prayed that God would give her grace in the eyes of the people.  
+               </Language>
+               <Language id="Arabic">
+                  فكان يدعو لها بأن يكافأها الله خيراً عوض كل تعبها معه. ولما وصلت إلي أحدي القري انزلته خارج القرية وصلت إلي الله ان يعطيها نعمة في عيون أهل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  She entered the city and said to the women, “I am willing to do anything so you may give me crumbs that my sick husband and I may eat.” When the women asked her name, her origin, and her story, she shared with them everything while weeping.  So they wept with her and shared her grief and gave her food.  
+               </Language>
+               <Language id="Arabic">
+                  القرية ثم دخلت القرية وقالت للنساء: أنا مستعدة أن أعمل أي عمل مقابل قليل من الخبز آكله أنا وزوجي أيوب المبتلي. ولما سألتها النساء عن إسمها وبلدها وقصتها كاملة, حكت لهن كل شئ وهي تبكي. فبكين معها ورثين لحالها وأعطينها حاجتها هي وزوجها المريض من الخبز
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When Satan saw this, he entered the city in the facade of a physician and warned the people about Rahmah and told them if they accept her, they will become ill because she cleanses the sores of her poor husband. They believed him and when she returned they rejected her and did not give her anything. She left discouraged and on her way to her husband, Satan met her in the guise of a sage.  
+               </Language>
+               <Language id="Arabic">
+                  ولما رأي الشيطان ذلك دخل القرية في شكل طبيب., وحذر أهل القرية من رحمة إذا قبلوها فستجلب لهم العدوي بالجذام لأنها كل يوم تنظف قروح زوجها المبتلي, فصدقوا كلامه وصرخوا في وجهها أن تخرج من قريتهم ولم يعطوها شيئاً, فخرجت وهي حزينة, وفي الطريق قابلها الشيطان في شكل شيخ كبير محنك
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He advised her to expel her sick husband and marry another man who is rich so that God may give her children and assure her a comfortable life.  Satan brought out a book and began to read, “Job has been ill for seven years and has a remaining fourteen years in order to complete twenty one years of sickness.”  Satan urged her to dismiss him and not feel guilty because she did more than was expected.
+               </Language>
+               <Language id="Arabic">
+                  وأخذ ينصحها بأن تترك زوجها المريض وتتزوج بآخر غني ويرزقها الله منه الأولاد وتعيش مستريحة وأخرج الشيطان المتشبه بالإنسان كتاباً وأخذ يقرأ منه: إن أيوب إبتلي بهذا المرض منذ سبع سنين وباقي له في هذا البلاء أربعة عشر سنة لكمال إحدي وعشرين سنة ونصحها بأن ترميه وتتركه ولا ذنب عليها لأنها عملت معه أكثر من اللازم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Rahmah believed Satan’s (guise of a sage) words and she went to Job and began yelling, “God made you poor and killed your children and gave you this difficult sickness!  Why then do you give thanks and pray to Him? For a wise man advised me saying, ‘your husband Job cannot stand before the devil’s warfare. Go and tell him to stop worshipping God and stop offering thanksgiving so the devil may reconcile with him and he may be cured of his illness.’”  
+               </Language>
+               <Language id="Arabic">
+                  صدقت رحمة كلام الشطان المتشبه بالإنسان فجاءت إلي أيوب وبدات تصرخ في وجهه قائلة: الويل لنا يا أيوب لقد أفقرك الله وأمات أولادك وأبلاك بهذا البلاء الصعب فلماذا تشكره وتصلي له لقد أشار علي إنسان حكيم وقال إن زوجك أيوب ليس له مقدرة علي محارية إبليس, قولي له أن يترك عبادة الله وشكره لعل إبليس يصطلح معه ويشفي من مرضه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The righteous Job listened in silence to his wife’s words and told her, “O woman who was deceived. What are these words you are speaking? For Satan is the one that told you all of this. Rahmah, do you not fear God? Our lives, whether in poverty or wealth, are in His hands; for God does what He wishes and judges as He desires.  Return to God’s fear, so He may grant you forgiveness of your sins. Be cautious when listening to Satan’s counsel; reject him with your patience and trample upon him with the name of the Holy Lord.”
+               </Language>
+               <Language id="Arabic">
+                  أما الصديق أيوب فسمع لكل كلام زوجته وهو صامت ثم قال لها: أيتها المرأة المخدوعة ما هذا الكلام الذي تقولينه, لابد أن الشيطان هو الذي لقنك هذا الكلام يا رحمة ألا تخافي الله الذي بيده أرواحنا وبيده الفقر والغني, الله يفعل ما يشاء ويحكم بما يريد, إتقي الله وخافيه لكي يغفر لك خطاياك وإحذري من الآن أن تسمعي لمشورة الشيطان الردئ بل إخزيه وأطرديه بصبرك وإستعيني عليه بإسم الله القدوس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So Rahmah regretted her words and said, “I have sinned before God and before you, O just man.” Job thanked and praised and glorified God asking Him for continual help and patience. And Rahmah went to another place to beg for food.
+               </Language>
+               <Language id="Arabic">
+                  فندمت رحمة علي ما قالته وقالت: أخطأت إلي الله وقدامك أيها الرجل البار, فشكر أيوب الله وسبحه ومجده وطلب منه المعونة والصبر أما رحمة فذهبت لتتسول بعض الخبز ليسد به أيوب جوعه الشديد.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Annunciation by Archangel Gabriel and healing of Job: 
+               </Language>
+               <Language id="Arabic">
+                  بشري الملاك وشفاء ايوب:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  When Job completed his prayer, the LORD accepted it and He ordered Archangel Gabriel saying, “Go to my chosen and righteous servant Job.  Give him peace for he has been patient with this tribulation. And announce to him the healing of his physical body and restoration of his many goods.  For he is a good, honest and sincere servant in his worship despite the devil’s warfare.”
+               </Language>
+               <Language id="Arabic">
+                  لما فرغ ايوب من صلاته قبلها الله وأمر الملاك جبرئيل قائلاً: إنزل إلي عبدي المختار أيوب الصديق وأعطه السلام لأنه صبر علي هذه التجارب الشديدة وبشره بالعافية الجسدية والخيرات الجزيلة لأنه العبد الصالح الأمين المخلص في عبادتي كل حين رغم حروب الشياطين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Archangel Gabriel descended from Heaven as the LORD commanded and went to Job and told him, “Peace to you, for you are God’s chosen one.  Blessed are you among the blessed.”  When Job heard this salutation he asked, “Who are you and why are you speaking to me with these words; and why were you not driven away by my stench?”  
+               </Language>
+               <Language id="Arabic">
+                  فنزل رئيس الملائكة جبرائيل من السماء كما أمره الرب وأتي إلي أيوب الصديق وقال  له: السلام لك يا أيوب صفي الله ومختاره, طوباك فلما سمع أيوب هذا الكلام قال له: من أنت يا من تكلمني بهذا الكلام ولماذا لم نأنف من رائحتي مثل باقي الناس؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And the Angel answered, “I am Gabriel standing before God who sent me to announce your healing.  Rise Job, for you are healed, for you have been patient for seven years with this great affliction in complete submission and obedience. You are made whole again.” Job answered, “My Master, I do not have the strength to stand as I have become frail.”
+               </Language>
+               <Language id="Arabic">
+                  ‍اجابه الملاك قائلاً: انا هو جبرائيل الواقف أمام الله أرسلني إليك لأبشرك بالرحمة والشفاء, إنهض  يا أيوب معافي  فإن لك بع سنين وأنت صابر علي هذا البلاء العظيم في رضي وتسليم. قم يا ايوب علي رجليك صحيحاً معافي. قال ايوب: ليس لي قدرة يا  سيدي علي الوقوف من شدة ما أنا فيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Archangel Gabriel held him by the hand, raised him and healed him completely. With God’s power, a fountain of water was created and the Angel took him by the hand and bathed him in the water.  Immediately Job’s flesh became soft like a child’s skin and his health was restored.
+               </Language>
+               <Language id="Arabic">
+                  فأمسكه (الملاك) جبرائيل بيده وأقامه ثابتاً معافي. وبقدرة الله أنبع عين ماء في الأرض وأخذه (الملاك) بيده وحماه في ماء تلك العين فصار جسده كجسد طفل صغير نضراً وفي كامل الصحة والعافية.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Rahmah’s return and confusion: 
+               </Language>
+               <Language id="Arabic">
+                  رجوع رحمة وحيرتها:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  When Rahmah returned to the place she left Job and did not find him, she assumed a beast devoured him.  She wept in agony and lamented, 
+               </Language>
+               <Language id="Arabic">
+                  لما رجعت رحمة لم تجد زوجها أيوب فى مكانه فظنت أن وحشا افترسه فحزنت وبكت بكاءّ شدبداّ وكانت تقول: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  “My apologies to you O Master Job; I should not have left you. I wish this day never existed! Now that I am a widow, who will tend to me and who will I go to for mercy? You comforted me and taught me patience and endurance in my offering of thanksgiving to God. Where will I find your bones O my Master Job?”  
+               </Language>
+               <Language id="Arabic">
+                  يا أسفى عليك يا سيدى أيوب ، يا ليتنى ما فارقتك اليوم وتركتك للوحوش تفترسك، لقد صرت أرملة بعدك، ويلى أنا الحزينة الشقية ،االى من أذهب والى من ألتجىء، ليتنى لم أرى هذا اليوم يازوجى العزيز أيوب، لقد كنت تعزينى وتعلمنى الصبر والآحتمال والشكر لله على كل حال. أين أجد عظامك يا سيدى أيوب لعلى أتعزى قليلاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Angel and Job heard Rahmah’s cries from afar and she did not see them.  The Angel said to Job, “Go and present yourself to your wife and free her from her sadness.”
+               </Language>
+               <Language id="Arabic">
+                  كان  المللاك وأيوب يسمعان كلام رحمة من بعيد وهى لا تراهما، فقال الملاك لأيوب: اذهب وعرّف زوجتك بنفسك وأنقذها من حزنها، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job went to Rahmah with an illuminated face and said, “Peace to you.  Why are you weeping and whom are you seeking?”  She said tearfully, “Leave me in my loneliness and despair.” Job said, “Rahmah, lift up your eyes and look at me;
+               </Language>
+               <Language id="Arabic">
+                  فجاء أيوب الى رحمة ووجهه ينير كملاك الله ، وقال لها : السلام لك، لماذا تبكين ومن تطلبين؟!  فقالت وهى تبكى: أتركنى فى حزنى وألمى. فقال لها أيوب: يا رحمة ارفعى عينيك وانظرى إلىّ.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I am Job your husband. God had mercy upon me and healed me from my illness.  And thanks be unto Him all day and all night.”  Rahmah lifted her eyes and gazed at him intently realizing this was truly her husband.  She rejoiced and greeted him and they both were overcome with joy while glorifying and praising God.
+               </Language>
+               <Language id="Arabic">
+                  أنا هو أيوب زوجك وقد منّ الله علىّ برحمته وشفانى من مرضى فله الشكر على الدوام مدى الليالى والأيام. فرفعت رحمة عينيها وتفرست فيه جيدآ فعرفت أنه زوجها أيوب حقآ ففرحت وقبّلته وبكيا من شدة الفرح وهما يمجدان الله وبسبحانه على ما حدث لهما من نعمة الله ورحمته.
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Return of wealth: 
+               </Language>
+               <Language id="Arabic">
+                  عودة غناه:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  God restored Job’s losses two fold and he received fourteen thousand sheep, six thousand camels, one thousand yoke of oxen, one thousand female donkeys and begot seven sons and three daughters which replaced the children who were reposed in Paradise.  
+               </Language>
+               <Language id="Arabic">
+                  زاد الرب على كل ما كان لأيوب ضعفآ فأصبح عنده أربعة عشر ألفاً من الغنم وستة آلاف من الابل وألف فدان من البقر وألف أتان، وانجب سبعة بنين وثلاث بنات عوض أينائه الذين ماتوا وهم فى السماء أحياء. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Job was exceedingly joyful as his inheritance multiplied.  He opened the gates of his house to the poor, forsaken and widows.  His donations increased along with his prayers and thanksgiving.  Job lived after his healing one hundred and forty years, and saw his children and grandchildren for four generations.  Job and Rahmah died old and full of days and they departed to comfort and everlasting joy.
+               </Language>
+               <Language id="Arabic">
+                  وازداد أيوب فرحآ وطاب عيشه وكثر رزقه ففتح أبوابه للفقراء والمساكين والأرامل والمحتاجين وكثرت صدقاته وحسناته وصلواته وتشكراته، وعاش أيوب بعد شفائه مائة وأربعين سنة ورأى بنيه وبنى بنيه الى أربعة أجيال، ثم مات أيوب شيخآ وشبعان أيام هو وزوجته المغبوطة رحمة وذهبا الى الراحة والسعادة الأبدية .
+               </Language>
+            </Text>
+         
+            <Comment>
+               <Language id="English">
+                  Conclusion: 
+               </Language>
+               <Language id="Arabic">
+                  الختام:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="English">
+                  May we be granted patience and thanksgiving in the likeness of Job the upright.  We thank God for every condition, asking Him to forgive us our sins and accept our prayers and fasting.  And that He may grant salvation of our souls through the intercessions of the Lady of us all, the pure Virgin St. Mary, Job the righteous, the patriarchal fathers, the prophets, apostles, martyrs, and saints.  Amen.
+               </Language>
+               <Language id="Arabic">
+                  نتوسل الى الله أن يعطينا صبراً وافراً وشكراً دائماً لنتشبه بأيوب البار فى صبره واحتماله ونشكر الله فى سائر ظروف الحياة، ونسأل الله أن يغفر خطايانا ويقبل صلواتنا وأصوامنا ويعيننا على خلاص نفوسنا، بشفاعة سيدتنا كلنا العذراء الطاهرة مريم والصدّيق العظيم أيوب البار وكافة الآباء والأنبياء والرسل والشهداء والقديسين أجمعين. أمين   
+               </Language>
+            </Text>
+            
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 83:2, 5</Language>
+               <Language id="Arabic">مزمور 83: 2, 5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ic nekjaji auws e~bol: ouoh n/eymoc] m~mok au[ici n~toua~ve: 
+               </Language>
+               <Language id="English">
+                   For behold, Your enemies made a noise, and those who hate You raised up their heads. 
+               </Language>
+               <Language id="Arabic">
+                  هوذا أعداؤك قد صرخوا. وقد رفع مبغضوك رؤوسهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auco[ni eucop qen ouh/t n~ouwt: aucemni n~oudia~y/k/ qarok: All/louia.
+               </Language>
+               <Language id="English">
+                  For they plotted together in unity; they established a covenant against You. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  تآمروا جميعاً بقلب واحد وتعاهدوا عليك عهداً. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 12:1-8</Language>
+            <Language id="Arabic">يوحنا 12: 1-8</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  I/couc oun: ajen coou n~ehoou n~te pipac,a afi~ e~B/yania pima e~nare Lazaroc mmof v/e~tafmou v/eta I/c tounocf e~bolqen n/cymwout:
+               </Language>
+               <Language id="English">
+                  Then, six days before the Passover, Jesus came to Bethany, where Lazarus was who had been dead, whom He had raised from the dead.
+               </Language>
+               <Language id="Arabic">
+                  وقبل الفصح بستة أيام أتى يسوع إلى بيت عنيا حيث كان لعازر الذى مات وأقامه من بين الأموات.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auer oudipnon oun e~rof mpima e~te mmau ouoh Marya nacsemsi pe: ouoh Lazaroc ne ouai pe e~bol qen n/eyrwteb nemaf:
+               </Language>
+               <Language id="English">
+                  There they made Him a supper; and Martha served, but Lazarus was one of those who sat at the table with Him.
+               </Language>
+               <Language id="Arabic">
+                  فصنعوا له هناك عشاء فى ذلك المكان. وكانت مرثا تخدم وكان لعازر أحد المتكئين معه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Maria~ oun ac[i n~oulitra n~cojen n~te ounardoc m~pictik/ e~nasen~couenf: ouoh acywhc n~nen[alauj n~I/couc m~mof:
+               </Language>
+               <Language id="English">
+                  Then Mary took a pound of very costly oil of spikenard, anointed the feet of Jesus, and wiped His feet with her hair.
+               </Language>
+               <Language id="Arabic">
+                  أما مريم فأخذت رطل طيب ناردين خالص كثير الثمن ودهنت به قدمى يسوع، ومسحتهما بشعر رأسها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh acfotou m~pifwi n~te tecave: a~pi/i de moh e~bolqen pic~yoi m~picojen. 
+               </Language>
+               <Language id="English">
+                  And the house was filled with the fragrance of the oil.
+               </Language>
+               <Language id="Arabic">
+                  فإمتلأ البيت من رائحة الطيب، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje ouai de e~bolqen nefmay/t/c e~te Ioudac pe Cimwn piickariw~t/c v/e~nafnat/if:
+               </Language>
+               <Language id="English">
+                  But one of His disciples, Judas Iscariot, Simon’s son, who would betray Him, said,
+               </Language>
+               <Language id="Arabic">
+                  فقال أحد تلاميذه الذى هو يهوذا سمعان الإسخريوطى الذى كان مزمعاً أن يسلمه:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je eybeou paicojen m~pout/ife~bol qa somtse n~cayeri ouoh n~tout/itou n~nih/ki: 
+               </Language>
+               <Language id="English">
+                   “Why was this fragrant oil not sold for three hundred denarii and given to the poor?” 
+               </Language>
+               <Language id="Arabic">
+                  لماذا لم يبع هذا الطيب بثلثمائة دينار ويعطى للمساكين؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai de afjof ou,oti je acermelin naf qa nih/ki: alla je ne ouref[ioui~ pe: ouoh e~re pig~locokomwn n~totf n/e~sauhitou e~rof ne saftwoun m~mou.
+               </Language>
+               <Language id="English">
+                  This he said, not that he cared for the poor, but because he was a thief, and had the money box; and he used to take what was put in it.
+               </Language>
+               <Language id="Arabic">
+                  قال هذا ليس لأنه كان يهتم بالمساكين، بل لأنه كان سارقاً وكان الصندوق عنده وكان يحمل ما يلقى فيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/c oun je ,ac pe hina n~tecareh e~rof e~pie~hoou m~pakwc: Nih/ki gar ce nemwten n~c/ou niben: anok de ]nemwten an n~c/ou niben.
+               </Language>
+               <Language id="English">
+                  But Jesus said, “Let her alone; she has kept this for the day of My burial. For the poor you have with you always, but Me you do not have always.”
+               </Language>
+               <Language id="Arabic">
+                  فقال يسوع: "دعوها لأنها حفظته ليوم دفنى فإن المساكين معكم فى كل حين، وأما أنا فلست معكم فى كل حين." 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من يوم الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Christ our Lord came to Bethany six days before Passover. They regaled him at the residence of Mary and Martha her sister. 
+               </Language>
+               <Language id="Arabic">
+                  جاء المسيح إلهنا إلى بيت عنيا قبل الفصح بستة أيام، فصنعوا له وليمة فى بيت مريم ومرثا أختها، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Among those present was Lazarus whom he resurrected from the dead.
+               </Language>
+               <Language id="Arabic">
+                  وكان هناك لعازر الذى أقامه من الأموات
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Martha his sister was serving them, and Lazarus her brother was sitting with him. Mary then brought one pound of an expensive nard and she anointed his feet and wiped them with her hair.
+               </Language>
+               <Language id="Arabic">
+                  وكانت مرثا أخت الميت واقفه تخدمهم، وكان إحدى المتكئين مع السيد يسوع لعازر أخوها، فأخذت مريم رطل طيب ناردين كثير الثمن ودهنت به رجلى يسوع ومسحتها بشعر رأسها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Judas Iscariot was filled with evil envy and asked cunningly; his heart full of bitterness, deceit and hypocrisy: "Would it not have been better if this oil would have been sold for 300 Denarii and given to the poor?"
+               </Language>
+               <Language id="Arabic">
+                  فامتلئ يهوذا الأسخريوطى المخالف من الحسد الشيطان وقال بمكر وقلب مملوء من كل مرارة وخبث ورياء، قال: لماذا لم يبع هذا الطيب بثلثمائة دينار ويدفع للمساكين؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  It was not his love and concern for the poor that prompted him to say this, but because he was a thief and as he had the money box he used to take what was put into it.
+               </Language>
+               <Language id="Arabic">
+                  ولم يقل هذا بفكر صالح ومحبة فى المساكين، ولكنه كان سارقاً وكان يسرق ما يلقى فى الصندوق،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Savior responded saying: "Do not trouble the woman for she has done that for my burial. The poor you always have with you, but you do not always have me."
+               </Language>
+               <Language id="Arabic">
+                  فقال المخلص: لا تتعبوها لأنها قد حفظته ليوم دفنى، المساكين معكم كل حين وأما أنا فلست معكم كل حين
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Let us come close to the Lord, run our tears down his feet and ask him for his forgiveness according to his abundant mercy.
+               </Language>
+               <Language id="Arabic">
+                  فلنقترب من الرب ولنبك أمامه ونبل قدميه بدموعنا ونساله أن ينعم علينا بالغفران كعظيم رحمته.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

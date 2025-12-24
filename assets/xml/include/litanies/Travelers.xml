@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Travelers</Language>
+         <Language id="Arabic">اوشية المسافرين</Language>
+      </Title>
+      
+      <Group>
+         <Season id="RaisingOfIncense">
+            <Comment>
+               <Language id="English">
+                  Except for Saturdays, Sundays, and the feasts of the Lord, the Litany for the Travelers is said after the Litany for the Sick during the morning Offering of Incense.
+               </Language>            
+               <Language id="Arabic">
+                  أوشية المسافرين تُقال بعد أوشية المرضى في رفع بخور باكر على مدار السنة فيما عدا أيام السبوت والآحاد والأعياد السيدية.
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Role id="Priest">
+         <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: arivmeui~ P[oic n~nenio] nem nenc~n/ou e~tause e~p~semmo.
+            </Language>
+            <Language id="English">
+               We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, our fathers and our brethren who are traveling.
+            </Language>
+            <Language id="Arabic">
+               نسألُ ونطلبُ من صلاحِكَ يا محبَّ البشرِ، اذكر ياربُّ آباءنا وإخوتَنا المسافرين.
+            </Language>
+         </Text>
+       </Role>
+       
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nenio] nem nenc~n/ou e~tause e~p~semmo: ie n/eymeui~ e~se qen mai niben: coutwn noumwit t/rou: i~te e~bol hiten v~iom ie niiarwou ie nilumn/ ie nimwit m~mosi: (ie pia~/r) ie eui~ri m~poujinmosi n~r/] niben: hina n~te Pi,~rictoc Pennou] tacywou e~n/e~te nouou m~man~swpi qen ouhir/n/: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for our fathers and our brethren who are traveling, and those who intend to travel anywhere. Straighten all their ways, whether by sea, rivers, lakes, roads, [air,] or those who are traveling by any other means, that Christ our God may bring them back to their own homes in peace, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن آبائِنا وإخوتنا المسافرين، والذين يُضْمِرُون السفرَ في كلِّ موضعٍ، ُسَهِّل طُرُقَهم أجمعين إن كان في البحرِ أو الأنهارِ أو البحيراتِ أو الطرقِ المسلوكةِ، [أو الجوِّ] أو المسافرين بكلِّ نوعٍ، لكي المسيح إلهنا يردَّهم إلى مساكِنِهم سالمين، ويغفرَ لنا خطايانا. 
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ie n/eymeui~ e~se qen mai niben: coutwn noumwit t/rou: i~te e~bol hiten v~iom: ie niiarwou: ie nilumn/: ie nimwit m~mosi: (ie pia/r) ie eui~ri m~poujinmosi n~r/] niben: ouon niben etqen mai niben mat~vwou e~qoun e~oulum/n n~jam/: e~oulum/n n~te pioujai.
+            </Language>
+            <Language id="English">
+               And those who intend to travel anywhere, straighten all their ways, whether by sea, rivers, lakes, roads, [air,] or those who are traveling by any other means, everyone anywhere. Lead them into a haven of calm, a haven of safety.
+            </Language>
+            <Language id="Arabic">
+               والذين يضمرون السفرَ في كلِّ مكانٍ، سَهِّل طرقَهم أجمعينَ، إن كانَ في البحارِ أو الأنهارِ أو البحيراتِ أو الطرقِ المسلوكةِ [أو الجوِّ] أو السالكينَ بكلِّ نوعٍ، كلُّ أحدٍ بكلِّ موضعٍ رُدَّهُم إلى ميناءٍ هادئٍ، ميناءِ الخلاصِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Arikataxioin a~ris~v/r n~s~[/r nem s~v/r m~mosi nemwou.
+            </Language>
+            <Language id="English">
+               Graciously accompany them in their departure and be their companion in their travel.
+            </Language>
+            <Language id="Arabic">
+               تفضَّل اصحبهم في الإقلاعِ، واصحبهم في المسيرِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               M/itou e~n/e~te nouou qen ourasi eurasi: qen outoujo eutouj/out.
+            </Language>
+            <Language id="English">
+               Bring them back to their own, rejoicing with joy and safe in security.
+            </Language>
+            <Language id="Arabic">
+               رُدَّهم إلى ذَوِيهم بالفرحِ فرحينَ، وبالعافيةِ معافينَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aris~v/r n~erhwb nem neke~biaik qen hwb niben n~a~gayon.
+            </Language>
+            <Language id="English">
+               Be a fellow worker with Your servants in every good deed.
+            </Language>
+            <Language id="Arabic">
+               اشترِك في العملِ معَ عبيدِك في كلِّ عملٍ صالحٍ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Anon de hwn P[oic tenmetremn~jwili etqen paibioc vai: a~reh e~roc n~ateblab/ n~at,imwn n~ats~yorter sa e~bol.
+            </Language>
+            <Language id="English">
+               As for us, too, O Lord, keep our sojourn in this life without harm, without storm, and undisturbed to the end.
+            </Language>
+            <Language id="Arabic">
+               ونحنُ أيضاً ياربُّ غربتَنا في هذا العمرِ، احفظها بغيرِ مضرةٍ ولا عاصفٍ ولا قلقٍ إلى الانقضاءِ.
+            </Language>
+         </Text>
+       </Role>
+       
+       <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest" silent="true">
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </Section>
+</Document>

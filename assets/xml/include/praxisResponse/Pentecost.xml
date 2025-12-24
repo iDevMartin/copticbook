@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere tefa~nalum'ic...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Pentecost:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere tefa~nalum'ic e~tafsenaf e~p~swi e~niv/oui afouwrp nan m~piParakl/ton Pip~neuma n~te ]meym/i.
+            </Language>
+            <Language id="English">
+               Hail to His Ascension, in which He has ascended into the heavens, and has sent us the Paraclete, the Spirit of truth.
+            </Language>
+            <Language id="Arabic">
+               السلام لصعوده، إذ صعد إلي السموات وأرسل لنا المعزي روح الحق.
+            </Language>         
+         </Text>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

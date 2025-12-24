@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod">                  
+      <Section>
+         <Title>
+            <Language id="English">All the Choirs</Language>
+            <Language id="Coptic">Kata ni,oroc</Language>
+         </Title>
+                              
+         <Text>
+            <Language id="Coptic">
+               Kata ni,oroc nem nitaxic: n~te na niv/oui~ nem na p~kahi: niaggeloc nem nirwmi eucop: euer'alin qen ouyel/l
+            </Language>
+            <Language id="English">
+               All the choirs and ranks of the heavenly and earthly, angels and men together singing joyfully.
+            </Language>
+            <Language id="Arabic">
+               كل صفوف وطقوس السمائيين والأرضيين، الملائكة والناس معاً يرتلون بابتهاج 
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               E] cwtem e~rof vai pe ?~ca/~ac pinis] m~p~rov/t/c je [iouwini [iouwini Il#/#m# Afi~ gar n~je peouwini
+            </Language>
+            <Language id="English">
+               What I hear is Isaiah the great prophet, “be enlightened, be enlightened Jerusalem for Your light has come.”
+            </Language>
+            <Language id="Arabic">
+               الذي اسمعه هذا هو اشعياء النبي العظيم قائلاً أضيئي واستنيري يا أورشليم لأنه قد جاء نورك
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               W~ nim naicumvwnia~ etholj m~p~rov/tikon e~tau ermeyre eybe Pi,~rictoc nem nefsep m~kah nem tef a~nactacic eyouab.
+            </Language>
+            <Language id="English">
+               O What are these sweet prophetic symphonies that testified Christ and His sufferings and His Holy resurrection.
+            </Language>
+            <Language id="Arabic">
+               يا لهذه الإتفاقات الحلوة النبوية التى شهدت من أجل المسيح وآلامه وقيامته المقدسة.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Eyn/ou e~ namasj n~ounis] n~rasi Dauid p~ouro efjw m~moc aftwnf n~je P~[oic m~v~r/] m~v/ etenkot ie ke ouai efyaqi e~bol qen p~/rp.
+            </Language>
+            <Language id="English">
+               Coming to my ears with great joy is King David saying. “The Lord rose like that who is asleep or another sated with wine.”
+            </Language>
+            <Language id="Arabic">
+               الأتي إلى أذنى بفرح عظيم ، داود الملك قول قام الرب مثل النائم أو كواحد ثمل من الخمر.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc aftwnf ouoh aferh~mot nan m~piwnq eym/n e~bol sa eneh: afkwrf m~v~mou qen tef meynou] afhwmi n~tefcouri qen tefjom.
+            </Language>
+            <Language id="English">
+               Christ rose and granted us the life which endures forever and destroyed death with His Godhead, trampled its thorn with His strength.
+            </Language>
+            <Language id="Arabic">
+               المسيح قام وأنعم لنا بالحياة الدائمة إلى الأبد ، وأبطل الموت بلاهوته وداس شوكته بقوته.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               N~swrp m~v~ouai n~te nicabbaton aci~ n~je Maria e~pim~hau: acnau e~ piw~ni e~ auc~kerkwrf nem nih~bwc eu,/ e~q~r/i.
+            </Language>
+            <Language id="English">
+               Early the first day of the week , Mary came to the tomb, she saw the stone rolled and the linens placed there.
+            </Language>
+            <Language id="Arabic">
+               باكر أحد السبوت جاءت مريم إلى القبر ، فرأت الحجر قد دحرج والثياب موضوعة.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/AllTheChoirsRefrain"/>                     
+      </Section>
+   </Season>
+</Document>

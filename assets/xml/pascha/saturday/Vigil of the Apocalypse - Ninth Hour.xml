@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekend ^ JoyousSaturday ^ Saturdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Prayer of the Ninth Hour</Language>      
+         <Language id="Arabic">صلاة الساعة التاسعة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The Agpeya Psalms of the Ninth Hour are read inaudibly, distributed on the entire congregation.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/agpeya/9thHourIntro"/>
+      <InsertDocument path="include/agpeya/psalms/9thHour"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Isaiah 45:15-20" type="section"/>
+         <BibleReference reference="Jeremiah 31:31-34" type="section"/>
+      
+         <Comment>
+            <Language id="English">
+               The Psalm is chanted half in the Paschal “Edreebe” tune, and the other half in the standard tune.
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 41:10, 5</Language>
+               <Language id="Arabic">مزامير 41: 10, 5</Language>
+            </Title>
+         
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nyok de Po#c# nain/i ouoh mat-ounoct : ouoh eie~ nwou n~tousebiw.
+               </Language>
+               <Language id="English">
+                  But you, O Lord, have mercy upon me, and raise me up, and I shall compensate them.
+               </Language>
+               <Language id="Arabic">
+                  وأنت يا رب ارحمني وأقمني فأجازيهم.
+               </Language>
+            </Text>     
+            
+            <Text>
+               <Language id="Coptic">
+                  Najaji avjw n~hanpethwou n/i: je afnamou n/nau n~teftako n~je pefran
+               </Language>
+               <Language id="English">
+                  My enemies have spoken evil against me, saying, “When shall he die, and his name perish?”
+               </Language>
+               <Language id="Arabic">
+                  أعدائي تقوّلوا على شرا: متى يموت ويباد اسمه؟ 
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/KeEperto"/>
+      <InsertDocument path="pascha/include/GospelIntroJohn"/>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+            </Language>
+            <Language id="Arabic">
+               ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+            </Language>
+         </Comment>
+         
+         <BibleReference reference="John 5:21-30" type="section" hideIntroConclusion="true"/>
+      </Role>
+      
+      <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   </ForceSeason>
+</Document>

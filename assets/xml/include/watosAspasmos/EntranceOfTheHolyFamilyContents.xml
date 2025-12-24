@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         For the Feast of the Entrance of The Holy Family into Egypt:
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/doxologies/EntranceOfTheHolyFamily.5"/>  
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StAthanasius:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Athanasius:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt ey#u# m~patriar,/c: ,ere Ayanacioc piapoctol/koc: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to our holy father the patriarch: Hail to Athanasius the apostolic: beloved of Christ. 
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا القديس: البطريرك: السلام لأثناسيوس الرسول: حبيب المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

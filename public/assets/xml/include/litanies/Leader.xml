@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Leader</Language>
+         <Language id="Arabic">أوشية الرئيس</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~n/e~tauerouro qen ]meteuceb/c: nem n/etoi n~ouro (m~proedroc).
+            </Language>
+            <Language id="English">
+               Remember, O Lord, those who have reigned in godliness and those who are now kings [leaders].
+            </Language>
+            <Language id="Arabic">
+               أذكر ياربُّ الذين تملَّكُوا في التقوى والذين هم الآن ملوكٌ (رؤساء).
+            </Language>
+         </Text>         
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Proceuxacye u~per twn vilo,~rictwn /~mwn bacilewn (proedrwn).
+            </Language>
+            <Language id="English">
+               Pray for our Christ loving kings [leaders].
+            </Language>
+            <Language id="Arabic">
+               صلُّوا من أجلِ ملوكِنا (رؤسائِنا) محبي المسيح.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~nenc~n/ou m~pictoc ouoh n~oryodoxoc etqen pipalation nem pic~trateuma t/rf.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, our brethren, the orthodox believers who are in the palace [government] and all who are in the military.
+            </Language>
+            <Language id="Arabic">
+               اذكر ياربُّ إخوتَنا المؤمنينَ الأرثوذكسيينَ الذين في البلاطِ، وجميعَ الأجنادِ.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Proceuxacye u~per twn en tw palatiw a~delvwn pictwn ke oryodoxwn ke pantwn twn c~tratopetwn.
+            </Language>
+            <Language id="English">
+               Pray for the faithful and orthodox brethren in the palace [government] and for all the troops.
+            </Language>
+            <Language id="Arabic">
+               صلُّوا من أجلِ الذينَ في البلاطِ من الإخوةِ المؤمنينَ الأرثوذكسيينَ وسائرِ الأجنادِ.
+            </Language>
+         </Text>         
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

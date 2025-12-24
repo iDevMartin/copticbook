@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/hiten/FourIncorporealCreatures"/>
+   <InsertDocument path="include/hiten/TwentyFourPriests"/>
+   <InsertDocument path="include/hiten/StJosephTheCarpenter"/>
+   
+   <Group>
+      <InsertDocument path="include/hiten/KoiahkSeason.1"/>
+      <InsertDocument path="include/hiten/StJohnTheBaptist"/>
+   </Group>
+   
+   <Group>
+      <InsertDocument path="include/hiten/NativityAndCircumcision"/>
+      <InsertDocument path="include/hiten/KoiahkSeason.2"/>
+   </Group>
+    
+   <InsertDocument path="include/hiten/Jonah"/>
+</Document>

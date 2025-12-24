@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMark:Intercessions">
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te piyew~rimoc n~euaggelict/c Markoc pia~poctoloc: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of the Beholder of God, the Evangelist Mark, the apostle, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات ناظر الإله الإنجيلي مرقس الرسول، ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

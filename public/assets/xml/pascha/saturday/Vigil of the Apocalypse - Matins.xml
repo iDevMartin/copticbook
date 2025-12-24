@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Matins="true" RaisingOfIncense="true" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekend ^ JoyousSaturday ^ Saturdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <InsertDocument path="raisingOfIncense/include/Header"/>
+      <InsertDocument path="raisingOfIncense/include/Intro"/>
+      <InsertDocument path="raisingOfIncense/include/Body"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Isaiah 55:2-13" type="section"/>
+      </Role>
+   
+      <Role id="Priest">   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">A Homily of our Father Saint Athanasius the Apostle</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا أثناسيوس الرسولى</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaAthanasiusIntro"/>
+               
+            <Text>
+               <Language id="English">
+                  My beloved brethren, this is the time for the feast, it is our present time. Rejoice in it always, O who are joyful in the Lord, as it is written. And it is now for everyone by the One Who sent Him to preach saying: O Judah, have your feasts and fulfill your vows. And offer God the fruits of your labors every year in pure will according to what Lord told you.
+               </Language>
+               <Language id="Arabic">
+                  قد حان وقت العيد أيها الاخوة الأحباء وهو وقتنا الحاضر هذا. فافرحوا فيه كل حين ايها الفرحون بالرب كما هو مكتوب. وهو الآن يشير إلى كل أحد. بواسطة من أرسله ليكرز به قائلاً: يا يهوذا اصنع أعيادك واوف نذورك. وقدم للرب ثمرة أعمالك كل سنة بنية طاهرة حسب ما أوصاك بها الرب.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  As by the tools the farmer raises the year's crop, Let our labor's fruits ascend to God every year according to His commands. Let us yield double the harvest as we drink from the Spring of Life when we establish ourselves in the Lord as the branches to the vine. So let us go forward and disobey not Who said: keep the new month so that you may celebrate in it the Passover of the Lord Your God. For the Lord's Passover is not for man but for the Lord. It means we should leave the old deeds and renew ourselves through new deeds. This matter when the Jews did not consider they become without a feast. Although, it was said: Make the Passover unto the Lord our God, so that the evil may Passover you.
+               </Language>
+               <Language id="Arabic">
+                  فكما أنه بآلات الفلاح تصعد ثمرات السنة. فلتصعد ثمرة أعمالنا فى كل سنة للرب كما أوصانا. فلنثمر ثمراً مضاعفاً إذ نشرب من ينبوع الحياة بثبوتنا فى الرب كثبوت الأغصان فى الكرمة. إذا فلنسعَ إلى قدام ولا نخالف الذى قال احفظ الشهر الجديد لتصنع فيه فصح الرب إلهك. لأن فصح الرب ليس هو لإنسان بل للرب. ومعنى ذلك أننا نترك عنا الأعمال القديمة ونتجدد بأعمال جديدة.هذا الأمر الذى لما لم يتأمل فيه اليهود صاروا بلا عيد. مع أنه قد قيل تصنع الفصح للرب إلهك فيعبر عنك شر المهلك.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  And we are certain now that this commandment is not a simple one. But it is like a complete work concerning God. For fulfilling the commandments: Do not commit adultery, do not steal, do not bear false witness, with the rest of the commandments, is to us as an impenetrable fortress guarding the soul to keep up its righteous behavior. It is the crown of victory for the heavenly mission.
+               </Language>
+               <Language id="Arabic">
+                  هذا وقد تحققنا أن هذه الوصية ليست بوصية بسيطة. بل هى مثال عمل كامل مختص بالله. لأن العمل بالقول لا تزن ولا تسرق ولا تشهد بالزور مع باقى الوصايا هو لنا حصن منيع تحتمى فيه النفس فتعتز بالسيرة المستقيمة.وهو اكليل الانتصار للدعوة السماوية.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaAthanasiusConclusion"/>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/PaulineEpistle"/>
+      <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+      <InsertDocument path="include/trisagion/Seasonal"/>
+      <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Psalm is chanted half in the Paschal “Edreebe” tune, and the other half in the standard tune.
+            </Language>
+         </Comment>
+          
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 88:4; 44:23,26</Language>
+               <Language id="Arabic">مزامير 88: 4; 44: 23,26</Language>
+            </Title>
+         
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Aier m~v~r/] n~ourwmi n~ater bo/~yin e~rof: eioi n~remhe qen nirefmwout. Twnk Po#c# eybe ouk~enkot: twnk m~perhiten n~cwk sa e~bol. Twnk Po#c# aribo/~yin e~ron: ouoh cotton eybe pekran eyouab.
+               </Language>
+               <Language id="English">
+                  I became as a man without help; free among the dead, Awake, why do You sleep, O Lord? Arise, and do not cast us off forever. Arise, O Lord, and help us; redeem us for Your name's sake.
+               </Language>
+               <Language id="Arabic">
+                  صرت مثل إنسان ليس له معين. صرت حراً بين الأموات إستيقظ يارب لماذ تنام. قم ولا تُقصا عاك الي الإنقضاء. قم يارب اعنا وإنقذنا أجل إسمك القدوس.
+               </Language>
+            </Text>     
+            
+            <Text>
+               <Language id="Coptic">
+                  Tote rwn afmoh n~rasi ouoh penlac qen ouyel/l: tote eue~joc qen nieynoc: je a Po#c# tase iri nemwou: a Po#c# tase iri neman answpi enounof m~mon.
+               </Language>
+               <Language id="English">
+                  Then was our mouth filled with joy, and our tongue with exaltation; then would they say among the Gentiles, The Lord has done great things among them. The Lord has done great things for us, we became joyful.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ إمتلأ فمنا فرحاً ولساننا تهليلاً ، حينئذ يُقال فى الأمم أن الرب قد عظم الصنيع معهم. أكثر الرب الصنيع معنا فصرنا فرحين.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/KeEperto"/>
+      <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+            </Language>
+            <Language id="Arabic">
+               ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+            </Language>
+         </Comment>
+         
+         <BibleReference reference="Matthew 27:62-66" type="section" hideIntroConclusion="true"/>
+      </Role>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">طرح</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               They crucified our Savior on the Cross with two other thieves, one on His left and the other on His right, while Christ was in the middle forgiving sins. Pilate wrote an inscription above the head of our Savior so that all who passed by may read what was written. That is "Jesus Is the King of the Jews."
+            </Language>
+            <Language id="Arabic">
+               صلبوا مخلصنا على خشبة الصليب. وصلبوا معه لصين. واحد عن يمينه والآخر عن يساره والمسيح فى الوسط يغفر الخطايا. وكتب بيلاطس كتابة على الصليب فوق رأس مخلصنا وكان كل من يمر من هناك يقرأ تلك الكتابة. ان يسوع هذا ملك اليهود.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               The protesting Jews told the ruler not to write so but rather what He said, "I am the King or the Jews." Pilate replied, "What I have written, I have written." The inscription was written in Hebrew, Roman, and Greek. The right thief cried to our Savior and said, "Remember me Lord when You come into Your kingdom."
+            </Language>
+            <Language id="Arabic">
+               فقال اليهود المخالفين للوالى: لا تكتب هكذا انه ملك اليهود، بل أكتب ان هذا قال: أنا يسوع ملك اليهود.. فقال بيلاطس لليهود المخالفين: ما كتبته قد كتبته وكمل الأمر. كتب بالعبرانية والرومانية واليونانية انه ملك اليهود. ومن وقت الساعة السادسة وإلى وقت الساعة التاسعة صارت ظلمة على الأرض كلها. الشمس إظلمت والقمر صار دماً والكواكب ظهرت في وسط النهار. فصرخ اللص اليمين بصوت عال قائلاً: أذكرنى يارب إذا جئت فى ملكوتك.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Christ answered him, "Today, you will be with me in Paradise." A great darkness came over all the earth because of the Creator's crucifixion. He cried out in a loud voice towards His Father and gave up His Spirit. Then Joseph of Arimathea and Nicodemus brought a mixture of myrrh and ointment for Christ's Body.
+            </Language>
+            <Language id="Arabic">
+               فقال له مخلصنا: إنك اليوم تكون معى فى ملكوتى. وصارت ظلمة فى المسكونة كلها لأجل ملك الخليقة المعلق على الصليب. صرخ بصوت عظيم نحو أبيه واسلم الروح فى يديه. فجاء يوسف الذى من الرامة ونيقوديموس الأرخنين المكرمين. واحضرا معهما طيباً وصبراً ووضعاهما على جسد الوحيد.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Joseph of Arimathea went to Pilate and asked him saying, "Give me the Body of my Lord Jesus that I may wrap Him and that He may have mercy on me." There, they wrapped the Body of our Savior in linen cloth. They wrapped His face in a handkerchief. They likewise placed Him in a tomb outside the city. He rose from the dead on the third day and saved the world. Therefore let us glorify Him and proclaim saying, "Blessed are You, O our Lord Jesus Christ, for You have risen and saved us."
+            </Language>
+            <Language id="Arabic">
+               جاء يوسف الرامى ودخل إلى بيلاطس وسأله قائلاً: أعطنى جسد ربى يسوع لكى أكفنه لتدركنى رحمته. فكفنا مخلصنا بلفائف كتان نقى ولفا وجهه بمنديل. سكبا طيباً على رأسه ووضعاه فى قبر خارج المدينة وقام من الأموات فى اليوم الثالث وخلص العالم من خطاياهم. لذلك نمجده ونصرخ إليه قائلين: مبارك يا ربنا يسوع لأنك قمت وخلصتنا.
+            </Language>
+         </Text>
+      </Section>
+      
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+      <InsertDocument path="include/FiveShortLitanies"/>
+      <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+      <InsertDocument path="include/conclusion/ConclusionOfService"/> 
+   </ForceSeason>  
+</Document>

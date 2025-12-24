@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <Text>
+         <Language id="Coptic">
+            Oua~nagnwcic e~bolqen pieuaggelion eyouab kata Loukan a~giou.
+         </Language>
+         <Language id="English">
+            A reading according to Saint Luke. May his blessings be with us. Amen.
+         </Language>
+         <Language id="Arabic">
+            فصل من إنجيل معلمنا مار لوقا البشير بركآتٍه علينا آمين.
+         </Language>
+      </Text>
+   </Role>
+</Document>

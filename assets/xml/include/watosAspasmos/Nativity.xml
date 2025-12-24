@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Pimici e~bol...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Pimici e~bol qen Viwt: qajwou n~nie~wn t/rou: acmacf n~je ]ourw: ectob n~je tecparyenia.
+            </Language>
+            <Language id="English">
+               The begotten of the Father before all ages, was born of the Queen, and her virginity was sealed.
+            </Language>
+            <Language id="Arabic">
+               المولود من الاب، قبل كل الدهور، ولدته الملكة، وبتوليتها مختومة.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V]: acmacf n~je ]paryenoc: qen B/yleem n~te ]Ioudea kata nic~m/ m~p~rov/tikon.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ the Son of God, was born of the Virgin: in Bethlehem of Judea: according to the prophetic voices.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا يسوع المسيح ابن الله ولدته العذراء في بيت لحم اليهودية كالأصوات النبوية.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Alternate Watos Aspasmos</Language>
+            <Language id="Coptic">Aui~ni naf...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Aui~ni naf n~handwron: ounoub nem oulibanoc nem ousAl euerhumnoc nem p~cepi euouwst m~mof.
+            </Language>
+            <Language id="English">
+               They presented Him gifts of gold, frankincense, and myrrh; praising with the rest, they bowed down and worshiped Him.
+            </Language>
+            <Language id="Arabic">
+               قدموا له هدايا ذهبا ولبانا ومرا مسبحين مع البقية ساجدين له .
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V]: acmacf n~je ]paryenoc: qen B/yleem n~te ]Ioudea kata nic~m/ m~p~rov/tikon.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ the Son of God, was born of the Virgin: in Bethlehem of Judea: according to the prophetic voices.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا يسوع المسيح ابن الله ولدته العذراء في بيت لحم اليهودية كالأصوات النبوية.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

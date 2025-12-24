@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJohnTheShort:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. John tbe Short:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te peniwt e#y#u# n~dikeoc Abba Iwann/c pikoloboc: P[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers, of our holy and righteous father, Abba John the Short, O Lord grant us the forgiveness of our sins. 
+            </Language>
+            <Language id="Arabic">
+               بصلوات ابينا القديس البار أنبا يؤانس القصير. يارب انعم لنا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

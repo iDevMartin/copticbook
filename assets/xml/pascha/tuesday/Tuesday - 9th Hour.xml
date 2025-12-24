@@ -1,0 +1,1627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Tuesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Tuesday (The Ninth Hour)</Language>
+         <Language id="Arabic">يوم الثلاثاء (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~hoou m~Psomt (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Genesis 6:5-9:7</Language>
+               <Language id="Arabic">تکوين 6: 5-9: 7</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Genesis"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Etafnau de n~je P[oic Vnou] je aua~sai n~je nikakia~ n~te nirwmi hijen pikahi: ouoh ouon niben efraki qen pefh/t e~masw e~jen pipethwou n~nie~hoou t/rou:
+               </Language>
+               <Language id="English">
+                  Then the Lord God saw man's wickedness, that it was great in the earth, and every intent of the thoughts within his heart was only evil continually.
+               </Language>
+               <Language id="Arabic">
+                  ولما رأي الرب الإله أن شرور الناس قد كثرت علي الأرض وأن كل واحد قد مال بقلبه كثيراً إلي الشر كل الأيام 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afmokmek n~je P[oic Vnou] je afyamio m~pirwmi hijen p~kahi: ouoh afmeui~ qen pefh/t: 
+               </Language>
+               <Language id="English">
+                   So God was grieved that He had made man on the earth, and He thought this over. 
+               </Language>
+               <Language id="Arabic">
+                  فندم الرب الإله أنه خلق الإنسان علي الأرض  وفكر الرب الإله في قلبه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje P[oic Vnou]je eie~fet pirwmi e~taiyamiof e~bolha p~ho m~p~kahi: icjen ou rwmi sa outebn/ ouoh icjen ni[a~tfi sanihala] n~te t~ve: je aim~bon je aiyamiw~ou.
+               </Language>
+               <Language id="English">
+                  Then God said, "I will blot out man whom I created from the face of the earth, from man to cattle and from the creeping things to the birds of heaven, for I am grieved I made them."
+               </Language>
+               <Language id="Arabic">
+                  وقال: إني مبيد عن وجه الأرض الإنسان الذي خلقته من الإنسان إلي البهائم ومن الهوام إلي طيور السماء لأني حنقت إذ خلقتهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nwe~ de afjimi n~ouhmot m~pe myo m~P[oic Vnou]: Nai de ne nijinjvo n~te Nwe~: Nwe~ de ne ourwmi n~y~m/i pe: efj/k e~bol qen tefgenea~: afranaf m~Vnou] n~je Nwe~:
+               </Language>
+               <Language id="English">
+                  But Noah found grace in the presence of the Lord God. This is the genealogy of Noah. Noah was a righteous man, who was perfect in his generation and well-pleasing to God.
+               </Language>
+               <Language id="Arabic">
+                  وأما نوح فوجد نعمة أمام الرب الإله  وهذه مواليد نوح: وكان نوح رجلاً باراً كاملاً في جيله وأرضي نوح الله  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nwe~ de afjve somt n~s/ri C/m ,am Ievey. Ap~kahi cwf m~pem~yo m~Vnou]: a~pikahi moh n~[in~jonc: 
+               </Language>
+               <Language id="English">
+                  So Noah begot three sons: Shem, Ham, and Japheth. Now the earth was corrupt before God and filled with unrighteousness.
+               </Language>
+               <Language id="Arabic">
+                  وولد نوح ثلثة بنين ساماً وحاماً ويافث. وتنجست الأرض أمام الله وإمتلأت الأرض ظلماً  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afnau n~je P[oic Vnou] epikahi naftak/out: eou/i a~carx niben cwf m~pefmwit hijen p~kahi: 
+               </Language>
+               <Language id="English">
+                  Thus the Lord God looked upon the earth, and indeed it was corrupt;" for all flesh corrupted their way on the earth. 
+               </Language>
+               <Language id="Arabic">
+                  فنظر الرب الإله إلي الأرض فإذا هي قد فسدت. لأن كل ذي جسد قد نجس طريقه علي الأرض  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje P[oic Vnou] nNwe~: je p~c/ou n~rwmi niben afqwnt m~pamyo: je ou/i a~p~kahi moh n~[injonc e~bol m~mwou: h/ppe a~nok ]natakwou nem p~kahi.
+               </Language>
+               <Language id="English">
+                  Then God said to Noah, "The end of all flesh has come before Me, for the earth is filled with unrighteousness through them; and behold, I will destroy them with the earth.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب الإله لنوح: إن أجل كل بشر قد أقترب أمامي لأن الأرض قد أمتلأت ظلماً منهم. وها أنا مهلكهم والأرض معاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mayamio nak n~oukubwtoc e~bol qen han se n~atn~te t~rakwnon: eke~yamio n~]kibwtoc n~oumoh: ouoh eke~ ]mbrehi nac caqoun nem cabol m~moc qen pimbrehi: 
+               </Language>
+               <Language id="English">
+                  Make yourself an ark of square timber. You shall make the ark in compartments, and cover it inside and outside with pitch. 
+               </Language>
+               <Language id="Arabic">
+                  فإصنع لك فلكاً من خشب الساج الذي لا يسوس وإصنع الفلك كاملاً وتطلي داخله  وخارجه بالقار
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] eke~yamio n~]kubwtoc: somtse m~mahi e~]si/ n~te ]kubwtoc: ouoh tebi m~mahi e~piouecyen ouoh pec[ici map m~mahi:
+               </Language>
+               <Language id="English">
+                  Thus you shall make the ark: three hundred cubits in length, fifty cubits in breadth, and thirty cubits in height.
+               </Language>
+               <Language id="Arabic">
+                  وهكذا تصنع الفلك ثلاثمائة ذراعاً يكون طول الفلك وخمسين ذراعاً عرضه وثلاثين ذراعا أرتفاعه  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eke~yamio n~]kubwtoc ecyou/t e~qoun: eke~jokc e~bol n~oumahi cap~swi: v~ro de n~]kubwtoc eke~yamiof cap~c~vir m~moc: hanh/pi nqe c~nou] nem som] n~qe eke~yamioc.
+               </Language>
+               <Language id="English">
+                  Now when you assemble the ark, you shall gradually finish it up to a cubit at the top, and set the door in its side. You shall make the ark with lower, second, and third stories.
+               </Language>
+               <Language id="Arabic">
+                  ويكون الفلك مقبباً وتصنع له كواً وتكمله إلي حد ذراع من فوق وتصنع باب الفلك في جانبه وطبقات سفلية ومتوسطة وعلوية تجعله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~nok de h/ppe a~nok ]nai~ni n~oumwou n~kataklicmoc hijen p~kahi: n~tatake carx niben e~teoun ou pna n~wnq n~q/tf capec/t n~t~ve: ouoh en,ai niben et,/ hijen pkahi eue~mou. 
+               </Language>
+               <Language id="English">
+                  And behold, I am bringing a flood of water on the earth, to destroy from under heaven all flesh in which is the breath of life. Whatever is on the earth shall die. 
+               </Language>
+               <Language id="Arabic">
+                  فها أنا آتٍ بطوفان الماء علي الأرض  لأهلك كل جسد فيه روح الحياة تحت السماء  وكل شئ كائن علي الأرض يموت 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ei e~cemni n~oudia~y/k/ nemak: eke~senak e~qoun e~]kubwtoc: n~yok nem neks/ri nem tekc~himi nem nihiomi n~te neks/ri nemak.
+               </Language>
+               <Language id="English">
+                  But I will establish My covenant with you; and you shall go into the ark-you, your sons, your wife, and your sons' wives with you.
+               </Language>
+               <Language id="Arabic">
+                  وأقرر عهدي معك. فتدخل الفلك أنت وبنوك وإمرأتك ونساء بنيك معك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem e~bolqen niy/rion t/rou: nem e~bolqen nitebnwoui~ t/rou: nem e~bolqen carx niben: c~nau c~nau: e~bol n~q/tou t/rou eke~olou e~qoun e~]kubwtoc: hina n~teksanousou nemak: ouoh eue~swpi n~ouhwout nem ouchimi.
+               </Language>
+               <Language id="English">
+                  From every living thing of all flesh you shall bring two of every kind into the ark, to keep them alive with you; they shall be male and female.
+               </Language>
+               <Language id="Arabic">
+                  ومن جميع الوحوش الدواب ومن كل ذي جسد إثنين إثنين. من كل تدخل إلي الفلك لكي تعولها معك. تكون ذكراً وأنثي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ebolqen nihala] eth/l katagenoc: nem e~bolqen nitebnwoui~ t/rou kata genoc: nem e~bolqen ni[a~tfi ethijen p~kahi katagenoc: c~nau c~nau eue~i~ e~qoun harok e~sanousou nemak ouoh eue~swpi n~ouhwout nemouc~himi n~yok de eke~[inak e~bolqen niq~r/oui~ t/rou: 
+               </Language>
+               <Language id="English">
+                  Of the birds after their kind, of animals after their kind, and of every creeping thing on the earth after its kind, two of every kind, they will enter into the ark with you, male and female, to keep them alive. 
+               </Language>
+               <Language id="Arabic">
+                  ومن الطيور الطائرة كجنسها. ومن جميع البهائم كأجناسها ومن الهوام التي علي الأرض كأجناسها إثنين إثنين تدخل إليك لتعولها معك. ويكون ذكراً وأنثي  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  nem n/e~ teten naouomou ouoh eke~youw~tou harok: eue~swpi nak nem nike,wouni e~v~ouomou.
+               </Language>
+               <Language id="English">
+                  You shall also take for yourself all kinds of food to eat, and you shall gather it both for yourself and for them."
+               </Language>
+               <Language id="Arabic">
+                  وأنت فخذ لك من كل الأطعمة التي تأكلونها وإجمعها إليك لتكون لك وللآخرين مأكلاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ri n~je Nwe~ n~hwb niben eta P[oic Vnou] henhwnf e~rwou: afi~ri m~pair/].
+               </Language>
+               <Language id="English">
+                  Thus Noah did according to all the Lord God commanded him, so he did.
+               </Language>
+               <Language id="Arabic">
+                  ففعل نوح كل ما أمره به الرب الإله هكذا فعل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] n~Nwe~: je masenak n~yok nem pek/i t/rf e~qoun e~]kubwtoc: je n~yok pe e~tainau e~rok n~y~m/i mpam~yo n~q~r/i qen pai jwou:
+               </Language>
+               <Language id="English">
+                  Then the Lord God said to Noah, "Enter the ark, you and all your family, because I have seen you righteous before Me in this generation.
+               </Language>
+               <Language id="Arabic">
+                  وقال الرب الإله لنوح : إمض أنت وأهل بيتك وأدخل الفلك لأنك أنت هو الذي رأيتك باراً أمامي في هذا الجبل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ebolqen nitebnwoui~ eyouab a~lioui~ e~qoun harok n~sasf sasf n~hwout nem c~himi: e~bolqen nitebnwou i~ e~te n~ceouab an c~nau c~nau n~hwout nem c~himi: 
+               </Language>
+               <Language id="English">
+                  You shall also bring with you into the ark the clean cattle by sevens, male and female; and the unclean cattle by twos, male and female;
+               </Language>
+               <Language id="Arabic">
+                  من جميع البهائم التي ليس بطاهرة إثنين إثنين ذكراً وأنثي ومن طيور السماء الطاهرة سبعة سبعة ذكراً  وأنثي,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~bolqen nihala] n~te t~ve n/eyouab sasf sasf n~hwout nem c~himi: nem e~bolqen nihala] n~te t~ve e~te nce ouab an: c~nau c~nau n~hwot nem c~himi e~sanousou n~jroj hijen p~kahi t/rf.
+               </Language>
+               <Language id="English">
+                  And the clean birds of heaven [by sevens, male and female; and the unclean birds of the sky] by twos, male and female, to keep seed alive on the face of all the earth.
+               </Language>
+               <Language id="Arabic">
+                  ومن طيور السماء غير الطاهرة إثنين إثنين ذكراً وأنثي, ليتربي منها نسلاً علي الأرض كلها  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eti~gar ke sasf n~e~hoou: ]nai~ni n~oumwou n~kataklucmoc hijen pikahi n~h~me n~e~hoou nem h~me n~e~jwrh: eie~fw] e~bol m~picwnt t/rf e~taiyamiof e~bolha p~ho m~p~kahi:
+               </Language>
+               <Language id="English">
+                  For after seven more days I will cause it to rain on the earth forty days and forty nights, and I will blot out from the face of the earth every living thing I made."
+               </Language>
+               <Language id="Arabic">
+                  لأني بعد سبعة أيام أمطر ماء الطوفان علي الأرض أربعين يوماً وأربعين ليلة  وأمحو كل الخليقة التي خلقتها عن وجه الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ri n~je Nwe~ n~hwb niben e~ta P[oic Vnou] henhwnf e~rwou: Nwe~ de naf,/ qen coou se n~rompi: ouoh a~ pimwou n~katak~lucmoc i~ hijen pikahi.
+               </Language>
+               <Language id="English">
+                  So Noah did all the Lord God commanded him. Now Noah was six hundred years old when the flood of waters came on the earth.
+               </Language>
+               <Language id="Arabic">
+                  ففعل نوح كل ما أمر به الرب الإله وكان نوح إبن ست مئة سنة  إذ هطل ماء الطوفان علي الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afsenaf de n~je Nwe~ nem nef s/ri nem tefc~himi: nem nihiomi n~te nefs/ri nemaf e~qoun e~]kubwtoc: eybe pimwou n~katak~lucmoc:
+               </Language>
+               <Language id="English">
+                  Then Noah, with his sons, his wife, and his sons' wives, entered the ark because of the flood waters.
+               </Language>
+               <Language id="Arabic">
+                  فمضي نوح وبنوه وإمرأتٍه ونساء بنيه معه ودخلوا الفلك بسبب ماء الطوفان  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~bolqen nitebnwoui~ e~youab: nem e~bolqen nitebnwoui~ e~te n~ceouaban: nem e~bolqen nihala] eyouab: nem e~bolqen nihala] e~te n~ceouab an: nem e~bolqen [a~tfi niben ethijen pikahi: 
+               </Language>
+               <Language id="English">
+                  Also the clean and unclean birds, the clean and unclean cattle, and everything that creeps on the earth, 
+               </Language>
+               <Language id="Arabic">
+                  ومن البهائم الطاهرة ومن البهائم التي ليست بطاهرة ومن الطيور الطاهرة ومن الطيور الغير طاهرة  ومن كل الهوام التي علي الأرض,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cnau c~nau: ause nwou e~qoun e~]kubwtoo ha nwe~: ouhwout nem ouc~himi: kata v~r/] e~ta P[oic Vnou] honhen naf.
+               </Language>
+               <Language id="English">
+                  Entered with Noah into the ark, two by two, male and female, as God commanded him.
+               </Language>
+               <Language id="Arabic">
+                  داخل إثنان إثنان مع نوح إلي الفلك  ذكراً وأنثي كما أمره الرب الإله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh acswpi menenca sasf n~e~hoou a~ pimwou n~katak~lucmoc swpi hijen p~kahi: qen ]mah coou se n~rompi qen p~wnq n~Nwe~: qen pia~bot m~mah c~nau n~cou m/t sasf m~pia~bot: n~hr/i qen pai e~hoou: auvwrj n~je nimoumi t/rou n~te v~noun eynaaf: ouoh nikatarakt/c n~te t~ve auouwn:
+               </Language>
+               <Language id="English">
+                  Then it came to pass after seven days, the waters of the flood came upon the earth. In the six-hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day, all the fountains of the great deep were broken up, and the floodgates of heaven were opened.
+               </Language>
+               <Language id="Arabic">
+                  وحدث بعد سبعة أيام أن مياه الطوفان صارت علي الأرض في سنة ست مئة من حياة نوح في الشهر الثاني في اليوم السابع عشر من الشهر في ذلك اليوم تفجرت كل ينابيع الغمر العظيم  وتفتحت ميازيب السماء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afswpi m~pikataklucmoc hijen p~kahi: n~h~me n~e~hoou nem h~me n~e~jwrh. Nh~r/i de qen pai e~hoou afsenaf e~qoun e~]kubwtoc n~je Nwe~ nem nefs/ri: C/m: ,am: Iavey: nis/ri n~te Nwe: nem tef c~himi: nem ]som] n~c~himi n~te nefs/ri nemaf e~qoun e~]kubwtoc.
+               </Language>
+               <Language id="English">
+                  Then it rained on the earth forty days and forty nights. On the very same day Noah and his wife, his sons, Shem, Ham, and Japheth, and their wives entered the ark.
+               </Language>
+               <Language id="Arabic">
+                  وكان الطوفان علي الأرض أربعين يوماً وأربعين ليلة. وفي هذا اليوم دخل نوح وبنوه إلي الفلك  سام وحام ويافث بنو نوح وإمرأته ونساء بنيه الثلاث معه إلي الفلك  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~ywou nem niy/rion kata genoc: nem [a~tfi niben etkim hijen p~kahi katagenoc: nem hal/t niben kata nougenoc. Ausenwou e~qoun e]kuwtoc: c~nau c~nau: e~bolqen carx niben: e~te ouon oupna n~wnq n~q/tou.
+               </Language>
+               <Language id="English">
+                  Also, all the wild animals after their kind, all cattle after their kind, every creeping thing moving upon the earth after its kind, and every bird after its kind, entered the ark with Noah, two by two, of all flesh in which is the breath of life.
+               </Language>
+               <Language id="Arabic">
+                  هم والوحوش كأجناسها وكل الهوام التي تدب علي الأرض كأجناسها  وكل الطيور كأجناسها دخلت الفلك إثنين إثنين من كل ذي جسد فيه روح حياة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~/eyna e~qoun ouhwout nem ouc~himi: e~bolqen carx niben ausenwou eqoun kata v~r/] e~ta Vnou] honhen e~totf n~Nwe~: ouoh a~P[c Vnou] s~yam n~]kubwtoc cabol m~moc:
+               </Language>
+               <Language id="English">
+                  So those that entered, male and female of all flesh, went in as God commanded him. Then the Lord God shut him in the ark. Now the flood was on the earth forty days and forty nights.
+               </Language>
+               <Language id="Arabic">
+                  والداخلات دخلت ذكراً وأنثى من كل ذي جسد دخلت كما أمر الله نوحاً  وأغلق الرب الإله الفلك من خارج. وكان ماء الطوفان علي الأرض أربعين يوماً وأربعين ليلة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~mwou n~katak~lucmoc swpi hijen p~kahi n~hme n~ehoou nem hme n~ejwrh: ouoh afa~sai n~je pimwou aftwoun n~]kubwtoc ouoh ac[ici e~bolha p~kahi: nafa~mahi n~je pimwou: ouoh nafn/ou n~a~sai e~masw pe ejen pikahi: ouoh nacn/ou n~je ]kubwtoc cap~swi m~pimwou. Pimwou de nafa~mahi e~masw hijen pikahi: p~uoh afhwbc n~nitwou t/rou et[oci n/etcapec/t n~t~ve.
+               </Language>
+               <Language id="English">
+                  The waters increased and lifted up the ark, and it rose high above the earth. So the waters prevailed and greatly increased on the earth, and the ark moved about on the surface of the waters. The waters prevailed exceedingly on the earth, and all the high mountains under the whole heaven were covered.
+               </Language>
+               <Language id="Arabic">
+                  وكثر الماء ورفع الفلك فإرتفع عن الأرض وتعاظمت الماء وكانت تتكاثر جداً علي الأرض وكان الفلك يسير فوق الماء و زاد الماء و كثر جدا علي الارض فتغطت جميع الجبال الشامخه التي تحت السماء.  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mm/t tiou m~mahi af[ici cap~swi n~je pimwou ouoh afhwbc n~nitwout/rou et[oci aumounk n~je carx niben etkim hijen p~kahi.
+               </Language>
+               <Language id="English">
+                   The waters prevailed fifteen cubits upward, and covered all the high mountains. And all flesh died that moves on the earth:
+               </Language>
+               <Language id="Arabic">
+                  وزاد الماء فوق الجبال خمسة عشر ذراعاً  وغطي الجبال الشامخة كلها وهلك كل ذي جسد كان يدب علي الأرض
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Nem nihala] nem nitebnwoui~ nem niy/rion nem [a~tfi niben etkim hijen p~kahi nem rwmi niben.
+               </Language>
+               <Language id="English">
+                  birds and cattle, wild animals, and every creeping thing that moves on the earth, and every man.
+               </Language>
+               <Language id="Arabic">
+                  من الطيور والبهائم والوحوش  وكل الزحافآت التي كانت تزحف علي الأرض وجميع الناس 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem ouon niben e~te ouon oup~neuma n~wnq n~q/tou ouoh en,ai niben e~naf,/ hijen pisouie aumou. Ouoh affw] e~bol n~je picwnt t/rf v/e~naf,/ hijen pho m~pkahi t/rf:
+               </Language>
+               <Language id="English">
+                  Thus all things in whose nostrils was the breath of life, and everything on dry land, died. So He blotted out all living things on the face of the earth:
+               </Language>
+               <Language id="Arabic">
+                  كل ما كان فيه نسمة حياة. وكل ما كان علي اليابسة مات فمحيت كل الخليقة التي كانت علي وجه الأرض
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icjen v~rwmi sa p~tebn/ nem ni[atfi nem nihala] n~te t~ve aufw] e~bol hijen p~kahi: 
+               </Language>
+               <Language id="English">
+                  Both man and cattle, creeping things and the birds of heaven. They were blotted out from the earth.
+               </Language>
+               <Language id="Arabic">
+                  كلها من الناس والبهائم والهوام وطيور السماء فإنمحت من علي الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afcwjp m~mauatf n~je Nwe nem n/eynemaf qen ]kubwtoc:
+               </Language>
+               <Language id="English">
+                  Only Noah and those with him in the ark remained alive.
+               </Language>
+               <Language id="Arabic">
+                  وبقي نوح وحده ومن معه في الفلك 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh af[ici n~je pimwou hijen p~kahi n~se tebi n~e~hoou. Ouoh a~Vnou] erv~meui~ n~Nwe~: nem niy/rion t/rou: nem nitebnwoui~ t/rou: nem nihala] t/rou: nem ni[a~tfi t/rou: nem n/e~nau nemaf qen ]kubwtoc:
+               </Language>
+               <Language id="English">
+                  Now the waters prevailed on the earth one hundred and fifty days. Then God remembered Noah, and whatever was with him in the ark: all the wild animals, all the cattle, all the birds, and all the creeping things.
+               </Language>
+               <Language id="Arabic">
+                  وإرتفع الماء عن الأرض مئة وخمسين يوماً. ثم ذكر الله نوحاً وكل الوحوش وكل الدواب وكل الطيور وكل الهوام والذين كانوا معه في الفلك  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Vnou] i~ni n~oup~neuma hijen p~kahi afhrour n~je pimwou: Ouoh auhwbc n~je nimoumi n~te v~noun: nem nikatarakt/c n~te t~ve: ouoh aftahno n~je pimounhwou qen t~ve:
+               </Language>
+               <Language id="English">
+                  And God made a wind to pass over the earth, and the waters subsided. The fountains of the deep and the floodgates of heaven were also stopped, and the rain from heaven was restrained.
+               </Language>
+               <Language id="Arabic">
+                  وأجاز الله ريحاً علي الأرض فهبط الماء وإنسدت ينابيع الغمر وميازيب السماء فإمتنع المطر من السماء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naf] n~totf n~je pimwou efmosi e~bolha p~kahi naf] totfpe naf n/ou n~cbok n~je pimwou menenca se tebi n~e~hoou.
+               </Language>
+               <Language id="English">
+                  And the waters receded continually from the earth. At the end of the hundred and fifty days the waters decreased.
+               </Language>
+               <Language id="Arabic">
+                  وغاص الماء راجعاً عن الأرض ونضب متناقصاً من بعد مائة وخمسين يوماً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh achemci n~je ]kubwtoc qen pia~bot m~mah sasf: n~cou m/t sasf m~pia~bot hijen pitwou n~te ararat:
+               </Language>
+               <Language id="English">
+                  Then the ark rested in the seventh month, on the seventeenth day of the month, on the mountains of Ararat.  
+               </Language>
+               <Language id="Arabic">
+                  وإستقر الفلك في الشهر السابع من اليوم السابع عشر من الشهر علي جبل أراراط  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pimwou de afmosi nafn/ou n~c~bok pe sa pia~bot m~mah m/t: n~h~r/i de qen pia~bot m~mah m/t ouai n~couai m~pia~bot: auouwnhe~bol n~je nia~v/oui~ n~te nitwou:
+               </Language>
+               <Language id="English">
+                  And the waters decreased continually until the tenth month. In the tenth month, on the first day of the month, the tops of the mountains were seen.
+               </Language>
+               <Language id="Arabic">
+                  وكانت المياه ترسب وتنقص إلي الشهر العاشر  وفي الشهر الحادي عشر في اليوم الأول من الشهر ظهرت رؤوس الجبال  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acswpi menenca h~me n~e~hoou: afouwn n~je Nwe~ e~pisoust n~te ]kubwtoc y/e~tafyamioc.
+               </Language>
+               <Language id="English">
+                  So it came to pass, at the end of forty days, Noah opened the window of the ark he had made.
+               </Language>
+               <Language id="Arabic">
+                  وحدث من بعد أربعين يوماً أن نوحاً فتح طاقة الفلك التي عملها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afouwrp m~pia~bwk e~bol: e~nau je an a~pimwou h~rour: ouoh etafi~ e~bol m~peftacyo harof satefswoui~ n~je pimwou e~bolhap~kahi: 
+               </Language>
+               <Language id="English">
+                  Then he sent out a raven, which kept going to and fro until the waters dried up from the earth. 
+               </Language>
+               <Language id="Arabic">
+                  وسرح الغراب لينظر إن كان الماء إنقطع  فلما خرج لم يرجع إليه حتي جف الماء من الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afouwrp n~][ropmi e~bol hi vahou m~mof: e~nau je an a~pimwou h~rour e~bolha p~ho m~p~kahi:
+               </Language>
+               <Language id="English">
+                  He also sent out from himself a dove, to see if the waters had receded from the face of the ground.
+               </Language>
+               <Language id="Arabic">
+                  ثم أرسل الحمامة خلفه ليري هل إنقطع الماء عن وجه الأرض
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ete m~pe][rompi jem man~emton n~nec[a~lauj: actacyo e~qoun harof e~]kubwtoc: je ne ouon mwou pe hijen p~ho m~p~kahi t/rf: 
+               </Language>
+               <Language id="English">
+                  But the dove found no resting place for the sole of her foot, and she returned to him in the ark, for the waters were on the face of the whole earth. 
+               </Language>
+               <Language id="Arabic">
+                  فلما لم تجد الحمامة مستقراً لرجليها رجعت إليه ودخلت الفلك لأن مياهاً كانت علي وجه الأرض كلها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh e~tafcouten tefjij e~bol af[itc afenc e~qoun harof e~]kubwtoc. Ouoh afw~oun~h/t n~ke sasf n~e~hoou: palin on afouwrp n~][~rompi e~bol qen ]kubwtoc:
+               </Language>
+               <Language id="English">
+                  So he put out his hand and took her, and brought her to himself in the ark. Then he waited yet another seven days, and again he sent out the dove from the ark.
+               </Language>
+               <Language id="Arabic">
+                  فمد يده وأخذها وأدخلها إليه في الفلك فلبث أيضاً سبعة أيام أخر وعاد فأرسل الحمامة من الفلك
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Actacyo e~qoun harof e~ ]kubwtoc n~je ][rompi m~v~nau n~han a~ rouhi: ne ouon hanjwbi n~te oulaqen n~jwit ,/ qen rwc: afe~mi n~je Nwe~ je a~p mwou h~rour e~bol hijen p~kahi: 
+               </Language>
+               <Language id="English">
+                  The dove returned to him in the evening, and behold, a freshly plucked olive leaf was in her mouth; and Noah knew the waters had receded from the earth. 
+               </Language>
+               <Language id="Arabic">
+                  فرجعت إليه عند المساء. وإذ ورقة زيتون خضراء في فمها فعلم نوح أن الماء قد إنقطع عن الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh af w~ou n~h/t n~ke sasf n~e~hoou: palin on afouwrp n~][~rompi e~bol: ouoh m~pecouah totc je e~tacyo e~qoun harof.
+               </Language>
+               <Language id="English">
+                  So he waited yet another seven days days and again sent out the dove; however, she did not return to him anymore.
+               </Language>
+               <Language id="Arabic">
+                  ثم تأني سبعة أيام أخر وأرسل الحمامة أيضاً فلم تعد ترجع إليه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Acswpi de qen ]mah coou se ouai n~rompi qen p~wnq n~Nwe~ qen pia~bot n~houit n~couai m~pi a~bot: afmounk n~je pimwou e~bolha p~h m~pkahi: ouoh af[wrp n~je Nwe~ n~],/pi n~ te ]kubwtoc: ouoh afnau je a~pimwou mounk e~bolha p~ho m~p~kahi: 
+               </Language>
+               <Language id="English">
+                  And it came to pass in the six hundred and first year of Noah's life, in the first month, on the first day of the month, the waters were dried up from the earth; and Noah removed the covering of the ark and looked, and indeed, the surface of the ground was dry. 
+               </Language>
+               <Language id="Arabic">
+                  وكان في السنة الواحدة والست مئة من حياة نوح في الشهر الأول من أول الشهر جفت المياه عن وجه الأرض فكشف نوح الغطاء عن طبقات الفلك. ونظر وإذا الماء قد جف عن وجه الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  qen pia~bot de m~mah c~nau: n~cou jout sasf m~pia~bot a~p~kahi swoui~: 
+               </Language>
+               <Language id="English">
+                  Now in the second month, on the twenty-seventh day of the month, the earth was dried. 
+               </Language>
+               <Language id="Arabic">
+                  وفي الشهر الثاني من اليوم السابع والعشرين جفت الأرض  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] n~Nwe~ efjw m~moc. Je a~mou e~bolqen ]kubwtoc n~yok nem neks/ri nem tekc~him nem nihiom~i n~te neks/ri nemak: nem niy/rion t/rou nemak: 
+               </Language>
+               <Language id="English">
+                  Then the Lord God spoke to Noah, saying, "Go out of the ark, you and your wife, and your sons and their wives with you. 
+               </Language>
+               <Language id="Arabic">
+                  وكلم الرب الإله نوحاً قائلاً : أخرج من الفلك أنت وبنوك وزوجتك ونساء بنيك معك وجميع الوحوش معك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nem carx niben: icjen nihala] sa nitebnwoui~: nem [a~tfi niben etkim hijen p~kahi: a~litou e~bol nemak: ouoh aiai ouoh a~sai hijen p~kahi:
+               </Language>
+               <Language id="English">
+                  Also, bring out with you every living thing of all flesh: birds and cattle and every creeping thing that moves upon the earth, so they may abound on the earth, and increase and multiply on the earth."
+               </Language>
+               <Language id="Arabic">
+                  وكل ذي جسد من الطيور إلى البهائم، وكل الهوام التي تدب على الأرض أخرجها معك وإنمو وأكثروا على الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afi~ e~bol n~je~ Nwe~ nem nefs/ri nem tefc~himi nem nihiomi n~te nefs/ri nemaf: Nem niy/rion t/rou: nem nitebnwoui~ t/rou: nem [a~tfi niben etkim hijen p~kahi: nem hal/t niben kata nougenoc: aui~ e~bolqen ]kubwtoc.
+               </Language>
+               <Language id="English">
+                  So Noah went out, along with his wife and his sons and their wives. Every animal, every bird, and every creeping thing that moves upon the earth, according to their kind, went out of the ark.
+               </Language>
+               <Language id="Arabic">
+                  فخرج نوح وبنوه وإمرأته ونساء بنيه معه وجميع الوحوش وكل الدواب وكل الهوام التي تدب علي الأرض وكل الطيور كأجناسها خرجت من الفلك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~Nwe~ kwt n~ouman~erswousi m~Vnou]: af[i ebolqen nitebnwoui~ t/rou eyouab: nem e~bolqen nihala] t/rou eyu: afi~ni e~h~r/i n~han[~lil e~jen piman~erswousi: Ouoh afswlem n~je P[oic Vnou] e~ouc~yoi n~c~yoinoufi:
+               </Language>
+               <Language id="English">
+                  Then Noah built an altar to God, and took of every clean, animal and of every clean bird, and offered whole burnt offerings on the altar. So the Lord God smelled a sweet aroma.
+               </Language>
+               <Language id="Arabic">
+                  وبني نوح مذبحاً لله وأخذ من كل البهائم الطاهرة  ومن كل الطيور الطاهرة وأصعد محرقآتٍ علي المذبح  فإشتم الرب الإله رائحة البخور,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] e~tafmokmek: je n~naouahtot je e~c~houort pikahi eybe nihb/oui~ n~te nirwmi: je p~h/t m~v~rwmi f~raki e~jen pipethwou icjen tefmetkouji: n~naouahtot e~sari e~carx niben etonq kata v~r/] e~taiaic.
+               </Language>
+               <Language id="English">
+                  Then the Lord God thought it over and said, "I will never again curse the earth because of man's works, although the mind of man is diligently involved with evil things from his youth; nor will I again destroy every living thing as I have done.
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب الإله في فكره: إني لا أعود ألعن الأرض من أجل أعمال البشر, لأن قلب الإنسان مائل إلي الشر منذ حداثته: ولا أعود أيضاً أضرب كل ذي جسد حي كما فعلت,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nie~hoou t/rou n~te p~kahi oujroj nem ouwcq: oua~rws nem oukauma: piswm nem pih/n~swm: piehoou nem pie~jwrh n~noum~ton m~mwou.
+               </Language>
+               <Language id="English">
+                  While the earth remains, seedtime and harvest, cold and heat, summer and spring shall not cease by day or by night."
+               </Language>
+               <Language id="Arabic">
+                  كل أيام الأرض زرع وحصاد وبرد وحر وصيف وشتاء ونهار وليل لا يستريحان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afc~mou n~je Vnou] n~Nwe~ nem nefs/ri efjwm~moc nwou: je aiai ouoh a~sai mah pikahi: ouoh a~ri[oic e~rof.
+               </Language>
+               <Language id="English">
+                  Thus God blessed Noah and his sons, and said to them, "Increase and multiply, and fill the earth, and have dominion over it.
+               </Language>
+               <Language id="Arabic">
+                  وبارك الله نوحاً وبنيه وقال لهم: إنموا وأكثروا وإملأوا الأرض وتسلطوا عليها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tetenho] de nem petenc~yerter eue~swpi hijen niy/rion t/rou n~te p~kahi: nem hijen nihala] t/rou n~te t~ve: nem hijen hwb niben et kim hijen p~kahi: nem hijen nitebt n~te v~iom ait/itou qa netenjij:
+               </Language>
+               <Language id="English">
+                  For the dread and fear of you shall be upon all the wild animals of the earth, all the birds of heaven, all that move upon the earth, and all the fish of the sea. I have put them under your authority.
+               </Language>
+               <Language id="Arabic">
+                  ولتكن خشيتكم ورهبتكم علي كل وحوش الأرض وجميع طيور السماء وكل ما يدب علي الأرض وكل أسماك البحر قد دفعتها إلي أيديكم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh [atfi niben etonq: eue~swpi nwten euq~re: m~v~r/] n~hanouo] n~te oucim ait/itou t/rou nwten. 
+               </Language>
+               <Language id="English">
+                  Every moving thing that lives shall be food for you. I have given you all things, even as I did the green herbs.
+               </Language>
+               <Language id="Arabic">
+                  وكل دابة حية تكون لكم طعاماً. كالعشب الأخضر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pl/n ouaf qen ouc~nof m~'u,/ n~netenouomf: Kegar p~c~nof n~neten'u,/ eiekw] n~cwf e~bolqen tjij n~niy/rion t/rou: nem e~bolqen t~jij n~ourwmi n~coni: eie~kw] n~ca t~'u,/ m~pirwmi:
+               </Language>
+               <Language id="English">
+                  But you shall not eat flesh with its lifeblood. Surely for your lifeblood I will demand a reckoning; from the hand of all the wild animals I will require it; and I will require the life of man at the hand of his fellow man.
+               </Language>
+               <Language id="Arabic">
+                  أعطيتكم جميعها لحماً بدم نفسه لا تأكلوه , لأن دم أنفسكم أطلبه من يد جميع الوحوش ومن يد الرجل اللص أطلب نفس الرجل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/eynavwn mpc~nof n~ourwmi e~bolqen ourwmi n~t~sebiw~ m~pefc~nof eue~vonf e~bol je e~taiyamio m~pirwmi qen ouhukwn n~te Vnou]: N~ywten de aiai ouoh moh m~pikahi ouoh a~sai hiwtf.
+               </Language>
+               <Language id="English">
+                  Whoever sheds man's blood, by man his blood shall be shed; because I made man in God's image. So then, increase and multiply; and fill the earth and have dominion over it."
+               </Language>
+               <Language id="Arabic">
+                  ومن أهرق دم إنسان فيهرق دمه عوضاً عنه لأني خلقت الإنسان علي صورة الله. أما أنتم فإنموا وأكثروا وإملأوا الأرض وتكاثروا فيها.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <InsertDocument path="pascha/include/Proverbs9.1-11"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 40:9-31</Language>
+               <Language id="Arabic">إشعياء 40: 9-31</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Masenak e~p~swi &lt;ijen outwou ef[oci v/ethisennoufi n~Ciwn [ici n~tekc~m/ qen oujom v/ethiwis n~Ieroucal/m: [icin~tekc~m/ qen eujom m~pererho] a~joc nnibaki n~te Iouda.
+               </Language>
+               <Language id="English">
+                  O you who bring good tidings to Zion, go into the high mountain; O you who bring good tidings to Jerusalem, lift up your voice with strength; lift it up, be not afraid. Say to the cities of Judah,
+               </Language>
+               <Language id="Arabic">
+                  إصعد علي جبل عال يا مبشر صهيون. إرفع صوتك بقوة يا مبشر أورشليم. أرفع صوتك بقوة ولا تخف  قل لمدن يهوذا:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je h/ppe pe ten[oic f~n/ou nem oujom pefj~voi qen oumet[oic: h/ppe ic pefbe,e nemafouoh pihwb m~pefm~yo:
+               </Language>
+               <Language id="English">
+                  "Behold your God." Behold, the Lord is coming with strength, and His arm is with authority. Behold, His reward is with Him, and His work before Him.
+               </Language>
+               <Language id="Arabic">
+                  هوذا ربكم آتٍ بقوة وذراعه تحكم له  هوذا أجرته معه وعمله قدامه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] n~oumane~cwou efamoni m~pefohi n~e~cwou: ouoh qen pefjvoi f~naywou] n~hanhi/b ouoh n/e~tem~boki f~na]nom] nwou.
+               </Language>
+               <Language id="English">
+                  He will feed His flock like a shepherd and gather the lambs with His arm; and He will comfort those with young.
+               </Language>
+               <Language id="Arabic">
+                  كراع يرعي قطيع غنمه وبذراعه يجمع الحملان ويعزي الحبالي  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim afsi m~pimwou qen tefjij: t~ve qen teftertw: p~kahi t/rf qen tefqorpc: nim afsi n~nitwou qen ousi: nem nikalamvo qen oumasi:
+               </Language>
+               <Language id="English">
+                  Who measured the water in His hand, and heaven with a span, and all the earth with a handful? Who weighed the mountains in scales and the vales in a balance?
+               </Language>
+               <Language id="Arabic">
+                  من كال الماء بيده وقاس السماء بشبره والأرض كلها بقبضته؟ من وزن الجبال بالمثقال والأكام بالميزان؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim afe~mi e~p~h/t m~P[oic: ie nim pe e~tafswpi n~co[ni nemaf je aft~cabof: ie nim pe e~taftamof euhap: ie v~mwit n~te ouka]: nim pe e~taftamof e~rof: ie nim pe e~tafer sorp n~]naf ouoh n~tousebiw~ naf.
+               </Language>
+               <Language id="English">
+                  Who knows the Lord's mind, and who was His counselor; who advises Him? Or with whom does He take counsel, who instructs Him, and who teaches Him judgment and shows Him the way of understanding?
+               </Language>
+               <Language id="Arabic">
+                  من علم قلب الرب  أو من كان معه مشيراً فعلمه؟ أو من الذي أراه الحكم أو طريق الفهم؟ من عرضها له  أو من سبق فأعطاه حتي عوضه؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Icjek nieynoc t/rou aum~v~r/] n~outeltili m~mwou eca~si n~ca oukatoc: ouoh aunaopou m~v~r/] m~v~riki n~oumasi: ouoh aunaopou m~v~r/] n~ouyaf:
+               </Language>
+               <Language id="English">
+                  The nations are as a drop in a bucket and are counted as the balance of a scale; and they are counted as spittle.
+               </Language>
+               <Language id="Arabic">
+                  إنما الأمم كلها عنده مثل نقطة ماء تنقط في قادوس. ومثل غبار الميزان حسبوا  وجميعهم كالبصاق يعدون
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pilibanoc de ouhikanoc an pe e~p~cah]: nitebnwoui~ t/rou n~hanhikanoc an pe e~p~[~lil: 
+               </Language>
+               <Language id="English">
+                  Lebanon is not sufficient to burn nor its four-footed animals sufficient for a whole burnt offering.
+               </Language>
+               <Language id="Arabic">
+                  وخشب لبنان لا يعد للحريق وجميع البهائم لا تعد شيئأً للمحرقة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nieynoc t/rou ausop n~h~li: ouoh au/p n~hli: Etaretentenywn m~P[oic e~nim: ie as n~c~mot a~retentenywnf e~rof: 
+               </Language>
+               <Language id="English">
+                  All nations are as nothing and are counted as nothing. To whom then will you liken the Lord, and to what likeness will you compare Him? 
+               </Language>
+               <Language id="Arabic">
+                  جميع الأمم لديه كلا شيئ. وعنده كالعدم حسبوا. فبمن شبهتهم الرب. وبأي مثل مثلتموه؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ ouhukwn afyamioc n~je ouamse: ie ouhamnoub pe e~tafouwth n~noub aflalwf n~noub: ie ouc~mot pe e~tafmounkf n~q/tf:
+               </Language>
+               <Language id="English">
+                  Has the workman made an image, or has the goldsmith overspread it with gold, gilding it, making a likeness of Him?
+               </Language>
+               <Language id="Arabic">
+                  هل بصورة صنعها النجار. وصفحه الصائغ بالذهب وركب فيه الذهب وشبهه يتلف؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouse gar n~aterholi afcotpf n~je ouamse: ouoh qen oumetcabe safkw] je pwc f~natahof e~ratf n~ouhukwn hina n~tefs~temkim. Ntetene~mi an: n~tetencwtem an:
+               </Language>
+               <Language id="English">
+                  For the workman chooses wood that will not rot, and skillfully seeks to prepare a carved image that will not totter. Will you not know? Will you not hear?
+               </Language>
+               <Language id="Arabic">
+                  إنما خشبة لا تسوس إختارها النجار وبحكمة يطلب كيف يقيم تمثالاً لا يتحرك. ألا تعلمون؟ ألا تسمعون؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpoutame y/nou icjenh/: 
+               </Language>
+               <Language id="English">
+                  Has it not been told you from the beginning?
+               </Language>
+               <Language id="Arabic">
+                  ألم تخبروا منذ البدء؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  m~petencouen nicen] n~te p~kahi: V/e~ta~moni m~p~kw] t/rf n~te p~kahi: ouoh n/etsop n~q/tf aum~vr/] n~han s~j/ou:
+               </Language>
+               <Language id="English">
+                  Do you not know the foundations of the earth? It is He who possesses the circle of the earth, and its inhabitants are like grasshoppers.
+               </Language>
+               <Language id="Arabic">
+                  أما فهمتم اسس الأرض؟ القابض علي كل محيط الأرض والسكان فيها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/e~taftaho n~t~ve e~ratc m~v~r/] n~oukamara: ouoh af[olkoc m~v~r/] n~ouc~kun/ e~sop n~q/tc:
+               </Language>
+               <Language id="English">
+                  It is He who stretches out heaven like a vault, and spreads them out like a tent to dwell in. 
+               </Language>
+               <Language id="Arabic">
+                  كالجراد الذي رفع السماء كالقبة وبسطها كالخيمة يسكن فيها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/et] n~hanar,wn e~s~tem y~rouerjwj n~h~li:
+               </Language>
+               <Language id="English">
+                  He makes the rulers He establishes to rule to be as nothing;
+               </Language>
+               <Language id="Arabic">
+                  الذي يجعل الأراخنة كلا شئ
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pkahi de afyamiof m~v~r/] n~ouhli. N~nouci] gar oude n~nou[o oude c~ne tounouni swpi hijen p~kahi: 
+               </Language>
+               <Language id="English">
+                  He makes the earth as nothing. Scarcely shall they be planted, scarcely shall they be sown, scarcely shall their stock take root in the earth, 
+               </Language>
+               <Language id="Arabic">
+                  والأرض التي خلقها كخواء لا يزرعون ولا يغرسون ولا يكون أصلهم علي الأرض,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afnifi gar n~cwou ouoh auswoui~: oucaray/ou acolou m~v~r/] n~hanlebs:
+               </Language>
+               <Language id="English">
+                  When He shall also blow on them and they will wither, and the whirlwind will take them away like stubble.
+               </Language>
+               <Language id="Arabic">
+                  لأنه نفخ عليهم فيبسوا وحملهم العاصف كالقش.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou oun e~taretentenywnt e~nim eie~[ic ipeje v/e~youab:
+               </Language>
+               <Language id="English">
+                  "Now then, to whom will you liken Me, that I should be exalted?" says the Holy One.
+               </Language>
+               <Language id="Arabic">
+                  والآن بمن تشبهونني فأتعالي  يقول القدوس؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Fai n~netenbal e~p~[ici: a~nau je nim afyamio~ n~nait/rou: v/e~tafi~ni m~poucolcel kata tef/pi: efmou] e~rwou qen oum/s m~mwou: ouoh qen p~a~mahi n~te tefjom m~pe h~li wbs e~rof.
+               </Language>
+               <Language id="English">
+                  Lift up your eyes on high, and see. Who displayed these things? He who brings forth their host by number; He who calls them all by name. From the greatness of His glory to the strength of His might, nothing escapes Your notice.
+               </Language>
+               <Language id="Arabic">
+                  أرفعوا عيونكم إلي العلي. وأنظروا من خلق هذه كلها  الذي يخرج زينتها عدداً  يدعوها من مياه كثيرة  ومن عزة قوته لا ينسي شيئاً منها,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mperjoc gar Iakwb: ouoh ou pe e~takcaji m~mof p~Icra/l: je f~h/p n~je pamwit e~bolha Vnou]: ouoh Vnou] afw~li m~pahap afsenaf:
+               </Language>
+               <Language id="English">
+                  For why do you say, O Jacob, and speak, O Israel, saying, "My way is hidden from God, and my God took away my judgment and departed"?
+               </Language>
+               <Language id="Arabic">
+                  فلماذا تقول يا يعقوب, وبماذا تتكلم يا اسرائيل إن طريقي خفيت عن الله, وأن الله نزع قضائي فمضي؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou m~peke~mi e~b/l je akcwtem: Vnou] pisae~neh: Vnou] v/e~tafyamie~ aur/jf m~p~kahi n~nefkim oude n~nefqici: oude m~mon aur/jf n~te tefc~bw: 
+               </Language>
+               <Language id="English">
+                  So then, have you not known? Have you not heard? The everlasting God, the God who created the ends of the earth, neither hungers nor is weary. 
+               </Language>
+               <Language id="Arabic">
+                  والآن أتعلم أنك قد سمعت أن الله الابدي, الله الذي خلق أقطار الأرض لا يتحرك ولا يتعب ولا حد لعلمه؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/et] n~oujom m~pethoker: ouoh et]n~oum~kah n~h/t n~n/e~te pouh/t rwkh an.
+               </Language>
+               <Language id="English">
+                  His understanding is unsearchable. He gives strength to the hungry, and sorrow to those who do not grieve.
+               </Language>
+               <Language id="Arabic">
+                  الذي يهب للجائع قوتاً, والمعطي وجع القلب للذين لا تحترق قلوبهم جاعت الغلمان
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auhoker n~je han a~lwoui~: ouoh auqici n~je han qelsiri: ouoh nicwtp eue~eratjom:
+               </Language>
+               <Language id="English">
+                  Even the youths shall faint and be weary, and the elect shall be without strength.
+               </Language>
+               <Language id="Arabic">
+                  وتعب الشبان والمختارون يصيرون غير أقوياء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/de etjoust qath/ m~Vnou] eue~sib] n~toujom eue~ret tenh m~v~r/] n~han a~qwm: eue~[oji ouoh n~nouqici: eue~mosi ouoh n~nouhko.
+               </Language>
+               <Language id="English">
+                  But those who wait on God shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not hunger.
+               </Language>
+               <Language id="Arabic">
+                  والذين ينتظرون الله يبتدلون فتتجدد قوتهم, وتنبت له أجنحة كالنسور, يسرعون ولا يتعبون ويمشون ولا يجوعون.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Daniel 7:9-15</Language>
+               <Language id="Arabic">دانيال 7: 9-15</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Daniel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Anok Dani/l: ainau qen t~horacic m~pie~jwrh: nai nau pe san~tou,w n~hany~ronoc: ouoh pia~pac n~te nie~hoou nafhemci pe: tef hebcw nac ouwbs pe mvr/] n~ou,iwn: ouoh nifwi n~te tefa~ve mvr/] n~oucort eftoub/out:
+               </Language>
+               <Language id="English">
+                  I continued to watch until thrones were put in place, and the Ancient of Days enthroned Himself. His clothing was white as snow, and the hair of His head was like pure wool.
+               </Language>
+               <Language id="Arabic">
+                  أنا دانيال رأيت في رؤي الليل كنت أري أنه وضعت عروش وجلس العتيق الايام  لباسه أبيض كالثلج وشعر رأسه كالصوف النقي  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pefy~ronoc ousah n~,rwm pe: nef t~ro,oc ou,rwm f~oin~sah pe: ouiaro n~,~rwm nafcwk efmosi m~pefm~yo:
+               </Language>
+               <Language id="English">
+                  His throne was a fiery flame, and its wheels a burning fire. A river of fire flowed from before Him.
+               </Language>
+               <Language id="Arabic">
+                  وعرشه لهيب نار وعجلآتٍه نار متقدة  ونهر نار يخرج ويجري أمامه  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Han anso n~so nau semsi m~mof pe: ouoh hany~ba n~yba nauohi e~ratou nahraf: afhemci n~je ouk~rit/rion ouoh auouwn n~je hanjwm.
+               </Language>
+               <Language id="English">
+                  Thousands and thousands ministered to Him, and countless thousands stood before Him. The court was in session, and the books were opened.
+               </Language>
+               <Language id="Arabic">
+                  وألوف ألوف كانت تخدمه وربوات ربوات وقوف قدامه فجلس الديان وفتحت الأسفار  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai nau pe n~]ounou e~tem~mau e~bol ha t~c~m/ n~nis] n~caji n~n/e~nare pitap jw m~mwou:
+               </Language>
+               <Language id="English">
+                  Then I kept watching because of the sound of the arrogant words the horn was speaking. 
+               </Language>
+               <Language id="Arabic">
+                  ورأيت في تلك الساعة صوت الكلام العظيم الذي كان يكلم به القرن 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nainau pe san~touqwteb m~piy/r ion ouoh aftako ouoh pef cwma aut/if e~p~rokhf qen pi,rwm:
+               </Language>
+               <Language id="English">
+                  I watched until the beast was put to death and destroyed, and its body given to the burning flame.
+               </Language>
+               <Language id="Arabic">
+                  وكنت أنظر حتي قتل الوحش وهلك ودفع جسمه ليحرق بالنار.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auouw~ten n~t~ar,/ m~p~cwjp n~niy/rion ouoh au]nwou m~vouei n~te p~wnq saou,ronoc n~te ouc/ou.
+               </Language>
+               <Language id="English">
+                  As for the rest of the beasts, their dominion was taken away, yet length of life was given them for a season and a time.
+               </Language>
+               <Language id="Arabic">
+                  أما باقي الوحوش فنزع عنهم سلطانهم وأعطوا طول الحياة إلي زمان ووقت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai nau pe qen ]horacic n~te pie~jwrh: ouoh h/ppe m~v~r/] n~ous/ri n~rwmi efn/ou nem ni[/pi n~te t~ve: ouoh afvoh sa pia~pac n~tenie~hoou ouoh afenf m~pefm~yo:
+               </Language>
+               <Language id="English">
+                  I continued to observe the vision in the night, and behold; One like the Son of Man was coming with the clouds of heaven, until He came to the Ancient of Days and approached Him.
+               </Language>
+               <Language id="Arabic">
+                   ثم رأيت في روئ الليل وإذا مع سحب السماء مثل إبن الإنسان أتياً علي سحاب السماء فبلغ وجاء إلي العتيق الأيام فقربه أمامه  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh af]naf n~]ar,/ nem pitaio~ nem ]metouro: ouoh nilaoc t/rou nivul/ niacpi n~lac erbwk naf: 
+               </Language>
+               <Language id="English">
+                  Then dominion, honor, and the kingdom were given to Him, and all peoples, tribes, and languages served Him. 
+               </Language>
+               <Language id="Arabic">
+                  فأعطي له الرئاسة والكرامة والملك وجميع الشعوب والأسباط ولغات الألسن تتعبد له,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pefersisi ouersisi n~e~neh v/e~te m~pafcini: ouoh tefmetouro n~nectako.
+               </Language>
+               <Language id="English">
+                  His authority is an everlasting authority which shall not pass away, and His kingdom shall not be destroyed.
+               </Language>
+               <Language id="Arabic">
+                  وسلطانه سلطان أبدي لا يزول وملكه ليس له إنقضاء  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afs~yorter n~je papna qen tahexic a~nok Dani/l: ouoh nihoracic n~te taa~ve naus~yorter m~moi.
+               </Language>
+               <Language id="English">
+                  My spirit within me trembled with fear, and the visions in my head troubled me.
+               </Language>
+               <Language id="Arabic">
+                  أما أنا دانيال فإرتعدت روحي وفرائصي وأفزعتني رؤي راسي.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 24:1-3</Language>
+               <Language id="Arabic">مزمور 24: 1-3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Aifai n~ta'u,/ e~p~swi harok P[oic panou]: ai,ah~y/i e~rok n~nek y~ri[isipi sa e~neh: oude m~peny~roucwbi n~cwi n~je najaji:
+               </Language>
+               <Language id="English">
+                  To You, O Lord, I lift up my soul, O my God. I trust in You; let me not be ashamed; let not my enemies laugh at me.
+               </Language>
+               <Language id="Arabic">
+                  إليك يا رب رفعت نفسي: إلهي عليك توكلت فلا تخزني إلي الأبد: ولا تضحك بي أعدائي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Marou[isipi n~ywou n~je n/eti~ri n~]a~nomia~ qen petsouit: All/louia.
+               </Language>
+               <Language id="English">
+                  Let those be ashamed who act lawlessly in vain. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  فليخز الذين يصنعون الإثم باطلاً. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 24:3-35</Language>
+            <Language id="Arabic">متى 24: 3-35</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Efhemci de hijen pitwou n~te nijwit: aui~ harof n~je nefmay/t/c cap~ca m~maua~tou eujwm~moc je ajoc nan je a~re nai naswpi n~y~nau: ouoh as pe pim/ini n~te pekjini~ nem t~qae~ n~te pai e~neh:
+               </Language>
+               <Language id="English">
+                  Now as He sat on the Mount of Olives, the disciples came to Him privately, saying, “Tell us, when will these things be? And what will be the sign of Your coming, and of the end of the age?”
+               </Language>
+               <Language id="Arabic">
+                  وفيما هو جالس علي جبل الزيتون فجاء إليه تلاميذه علي إنفراد وحدهم قائلين: قل لنا متي يكون هذا  وما هي علامة مجيئك وانقضاء هذا الدهر؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afe~rouw~ n~je I/couc pejaf nwou: je a~nau m~per,ac n~te ouai cerem y/nou: Ere oum/s gar i~ qen paran eujw m~moc: je a~nok pe Pi,~rictoc: ouoh eue~cerem oum/s.
+               </Language>
+               <Language id="English">
+                  And Jesus answered and said to them: “Take heed that no one deceives you. For many will come in My name, saying, ‘I am the Christ,’ and will deceive many. 
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال لهم: أنظروا لا يضلكم أحد  فإن كثيرين يأتٍون بإسمي قائلين إني أنا هو المسيح  ويضلون كثيرين  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eretene~cwtem de n~hanbwtoc nem hanc~m/ m~bwtoc: a~nau m~pers~yorter hw] gar pe n~touswpi: alla m~pate t~qae~ swpi:
+               </Language>
+               <Language id="English">
+                  And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet.
+               </Language>
+               <Language id="Arabic">
+                  وسوف تسمعون بحروب وأخبار حروب. أنظروا لا تضطربوا لأنه لابد أن تكون هذه كلها  ولكن ليس المنتهي بعد  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ere oueynoc gar twnf e~jen oueynoc ouoh oumetouro e~jen oumetouro: ouoh eue~swpi n~je han monmen nem hanh~ko nem hanmou katama: 
+               </Language>
+               <Language id="English">
+                  For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places.
+               </Language>
+               <Language id="Arabic">
+                  لأنه تقوم أمة علي أمة ومملكة علي مملكة وتكون زلازل ومجاعات وأوبئة في أماكن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai de t/rou h/ n~ninakhi ne. Tote eue~]y/nou e~q~r/i e~p~ hojhej ouoh eue~qwteb y/nou: ouoh e~retene~swpi eumoc] m~mwten n~je nieynoc t/rou eybe paran: 
+               </Language>
+               <Language id="English">
+                  All these are the beginning of sorrows. “Then they will deliver you up to tribulation and kill you, and you will be hated by all nations for My name’s sake. 
+               </Language>
+               <Language id="Arabic">
+                  وهذه كلها مبتدأ الأوجاع  حينئذ يسلمونكم إلي الضيق ويقتلونكم  وتكونون مبغضين من جميع الأمم لأجل أسمي. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote e~reoum/s ,atotou e~bol: ouoh eue] n~noue~r/ou: ouoh eue~mecte noue~r/ou: Ouoh oum/s m~p~rov/t/c n~nouj eue~twounou ouoh eue~cerem oum/s.
+               </Language>
+               <Language id="English">
+                  And then many will be offended, will betray one another, and will hate one another. Then many false prophets will rise up and deceive many.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ يشك كثيرون ويسلمون بعضهم بعضاً ويبغضون بعضهم بعضاً ويقوم كثيرون من الأنبياء الكذبة ويضلون كثيرين  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eybe p~a~sai n~te ]a~nomia~ t~a~gap/ n~oum/s ece~hors: V/ de eyna a~moni n~tot f sae~bol vai pe v/eynanohem: 
+               </Language>
+               <Language id="English">
+                  And because lawlessness will abound, the love of many will grow cold. But he who endures to the end shall be saved. 
+               </Language>
+               <Language id="Arabic">
+                  ولكثرة الإثم تبرد المحبة من الكثيرين ومن يصبر إلى المنتهي يخلص. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eue~hiwis m~pai euaggelion n~te ]metouro qen ]oikoumen/ t/rc eumetmeyre n~nieynoc t/rou tote ece~i~ n~je ]qae~.
+               </Language>
+               <Language id="English">
+                  And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come.
+               </Language>
+               <Language id="Arabic">
+                  ويكرز ببشارة الملكوت هذه في كل المسكونة شهادة لجميع الأمم وحينئذ يأتي المنتهي  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eswp de n~tetennau e~picwf n~tep~safe v/e~tafjof ebolhiten Dani/l pip~rov/t/ec efohi e~ratf qen pima eyouab v/etws marefka]: 
+               </Language>
+               <Language id="English">
+                  “Therefore when you see the ‘abomination of desolation,’ spoken of by Daniel the prophet, standing in the holy place” (whoever reads, let him understand), 
+               </Language>
+               <Language id="Arabic">
+                  فمتي نظرتم رجسة الخراب التي قيل عنها في دانيال النبي قائمة في المكان المقدس  فليفهم القارئ,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote n/etqen ]ioudea~ marouvwt hijen nitwou: Ouoh v/et,/ hijen p~jene~vwr m~peny~refi~ e~pec/t e~el n/et,/ qen pef/i.
+               </Language>
+               <Language id="English">
+                  “Then let those who are in Judea flee to the mountains. Let him who is on the housetop not go down to take anything out of his house.
+               </Language>
+               <Language id="Arabic">
+                  فحينئذ فليهرب الذين في اليهودية إلي الجبال والذي علي السطح لا ينزل ليأخذ ما في بيته.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/et,/ qen tkoi m~peny~refkotf e~vahou e~el pefh~bwc: 
+               </Language>
+               <Language id="English">
+                  And let him who is in the field not go back to get his clothes. 
+               </Language>
+               <Language id="Arabic">
+                  والذي في الحقل فلا يرجع إلي ورائه ليأخذ ثوره. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoi de n~n/e~te m~boki nem n/et][i qen nie~hoou e~tem~mau: twbh de hina n~te stem petenvwt swpi qen tv~rw oude qen p~cabbaton.
+               </Language>
+               <Language id="English">
+                  But woe to those who are pregnant and to those who are nursing babies in those days! And pray that your flight may not be in winter or on the Sabbath.
+               </Language>
+               <Language id="Arabic">
+                  وويل للحبالي والمرضعات في تلك الأيام  فصلوا لكي لا يكون هربكم في شتاء ولا في سبت  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ere ounis] gar n~hojhej swpi qen pic/ou e~tem~mau: m~pe ouon swpim~pefr/] icjenh/ m~pikocmoc sa]nou: oude on n~ne ouon swpi m~pefr/].
+               </Language>
+               <Language id="English">
+                  For then there will be great tribulation, such as has not been since the beginning of the world until this time, no, nor ever shall be.
+               </Language>
+               <Language id="Arabic">
+                  لأنه سيكون في ذلك الوقت ضيق شديد لم يكن مثله منذ ابتداء العالم إلي الآن  ولن يكون مثله أيضاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~b/l je a~nie~hoou e~tem~mau erkouji naunanohem an pe n~je carx niben: eybe nicwtp de e~re nie~hoou e~tem~mau erkouji.
+               </Language>
+               <Language id="English">
+                  And unless those days were shortened, no flesh would be saved; but for the elect’s sake those days will be shortened.
+               </Language>
+               <Language id="Arabic">
+                  ولو لم تقصر تلك الأيام لما كان يخلص كل ذي جسد لكن لأجل المختارين تقصر تلك الأيام.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  tote a~resan ouai joc nwten je ic Pi,~rictoc tai ie f~t/ m~pertenhotou.
+               </Language>
+               <Language id="English">
+                  “Then if anyone says to you, ‘Look, here is the Christ!’ or ‘There!’ do not believe it.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ إن قال لكم أحد هوذا المسيح هنا أو هناك فلا تصدقوا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eue~twonou gar n~je han,c n~nouj nem han p~rov/t/c n~nouj ouoh eue~]n~hannis] m~m/ini nem han sv/ri hwcte e~ne ouons~jom n~cecwrem nnikecwtp. Ich/ppe aiersorp n~joc nwten.
+               </Language>
+               <Language id="English">
+                  For false christs and false prophets will rise and show great signs and wonders to deceive, if possible, even the elect. See,
+               </Language>
+               <Language id="Arabic">
+                    فإنه سيقوم مسحاء كذبة وأنبياء كذبة ويعطون آيات عظيمة وعجائب حتى يضلوا لو أمكن المختارين أيضاً  ها أنا قد سبقت وقلت لكم  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~swp de ausanjoc nwten je ic h/ppe efhi p~safe m~peri~ ebol: h/ppe efqen nitamion m~pertenhotou.
+               </Language>
+               <Language id="English">
+                  “Therefore if they say to you, ‘Look, He is in the desert!’ do not go out; or ‘Look, He is in the inner rooms!’ do not believe it.
+               </Language>
+               <Language id="Arabic">
+                  فإن قالوا لكم ها هو في البرية فلا تخرجوا  أو ها هو في المخادع فلا تصدقوا  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] gar m~picetebr/j e~safi~ e~bol capeiebt ouoh n~tefouonhf capement vai pe m~v~r/] m~p~jini m~p~s/ri m~v~rwmi: 
+               </Language>
+               <Language id="English">
+                  For as the lightning comes from the east and flashes to the west, so also will the coming of the Son of Man be. 
+               </Language>
+               <Language id="Arabic">
+                  لأنه كما أن البرق يخرج من المشرق فيظهر في المغرب  هكذا يكون مجيئ إبن الإنسان.  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pima e~te ]solhc m~mof sauywu] mmau n~je nia~qwm:
+               </Language>
+               <Language id="English">
+                  For wherever the carcass is, there the eagles will be gathered together.
+               </Language>
+               <Language id="Arabic">
+                  وحيثما تكون الجثة فهناك تجتمع النسور.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Catotf de menenca pihojhej n~te nie~hoou e~te mmau v~r/ efe~er,aki: ouoh piioh n~nef] mpefouwini: ouoh niciou eue~hei e~pec/t e~bolqen t~ve: ouoh nijom n~te niv/oui~ eue~kim.
+               </Language>
+               <Language id="English">
+                  “Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken.
+               </Language>
+               <Language id="Arabic">
+                  وللوقت بعد ضيق تلك الأيام تظلم  الشمس  والقمر لا يعطي ضوءه والكواكب تتساقط من السماء. وقوات السموات تتزعزع  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote efe~ouonhf n~je pim/ini n~te p~s/ri mv~rwmi qen tve: tote eue~nehpi n~je nivul/ t/rou n~te p~kahi ouoh eue~nau e~p~s/ri mv~rwmi efn/ou e~jen ni[/pi n~te t~ve nem oujom nem ounis] n~w~ou.
+               </Language>
+               <Language id="English">
+                  Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory.
+               </Language>
+               <Language id="Arabic">
+                  وحينئذ تظهر علامة إبن الإنسان في السماء وحينئذ تنوح جميع قبائل الأرض  ويبصرون إبن الإنسان آتٍياً علي سحب السماء بقوة ومجدٍ عظيمٍ  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~taouo~ n~nefaggeloc nem ounis] n~calpiggoc ouoh eue~ywou] n~nefcwtp qen pif~tey/ou: icjen aur/jou n~niv/oui~ saaur/jou:
+               </Language>
+               <Language id="English">
+                  And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other.
+               </Language>
+               <Language id="Arabic">
+                  ويرسل ملائكته ببوق عظيم الصوت  فيجمعون مختاريه من الرياح الاربع  من أقاصي السموات إلي أقاصيها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ebolqen ]bw n~kente a~rie~mi e~]parabol/: je e~swp h/d/ nte necjal[~noun ouoh n~te necjwbi ]ouwe~bol: saretene~mi je f~qent n~je piswm. 
+               </Language>
+               <Language id="English">
+                  “Now learn this parable from the fig tree: When its branch has already become tender and puts forth leaves, you know that summer is near. 
+               </Language>
+               <Language id="Arabic">
+                  فمن شجرة التين تعلموا المثل  فإنها إذا لانت أغصانها وأخرجت أوراقها تعلمون أن الصيف قد قرب  هكذا أنتم أيضأ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pair/] n~ywten hwten e~swp a~retensannau e~nai t/rou:
+               </Language>
+               <Language id="English">
+                  So you also, when you see all these things, know that it is near—at the doors!
+               </Language>
+               <Language id="Arabic">
+                  إذا رأيتم هذا كله  فإعلموا أنه قريب علي الأبواب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  a~rie~mi je f~qent hiren nirwou: Am/n ]jw m~moc nwten je n~ne tai genea~ cini sate nai t/rou swpi: 
+               </Language>
+               <Language id="English">
+                  Assuredly, I say to you, this generation will by no means pass away till all these things take place. 
+               </Language>
+               <Language id="Arabic">
+                  الحق أقول لكم لا يمضي هذا الجيل حتي تكون هذه كلها  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  T~ve nem p~kahi nacini alla nacaji de n~noucini.
+               </Language>
+               <Language id="English">
+                  Heaven and earth will pass away, but My words will by no means pass away.
+               </Language>
+               <Language id="Arabic">
+                  والسماء والأرض تزولان ولكن كلامي لا يزول.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of Tuesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من يوم الثلاثاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O come, all you people of Jerusalem, to see Jesus on the Mount of Olives, to see Jesus of Nazareth, the Son of David, and the Word of the Father, sitting there surrounded by His inquiring disciples. 
+               </Language>
+               <Language id="Arabic">
+                  يا جميع سكان أورشليم تعالوا لنمضي إلي جبل الزيتون لننظر يسوع الناصري إين دواد  كلمة الآب جالساً هناك وتلاميذه محيطون به 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They reminded him of the size of the temple, the huge stone with which it was built, and how ornate it was.
+               </Language>
+               <Language id="Arabic">
+                  يسألونه  فأعلموه أولاً ببناء الهيكل وحجارته العظيمة وكمال زينته  
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Our very merciful Savior who directs those who trust Him and reassures their hearts about the future with His peace and knowledge, replied saying: “Do not let anyone mislead you about any matter when you face tribulations.
+               </Language>
+               <Language id="Arabic">
+                  فأجاب مخلصنا الكثير الرحمة  مرشد كل أحد يتوكل عليه بهدوء ومعرفة يثبت قلوبهم علي ما سوف يكون : أنظروا لا يضلكم أحدٌ في شئ إذا وقعتم بالتجارب
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  For nation shall rise against nation, and kingdom against kingdom; there will be earthquakes and pestilence in diverse places; there will be great afflictions and calamities on earth. Know that they will kill you and the nations will hate you.
+               </Language>
+               <Language id="Arabic">
+                  فسوف تقوم أمة علي أمة ومملكة علي مملكة  وتكون زلازل وموت في أماكن وتكون الشدائد والضيقات علي الأرض وإعلموا انهم سوف يقتلونكم والأمم يبغضونكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  This they will inflict on you because you bear My name. Persevere so that you may be saved.”
+               </Language>
+               <Language id="Arabic">
+                  هذا يفعلونه بكم من أجل إسمي فأصبروا أنتم لكي تخلصوا.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

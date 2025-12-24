@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Yel/l m~vr/]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Theophany:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Yel/l m~vr/] n~hanhi/b: w~ piIordan/c nem pefd~rimoc: je afi~ sarok n~je Pihi/b: v/etw~li m~v~nobi m~pikocmoc
+            </Language>
+            <Language id="English">
+               Rejoice like lambs, O Jordan and his wilderness, for unto you came the lamb, Who takes away the sin of the world.
+            </Language>
+            <Language id="Arabic">
+               تهلل مثل الحملان أيها الأردن وبريته لأنه قد أتي اليك الحمل حامل خطية العالم.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V]: af[iwmc qen piIordan/c: nai nan kata peknis] n~nai.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ, the Son of God, was baptized in the Jordan. Have mercy on us according to Your great mercy.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله اعتمد في الأردن ارحمنا كعظيم رحمتك.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

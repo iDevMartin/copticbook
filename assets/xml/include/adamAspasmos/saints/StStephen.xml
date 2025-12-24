@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StStephen:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">V/ettai/out...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Stephen:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               V/ettai/out m~marturoc: n~te pen[oic I/couc Pi,~rictoc: V/eyouab Ctevanoc: ete pefouwhem pe pi,~lom
+            </Language>
+            <Language id="English">
+               The honored martyr of our Lord Jesus Christ: Saint “Stephen”: which is interpreted “The crown.”
+            </Language>
+            <Language id="Arabic">
+               الشهيد المكرم الذي لربنا يسوع المسيح القديس إسطفانوس الذي تفسيره الإكليل.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

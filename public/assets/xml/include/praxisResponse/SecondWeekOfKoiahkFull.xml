@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="SecondWeekOfKoiahk">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere ne Maria...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the second week of month of Koiahk:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/praxisResponse/saints/StMary.1"/>
+         <InsertDocument path="include/praxisResponse/StandardConclusion"/>
+      </Section>
+   </Season>
+</Document>

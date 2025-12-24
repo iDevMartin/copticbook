@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="!CovenantThursday ^ !JoyousSaturday">
+         <Role id="Deacon">      
+            <InsertDocument path="include/GreetOneAnotherShort"/>      
+            
+            <Group>
+               <Season id="!LiturgyOfTheWaters">
+                  <InsertDocument path="include/GreetOneAnotherLong"/>                  
+               </Season>
+            </Group>
+         </Role>
+         
+         <Group>
+            <Season id="Liturgy">
+               <Comment>
+                  <Language id="English">                             
+                     The priests kiss one another with a holy kiss, as do the deacons and the congregation. Then the priest and the deacon who stands opposite to him raise the prospheron. (The raising of the prospheron is a symbol of the angel moving the stone from the tomb after the resurrection.)
+                  </Language>      
+                  <Language id="Arabic">                             
+                     يقبل الكهنة بعضهم بعضاً قبلة روحية. وكذلك الشمامسة والشعب يقبلون بعضهم بعضاً. ثم إن الكاهن والشماس مقابله يرفعان الإبروسفارين. (رفع الإبروسفارين إشارة إلى دحرجة الملاك للحجر عن القبر بعد القيامة(.
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Role id="People">
+      <InsertDocument path="include/hiten/StMary"/>
+      <InsertDocument path="include/TenouwstSeasonalResponseShort"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Eleoc i~r/n/c yucia e~necewc.
+         </Language>
+         <Language id="English">
+            A mercy of peace, a sacrifice of praise.
+         </Language>
+         <Language id="Arabic">
+            رحمة السلام، ذبيحة التسبيح
+         </Language>         
+      </Text>      
+   </Role>
+</Document>

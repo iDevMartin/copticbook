@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="AbrahamIsaacJacob:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Patriarchs Abraham, Isaac, and Jacob:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Mpererp~wbs n~]dia~y/k/: y/e~takcemn/tc nem nenio]: Abraam Icaak Iakwb: Pic~ra/l pie/ouab n~tak.
+            </Language>
+            <Language id="English">
+               Do not forget the covenant: which You have made with our fathers: Abraham, Isaac, and Jacob: Israel, Your holy one.
+            </Language>
+            <Language id="Arabic">
+               لا تنس العهد الذي قررته مع ابائنا ابراهيم واسحق ويعقوب اسرائيل قديسك.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StGeorgeTheZahimian:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. George, the Zahimian</Language>
+            <Language id="Arabic">ذوكصولوجية الشهيد مار جرجس المزاحم</Language>
+            <Language id="Coptic">Gewrgioc piremzahim...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. George the Zahimian:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Gewrgioc piremzahim: e~tafsep hannis] n~qici: eybe pefmei m~P,#c#: af[i n~]metmarturia~.
+            </Language>
+            <Language id="English">
+               George the Zahimian: who accepted great sufferings: because of his love for Christ: He received martyrdom.
+            </Language>
+            <Language id="Arabic">
+               مار جرجس المزاحم الذي قبل أتعاباً كثيرة من أجل محبته للمسيح وأخذ إكليل الشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pefiwt ne oulamit/c pe: af[i tefmau n~,~ba m~moc: je n~yoc ou,~rictianoc te: ac]c~bw naf n~nis] n~aret/.
+            </Language>
+            <Language id="English">
+               His father was a Pagan: He took his mother against her will: because she was a Christian: She taught him great virtues.
+            </Language>
+            <Language id="Arabic">
+               والده كان حنيفياً تزوج أمه عنوة ولأنها كانت مسيحية علمته الفضائل العظيمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afouws n~tefer,~rictianoc: af,w n~neni~ri n~nilamit/c: pefiwt afwrk n~tefqoybef: afvwt afqici n~tef[iwmc.
+            </Language>
+            <Language id="English">
+               He desired to become Christian: He left his father’s religion: His father swore to kill him: so he fled and suffered to be baptized.
+            </Language>
+            <Language id="Arabic">
+               أراد أن يكون مسيحياُ وترك أعمال دين أبيه حلف أبوه أن يقتله هرب وتعب لكي يعمد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af[i c~himi n~ouseri n~ou/b: acy~ref[i m~piwmc m~m/i: afsep nibacanoc nem tefc~himi: je afouwnh qen P,#c# e~bol.
+            </Language>
+            <Language id="English">
+               He took a priest’s daughter as a wife: who directed him to the true baptism: He received tortures with his wife: because he manifested Christ.
+            </Language>
+            <Language id="Arabic">
+               تزوج إبنة كاهن جعلته ينال العماد الحقيقي قبل العذابات مع زوجته لأنه اعترف بالمسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               >&lt;ere naf auveq tefa~ve: auvetvwtf afermarturoc: pi,~rwm m~pef]ywbs n~q/tf: afma] e~p~wou m~p~ounof.
+            </Language>
+            <Language id="English">
+               Hail to him who was beheaded: cut in pieces, he was martyred: Fire did not affect him: he received joyful glory.
+            </Language>
+            <Language id="Arabic">
+               السلام له شقوا رأسه وقطعوه فصار شهيداً والنار لم تؤثر فيه ونال مجد النعيم.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StGeorgeTheZahimian"/>
+      </Section>
+   </Season>
+</Document>

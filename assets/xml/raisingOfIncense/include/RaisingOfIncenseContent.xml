@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="raisingOfIncense/include/Header"/>
+   <InsertDocument path="raisingOfIncense/include/Intro"/>
+   <InsertDocument path="raisingOfIncense/include/Body"/>
+   
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   
+   <Group>
+      <Season id="Vespers">
+         <Comment>
+            <Language id="English">
+               During the evening Offering of Incense, a sermon may be read or preached
+            </Language>
+            <Language id="Arabic">
+               في رفع بخور عشية تُقرأ هنا الموعظة أو تقال.
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/gospelResponse/GospelResponse"/>   
+   
+   <InsertDocument path="include/FiveShortLitanies"/>
+   
+   <Group>
+      <Season id="Vespers ^ HosannaSunday">
+         <Comment>
+            <Language id="English">
+               The deacons stand before the icon of the Entry of Christ into Jerusalem, while chanting <span class="Coptic">Eulogimenoc</span>.
+            </Language>
+         </Comment>
+         
+         <Role id="People">
+            <InsertDocument path="include/Eulogimenoc"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="!CovenantThursday">
+         <Group>
+            <Season id="Vespers">
+               <Comment>
+                  <Language id="English">
+                     The priest gives the censer to the deacon to empty it only if the Offering of Incense is not followed by the Divine Liturgy.
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يناول المجمرة لأَحد الشمامسة ليصرفها إذا لم يكن بعد رفع البخور قداس، وإلا فلا يفعل ذلك.
+                  </Language>
+               </Comment>      
+            </Season>
+         </Group>
+      
+         <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>   
+         <InsertDocument path="include/AmenLordHaveMercy3"/>   
+         <InsertDocument path="include/conclusion/ConclusionOfService"/>
+      </Season>
+   </Group>     
+</Document>

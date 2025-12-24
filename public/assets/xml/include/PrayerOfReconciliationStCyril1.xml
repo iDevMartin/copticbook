@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">                             
+         By Saint Severus, patriarch of Antioch.
+      </Language>      
+      <Language id="Arabic">                             
+         للقديس ساويرس، بطريرك أنطاكية.
+      </Language>
+   </Comment>
+   
+   <Role id="Priest">      
+      <Text>
+         <Language id="Coptic">
+            Par,/goc n~te p~wnq ouoh p~ouro n~te nie~neh.
+         </Language>
+         <Language id="English">
+            O Author of life and King of the ages,
+         </Language>
+         <Language id="Arabic">
+            يا رئيسَ الحياةِ وملكَ الدهورِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Vnou] v/ete~re keli niben kwlj naf: n/et qen niv/oui~: nem n/et hijen pikahi: nem n/et capec/t m~p~kahi.
+         </Language>
+         <Language id="English">
+            O God, unto whom every knee bows, those in the heavens, those on earth, and those under the earth;
+         </Language>
+         <Language id="Arabic">
+            اللهُمَّ الذي تجثو له كلُّ ركبةٍ، ما في السمواتِ وما على الأرضِ وما تحتَ الأرضِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            V/e~tere p~t/rf yebi/out: ouoh f~sop qen oumo] m~metbwk: qa p~[nejwf m~p~s~bwt n~te tefmetouro.
+         </Language>
+         <Language id="English">
+            to whom all are humbled and under the yoke of servitude, bowing the head to the scepter of His kingship;
+         </Language>
+         <Language id="Arabic">
+            الذي الكلُّ مذلولٌُ وخاضعٌ بِعُنُقِ العُبوديةِ تحتَ خضوعِ قضيبِ مُلْكِهِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            V/e~tou]w~ou naf n~je nic~tratia~ n~aggelikon: nem nitagma n~epouranion: nem nivucic n~no/~ron: qen ouc~m/ n~at,arwc n~yeo~logikon.
+         </Language>
+         <Language id="English">
+            who is glorified by the angelic hosts and the heavenly orders and the rational natures with unsilenced voice, declaring His Godhead.
+         </Language>
+         <Language id="Arabic">
+            الذي تمجدُه الأجنادُ الملائكيةُ، والطغماتُ السمائيةُ، والطبائعُ العقليةُ، بصوتٍ لا يسكتُ ناطقٍ بألوهيتِهِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh e~ak]ma] e~jwn hwn qa nijwb n~remn~kahi eyrensemsi nak: eybe p~toubo an n~te nenjij: ou gar m~peni~ri m~pia~gayon hijen pikahi.
+         </Language>
+         <Language id="English">
+            And since You were pleased that we frail earthly men should also serve You, not on account of the purity of our hands, because we have not wrought goodness on earth,
+         </Language>
+         <Language id="Arabic">
+            وإذ سُرِرتَ بنا نحنُ أيضاً الضعفاءَ الأرضيينَ أن نخدُمَكَ، لا من أجلِ نقاوَةِ أيدينا، لأننالم نفعلْ الصلاحَ على الأرضِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Alla akouws e~] nan anon qa nie~bi/n ouoh etoi n~atm~p~sa e~bolqen pektoubo.
+         </Language>
+         <Language id="English">
+            but rather desiring to give to us, we undeserving wretches, of Your purity.
+         </Language>
+         <Language id="Arabic">
+            بل مريداً أن تعطينا نحنُ البائسينَ غيرَ المستحقينَ من طُهرِكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Sopten e~rok pia~gayoc ouoh m~mairwmi: enqwnt m~mon e~pekyuciact/rion eyouab: kata p~a~sai n~te peknai.
+         </Language>
+         <Language id="English">
+            Receive us unto Yourself, O Good One and Lover of Mankind, as we draw near to Your holy altar, according to the abundance of Your mercy.
+         </Language>
+         <Language id="Arabic">
+            اقبلْنا إليكَ أيها الصالحُ محبُّ البشرِ، إذ ندنو من مذبحِكَ المقدسِ، ككثرَةِ رحمتِكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh a~riten n~emp~sa n~]hir/n/ n~te t~ve: eterp~repi n~tekmeynou] ouoh eymeh n~oujai: eyrent/ic n~nene~r/ou qen oua~gap/ ecj/k e~bol.
+         </Language>
+         <Language id="English">
+            And make us worthy of the heavenly peace which befits Your divinity and is full of salvation, that we may give the same to one another in perfect love,
+         </Language>
+         <Language id="Arabic">
+            واجعلْنا أهلاً للسلامِ السمائي اللائقِ بلاهوتِكَ والمملوءِ خلاصاً، لنعطِيَهُ بعضُناً لبعضٍ بمحبةٍ كاملةٍ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh n~teneracpazecye n~nene~r/ou qen ouvi ecouab.
+         </Language>
+         <Language id="English">
+            and greet one another with a holy kiss—
+         </Language>
+         <Language id="Arabic">
+            ونُقَبِّلَ بعضُنا بعضاً بقبلةٍ مقدسةٍ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfReconciliationResponse"/>
+   
+   <Role id="Priest">      
+      <Text>
+         <Language id="Coptic">
+            Qen oulogicmoc an efsosf ouoh eferkatav~ronin n~tekho]: qen oumeui~ an n~,~rof ouoh efmeh e~bolqen ]metpethwou n~te pip~rodot/c.
+         </Language>
+         <Language id="English">
+            not with a vile sense that defies Your fear, nor with thoughts of guile filled with the wickedness of the traitor,
+         </Language>
+         <Language id="Arabic">
+            لا بحاسَّةٍ مرذولةٍ رافضةٍ لمخافَتِكَ، ولا بفكرٍ غاشٍ مملوءٍٍ من شرِ الخائنِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Echwtp an n~je tencunid/cic qen ]pon/ria.
+         </Language>
+         <Language id="English">
+            for our conscience is not bent on evil,
+         </Language>
+         <Language id="Arabic">
+            غيرُ متفقةٍ نياتُنا في الخبثِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Alla qen ourwoutf n~te nen'u,/: nem ouyel/l n~te nenh/t.
+         </Language>
+         <Language id="English">
+            but rather by the eagerness of our souls and the rejoicing of our hearts,
+         </Language>
+         <Language id="Arabic">
+            بل برغبةِ نفوسِنا وتَهليلِ قلوبِنا.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Efentoten n~je pim/ini etoi n~nis] ouoh etj/k e~bol: n~te t~a~gap/ m~pekmonogen/c n~S/ri.
+         </Language>
+         <Language id="English">
+            having the great and perfect sign of the love of Your only-begotten Son.
+         </Language>
+         <Language id="Arabic">
+            إذ لنا العلامةُ العظيمةُ الكاملةُ التي لمحبةِ ابنِكَ الوحيد.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh m~perhitten e~bol qa neke~biaik: eybe p~ywleb n~te nennobi.
+         </Language>
+         <Language id="English">
+            And cast us not behind, we Your servants, on account of the defilement of our sins,
+         </Language>
+         <Language id="Arabic">
+            ولا تطرحنا نحنُ عبيدَكَ من أجلِ دنَسِ خطايانا. 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nyok gar etcwoun hwc refcwnt: m~penp~lacma: je m~mon j~vo n~c~himi namai m~pekm~yo.
+         </Language>
+         <Language id="English">
+            for You know, as creator of our being, that no one born of a woman shall be justified before You.
+         </Language>
+         <Language id="Arabic">
+            لأنكَ أنتَ العارفُ كخالقٍ جُِبلتَنا، أنه ليسَ مولودُ امرأةٍ يتزكَّى أمامَكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariten oun n~emp~sa penn/b: qen ouh/t efouab: nem ou'u,/ ecmeh e~bolqen pekh~mot: eyreno~hi e~raten m~pekm~yo.
+         </Language>
+         <Language id="English">
+            So make us worthy, O our Master, with a holy heart and a soul filled with Your grace, to stand before You
+         </Language>
+         <Language id="Arabic">
+            فاجعلنا إذاً أهلاً يا سيِّدَنا بقلبٍ طاهرٍ ونفسٍ مملوءةٍ من نعمتِكَ، أن نقفَ أمامَكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh n~teni~ni nak e~qoun n~taiyucia~ eyouab n~logik/ ouoh m~p~neumatik/ ouoh n~atc~nof.
+         </Language>
+         <Language id="English">
+            and to bring in unto You this holy sacrifice—which is rational, spiritual, and bloodless—
+         </Language>
+         <Language id="Arabic">
+            ونقدمَ لكَ هذه الصعيدةَ المقدسةَ الناطقةَ الروحانيةَ غيرَ الدمويةِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eoucun,wr/cic n~te nenparaptwma: nem ou,w e~bol n~nimetatemi n~te peklaoc.
+         </Language>
+         <Language id="English">
+            unto the remission of our transgressions and the forgiveness of the ignorances of Your people.
+         </Language>
+         <Language id="Arabic">
+            صفحاً لزلاتِنا، وغفراناً لجهالاتِ شعبِكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je n~yok ounou] n~refsenh/t ouoh n~na/t.
+         </Language>
+         <Language id="English">
+            For You are a compassionate and a merciful God,
+         </Language>
+         <Language id="Arabic">
+            لأنك أنتَ إلهٌ رؤوفٌ متحننٌ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Text>
+         <Language id="Coptic">
+            Ouoh n~yok petenouwrp nak e~p~swi m~piw~ou: nem pitaio: nem pia~mahi: nem ]p~rockun/cic: Viwt nem Ps/ri nem Pip~neuma eyouab.
+         </Language>
+         <Language id="English">
+            and unto You we send up the glory, the honor,  the dominion, and the worship, O Father, Son and Holy Spirit,
+         </Language>
+         <Language id="Arabic">
+            وأنتَ الذي نرسلُ لكَ إلى فوقُ المجدَ والكرامةَ والعزَّ والسجودَ، أيها الآبُ والابنُ والروحُ القدسُ. 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            now and at all times and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

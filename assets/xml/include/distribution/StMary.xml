@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>         
+      <Season id="StMary">
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Anok Nim</span> may be chanted following Psalm 150 and <span class="Coptic">Piwik</span>:     
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/veneration/AnokNim"/>         
+         
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">A tai paryenoc</span> may also be chanted:     
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/veneration/Ataiparthenos"/> 
+      </Season>
+   </Group>    
+</Document>

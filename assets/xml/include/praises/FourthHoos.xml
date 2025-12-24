@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+      <Title>         
+         <Language id="English">The Fourth Canticle</Language>
+         <Language id="Arabic">الهوس الرابع</Language>
+         <Language id="Coptic">Cmou e~Po#c#...</Language>
+      </Title>
+   
+      <Comment>
+         <Language id="English">Psalm 148</Language>
+         <Language id="Arabic">المزمور ١٤٨</Language>
+      </Comment>
+   
+      <InsertDocument path="include/praises/Psalm148Content"/>
+   
+      <Comment>
+         <Language id="English">Psalm 149</Language>
+         <Language id="Arabic">المزمور ١٤٩</Language>
+      </Comment>
+      
+      <InsertDocument path="include/praises/Psalm149Content"/>
+   
+      <Comment>
+         <Language id="English">Psalm 150</Language>
+         <Language id="Arabic">المزمور ١٥٠</Language>
+      </Comment>
+         
+      <Text>
+         <Language id="Coptic">
+            All/louia: All/louia: All/louia. Cmou e~Vnou] qen n/eyouab t/rou n~taf All/louia.
+         </Language>
+         <Language id="English">
+            Alleluia, Alleluia, Alleluia. Praise God, in all his saints. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            الليلويا الليلويا الليلويا سبحوا الله فى جميع قديسيه الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen pitajro n~te tefjom All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, in the firmament of His power. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه فى جلد قوته الليلويا.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof e~h~r/i hijen tefmetjwri All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, for His mighty acts. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه على مقدرته الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof kata p~a~sai n~te tefmetnis] All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, according to His excellent greatness. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه ككثرة عظمته الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen ouc~m/ n~calpiggoc All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with the sound of the trumpet. Alleluia
+         </Language>
+         <Language id="Arabic">
+            سبحوه بصوت البوق الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen ou'alt/rion nem oukuyara All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with the psaltery and harp. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه بمزمار وقيثارة الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen hankemkem nem han,oroc All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with the timbrel and chorus. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه بدفوف وصفوف الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+         
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen hankap nem ouorganon All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with stringed instruments and organs. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه بأوتار وأرغن الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen hankumbalon e~nece touc~m/ All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with pleasant sounding cymbals. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه بصنوج حسنة الصوت الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~rof qen hankumbalon n~te oue~sl/loui~ All/louia.
+         </Language>
+         <Language id="English">
+            Praise Him, with cymbals of joy. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            سبحوه بصنوج التهليل الليلويا.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/FourthHoosRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Nifi niben marouc~mou t/rou e~v~ran m~Po#c# Pennou] All/louia.
+         </Language>
+         <Language id="English">
+            Let everything that has breath praise the name of the Lord our God. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            كل نسمة فلتسبح اسم الرب الهنا الليلويا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Doxa Patri ke Uiw ke a~giw P~neumati: All/louia.
+         </Language>
+         <Language id="English">
+            Glory be to The Father, and The Son, and The Holy Spirit. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            المجد للآب والأبن والروح القدس الليلويا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ke nun ke a~i~ ke ictouc e~w~nac twn e~w~nwn A~m/n All/louia.
+         </Language>
+         <Language id="English">
+            Now and forever and unto the age of all ages Amen. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            الآن وكل أوان وإلى دهر الداهرين أمين الليلويا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            All/louia: All/louia. Doxa ci o~ Yeoc /~mwn All/louia.
+         </Language>
+         <Language id="English">
+            Alleluia. Alleluia. Glory be to our God. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            الليلويا الليلويا المجد لالهنا الليلويا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            All/louia: All/louia. Piw~ou va Pennou] pe All/louia.
+         </Language>
+         <Language id="English">
+            Alleluia. Alleluia. Glory be to our God. Alleluia.
+         </Language>
+         <Language id="Arabic">
+            الليلويا الليلويا المجد لالهنا الليلويا.
+         </Language>
+      </Text>
+   </Section>
+</Document>

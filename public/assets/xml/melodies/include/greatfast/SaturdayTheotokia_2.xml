@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Second Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعة الثانية)
+            </Language>
+         </Title>
+      
+         <Text>
+            <Language id="English">
+               A medicine for all wounds / 
+               Is fasting with mercy for the needy / 
+               Our Master fasted after His baptism / 
+               Forty complete days on the mountain
+            </Language>
+            <Language id="Arabic">
+               دواء يبرئ كل الجراحات / 
+               الصوم والرأفة بالمساكين / 
+               من بعد العماد سيدنا صام / 
+               أربعين يوماً فى الجبل كاملين
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Finally, He felt hunger / 
+               The tempter dared to call to Him / 
+               Saying, “Say to the stones / 
+               To become bread to feed the hungry”
+            </Language>
+            <Language id="Arabic">
+               فجاع فى الآخر جوعاً بآلام / 
+               فجسر المجرب وناداه بيقين / 
+               قال لـه قل للحجارة أنت بكلام / 
+               تصير خبزاً يحيى الجائعين
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Our Master defeated him with His words / 
+               “Man shall not live by bread alone / 
+               But by all the words of God / 
+               Away with you, O Satan!”
+            </Language>
+            <Language id="Arabic">
+               فرشقه سيدنا من فاه / 
+               قال ليس بالخبز يحيا الإنسان / 
+               بل بكل كلام الله / 
+               إهرب من خلفى يا شيطان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               When he heard these sayings / 
+               He fled and vanished like smoke / 
+               His desires and hopes were crushed / 
+               He was shamed, expelled and humiliated
+            </Language>
+            <Language id="Arabic">
+               فلما سمع ذا القول دهاه / 
+               وصار ذاهب مثل الدخان / 
+               فخاب أمله وانقطع رجاه / 
+               وصار مخزى مطرود مهان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He is a wretched thief / 
+               Who cannot attack the vigilant / 
+               He comes to those who are asleep / 
+               And throws them in the midst of his companions
+            </Language>
+            <Language id="Arabic">
+               لأنه لصاً سارق مسكين / 
+               والسهارى لا يسطى عليهم / 
+               بل يجئ للمتغافلين / 
+               فى وسط إشراكه يرميهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

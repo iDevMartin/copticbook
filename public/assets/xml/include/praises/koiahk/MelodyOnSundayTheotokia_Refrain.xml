@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text type="Refrain">
+      <Language id="English">
+         Your love embraced me / 
+         O pride of nations. / 
+         Moses has seen you, O Mary; / 
+         Surprise and marvel.
+      </Language>
+      <Language id="Arabic">
+         سباني حبك / 
+         يا فخر  الرتب / 
+         موسى رآكِ يا مريم / 
+         عجب من عجب
+      </Language>
+   </Text>
+   
+   <Text type="Refrain">
+      <Language id="English">
+         And the lamps are bright / 
+         With golden crosses. / 
+         O Mary, Moses’ dome; / 
+         O Aaron’s censer.
+      </Language>
+      <Language id="Arabic">
+         والقناديل فضة بتضوى / 
+         والصلبان ذهب / 
+         يا قبة موسى يا مريم / 
+         يا شورية هارون
+      </Language>
+   </Text>
+</Document>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/PiEpnevma"/>
+   
+   <Group>
+      <Season id="DisplayNonCustomaryPrayers">
+         <Section expanded="true">            
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Pa[oic</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  For the Feast of the Pentecost:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pa[oic I/couc Pi,~rictoc: v/e~yn/ou qen tefmahc~nou] m~paroucia~: a~riounai n~a~gap/ neman: qen pekb/ma etoi n~ho].
+               </Language>
+               <Language id="English">
+                  My Lord Jesus Christ, who is coming in His second advent, grant us loving mercy, before Your fearsome judgement seat.
+               </Language>
+               <Language id="Arabic">
+                  ياربي يسوع المسيح الآتى فى مجيئه الثانى ، إصنع معنا محبة  ،  فى منبرك المخوف . 
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/NiSherobim"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Euws e~bol eujw m~moc: je &lt;~ouab ouoh ,~ouab ,~ouab P[oic n~nie~w~n &lt;~rictouc a~nect/ eknekrwn
+               </Language>
+               <Language id="English">
+                  cry out, saying, “Holy, holy, holy, Lord of the ages, Christ is risen from the dead.”
+               </Language>
+               <Language id="Arabic">
+                  صارخين قائلين قدوس قدوس قدوس زب الدهور المسيح قام من الاموات. 
+               </Language>         
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

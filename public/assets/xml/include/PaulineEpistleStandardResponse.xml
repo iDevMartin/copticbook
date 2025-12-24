@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Response to the Pauline Epistle</Language>
+         <Language id="Coptic">Pih~mot gar...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The response to the Pauline Epistle is chanted:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Pih~mot gar m~pen[oic I/couc Pi,~rictoc: efe~swpi nem pekagion p~neuma: pa[oic n~iwt ettai/out n~ar,ie~reuc papa abba (nim)
+         </Language>
+         <Language id="English">
+            The grace of our Lord Jesus Christ be with your saintly spirit, my lord, the honored father, the archpriest, Pope Abba (...).
+         </Language>
+         <Language id="Arabic">
+            نعمة ربنا يسوع المسيح تكون مع روحك الطاهرة يا سيدى الأب المكرم رئيس الكهنة البابا أنبا (...)
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+            In the presence of a metropolitan, the following is added.
+         </Language>
+         <Language id="Arabic">         
+            وإن كان حاضراً  مطران فيزاد له:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            nem peniwt m~m/tropolit/c abba (nim).
+         </Language>
+         <Language id="English">
+            And our father the metropolitan, Abba (...).
+         </Language>
+         <Language id="Arabic">
+            وأبانا المطرانَ أنبا (...)
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+            In the presence of a bishop, the following is added.
+         </Language>
+         <Language id="Arabic">         
+            وللأسقف يقال:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            nem peniwt n~e~pickopoc abba (nim).
+         </Language>
+         <Language id="English">
+            And our father the bishop, Abba (...).
+         </Language>
+         <Language id="Arabic">
+            وأبانا الأسقفَ أنبا (...)
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+           In the presence of more than one metropolitan, the following is added.
+         </Language>
+         <Language id="Arabic">         
+           وإن كان حاضراً معه مطارنة فيقال:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            nem nenio] m~m/tropolit/c n/et,/ neman.
+         </Language>
+         <Language id="English">
+            And our fathers the metropolitans who are with us.
+         </Language>
+         <Language id="Arabic">
+            وآباءنا المطارنةَ الكائنين معنا.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+           In the presence of more than one bishop, the following is added:
+         </Language>
+         <Language id="Arabic">         
+           وللأساقفة يقال:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            nem nenio] n~e~pickopoc  n/et,/ neman.
+         </Language>
+         <Language id="English">               
+            And our fathers the bishops who are with us.
+         </Language>
+         <Language id="Arabic">
+            وآباءنا الأساقفةَ الكائنين معنا.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">         
+            The foregoing is concluded with:
+         </Language>
+         <Language id="Arabic">         
+            وبعد أية جملة من الجمل السابقة يكمل قائلاً:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/MayTheClergy"/>
+   </Section>
+</Document>

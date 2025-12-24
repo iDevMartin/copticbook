@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday Eve (The Sixth Hour)</Language>
+         <Language id="Arabic">ليلة الأربعاء (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Pf~tou (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Jeremiah 13:9, 16:9-13</Language>
+               <Language id="Arabic">أرميا 13: 9, 16: 9-13</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Jeremiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nai ne n/e~tefjw m~mwou n~je P[oic n~te nijom Vnou] n~te p~Icra/l:
+               </Language>
+               <Language id="English">
+                  "Thus says the Lord: 'In this manner I will destroy the insolence of Judah and that of Jerusalem.
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله رب القوات إله اسرائيل: هأنذا أفسد كبرياء يهوذا وكبرياء أورشليم
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ich/ppe a~nok ]natako e~bolqen paima mpem~yo n~netenbal e~bol: ouoh n~h~r/iqen netene~hoou n~ne ouc~m/ n~ounof nem ouc~m/ n~rasi swpi: t~c~m/ n~oupatsel/t nem oucm/ n~selet: 
+               </Language>
+               <Language id="English">
+                  Behold, before your eyes and in your days, I will bring to an end from this place the voice of joy and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+               </Language>
+               <Language id="Arabic">
+                  العظيمة في هذا المكان أمام عيونكم وفي أيامكم لا يكون صوت سرور ولا صوت فرح ولا صوت عريس ولا صوت عروس,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ece~swpi aksantame pai laoc e~nai caji t/rou ouoh eue~joc nak je eybeou a~P[oic caji e~h~r/i e~jwn n~nai pethwou t/rou.
+               </Language>
+               <Language id="English">
+                  "It shall come to pass that when you shall announce all these words to this people and they say to you, 'Why has the Lord pronounced all these evils against us?
+               </Language>
+               <Language id="Arabic">
+                  ويكون إذا عرفت الشعب بجميع هذه الأقوال وقالوا: لماذا تكلم الرب علينا بكل هذه الشرور,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ie as pe pi[in~jonc: ie v~nobi e~tanaif m~pem~yo e~bol m~P[oic Pennou]: 
+               </Language>
+               <Language id="English">
+                  What is our wrongdoing, and what sin did we commit before the Lord our God?' 
+               </Language>
+               <Language id="Arabic">
+                  وما الظلم أو الخطية التي صنعناها أمام الرب إلهنا؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eke~joc nwou: je eybe je a~netenio] ,at n~cwou peje P[oic: 
+               </Language>
+               <Language id="English">
+                  Then you shall say to them, 'Because your fathers forsook Me,' says the Lord, 
+               </Language>
+               <Language id="Arabic">
+                  فتقول لهم, لأن أباءكم تركوني عنهم قال الرب, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aumosi cavahou n~ninou] n~semmwou auerbwk nwou 
+               </Language>
+               <Language id="English">
+                  'For they went after foreign gods; and they served and worshiped them.
+               </Language>
+               <Language id="Arabic">
+                  وأتبعوا آلهة غريبة وعبدوها وسجدوا لها, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auouwst m~mwou a~nok de au,at n~cwou: ouoh panomoc m~poua~reh e~rof:
+               </Language>
+               <Language id="English">
+                  They forsook Me, and did not keep My law.
+               </Language>
+               <Language id="Arabic">
+                  وأما أنا فتركوني عنهم ولم يحفظوا ناموسي 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nywten hwten atetenerpethwou ehote netenio]. Ic h/ppe n~ywten hwten e~retenmosi v~ouai v~ouai cavahou n~niouws n~te netenh/t ethwou e~s~tem y~reten cwtem n~cwi:
+               </Language>
+               <Language id="English">
+                  But you acted in ways more evil than your fathers; for behold, you, each one of you, walk after the evil pleasures of your heart and do not obey Me.
+               </Language>
+               <Language id="Arabic">
+                  وقد عملتم أنتم أيضاً الشر أكثر من أبائكم, فهوذا أنتم أيضاً تسلكون كل واحد وراء شهوات قلوبكم الشريرة غير مطيعين لي,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nahiy/nou e~bolqen pai kahi eoukahi e~retencwoun m~mof an n~ywten nem netenio] ouoh qen pima e~te m~mau: eretene~erbwk e~hankenou]: nai e~te n~cenanai nwten an.
+               </Language>
+               <Language id="English">
+                  Therefore I will cast you out of this land and into a land neither you nor your fathers know; and there you shall serve other gods, who will show you no mercy.
+               </Language>
+               <Language id="Arabic">
+                  فساطرد كم من هذه الأرض, إلي أرض لا تعرفونها أنتم ولا أبائكم, وفي ذلك الموضع تتعبدون لألهة أخري, هؤلاء الذين لا يرحمونكم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 102:1-2</Language>
+               <Language id="Arabic">مزمور 102: 1-2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  P[oic cwtem e~ta p~roceu/: mare paq~rwou i~ e~pswi m~pekm~yo. 
+               </Language>
+               <Language id="English">
+                  Hear my prayer, O Lord, and let my cry come to You. 
+               </Language>
+               <Language id="Arabic">
+                  يارب استمع صلاتي وليصعد أمامك صراخي 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen pie~hoou e~]naws e~p~swi oub/k n~q/tf: ,wlem cwtem e~roi: All/louia.
+               </Language>
+               <Language id="English">
+                  In the day when I call upon You, hear me quickly. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  في اليوم الذي أدعوك فيه أستجب لي سريعاً. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 25:1-13</Language>
+            <Language id="Arabic">متى 25: 1-13</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Tote c~o~ni n~je ]metouro n~te niv/oui~ m~m/] m~paryenoc nai e~tau[i n~noulampac aui~ e~bol e~h~ren pipatselet:
+               </Language>
+               <Language id="English">
+                  “Then the kingdom of heaven shall be likened to ten virgins who took their lamps and went out to meet the bridegroom.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ يشبه ملكوت السموات عشر عذارى اخذن مصابيحهن وخرجن للقاء العريس
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ne cuon t~iou de n~coj n~q/tou nem tiou n~cab/: Nicoj gar e~tau[i n~noulampac. mpouel neh nemwou. Nicabeu de auel neh n~q~r/i qen noumoki nem noulampac: 
+               </Language>
+               <Language id="English">
+                  Now five of them were wise, and five were foolish. Those who were foolish took their lamps and took no oil with them, but the wise took oil in their vessels with their lamps.
+               </Language>
+               <Language id="Arabic">
+                  وكان خمس منهن جاهلات وخمس حكيمات اما الجاهلات فأخذن مصابيحهن ولم يأخذن معهن زيتا واما الحكيمات فأخذن زيتا فى انيتهن مع مصابيحهن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etafwck de n~je pipatselet auhi nim t/rou ouoh auenkot: E~ta t~vasi de mpie~jwrh swpi: a~ouq~rwou swpi je ic pipatselet afi~ teny/nou a~mwini e~bol e~h~raf.
+               </Language>
+               <Language id="English">
+                  But while the bridegroom was delayed, they all slumbered and slept. “And at midnight a cry was heard: ‘Behold, the bridegroom is coming; go out to meet him!’
+               </Language>
+               <Language id="Arabic">
+                  فلما ابطا العريس نعسن كلهن ونمن ففى نصف الليل صار صوت: هوذا العريس قد اقبل فقمن اخرجن للقائه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote autwounou n~je niparyenoc t/rou e~tem~mau ouoh aucolcel n~noulampac: 
+               </Language>
+               <Language id="English">
+                  Then all those virgins arose and trimmed their lamps. 
+               </Language>
+               <Language id="Arabic">
+                  حينئذ قامت اولئك العذارى وزين مصابيحهن,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje nicoj de n~nicabeu je moi nan ebolqen petenneh je nenlampac na[e~no:
+               </Language>
+               <Language id="English">
+                  And the foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’
+               </Language>
+               <Language id="Arabic">
+                  فقالت الجاهلاتٍ للحكيمات: اعطينا من زيتكن فان مصابيحنا تنطفى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aue~rouw~ de n~je nicabeu eujwm~moc: je m/pote n~tefs~tem rasten nemwten: masenwten de mallon ha n/et] e~bol ouoh swp nwten.
+               </Language>
+               <Language id="English">
+                  But the wise answered, saying, ‘No, lest there should not be enough for us and you; but go rather to those who sell, and buy for yourselves.’
+               </Language>
+               <Language id="Arabic">
+                  فاجابت الحكيمات وقلن: لعله لا يكفينا واياكن فاذهبن بالاحرى الى الباعة وابتعن لكن
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Etausenwou de je n~touswp: afi n~je pipatselet ouoh n/etcebtwt ausenwou nemaf eqoun e~ pihop ouoh aumasyam m~piro:
+               </Language>
+               <Language id="English">
+                  And while they went to buy, the bridegroom came, and those who were ready went in with him to the wedding; and the door was shut.
+               </Language>
+               <Language id="Arabic">
+                  فلما ذهبن ليبتعن جاء العريس ودخلت معه المستعدات الى العرس واغلق الباب
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ep~qae~ de aui n~je p~cwjp n~niparyenoc eujwm~moc: je pen[oic pen[oic aouwn nan: 
+               </Language>
+               <Language id="English">
+                  “Afterward the other virgins came also, saying, ‘Lord, Lord, open to us!’ 
+               </Language>
+               <Language id="Arabic">
+                  وأخيراً  جاءت بقية العذارى قائلات: ربنا افتح لنا 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~yof de aferouw~ pejaf je a~m/n ]jwm~mmoc nwten je ]cwoun m~mwten an: Rwic oun je tetencwoun an m~piehoou oude ]ounou.
+               </Language>
+               <Language id="English">
+                  But he answered and said, ‘Assuredly, I say to you, I do not know you.’ “Watch therefore, for you know neither the day nor the hour.
+               </Language>
+               <Language id="Arabic">
+                  اما هو فاجاب وقال: الحق اقول لكن اننى لا اعرفكن فاسهروا اذا لانكم لا تعرفون اليوم ولا الساعة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Behold these virtues and parables that our Lord of Glory Jesus the source of every grace and good—has told us; He who granted mankind to partake in His kingdom.
+               </Language>
+               <Language id="Arabic">
+                  يا لهذه الفضائل وهذه الامثال التى قالها ملك المجد الذى هو يسوع ملك النعمة والخيرات المكمل السلام الذى انعم لجنس البشر بشركة ملكوته.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Listen, think, and understand and know His blessed parables, for the sake of the prudent virgins who were mentioned in the Bible and were likened to his kingdom; full of joy and exultation.
+               </Language>
+               <Language id="Arabic">
+                  اسمعوا وتأملوا وافهموا واعلموا أمثاله الطوباوية من اجل العذارى الحكيمات اللواتى نطق من أجلهن في الإنجيل  وشبههن بملكوته المملوء فرحا وسروراً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Ten virgins: five foolish and five wise, said the Lord. As He tells us, there was no distinction between them as virgins; but they differed in their deeds. Thus, He praised and blessed the wise five (virgins) because they were earnest and prudent.
+               </Language>
+               <Language id="Arabic">
+                  عشر عذارى قال الرب خمس جاهلات وخمس حكيمات قال هؤلاء العشرة كن عذراى ولكنهن افترقن لاجل أعمالهن فطوب الحكيمات الفهيمات لانهن صنعن الحكمة بايجاد
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They filled their lanterns with oil and kept the surplus in their containers. As for the foolish virgins, they were lackadaisical and did not prepare their lanterns. 
+               </Language>
+               <Language id="Arabic">
+                  وملأن مصابيحهن من الزيت واوعيتهن مما فضل عنهن فاما العذارى الجاهلات فتكاسلن ولم يفهمن قيمة مصابيحهن 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When they all woke up at the given time to proceed with their procession ahead of the bridegroom, their lanterns became useless at the wedding time and were unable to accompany the bridegroom.
+               </Language>
+               <Language id="Arabic">
+                  فلما قمن جميعهن فى ساعة واحدة ليمشين قدام العريس تعطلت مصابيحهن وقت الفرح ولم يحضرن مع العريس
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Those who were prepared, accompanied him to the wedding and the somnolent ones stayed outside.
+               </Language>
+               <Language id="Arabic">
+                  والمستعدات دخلن معه الى العرس والمتكاسلات وقفن خارجا.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

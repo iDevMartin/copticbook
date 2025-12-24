@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true">
+   <Title>
+      <Language id="English">Evening Litanies and Conclusion</Language>
+   </Title>
+   
+   <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+   <InsertDocument path="pascha/include/Conclusion"/>
+</Document>

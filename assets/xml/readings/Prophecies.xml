@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Prophecies</Language>
+      <Language id="Arabic">النبوآت</Language>
+   </Title>
+   
+   <Group>
+      <InsertDocument path="readings/include/Prophecies"/>
+      
+      <Season id="Other">
+         <Comment>
+            <Language id="English">
+               No prophecies are read on this day.
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+</Document>

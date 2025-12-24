@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Mn/c y/ti moukurie~: ent/ bacilia~cou:
+      </Language>
+      <Language id="English">
+         Remember me O Lord when You come into Your Kingdom.
+      </Language>
+      <Language id="Arabic">
+         إذكرنى يارب متى جئت فى ملكوتك. 
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Mn/c y/ti mouagie~: ent/ bacilia~cou:
+      </Language>
+      <Language id="English">
+         Remember me O Holy-One when You come into Your Kingdom.
+      </Language>
+      <Language id="Arabic">
+          إذكرني يا قدوس متى جئت فى ملكوتك. 
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Mn/c y/ti moudecpota: ent/ bacilia~cou.
+      </Language>
+      <Language id="English">
+         Remember me O Master when You come into Your Kingdom. 
+      </Language>
+      <Language id="Arabic">
+         إذكرنى يا سيد متى جئت فى ملكوتك. 
+      </Language>
+   </Text>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Psalm 118 (21) - Princes persecuted me...
+         </Language>
+         <Language id="Arabic">
+            المزمور المائة والثامن عشر (٢١) - الرؤساء اضطهدوني...
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            Princes persecuted me without a cause, my heart was afraid of Your words. I will exult because of Your words, as one who has found a great treasure. I hated and abhorred unrighteousness, but I loved Your law. Seven times a day I have praised You because of the judgments of Your righteousness. Let great peace be for those who love Your law, and there is no stumbling in them. I waited for Your salvation, O Lord, and have loved Your commandments. My soul has kept Your testimonies, and loved them exceedingly. I have kept Your commandments and Your testimonies, and all my ways are before You, O Lord.
+         </Language>
+         <Language id="Arabic">
+            الرؤساء اضطهدوني بلا سبب. من أقوالك جزع قلبي. أبتهج أنا بكلامك كمن وجد غنائمَ كثيرة. أبغضتُ الظلم ورذلته، أما ناموسك فأحببته. سبع مرات في النهار سبحتك على أحكام عدلك. فليكن سلام عظيم للذين يحبون اسمك، وليس لهم شك. توقعتُ خلاصك يا رب ووصاياك أحببتها. حفظتْ نفسي شهاداتك وأحببتها جدا. حفظتُ وصاياك وشهاداتك، وكل طرقي أمامك يا رب.
+         </Language>
+      </Text>
+            
+      <InsertDocument path="include/agpeya/DoxaciFilanithrope"/>
+   </Section>
+</Document>

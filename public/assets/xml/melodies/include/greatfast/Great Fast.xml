@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="melodies/include/greatfast/First Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Second Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Third Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Fourth Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Fifth Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Sixth Week of Great Fast"/>
+   <InsertDocument path="melodies/include/greatfast/Last Friday of Great Fast"/>
+</Document>

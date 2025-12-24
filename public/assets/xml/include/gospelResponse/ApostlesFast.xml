@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="ApostlesFast">
+         <Comment>
+            <Language id="English">         
+               For the Fast of the Apostles: 
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn: w~ nao#c# n~io] n~a~poctoloc: nem p~cepi n~te nimay/t/c: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf: O my lords and fathers the apostles: and the rest of the disciples: that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا من الرب عنا  ياسادتى الآباء الرسل وبقية التلاميذ ليغفر لنا خطايانا
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

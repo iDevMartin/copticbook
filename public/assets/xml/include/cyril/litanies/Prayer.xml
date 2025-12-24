@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of Those Who Have Asked us for Prayer</Language>
+         <Language id="Arabic">أوشية الذين أَوْصَوْنا</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="consecrations/church/include/AgainLetUsAskIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~ouon niben e~tauhonhen nan je a~ripenmeui.~
+            </Language>
+            <Language id="English">
+               Remember, O Lord, all those who have bidden us to remember them—
+            </Language>         
+            <Language id="Arabic">
+               اذكر ياربُّ كلَّ الذينَ أَوْصَوْنا أن نذكرَهم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen ouon niben e~tafhonhen nan e~erpoumeui~ qen nen]ho nem nentwbh piouai piouai kata pefran: hina n~te Pi,rictoc Pennou] erpoumeui~ e~pia~gayon n~c/ou niben: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for those who have bidden us to remember them in our supplications and prayers, each one according to his name, that Christ our God may remember them in goodness at all times, and forgive us our sins.
+            </Language>         
+            <Language id="Arabic">
+               اطلبوا عن كلِّ الذينَ أَوْصَوْنا أن نذكرَهُم في سؤالاتِنا، وطَلِباتِنا، كلُّ أحدٍ باسمِهِ، لكي المسيحُ إلَهُنا يذكرَهُم بالخيِر في كلِّ حينٍ، ويغفرَ لنا خطايانا
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Qen nen]ho nem nentwbh e~teni~ri m~mwou e~p~swi harok P[oic Pennou].
+            </Language>
+            <Language id="English">
+               in our supplications and prayers which we offer up unto You, O Lord our God,
+            </Language>         
+            <Language id="Arabic">
+               في صلواتِنا وطَلِباتِنا التي نصنعُها إليكَ أيها الربُّ إلـهُنا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nem kata paic/ou vai n~te taia~navora eyouab.
+            </Language>
+            <Language id="English">
+               and at this time of this Holy Anaphora,
+            </Language>         
+            <Language id="Arabic">
+               كهذا الوقتِ الذي لهذا القداسِ الطاهرِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               N/e~teni~ri m~poumeui~ n~c/ou niben: nem n/etqen v~meui~ m~piouai piouai m~mon.
+            </Language>
+            <Language id="English">
+               those whom we remember at all times, as well as those who are in the mind of each one of us.
+            </Language>         
+            <Language id="Arabic">
+               الذين نذكرُهُم كلَّ حينٍ، والذين في فكرِ كلِّ واحدٍ منا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh pouerv~meui~ e~tafswpi ]nou marefswpi nwou n~t~sebiw n~oucobt eftajr/out: ouoh ef[~r/out e~b~lab/ niben n~te nidemwn: nem p~co[ni n~te nirwmi ethwou.
+            </Language>
+            <Language id="English">
+               And their memorial which has now taken place, may it be for them like a steadfast fortress, overcoming every harm of the demons and the counsel of wicked men.
+            </Language>         
+            <Language id="Arabic">
+               وتذكارُهُم الذي صارَ الآنَ، فليكن لهم مثلَ سورٍ ثابتٍ غالبٍ لكلِّ مضراتِ الشياطينِ، ومؤامرةِ الناسِ الأشرارِ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>      
+   </Section>
+</Document>

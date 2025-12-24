@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" SecondProstration="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ PentecostWeek7 ^ PentecostPeriod ^ Pentecost ^ AdamDays ^ Weekend ^ Sundays ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Second Prostration</Language>
+         <Language id="Arabic">السجدة الثانية</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Prayed in the second chorus of the church. Initially prayed in the festive tune but then switches to annual tune at the gospel response. 
+         </Language>
+         <Language id="Arabic">
+            تبدأ الصلاة فى الخورس الثانى بالطريقة الفرايحى لكنها تتحول للطريقة السنوى عند مرد الإنجيل
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/StartOfService"/>
+      <InsertDocument path="include/ThanksgivingPrayer"/>
+      <InsertDocument path="include/InaudiblePrayerForThePraxis"/>
+      <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/DoxaPatriAlleluia"/>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="Deuteronomy 6:17-25" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      </Role>
+      
+      <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="1 Corinthians 13:13-14:17" type="section"/>
+      </Role>
+      
+      <InsertDocument path="include/trisagion/Seasonal"/>
+      <InsertDocument path="include/LitanyOfTheGospel"/>
+         
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Watos Exposition</Language>
+               <Language id="Arabic">طرح واطس</Language>
+            </Title>
+            
+            <Text> 
+               <Language id="English">
+                  The twelve Apostles were in Jerusalem waiting for the power which the Lord would  send them. It happened that on the Day of Pentecost, the Holy Spirit the Paraclete, descended on the Apostles. And they spoke in the languages of the heavenly and with angelic tunes, professing Christ and the glory of His Resurrection. 
+               </Language>
+               <Language id="Arabic">
+                  كان الإثنى عشر رسولاً في أورشليم ينتظرون القوة التي يرسلها لهم الرب. وحدث عند تمام الخمسين أن أتى على الرسل الروح المعزي. فتكلموا بلغات السمائيين ونغمة الملائكة واعترفوا بالمسيح ومجد قيامته.
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  So the Holy Spirit the Paraclete, the Spirit of truth who proceeds from the Father, descended on the Apostles and they performed great miracles and powers among the people, witnessing to them with great proofs that the Lord Jesus rose from the dead. 
+               </Language>
+               <Language id="Arabic">
+                  فلما كمل عيد العنصرة حل على الرسل روح القدس المعزي. روح الحق المنبثق من الآب وصنعوا آيات عظيمة وقوات في الشعب وكانوا يشهدون بعِظَم دالة (وبكل صفة) على قيامة الرب يسوع أنه قام من الأموات.
+               </Language>
+            </Text>
+            
+            <Text> 
+               <Language id="English">
+                  Praise be to God forever.
+               </Language>
+               <Language id="Arabic">
+                  والسُبح لله دائماً.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Comment>
+         <Language id="English">
+            Prayed in the annual tune.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+      
+      <Role id="People">
+         <Section antiphonePitch="1">
+            <Title>
+               <Language id="English">Alternate Gospel Response</Language>
+               <Language id="Arabic">مرد الإنجيل</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Au[~nejwou m~pefa~mahi: n~je nat~ve nem na p~kahi: niar,/ niexoucia~: nem n/ etcapecht m~p~kahi. 
+               </Language>
+               <Language id="English">
+                  The heavenly and the earthly: were subdued by His might: the principalities and the authorities: and those under the earth.
+               </Language>
+               <Language id="Arabic">
+                  خـضــــع لعـزتـــــــــــــــه    السمائيــــــون والأرضيـــــون والرؤســـــــــاء والمتسلطــــــــون ومما تحت الأرض.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Anon hwn tentwbh m~mok: w~ vhe~tafolf e~ouranoc: eyreffwt n~nennobi etos: nem nena~nomia n~ar,eoc. 
+               </Language>
+               <Language id="English">
+                  We also, entreat You: O Who ascended into the heavens: to wipe our many sins: and our old inquities. 
+               </Language>
+               <Language id="Arabic">
+                  ونحن أيضــــاً نتضــــــــرع اليــــــك يا الذى صعد الى السماء لكى تمحو خطايانا الكثيرة وأثامنا القديمة.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/StandardPrayerIntro"/>
+      <InsertDocument path="include/litanies/LeaderLong"/>
+      <InsertDocument path="include/litanies/Departed"/>
+      <InsertDocument path="include/litanies/Oblations"/>
+      <InsertDocument path="include/litanies/Catechumens"/>
+      
+      <Comment>
+         <Language id="English">
+            The congregation bows down after the deacon says:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/WorshipGodInFear"/>
+   
+      <Role id="Priest">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Second Prostration Prayer</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  O Lord our God, who gave peace to the people and the gift of the Holy Spirit in their different ages, make us also worthy to be counted among Your inheritance. May Your Holy Spirit dwell upon us whom You sent upon Your disciples and apostles on this Day of Pentecost.
+               </Language>
+               <Language id="Arabic">
+                  أيها الرب إلهنا الذي أعطي السلامة للناس وموهبة الروح القدس في أعمارهم، إجعلنا أهلاً نحن أيضاً أن نحسب في ميراثك. وليأت علينا روحك القدوس الذي أرسلته على تلاميذك (ورسلك) في هذا اليوم الخمسيني.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Who became in their mouths and on their lips as tongues of fire. Through Your apostles we accepted the knowledge of Your divinity when we heard it with our ears, each of us according to his language. We were filled with the light of the fire of Your Holy Spirit.
+               </Language>
+               <Language id="Arabic">
+                  الذي صار في أفواههم وشفاههم ألسنة من نار. ومن أجلهم قبلنا معرفة لاهوتك نحن جنس البشر من قِبَل سماعنا بأذاننا، كل واحد منا بما له من اللغة. وامتلأنا نوراً من قِبَل لهيب روحك القدوس.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  We were saved from the perversion of darkness when we were united with the various fiery tongues, and were filled with Your great goodness that is above nature. When You called us to Your faith, we believed and spoke of the glory of Your divinity with the Father and the Holy Spirit, one Godhead and one dominion.
+               </Language>
+               <Language id="Arabic">
+                  وخلصنا من ضلالة الظلمة بإتحادنا بالألسن النارية المتفرقة وإحسانك الذي يفوق الطبيعة. لأنك دعوتنا لِمَا لك من الإيمان وآمنا وتكلمنا بمجد لاهوتك مع الآب والروح القدس بلاهوت واحد وسلطان واحد.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  We were enlightened through You because You are the Light of the Father, and the Person of His essence and nature, the Unchangeable and the Fountain of Wisdom. I ask You to open my lips, I the sinner. Teach me how to entreat You for all our needs. For You alone know the multitude of my sins.
+               </Language>
+               <Language id="Arabic">
+                  وبك إستضأنا لأنك أنت نور الآب، والشخص الذي من جوهره وطبعه الذي لا يتغير ولا يتزعزع وينبوع الحكمة. أسألك أن تفتح شفتيَّ أنا الخاطئ. علمني كيف أتضرع إليك بما نحتاجه. لأنك أنت الذي يعرف كثرة خطاياي الجمة.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  But Your lovingkindness overcomes my ignorance. For behold, I stand in fear before the multitude of Your mercies and cast myself beneath them. Manage my life, O Governor of all the creation, with Your unutterable power and wisdom.
+               </Language>
+               <Language id="Arabic">
+                  ولكن تحننك يغلب جهلي لأني ها أنذا بالخوف أقف قِبَالة لجة رحمتك، وبعلم طرحت نفسي فيها. دبِّر حياتي يا مدبر كل الخليقة بقوته وحكمته التي لا يُنطق بها.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  O harbor of peace for those who are in the storm, show us the way in which we ought to walk. Send the Spirit of Your wisdom upon my thoughts and give my ignorance the understanding of Your Holy Spirit. May Your fearful Spirit overshadow my works and may He renew Your upright Spirit within me.
+               </Language>
+               <Language id="Arabic">
+                  يا أيها الميناء الهادئ للذين في العاصف، أرنا الطريق الذي نسلكه، وأرسل روح حكمتك على أفكاري، وأعط لجهلي فهم روحك القدوس. وليكن روحك المخوف يظلل على أعمالي وليتجدد روحك المستقيم في أحشائنا.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  May Your mighty Spirit straighten my thoughts and prevent them from perversion. May Your good Spirit direct me to the right path that I may be worthy to do Your commandments. Remember at all times Your Coming to judge everyone according to their deeds. Do not reject me, I who am defiled by the defilements and the wounds of this world.
+               </Language>
+               <Language id="Arabic">
+                  ليثبت روحك القادر أفكاري بدون زلل، وليكن روحك الصالح يرشدني إلى ما ينبغي لكي أستحق أن أعمل وصاياك. واذكر كل حين مجيئك لمُداينة البشر بما صنعوا. ا ترفضني أنا الذي دنس بالنجاسات وجراحات هذا العالم.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  But strengthen me that I may find mercy before You. You have said, "Whatever You ask in My name, it will be given to you." Therefore, I the sinner ask of Your divinity that You may grant me what You have promised me for salvation.
+               </Language>
+               <Language id="Arabic">
+                  لكن قوِّني فأجد رحمة أمامك. أنت قلت أن الذي يسأل شيئاً بإسمي يناله. من أجل هذا، أنا الخاطئ أطلب إلى لاهوتك أن تعطيني ما قد وعدتني به للخلاص.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Yes, O Lord, maker of all good things, who is rich and gracious, who give us more than what we ask for, You are the merciful and the kind One who is sinless. Look to Your people who are kneeling down on their knees before You. O Compassionate, forgive their iniquities and hear them from Your holy heaven.
+               </Language>
+               <Language id="Arabic">
+                  نعم يا رب يا صانع كل الخيرات، الغني والصالح، أنت المعطي أكثر مما نطلب إليك، أنت هو الرحوم (المتحنن) الذي بلا خطية. انظر إلى شعبك المنحني لك بركبه. أيها الرؤوف، كُن غافراً لآثامهم، واسمعهم من سمائك المقدسة.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Sanctify them with the might of Your right hand that gives salvation. Cover them with the shadow of Your wings and do not forsake the works of Your hands. If they have sinned against You, forgive them their trespasses. Accept their supplications for their knees are bent in worship before You.
+               </Language>
+               <Language id="Arabic">
+                  قدسهم بقوة يمينك المعطية (الخلاص). استرهم بظلال جناحيك ولا تترك أعمال يديك. وان كانوا أخطأوا إليك، إغفر زلاتهم. وإقبل إليك طلباتهم لأن ركبهم منحنية لك.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Stretch out Your hands towards them and support them. Accept our prayers and their prayers as accepted incense before You. O good Lord, who saved us from every evil arrow that flies by day, save us from every danger at night. Accept our evening sacrifice, which is the raising up of our hands.
+               </Language>
+               <Language id="Arabic">
+                  مِدْ يديك إليهم وأعِنهم. وإقبل طلباتنا وطلباتهم كمثل البخور المقبول أمامك. أيها الرب الصالح الذي أنقذنا من كل سهم طائر في النهار، أنقذنا من كل أمر يسلك في الظلمة. إقبل إليك ذبيحتنا المسائية التي هي رفع أيدينا.
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Grant us to pass the night without temptation by the evil one and save us from every anxiety and every fear of Satan that is upon us. Grant solemnity to our souls and knowledge to stand with attentive minds before Your fearful throne. Nail Your fear into our flesh.
+               </Language>
+               <Language id="Arabic">
+                  انعم علينا بأن نجتاز ميدان الليل ونحن غير مجربين من الشرير، ونجنا من كل قلق ومن كل مخافة إبليس كائنة علينا. هِبْ لنفوسنا خشوعاً واجعل إهتماماً لنقف في أفكارنا أمام منبرك المرهوب. سمّر خوفك في لحمنا.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  Mortify our earthly senses that we may be enlightened in the solitude of the night by the knowledge of Your commandments. Take away from us all vain fantasies and every painful desire. Awaken us at the time of prayer. Give us adherence to Your faith and growth in Your commandments.
+               </Language>
+               <Language id="Arabic">
+                  إقتل أعضاءنا الأرضية لنستضئ في وحدة الليل بمعاينة أحكامك. إنزع عنا كل الخيالات الباطلة وكل الشهوات المؤلمة. أنهضنا وقت الصلاة ونحن ثابتون في أمانتك، نامون في أوامرك.
+               </Language>
+            </Text>
+                  
+            <Text>
+               <Language id="English">
+                  For You are our God and we send up to You glory, honor, and worship with Your good Father and the Holy Spirit, the Life-Giver, who is of one essence with You, now and at all times, and unto the age of all ages. Amen.
+               </Language>
+               <Language id="Arabic">
+                  لأنك أنت هو إلهنا ونرسل لك إلى فوق المجد والإكرام والسجود مع أبيك الصالح والروح القدس المحيي المساوي لك، الآن وكل أوان وإلى دهر الدهور. آمين.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The Greek hymn <span class="Coptic">Ioudac O Paranomoc</span> is chanted while the deacons are going “backwards” (clockwise) around an empty chair, symbolizing the Judas’ empty bishopric.  Some rites call for placing an upside-down chair, symbolizing the broken law.  This hymn is for Judas’ reprimand:
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">The Procession of Judas</Language>
+            <Language id="Coptic">Ioudac O Paranomoc</Language>
+         </Title>
+         
+         <InsertDocument path="include/JudasWhoHasBrokenTheLawRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Arguriw~ epray/cac &lt;~ricton tic. Ioudic paranomic. 
+            </Language>
+            <Language id="English">
+               With silver, you have sold Christ to the Jews, who have broken the law. 
+            </Language>
+            <Language id="Arabic">
+               بالفضة بعت المسيح لليهود مخالفي الناموس.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               I~de paranomi e~pilabou meni ton &lt;~ricton: c~taurw p~roc /~lwcan en tw k~raniw~ topw. 
+            </Language>
+            <Language id="English">
+               The Law opposers took Christ and nailed Him on the Cross at the place of Cranium.
+            </Language>
+            <Language id="Arabic">
+                فأما مخالفو الناموس فأخذوا المسيح وسمروه علي الصليب في موضع الاقرانيون.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/JudasWhoHasBrokenTheLawRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Barabban ton kata kriton a~pelucan auton ton k~rit/n: ke decont/n ectaurwca   
+            </Language>
+            <Language id="English">
+               Barabas the condemned thief was set free and the Master, the Judge they crucified.
+            </Language>
+            <Language id="Arabic">
+               باراباس اللص المدان أطلقوه والسيد الديان صلبوه
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/JudasWhoHasBrokenTheLawRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ic t/n n~leuran lon,/n e~pi ye~nt/c: ke wc l/ct/n xulw p~roc/~lwcan e~y/kan: en m~n/miw~ o~ ektou tavou e~girac ton Lazaron:  
+            </Language>
+            <Language id="English">
+               They thrust a spear in Your side, and as a thief they nailed You on the Cross. They laid You in a tomb, O You, Who raised Lazarus from the tomb.
+            </Language>
+            <Language id="Arabic">
+               في جنبك وضعوا حربة ومثل لص سمروك علي خشبة ووضعوك في قبر يامن أقام لعازر من القبر.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/JudasWhoHasBrokenTheLawRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Wcper gar I~wnac t~ric/~merac e~ mipen: en kilia~ tou k/touc outwc ke cwr /~man: t~ric /~merac e~minen: meta twn teyn/kotwnton tavon ec vragicanto
+            </Language>
+            <Language id="English">
+               For as Jonah stayed three days inside the whale’s belly, also our Savior stayed three days. After He died, they sealed the tomb.
+            </Language>
+            <Language id="Arabic">
+               لأنه كما مكث يونان ثلاثة أيام في بطن الحوت هكذا مخلصنا أقام ثلاثة أيام: بعد أن مات ختموا القبر.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/JudasWhoHasBrokenTheLawRefrain"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ontwc a~nect/ ke ouk egnwcan ctratia~ w~te o~ntwcegeryic o~ Cwt/r tou kocmou o~ paywn ke a~nactac dia~ tou genoc /~mwn Kurie~ doxaci: A~m/n.
+            </Language>
+            <Language id="English">
+               Truly He rose but the soldiers were not aware that truly the Savior of the world has risen. He Who suffered and died for our sake, O Lord, glory be to You. Amen.
+            </Language>
+            <Language id="Arabic">
+               بالحقيقة قام والجند لم يعلموا أنه حقا نهض مخلص العالم الذي تألم وقام لأجل جنسنا. يارب المجد لك. أمين.
+            </Language>         
+         </Text>
+      </Section>
+   </Role>
+</Document>

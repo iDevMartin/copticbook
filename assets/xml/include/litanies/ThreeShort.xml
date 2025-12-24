@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Three Short Litanies</Language>
+      <Language id="Arabic">الثلاثة أواشى الصغار</Language>
+   </Title>
+
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/PeaceShortSection"/>
+   <InsertDocument path="include/litanies/FathersShort"/>
+   <InsertDocument path="include/litanies/Assemblies"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/CreedPeople"/>
+</Document>

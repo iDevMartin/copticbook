@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday Eve (The Sixth Hour)</Language>
+         <Language id="Arabic">ليلة الأثنين (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~jwrh m~p~c~nau (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Joel 1:5-15</Language>
+               <Language id="Arabic">يوئيل 1: 5-15</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Joel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Arinumvin n/etyaqi e~bol Aqen p~/rp: ouoh rimi a~rih/bi n/ t/rou etcw m~pi/rp euyaqi: je auw~li e~bol qen rwten m~p~ounof nem v~rasi.
+               </Language>
+               <Language id="English">
+                  Get sober, you who are drunk from your wine, and weep, mourn all you who drink wine, for joy and gladness are removed from your mouth.
+               </Language>
+               <Language id="Arabic">
+                  أستيقظوا أيها السكارى من الخمر. و أبكوا و نوحوا يا جميع شاربى الخمر المسكر. لأنه قد نزع عنكم السرور والفرح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je afi~ n~je oueynoc hijen p~kahi efjor ouoh m~mon tef/pinefsol hansol m~moui~ ne ouoh nefnajhi hanmac mmoui~ ne. 
+               </Language>
+               <Language id="English">
+                  For a nation strong and numberless came up against My land. His teeth are the teeth of a lion and his molars those of a young lion. 
+               </Language>
+               <Language id="Arabic">
+                  أذ قد جاءت على الأرض أمة قوية بلا عدد. أسنانهم أسنان الأسد ولها أنياب الليوث. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Au,w n~tabw n~a~loli e~p~tako: ouoh tabw n~kente eukws: qen ouqotqet auqetqwtc ouoh auberbwrc e~bol auy~rououbas n~je neck~l/ma.
+               </Language>
+               <Language id="English">
+                  He laid waste My vine and splintered My fig tree. He diligently searched out and uprooted My vine, peeling off its outer bark.
+               </Language>
+               <Language id="Arabic">
+                  جعلت كرمتى للفساد وتينتى للأنحطام. وفتشتها تفتيشاً وطرحتها فابيضت قضبانها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenaer h/bi e~p~kahi n~je niouw ehote ouselet ecm/r hijen teca~ve ecer h/bi e~jen pihai n~te tecmetparyenoc. 
+               </Language>
+               <Language id="English">
+                  Mourn before Me more than a virgin bride clothed with sackcloth for the husband of her youth. 
+               </Language>
+               <Language id="Arabic">
+                  وسيحزن الكرامون على الأرض أكثر من العروسة المشدودة على رأسها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je auw~li e~bolqen p~/i m~P[oic n~ousouswous nem ouw~ten e~bol: a~rih/bi niou/b n/et semsi m~pimanerswousi:
+               </Language>
+               <Language id="English">
+                  The meat-offering and the drink-offering are removed from the house of the Lord. Mourn, you priests, you who serve at the altar,
+               </Language>
+               <Language id="Arabic">
+                  الحزينة على بعل بكوريتها. نوحوا أيها الكهنة و يا خدام المذبح. لأنه قد رفعت الذبائح والسكيب من بيت الرب. تلفت البقاع وأنفسدت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je auer tale pwrin ouoh autako n~je nimesso]: mareferh/bi n~je p~kahi je afertalepwrin n~je nicouo ouoh afswoui~ n~je ni/rp: 
+               </Language>
+               <Language id="English">
+                  For the fields languish and the land mourns; for the grain withers, the wine is dried up, and the olive oil is scarce. 
+               </Language>
+               <Language id="Arabic">
+                  ولتحزن الأرض لأنه قد عدم القمح وجف الخمر وقل الزيت ويبس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aferkouji n~je pineh afswoui~. Arih/bi niouwi qen nik~t/cic e~jen picouo nem piiot je aftako n~je pi[wl qen t~koi: acswoui~ n~je ]bw n~aloli: ouoh acerkouji n~je ]bw n~kete:
+               </Language>
+               <Language id="English">
+                  The farmers are exhausted. Mourn for the sake of your fields of wheat and barley, for the harvest from the field has been lost. The vine is shriveled up, and the fig trees are scarce in number.
+               </Language>
+               <Language id="Arabic">
+                  احزنوا أيها الفلاحون فى المساكن على القمح و الشعير. لأنه قد تلف القطاف فى الحقل ويبست الكرمة. وذبلت شجرة التين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }bw n~erman nem ]beni nem ]bw n~jemveh nem nis~s/n t/rou n~te tkoi eue~swoui: 
+               </Language>
+               <Language id="English">
+                  The pomegranate and the palm tree, the apple tree and all the trees of the field are withered, 
+               </Language>
+               <Language id="Arabic">
+                  وشجرة الرمان مع النخلة. وشجرة التفاح وجميع أشجار الغياض يبست
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe je au]sws m~v~rasi n~je nis/ri n~te nirwmi.
+               </Language>
+               <Language id="English">
+                  For they put to shame the delight of the sons of men.
+               </Language>
+               <Language id="Arabic">
+                  لأجل أن بنى البشر رذلوا الفرح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mery/nou n~han cok ouoh nehpi niou/b.
+               </Language>
+               <Language id="English">
+                  Gird yourself with sackcloth and wail, you priests.
+               </Language>
+               <Language id="Arabic">
+                  أتزروا بالمسوح يا خدام الله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Arih/bi n/etsemsi m~pimaner swousi masenwten e~qoun entok qen hancok n/etsemsi m~Vnou] je afk/n e~bolqen p~/i m~P[oic petennou] n~je ousouswousi nem ouw~ten e~bol. 
+               </Language>
+               <Language id="English">
+                  Mourn, you who serve at the altar. Go in, sleep in sackcloth, you who minister unto God, for the grain-offering and drink-offering are withheld from the house of your God. 
+               </Language>
+               <Language id="Arabic">
+                  لأنه قد بطلت الذبيحة والسكيب من بيت الرب إلهكم. قدسوا صوماً واكرزوا بالخدمة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matoubo n~oun/ctia~. ouoh hiwis n~ousemsi. Ywou] nip~recbuteroc t/rou etsop hijen p~kahi e~qoun ep~/i m~P[oic petennou] ouoh ws e~h~r/i ha P[oic petennou] e~masw.
+               </Language>
+               <Language id="English">
+                  Sanctify a fast. Call a solemn assembly. Gather all the elders and all the people of the land into the house of the Lord your God, and cry out fervently to the Lord.
+               </Language>
+               <Language id="Arabic">
+                  أجمعوا الشيوخ مع سكان الأرض. وادخلوا إلى بيت الرب إلهكم. وأصرخوا إلى الرب إلهكم جداً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ouoi n/i ouoi n/i ouoi n/i je f~qent n~je p~e~hoou m~P[oic f~n/ou m~v~r/] n~outalepwria.
+               </Language>
+               <Language id="English">
+                  Alas! Alas! Alas! For the day of the Lord draws near, and it will come as misery upon misery.
+               </Language>
+               <Language id="Arabic">
+                  و قولوا ويل لى ويل لى. لأن يوم الرب قرب. وهو يأتى كالدمار.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 29:1-2</Language>
+               <Language id="Arabic">مزمور 29: 1-2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Anioui~ m~P[oic nis/ri n~te Vnou]: a~nioui~ m~P[oic n~hans/ri n~wili: a~nioui~ m~P[oic n~ouw~ou nem outaio: 
+               </Language>
+               <Language id="English">
+                  Bring to the Lord, O you sons of God, bring to the Lord the sons of rams; bring to the Lord glory and honor. 
+               </Language>
+               <Language id="Arabic">
+                  قدموا للرب يا أبناء الله. قدموا للرب أبناء الكباش. قدموا للرب مجداً وكرامة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Anioui~ m~P[oic n~ouwou m~pefran ouwst m~P[oic qen tefaul/ e~youab: All/louia.
+               </Language>
+               <Language id="English">
+                  Bring to the Lord the glory due His name; worship the Lord in His holy court. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  قدموا للرب مجداً لاسمه اسجدوا للرب فى دار قدسه الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 10:32-34</Language>
+            <Language id="Arabic">مرقس 10: 32-34</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nauhi v~mwit de peeun/ou Ne~h~r/i e~Ieroucal/m ouoh nafmosi qajwou n~je I/couc ouoh nauerho]: 
+               </Language>
+               <Language id="English">
+                  Now they were on the road, going up to Jerusalem, and Jesus was going before them; and they were amazed. 
+               </Language>
+               <Language id="Arabic">
+                  وكانوا فى الطريق صاعدين إلى أورشليم وكان يسوع يسير قدامهم وكانوا يتحيرون 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/ de e~nauer akolouyin nauerho] ouoh palin afi~n m~pim/t c~nau e~totf aferh/tc n~je n/e ynaswpi m~mof nwou.
+               </Language>
+               <Language id="English">
+                  And as they followed they were afraid. Then He took the twelve aside again and began to tell them the things that would happen to Him:
+               </Language>
+               <Language id="Arabic">
+                  والذيـن كانوا يـتبعونه كانوا خائفين. فتقدم إليه أيضاً الأثنى عشر وابتدأ يقول لهم عما يحدث له.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je h/ppe tennasenan e~h~r/i e~Ieroucal/m ouoh p~s/ri m~v~rwmi cenat/if n~niar,/e~reuc nem nicaq ouoh cena]hap e~rof m~v~mou ouoh cenat/if n~nieynoc: 
+               </Language>
+               <Language id="English">
+                  “Behold, we are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and to the scribes; and they will condemn Him to death and deliver Him to the Gentiles; 
+               </Language>
+               <Language id="Arabic">
+                  ها نحن صاعدين إلى أورشليم و إبن الإنسان سيسلم إلى رؤساء الكهنة والكتبة فيحكمون عليه بالموت ويسلمونه إلى الأمم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh cenacobi m~mof ouoh cenahiyaf e~qoun e~h~raf ouoh cenaermactiggoin m~mof ouoh cenaqoybef:
+               </Language>
+               <Language id="English">
+                  And they will mock Him, and scourge Him, and spit on Him, and kill Him.
+               </Language>
+               <Language id="Arabic">
+                  فيهزءون به ويتفلون عليه ويجلدونه ويقتلونه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh menenca somt n~e~hoou f~natwnf.
+               </Language>
+               <Language id="English">
+                  And the third day He will rise again.”
+               </Language>
+               <Language id="Arabic">
+                  وفى اليوم الثالث يقوم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of the eve of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من ليلة الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  And while Christ our Lord and his disciples were on their way to Jerusalem, the twelve apostles came to Him and He started to tell them about the sufferings that will come upon Him. He said: "Behold you that are chosen and pure; we are going up to Jerusalem. The chief priests of the Jews, their elders and scribes, will rise together against the Son of man; and they shall condemn Him to death, and shall deliver Him to the Gentiles. 
+               </Language>
+               <Language id="Arabic">
+                  وفيما كان المسيح إلهنا و تلاميذه صاعدين إلى أورشليم. أحضر إليه الإثنى عشر رسولاً تلاميذه القديسين. و ابتدأ يقول لهم بالذى سيكون منه بسبب آلامه هكذا قائلاً: أعلموا أيها الأصفياء الأطهار هوذا نحن صاعدون إلى أورشليم وسوف يقوم رؤساء كهنة اليهود ومشائخهم و كتبتهم معاً على إبن الإنسان ويحكمون عليه بحكم الموت. ويسلمونه إلى الأمم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And they shall mock Him, and shall scourge Him, and shall spit upon Him, and crucify Him on the cross; and on the third day He shall rise again."You poor Israel, how dare you do that in your ignorance and crucify Jesus Christ, who saved you from slavery. You rewarded charity with evil that is why your sin will remain forever.
+               </Language>
+               <Language id="Arabic">
+                  ويهزأون به ويبصقون فى وجهه. ويصلبونه على خشبة الصليب ويقوم فى اليوم الثالث. كـيف جسرت يـا اسرائيل المسكين وفـعلت هذا الأمر بجهلك. وصلبت يسوع المسيح الذى أنقذك من العبودية. وجـازيت الأحسان بالإساءة. من أجل ذلك خطيتك باقية إلى كمال الدهور.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FuneralTune">
+         <Comment>
+            <Language id="English">
+               Then deacon chants the psalm in the (Adribi) tune. 
+            </Language>
+            <Language id="Arabic">
+               ثم يرتل الشماس المزمور بالطريقه الادريبي.
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="FuneralMen">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 64:5-6</Language>
+               <Language id="Arabic">مزمور 64: 5-6</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Wouniatf m~v/e~takcotpf ouoh aksopf e~rok: efe~swpi qen nekaul/ou sa e~neh.
+               </Language> 
+               <Language id="English">            
+                  Blessed is he whom You choose and bring near, to dwell in Your courts!
+               </Language>
+               <Language id="Arabic">
+                  طوبى للذي تختاره وتقربه، ليسكن في ديارك.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Cwtem e~ron Vnou] Pencwt/r: ]helpic n~te aur/jf m~p~kahi t/rf.
+               </Language> 
+               <Language id="English">            
+                  Answer us with deliverance, O God of our salvation, who are the hope of all the ends of the earth.
+               </Language>
+               <Language id="Arabic">
+                  تستجيبنا يا اله خلاصنا يا متكل جميع اقاصي الارض.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralWomen">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 114:7, 5</Language>
+               <Language id="Arabic">مزمور 114: 7, 5</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Kot] ta'u,/ epema n~emton je a P[oic erpeynanef n/i.
+               </Language> 
+               <Language id="English">            
+                  Return, O my soul, to your rest; for the Lord has dealt bountifully with you.
+               </Language>
+               <Language id="Arabic">
+                  إرجعي يا نفسي إلى راحتك لأن الرب قد احسن اليكِ.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  W P[oic nohem n~ta'u,/: ouna/t pe P[oic ouoh ouy~m/i pe.
+               </Language> 
+               <Language id="English">            
+                  “O Lord, I beseech You, save my life!” Gracious is the Lord, and righteous.
+               </Language>
+               <Language id="Arabic">
+                  يا رب نج نفسي. الرب حنّان وصديق
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralWomenDelivery">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 78:39</Language>
+               <Language id="Arabic">مزمور 78: 39</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="English">            
+                  For He remembered that they were but flesh, A breath that passes away and does not come again.
+               </Language>
+               <Language id="Arabic">
+                  ذَكَرَ أَنَّهُمْ بَشَرٌ. رِيحٌ تَذْهَبُ وَلاَ تَعُودُ. 
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralBoys">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 26:13; 114:5</Language>
+               <Language id="Arabic">مزمور 26: 13; 114: 5</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Paiwt nem tamau netau,at n~cwou: P[oic de petafsopt e~rof.
+               </Language> 
+               <Language id="English">            
+                  My father and my mother have forsaken me, but the Lord will take me up.
+               </Language>
+               <Language id="Arabic">
+                  إن ابي وامي قد تركاني والرب يضمّني.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  V/eta~reh e~nikouji n~alwoui pe P[oic: aiyebioi ouoh afnahmet.
+               </Language> 
+               <Language id="English">            
+                  The Lord preserves the simple; when I was brought low, He saved me.
+               </Language>
+               <Language id="Arabic">
+                  الرب حافظ البسطاء. تذللت فخلصني.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralGirls">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 38:12, 23</Language>
+               <Language id="Arabic">مزمور 38: 12, 23</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Je a~nok ousemmo a~nok hijen p~kahi ouoh n~remn~jwili m~v~r/] n~nakeio] t/rou ,w n/i. Hina n~ta,~bob m~pa]sen/i ouoh n~tas~temswpi je.
+               </Language> 
+               <Language id="English">            
+                  For I am Your passing guest, a sojourner, like all my fathers. Look away from me, that I may know gladness, before I depart and be no more!”
+               </Language>
+               <Language id="Arabic">
+                  لاني أنا غريب عندك. نزيل مثل جميع آبائي. اقتصر عني فاتبلج قبل أن أذهب فلا اوجد
+               </Language>
+            </Text>               
+         </Section>
+      </Season>
+      
+      <Season id="FuneralDeacons">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 19:1-4</Language>
+               <Language id="Arabic">مزمور 19: 1-4</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Efe~cwtem e~rok n~je P[oic qen pie~hoou n~te pekhojhej: efe~] e~h~r/i e~jwk n~je v~ran m~Vnou] n~Iakwb.
+               </Language> 
+               <Language id="English">            
+                  The Lord hear you in the day of trouble; the name of the God of Jacob defend you.  
+               </Language>
+               <Language id="Arabic">
+                  لِيَسْتَجِبْ لَكَ الرَّبُّ فِي يَوْمِ ضِيقِكَ. لِيَحْرُسْكَ اسْمُ إِلَهِ يَعْقُوبَ.
+               </Language>
+            </Text>               
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Efe~ouwrp nak n~oubo/yia e~bol qen peyouab. Efe~sopk e~rof e~bol qen Ciwn.
+               </Language> 
+               <Language id="English">            
+                  Send help from the sanctuary, and aid out of Sion.  
+               </Language>
+               <Language id="Arabic">
+                  لِيُرْسِلْ لَكَ عَوْناً مِنْ مَقْدِسِهِ، وَأَزْراً مِنْ صِهْيَوْنَ.
+               </Language>
+            </Text>
+         </Section>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 139:14-15</Language>
+               <Language id="Arabic">مزمور 139: 14-15</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  }naouwnh nak e~bol P[oic je auersv/ri m~mok qen ouho]:  hans~v/ri ne nekh~b/oui~ ouoh a~ tau,/ emi e~masw.
+               </Language> 
+               <Language id="English">            
+                  I will give You thanks; for You are fearfully wondrous; wondrous are Your works; and my soul knows it well.   
+               </Language>
+               <Language id="Arabic">
+                  أَحْمَدُكَ لأَنَّكَ صَنَعْتَنِي بِإِعْجَازِكَ الْمُدْهِشِ. مَا أَعْجَبَ أَعْمَالَكَ وَنَفْسِي تَعْلَمُ ذَلِكَ يَقِيناً.
+               </Language>
+            </Text>               
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Mpefhwn n~je pakac cabol m~mok v/ etakyamiof qen peth/p.
+               </Language> 
+               <Language id="English">            
+                  My bones, which You made in secret, were not hidden from You.   
+               </Language>
+               <Language id="Arabic">
+                  لَمْ يَخْفَ عَلَيْكَ كِيَانِي عِنْدَمَا كُوِّنْتُ فِي السِّرِّ،
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralPriests">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 64:4-5</Language>
+               <Language id="Arabic">مزمور 64: 4-5</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Wouniatf m~v/etakcotpf ouoh aksopf e~rok: efe~swpi qen nekaul/ou sa e~neh: 
+               </Language> 
+               <Language id="English">            
+                  Blessed is he whom You have chosen and have taken to Yourself, he shall dwell in Your courts forever.
+               </Language>
+               <Language id="Arabic">
+                  طوبى لمن اخترته وقبلته ، ليسكن فى ديارك إلى الآبد.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  F~ouab n~je pekervei ouoh f~oi n~s~v/ri qen oumeym/i. 
+               </Language> 
+               <Language id="English">            
+                  Holy is Your temple, wonderful in righteousness.
+               </Language>
+               <Language id="Arabic">
+                  قدوس هو هيكلك وعجيب بالبر.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralBishops">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 60:4-5</Language>
+               <Language id="Arabic">مزمور 60: 4-5</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Eie~swpi qen pekman~swpi sa e~neh: eie~[iq/ibi qa t~c~kep/ n~te nektenh. 
+               </Language> 
+               <Language id="English">            
+                  Let me dwell in Your tent forever! Oh to be safe under the shelter of Your wings!
+               </Language>
+               <Language id="Arabic">
+                  لاسكنن في مسكنك الى الدهور. احتمي بستر جناحيك.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Nyok Vnou] akcwtem e~naeu,/: ak] n~ouk~l/ronomia n~n/eterho] qat~h/ m~pekran. 
+               </Language> 
+               <Language id="English">            
+                  For You, O God, have heard my vows, You have given me the heritage of those who fear Your name.
+               </Language>
+               <Language id="Arabic">
+                  لانك انت يا الله استمعت نذوري.اعطيت ميراث خائفي اسمك.
+               </Language>
+            </Text>
+         </Section>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 91:1-2</Language>
+               <Language id="Arabic">مزمور 91: 1-2</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="English">            
+                  He who dwells in the secret place of the Most High Shall abide under the shadow of the Almighty.
+               </Language>
+               <Language id="Arabic">
+                  اَلسَّاكِنُ فِي سِتْرِ الْعَلِيِّ فِي ظِلِّ الْقَدِيرِ يَبِيتُ.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="English">            
+                  I will say of the Lord, “He is my refuge and my fortress; My God, in Him I will trust.”
+               </Language>
+               <Language id="Arabic">
+                  أَقُولُ لِلرَّبِّ: [مَلْجَإِي وَحِصْنِي. إِلَهِي فَأَتَّكِلُ عَلَيْهِ].
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralMonks">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 6:7-10</Language>
+               <Language id="Arabic">مزمور 6: 7-10</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Hen y/nou cabol m~moi ouon niben eterhwb e~]anomia~: a~ P[oic cwtem e~t~c~m/ n~te parimi. P[oic afcwtem e~pa]ho. A P[oic swp n~tap~roceu,/ e~rof. 
+               </Language> 
+               <Language id="English">            
+                  Depart from me, all you that work iniquity; for the Lord has heard the voice of my weeping. The Lord has hearkened to my petition; the Lord has accepted my prayer. 
+               </Language>
+               <Language id="Arabic">
+                  ابْتَعِدُوا عَنِّي يَاجَمِيعَ فَاعِلِي الإِثْمِ، لأَنَّ الرَّبَّ قَدْ سَمِعَ صَوْتَ بُكَائِي. سَمِعَ الرَّبُّ تَضَرُّعِي. الرَّبُّ يَتَقَبَّلُ صَلاَتِي.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Eue~[isipi ouoh eue~s~yorter e~masw n~je najaji t/rou. Eue~kotou e~vahou eue~[isipi e~masw n~,wlem. 
+               </Language> 
+               <Language id="English">            
+                  Let all mine enemies be put to shame and sore troubled: let them be turned back and grievously put to shame speedily.
+               </Language>
+               <Language id="Arabic">
+                  لِيَخْزَ جَمِيعُ أَعْدَائِي وَيَرْتَاعُوا جِدّاً، وَلْيَتَرَاجَعُوا إِذْ لَحِقَ بِهِمِ الْعَارُ فَجْأَةً.
+               </Language>
+            </Text>
+         </Section>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 54:6</Language>
+               <Language id="Arabic">مزمور 54: 6</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  H/ppe aiouei eiv/t ouoh aiswpi hip~safe: naijoust ;ebol qat~h/ m~v/eynanahmet e~bol ha oumetkouji n~h/t nem oucaray/ou. 
+               </Language> 
+               <Language id="English">            
+                  Lo! I have fled afar off, and lodged in the wilderness. I waited for him that should deliver me from distress of spirit and tempest. 
+               </Language>
+               <Language id="Arabic">
+                  كُنْتُ أَشْرُدُ هَارِباً وَأبِيتُ فِي الْبَرِّيَّةِ. كُنْتُ أُسْرِعُ لِلنَّجَاةِ مِنَ الرِّيحِ الْعَاصِفَةِ، وَمِنَ نَوْءِ الْبَحْرِ».
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralMonks">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 16:1-2</Language>
+               <Language id="Arabic">مزمور 16: 1-2</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  {ic~m/ Vnou] e~tameym/i ouoh mah~y/k e~pa]ho. &lt;amasj e~tap~roceu,/ qen hanc~votou n~,~rof an. 
+               </Language> 
+               <Language id="English">            
+                  Hearken, O Lord of my righteousness, attend to my petition; give ear to my prayer not uttered with deceitful lips. 
+               </Language>
+               <Language id="Arabic">
+                  اسْمَعْ يَارَبُّ دَعْوَى الْحَقِّ. أَنْصِتْ إِلَى صُرَاخِي، وَأَصْغِ إِلَى صَلاَتِي الصَّاعِدَةِ مِنْ شَفَتَيْنِ صَادِقَتَيْنِ.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Marefi~ n~je pahap e~bol hiten pekho. Mare nabal nau e~n/etcoutwn. 
+               </Language> 
+               <Language id="English">            
+                  Let my judgment come forth from Your presence; let mine eyes behold righteousness.
+               </Language>
+               <Language id="Arabic">
+                  لِيَخْرُجْ مِنْ أَمَامِكَ قَضَائِي، وَلْتُلاَحِظْ عَيْنَاكَ اسْتِقَامَتِي.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+      
+      <Season id="FuneralMonks | FuneralMemorial">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 38:20-21</Language>
+               <Language id="Arabic">مزمور 38: 20-21</Language>
+            </Title>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Auberbwrt e~bol a~nok pimenrit m~v~r/] n~ourefmwout eforeb. 
+               </Language> 
+               <Language id="English">            
+                  Those also who render evil for good, they are my adversaries, because I follow what is good 
+               </Language>
+               <Language id="Arabic">
+                  رفضونى أنا الحبيب مثل ميت مرذول. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Mper,at n~cwk P[oic Panou] m~perouei cabol m~moi. 
+               </Language> 
+               <Language id="English">            
+                  Do not forsake Me, O Lord; O My God, be not far from me.
+               </Language>
+               <Language id="Arabic">
+                  فلا تهملنى يا ربى والهى.
+               </Language>
+            </Text>
+         </Section>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Ououwini pe V]: efsop qen piouwini: hanaggeloc n~ouwini: e~terhumnoc e~rof.
+      </Language>
+      <Language id="English">
+         God is light, He abides in light, and the angels of light, sing unto Him.
+      </Language>
+      <Language id="Arabic">
+         الله هو نور وساكن في النور تسبحه ملائكة النور.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Apiouwini sai: e~bol qen Maria~: a~Elicabet mici: m~pip~rodromoc.
+      </Language>
+      <Language id="English">
+         The light has shone, from Mary, and Elizabeth, gave birth to the forerunner.
+      </Language>
+      <Language id="Arabic">
+         النور أشرق من مريم   واليصابات ولدت السابق.
+      </Language>
+   </Text>
+</Document>

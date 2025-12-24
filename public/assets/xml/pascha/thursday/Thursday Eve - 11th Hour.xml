@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday Eve (The Eleventh Hour)</Language>
+         <Language id="Arabic">ليلة خميس العهد (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~jwrh m~Ptiou n~nis] (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Jeremiah 8:4-10</Language>
+               <Language id="Arabic">أرميا 8: 4-10</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Jeremiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nai nee~tef jw m~mwou n~je P[oic je m/ v/e~safhei m/ f~natwnf an je: ie v/etaftacyo e~bol m/ m~paftacyo e~qoun je: 
+               </Language>
+               <Language id="English">
+                  For thus says the Lord: "Will not he who falls arise? Or he who turns away, will he not return?
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله الرب: هل من يسقط لا يقوم؟ ومن يرتد لا يرجع؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybeou aftacyo e~bol n~je pailaoc qen outacyo e~bol n~atsipi: ouoh aua~moni m~mwou n~q~r/i qen pououws m~pououws n~ywou e~tacywou.
+               </Language>
+               <Language id="English">
+                  Why therefore has this My people turned away from Me in a shameful way, strengthened themselves in their choice, and were not willing to return?
+               </Language>
+               <Language id="Arabic">
+                  لما إرتد هذا الشعب إرتداداً وقحاً، وتمسكوا بهواهم وأبوا أن يرجعوا؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  {ic~m/ je ]nou e~reten e~cwtem n~oucaji gar m~pair/]: m~mon h~li gar n~rwmi naermeta~noin qen tefkakia~ f~jw m~woc: je ou petaiai:
+               </Language>
+               <Language id="English">
+                  Indeed, give ear and listen. Will they not speak thus: 'There is no man who repents of his vices, saying, "What have I done?'"
+               </Language>
+               <Language id="Arabic">
+                  أنصتوا الآن واسمعوا كلاماً لأنه هكذا ليس أحد من الناس يتوب عن شره قائلاً ماذا صنعت،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/et[oji af,atotf e~bol qen pefman[oji: m~v~r/] n~ouh~yo e~re peffw] hiwtf e~bolqen pefhemhem ]a~cida n~te t~ve accouen pecc/ou: ou[~rom p~sal nem beni ouoh ou[aj n~te t~koi aua~reh e~nouyws e~sau se e~qoun n~q/tou:
+               </Language>
+               <Language id="English">
+                  The runner ceases to run his race, as a sweating horse ceases to run when he is tired. Even the stork in the sky knows her appointed time, as do the turtledove and the swallow of the field. The sparrows watch for the times of their coming.
+               </Language>
+               <Language id="Arabic">
+                  الذى يجرى قد كف عن موضع جريه، كحصان عرقان من صهيله، عرف اللقلق فى السماء ميعاده واليمامة والسنونة وعصفورة الحقل عرفت أوقات دخولها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Palaoc de n~yof m~pefe~mi e~p~hap m~P[oic: pwc e~reten jwm~moc je a~non hancabeu a~non ouoh je v~nomoc m~P[oic sop nan: piyws e~t/p e~nigramateuc afswpi n~e~v~l/ou n~oumeym/i an pe.
+               </Language>
+               <Language id="English">
+                  But My people do not know the judgments of the Lord. "How can you say, 'We are wise, and the law of the Lord is with us'? The lying pen becomes vanity for the scribes.
+               </Language>
+               <Language id="Arabic">
+                  وأما شعبى فلم يعرف حكم الرب! كيف تقولون إنا نحن حكماء وناموس الرب لنا، والناموس الذى كان محسوباً للكتبه صار باطلاً وليس حقاً؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Au[isipi n~je nicovoc ouoh ouc~yerter af[itou: je autacyo e~bol m~p~caji m~P[oic: ]covia~ ou/ou te n~q~r/i n~q/tou.
+               </Language>
+               <Language id="English">
+                  Wise men are put to shame and convicted, for they rejected the word of the Lord. What wisdom is in them?
+               </Language>
+               <Language id="Arabic">
+                  خزى الحكماء والفلاسفة وتملكهم الفزع لأنهم رفضوا كلمة الرب، بعيدة هى الحكمة عنهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 61:8,2</Language>
+               <Language id="Arabic">مزمور 61: 8 ,2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Paoujai nem paw~ou auqen panou]: Vnou] n~te tabo/yia ouoh tahelpic acqen Vnou]: 
+               </Language>
+               <Language id="English">
+                  In God is my salvation and my glory; He is the God of my help, and my hope is in God. 
+               </Language>
+               <Language id="Arabic">
+                  خلاصى ومجدى بإلهى، إله معونتى، رجائى هو بالله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ke gar n~yof pe Panou] Pacwt/r: parefsopt e~rof n~nakim n~houo: All/louia.
+               </Language>
+               <Language id="English">
+                  For [indeed] He is my God and my Savior, My protector; I shall be shaken no more. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  لأنه إلهى ومخلصى. ناصرى فلا اتزعزع أبداً: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 12:44-50</Language>
+            <Language id="Arabic">يوحنا 12: 44-50</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  I/couc de afws e~bol ouoh pejaf: je v/eonah] e~roi afnah] e~roi an: alla afnah] e~v/e~taftaouoi. 
+               </Language>
+               <Language id="English">
+                  Then Jesus cried out and said, “He who believes in Me, believes not in Me but in Him who sent Me. 
+               </Language>
+               <Language id="Arabic">
+                  فصاح يسوع وقال: الذى يؤمن بى ليس يؤمن بي, بل آمن بالذى أرسلنى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/eynau e~roi afnau e~v/e~taftaouoi. A~nok aii~ euouwini m~pikocmoc: hina ouon niben eynah] e~roi n~tefs~temo~hi qen pi,aki.
+               </Language>
+               <Language id="English">
+                  And he who sees Me sees Him who sent Me. I have come as a light into the world, that whoever believes in Me should not abide in darkness.
+               </Language>
+               <Language id="Arabic">
+                  ومن يرانى فقد رأى الذى أرسلنى. أنا قد جئت نوراً للعالم، حتى كل من يؤمن بى لا يمكث فى الظلمة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh v/eynacwtem e~nacaji ouoh n~tefstema~reh e~rwou a~nok eyna]hap e~rof an: nee~taii~ gar an hina n~ta]hap e~pikocmoc alla hina n~tanohem m~pikocmoc. 
+               </Language>
+               <Language id="English">
+                  And if anyone hears My words and does not believe, I do not judge him; for I did not come to judge the world but to save the world. 
+               </Language>
+               <Language id="Arabic">
+                  وإن كان أحد يسمع كلامى ولا يحفظه فأنا لا أدينه، لأنى لم آتٍ لأدين العالم بل لأخلص العالم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/etjwl m~moi e~bol ouoh e~te n~f~na[i n~nacaji an: ouon n~taf m~v/eyna]hap e~rof: picaji e~taicaji m~mof v/e~te m~mau eyna]hap e~rof qen pie~hoou n~qae~.
+               </Language>
+               <Language id="English">
+                  He who rejects Me, and does not receive My words, has that which judges him—the word that I have spoken will judge him in the last day.
+               </Language>
+               <Language id="Arabic">
+                  ومن ينكرنى ولا يقبل كلامى فله من يدينه. الكلام الذى تكلمت به هو الذى يدينه فى اليوم الأخير،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je a~nok m~picaji e~bolhitot m~mauatf: alla v~iwt v/e~taftaouoi n~yof pe e~taf] entol/ n/i: ou pe]najof ie ou pe ]nacaji m~mof.
+               </Language>
+               <Language id="English">
+                  For I have not spoken on My own authority; but the Father who sent Me gave Me a command, what I should say and what I should speak.
+               </Language>
+               <Language id="Arabic">
+                  لأنى لم أتكلم من ذاتى وحدى، بل الآب الذى أرسلنى هو الذى أعطانى الوصية ماذا أقول وبماذا أتكلم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]e~mi je tefentoli ouwnq n~e~neh te: n/ oun a~nok e~]jw mmwou kata v~r/] e~tafjoc n/i n~je paiwt pair/] ]caji.
+               </Language>
+               <Language id="English">
+                  And I know that His command is everlasting life. Therefore, whatever I speak, just as the Father has told Me, so I speak.”
+               </Language>
+               <Language id="Arabic">
+                  وأعلم أن وصيته هى حياة أبدية، والذى أتكلم أنا به فكما قال لى أبى هكذا أتكلم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Our Savior the Son of the living God said: I am the light of the world. He who believes in me and accepts my words will not be in the darkness. 
+               </Language>
+               <Language id="Arabic">
+                  قال المخلص إبن الله الحى: أنا هو نور العالم بأسره، ومن يؤمن بى ويقبل كلامى لا يمكن أن يلبث فى الظلام، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He who denies me and does not want to listen to my words or to obey them, I will not judge him, but the words I said will.
+               </Language>
+               <Language id="Arabic">
+                  ولم يجحدنى ولم يرد أن يسمع لقولى ولم يطعه فأنا لا أدينه، لكن القول الذى قلته هو يدينه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Because what I say is from the Father who sent Me. He gave me the commandment of what to say and what to tell.
+               </Language>
+               <Language id="Arabic">
+                  فأن القول الذى نطقت به ليس هو لى بل للآب الذى أرسلنى، وهو أعطانى الوصية بماذا أقول وأنطق.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  We believe in you that you are the omnipotent Word of God the benevolent Father.
+               </Language>
+               <Language id="Arabic">
+                  نحن نؤمن أنك أنت بالحقيقة كلمة الله الآب الصالح، وأن لك القدرة على كل شىء وليس شىء يعسر عليك.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

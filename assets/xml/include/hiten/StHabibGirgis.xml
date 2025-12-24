@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StHabibGirgis:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Habib Girgis:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">               
+               Hiten nie~u,/: n~te piar,/dia~kwn etc~marwout: Habib Girgic pivref]c~bw: P[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of the blessed Archdeacon Habib Girgis, the teacher, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات رئيس الشمامسة لمبارك حبيب جرجس المعلم، يارب انعم لنا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

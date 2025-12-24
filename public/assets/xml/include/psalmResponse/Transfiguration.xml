@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Transfiguration:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V]: afsobtf e~jen pitwou n~Yabwr: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia: Jesus Christ, the Son of God, was transfigured on mount Tabor: Alleluia Alleluia
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله تجلي علي طور تابور. الليلويا الليلويا
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

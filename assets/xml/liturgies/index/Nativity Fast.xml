@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="NativityFast ^ WatosDays ^ AdamDays">
+      <Title>
+         <Language id="English">Nativity Fast</Language>
+         <Language id="Arabic">صوم الميلاد</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Offering of Incense</Language>
+         <Language id="Arabic">رفع بخور</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense">
+          <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Matins | Vespers | SecondProstration | ThirdProstration">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Group>
+            <Season id="Matins | Vespers">
+               <Comment>
+                  <Language id="English">
+                     During the Raising of Incense:
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="SecondProstration">
+               <Comment>
+                  <Language id="English">
+                     For the Second Prostration Prayer:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Afi~ n~je P[oic sa B/ya~nia: nem nefmay/t/c eyouab: affai n~nefjij afc~mou e~rwou: afsenaf e~p~swi e~niv/oui~.
+                  </Language>
+                  <Language id="English">
+                     The Lord came to Bethany / with His holy disciples. / He raised His hands and blessed them / He ascended into the heavens. 
+                  </Language>
+                  <Language id="Arabic">
+                     جاء الرب إلى يت  عنيا، مع تلاميذه القديسين، ورفع يديه باركهم، وصعد إلى السموات.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="ThirdProstration">
+               <Comment>
+                  <Language id="English">
+                     For the Third Prostration Prayer:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }'u,/ n~]c~himi n~camarit/c: y/e~tacjimi n~oumwou n~wnq: ecc~mou e~rok je c,/ qatotk: n~je ]moumi m~mwou n~te p~wnq.
+                  </Language>
+                  <Language id="English">
+                     The soul of the Samaritan woman / who found living water / blesses You because with You / is the water of the fountain of life. 
+                  </Language>
+                  <Language id="Arabic">
+                     نفس  المرأه السامرية، التى وجدت ماء الحياة، تباركك لأن عندك، ينبوع ماء الحياة.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~Pencwt/r: pimairwmi n~a~gayoc: je n~yof afsenh/t qaron: afi~ ouoh afcw] m~mon.
+            </Language>
+            <Language id="English">
+               Let us worship our Savior, the Good One and Lover of Mankind, for He had compassion on us and has come and saved us. 
+            </Language>
+            <Language id="Arabic">
+               فلنسجد لمخلصنا محب البشر الصالح، لأنه تراءف علينا وأتى وخلصنا.
+            </Language>
+         </Text>
+         
+          <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>         
+   </Season>
+   
+   <Season id="Liturgy">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Wouniatou...</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatou qen oumeym/i: n/eyouab n~te paie~hoou: piouai piouai kata pefran: nimenra] n~te Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               Blessed are they in truth, the saints of this day, each one according to his name, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباهم بالحقيقة قديسو هذا اليوم كل واحد بإسمه احباء المسيح.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

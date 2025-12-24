@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="Coptic">Vai pe p~lumen</Language>
+      </Title>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            C~tulloc e~terouwini: pe Maria ]paryenoc.  
+         </Language>
+         <Language id="English">
+            A pillar of light: is Mary the virgin.  
+         </Language>
+         <Language id="Arabic">
+            عمود النور هى مريم العذراء. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Cunterbin e~tai paryenoc: han y~metennec n~tecparyenia~. 
+         </Language>
+         <Language id="English">
+            Patient is the Virgin / and beautiful is her virginity. 
+         </Language>
+         <Language id="Arabic">
+            صابرة هذه العذراء وحسنة هى بتوليتها. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Eybe vai a~ Pencwt/r: olc e~qoun etefmetouro. 
+         </Language>
+         <Language id="English">
+            For this, our Savior / raised her up to His kingdom. 
+         </Language>
+         <Language id="Arabic">
+            من اجل هذا مخلصنا رفعها الى ملكوته. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Af] nac n~niagayon: n/e~te m~pe bal nau e~rwou. 
+         </Language>
+         <Language id="English">
+            He has given her good things / which no eye has seen. 
+         </Language>
+         <Language id="Arabic">
+            وأعطاها الخيرات التى لم ترها عين. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            N~yo gar pe purgoc et[oci: kata p~caji m~picovoc. 
+         </Language>
+         <Language id="English">
+            For you are the high tower / according to the words of the wise. 
+         </Language>
+         <Language id="Arabic">
+            أنت هى البرج العالى كقول الحكيم. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            N~yo gar oucw] n~A~dam: nem nefs/ri t/rou eucop. 
+         </Language>
+         <Language id="English">
+            For you are the salvation of Adam / and all his children together. 
+         </Language>
+         <Language id="Arabic">
+            أنت هى خلاص آدم وبنيه معه. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            N~yo gar a~l/yinon: piman~selet n~kayaroc. 
+         </Language>
+         <Language id="English">
+            You are truly: the bridal chamber.  
+         </Language>
+         <Language id="Arabic">
+            أنت هى بالحقيقة العروس النقية. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Maria v~rasi n~niaggeloc: Maria p~sousou n~nia~poctoloc. 
+         </Language>
+         <Language id="English">
+            O Mary, the joy of the angels! / O Mary, the pride of the apostles! 
+         </Language>
+         <Language id="Arabic">
+            مريم فرح الملائكة مريم فخر الرسل. 
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/veneration/FaiPevlemenRefrain"/>
+   </Section> 
+</Document>

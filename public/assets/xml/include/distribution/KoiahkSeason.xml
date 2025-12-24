@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason">
+      <Section antiphonePitch="1">
+         <Title>                  
+            <Language id="Coptic">Femp~sa gar</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               The hymn <span class="Coptic">Femp~sa gar</span> is chanted during the distribution:     
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/FempsaGar"/>
+      </Section> 
+   </Season>
+</Document>

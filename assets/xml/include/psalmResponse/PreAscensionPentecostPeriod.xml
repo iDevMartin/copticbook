@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc p~ouro n~te p~wou aftwnf e~bol qen n/eymwout qen pie~hoou m~mahsomt. All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Jesus Christ, the King of Glory, rose from the dead, on the third day. Alleluia Alleluia
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ملك المجد قام من الأموات في اليوم الثالث الليلويا الليلويا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

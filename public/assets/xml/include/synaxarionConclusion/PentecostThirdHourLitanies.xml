@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Third Hour Litanies</Language>
+      </Title>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               After reading the Praxis, the litanies of the third hour of the Agpeya are chanted.  First, the congregation chants the refrain of the litanies:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+      </Role>
+         
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest begins the litany with the same verse (above), and the congregation responds with the same response.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+      </Role>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest continues with the following prayer:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouh/t efouab eke~contf n~q/t V]: oup~neuma efcoutwn eke~a~ritf m~beri: qen n/etcaqoun m~moi: m~perberbwrt e~bol ha pekho ouoh pekp~neuma eyouab m~perolf e~bol haroi.
+            </Language>
+            <Language id="English">
+               Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence. And do not take Your Holy Spirit away from me.
+            </Language>
+            <Language id="Arabic">
+               قَلباً نَقياً اخْلُق فيَّ يا اللَّهُ، وروحاً مُسْتَقيماً جَدِّد في أحْشائي. لا تَطْرحني مِنْ قُدّام وَجْهكَ وروحكَ القُدّوس لا تَنْزَعهُ مِنّي.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+         <InsertDocument path="include/agpeya/DoxaPatriNoRole"/>            
+      </Role>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/agpeya/3rdHour.2"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+         <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      </Role>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/agpeya/3rdHour.3"/>            
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+         <InsertDocument path="include/agpeya/KeNinNoRole"/>            
+      </Role>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/agpeya/3rdHour.4"/>            
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+         <InsertDocument path="include/agpeya/DoxaPatriNoRole"/>
+      </Role>
+      
+      <Role id="Priest">        
+         <InsertDocument path="include/agpeya/3rdHour.5"/>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/PentecostThirdHourRefrain"/>
+         <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      </Role>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/agpeya/3rdHour.6"/>
+      </Role>   
+   </Section>
+</Document>

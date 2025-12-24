@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FourIncorporealCreatures:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Four Incorporeal Creatures:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Pif~toou n~zwoun n~a~cwmatoc: etfai qa piharma n~te V~]: ouho m~moui~ nem ouho m~maci: ouho n~rwmi nem ouho n~a~/toc.
+            </Language>
+            <Language id="English">
+               Hail to the four bodiless living creatures: carrying the chariot of God: A face of a lion, a face of an ox: a face of a man, and a face of an eagle.
+            </Language>
+            <Language id="Arabic">
+               السلام للاربعة حيوانات الغير متجسدين. الحاملين مركبة الله وجه اسد وجه ثور وجه انسان ووجه نسر.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

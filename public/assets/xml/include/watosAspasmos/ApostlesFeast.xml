@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFeast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">&lt;ere pic/ini...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Apostles:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pic/ini m~m/i Pauloc piq/bc n~te ]oryodoxia v/e~tafi~ri n~hanm/ini qen v~ran m~Pi,~rictoc piaidioc 
+            </Language>
+            <Language id="English">
+               Hail to the true physician Paul, the lamp of Orthodoxy, who made wonders in the name of Christ the eternal.
+            </Language>
+            <Language id="Arabic">
+               السلام للطبيب الحقيقى بولس سراج الأرثوذكسية الذى صنع الآيات باسم المسيح الذاتى.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+      </Section>
+   </Season>
+</Document>

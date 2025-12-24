@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/PreHymnOfTheResurrection"/>
+
+   <Group>
+      <InsertDocument path="include/ResurrectionReenactment"/>
+   </Group>
+    
+   <Comment>
+      <Language id="English">
+         The priest and deacons begin the procession of the Resurrection three times around the Altar, three times around the church nave, and again once around the Altar while carrying the icon of the Resurrection (adorned with roses and candles), censers, crosses, and candles, and chant the following hymns:
+      </Language>
+   </Comment>
+        
+   <InsertDocument path="include/HymnsOfTheResurrection"/>
+   <InsertDocument path="include/ProcessionOfTheResurrection_SilentPrayer"/>
+</Document>

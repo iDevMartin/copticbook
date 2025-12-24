@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FuneralDeacons | FuneralPriests | FuneralMonkPriests | FuneralBishops | FuneralMonks | FuneralNuns">
+         <Role id="People">
+            <Comment>
+               <Language id="English">
+                  <span class="Coptic">Kurie~ e~le/~con</span> is said 41 times. 
+               </Language>
+               <Language id="Arabic">
+                  َارَبُّ ارْحَمْ ٤١ مرة
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Kurie~ e~le/~con          
+               </Language>
+               <Language id="English">
+                  Lord Have Mercy          
+               </Language>
+               <Language id="Arabic">
+                   يَارَبُّ ارْحَمْ 
+               </Language>   
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+      
+   <Role id="Priest">   
+      <Group>
+         <Season id="FuneralDeacons">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Litany</Language>
+               </Title>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Palin maren]ho e~Vnou] pipantokratwr  ~Viwt m~Pen[oic: ouoh Pennou] ouoh Pencwt/r I/couc Pi,~rictoc.
+                  </Language> 
+                  <Language id="English">            
+                     Again, let us ask God the Pantocrator, the Father of our Lord, God and Saviour Jesus Christ, 
+                  </Language>
+                  <Language id="Arabic">
+                     وأيضا نسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Piw~ou nak nemaf nem Pip~neuma eyouab: eym/n e~bol sae~neh: je qen oumetreferpeynanef nem ouhap n~te v~mou: ouoh anerk~l/ronomin m~mof a~non nem pengenoc qen genea~ niben nem genea~.
+                  </Language> 
+                  <Language id="English">            
+                     Glory to You with Him and the Holy Spirit forever, for through Your beneficence and righteous judgment, You have brought upon us the sentence of death, and we and our race have inherited it from generation to generation, 
+                  </Language>
+                  <Language id="Arabic">
+                     لك المجد معه والروح القدس الدائم إلى الأبد، لأنك بإحسانك وحكمك العادل جلبت علينا حكم الموت، وورثناه، نحن وجنسنا من جيل إلى جيل. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh afhwmi e~jwn a~non qa nio~mi n~te p~kahi nem nii~ten n~te nis~yeh.
+                  </Language> 
+                  <Language id="English">            
+                     and it has trampled upon us, we who are the mud of the earth and the dust of the streets. 
+                  </Language>
+                  <Language id="Arabic">
+                     وقد داس علينا طين الأرض وتراب الشوارع 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh answpi qen p~ersisi n~te v~mou eybe ]a~povacic n~te pihioui~ e~p~hap qen oucwouten n~te pihap n~dikeon.
+                  </Language> 
+                  <Language id="English">            
+                     And we became under the authority of death by reason of the sentence of being cast into condemnation according to the uprightness of the just judgment.  
+                  </Language>
+                  <Language id="Arabic">
+                     وصرنا تحت سلطان الموت من أجل قضية السقوط في الدينونة بموجب استقامة الحكم العادل،
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     je anernobi e~rok qen penouws eybe oumetjaji n~hof n~ar,eoc: alla akswpi nan n~oubo/~yoc nem ouref]nom] qen oumoun e~bol hiten han p~rov/t/c nem hany~m/i.
+                  </Language> 
+                  <Language id="English">            
+                     For we have sinned against You of our own will through the enmity of the ancient serpent. But You have become continuously our helper and our comforter through the prophets and the righteous (men).  
+                  </Language>
+                  <Language id="Arabic">
+                     لأننا أخطأنا إليك بإرادتنا من أجل عداوة الحية القديمة. لكن قد صرت لنا معينا ومعزيا بلا فتور من قبل الأنبياء والصديقين. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh qen t~qae~ n~te nie~hoou akouwnh e~ron qen ouc~poud/ nem oufirwous n~te oumetrefsenh/t.
+                  </Language> 
+                  <Language id="English">            
+                     And in the last days, You have manifested Yourself to us with zeal and pitying compassion, 
+                  </Language>
+                  <Language id="Arabic">
+                     وفي آخر الأيام ظهرت لنا بنشاط واهتمام ورافة وتحنن. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh akerpenmeui~ a~non qa n/ethemci qen p~,aki nem t~q/ibi m~v~mou.
+                  </Language> 
+                  <Language id="English">            
+                     and remembered us, we who were sitting in darkness and the shadow of death, 
+                  </Language>
+                  <Language id="Arabic">
+                     وذكرتنا نحن الجلوس في الظلمة وظلال الموت 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Hiten pekmonogen/c n~s/ri I/couc Pi,~rictoc Pencwt/r: pimairwmi n~referpeynanef.
+                  </Language> 
+                  <Language id="English">            
+                     through Your only-begotten Son, our Saviour, the beneficent, Lover of Mankind. 
+                  </Language>
+                  <Language id="Arabic">
+                     من قبل ابنك الوحيد يسوع المسيح مخلصنا محب البشر صانع الخيرات، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     V/e~tafkwrf m~p~a~mahi m~v~mou hiten pefmou n~reftanqo hijen pise e~youab n~te pic~tauroc: e~tafmou men qen t~carx e~taf[itc n~q/ten.
+                  </Language> 
+                  <Language id="English">            
+                     Who brought to naught (or destroyed) the dominion of death through His life-giving death upon the holy wood of the cross, when He died in the flesh which He has taken from us.
+                  </Language>
+                  <Language id="Arabic">
+                     الذي أبطل سلطان الموت بموته المحيي على خشبة الصليب المقدس لما مات بالجسد الذي أخذه متنا.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh pih~of n~ar,eoc afqomqem n~tefcouri nem tefjom e~bolha p~genoc n~]metrwmi t/rc: ouoh afaiten n~remhe n~kecop.
+                  </Language> 
+                  <Language id="English">            
+                     And the ancient serpent, He has crushed its thorn and its power off the race of men, and made us free again. 
+                  </Language>
+                  <Language id="Arabic">
+                     والحية القديمة قد سحق شوكتها وقوتها عن جنس البشر. وصيرنا أحرارا مرة أخرى 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh anerremhe e~bolha ]metbwk: a~non qa nirefernobi.
+                  </Language> 
+                  <Language id="English">            
+                     And He made us free from slavery, we the sinners.
+                  </Language>
+                  <Language id="Arabic">
+                     وعتقنا من العبودية نحن الخطاة. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh aners/ri m~piouwini ouoh n~k~l/ronomoc n~te na niv/oui~ nem ni,oroc n~te t~ve.
+                  </Language> 
+                  <Language id="English">            
+                     And made us sons (or children) of the light and heirs of the heavenly (things) together with the choir of the heavenly. 
+                  </Language>
+                  <Language id="Arabic">
+                     وصيرنا أبناء النور ووارثين السمائيات مع صفوف السمائيين 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh n~s~v/ri n~remsemsi qen ]t~axic n~te ]ekk~l/cia~ n~te nisorpm~mici qen handogma n~oryodoxoc: nem oucunaxic n~aggelikon: nem pihumnoc n~te hana~cwmatoc.
+                  </Language> 
+                  <Language id="English">            
+                     And partners in the service of the order of the church of the firstborn, in orthodox doctrines, the angelic assemblies and the hymns of the incorporeal.
+                  </Language>
+                  <Language id="Arabic">
+                     ومشاركين في خدمة الطقوس التي لكنيسة الأبكار بالأوامر الأرثوذكسية والتقديسات الملائكية وتسابيح غير المتجسدين.  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Eybe vai ten]ho ouoh tentwbh m~mok pimairwmi eybe pekbwk (nim) pidia~kwn.
+                  </Language> 
+                  <Language id="English">            
+                     Therefore, we ask and entreat You, O Lover of Mankind, for Your servant (...) the deacon,
+                  </Language>
+                  <Language id="Arabic">
+                     فلهذا نسأل ونطلب إليك يا محب البشر من أجل عبدك (...) الشماس، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Vai e~tafvwt harok: ouoh afswpi qen oumetatcwma: ouoh n~semmo e~bol qen pikocmoc.
+                  </Language> 
+                  <Language id="English">            
+                     who has fled unto You and became bodiless and estranged from the world.
+                  </Language>
+                  <Language id="Arabic">
+                     هذا الذي أتى إليك وصار في غير الجسد وغريبا في العالم.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Swp e~rok n~y/e~te ywf m~'u,/ qen outoubo nem oumeym/i.
+                  </Language> 
+                  <Language id="English">            
+                     Receive unto You his soul in purity and truth, 
+                  </Language>
+                  <Language id="Arabic">
+                     اقبل إليك نفسه بطهارة وبر. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Mv~r/] e~tafswpi n~refsemsi m~pekyuci~ac t/rion hijen pikahi marefswpi efoi n~refsemsi n~te t~ve: pima e~te m~mon a[ni n~q/tf oude ywleb efnaswpi efrana m~pekouws eyouab ouoh m~makarion.
+                  </Language> 
+                  <Language id="English">            
+                     and even as he was a servant of Your earthly altar, may he become also a servant of Your heavenly altar, the place in which there is no spot or blemish. May he take delight in Your holy and blessed will.
+                  </Language>
+                  <Language id="Arabic">
+                     وكما كان خادما لمذبحك الأرضي فليكن أيضاً خادما لمذبحك السمائي حيث لا عيب فيه ولا دنس وليكن مرضيا لإرادتك المقدسة الطوباوية
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh icje afer h~li n~nobi e~rok hwc rwmi ,w naf e~bol a~ricun,wrin m~mwou naf e~bol.
+                  </Language> 
+                  <Language id="English">            
+                     And if he had sinned against You as a man, forgive and pardon him. 
+                  </Language>
+                  <Language id="Arabic">
+                     وان كان أخطأ إليك في شئ كالبشر فاغفر له وسامحه بها 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Je n~yok ouna/~t ouoh n~refsenh/t ouoh n~y~m/i ouoh n~referpeynanef n~ouon niben e~tercebecye m~mok.
+                  </Language> 
+                  <Language id="English">            
+                     For You are merciful and compassionate, just and beneficent to all who worship You.
+                  </Language>
+                  <Language id="Arabic">
+                     لأنك أنت رحيم ورؤوف وبار ومحسن لكل الذين يعبدونك،
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Je m~mon mou sop n~neke~biaik alla ouw~teb e~bol qen v~mou e~qoun e~p~wnq.
+                  </Language> 
+                  <Language id="English">            
+                     For there is no death for Your servants but a departure from death unto life. 
+                  </Language>
+                  <Language id="Arabic">
+                     لأنه لا موت يكون لعبيدك بل انتقال من الموت إلى الحياة، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh m~mon mou near[oic e~ron eybe v~mou m~pekmonogen/c n~s/ri I/couc Pi,~rictoc Pen[oic.
+                  </Language> 
+                  <Language id="English">            
+                     And death has no dominion over us because of the death of Your only-begotten Son Jesus Christ our Lord. 
+                  </Language>
+                  <Language id="Arabic">
+                     ولا يتسلط علينا موت من أجل موت ابنك الحبيب يسوع المسيح ربنا عنا
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Je vwk pe piw~ou nemaf nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+                  </Language> 
+                  <Language id="English">            
+                     For Yours is the glory with Him and the Holy Spirit the life-giver, who is of one essence with You. 
+                  </Language>
+                  <Language id="Arabic">
+                     لأن لك المجد معه والروح القدس المحيي المساوي معك في الجوهر 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou a~m/n.
+                  </Language> 
+                  <Language id="English">            
+                     Now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     الآن وكل أوان وإلى دهر الدهور آمين.
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="FuneralPriests">       
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Litany</Language>
+               </Title>
+                          
+               <Text>        
+                  <Language id="Coptic">            
+                     Mv~r/] e~tauernis] n~je nekh~b/oui~ P[oic: akyamio~ n~hwb niben qen oucovia~: p~kahi meh e~bol qen pekcwnt.
+                  </Language> 
+                  <Language id="English">            
+                     How great are Your works, O Lord: in wisdom have You made all things; the earth is full of Your handiwork. 
+                  </Language>
+                  <Language id="Arabic">
+                     ما أعظم أعمالك يارب، قد صنعت كل شئ بحكمة. الأرض مملوءة من خليقتك. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nyok pe e~takerh~mot n~ouwnq ouoh on akeroikonomin n~oumou: ouoh cewnq t/rou qa totk n~je ouon niben etemp~sa n~tekmetnis].
+                  </Language> 
+                  <Language id="English">            
+                     You have bestowed life, and You again have ordained death: and with You, lives every one who is worthy of Your greatness.
+                  </Language>
+                  <Language id="Arabic">
+                     أنت الذي وهبت الحياة ودبرت الموت، وكلهم أحياء عندك، أي كل الذين استحقوا عظمتك.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nyok ounou] gar n~te n/etonq: ouoh n~yok eym/n e~bol qen oumetmakarioc n~atjwk eybe pie~mi e~qoun e~rok: vai e~taf]c~bw nan e~qoun n~je Pen[oic I/couc Pi,~rictoc.
+                  </Language> 
+                  <Language id="English">            
+                     For You are a God of the living, and of those who abide in infinite blessedness, through the knowledge of You, which our Lord Jesus Christ has taught us.
+                  </Language>
+                  <Language id="Arabic">
+                     أنت هو إله الأحياء وأنت الباقي الطوباوي بلا انتهاء، من أجل معرفتك التي أعلمنا بها يسوع المسيح.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Tenera~xioin en]ho e~rok eybe nenio] e~youab t/rou e~tauenkot.
+                  </Language> 
+                  <Language id="English">            
+                     We presume to entreat You for all our holy fathers, who have fallen asleep, 
+                  </Language>
+                  <Language id="Arabic">
+                     نتضرع إليك ونسألك من أجل آبائنا كلهم الذين رقدوا، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nem eybe pierv~meui~ eyouab n~te pekbwk (nim): v/e~tafi~ e~bol qen cwma ouoh efn/ou harok: Vnou] n~te piept/rf.
+                  </Language> 
+                  <Language id="English">            
+                     and for the holy remembrance of Your servant (...), who has departed from the body, and comes to You, O God of all, 
+                  </Language>
+                  <Language id="Arabic">
+                     ومن أجل التذكار المقدس الذي لعبدك (فلان) هذا الذي خرج من الجسد وأتى إليك يا إله الكل، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh aftacyof e~pikahi v/e~tau[itf e~bol n~q/tf: ouparay/k/ e~youab ouoh m~makarion pe y/e~teywf m~'u,/.
+                  </Language> 
+                  <Language id="English">            
+                     and has returned to the earth from which he was taken. As for his soul, it is a holy and blessed charge+. 
+                  </Language>
+                  <Language id="Arabic">
+                     وقد رجع إلى الأرض التي أخذ منها. أما نفسه فهي وديعة طاهرة طوباوية.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     + Something committed for safe-keeping.
+                  </Language>
+               </Comment>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Mare oua~napaucic nem ou,~bob nem oum~ton swpi naf: outwter e~nanef marefswpi n~q/tc qen nic~kun/ n~te nekcwtp.
+                  </Language> 
+                  <Language id="English">            
+                     May he have repose, coolness and rest, and may he have a good standing+ in the tabernacles of Your elect. 
+                  </Language>
+                  <Language id="Arabic">
+                     لتكن له راحة وبرودة ونياح . لتكن له درجة حسنة في مظال أصفيائك.
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     + Literally, “degree” (1 Tim 3:13)
+                  </Language>
+               </Comment>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Marefers~v/r e~n/ t/rou e~tauersorp e~rof n~h~r/i qen pimeroc nem pik~l/roc n~te nia~hioc: nai e~tausasni e~roc qen niekk~l/cia~ n~te nisorp m~mici qen ]taxic n~te ]metou/b: pima on e~takws m~mof n~n/e~tauranak qen outoubo nem oumeym/i nem oucwouten n~te p~taho e~ratf hanrak: Vnou] n~te n/etonq t/rou.
+                  </Language> 
+                  <Language id="English">            
+                     May he be a partaker with all those who have gone before him, in the share and the inheritance of the saints who have attained—in the Church of the Firstborn— the order of the priesthood; the place You have promised unto those who have pleased You in purity, truth and uprightness before You, O God of all the living.
+                  </Language>
+                  <Language id="Arabic">
+                     ويشارك كل الذين سبقوه في نصيب وميراث القديسين الفائزين في كنيسة الأبكار برتبة الكهنوت، الموضع الذي وعدت به الذين أرضوك. ليكن قيامه أمامك في طهارة وبر واستقامة يا اله كل الأحياء.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh a~non hamn/ P[oic: p~roc oukouji n~c/ou pe tenmetremn~jwili hijen pikahi.
+                  </Language> 
+                  <Language id="English">            
+                     And we here, O Lord, but a little while is the time of our sojourn on earth. 
+                  </Language>
+                  <Language id="Arabic">
+                     ونحن يارب فإنه قليل هو زمان غربتنا هنا على الأرض، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Areh e~ron e~bol ha kotc niben m~pon/ron ie f~[aqem etoi n~semmo e~pektoubo m~m/i: hina n~tenqwnt e~qoun e~pima e~youab n~tak: n~tensasni e~]metmakarioc n~te nekcwp  qen paie~wn nem qen peyn/ou:
+                  </Language> 
+                  <Language id="English">            
+                     Preserve us from all evil machinations and uncleanness that is alien to Your true purity. That we may enter into Your holy place, and may attain to the blessedness of Your elect in this world and in the world to come.  
+                  </Language>
+                  <Language id="Arabic">
+                     فاحفظنا من كل الفخاخ الشريرة النجسة الغريبة عن طهرك الحقيقي. لكي نقترب إلى موضع قدسك ونفوز بغبطة أصفيائك في هذا الدهر وفي الآتي.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Yai te tenhelpic a~non qa neke~biaik eynah] e~pekran eyouab: nem pekmonogen/c n~s/ri I/couc Pi,~rictoc Pen[oic nem Pip~neuma eyouab: ]nou nem n~c/ou niben nem sae~neh n~te nie~neh t/rou: a~m/n.
+                  </Language> 
+                  <Language id="English">            
+                     This is our hope, we Your servants, who believe in Your holy name, and Your only-begotten Son Jesus Christ our Lord and the Holy Spirit, now, and ever, and unto the ages of ages.  Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     هذا رجاؤنا نحن عبيدك المؤمنين باسمك القدوس وابنك الوحيد يسوع المسيح ربنا والروح القدس الآن وكل أوان وإلى دهر الدهور آمين.
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="FuneralBishops">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Litany</Language>
+               </Title>
+                                 
+               <Text>        
+                  <Language id="Coptic">            
+                     Vn/b P[oic I/couc Pi,~rictoc pidimiorgoc n~te ]k~t/cic t/rc: v/e~te eybe p~a~sai n~te tekmeta~gayoc akera~ne,ecye e~swpi n~ar,/e~reuc.
+                  </Language> 
+                  <Language id="English">            
+                     O Master, Lord Jesus Christ, Co-Creator of all creation, who, according to the multitude of Your goodness endured to become High Priest  
+                  </Language>
+                  <Language id="Arabic">
+                     أيها السيد الرب يسوع المسيح خالق الخليقة كلها. الذي بكثرة صلاحك احتملت أن تصير رئيس كهنة.  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     V/e~taferkocmin n~tefekk~l/cia~ e~youab qen hanh~mot nem hantogma eusebi/out.
+                  </Language> 
+                  <Language id="English">            
+                     Who have adorned Your holy church with graces and diverse dogmas,
+                  </Language>
+                  <Language id="Arabic">
+                     الذي زين كنيسته المقدسة بالنعم والشرائع المختلفة. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Yai e~taksopc e~bol qen pekc~nof ettai/out p~roc p~cob] m~peklaoc.
+                  </Language> 
+                  <Language id="English">            
+                     this which You have acquired with Your precious blood for the confirmation of Your people.
+                  </Language>
+                  <Language id="Arabic">
+                     هذه التي اشتريتها بدمك الكريم لإعداد شعبك.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     M/ic nan eyrenerv~meui~ qen outoubo nem oumeym/i: eyren] nak P[oic n~hanw~d/ m~metrefseph~mot e~h~r/i e~jen nekh~b/oui~ t/rou.
+                  </Language> 
+                  <Language id="English">            
+                     Grant us that we may remember, in purity and truth, to offer unto You, O Lord, praises of Thanksgiving on behalf of all Your works+.  
+                  </Language>
+                  <Language id="Arabic">
+                     امنحنا أن نتذكر بطهارة وعدل أن نقدم لك يارب تسابيح الشكر على جميع أعمالك.  
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     + Man as the custodian of God’s works (creation) is the one who offers thanks on behalf of these works.
+                  </Language>
+               </Comment>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Je n~yok gar pe penbo/~yoc ouoh pennas]: penrefnohem nem tenhelpic nem penoujai: tena~nactacic nem penwnq n~e~neh eucop.
+                  </Language> 
+                  <Language id="English">            
+                     For You are our helper and our protector and our savior and our hope and our healing and our resurrection and our eternal life altogether 
+                  </Language>
+                  <Language id="Arabic">
+                     لأن أنت عوننا وناصرنا. وخلاصنا ورجاؤنا وشفاؤنا. وقيامتنا وحياتنا الأبدية. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nyok on ]nou pia~gayoc ouoh m~mairwmi: ak,w n~outaxic n~nekyamio~ t/rou: n/e~tounau er~wou nem n/e~tencenau e~rwou an.
+                  </Language> 
+                  <Language id="English">            
+                     You, also now, O Good One and Lover of Mankind, have set orders for all Your creation, seen or unseen,  
+                  </Language>
+                  <Language id="Arabic">
+                     أنت الآن أيها الصالح محب البشر. جعلت رتبا لسائر مخلوقاتك التي ترى والتي لا ترى. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     N/et qen niv/oui nem n/et hijen pikahi nem n/et capec/t e~p~kahi.
+                  </Language> 
+                  <Language id="English">            
+                     those in the heavens and those on earth and those beneath the earth.  
+                  </Language>
+                  <Language id="Arabic">
+                     ما في السموات وما على الأرض وماتحت الأرض. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Malicta de on P[oic tekekk~l/cia~ n~cunk~l/tikoc: e~tak,ac hijen nenjij n~hanrefa~reh nem hanrefrwic nem hanmane~cwou.
+                  </Language> 
+                  <Language id="English">            
+                     And most particularly, O Lord, Your elect church which You have committed into the hands of guardians and watchers and shepherds
+                  </Language>
+                  <Language id="Arabic">
+                     ولاسيما يارب كنيستك الشريفة. التي وضعتها بأيدي حراس وساهرين ورعاة. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Eyroua~moni m~peklaoc ouoh n~touerkay/kin m~mwou: ouoh n~touswt e~bol m~picaji n~atsipi: ouoh n~toucob] nak n~hanlaoc nem hans/ri e~pekdipnon n~ep~ouranion.
+                  </Language> 
+                  <Language id="English">            
+                     that they may shepherd Your people and catechize+ them, and divide the word without reproach, and prepare for You, people and sons for Your heavenly banquet. 
+                  </Language>
+                  <Language id="Arabic">
+                     لكي يرعوا شعبك ويعظوهم ويفصلوا الكلمة بغير خزى، ويهيئوا لك شعبا وأبناء لوليمتك السمائية. 
+                  </Language>
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     + Verb from catechumen and catechism. Alternatively, indoctrinate.
+                  </Language>
+               </Comment>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ten]ho ouoh tentwbj m~mok pimairwmi ouoh n~referpeynanef neman.
+                  </Language> 
+                  <Language id="English">            
+                     We ask and entreat You, O Lover of Mankind, and beneficent towards us, of the coming age.  
+                  </Language>
+                  <Language id="Arabic">
+                     نسأل ونتضرع إليك يامحب البشر والمحسن إلينا. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Swp e~rok qen ouhir/n/ n~ouparay/k/ n~oujai: ouoh m~'u,/ m~makaria~ n~te peniwt n~a~gap/toc m~patriar,/c (ie m~etropolit/c ie n~e~pickopoc) abba (nim): vai e~tafi~ harok Vnou] etonq.
+                  </Language> 
+                  <Language id="English">            
+                     Receive unto You in peace this charge unto salvation even the blessed soul of our beloved patriarch (or metropolitan or bishop) Abba (...) who has come unto You, O living God. 
+                  </Language>
+                  <Language id="Arabic">
+                     أقبل إليك بسلام هذه الوديعة الخالصة والنفس الطوباوية التي لأبينا المحب البطريرك (أو المطران أو الأسقف) أنبا (...) هذا الذي أتى إليك يالله الحي. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Icje n~yok pe pekoikonomoc e~naf,/ e~jen tekekk~l/cia~ eyouab: ouoh p~jwm n~tefmetoikonomoc ef,/ nemaf.
+                  </Language> 
+                  <Language id="English">            
+                     For he is Your steward who was over Your holy church, and the book of his stewardship is with him. 
+                  </Language>
+                  <Language id="Arabic">
+                     وإذ هو وكيلك لذي كان على كنيستك المقدسة وبيده كتاب وكالته
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Moi naf n~oube,e n~e~pouranion nem outaxic e~nanef eyrefswpi n~s~v/ri nem n/e~tauersorp e~rof.
+                  </Language> 
+                  <Language id="English">            
+                     Grant him a heavenly reward and a good rank, that he may have a fellowship with them that have preceded him, those 
+                  </Language>
+                  <Language id="Arabic">
+                     أعطه أجرا سمائيا ورتبة حسنة ليكون مشاركا للذين سبقوه
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ete nai ne nimane~cwou n~ref]c~bw: nai e~tausw] e~bol m~p~caji n~te ]meym/i qen oucwouten.
+                  </Language> 
+                  <Language id="English">            
+                     who are the shepherds and teachers who divided the word of truth in uprightness; 
+                  </Language>
+                  <Language id="Arabic">
+                     الذين هم الرعاة المعلمون. الذين فصلوا كلمة الحق باستقامة. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh eue~rouwini e~jen tekekk~l/cia~ m~piouwini n~a~liy/non n~te peke~mi m~m/i.
+                  </Language> 
+                  <Language id="English">            
+                     and illuminated Your church with the true light of Your true knowledge; 
+                  </Language>
+                  <Language id="Arabic">
+                     واضاءوا على كنيستك بالضياء الحقيقي الذي لمعرفتك الحقيقية
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nai e~tak[imwit nwou e~qoun e~pilim/n n~te piwnq n~e~neh eyn/ou qen nie~wn.
+                  </Language> 
+                  <Language id="English">            
+                     whom You have led into the harbor of eternal life
+                  </Language>
+                  <Language id="Arabic">
+                     أولئك الذين هديتهم إلى ميناء الحياة الأبدية.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ten]ho e~rok penn/b w~ptenhwn nemwou ouoh mam~ton nan nem p()ko~hi  e~youab: e~tausasni e~pijino~hi e~ratf caoui~nak m~mok.
+                  </Language> 
+                  <Language id="English">            
+                     And we ask You, O our Master to number us with them, and give us rest with Your holy flock, who have attained to stand at Your right hand. 
+                  </Language>
+                  <Language id="Arabic">
+                     نسألك يا ملكنا أن تحسبنا معهم وتريحنا مع قطيعك المقدس الذين فازوا بالوقوف عن يمينك. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh a~riten n~emp~sa n~nieu,/ nem nip~recbua~: eyrenerpoliteuecye qen oumeta~riki nem oumetat[~rop.
+                  </Language> 
+                  <Language id="English">            
+                     And make us worthy of (their) prayers and intercessions that we may live blameless and without hindrance
+                  </Language>
+                  <Language id="Arabic">
+                     وأهلنا للصلوات والشفاعات لنجاهد بغير انحراف ولا عثرة. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Hina n~tensemsi m~mok qen ouho]: n~tenjimi nemwou n~ouh~mot e~bol hitotk: ouoh n~tensasni e~neke~paggelia~ n~ats~tenywnou.
+                  </Language> 
+                  <Language id="English">            
+                     That we may serve You in fear and may attain to Your incomparable promises. 
+                  </Language>
+                  <Language id="Arabic">
+                     لكي نتعبد لك بمخافة، ونجد معهم نعمة من قبلك، ونفوز بمواعيدك التي لا مثيل لها، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Nyok pev~ref] n~nia~gayon n~e~neh: ouoh e~repiw~ou erp~repi nak nem Pekiwt n~agayoc nem Pip~neuma eyouab sae~neh a~m/n.
+                  </Language> 
+                  <Language id="English">            
+                     You are the giver of the eternal good things and to You is due the glory with Your good Father and the Holy Spirit, forever. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     أنت هو معطي الخيرات الأبدية ويليق لك المجد مع أبيك الصالح والروح القدس إلى الأبد آمين.
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="FuneralMonks | FuneralMonkPriests">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Litany</Language>
+               </Title>
+                                 
+               <Text>        
+                  <Language id="Coptic">            
+                     Vnou] piatar,/ ouoh piatjwk pia~gayoc qen tefvucic: piatvwnh de ouoh piats~tahof. 
+                  </Language> 
+                  <Language id="English">            
+                     O God who is without begining and without end, the Good One, by Your nature, the unchangeable, the immoveable;   
+                  </Language>
+                  <Language id="Arabic">
+                     الله الذي بلا بداية ولا نهاية، الصالح في طبيعته، غير المستحيل وغير المدرك  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     V/e~tafi~ni n~]k~t/cic t/rc n~no/~ton: ouoh acy/ton e~oujinswpi e~bolqen V/e~nafsop an: hiten pekmonogen/c n~s/ri Pen[oic ouoh Pennou] ouoh Pencwt/r ouoh Penouro t/ren I/couc Pi,~rictoc.
+                  </Language> 
+                  <Language id="English">            
+                     Who brought into existence from that which was not, all the rational and intelligent creation, through Your only-begotten Son, our Lord, God and Saviour and king of us all, Jesus Christ;
+                  </Language>
+                  <Language id="Arabic">
+                     .الذي أتى بجميع الخليقة العاقلة والناطقة إلى الوجود مما لم يكن، بابنك الوحيد ربنا وإلهنا وملكنا كلنا يسوع المسيح،  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     V/e~takyamion e~bol hitotf e~jen oumetattako nem hanh~b/oui~ e~naneu.
+                  </Language> 
+                  <Language id="English">            
+                     through whom You have created us unto incorruption and good works;
+                  </Language>
+                  <Language id="Arabic">
+                     الذي خلقنا به على غير فساد لأعمال صالحة.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh qen p~jiny~renmou hiten nenparap~twma m~min m~mon akcotten: ouoh akaiten m~beri n~kecop e~qoun e~ouhelpic n~te oua~nactacic n~te ouwnq n~e~neh.
+                  </Language> 
+                  <Language id="English">            
+                     and in our mortality through our own transgressions, You have redeemed us, and renewed us again to a hope of resurrection to eternal life;   
+                  </Language>
+                  <Language id="Arabic">
+                     وعندما متنا بواسطة زلاتنا الذاتية، خلصتنا وجددتنا مرة أخرى إلى رجاء قيامة الحياة الأبدية،   
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Eafswpi n~q~r/i n~q/tf n~oue~hoou n~te oucuntelia~ n~te paie~wn etsop ouoh hanar,/ n~te piwnq eyn/ou n~atjwk.
+                  </Language> 
+                  <Language id="English">            
+                     in which shall be the day of the end, of this present world and the beginning of the unending life that is to come;  
+                  </Language>
+                  <Language id="Arabic">
+                     اليوم الذي فيه ينتهي هذا الدهر الحاضر وتبدأ الحياة الآتية التي بغير انتهاء  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Vai e~te n~q~r/i n~q/tf niv/oui~ cenacini qen ouoi: nic~toi,ion de eue~rwkh cenabwl e~bol: p~kahi nem n/ t/rou e~te n~q/tf eue~kim: hote nirwmi e~takyamiw~ou icjen t~ar,/ m~picwnt eue~twounou euoi i~ attako: eue~]logoc qa n/e~tauaitou.
+                  </Language> 
+                  <Language id="English">            
+                     On which the heavens will pass away with a rush, and the elements will be burnt up and dissolved; the earth and all that are therein shall be shaken; when the men whom You have created from the beginning of creation shall be raised incorrupt to give account of what they have done.  
+                  </Language>
+                  <Language id="Arabic">
+                     هذا الذي فيه تزول السموات بسرعة وتحترق العناصر أيضاً وتنحل الأرض ويضطرب كل ما فيها عندما يقوم البشر الذين خلقتهم منذ بدء الخليقة بغير فساد ويجاوبون عما صنعوا. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ten]ho ouoh tentwbh m~mok pimairwmi: m~peri~ri neman kata nennobi: oude m~per]sebiw~ nan kata nena~nomia~: alla swpi nan n~ouref,w e~bol nem peklaoc: hwc a~gayoc ouoh m~mairwmi n~refsenh/t.
+                  </Language> 
+                  <Language id="English">            
+                     We ask and entreat You, O Lover of Mankind, deal not with us according to our sins, neither reward us according to our iniquities, but be a forgiver unto us and Your people, as a Good One and a compassionate Lover of Mankind.  
+                  </Language>
+                  <Language id="Arabic">
+                     نسأل ونطلب إليك يامحب البشر، لا تصنع معنا كخطايانا ولا تجازنا كآثامنا، بل كن غافرا لنا ولكل شعبك كصالح ومحب البشر الرؤوف. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ariv~meui~ de on P[oic n~nenkeio] t/rou qen peknai: nem nenc~n/ou e~tauersorp n~enkot qen v~nah]: n~houo~ de P[oic pekbwk m~pouliteut/c ouoh n~dia~konict/c n~tak ouoh m~mona,oc (nim).
+                  </Language> 
+                  <Language id="English">            
+                     Remember also, O Lord, all our fathers in Your mercy, and our brethren who have already fallen asleep in the faith; and especially, O Lord, Your diligent and ministering servant and monk (...), 
+                  </Language>
+                  <Language id="Arabic">
+                     اذكر أيضاً يارب جميع آبائنا برحمتك، واخوتنا الذين سبق رقادهم في الإيمان، ولا سيما يارب عبدك المجاهد خادمك الراهب (...) 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Vai e~taf,a cwma e~q~r/i m~v~r/] n~rwmi niben: ouoh afi sarok P[oic Vnou] n~te n/etonq.
+                  </Language> 
+                  <Language id="English">            
+                     who hath departed from the body after the manner of all men, and hath gone to You, O Lord, God of the living. 
+                  </Language>
+                  <Language id="Arabic">
+                     هذا الذي خلع الجسد مثل سائر الناس، وأتى إليك أيها الرب اله الأحياء. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ariv~meui~ P[oic n~nefhojhej nem nefpiracmoc e~tafsopou e~rof nem ]methaji n~te ]e~piyumia~: n~nekhip~ho m~mwou: je m~mon h~li n~hwb n~atbe,e nahrak.
+                  </Language> 
+                  <Language id="English">            
+                     Remember, O Lord, his afflictions and his temptations which he endured, and the snare of passion; despise them not, for nothing is unrewarded with You.   
+                  </Language>
+                  <Language id="Arabic">
+                     أذكر يارب شدائده وتجاربه ومحاربات الشهوة التي قبلها ولا ترفض شيئا منها. لأنه لا يوجد عمل من الأعمال بغير أجر أمامك.  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh afsanhei qen h~li n~nobi n~yok de hwc a~gayoc ouoh m~mairwmi e~takouahcahni m~pi,w e~bol n~nirwmi na nirwmi on: malicta n~yok P[oic piref,w e~bol.
+                  </Language> 
+                  <Language id="English">            
+                     And if he fell into any sins, You as a Good One and a Lover of Mankind have bidden the forgiveness by men of the offences of men; and You especially, O Lord, are the forgiver. 
+                  </Language>
+                  <Language id="Arabic">
+                     وان كان قد سقط في شئ من الخطايا، فأنت أيها الصالح ومحب البشر قد أمرت بأن يغفر الناس للناس أيضاً، فكم بالحرى أنت أيها الرب الغافر. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Mare pefjinse e~qoun sarok swpi efersau qen ouoh n~at[isipi ekjw m~moc naf: je a~mwini haroi ouon niben etqoci ouoh a~nok eyna]emton nwten.
+                  </Language> 
+                  <Language id="English">            
+                     Let his departure to You be prosperous, with countenance unashamed, saying unto him, “Come unto me all ye that labour, and I will give you rest.” 
+                  </Language>
+                  <Language id="Arabic">
+                     ليكن دخوله إليك مرضيا بوجه غير مخزى، اذ تقول له: تعالوا إلى ياجميع المتعبين وأنا أريحكم،
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh taiu~mnologia~ e~tanouwrpc nak P[oic marecswpi n~oucy~oinoufi efs/p m~piekm~yo e~bol n~c/ou niben.
+                  </Language> 
+                  <Language id="English">            
+                     And let this praise which we offer unto You, O Lord, be an incense accepted before You at all times.  
+                  </Language>
+                  <Language id="Arabic">
+                     وهذا التمجيد الذي نرسله إليك يارب، ليكن مثل بخور مقبول أمامك في كل حين، 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ten]ho e~rok maemton n~tef'u,/ qen t~,wra n~te n/etonq: qen ouma n~ouwini: pima e~naf,/ m~mof n~je v~manswpi n~te n/e~tounof t/rou.
+                  </Language> 
+                  <Language id="English">            
+                     We ask You, give rest to his soul in the region of the living, in the place of light. the place that is the abode of all that rejoice.  
+                  </Language>
+                  <Language id="Arabic">
+                     ونسألك أن تنيح نفسه في كورة الأحياء في موضع النور، حيث مسكن سائر الفرحين 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Je ce,/ qatotk n~je ]moumi i~ te p~wnq nem pinai nem ]metmairwmi.
+                  </Language> 
+                  <Language id="English">            
+                     For with You is the fount of life and mercy and love towards mankind,  
+                  </Language>
+                  <Language id="Arabic">
+                                                                                       ،لأن عندك ينبوع الحياة والرحمة ومحبة البشر
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh e~re piw~ou erp~repi nak:  Viwt nem  Ps/ri nem Pip~neuma e~youab n~reftanqo.
+                  </Language> 
+                  <Language id="English">            
+                     And to You is due glory, O Father, with the Son, and the Holy life-giving Spirit.
+                  </Language>
+                  <Language id="Arabic">
+                     ويليق بك المجد أيها الآب والابن والروح القدس المحيي، الآن وكل أوان وإلى دهر الدهور آمين.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language> 
+                  <Language id="English">            
+                     now and at all times and unto the age of all ages. Amen. 
+                  </Language>
+                  <Language id="Arabic">
+                     الآن وكل أوان وإلى دهر الدهور كلها. آمين. 
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+         
+         <Season id="FuneralNuns">
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Litany</Language>
+               </Title>
+                                 
+               <Text>        
+                  <Language id="Coptic">            
+                     Vnou] n~te nip~neuma ouoh P[oic n~te carx niben: v/e~te kata pefco[ni eth/p akhwtp n~]cu,/ nem picwma: palin kata pekouws n~a~gayoc akjwk e~bol m~pekp~lacma e~takyamiof. 
+                  </Language> 
+                  <Language id="English">            
+                     God of spirits, and Lord of all flesh, who according to Your hidden counsel have united the soul and the body; and again according to Your good will have perfected Your creation which You formed.    
+                  </Language>
+                  <Language id="Arabic">
+                     يا اله الأرواح ورب الأجساد، الذي بمشورته الخفية اتحدت النفس بالجسد، أيضاً كإرادتك الصالحة أكملت جبلتك التي خلقتها،   
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh pikahi men aktacyof e~pikahi: pip~neuma de akywhem m~mof harok: ouoh akwp m~mof nem nimon/ e~youab.
+                  </Language> 
+                  <Language id="English">            
+                     And have caused the earth to return to the earth, but have called the soul to thyself and have enclosed it in Your holy mansions.
+                  </Language>
+                  <Language id="Arabic">
+                     ورددت التراب إلى التراب، والروح دعوتها إليك وأسكنتها في المنازل المقدسة.  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                      Vn/b P[oic:  pina/t: swp e~rok n~ouparay/k/ e~couab: ]'u,/ n~te tekbwki m~mona,/ ta(nim): yai e~taci~ harok w~ Vnou] n~te ni'u,/ nem nicwma nem nip~neuma nem en,ai niben e~takyamiw~ou: n/e~tounau e~rwou nem n/e~tencenau e~rwou an.
+                  </Language> 
+                  <Language id="English">            
+                     Master, Lord, merciful Lord; receive as a holy trust the soul of Your handmaid the nun, (...), who has departed to You, O God of souls and bodies and spirits, and all things that You have formed, visible and invisible. 
+                  </Language>
+                  <Language id="Arabic">
+                     أيها السيد الرب الرحيم، اقبل إليك هذه الوديعة الطاهرة التي هي نفس عبدتك الراهبة (...) التي أتت إليك يا اله الأنفس والأجساد والأرواح. يامن خلقت كل شئ ما يرى وما لايرى.
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ariv~meui~ P[oic m~pecjinvwt harok: nem niqici e~tacsopou e~rok eybe ]helpic n~oujai e~tecnakw] n~cwc: e~oua~nactacic n~te ouwnq nem ouemton n~te ouhir/n/.
+                  </Language> 
+                  <Language id="English">            
+                     Remember, O Lord, her flight to You, and the labours which she went through for the hope of salvation which she sought after, unto resurrection of life, and the rest in peace.   
+                  </Language>
+                  <Language id="Arabic">
+                     اذكر يارب التجاءها إليك، والأتعاب التي كابدتها من أجل رجاء الخلاص الذي طلبته إلى قيامة الحياة ونياح السلام،   
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Niparap~twma de nem nicung~nwm/ n~niswni n~te nirwmi ,au nac e~bol: hwc a~gayoc n~refnai n~ouon niben.
+                  </Language> 
+                  <Language id="English">            
+                     Her transgressions, and her yielding to human infirmities forgive her, who are good and merciful to all.   
+                  </Language>
+                  <Language id="Arabic">
+                     الزلات ومشورات الضعف البشري اغفرها لها، إذ أنك صالح ورحيم لكل أحد،   
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Aksantoujoc qen pekh~mot marecjimi n~ou,~bob qen kenf n~Abraam nem Icaak nem Iakwb: qen v~ouwini n~te n/etonq: qen ou,wra n~te oumanemton: nem ]a~polaucic e~te pima e~tafvwt e~bol n~q/tf n~je pim~kah n~h/t nem ]lup/ nem pifia~hom.
+                  </Language> 
+                  <Language id="English">            
+                     Having freed her by Your grace, let her find refreshment in the bosom of Abraham and Isaac and Jacob: in the light of the living: in the region of rest and repose, the place out of which grief, sorrow and groaning have fled away.  
+                  </Language>
+                  <Language id="Arabic">
+                     وإذا أنقذتها بنعمتك فلتجد راحة في حضن إبراهيم واسحق ويعقوب، في نور الأحياء في كورة النياح والراحة، الموضع الذي هرب منه الحزن والكآبة والتنهد. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                      ~Arikataxioin de on n~tekswpi n~nom] nem ouparamiyia~ n~te n/etoi n~emkah n~h/t: je n~yok v/e~tak]nom] nan qen nenhojhej t/rou: ak] nan n~oujin j~vi/~] n~te ouw~ou e~v~ma n~te oup~neuma n~te oumets~lahn~h/t.
+                  </Language> 
+                  <Language id="English">            
+                     Graciously grant comfort and consolation unto them that grieve; for You have comforted us all in our afflictions, and have given us an exchange of glory in the place of the spirit of grief.   
+                  </Language>
+                  <Language id="Arabic">
+                     تفضل أيضاً أن تكون راحة وعزاء لحزانى القلوب، لأنك أنت الذي عزيتنا في جميع شدائدنا، وأعطيتنا اقتناء المجد عوضا عن روح الحزن.  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Wli e~bol haron n~emkahn~h/t niben hiten ]helpic n~te nia~gayon eyn/ou.
+                  </Language> 
+                  <Language id="English">            
+                     Remove from us all sorrows through the hope of the good things to come.  
+                  </Language>
+                  <Language id="Arabic">
+                     انزع عنا كل حزن بواسطة رجاء الخيرات العتيدة،  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Ouoh v/ men e~takolf e~pima e~tem~mau maemton naf.
+                  </Language> 
+                  <Language id="English">            
+                     And whomsoever You have taken to that place, grant him rest.  
+                  </Language>
+                  <Language id="Arabic">
+                     والذين أخذتهم إلى ذلك الموضع نيحهم،  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Anon de hwn qen paima nai nan: ouoh a~reh e~ron ouoh nahmen e~bolha pethwou niben: hiten pekmonogen/c n~s/ri Pen[oic ouoh Pennou] ouoh Pencwt/r I/couc Pi,~rictoc.
+                  </Language> 
+                  <Language id="English">            
+                     And we, too, here, have mercy on us, and keep us and save us from all evil. Through Your only-begotten Son, our Lord, God, and Saviour Jesus Christ.   
+                  </Language>
+                  <Language id="Arabic">
+                     ونحن أيضاً الذين ههنا ارحمنا، واحفظنا، ونجنا من كل شر، من قبل ابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح  
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     Vai e~te e~bol hitotf e~re piw~ou nem pitaio nem pia~mahi nem ]p~rockun/cic: erp~repi nak nemaf: nem Pip~neuma eyouab n~reftanqo ouoh n~omooucioc nemak.
+                  </Language> 
+                  <Language id="English">            
+                     Through whom the glory, the honor, the dominion, and the worship are due unto You, with Him and the Holy Spirit, the Giver of Life, who is of one essence with You, 
+                  </Language>
+                  <Language id="Arabic">
+                     هذا الذي من قبله المجدُ والكرامةُ والعزُ والسجودُ تليقُ بِكَ معه، ومع الروحِ القدسِ المحيى المساوي لكَ. 
+                  </Language>
+               </Text>
+               
+               <Text>        
+                  <Language id="Coptic">            
+                     }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language> 
+                  <Language id="English">            
+                     now and at all times and unto the age of all ages. Amen. 
+                  </Language>
+                  <Language id="Arabic">
+                     الآن وكل أوان وإلى دهر الدهور كلها. آمين. 
+                  </Language>
+               </Text>
+            </Section>
+         </Season>
+      </Group>         
+   </Role>
+</Document>

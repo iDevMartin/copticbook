@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of Peace</Language>
+         <Language id="Arabic">أوشية السلام</Language>
+      </Title>
+      
+      <InsertDocument path="include/litanies/PeaceShort"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Nilaoc t/rou nem nio~hi t/rou c~mou e~rwou: ]hir/n/ ]e~bol qen niv/oui~: m/ic e~q~r/i e~nenh/t t/rou.
+            </Language>
+            <Language id="English">
+               All peoples and all flocks, bless. The heavenly peace, send down into all our hearts;
+            </Language>
+            <Language id="Arabic">
+               كلَّ الشعوبِ وكلَّ القُطعانِ. باركْهم. السلامَ الذي من السمواتِ أنزلْهُ على قلوبِنا جميعاً.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Alla nem ]kehir/n/ n~te paibioc vai: a~ri,arizecye m~moc nan n~h~mot.
+            </Language>
+            <Language id="English">
+               even the peace of this life, graciously grant to us.
+            </Language>
+            <Language id="Arabic">
+               بل وسلامَ هذا العمرِ أَنْعِمْ بِه علينا إنعاماً.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Piouro (Piproedroc) nimetmatoi niar,wn nico[ni nim/s nenyeseu nenjinmosi e~qoun nem nenjinmosi e~bol: celcwlou qen hir/n/ niben.
+            </Language>
+            <Language id="English">
+               The king (leader), the armies, the rulers, the counselors, the multitudes, our neighbors, our coming in and our going out, adorn them with all peace.
+            </Language>
+            <Language id="Arabic">
+               الملكَ (الرئيسَ) والجندَ والأراخنةَ والمشيرينَ والجموعَ وجيرانَنا ومداخلَنا ومخارجَنا، زَيِّنْهُم بكلِ سلامٍ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pouro n~te ]hir/n/ moi nan n~tekhir/n/: hwb gar niben akt/itou nan.
+            </Language>
+            <Language id="English">
+               O King of peace, grant us Your peace, for You have given us all things.
+            </Language>
+            <Language id="Arabic">
+               يا ملكَ السلام، أعطِنا سلامَكَ، لأن كلَّ شيءٍ قد أعطيتنا.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Jvon nak Vnou] pencwt/r: je tencwoun n~keouai an e~b/l e~rok: pekran eyouab petenjw m~mof.
+            </Language>
+            <Language id="English">
+               Acquire us to Yourself, O God our Savior, for we know none other but You. Your holy name we  utter.
+            </Language>
+            <Language id="Arabic">
+               اقتننا لكَ يا الله مخلِّصُنا لأننا لا نعرفُ آخرَ سواك، اسمَكَ القدوس هو الذي نقوله.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Marouwnq n~je n/e~te noun m~'u,/ hiten Pekp~neuma eyouab.
+            </Language>
+            <Language id="English">
+               May our souls live by Your Holy Spirit,
+            </Language>
+            <Language id="Arabic">
+               فلتحيَ نفوسُنا بروحِكَ القدوس.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh m~peny~refjemjom e~ron a~non qa neke~biaik: n~je v~mou n~te hannobi: (oude qa peklaoc t/rf.)+
+            </Language>
+            <Language id="English">
+               and let not the death of sins have dominion over us, we Your servants, (nor over all Your people.)+
+            </Language>
+            <Language id="Arabic">
+               ولا تَدَعْ موتَ الخطايا يقوَى علينا، نحنُ عبيدَك، (ولا على كلِّ شعبِك.)+
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               +Said by the Pope, a metropolitan, or a bishop, if present.               
+            </Language>
+            <Language id="Arabic">
+               +يقولها الأب البابا أو المطران أو الأسقف إذا كان حاضراً.
+            </Language>
+         </Comment>
+      </Role>      
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

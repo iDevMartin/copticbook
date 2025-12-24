@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday (The Ninth Hour)</Language>
+         <Language id="Arabic">يوم الأثنين (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~hoou m~p~c~nau (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Genesis 2:15-3:25</Language>
+               <Language id="Arabic">تکوين 2: 15-3: 25</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Genesis"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~P[oic Vnou] [i m~pirwmi etafyamiof: ouoh af,af qen piparadicoc n~te p~ounof eyreferhwb ouoh n~tefa~reh e~rof: 
+               </Language>
+               <Language id="English">
+                  Then the Lord God took the man He formed and put him in the garden to tend and keep it. 
+               </Language>
+               <Language id="Arabic">
+                  وأخذ الرب الإله الإنسان الذى خلقه. ووضعه فى فردوس النعيم ليفلحه ويحفظه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~P[oic Vnou] honhei etotf nAdam efjwm~moc: je e~bolqei s~s/n niben etqen piparadicoc ekeouwm ebol m~mwou euqre:
+               </Language>
+               <Language id="English">
+                  And the Lord God commanded Adam, saying, "You may eat food from every tree in the garden;
+               </Language>
+               <Language id="Arabic">
+                  وأمر الرب الإله آدم قائلاً : من جميع الأشجار التى فى الفردوس تأكل أكلاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ebol qen pis~s/n n~te p~emi m~p~sib] m~pipeynanef nem pipethwou n~netenouwm e~bol m~mof: 
+               </Language>
+               <Language id="English">
+                  But from the tree of the knowledge of good and evil you may not eat; 
+               </Language>
+               <Language id="Arabic">
+                  وأما شجرة معرفة ابتدال الخير والشر فلا تأكل منها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pie~hoou de e~tetennaouwm e~bol m~mof te tennamou qenoumou.
+               </Language>
+               <Language id="English">
+                  For in whatever day you eat from it, you shall die by death."
+               </Language>
+               <Language id="Arabic">
+                  فإنك فى اليوم الذى تأكل منها موتأ تموت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] je nanec ann~tepirwmi swpi m~mauatf marenyamio naf n~ouboiyoc kata rof:
+               </Language>
+               <Language id="English">
+                  And the Lord God said, "It is not good for man to be alone. I will make him a helper comparable to him."
+               </Language>
+               <Language id="Arabic">
+                  وقال الرب الإله لا يحسن أن يكون الإنسان وحده فلنصنع له معيناً مثله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~P[oic Vnou] [wlp e~bol qen p~kahi n~niy/rion t/rou n~te t~koi nem nihala] t/rou n~te t~ve: ouoh afe~nou ha A~dam e~nau je afnamou] e~rwou je nim:
+               </Language>
+               <Language id="English">
+                  Also, God formed out of the ground all the wild animals of the field and all the birds of heaven, and brought them to Adam to see what he would call them.
+               </Language>
+               <Language id="Arabic">
+                  وجبل الرب الإله من الأرض جميع وحوش البرية وجميع طيور السماء. وأحضرها إلى آدم ليرى ماذا يسميها
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh hwb niben e~te Adam mou] e~ou'u,/ ecwnq vai pe pou ran: 
+               </Language>
+               <Language id="English">
+                  Thus whatever Adam called each living creature, that was its name. 
+               </Language>
+               <Language id="Arabic">
+                  فكل ما سماه به آدم من نفس حية فهو أسمها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A Adam ]ran e~nitebnwoui~ t/rou nem nihala] t/rou n~te t~ve nem niy/rion t/rou n~te t~koi:
+               </Language>
+               <Language id="English">
+                  So Adam gave names to all the cattle, to all the birds of heaven, and to all the wild animals of the field.
+               </Language>
+               <Language id="Arabic">
+                  وسمى آدم جميع البهائم وطيور السماء وجميع وحوش البرية.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~dam de m~poujem oubo/yoc naf efoni m~mof: 
+               </Language>
+               <Language id="English">
+                  But for Adam there was not found a helper comparable to him. 
+               </Language>
+               <Language id="Arabic">
+                  وأما آدم فلم يجد له معيناً يشبهه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A Vnou] hioui~ n~ouc~rom n~hunim e~jen A~dam: af[i n~oub/t e~bol qen nefc~virwoui~ ouoh afmah pecma n~carx: 
+               </Language>
+               <Language id="English">
+                  Thus God brought a trance upon Adam, and he slept; and He took one of his ribs, and filled up the flesh in its place. 
+               </Language>
+               <Language id="Arabic">
+                  فألقى الله على آدم سباتاً فنام وأخذ ضلعاً من جنبه وملأ موضعها لحماً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh a~P[oic Vnou] kwt n~]b/t e~taf[itc e~bol qen A~dam euc~himi: ouoh afenc ha A~dam.
+               </Language>
+               <Language id="English">
+                  Then the Lord God built the rib He took from Adam into a woman, and brought her to him.
+               </Language>
+               <Language id="Arabic">
+                  وبنى الرب الإله الضلع التى أخذها من آدم إمرأة وأحضرها إلى آدم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje A~dam: je vai ]nou oukac pe e~bol qen nakac: nem oucarx e~bol qen tacarx: yai eue~mou] e~roc je c~himi: je e~tau[i yai e~bol qen pechai: 
+               </Language>
+               <Language id="English">
+                  So Adam said, "This is now bone of my bones, and flesh of my flesh. She shall be called Woman, because she was taken out of Man. 
+               </Language>
+               <Language id="Arabic">
+                  فقال آدم هذه الآن عظم من عظامى. ولحم من لحمى هذه تدعى امرأة لأنها من امرء أخذت. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai e~re pirwmi ,a pefiwt nem tefmau n~cwf: ouoh efe~tomf e~tefc~himi: ouoh eue~swpi m~p~c~nau eucarx n~ouwt.
+               </Language>
+               <Language id="English">
+                  For this reason a man shall leave his father and mother and be joined to his wife; and the two shall become one flesh." 
+               </Language>
+               <Language id="Arabic">
+                  لذلك يترك الرجل أباه وأمه ويلتصق بامرأته. ويكونان كلاهما جسداً واحداً. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh naub/s m~p~c~nau eucop n~je A~dam nem tefc~himi: ouoh nausipi an pe:
+               </Language>
+               <Language id="English">
+                  Now the two were naked, both Adam and his wife, and were not ashamed.
+               </Language>
+               <Language id="Arabic">
+                  وكانا كلاهما عريانين معاً. آدم وامرأته. وهما لا يخجلان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pihof de ne oucabe pe e~bol oute niy/riont/rou n/et,/ hijen p~kahi n/e~ta P[oic Vnou] yamiw~ou:
+               </Language>
+               <Language id="English">
+                  Now the serpent was more cunning than all the wild animals the Lord God made on the earth. 
+               </Language>
+               <Language id="Arabic">
+                  وكانت الحية أحكم جميع الوحوش التى خلقها الرب الإله على الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje pihof n~]c~himi: je eybe ou a~Vnou] joc je n~netenouwm e~bol qen s~s/n niben etqen piparadicoc:
+               </Language>
+               <Language id="English">
+                  And he said to the woman, "Has God indeed said, 'You shall not eat from every tree of the garden'?"
+               </Language>
+               <Language id="Arabic">
+                  فقالت الحية للمرأة. لماذا قال الله لكما أن لا تأكلا من جميع شجر الفردوس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje ]c~himi m~pihof je e~bol qen p~outah n~te nis~s/n n~te piparadicoc tennaouwm: e~bol de qen p~outah 
+               </Language>
+               <Language id="English">
+                  And the woman said to the serpent, "We may eat the fruit from the trees of the garden; 
+               </Language>
+               <Language id="Arabic">
+                  فقالت المرأة للحية : أن من جميع ثمار شجر الفردوس نأكل
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpis~s/n etqen y~m/] m~piparadicoc afjoc n~je Vnou] je n~neten ouwm e~bol m~mof: oude n~neten[oh e~rof hina n~tetens~tem mou. 
+               </Language>
+               <Language id="English">
+                  But from the fruit of the tree in the middle of the garden, God said, 'You shall not eat from it, nor shall you touch it. Lest you die.’” 
+               </Language>
+               <Language id="Arabic">
+                  وأما ثمر الشجرة التى فى وسط الفردوس فقال الله لا تأكلا منه ولا تمساه لئلا تموتا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje pihof n~]c~himi je nareten na mou gar an qen oumou:
+               </Language>
+               <Language id="English">
+                  Then the serpent said to the woman, "You shall not die by death.
+               </Language>
+               <Language id="Arabic">
+                  فقالت الحية للمرأة لن تموتا موتاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nafe~mi gar n~je Vnou] je pie~hoou e~teten naouwm e~bol m~mof cenaouwn n~je netenbal: tetennaer m~vr/] n~hannou]: e~retencwoun e~oupeynanef nem oupethwou:
+               </Language>
+               <Language id="English">
+                  For God knows in the day you eat from it your eyes will be opened, and you will be like gods, knowing good and evil."
+               </Language>
+               <Language id="Arabic">
+                  أنما الله عالم أنكما فى اليوم الذى تأكلان منه تنفتح أعينكما. وتصيران كآلهة عارفي فى الخير والشر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh acnau n~je ]c~himi je nane piss/n e~v~ouomf f~rana n~nibal e~v~nau e~rof: ouoh e~necwf e~p~]nittc naf: ac[i e~bol qen pefoutah acouwm: 
+               </Language>
+               <Language id="English">
+                  So when the woman saw the tree was good for food, was pleasant to the eyes, and a tree beautiful to contemplate, she took its fruit and ate. 
+               </Language>
+               <Language id="Arabic">
+                  فرأت المرأة أن الشجرة جيدة للأكل ومبهجة للنظر حسنة التأمل إليها فأخذت من ثمرها و أكلت. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ac] ~mpeckehai nemac ouoh afouwm: ouoh auouwn n~je noubal m~p~c~nau: ouoh au e~mi je ceb/s: 
+               </Language>
+               <Language id="English">
+                  She also gave it to her husband with her, and he ate. Then the eyes of the two were opened, and they knew they were naked.
+               </Language>
+               <Language id="Arabic">
+                  و أعطت بعلها أيضاً معها فأكل. فأنفتحت أعينهما كلاهما وعلما أنهما عريانان 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auywrp n~hanjwbi n~te oubw n~kente: auyamio~ nwou nhan a~k/c:
+               </Language>
+               <Language id="English">
+                  So they sewed fig leaves together and made themselves coverings.
+               </Language>
+               <Language id="Arabic">
+                  فخاطا من ورق التين وصنعا لهما مآزر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ouoh aucwtem e~ t~c~m/ m~P[oic Vnou] efmosi qen piparadicoc m~v~nau n~rouhi: ouoh au,wp n~je A~dam nem ]efc~himi e~bolha p~ho m~P[oic Vnou]: qen y~m/] n~niss/n n~te piparadicoc. 
+               </Language>
+               <Language id="English">
+                  Then they heard the voice of the Lord God walking in the garden that afternoon, and Adam and his wife hid themselves within the tree in the middle of the garden from the presence of the Lord God. 
+               </Language>
+               <Language id="Arabic">
+                  فسمعا صوت الرب الإله ماشياً فى الفردوس وقت المساء. فأختفيا آدم وزوجته من وجه الرب الإله فى وسط شجر الفردوس. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afmou] n~je P[oic Vnou] eA~dam pejaf je akvwn A~dam:
+               </Language>
+               <Language id="English">
+                  So the Lord God called Adam and said to him, “Adam, where are you?”
+               </Language>
+               <Language id="Arabic">
+                  فنادى الرب الإله آدم وقال له. أين أنت يا آدم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf naf: je tekc~m/ e~taicoymec ek mosi qen piparadicoc aierho]: je ]b/s ouoh ai,wp: 
+               </Language>
+               <Language id="English">
+                  He replied, “I heard Your voice as You were walking in the garden, and I was afraid because I was naked; so I hid myself.” 
+               </Language>
+               <Language id="Arabic">
+                  فقال له سمعت صوتك ماشياً فى الفردوس فخفت. لأنى عريان فإختبأت. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf naf je nim pe taftamok je k~b/s e~b/l je akouwm e~bol qen pis~s/n e~taihenhonk e~rof je vai m~mauatf m~per ouwm e~bol m~mof: ouoh akouwm e~bol m~mof:
+               </Language>
+               <Language id="English">
+                  Thus He said, “Who said you were naked? Have you eaten from the one tree from which I commanded you not to eat?”
+               </Language>
+               <Language id="Arabic">
+                  فقال له ومن أعلمك أنك عريان إلا أنك أكلت من الشجرة التى أوصيتك أن لا تأكل منها وحدها. فأكلت منها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje A~dam je ]c~himi e~takt/ic n/i n~yoc ac]n/i e~bol qen pis~s/n aiouwm. Ouoh peje P[oic Vnou] n~]c~himi je eybeou a~re ervai: peje ]c~himi: je pihof pee~taferhal m~moi aiouwm:
+               </Language>
+               <Language id="English">
+                  Then Adam said, “The woman You gave me, gave me of the tree, and I ate.” So the Lord God said to the woman, “What is this you have done?” The woman said, “The serpent deceived me, and I ate.”
+               </Language>
+               <Language id="Arabic">
+                  فقال آدم أن المرأة التى أعطيتها لى هى التى أعطتنى من الشجرة فأكلت. فقال الرب الإله للمرأة. لما فعلت هذا. فقالت المرأة الحية أغوتنى فأكلت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] m~pihof: je akervai k~c~houort n~yok e~bol oute nitebnwoui~ t/rou: nem e~bol oute niy/rion t/rou n/et hijen pikahi: eke~mosi e~jen tekmectenh/t nem tekneji: ouoh eke~ouem kahi n~nie~hoou t/rou n~te pewnq: 
+               </Language>
+               <Language id="English">
+                  Thus the Lord God said to the serpent, “Because you have done this, you are cursed more than all cattle, and more than all the wild animals on the earth. On your breast and belly you shall go, and you shall eat dust all the days of your life. 
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب الإله للحية. لأنك فعلت هذا. فملعونة أنت من بين جميع البهائم. وجميع الوحوش التى على وجه الأرض و تدبين على صدرك وبطنك. وتأكلين تراباً طول أيام حياتك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~,w n~ou metjaji outwk nem oute ]c~himi: nem oute pekj~roj: nem oute pecjroj: ouoh n~yof efe~a~reh e~teka~ve: ouoh n~yok eke~a~reh e~pefyibc:
+               </Language>
+               <Language id="English">
+                  I will put enmity between you and the woman, and between your seed and her seed. He shall bruise your head, and you shall be on guard for His heel."
+               </Language>
+               <Language id="Arabic">
+                  وأضع عداوة بينك وبين المرأة. وبين نسلك ونسلها. فهو يسحق رأسك وأنت ترصدين عقبه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf n~]c~himi: je qen oua~sai eie~y~re nem~kah n~h/t a~sai nem pefia~ hom: qen han m~kah n~h/t e~remec hans/ri:
+               </Language>
+               <Language id="English">
+                  To the woman He said, "I will greatly multiply your pain and your groaning, and in pain you shall bring forth children.
+               </Language>
+               <Language id="Arabic">
+                  وقال للمرأة. تكثيراً أكثر أحزان قلبك وتنهدك. وبالأحزان (بالأوجاع) تلدين البنين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~swpi ha pehai n~je pejintacyo: ouoh n~yof efe~er[oic e~ro.
+               </Language>
+               <Language id="English">
+                  Your recourse will be to your husband, and he shall rule over you.”
+               </Language>
+               <Language id="Arabic">
+                  وإلى بعلك يكون رجوعك وهو يسود عليك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pejaf de n~A~dam: je e~pid/ akcwtem n~ca tekc~himi: ouoh akouwm e~bol qen pis~s/n: v/e~tai henhonk e~rof je vai m~mauatf n~nekouwm ebol m~mof akouwm: pikahi c~houort e~bol qen nekh~b/oui~:
+               </Language>
+               <Language id="English">
+                  Then to Adam He said, “Because you heeded the voice of your wife, and ate from the one tree of which I commanded you, saying, ‘You shall not eat from it,’ cursed is the ground in your labors.
+               </Language>
+               <Language id="Arabic">
+                  وقال لآدم. بما أنك أطعت إمرأتك. وأكلت من الشجرة التى أوصيتك قائلاً: هذه وحدها لا تأكل منها. فملعونة الأرض بسبب أعمالك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eke~ouomf qen han e~m~kah n~h/t n~nie~hoou t/rou n~te pekwnq: hanson] nem hancouri efe~rwt m~mwou nak: ouoh eke~ouwm nak m~picim n~te p~kahi: eke~ouwm m~pekwikqen p~fw] m~pekho: 
+               </Language>
+               <Language id="English">
+                  In toil you shall eat from it all the days of your life. Both thorns and thistles it shall bring forth for you, and you shall eat the herb of the field. 
+               </Language>
+               <Language id="Arabic">
+                  بالمشقة تأكل منها كل أيام حياتك. وشوكاً وحسكاً تنبت لك. وتأكل عشب الأرض وبعرق وجهك تأكل خبزك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Satektacyok e~pikahi e~tau[itk e~bol n~q/tf je n~yok oukahi,~natacyok e~p~kahi.
+               </Language>
+               <Language id="English">
+                  In the sweat of your face you shall eat bread till you return.”
+               </Language>
+               <Language id="Arabic">
+                  حتى تعود إلى الأرض التى أخذت منها. لأنك تراب وإلى التراب تعود.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~A~dam mou] e~v~ran n~tefc~himi je Zw/~: je yai te y~mau n~n/etwnq t/rou.
+               </Language>
+               <Language id="English">
+                  So Adam called his wife’s name Life, because she was the mother of all living. 
+               </Language>
+               <Language id="Arabic">
+                  ودعا آدم أسم امرأته حواء. لأنها أم كل حي. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~P[oic Vnou] yamio nAdam nem tef c~himi n~han s~y/n n~sar: aft/itou hiw~tou.
+               </Language>
+               <Language id="English">
+                  Also for Adam and his wife the Lord God made garments of skin, and clothed them.
+               </Language>
+               <Language id="Arabic">
+                  وصنع الرب الإله لآدم وأمرأته أقمصة من جلد وكساهما
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh peje P[oic Vnou] je h/ppe ic A~dam afer m~v~r/] n~ouai e~bol m~mon: e~pjincouen ou peynanef nem oupethwou. 
+               </Language>
+               <Language id="English">
+                  Then the Lord God said, “Behold, the man has become like one of Us, to know good and evil. 
+               </Language>
+               <Language id="Arabic">
+                  وقال الرب الإله. هوذا آدم قد صار كواحد منا يعرف الخير والشر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou m/pwc n~tefcoutwn tefjij ouoh e~bol qen pis~s/n n~te p~wnq n~tefouwm ouoh n~tefwnq sae~neh.
+               </Language>
+               <Language id="English">
+                  Now, lest he put out his hand and take also of the tree of life, and eat, and live forever—”
+               </Language>
+               <Language id="Arabic">
+                  والآن لعله يمد يده إلى شجرة الحياة فيأكل منها ويحيا إلى الأبد,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~P[oic Vnou]ouorpf e~bol qen piparadicoc n~te p~ounof: eyreferhwb e~p~kahi e~tau[itf e~bol n~q/tf:
+               </Language>
+               <Language id="English">
+                  Therefore the Lord God sent him out of the garden of pleasure to cultivate the ground from which he was taken.
+               </Language>
+               <Language id="Arabic">
+                  فأخرجه الرب الإله من فردوس النعيم. ليعمل فى الأرض التى أخذ منها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afhi e~bol. afswpi m~pem~yo m~piparadicoc n~te p~ounof: ouoh af,w m~pi,eroubim nem ]c/fi n,rwm: y/e~sac vonhoc e~a~reh e~pimwit n~te piss/n n~te p~wnq.
+               </Language>
+               <Language id="English">
+                  So He cast out Adam, and made him dwell opposite the garden of pleasure. He then stationed the cherubim and the fiery sword which turns every way to guard the way to the tree of life.
+               </Language>
+               <Language id="Arabic">
+                  فأخرج آدم فسكن أمام فردوس النعيم. وجعل الكاروبيم وسيفأ نارياً متقلباً لحراسة طريق شجرة الحياة.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 40:1-5</Language>
+               <Language id="Arabic">إشعياء 40: 1-5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Peje Vnou] je ma]ho ma]ho e~palaoc niou/b: 
+               </Language>
+               <Language id="English">
+                  "Comfort, yes, comfort My people," says God. 
+               </Language>
+               <Language id="Arabic">
+                  عزوا عزوا شعبى أيها الكهنة قال الله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Caji e~ph/t n~Ieroucal/m: ma]ho e~roc je afa~sai n~je pecyebio: a~pecnobi bwl e~bol: je ac[i e~bolhitotf m~P[oic n~necnobi eu k/b: 
+               </Language>
+               <Language id="English">
+                  "O priests, speak to the heart of Jerusalem, comfort her, for her humiliation is ended, her sin is pardoned; for she received from the Lord's hand double for her sins." 
+               </Language>
+               <Language id="Arabic">
+                  تكلموا فى قلب أورشليم. عزوها لأنه قد كثر ذلها. وأنحلت خطيتها. وقبلت من يد الرب ضعفين عن خطاياها. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tc~m/ m~petws e~bol hip~safe: je cebte v~mwit m~P[oic: ouoh coutwn nimanmosi n~te pennou]:
+               </Language>
+               <Language id="English">
+                  The voice of one crying in the wilderness: "Prepare the way of the Lord; make straight the paths of our God.
+               </Language>
+               <Language id="Arabic">
+                  صوت صارخ فى البرية. أعدوا طريق الرب ومهدوا سبل إلهنا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ellet niben eue~moh ouoh twou niben nem kadamvo niben eue~yebiw~ou: ouoh n/etkwlj t/rou naswpi eucoutwn: ouoh n/eynast e~hanmwit euj/n: 
+               </Language>
+               <Language id="English">
+                  Every valley shall be filled, and every mountain and hill humbled; the crooked places shall be made straight, and the rough places into plains. 
+               </Language>
+               <Language id="Arabic">
+                  كل جبل وكل تل ينخفض. ويصير المعوج مستقيماً. والطرق الوعرة لينة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh p~e~hoou m~P[oic naouwnh e~bol: n~te carx niben nau e~p~w~ou m~Vnou]: je P[oic petafcaji.
+               </Language>
+               <Language id="English">
+                  The glory of the Lord shall be revealed, and all flesh shall see the salvation of God; for the Lord has spoken."
+               </Language>
+               <Language id="Arabic">
+                  ويظهر يوم الرب. وكل ذى جسد يعاين مجد الله. لأن الرب تكلم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Proverbs 1:1-9</Language>
+               <Language id="Arabic">أمثال 1: 1-9</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Proverbs"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Niparoimia~ n~colomwn p~s/ri m~p~ouro Dauid. V/e~taferouro qen pIcra/l.
+               </Language>
+               <Language id="English">
+                  The Proverbs of Solomon, the son of David, who reigned in Israel,
+               </Language>
+               <Language id="Arabic">
+                  أمثال سليمان بن داود الملك. الذى ملك على اسرائيل.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ee~mi n~oucovia nem ouc~bw: e~ernoin n~han caji n~te oumetcabe: e~swp e~rwten n~ahn vwnh n~te hancaji: e~cabo n~oudikeo~cun/ n~tav~m/i: nem ouhap efcoutwn:
+               </Language>
+               <Language id="English">
+                  to know wisdom and instruction, and to understand words of discernment; to receive both subtlety of words, and to understand true righteousness and upright judgment;
+               </Language>
+               <Language id="Arabic">
+                  لمعرفة الحكمة والأدب. لإدراك أقوال الفطنة. لقبول تدرب الكلام. لتعليم العدل الحقيقى. والحكم المستقيم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~tec] n~oumetcabe n~niatpethwou: ouoh ouno/~cic nem ouka] n~oul~ou m~beri: 
+               </Language>
+               <Language id="English">
+                  So as to give astuteness to the simple, and both perception and understanding to a young man;
+               </Language>
+               <Language id="Arabic">
+                  لكى تعطى لمن لا شر فيهم حكمة. وعقلا وفهما للشاب الحدث.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Picabe de afsancwtem e~nai: fnaercaben~houo~ pinebh/t de efe~j~vo n~oumet referhemi: 
+               </Language>
+               <Language id="English">
+                  For a wise man who hears these things will be wiser, and the man of understanding will gain direction.
+               </Language>
+               <Language id="Arabic">
+                  لأن الحكيم إذا سمع هذه فيزداد حكمة. والفهيم يكتسب تدبيراً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efe~ka] de e~ouparabol/ nem oucajin~,aki: nem hancaji n~tehan cabeu: nem nahcaji euh/p.
+               </Language>
+               <Language id="English">
+                  He will understand both a parable and a hidden saying, both wise words and riddles.
+               </Language>
+               <Language id="Arabic">
+                  فيفهم المثل والكلام العويص وأقوال الحكماء وغوامضهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tar,/ n~]covia~ ]ho] n~te P[oic te: pika] ]meteuceb/c de ha Vnou] Tar,/ m~pika] pe: ]covia~ nem ]c~bw nia~ceb/c eue~sosfou.
+               </Language>
+               <Language id="English">
+                  The fear of God is the beginning of wisdom, and there is good understanding in all who practice it; and godliness toward God is the beginning of perception, but the ungodly despise wisdom and instruction.
+               </Language>
+               <Language id="Arabic">
+                  رأس الحكمة مخافة الرب. والفهم صالح لكل من يعمل به. وتقوى الله هى بدء الفهم. الحكمة والأدب يحتقرها المنافقون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Cwtem pas/ri e~]c~bw n~te pekiwt: ouoh m~perhip~ho n~nico[ni n~te tekmau: ou,~lom gar n~te hanh~mot u~e~t/if hijwk nem ou,~lal n~noub e~pekmo].
+               </Language>
+               <Language id="English">
+                   Hear, my son, the instruction of your father, and do not reject the laws of your mother; for you will receive a crown of grace on your head, and a gold chain around your neck.
+               </Language>
+               <Language id="Arabic">
+                   أسمع يا إبنى تأديب أبيك. ولا ترفض مشورة أمك. فأنهما أكليل نعمة لرأسك وقلادة ذهب لعنقك. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 64:5,4</Language>
+               <Language id="Arabic">مزمور 64: 5 ,4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cwtem e~ron Vnou] pencwt/r: ]helpic n~te aur/jf m~p~kahi t/rf. 
+               </Language>
+               <Language id="English">
+                  Hear us, O God our Savior, the hope of all the ends of earth. 
+               </Language>
+               <Language id="Arabic">
+                  أستجب لنا يا الله مخلصنا يا رجاء جميع أقطار الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  W~ouniatf n~v/e~takcotpf ouoh aksopf e~rok: efe~swpi qen nekaul/ou sae~neh: All/louia.
+               </Language>
+               <Language id="English">
+                  Blessed is he whom You choose and help. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  طوبى لمن أخترته وقبلته ليسكن فى ديارك إلى الأبد. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 21:23-27</Language>
+            <Language id="Arabic">متى 21: 23-27</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh etafi eqoun e~piervei aui~ harof ef]cbw n~je niar,/e~reuc nem nip~recbut/roc n~te pilaoc eujwm~moc: 
+               </Language>
+               <Language id="English">
+                  Now when He came into the temple, the chief priests and the elders of the people confronted Him as He was teaching, and said, 
+               </Language>
+               <Language id="Arabic">
+                  ولما دخل إلى الهيكل تقدم إليه رؤساء الكهنة وشيوخ الشعب وهو يعلم وقائلين له. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je aki~ri n~nai qen as n~ersisi: ouoh nim petaf] m~pai ersisi nak.
+               </Language>
+               <Language id="English">
+                  “By what authority are You doing these things? And who gave You this authority?”
+               </Language>
+               <Language id="Arabic">
+                  بأى سلطان تفعل هذا. ومن أعطاك هذا السلطان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ de n~je I/couc pejaf nwou: je ]naseny/nou hw e~ou caji: e~swp a~retensantamoi e~rof: a~nok hw ]natamwten je aii~ri nnaiqen as n~ersisi. 
+               </Language>
+               <Language id="English">
+                  But Jesus answered and said to them, “I also will ask you one thing, which if you tell Me, I likewise will tell you by what authority I do these things: 
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال لهم.  أنا أيضاً أسألكم كلمة. فأن أعلمتمونى عنها أعلمكم أنا أيضاً بأى سلطان فعلت هذا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Piwmc n~te Iwann/c ne ou e~bol ywn pe: ou e~bol qen t~ve pe san ou e~bol qen nirwmi pe:
+               </Language>
+               <Language id="English">
+                  The baptism of John—where was it from? From heaven or from men?”
+               </Language>
+               <Language id="Arabic">
+                  معمودية يوحنا من أين كانت من السماء أم من الناس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nywou de naumokmek n~q~r/i n~q/tou eujwm~moc: je e~swp ansanjoc je ou e~bol qen t~ve pe f~najoc nan je eybe ou mptennah] erof. 
+               </Language>
+               <Language id="English">
+                  And they reasoned among themselves, saying, “If we say, ‘From heaven,’ He will say to us, ‘Why then did you not believe him?’ 
+               </Language>
+               <Language id="Arabic">
+                  أما هم فكانوا يفكرون فى أنفسهم قائلين. أن قلنا من السماء يقول لنا فلماذا لم تؤمنوا به. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~swp de ansanjoc je ou e~bol qen nirwmi pe tenerho] qat~h/ m~pi m/s Iwann/c gar n~totou hwc ou p~rov/t/c.
+               </Language>
+               <Language id="English">
+                  But if we say, ‘From men,’ we fear the multitude, for all count John as a prophet.”
+               </Language>
+               <Language id="Arabic">
+                  وإن قلنا من الناس فإنا نخاف من الجمع لأن يوحنا كان عندهم مثل نبي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aue~rouw~ pejwou n~I/c je tene~mi an: pejaf de nwou je oude a~nok hw n~]natamwten an je aii~ri nnai qen asn~ersisi.
+               </Language>
+               <Language id="English">
+                  So they answered Jesus and said, “We do not know.” And He said to them, “Neither will I tell you by what authority I do these things.
+               </Language>
+               <Language id="Arabic">
+                  فـأجابوا وقالوا ليسوع لانعلم. فقال لهم هو أيضاً ولا أنا أعلمكم بأى سلطان فعلت هذا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  With your impeccable hands O Lord you created me and made me shine like crimson. 
+               </Language>
+               <Language id="Arabic">
+                  بيديك اللتين بلاعيب يارب خلقتنى وزينتنى مضيئاً كالقرمصى 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  You bestowed on me the comforts of paradise and the fruits of the trees.
+               </Language>
+               <Language id="Arabic">
+                  ووهبت لى نعيم الفردوس وثمر الأشجار أعطيته لى أنعاماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  You awarded me the hegemony of your dominion over all creation under heaven and made all things below the animals and beasts.
+               </Language>
+               <Language id="Arabic">
+                  منحتنى عزة سلطانك على كل الخليقة التى تحت السماء وجعلت سائر الأشياء دون جنس الهوام والوحوش.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  You did not deprive me of respect and subordinated everything to me. You gave me one commandment and I disobeyed you O my Lord and my God.
+               </Language>
+               <Language id="Arabic">
+                  ولم تعوزنى شيئاً من الكرامة وجعلت كل شئ يخضع لى. وأوصيتنى وصية فخالفتها ياربى وإلهى.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  When I saw that you were alone O Adam when everything else was paired I created from your bones someone modeled after you who looks like you and found it inappropriate to have you alone by yourself. 
+               </Language>
+               <Language id="Arabic">
+                  رأيتك يا آدم كائناً وحدك وكل شئ غير مفرد فجبلت لك واحدة من عظامك كشبهك ومثالك، وقلت لا يحسن أن تكون وحدك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I was concerned about you and gave you power over her and on all creation to be under your dominion. You obeyed her and disregarded my instruction. You rejected my words and my commandments.
+               </Language>
+               <Language id="Arabic">
+                  فاهتممت بك وفعلت لك هذا وسلطتك عليها وعلى جميع المسكونة كى تكون تحت سلطانك فاطعتها وتركت أوامرى ورفضت قولى ووصاياى.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Remember me O Lord. From dust I am and like the herbs of the field you gave me the prowess of your power and diminished my humility. One tree I commanded you not to touch; why did you disobey my commandment. 
+               </Language>
+               <Language id="Arabic">
+                  أذكرنى يارب أننى تراب وكمثل العشب الذى فى الحقل أعطيتنى ياربى عزة قوتك فتناقصت حقارتى. شجرة واحدة أوصيتك عنها فكيف صرت مخالفاً لوصيتى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  You implicated the woman whom I did not command as I did with you. You obeyed her, rejected my words and then hid among the trees so that I do not see you.
+               </Language>
+               <Language id="Arabic">
+                  وأستظلمت المرأة هذه التى لم أوصها مثلك، فاطعتها ورفضت كلامى وأختفيت فى الشجر كي لا أراك.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  You desired divinity and wanted to be a creator like your Lord. From the fruits of the tree you distinguished between the good and the evil to become a God. 
+               </Language>
+               <Language id="Arabic">
+                  وفكرت فى العلويات أعنى الألوهية وأنك تصير خالقاً مثل سيدك. وبثمرة الشجرة علمت الخير والشر لتصير إلهاً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Adam where is the glory that was bestowed on you. You lost the cloths I dressed you with. With leaves of trees you covered your own nakedness. I created you and knew you before you were.
+               </Language>
+               <Language id="Arabic">
+                  يا آدم أين هو المجد الذى كان لك، تعريت من الحلة التى ألبستك أياها، وأخذت الورق من الشجر وسترت عورتك من وجهك. أعلمتك إننى خلقتك وعرفتك قبل أن تكون.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  From the beginning I informed you and instructed you with my commandments. Of all the trees in paradise I told you about this particular tree. Its fruits bear the bitterness of death and that if you ate from it, death you suffer. 
+               </Language>
+               <Language id="Arabic">
+                  سبقت فأخترتك من أول الأمر، سلمت إليك كلام وصاياى. وهكذا أعلمتك عن هذه الشجرة من دون جميع الشجر الذى فى الفردوس، هذه التى فى ثمرتها مرارة الموت وإنك إن أكلت منها فموتاً تموت، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I did not keep you ignorant about it but I informed you before this happens. You lent the woman your ear and obeyed her. Therefore I shall bring the punishment upon you.
+               </Language>
+               <Language id="Arabic">
+                  وأنا لم أدعك جاهلاً بل أعلمتك قبل أن يكون هذا. فأملت سمعك وأطعتها كذلك سأجلب عليك العقوبة.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O Adam from dust you are and to dust you shall return to chasten you for your transgressions. And you Eve why did you do this and disobey my commandments. It was not that an angel or a bird talked to you about it but a serpent, beast by its nature and you listened to his advice. 
+               </Language>
+               <Language id="Arabic">
+                  يا آدم أنت تراب وسأردك إلى التراب عوض الأعمال التى تجاسرت عليها ، وأنت يا حواء لماذا صنعت هكذا وخالفت وصاياى ؟ ليس ملاك تكلم معك ولا طائر من الجو. بل وحش ثعبان بطبيعته فسمعت منه مشورته. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Many shall be your sorrows and great will be your weeping. I will create animosity between you and the serpent and between your descendants and hers. He will watch their heels and your descendant will crush his head.
+               </Language>
+               <Language id="Arabic">
+                  فكثيرة هى الأحزان التى تكون لك والتنهد والنوح العظيمان وسأقيم عداوة بينك وبين الحية وبين نسلك ونسلها إلى أنقضاء الدهور. فهو يرصد عقب نسلك ونسلك يسحق رأسه.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  The Savior then summoned the serpent and cursed her and her nature saying: Cursed are you among all the beasts. On your belly you shall travel and on the dust of the earth you shall feed because of the distrust you caused. 
+               </Language>
+               <Language id="Arabic">
+                  ثم دعا المخلص الحية و لعنها مع طبيعتها ، وقال ملعونة أنت من بين جميع الوحوش وعلى بطنك تسعين وتراب الأرض يكون لك طعاماً من أجل أنك صرت شكا ، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The enemy dwelt in you and you became a shelter for the evil. And, because man listened to you, cursed shall be the whole earth with him.
+               </Language>
+               <Language id="Arabic">
+                  فوجد العدو مسكناً فيك وصرت بيتاً للشرير ومن أجل أن الرجل أمال سمعه إليك فالأرض كلها ملعونة معه.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  As for the man who is Adam, the first to dwell in paradise He told him; because you listened to your spouse I cursed the earth for your deeds. You will live heart saddened and the earth will grow for you thistles and spines. 
+               </Language>
+               <Language id="Arabic">
+                  أمـا الـرجل الذى هو آدم أول من سكن فى الفردوس. فقال له من أجل أنك سمعت لإمـرأتك لعنت الأرض بأعمالك. وتعيش يا آدم حزين القلب والأرض تنبت لك حسكاً وشوكـاً 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then He told Eve; in pains and agony you shall give births and you shall return to your spouse and he will dominate you and you shall have no rest in your life.
+               </Language>
+               <Language id="Arabic">
+                  ثم قال لحواء ستلدين البنين بالأحزان والـتنهد. وتـرجعين إلى بعلك وهو يتسلط عليك ولا تكون لك راحة فى حياتك.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Then God said behold Adam became as one of us; discerns between the right and the evil. I shall not leave him in paradise lest he should reach for the tree of life and eat of it. 
+               </Language>
+               <Language id="Arabic">
+                  ثم قال الرب هوذا آدم صار كواحد منا يعرف الخير والشر فلا أتركه فى الفردوس لئلا يمد يمينه ويأكل من شجرة الحياة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He expelled Adam and his spouse form the paradise and assigned a cherub carrying a sword of fire to guard its gate.
+               </Language>
+               <Language id="Arabic">
+                  فأخرج آدم وامرأته معه من فردوس النعيم وجعل كاروبيم وسيف نار لحراسة باب الفردوس.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/include/IAskYouOGoodOne"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Where do I go from your spirit and where do I escape from your face. If I ascended to the heights of heaven or descended to the lowest places I find you there. 
+               </Language>
+               <Language id="Arabic">
+                  إلى أين أذهب من روحك وإلى أين أهرب من وجهك إن صعدت إلى أعلا السموات أو إلى الأماكن السفلية أجدك هناك. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And Adam went to a lower place across from the gate of paradise to till the land and eat of its fruits where he was in the grasp of the Deceiver. 
+               </Language>
+               <Language id="Arabic">
+                  فمضى آدم إلى مكان أسفل أمام باب الفردوس ليحرث فى الأرض ويأكل ثمرتها عندما كان فى خديعة المضل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And Adam and Eve were condemned to the servitude of slavery because he followed his whim—he and all his sons until the fullness of time.
+               </Language>
+               <Language id="Arabic">
+                  وكتب على آدم وحواء كتاب رق العبودية لأنه تبع هواه هو وبنوه كلهم إلى كمال الدهور.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

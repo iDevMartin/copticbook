@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" LiturgyOfTheWaters="true" ApostlesFeastLiturgyOfTheWaters="true">
+   <Title>
+      <Language id="English">The Liturgy of Blessing of the Water of the Apostles' Feast</Language>
+      <Language id="Arabic">قداس لقان عيد الرسل</Language>      
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Priests and deacons prepare the basin on which the Liturgy of the Waters is to be prayed in the back of the Church.
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Blessed Are You</Language>
+            <Language id="Coptic">Kc~marwout</Language>
+         </Title>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+      </Section>
+
+      <Comment>
+         <Language id="English">
+            During the entrance of the Pope or a metropolitan or a bishop in to the church, the following may be said:
+         </Language>
+      </Comment>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Hymn of Joy</Language>
+            <Language id="Coptic">Pouro</Language>               
+         </Title>
+         
+         <InsertDocument path="include/Pouro"/>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="raisingOfIncense/include/Intro"/>
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/DoxaPatriAlleluia"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 15:22-16:1" type="section"/>
+      <BibleReference reference="Exodus 30:17-30" type="section"/>
+      <BibleReference reference="Isaiah 1:16-26" type="section"/>
+      <BibleReference reference="Isaiah 35:1-10" type="section"/>
+      <BibleReference reference="Isaiah 43:16-44:6" type="section"/>
+      <BibleReference reference="Zechariah 8:7-19" type="section"/>
+      <BibleReference reference="Zechariah 14:8-11" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Hebrews 10:22-38" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+   <InsertDocument path="include/EvnotiNaiNan"/>
+   
+   <Role id="People">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>      
+            <Language id="Arabic">مرد الإنجيل</Language>      
+         </Title>
+         
+         <InsertDocument path="include/JesusChristIsTheSame"/>
+         <InsertDocument path="include/doxologies/Apostles.2.1"/>
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/SevenGreatLitanies"/>
+   <InsertDocument path="lakkan/include/Litanies"/>
+   <InsertDocument path="include/LordHaveMercy100"/>
+   <InsertDocument path="include/ThreeGreatLitanies"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/CreedPeople"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Adam Aspasmos</Language>
+         <Language id="Arabic">الاسبسمس الادام</Language>
+         <Language id="Coptic">Nenio] n~a~poctoloc...</Language>
+      </Title>
+      
+      <InsertDocument path="include/praises/morningdoxology/Apostles.1"/>
+   </Section>
+   
+   <InsertDocument path="include/adamAspasmos/ShortConclusion"/>
+   
+   <Title>
+      <Language id="English">Liturgy of the Waters</Language>
+      <Language id="Arabic">اللقان</Language>
+   </Title>
+   
+   <InsertDocument path="include/AnaphoraIntro"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Meet and right, meet and right, meet and right, O, Master Pantocrator, Lord of all. Compassionate Father, and God of as consolation. You are the means. You are the power. You are our help. You are the Physician and refuge, the steadfast fortress and the hope of those who seek Him.
+         </Language>
+         <Language id="Arabic">
+            مستحق وعادل. مستحق وعادل. مستحق وعادل. السيد الضابط الكل ورب الكل أب الرأفات وإله كل عزاء. انت هو الوسيلة انت هو القوة. انت معيننا، انت هو عوننا. ايها الطبيب والملتجىء. والحصن الثابت ورجاء الملتجئين إليه. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/YouWhoAreSeated"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            The grace, the ascension, the hope, the life, and the resurrection. We all await Your salvation, which You reconciled everyone with. You are the head of all chiefs: the Lord of lords: the Master of masters: and the King of kings.
+         </Language>
+         <Language id="Arabic">
+            النعمة والارتقاء والرجاء والحياة والقيامة. ونحن كلنا منتظرون خلاصك الذى أصلحت به كل أحد. أنت هو رئيس الرؤساء ورب الأرباب، وسيد السادات وملك الملوك.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LookTowardsTheEast"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            You have given the authority to those whom You have called by Your grace to bound and remit. You have given the wisdom to those who chant unto You in the Church of Your Christ: that You, as Good, have kept: for You are Almighty, and Pantocrator from the beginning. And unto You we ascribe kingdom, power, glory and majesty, with the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            أنت الذى اعطيت السلطان للذين سبقت دعوتهم بنعمتك ان يربطوا ويحلوا. انت الذى اعطيت الحكمة للذين يرتلون لك فى الكنيسة التى لمسيحك هذه التى حفظتها كصالح، لأنك انت الكلى القوة وضابط الكل منذ البدء. ولك الملك والقوة والمجد والعزة مع الروح القدس  
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LetUsAttend"/>
+   <InsertDocument path="include/AnaphoraTheCherubim"/>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/Agios3"/>
+      
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. O Lord our God. O our King, grant us now the grace of this service, as You granted Your servant Moses, and commanded him to make the dome and the ark, according to the designs which You have shown, and he saw. And Aaron, whom You chose, and Bezalel  to adorn the dome,  
+         </Language>
+         <Language id="Arabic">
+            قدوس قدوس قدوس بالحقيقة أيها الرب إلهنا. الآن اعطنا ايضا يا ملكنا نعمة هذه الخدمة كما اعطيت عبدك موسى وامرته أن يصنع القبة والتابوت، كالرسوم التى مثلتها له التى رآها، وهارون الذى اخترته وبصلئيل الذى زين القبة، 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            and Solomon whom You heard his prayers in the Temple which he built for You, according to the covenant which You have settled with the pious king David, and the blessed Apostles, whom You have given the grace of the Church, and the mystery of the New Testament. We also, Your servants, whom we are not worthy, accept unto You our supplications for this holy basin, and send upon it the rays of Your grace.
+         </Language>
+         <Language id="Arabic">
+            وسليمان الذى سمعت صلاته فى الهيكل الذى بناه لك كالعهد الذى قررته مع الملك البار داود والرسل الطوبانيين الذين اعطيتهم نعمة البيعة، وسر العهد الجديد. نحن أيضاً عبيدك الغير المستحقين اقبل إليك تضرعنا على هذه الفسقية المقدسة وارسل عليها شعاع نعمتك.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The priest blesses the water with the cross and the congregation responds after each time saying: Amen.
+         </Language>
+         <Language id="Arabic">
+            يقول الكاهن و يرشم الماء بالصليب و يجاوبه الشعب عند الآنتهاء من كل رشم: آمين.
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            Sanctify it, Amen.
+         </Language>
+         <Language id="Arabic">
+            قدسها. أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Fill it with Your Holy Spirit, Amen.
+         </Language>
+         <Language id="Arabic">
+            املائها من روح قدسك. أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Put in it the seal of salvation, Amen.
+         </Language>
+         <Language id="Arabic">
+            ضع فيها خاتم الخلاص. أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Your unseen power, Amen.
+         </Language>
+         <Language id="Arabic">
+            وقوتك الغير المرئية . أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Fill it from Your divine glory, Amen.
+         </Language>
+         <Language id="Arabic">
+            املأها من مجد لاهوتك. أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            May it be a basin of blessing, Amen.
+         </Language>
+         <Language id="Arabic">
+            ولتكن فسقية البركة. أمــين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            A basin of glory and honor for Your Holy Name, Amen.
+         </Language>
+         <Language id="Arabic">
+            فسقية المجد والكرامة لاسمك القدوس. أمــين. 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AmenPeople"/>
+   <InsertDocument path="include/LetUsPray"/>
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            O Lord Jesus Christ, who enlightened on those who where in the depths, by the appearance in flesh, and saved them from the tyranny of Satan, and revealed unto us the freedom of Your divine mystery, without corruption. You led us to Your holies, this which the angels have desired to see, and did not see. You granted unto us the entrance to the Kingdom of heaven 
+         </Language>
+         <Language id="Arabic">
+            أيها الرب يسوع المسيح الذى اضاء للذين فى العمق بظهور جسده وانقذهم من جبروت إبليس واظهرت لنا بغير فساد حرية اسرارك الالهية، وهديتنا الى المقادس هذه التى تشتهى الملائكة أن تنظرها ولم تراها. وأنعمت علينا بالدخول الى ملكوت السموات
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            through bathing one more time. For You said: “Unless one is born again, he cannot see the kingdom of God.”  For this You graciously were baptized in the Jordan, and granted us purity, for You are All-holy. You purified and blessed the water when You went into it, and destroyed the heads of the dragon upon the water. We also, 
+         </Language>
+         <Language id="Arabic">
+            بالحميم مرة أخرى. لأنك انت قلت إذا لم يولد الانسان مره اخرى لا يستطيع ان يدخل مكوت الله. فلهذا تفضلت علينا وتعمدت فى الاردن ووهبت لنا الطهارة اذ انت أيضاً الكلى القدس بل طهرت وقدست المياه بنزولك فيها، وسحقت رؤوس التنين على المياه. ونحن ايضاً 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            who enjoyed sin with them, grant us the forgiveness of our sins and falls, by bathing in it.
+         </Language>
+         <Language id="Arabic">
+            الذين تنعمنا معهم فى الخطيئة، ننال مغفرة خطايانا وزلاتنا بحميمنا فيه. 
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/Pray"/>
+   </Role>
+   
+   <InsertDocument path="include/LetUsPray"/>
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="English">
+            Now also, we entreat You, O Lord, and ask of You for this basin placed like the Jordan, for our salvation , in which You were baptized by  Your servant John. By Your will , O God, bless this water, so that everyone who bathes in, deserves the forgiveness of his/her sins, incorruption, and a heavenly gift, and may their names be written in the Book of Life,  
+         </Language>
+         <Language id="Arabic">
+            الآن أيضاً نضرع إليك يارب ونطلب منك عن هذه الفسقية الموضوعة مثال الاردن الذى من اجل خلاصنا تعمدت فيه من عبدك يوحنا. بمشيئتك يارب قدس هذه المياه حتى ان كل من يغتسل منها يستحق مغفرة خطاياه. وعدم الفساد والموهبة السماوية، ولتكتب اسماؤهم فى سفر الحياة
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            with the rest of Your chosen saints, according to the will of Your Good Father, and the Holy Spirit, the Life-Giver, so that they may bless You and glorify You always, for Your holy name is full of glory with Your unblemished Father and the Holy Spirit, now and ever and unto the ages of all ages. now and ever and unto the ages of ages. Amen. 
+         </Language>
+         <Language id="Arabic">
+            مع كافة قديسيك المختارين بمشيئة ابيك الصالح والروح القدس المحى ليباركوك ويمجدوك كل حين لأن اسمك القدوس مملوء مجداً مع ابيك الغير الدنس والروح القدس الان وكل أوان وإلي دهر الدهور آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   
+   <Role id="Deacon">
+      <InsertDocument path="include/SavedAmen"/>
+   </Role>
+   
+   <InsertDocument path="lakkan/include/BlessedBeTheLord"/>
+      
+   <Role id="People">
+      <InsertDocument path="include/OneIsTheAllHoly"/>
+   </Role>
+   
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/Jefcmarwout"/>
+      
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Watos Psali</Language>
+            <Language id="Arabic">إبصالية واطس</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Apen[c# I/#c# P,#c#: ]n~oum/ini n~nefa~poctoloc: hina n~toumenre noue~r/ou: qen oua~gap/ ecjek e~bol.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ: gave a sign to His apostles: to love one another: a perfect love.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح أعطى علامة لرسله لكى يحبوا بعضهم بعضاً محبة كاملة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               E~tafjwk e~bol n~nefm/ini: nem nefs~vri hijen pikahi: af,w qatotou n~oudia~y/ki: hina n~toumenre piyebio~. 
+            </Language>
+            <Language id="English">
+               When He had perfected: His signs and miracles on earth: He gave them a covenant: to love humbleness.
+            </Language>
+            <Language id="Arabic">
+               ولما أكمل آياته وعجائبه على الارض وضع لهم عهداً لكى يحبوا التواضع.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Afhioui~ n~oumwou e~oulakan/: afiwi n~nou[alauj e~bol: afhonhen nwou efjwm~moc: je a~rioui~ n~ywten m~pair/t. 
+            </Language>
+            <Language id="English">
+               When He poured water: in a basin and washed their feet: He ordered them saying: ‘You also do likewise’.
+            </Language>
+            <Language id="Arabic">
+               صب ماء فى مغسل وغسل أرجلهم وأمرهم قائلا أصنعوا أنتم هكذا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Menenca piiwi n~te nou[alauj: aft/if e~v~mou qen pefouws: nem p~]ma] m~pefiwt: nem Pip~neuma eyouab. 
+            </Language>
+            <Language id="English">
+               And after He had washed their feet: gave Himself to death by His will: and the pleasure of His Father: and the Holy Spirit.
+            </Language>
+            <Language id="Arabic">
+               ومن بعد ما غسل أرجلهم اسلم للموت بارادته ومسرة أبيه والروح القدس.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Auasf e~p~se n~te pic~tauroc: aut n~oulog,/ naf e~pefc~vir n~oui~nam: a~oumwou nem ouc~nof qa] e~bol: e~outoubo n~n/e~ynah]. 
+            </Language>
+            <Language id="English">
+               He was crucified on the wood of the Cross: and was stabbed with a spear in His right side: blood and water came flowing: to purify the believers.
+            </Language>
+            <Language id="Arabic">
+               صلب على خشبة الصليب، وطعن بحربة فى جنبه الآيمن. فجرى منه دم وماء طهارة للمؤمنين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Afmou au,af qen oum~hau: aftwnf qen pie~hoou m~mahsomt: ouoh ausenaf e~m~swi e~niv/oui: afhemci caouin~am m~pefiwt. 
+            </Language>
+            <Language id="English">
+               He died and was put in the tomb: and rose on the third day: ascended into the heavens: and sat on the right hand of His Father.
+            </Language>
+            <Language id="Arabic">
+               مات ووضع فى قبر، وقام فى اليوم الثالث، وصعد الى السموات، وجلس عن يمين أبيه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Anefmay/t/c cwjp hijen pikahi: sa p~jwk e~bol n~]pent/koct/: a~pip~neuma m~parakl/ton: m~ton m~mof e~hr/i e~jwou. 
+            </Language>
+            <Language id="English">
+               His disciples remained on earth: until Pentecost: and the Spirit, the Comforter: came down upon them. 
+            </Language>
+            <Language id="Arabic">
+               وبقى تلاميذه على الارض الى كمال الخمسين، وأن الروح المعزى استراح " حل " عليهم 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Auceji qen t~acpi n~te na t~ve: t~lalia~ n~te nia~ggeloc: auo~wnh e~bol m~vran m~Po#c#: nem nefm/ini n~reftanqo. 
+            </Language>
+            <Language id="English">
+               They spoke in a heavenly language: and the tune of angels: and they revealed the Name of God: and His Life-giving miracles.
+            </Language>
+            <Language id="Arabic">
+               فتكلموا بلغة السمائيين. ونغمة الملائكة، واظهروا اسم الرب وآياته المحييه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Menenca nai e~tau[i m~Pip~neuma: auern/cteuin n~ywou hwou: kata v~r/] eta pouo#c#: ern/cteuin hijen pikahi. 
+            </Language>
+            <Language id="English">
+               After they had received the Spirit: they fasted also: as their Master: fasted on earth.
+            </Language>
+            <Language id="Arabic">
+               ومن بعد هذا لما قبلوا الروح صاموا هم ايضا كما صام سيدهم على الارض.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Etacjwk e~bol n~je toun/ctia: auir~i m~v~m/ini e~taft/if nwou: ete vai pe piyebio: nem p~jwk e~bol n~]agap/. 
+            </Language>
+            <Language id="English">
+               And after their fast was completed: they made the sign: which He gave them: I mean humility and perfect love.
+            </Language>
+            <Language id="Arabic">
+               فلما تم صيامهم صنعوا العلامة التى سلمها لهم ، اعنى التواضع وكمال المحبة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               A pia~lo,oc: n~te pen[#c# I/#c# P,#c: hioui~ n~oumwou Petroc e~oulakan/: afiwi n~nou[alauj e~bol.
+            </Language>
+            <Language id="English">
+               And also Peter: who succeded our Lord Jesus: has poured water in the basin: and washed their feet. 
+            </Language>
+            <Language id="Arabic">
+               وأن بطرس خليفة ربنا يسوع صب ماء فى مغسل وغسل أرجلهم
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Kata V~r/] e~tafnau: e~pen[#c# I/#c# P,#c# e~tafiwi n~nou[alauj e~bol: m~patouasf e~pic~tauroc.
+            </Language>
+            <Language id="English">
+               As he saw our Lord Jesus Christ: when He washed their feet: before His crucifixion: on the Cross. 
+            </Language>
+            <Language id="Arabic">
+               كما رأى ربنا يسوع المسيح لما غسل أقدامهم قبل أن يصلب على الصليب
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Eybe vai afswpi m~m/ini: n~rwmi niben ethijen pikahi: hina n~toui~ri kata v~r/t: n~nennio] n~a~poctoloc. 
+            </Language>
+            <Language id="English">
+               Therefore, the sign was given: to all people on earth: to do like: our fathers the apostles.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا صارت علامة لكل الناس الذين على الارض لكى يصنعوا كمثل آبائنا الرسل.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Meneca nai aumosi afhiwis: kata v~ouahcahni m~pencwt/r: autwmc n~rwmi niben: qen v~ran n~]t~riac e#y#u#. 
+            </Language>
+            <Language id="English">
+               And after they had walked and preached: according to the command of our Savior: they baptized all people: in the Name of the Holy Trinity.
+            </Language>
+            <Language id="Arabic">
+               وبعد هذا مشوا وبشروا كأمر مخلصنا، وعمدوا جميع الناس باسم الثالوث المقدس.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/Apostles"/>
+      </Section>
+   </Role>
+   
+   <Role id="Priest">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Thanksgiving Prayer After The Lakkan</Language>
+            <Language id="Arabic">صلاة شكر بعد اللقان</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               We thank You, O Lord God, the giver of all good things and all beneficence. Who made us also now worthy, for this holy service which is Yours, to be in communion with the love of Your Only-Begotten Son, our Lord, God, and Savior, Jesus Christ; according to His holy commandments. Keep us all by the power of Your Holy Spirit. Grant to thank You at all times.
+            </Language>
+            <Language id="Arabic">
+               نشكرك ايها الرب الاله معطى جميع الخيرات وكإحسان، الذى جعلنا أيضاً الآن مستحقين من جهة هذه الخدمة المقدسة التى لك أن نكون شركاء لمحبة إبنك الوحيد ربنا والهنا ومخلصنا يسوع المسيح كوصاياه المقدسة. إحفظنا كلنا بقوة روحك القدوس. وأنعم لنا كل حين أن نشكرك. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               By the grace, compassion and philanthropy, of Your Only-Begotten Son, our Lord, God and Savior, Jesus Christ. Through Whom the glory, the honor, the dominion, and the adoration are due unto You, with Him, and the Holy Spirit, the Life-Giver, Who is of one essence with You, now, and at all times, and unto the age of all ages. Amen.
+            </Language>
+            <Language id="Arabic">
+               بالنعمة والرأفة ومحبة البشر اللواتى لآبنك الوحيد ربنا والهنا ومخلصنا يسوع المسيح. هذا الذي من قبله المجد والاكرام والعز والسجود. تليق بك معه ومع الروح القدس المحيي المساوي لك الان وكل أوان وإلي دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+</Document>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Antiphonary</Language>
+      <Language id="Arabic">الدفنار</Language>
+   </Title>
+   
+   <Group>
+      <InsertDocument path="months/Thoout"/>
+      <InsertDocument path="months/Paope"/>
+      <InsertDocument path="months/Hathor"/> 
+      <InsertDocument path="months/Koiahk"/>
+      <InsertDocument path="months/Tobe"/>
+      <InsertDocument path="months/Meshir"/>
+      <InsertDocument path="months/Paremhotep"/>
+      <InsertDocument path="months/Parmoute"/>
+      <InsertDocument path="months/Pashons"/>
+      <InsertDocument path="months/Paone"/>
+      <InsertDocument path="months/Epep"/>
+      <InsertDocument path="months/Mesore"/>
+      <InsertDocument path="months/Nesi"/>
+   </Group>
+   
+   <InsertDocument path="Pope"/>
+</Document>

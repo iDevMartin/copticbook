@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelSuriel:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Archangel Suriel</Language>
+            <Language id="Arabic">ذوكصولوجية لرئيس الملائكة سوريال</Language>
+            <Language id="Coptic">Marenouwst m~Viwt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Suriel:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~Viwt nem Ps/ri: nem Pip#n#a# e#y#u#: n~tentaio~ n~Couri/l: pimah f~tou n~ar,/aggeloc.
+            </Language>
+            <Language id="English">
+               Let us worship the Father and the Son, and the Holy Spirit, and honor Suriel, the fourth in archangels.
+            </Language>
+            <Language id="Arabic">
+               فلنسجد للآب والابن والروح القدس ونكرم سوريال الرابع في رؤساء الملائكة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nane v~rasi n~Couri/l: eni~ri m~mof qen niekk~l/cia~: e~hote v~rasi n~oupatselet: n~te paikocmoc eynacini.
+            </Language>
+            <Language id="English">
+               Good is the joy of Suriel, which we ascribe to him in the churches, more than the joy of a bridegroom, of this passing world.
+            </Language>
+            <Language id="Arabic">
+               جيد هو فرح سوريال نصنعه في الكنائس أكثر من فرح عرس هذا العالم الزائل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Xwoun hwk w~ pamenrit: je v~rasi m~pikocmoc f~nacini: ouoh v~rasi n~Couri/l: f~m/n e~bol sa e~neh.
+            </Language>
+            <Language id="English">
+               You know O my beloved, that the joy of this world passes, but the joy of Suriel, endures forever.
+            </Language>
+            <Language id="Arabic">
+               أنت أيضا تعلم أيها الحبيب أن فرح العالم يزول وأما فرح سوريال فيدوم إلى الأبد.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/ArchangelSuriel"/>
+      </Section>
+   </Season>
+</Document>

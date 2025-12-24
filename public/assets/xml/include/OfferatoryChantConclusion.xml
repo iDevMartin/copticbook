@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Eulog/toc kurioc o~ Yeoc ic touc e~w~nac: a~m/n.
+      </Language>
+      <Language id="English">
+         Blessed be the Lord God forever. Amen.
+      </Language>
+      <Language id="Arabic">
+         مبارك الرب الإله إلى الأبد، آمين.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         Nieynoc t/rou c~mou e~p~[oic: marouc~mou e~rof n~je nilaoc t/rou: je a~ pefnai tajro e~h~r/i e~jwn: ouoh ]meym/i n~te P[oic sop sa e~neh: Am/n All/louia.
+      </Language>
+      <Language id="English">
+         Praise the Lord, all you Gentiles! Laud Him, all you peoples! For His mercy has been strengthened toward us; and the truth of the Lord abides for ever. Amen. Alleluia.
+      </Language>
+      <Language id="Arabic">
+         يا جميع الأمم باركوا الرب، ولتباركه جميع الشعوب، لأن رحمته ثبتت علينا، وحق الرب يدوم إلى الأبد. آمين هلليلويا.
+      </Language>
+   </Text>  
+</Document>

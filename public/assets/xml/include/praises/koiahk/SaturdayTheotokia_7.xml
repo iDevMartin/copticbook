@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ KoiahkSeason">
+      <Section>
+         <Title>
+            <Language id="English">The Seventh Greek Interpretation</Language>
+            <Language id="Arabic">التفسير السابع من الرومي</Language>
+            <Language id="Coptic">Arixate nem/i m~voou</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Arixate nem/i m~voou: tw Yeou en eu,arictia~: anioui~ n~e~penouc nem p~w~ou: e~]ourw n~te ]a~rictia~.
+            </Language>
+            <Language id="English">
+               Begin with me today, by giving thanks to God, and present hymns and glory, to the Queen of perfection.
+            </Language>
+            <Language id="Arabic">
+               ابتدإوا معي اليوم بالشكر لله. وقدموا مديحا ومجدا لملكة الكمال.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ajoc je a~Po#c# eudokicen: n~q/] katavu~gion: ti o~noma cou i~pwmen: w~ y/et[oci e~nigi~on.
+            </Language>
+            <Language id="English">
+               Say “The Lord took pleasure, in you O refuge,” We say “What is your name, O who is exalted above the earthly ones.” 
+            </Language>
+            <Language id="Arabic">
+               قولوا أن الرب قد سر بك أيتها الملجاء نقول ما هو اسمك يا من ارتفعت على الأرضيين.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ourano~n ke y~ronon e~pig/~: o~ti ton a~,writon: e,wre~cac ke kal/ pug/~: plact/~cac ton a~rr/ton.
+            </Language>
+            <Language id="English">
+               A heaven and throne on the earth, for you contained the Infinite One, and a good unexplainable Fountain, you have brought. 
+            </Language>
+            <Language id="Arabic">
+               سماء وكرسي على الأرض لأن الغير المحوي حويته وينبوعاً صالحاً غير موصوف أنبعته.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               &lt;eroubim ce kale~cwmen: o~ti ton a~'/la v/cic: e~bacta~c ke a~cwmen: qen ouayl/cic para~vucic.
+            </Language>
+            <Language id="English">
+               We call you a cherub, for you have carried the Intangible One, and we praise, with diligence that surpasses nature. 
+            </Language>
+            <Language id="Arabic">
+               شاروبيم ندعوك لن الغير الملموس حملته ثم نسبح باجتهاد يفوق الطبيعة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               K~l/yica m/t/r Yeou: piouro m~m/i n~e~tazon: kardiac ke nevrouc dikeou: qen ouhwb m~para~doxon.
+            </Language>
+            <Language id="English">
+               You were called the Mother of God, the righteous true King, the Inspector of hearts and the Right One, through a miraculous wonder.
+            </Language>
+            <Language id="Arabic">
+               دعيت أم الله الملك الحقيقي البار فاحص القلوب والكلي بامر معجز.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Emmanou/l v/e~taremacf: eybe vai afa~reh e~ro: tenhwc e~rof tenerhouo~ [acf: kaye~kact/n p~rwi~ ke ecpe~ra.
+            </Language>
+            <Language id="English">
+               Therefore Emmanuel whom you gave birth to, has kept you, we praise and exalt Him above all, every day morning and evening.
+            </Language>
+            <Language id="Arabic">
+               عمانوئيل الذي ولدته من أجل هذا حفظك نسبحه ونزيده علوا كل يوم باكرا وعشية .
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/RoumiRefrain"/>
+      </Section>
+       
+      <Section>
+         <Title>
+            <Language id="English">The Seventh Bohairic Interpretation A</Language>
+            <Language id="Arabic">التفسير السابع من البحيري أ</Language>
+            <Language id="Coptic">Cemou] e~ro je</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Cemou] e~ro je y~mau m~V]: piouro m~m/i menenca y~remacf: qen ous~v/ri nemouho]: tenhwc naf tenerhouo~ [acf.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, the true King and after you bore Him, with wonder and fear, we praise and exceedingly exalt Him.
+            </Language>
+            <Language id="Arabic">
+               دعيت ام الله الملك الحقيقي وبعد ما ولدته بتعجب وخوف نسبحه ونزيده علوا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ectob n~je teparyenia~: w~ piervei n~logikon: qen ounis] n~oikonomia~: nem ouhwb m~paradoxon.
+            </Language>
+            <Language id="English">
+               Your virginity is sealed, O speaking sanctuary, with great arrangement, and a miraculous wonder.
+            </Language>
+            <Language id="Arabic">
+               بتوليتك مختومة أيتها الهيكل الناطق بعظم تدبير وامر معجز.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Emmanou/l v/e~taremacf: eybe vai afa~reh e~ro: w~cautoc tenhwc e~rof: qen ouw~ou nem outaio~.
+            </Language>
+            <Language id="English">
+               Therefore Emmanuel whom you gave birth to, has kept you, therefore we praise Him, with glory and honor.
+            </Language>
+            <Language id="Arabic">
+               عمانوئيل الذي ولدته فلهذا حفظك. لذلك نسبحه بمجد وكرامة.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/BohairicARefrain"/>
+      </Section>
+       
+      <Section>     
+         <Title>
+            <Language id="English">The Seventh Bohairic Interpretation B</Language>
+            <Language id="Arabic">التفسير السابع من البحيري ب</Language>
+            <Language id="Coptic">?ca/~ac afmou] ero</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               ?ca/~ac afmou] ero: w~ Maria~ ]ourw: je y~mau mV] piref[~ro: e~te vai pe Emmanou/l Pennou].
+            </Language>
+            <Language id="English">
+               Isaiah called you, O Mary the Queen, the Mother of God the Victorious, He is Emmanuel our God.
+            </Language>
+            <Language id="Arabic">
+               أشعياء دعاك يا مريم الملكة أم الله الغالب الذي هو عمانوئيل إلهنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Je h/ppe ic ]paryenoc: eceerboki ece~mici n~ous/ri: n~yof pe n~ouro etjwri: ouoh n~e~xouciact/c.
+            </Language>
+            <Language id="English">
+               Saying “Behold the Virgin, will conceive and give birth to a Son, He is the mighty King, the Ruler.”
+            </Language>
+            <Language id="Arabic">
+               قائلاً هوذا العذراء تحبل وتلد ابنا وهو الملك القوى المتسلط.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Acmici m~mof cwmatikoc: ounou] m~m/i n~telioc: ,~ouab ,~ouab a~gioc: ]t~riac etj/k e~bol.
+            </Language>
+            <Language id="English">
+               You gave birth to Him in the flesh, a perfect and true God, holy holy holy, is the perfect Trinity.
+            </Language>
+            <Language id="Arabic">
+               ولدته جسدانياً إله حقيقي كامل قدوس قدوس قدوس. الثالوث الكامل.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/BohairicBRefrain"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">The Seventh Coptic Mo-‘aqap Interpretation</Language>
+            <Language id="Arabic">التفسير السابع من القبطي المعقَّبْ</Language>
+            <Language id="Coptic">?deoc niben</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               ?deoc niben n~te ninobi: nem hanm/s euhwou n~hb/oui~: auywoutc e~roi w~ piaynobi: Pacwt/r senh/t qaroi.
+            </Language>
+            <Language id="English">
+               Every enjoyment of sin, and many bad works have come upon me, O You who is without sin, my Savior show me compassion.
+            </Language>
+            <Language id="Arabic">
+               كل لذات الخطية وأعمال كثيرة رديئة أجتمعت علىً يا من بغير خطية يا مخلصي تحنن على.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Pacwt/r senh/t qaroi: qen nanobi m~pertakoi: alla w~oun~h/t ejwi: moi n/i n~oumetanoia~.
+            </Language>
+            <Language id="English">
+               My Savior show me compassion, and do not destroy me in my sins, be patient with me, grant me repentance.
+            </Language>
+            <Language id="Arabic">
+               يا مخلصي تحنن على ولا تهلكني بخطاياي لكن تمهل علي وأعطني توبة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Moi n/i n~oumetanoia~: ouoh cwlj n~naa~nomia~: hiten pisl/l n~te Maria~: ]selet m~paradoxon.
+            </Language>
+            <Language id="English">
+               Grant me repentance, cleanse me from all my iniquities, through the prayers of Mary, the (*paradoxal) bride.
+            </Language>
+            <Language id="Arabic">
+               اعطني توبة وامسح آثامي بصلوات مريم العروسة الممجدة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               ]selet m~paradozon: pia~ho n~te nia~gayon: je acmici m~V] nan: e~te Emmanou/l Penouro.
+            </Language>
+            <Language id="English">
+               The (*paradoxal) bride, the treasure of goodness, she gave birth to God for us, Immanuel our King.
+            </Language>
+            <Language id="Arabic">
+               العروسة الممجدة: كنز الخيرات لأنها ولدت لنا الله الذي هو عمانوئيل ملكنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               E~te Emmanou/l Penouro: I/#c# P,#c# pirefyamio~: acmacf n~je ]ourw: ectob n~je tecparyenia~.
+            </Language>
+            <Language id="English">
+               Immanuel our King, Jesus Christ the Creator, was born of the Queen, and her virginity was sealed.
+            </Language>
+            <Language id="Arabic">
+               الذي هو عمانوئيل ملكنا: يسوع المسيح الخالق ولدته الملكة وبتوليتها مختومة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ectob n~je tecparyenia~: je acmici a[ne cunoucia~: n~emp~sa n~handoxologia~: je acswpi n~ouy~ronoc.
+            </Language>
+            <Language id="English">
+               And her virginity was sealed, for she gave birth without seed of man, she is worthy of glorification, for she became the throne.
+            </Language>
+            <Language id="Arabic">
+               وبتوليتها مختومة: لأنها ولدت بغير مباضعة تستحق التمجيد لأنها صارت كرسيا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Je acswpi n~ouy~ronoc: m~V] pid/~miourgoc: vwf pe piw~ou nem pihumnoc: icjen ]nou nem sa e~neh.
+            </Language>
+            <Language id="English">
+               For she became the throne, of God the Creator, to whom all glory and praise is due, now and unto the ages.
+            </Language>
+            <Language id="Arabic">
+               لأنها صارت كرسيا : الله الخالق له المجد والتسبيح من الأن وإلى الأبد.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ten]w~ou ne w~ y/e~tenhot: etfai qa piLogoc n~te V~iwt: je ,ere y/eymeh n~h~mot: ouoh Po#c# sop neme.
+            </Language>
+            <Language id="English">
+               We glorify you O faithful one, who carried the Word of the Father, "Hail to you O full of grace, the Lord is with you."
+            </Language>
+            <Language id="Arabic">
+               نمجدك ايتها الامينة. الحاملة كلمة الأب قائلين إفرحي يا ممتلئة نعمة. الرب معك
+            </Language>
+         </Text>
+      </Section>
+
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Egyptian Interpretation
+            </Language>
+            <Language id="Arabic">
+               التفسير السابع من المصري
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: w~ Maria }paryenoc: menenca y~remici nan m~V~nou]: ectob n~je teparyenia.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, O Virgin Mary, and after you gave birth to God for us, your virginity was sealed.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، يا مريم العذراء، ومن بعدما ولدتِ لنا الله، بتوليتكِ مختومة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: ]helpic n~te penoujai: afsop e~ro n~}meynou]: paihwb n~s~v/ri ou pe vai.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, the hope of our salvation, you accepted unto yourself the Divinity, what is this wondrous matter?
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، يا رجاء خلاصنا، قبلتِ إليكِ اللاهوت، ما هو هذا الأمر العجيب.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: p~sousou m~pengenoc: ]helpic n~te nenio]: Maria ]cab/ m~paryenoc.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, the pride of our race, the hope of our fathers, the wise Virgin Mary.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، يا فخر جنسنا، يا رجاء آبائنا، مريم العذراء الحكيمة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: ten]w~ou ne w~ piw~ni m~m/i: enjw m~moc qen oumetatho]: je ,ere ke ,aritoumen/.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, we glorify you O true stone, proclaiming without fear, “Hail to you O full of grace.”
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، نمجدكِ أيتها الحجر الكريم، قائلين بغير خوف، "إفرحي يا ممتلئة نعمة."
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: h/t niben aurasi au]nom]: qen p~jinerrwmi: m~v~ran n~Emmanou/l Pennou].
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, all the hearts rejoiced and were comforted, through the Incarnation, of the name of Emmanuel our Lord.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، كل القلوب تفرح، وتتعزَّى بتأنس، إسم عمانوئيل إلهنا.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: w~ ]selet w~ ]ourw: je afnahmen e~bol hito]: qen p~jini~ m~Pefjinmici n~ref[~ro.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, O Bride and Queen, for He delivered us through you, by the coming of His victorious Birth.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، أيتها العروس والملكة، لأنه نجانا من قِبَلكِ، بأتيان ميلاده الغالب.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Aumou] e~ro je Y~mau m~V~nou]: ouma n~swpi n~sousou m~pikocmoc t/rf: je n~yof pe V~nou] n~te nenio]: tenoueh n~cwf qen penh/t t/rf.
+            </Language>
+            <Language id="English">
+               You are called the Mother of God, the dwelling of the Pride of the whole world, for He is the God of our fathers, we follow Him with all our hearts.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله، مسكن فخر كل العالم، لأنه هو إله آبائنا، نتبعه بكل قلبنا.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/EgyptianRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Sahidic Interpretation
+            </Language>
+            <Language id="Arabic">
+               التفسير السابع من الصعيدي
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="Coptic">
+               ?~ca/~ac va pinis] n~q~rwou: bwl nan e~bol n~nekp~rov/tia: eybe y/e~tacjwlh m~piw~ou: Y~mau m~pitoubo Maria.
+            </Language>
+            <Language id="English">
+               O Isaiah with the great voice, interpreted for us your prophecy, about the one who was filled with glory, Mary the Mother of purity.
+            </Language>
+            <Language id="Arabic">
+               يا أشعياء صاحب الصوت العظيم، فسَّرْ لنا نبواتك، لأجل التي إشتملت بالمجد، مريم اُم الطهارة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Emmanou/l acmacf nan: a[ne c~perma ouoh n~atgamoc: afswpi n~je V~nou] neman: ouoh afcw] m~pikocmoc.
+            </Language>
+            <Language id="English">
+               She bore for us Emmanuel, without seed or marriage, the Lord dwelt among us, and saved the world.
+            </Language>
+            <Language id="Arabic">
+               ولدَتْ لنا عمانوئيل، بغير زرع وبغير زواج، وإن الله حل معنا، وخلَّص العالم.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               A~rej~vof hiten p~rov/tia: qen ouhwb m~paradoxon: ectob n~je teparyenia: Pikurioc efoi m~paradoxon.
+            </Language>
+            <Language id="English">
+               You gave birth to Him with prophecy, through a miraculous matter, your virginity is sealed, and the glorified Lord.
+            </Language>
+            <Language id="Arabic">
+               ولدتِه بالنبوة، بأمرٍ معجز، وبتوليتكِ مختومة، والرب الممجد.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Qen oujom afa~reh e~ron: qen pefnah] etcoutwn: ouoh p~co[ni n~nidemwn: afkwrf e~bol haron.
+            </Language>
+            <Language id="English">
+               With power has kept us, in His upright faith, He trampled for us, the council of the demons.
+            </Language>
+            <Language id="Arabic">
+               بقوة قد حفظنا، بأمانته المستقيمة، وأبطل عنا، مشورة الشياطين.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/SahidicRefrain"/>    
+      </Section>
+      
+      <Section antiphonePitch="2">          
+         <Title>
+            <Language id="English">The Seventh Hymn of Abou El-Saad of Aboutig</Language>
+            <Language id="Arabic">المديح السابع من قول أبو السعد الأبوتيجي</Language>
+         </Title>
+          
+         <Text>
+            <Language id="English">
+               You were called the Mother of God / no human tongue can utter trivialy / of the living Son of God’s mystery / who is your Son Immanuel.
+            </Language>
+            <Language id="Arabic">
+               دعيت أم الله وأي / لسان بشري ينطق بقليل / من أسرار إبن الله الحى / وهو إبنك عمانوئيل.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               You bore Him, while a virgin / that the prophets’ sayings may be fulfilled / For they did not speak anything / except that which is symbolic.
+            </Language>
+            <Language id="Arabic">
+               ولدته وأنت بتول لكي / يتم قول الأنبياء وما قيل / لأنهم لم يقولوا شئ / إلا وله معني وتأويل.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Immanuel whom you have born / without corrupt, in purity / He chose you above all His chosen / For your chosen and pure.
+            </Language>
+            <Language id="Arabic">
+               عمانوئيل الذي ولدته / من غير فساد بل بطهارة / وفضَّلك عن مختاريه / لأنك مصطفاه ومختاره.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               You were likened to heaven, His throne / how many are your symbols and signs / like the pot and manna hidden in it / the censor, ark and lampstand.
+            </Language>
+            <Language id="Arabic">
+               تشبهت بالسماء كرسيه / وكم لك من رمز وإشارة / كالقسط والمن مخفي فيه / شورية وتابوت ومنارة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               The prophets and wise men / realized that the Lord God will come to us / and abolish the evil plots / and save us from destruction.
+            </Language>
+            <Language id="Arabic">
+               أهل النبوة و الحكمة / علموا أن الرب الإله يأتينا / و يهلك مؤامرة الأثمة / و من الهلاك ينجينا.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/AbuSaadRefrain"/>
+      </Section>
+      
+      <Section antiphonePitch="2">
+         <Title>
+            <Language id="English">Seventh Hymn of Cantor Gabriel of Qay A</Language>
+            <Language id="Arabic">القطعة السابعة من نظم المعلم المعلم غبريال</Language>
+         </Title>
+          
+         <Text>
+            <Language id="English">
+               You were called a mother to her Creator / what tongue can utter of / your explanation and splendor / and your acceptance of the great mystery.
+            </Language>
+            <Language id="Arabic">
+               دعيت أما لمن أنشاكِ / وأى لسان يقدر يتكلم / بوصفك و شرف معناك / وقبولك للسر الأعظم.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               And your acceptance of the great mystery / He who sits above <span class="Coptic">piy~ronoc</span> / has chosen your goodness, O Mary / <span class="Coptic">kata pcaji m~pihumnodoc</span>.
+            </Language>
+            <Language id="Arabic">
+               وقبولك للسر الأعظم / الجالس فوق بيف اثرونوس / قد اختار حسنك يا مريم / كاتا إبصاجي إمبي هيمنوس.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               <span class="Coptic">kata pcaji m~pihumnodoc</span>. / <span class="Coptic">Dauid pouro m~piIcra/l</span> / prophecied about the birth of <span class="Coptic">I/couc</span> / As Gabriel announced to you.
+            </Language>
+            <Language id="Arabic">
+               كاتا إبصاجي إمبي هيمنوس / دافيد إب اُؤرو امبيسرائيل / تنبأ عن ميلاد إيسوس / كما بشرك جبرائيل.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               As Gabriel announced to you / <span class="Coptic">pinis] n~ar,/aggeloc</span> / Saying the great King shall come / <span class="Coptic">Ps/ri m~V] piLogoc</span>.
+            </Language>
+            <Language id="Arabic">
+               كما بشرك جبرائيل / بينيشتي إن أرشي انجيلوس / وقال سوف يأتي الملك المتعال / إبشيري إم افنوتي بي لوغوس.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               <span class="Coptic">Ps/ri m~V] piLogoc</span>. / Immanuel whom you have born / of your womb O first-born bride / you carried Him in your arms.
+            </Language>
+            <Language id="Arabic">
+               إبشيري إم افنوتي بي لوغوس / عمانوئيل الذي ولدته / من أحشاك يا بكر وعروس / وفوق ذراعيك حملته.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               You carried Him in your arms / you were likened to the cherubim / you raised him like a child / He nursed from you.
+            </Language>
+            <Language id="Arabic">
+               وفوق ذراعيك حملته / وتشبهت بالكاروبيم / وكمثل غلام قد ربيتيه / رضع ثدييك كالفطيم.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               He nursed from you / Whom heaven and earth can not contain / patient God, merciful Lord / humbled Himself and took a servant’s form.
+            </Language>
+            <Language id="Arabic">
+               رضع ثدييك كالفطيم / من لاتسعه السماء والارض / إله رؤوف ورب رحيم / تواضع وأخذ شكل العبد.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Humbled Himself and took a servant’s form / He completed the teachings of the Law / and was called the second Adam / He restored the first Adam to paradise.
+            </Language>
+            <Language id="Arabic">
+               تواضع و أخذ شكل العبد / وأكمل تعليم الناموس / وسمي آدم الثاني و رد / آدم الاول إلي الفردوس.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               He restored the first Adam to paradise / after he was cast out / you Son <span class="Coptic">P,#c</span> restored him / to his rank once again.
+            </Language>
+            <Language id="Arabic">
+               آدم الاول إلي الفردوس / من بعد أن كان مطروداً مدحوراَ / رده ابنك بي خريستوس / إلي رتبته دفعة أخري.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               To his rank once again / he was hailing with joy and rejoicing / delight, pleasure and happiness / hail to you O lamp of Light.
+            </Language>
+            <Language id="Arabic">
+               إلي رتبته دفعة أخري / وصار يتهني بفرح و سرور / وبهجة و نعيم و مسرة / السلام لك يا مصباح النور.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               Hail to you O lamp of Light / whom the Lord desired for / O balm for all wounded / Hail to you and hail unto you.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا مصباح النور / يا من اشتياق الرب إليك / يا مرهم لدوا المكسور / السلام لكِ ثم السلام عليك.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/GabrielARefrain"/>
+      </Section>
+      
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Hymn of Cantor Gabriel of Qay B
+            </Language>
+            <Language id="Arabic">
+               المديح السابع من قول المعلم غبريـال القايي ب
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               You are called the Mother of the holy God, O Mary the adornment of first-born, your womb carried the Holy One, our Master the mighty King.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله القدوس، يا مريم يا زين الأبكار، حَمَلتْ أحشائكِ بى آجيوس، سيدنا الملك الجبار.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               As our father David the righteous, chanted in the psalm, about the dwelling of my Lord Jesus, in your womb O purity of the pure ones.
+            </Language>
+            <Language id="Arabic">
+               كما رتَّل في إبصالموس، أبونا الأب داود البار، من أجل حلول باشويس إيسوس، في أحشائكِ يا طُهر الأطهار.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               The angel brought you the good news, about the chosen Birth, he said “You will carry the holy King, He will save Adam from the hot fire.
+            </Language>
+            <Language id="Arabic">
+               بشركِ بي أنجيلوس، من أجل الميلاد المختار، قال "سوف تلدين الملك القدوس، ويعتق آدم من حر النار.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               The Son of God the Logos, you will give birth to Him, He will be called Emmanuel Jesus, the Lord with us the mighty King.”
+            </Language>
+            <Language id="Arabic">
+               إبشيري إميفنوني بي لوغوس، سوف تلدينه من أحشائكِ إجهار، يسمى عمانوئيل إيسوس، إبشويس نيميه الملك الجبار."
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               All the ranks and orders, tremble from His light, the four incorporeal creatures, carrying His glorified throne with honor.
+            </Language>
+            <Language id="Arabic">
+               كل الطغمات وكل الطقوس، يرتعدون من نوره إجهار، بي إفتو إن ذوؤن إن آسوماتوس، حاملين كرسي مجده بوقار.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Mary the wise Virgin, carried in her womb the coal of fire, that He may loosen the chains of the world, and deliver us from the deceiver’s snare.
+            </Language>
+            <Language id="Arabic">
+               ماريا تي ساڤي إمبارثينوس، حملَتْ في أحشاءها جمر النار، ليحل وثاقات بي كوزموس، وينجينا من كيد المكار.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/GabrielBRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Hymn of Cantor Gabriel of Qay C
+            </Language>
+            <Language id="Arabic">
+               المديح السابع من قول المعلم غبريـال القايي ت
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               You are called O chaste Virgin, the Mother of the holy God of gods, and which tongue can speak of, the Economy of Christ.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ يا بكر وبتول، اُم إله الآلهة القدوس، وأيْ لسان ينطق ويقول، بقليل من تدبير بيخريستوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               As a Child carried in your womb, and also seated on His throne, and what understanding and mind can, comprehend this tangible Mystery.
+            </Language>
+            <Language id="Arabic">
+               كطفل جنين في أحشائكِ محمول، وجالس فوق بيف إثرونوس، وأيْ أفهام وأيْ عقول، تحوي هذا السر المحسوس.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Comprehend this tangible Mystery, He who sits on the Cherubim, was in the womb of the first-born girl and Bride, upon your hands with great glory.
+            </Language>
+            <Language id="Arabic">
+               تحوي هذا السر المحسوس، الجالس فوق الكاروبيم، في أحشاء فتاة بكر وعروس، على ذراعيكِ بمجد عظيم.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Come now O people of Jesus, let us bless the daughter of Joachim, proclaiming and saying, “Entreat for us O Mary.”
+            </Language>
+            <Language id="Arabic">
+               تعالوا بنا يا شعب إيسوس، نُطوِّب إبنة يواقيم، إن أوش إيڤول إنجو إمموس، جيرينا يا م ر ي م.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Entreat for us O Mary, the one God honored and giving, distinguished you with mercy, He chose you for the dwelling of the Word.
+            </Language>
+            <Language id="Arabic">
+               جيرينا يا م ر ي م، يا مَنْ خصكِ بالرحمة، إله واحد مُنعِم وكريم، وإختاركِ لحلول الكلمة.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Without your Son we would not see grace, He erased the darkness for us, and we proclaim with a strong voice, “Hail to you O Mother of mercy.”
+            </Language>
+            <Language id="Arabic">
+               لولا إبنكِ ما رأينا نعيم، ولا إنكشفت عنا الظلمة، ونحن نصيح بصوت عظيم، "السلام لكِ يا اُم الرحمة."
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/GabrielCRefrain"/>      
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Hymn of Pope Abba Markos VIII
+            </Language>
+            <Language id="Arabic">
+               المديح السابع من قول الأب البطريرك أنبا مرقس الثامن
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               You are called the Mother of God our Creator, O Mary the daughter of Zion, He was incarnate of you and He saved us, from the captivity of the Devil.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم الله خالِقنا، يا مريم إبنة صهيون، تجسد منكِ وعتقنا، من أسر الشيطان الأركون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Emmanuel dwelt with us, as a God knowing what will happen, you nursed Him O intercessor, with your milk like all humans.
+            </Language>
+            <Language id="Arabic">
+               عمانوئيل هو صار معنا، إلهاً عالماً بما سيكون، وأرضعتِيه يا شفيعتنا، من لبنِك مثل البشريون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               For He came and saved us, and acted like all humans, but He has never sinned, the heavenly King.
+            </Language>
+            <Language id="Arabic">
+               لأنه أتى ليخلصنا، وصنع أفعال البشريون، وليس كفعل الخطية، إبؤرو إن إبورانيون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He humbled Himself to teach us, to make us a nation and a family, in the Jordan with John He was baptized, and gave us the pledge.
+            </Language>
+            <Language id="Arabic">
+               تواضع كيْ يعلِّمنا، ويجعلنا شعباً وبنون، وفي الأردن من يوحنا، تعمد وأعطانا العربون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He willed to be crucified for us, to save him who was captive, and He took our nature, and was crucified on Golgotha.
+            </Language>
+            <Language id="Arabic">
+               وأراد أن يصلب عنا، ويخلِّص مَنْ كان مسجون، وأخذ شكل طبيعتنا، وصُلب عند الإقرانيون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He accepted the curse on His own, the Jews the disbelieving people, pierced Him in His side, and they mocked Him.
+            </Language>
+            <Language id="Arabic">
+               ومن شعبه قَبَل اللعنة، جنس اليهود الجاحدون، وجعلوا في جنبه الطعنة، وهم به يستهزئون.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               He gave up His spirit, He descended to save Adam the prisoner, and now He is with us, He revives us and we are joyful.
+            </Language>
+            <Language id="Arabic">
+               وأسلم روحه سيدنا، ونزل خلَّص آدم المسجون، وهو الآن كائن معنا، أحيانا وبه صرنا فرحون.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/PopeMarkosRefrain"/>    
+      </Section>     
+       
+      <Section>      
+         <Title>
+            <Language id="English">
+               The Seventh Hymn of El-Bardanohee
+            </Language>
+            <Language id="Arabic">
+               المديح السابع من قول البردنوهي
+            </Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               You are called the Mother of the able God, the only King of glory, you gave birth to Him while a virgin, and the seal remained true and shut.
+            </Language>
+            <Language id="Arabic">
+               دُعيتِ اُم إله القدرة، ملك المجد الوحداني، ولدتِه وأنتِ بتول عذراء، وبقى الختم صحيحاً منصانِ.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Emmanuel gave you victory, and appeared from your womb with flesh, as fire flaming in a tree, with green leaves on branches.
+            </Language>
+            <Language id="Arabic">
+               عمانوئيل أعطاكِ النصرة، وظهر من أحشائكِ جسداني، كنار تتوقد في شجرة، والورق أخضر في الأغصانِ.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Through your Son we gained joy and delight, and we returned to Paradise, you defeated the legions of the disobedient, our enemies the Devil’s followers.
+            </Language>
+            <Language id="Arabic">
+               بإبنكِ نُلنا فرحاً ومسرة، وعُدنا إلى الفردوس من ثاني، وهزمتِ جيوش الكفرة، أعدائنا جنس الشيطاني.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               And He brought him to captivity, in the lowest places of fire, in them are many sufferings, and He saved the human race.
+            </Language>
+            <Language id="Arabic">
+               ورماه مسجوناً في حفرة، مطروحاً في قاع النيرانِ، فيه أصناف عذابات مُرَّة، وعتق جنس الإنسانِ.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               After everyone was captive, and humiliated with sorrows, with them Adam was sad, He saved him and returned happy.
+            </Language>
+            <Language id="Arabic">
+               بعد أن كان الجميع أسرى، مذلولين بالأحزانِ، وآدم في ضيق وحسرة، خلَّصَه وعاد فرحانِ.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               For he disobeyed and ate the fruit, and was naked and not covered, he was cast out of Paradise, to the earth of misery and he became weary.
+            </Language>
+            <Language id="Arabic">
+               لأنه خالف وأكل الثمرة، عدِمَ السترة وصار عريانِ، وخرج مطروداً خارج الجنة، لأرض الشقاء صار تعبانِ.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               And your Son restored him once again, he was returned and became happy, and gained victory over his enemies, through you O pride of the world.
+            </Language>
+            <Language id="Arabic">
+               وإبنكِ أعاده ثاني مرة، ورجع متهللاً فرحان، ونال على أعدائه النصرة، بكِ يا فخر الأكوانِ.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/praises/koiahk/BardanoheeRefrain"/>    
+      </Section>
+   </Season>
+</Document>

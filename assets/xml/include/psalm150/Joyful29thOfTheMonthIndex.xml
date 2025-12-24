@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>     
+         <Language id="English">Psalm 150</Language>
+         <Language id="Arabic">المزمور 150</Language>         
+      </Title>
+      
+      <InsertDocument path="include/psalm150/AnnunciationContents"/>
+      <InsertDocument path="include/psalm150/NativityContents"/>
+      <InsertDocument path="include/psalm150/ResurrectionContents"/>
+   </Section>   
+</Document>

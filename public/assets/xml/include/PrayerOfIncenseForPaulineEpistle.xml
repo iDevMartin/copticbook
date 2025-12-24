@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Title>
+         <Language id="English">The Prayer of Incense For the Pauline Epistle</Language>
+         <Language id="Arabic">اوشية بخور البولس</Language>
+      </Title>
+      
+      <Role id="Priest" silent="true">
+         <Group>
+            <Season id="!Baptism ^ !Unction ^ !FirstProstration ^ !SecondProstration ^ !LiturgyOfTheWaters">
+               <Comment>
+                  <Language id="English">         
+                     At the conclusion of this prayer, all rise, the priests kiss each other, and the serving priest makes a prostration before the door of the sanctuary toward the East before going up to the altar and kissing it. Then the deacon gives the censer to the priest, who faces eastward and offers the incense of the prayer of the Pauline Epistle. He makes the sign of the cross on the incense box three times, putting five spoonfuls of incense into the censer, and then he says, “Let us pray” (<span class="Coptic">S~l/l</span>) and “Peace be with all” (<span class="Coptic">Ir/n/ paci</span>). Then he says the Prayer of Incense of the Pauline Epistle to the Father.
+                  </Language>
+                  <Language id="Arabic">         
+                     ثم ينهض الجميع قائمين ويقبِّل الكهنة بعضهم. ويسجد الكاهن الخديم قدام باب الهيكل إلى الشرقِ ويصعد إلى المذبح ويقبِّله. ويناوله الشماس المجمرة ويتجه الكاهن إلى الشرقِ ويرفع بخور البولس ويرشم درج البخور ثلاثة رشوم ويضع خمس أيادي بخور في المجمرة ويقول <span class="Coptic">S~l/l</span>  وأيضاً <span class="Coptic">Ir/n/ paci</span>  ثم يقول أوشية بخور البولس للآب وهي هذه:
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+                  
+         <Text>
+            <Language id="Coptic">
+               Vnou] pinis] pisae~neh: piatar,/ ouoh piatjwk: pinis] qen pefco[ni ouoh pijwri qen nefh~b/oui~: v/etqen mai niben ouoh etsop nem ouon niben.
+            </Language>
+            <Language id="English">
+               O God, the Great, the Eternal, without beginning and without end, great in His counsel and mighty in His works, who is in all places and dwells with everyone,
+            </Language>
+            <Language id="Arabic">
+               يا اللهُ العظيمُ الأبدي الذي بلا بداية ولا نهاية، العَظِيمُ في مشورتِهِ والقويُّ في أفعالِهِ، الذي هو في كلِّ مكانٍ، وكائنٌ مع كلِّ احد.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Swpi neman hwn penn/b qen taiounou yai: ouoh o~hi e~ratk qen tenm/] t/rou.
+            </Language>
+            <Language id="English">
+               be with us also, O our Master, in this hour, and stand in the midst of us all.
+            </Language>
+            <Language id="Arabic">
+               كن معنا نحنُ أيضاً ياسيدَنا في هذه الساعةِ، وقِفْ في وسطِنا كلِّنا.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matoubo n~nenh/t: ouoh a~ria~giazin n~nen'u,/: a~rikayarizin m~mon e~bolha nobi niben: e~tanaitou qen penouws: nem penouws an: ouoh m/ic nan e~erp~rocverin m~pekm~yo n~hansouswousi n~logikon: nem hanyucia n~c~mou.
+            </Language>
+            <Language id="English">
+               Purify our hearts and sanctify our souls. Cleanse us from all sins which we have committed willingly and unwillingly, and grant to us to offer before You rational sacrifices and sacrifices of blessing—
+            </Language>
+            <Language id="Arabic">
+               طهِّرْ قلوبَنا، وقدِّسْ نفوسَنا، ونقنا من كلِّ الخطايا التي صنعناها بإرادتِنا وبغير إرادتِنا. وامنحنا أن نقدمَ أَمامَكَ ذبائحَ ناطقةً وصعائدَ بركةٍ.
+            </Language>         
+         </Text>
+      </Role>  
+      
+      <Role id="Deacon" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Proceuxacye u~per toutwn ke yuciwn /~mwn ke p~rocverontwn. Kurie e~le/~con.
+            </Language>
+            <Language id="English">
+               Pray for our sacrifices, and those who bring them. Lord have mercy.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل ضحايانا والذين قدموها. يارب ارحم
+            </Language>         
+         </Text>   
+      </Role>  
+      
+      <Role id="Priest" silent="true">
+         <Text>
+            <Language id="Coptic">
+               Nem ouc~yoinoufi m~p~neumatikon: efn/ou caqoun m~pikatapetacma: qen pima eyouab n~te n/eyouab n~tak.
+            </Language>
+            <Language id="English">
+               and a spiritual incense entering within the veil in the holy place of Your Holies.
+            </Language>
+            <Language id="Arabic">
+               وبخوراً روحياً يدخل إلى الحجابِ، في موضعِ قدسِ أقداسِك.
+            </Language>         
+         </Text>
+      </Role>  
+      
+      <Group>
+         <Season id="Baptism">
+            <Comment>
+               <Language id="English">         
+                  The priest recites the Prayer of the Pauline Epistle.
+               </Language>
+               <Language id="Arabic">         
+                  يقول الكاهن سر البولس
+               </Language>
+            </Comment>
+               
+            <Text>
+               <Language id="Coptic">
+                  P[oic n~te ]g~nwcic: ouoh pirefcahni n~te ]covia: v/et[wrp n~n/ets/k e~bolqen p~,aki: ouoh et] n~oucaji n~n/ethisennoufi qen ounis] n~jom.
+               </Language>
+               <Language id="English">
+                  O God of knowledge, giver of wisdom, who bring to light the hidden things of darkness, and give the word to those who preach the Gospel with great power;
+               </Language>
+               <Language id="Arabic">
+                  ياربُ المعرفةِ ورازقَ الحكمةِ، الذي يكشفُ الأعْماقَ من الظلمةِ، والمعطي كلمةً للمبشرين بقوةٍ عظيمة.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  V/e~te e~bolhiten tekmet,~r/ctoc akmou] e~Pauloc: vai e~nafoi n~diwkt/c n~ouc/ou: je c~keuoc n~cwtp.
+               </Language>
+               <Language id="English">
+                  who of Your goodness has called upon Paul, who was for some time a persecutor, to be a chosen vessel;
+               </Language>
+               <Language id="Arabic">
+                  الذي من قِبَل صلاحِكَ دعوتَ بولس، هذا الذي كان طارداً زماناً، إناءً مختاراً.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh qen vai ak]ma] eyrefswpi n~oua~poctoloc: efyahem ouoh n~refhiwis m~pieuaggelion n~te tekmetouro: Pi,~rictoc Pennou].
+               </Language>
+               <Language id="English">
+                  and were pleased in him that he should become a chosen apostle and preacher of the Gospel of Your kingdom, O Christ our God.
+               </Language>
+               <Language id="Arabic">
+                  وبِهذا سُررتَ أن يكون رسولاً مدعواً وكارزاً بأنجيلِ ملكوتِكَ، أيها المسيح إلهنا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nyok on ]nou pia~gayoc ouoh m~mairwmi: ten]ho e~rok a~ri,arizecye nan nem peklaoc t/rf: n~ounouc n~at[ih~raf nem ouka] eftoub/out: e~p~jintene~mi ouoh n~tenka]: je oute ]w~velia n~te nekc~bwoui~ eyouab: e~tauo~sou e~ron ]nou e~bolhitotf.
+               </Language>
+               <Language id="English">
+                  You also now, O Good One and Lover of Mankind, we ask You, grant us and all Your people a mind free from wandering and a clear understanding that we may learn and understand how profitable are Your holy teachings which are now read to us through him.
+               </Language>
+               <Language id="Arabic">
+                  أنت الآن أيضاً أيها الصالح محبُ البشرِ، نسألُكَ أنعم لنا ولشعبِّك كُلِه بعقلٍ غير منشغلٍ وفهمٍ نقيٍ، لكي نعلمَ ونفهمَ ما هي منفعة تعاليمِّك المقدسة التي قُرئت علينا الآن من قبِلِّه.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh m~v~r/] e~tafi~ni m~mok: n~yok p~ar,/goc n~te p~wnq: pair/] a~non hwn a~riten n~emp~sa eyrenswpi eno~ni m~mof: qen p~hwb nem v~nah] en]w~ou m~pekran eyouab: ouoh ensousou m~mon qen pekc~tauroc n~c/ou niben.
+               </Language>
+               <Language id="English">
+                  And as he followed Your example, O You, Author of life, so make us also worthy to be like him in deed and in faith that we may glorify Your holy name and ever glory in Your Cross.
+               </Language>
+               <Language id="Arabic">
+                  وكما تشَّبهَ بِّكَ أنتَ يا رئيسَ الحياةِ، هكذا نحنُ أيضاً اجعَلَنَا مستحقينَ أن نكونَ متشبهين به في العملِ والإيمانِ، ممجدينَ اسمَك القدوسَ، ومفتخرين بصليبِك كلَّ حينٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yok petenouwrp nak e~p~swi: m~piw~ou nem pitaio~ nem ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak: ]nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+               </Language>
+               <Language id="English">
+                  And unto You we send up glory, honor, and worship with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You, now and at all times and unto the age of all ages. Amen.
+               </Language>
+               <Language id="Arabic">
+                  وأنت الذي نرسلُ لكَّ إلى فوق المجدَ والأكرامَ والسجودَ، مع أبيكَ الصالح والروح القدس، المحيي المساوي لكَ الآن وكل أوان وإلى دهر الدهور كلها. آمين.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="include/SilentPriestProcession"/>
+      
+            <Role id="Priest" silent="true">
+               <Text>
+                  <Language id="Coptic">
+                     Cmou m~Pauloc pia~poctoloc n~te I/couc Pi,rictoc: e~re pefc~mou eyouab swpi neman: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     A blessing of Paul, the apostle of Jesus Christ. May his holy blessing be with us. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     بركةُ بولسَ رسولِ يسوعَ المسيحِ، بركتُهُ المقدسةُ تكون معنا. آمين.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">         
+                     The priest returns to the sanctuary and recites the Prayer of Confession of the People inaudibly.
+                  </Language>
+                  <Language id="Arabic">         
+                     ويعود إلى الهيكل ويقول سر اعتراف الشعب سراً وهو:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Vnou] v/etafswp e~rof n~]o~mologia n~te piconi hijen pic~tauroc ettai/out.Swp e~rok n~]o~mologia n~te peklaoc: ouoh ,w nwou n~nounobi t/rou e~bol: eybe pekran eyouab e~taumou] m~mof e~h~r/i e~jwn: kata to e~leoc cou Kurie~: ke m/ kata tac a~martiac /~mwn.
+                  </Language>
+                  <Language id="English">
+                     O God, who received the confession of the thief upon the honorable Cross, accept the confession of Your people and forgive them all their sins for the sake of Your holy name which is called upon us. According to Your mercy, O Lord, and not according to our sins.
+                  </Language>
+                  <Language id="Arabic">
+                     يا اللهُ الذي قَبِلَ إليه اعترافَ اللصِ على الصليبِ المكرم. اقبَل إليك اعترافَ شعبِكَ، واغفر لهم جميعَ خطاياهم، من أجل اسمِك القدوسِ الذي دُعِيَ علينا. كرحمتِك ياربُّ وليس كخطايانا.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">         
+                     The priest encircles the altar once, comes down from the sanctuary, and offers incense a second time before the door of the sanctuary. Then he censes the Pope or metropolitan/bishop, if either is present.
+                  </Language>
+                  <Language id="Arabic">         
+                     ثم يدور حول المذبح دورة واحدة وينزل من الهيكل ويبخر ثانية أمام بابه ويعطي البخور للكهنة فقط أو للأب البابا أو المطران أو الأسقف إن كان حاضراً.
+                  </Language>
+               </Comment>
+            </Role>   
+         </Season>
+      </Group>
+   </Section>
+</Document>

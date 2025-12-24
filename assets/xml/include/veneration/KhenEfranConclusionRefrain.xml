@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         For archangels:       
+      </Language>
+   </Comment> 
+   
+   <Text>
+      <Language id="Coptic">
+         Maria ]paryenoc: nem piaggeloc eutai/out (...)
+      </Language>
+      <Language id="English">
+         Virgin Mary,  and the: Honorable Angel (...)  
+      </Language>
+      <Language id="Arabic">
+         مريم العذراء. الملاك الجليل (...)
+      </Language>         
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         For martyrs:       
+      </Language>
+   </Comment> 
+   
+   <Text>
+      <Language id="Coptic">
+         Pia~ylovoroc m~marturoc (...)
+      </Language>
+      <Language id="English">
+         Struggle bearing martyr (...)   
+      </Language>
+      <Language id="Arabic">
+         والشهيد المجاهد (...)  
+      </Language>         
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         For saints:       
+      </Language>
+   </Comment> 
+   
+   <Text>
+      <Language id="Coptic">
+         Pinis] eyouab (...)
+      </Language>
+      <Language id="English">
+         Great Saint (...)   
+      </Language>
+      <Language id="Arabic">
+         القديس العظيم (...)  
+      </Language>         
+   </Text>
+</Document>

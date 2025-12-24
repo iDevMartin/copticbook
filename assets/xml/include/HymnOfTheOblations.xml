@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            If there is sufficient time, the congregation chants the Hymn <span class="Coptic">All/louia</span> of the oblations, while the priest prays inaudibly and remembers those who asked him to remember them. This may be done on all standard and feast days, except Wednesdays and Fridays and fasting days where the hymn of <span class="Coptic">Apinau swpi</span> is chanted instead
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Group>
+      <Season id="((Weekdays ^ Fasts) | GreatFast) ^ !Feasts">
+         <Section>
+            <Title>               
+               <Language id="Coptic">A pinau swpi</Language>
+            </Title>
+            
+            <Role id="People">            
+               <Text>
+                  <Language id="Coptic">
+                     A pinau swpi ,a pim/s e~bol: mare nicaq viri e~bol: mare nicovoc ywou] saron: euerm/neuin qen nig~rav/ eyouab.
+                  </Language>
+                  <Language id="English">
+                     The time has come, dismiss the multitude, let teachers explain, let all wise-men gather unto us to explain the Holy Books.
+                  </Language>
+                  <Language id="Arabic">
+                     قد حان الوقت ، أطلق الجميع. فليفسر المعلمون فليجتمع العلماء الينا مفسرين في الكتب المقدسة.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~]t~riac eyouab: Viwt nem Ps/ri nem Pip~neuma eyouab.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the Holy Trinity, the Father, the Son and the Holy Spirit.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة الثالوث القدوس، الآب والابن والروح القدس.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~]yeo~tokoc Maria y~mau n~I/couc Pi,~rictoc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the Mother of God Mary the mother of Jesus Christ.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة والدة الإله مريم، أم يسوع المسيح.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te piar,iaggeloc eyouab: Mi,a/l nem Gabri/l.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the Holy Archangel Michael and Gabriel.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة رئيس الملائكة ميخائيل وغبريال.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te nictratia n~aggelikon: nem nitagma n~e~pouranion.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the angelic ranks and the heavenly hosts.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة الملائكة والطغمات السمائية.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~na[oic n~io] n~a~poctoloc: nem p~cepi n~te nimay/t/c.
+                  </Language>
+                  <Language id="English">
+                     The blessing of my masters my fathers the apostles and the rest of the disciples.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة سادتي الأباء الرسل وبقية التلاميذ.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te piyew~rimoc n~euaggelict/c: Markoc pia~poctoloc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the Beholder of the God, the Evangelist, Mark, the apostle.
+                  </Language>
+                  <Language id="Arabic">
+                     و بركة ناظر الإله الإنجيلي مرقس الرسول.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te piaylovoroc m~marturoc: pa[oic p~ouro Gewrgioc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the victorious martyr, my master Prince George.
+                  </Language>
+                  <Language id="Arabic">
+                     وبركة اللابس الجهاد سيدي الملك جورجيوس.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te niaylovoroc m~marturoc: piouai piouai kata pefran.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the victorious martyrs, each one, each one by his name.
+                  </Language>
+                  <Language id="Arabic">
+                     وبركة الشهداء كل واحد واحد باسمه.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te peniwt n~dikeoc: pinis] abba Antwnioc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of our righteous father, the great Abba Antony.
+                  </Language>
+                  <Language id="Arabic">
+                     وبركة أبينا العظيم الأنبا أنطونيوس.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te p~,oroc n~te nic~taurovoroc: nem niy~m/i nem nidikeoc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the chorus of the cross-bearers, the upright and righteous..
+                  </Language>
+                  <Language id="Arabic">
+                      وبركة كل صفوف لباس الصليب.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te peniwt eyouab m~patriar,/c: abba (nim) piar,ie~reuc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of our holy patriarch, Abba (…), the archpriest.
+                  </Language>
+                  <Language id="Arabic">
+                     وبركة أبينا القديس البطريرك الأنبا (...) رئيس الكهنة.
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ere pic~mou n~te peniwt eyouab  n~dikeoc abba (nim) pie~pickopoc.
+                  </Language>
+                  <Language id="English">
+                     The blessing of our holy and righteous father, Abba (…) the bishop.
+                  </Language>
+                  <Language id="Arabic">
+                     وبركة أبينا القديس البطريرك أنبا)…( الاسقف
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Efe~i~ e~h~r/i e~jen pailaoc t/rf euoujai qen P[oic je a~m/n ece~swpi.
+                  </Language>
+                  <Language id="English">
+                     Shall come upon this entire congregation for salvation by the Lord. Amen. So be it.
+                  </Language>
+                  <Language id="Arabic">
+                     تحل علي جميع الشعب. أمين.
+                  </Language>
+               </Text>
+            </Role>
+         </Section>
+      </Season>
+   
+      <Season id="Other">
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  All/louia...
+               </Language>
+               <Language id="English">
+                  Alleluia...
+               </Language>
+               <Language id="Arabic">
+                  هلليلويا...
+               </Language>
+            </Text>         
+         </Role>
+      </Season>
+   </Group>
+</Document>

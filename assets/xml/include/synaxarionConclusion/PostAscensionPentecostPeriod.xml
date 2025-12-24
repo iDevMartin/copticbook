@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Role id="People">                  
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Afrek t~ve</span> is chanted after the reading of the Praxis and is to replace the Hymn of the Resurrection, <span class="Coptic">Kata Ni,oroc</span> and All you Heavenly Hosts:
+            </Language>
+         </Comment>
+            
+         <InsertDocument path="include/AfrekEtve"/>
+         
+         <Group>
+            <Season id="Ascension | Sundays">
+               <Comment>
+                  <Language id="English">
+                     A procession is done around the church three times venerating the icons of the Lord’s Resurrection and the Lord’s Ascension while chanting the hymn <span class="Coptic">&lt;~rictoc Anect/</span>, followed by the Greek hymn for the Ascension, <span class="Coptic">&lt;~rictoc analum'ic</span>:
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/CommonHymnsOfResurrection"/>
+               
+               <Comment>
+                  <Language id="English">
+                     At the end of the procession the Coptic hymn for the ascension is chanted:
+                  </Language>
+               </Comment>
+               
+               <Section expanded="true">            
+                  <Title>
+                     <Language id="English">Coptic Hymn for the Ascension</Language>
+                     <Language id="Coptic">Pi,~rictoc aftwnf...</Language>
+                  </Title>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pi,~rictoc aftwnf e~bolqen n/eymwout: ouoh afsenaf e~p~swi e~ niv/oui~: afhemci caouinam m~Pefiwt qen n/et[oci: aferh~mot nan m~piwnq n~eneh.
+                     </Language>
+                     <Language id="English">
+                        Christ is risen from the dead and  has ascended into the heavens, and is seated at the right hand of His Father in the highest, bestowing upon us everlasting life.
+                     </Language>
+                     <Language id="Arabic">
+                        المسيح قام من الأموات وصعد إلي السموات، وجلس عن يمين أبيه في الأعالي وانعم لنا بالحياة الأبدية.
+                     </Language>         
+                  </Text>               
+               </Section>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     Note that the Sunday after the Ascension is a Commemoration of the Resurrection, and so the procession is done only on Sunday, not all the ten days between Ascension and Pentecost.
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/ProcessionOfTheResurrection_SilentPrayer"/>
+         
+         <Section expanded="true">            
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Pa[oic</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  From the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pa[oic I/couc Pi,~rictoc: v/e~taftwnf e~bolqen n/eymwout:  afsenaf e~p~swi eniv/oui: afhemci caouinam m~pefiwt
+               </Language>
+               <Language id="English">
+                  My Lord Jesus Christ, is risen from the dead, ascended into the heavens, and is seated at the right hand of His Father.
+               </Language>
+               <Language id="Arabic">
+                  ياربي يسوع المسيح الذي قام من بين الأموات وصعد الي السموات وجلس عن يمين أبيه. 
+               </Language>         
+            </Text>
+            
+            <InsertDocument path="include/NiSherobim"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Euws e~bol eujw m~moc: je &lt;~ouab ouoh &lt;~ouab &lt;~ouab P[oic n~nie~w~n &lt;~rictouc Anect/ eknekrwn
+               </Language>
+               <Language id="English">
+                  cry out, saying, “Holy, holy, holy, Lord of the ages, Christ is risen from the dead.”
+               </Language>
+               <Language id="Arabic">
+                  صارخين قائلين قدوس قدوس قدوس زب الدهور المسيح قام من الاموات.
+               </Language>         
+            </Text>            
+         </Section>
+      </Role>
+   </Season>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <Text>
+         <Language id="Coptic">
+            Oua~nagnwcic e~bolqen pieuaggelion eyouab kata Markon a~giou.
+         </Language>
+         <Language id="English">
+            A reading according to Saint Mark. May his blessings be with us. Amen.
+         </Language>
+         <Language id="Arabic">
+            فصل من إنجيل معلمنا مار مرقس البشير بركآتٍه علينا آمين.
+         </Language>
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         At the second signing, he says:         
+      </Language>
+      <Language id="Arabic">
+         ويرشم الرشم الثاني وهو يقول:         
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         F~c~marwout n~je Pefmonogen/c n~S/ri I/couc Pi,~rictoc Pen[oic. 
+      </Language>
+      <Language id="English">
+         Blessed be His only-begotten Son, Jesus Christ our Lord.. 
+      </Language>
+      <Language id="Arabic">
+         مبارك إبنه الوحيد يسوع المسيح ربنا.
+      </Language>
+   </Text>      
+</Document>

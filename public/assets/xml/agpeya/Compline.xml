@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The Twelfth Hour (Compline)</Language>
+      <Language id="Arabic">صلاة النوم</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         6:00 PM: To commemorate the laying down of our Lord Jesus Christ in the tomb.
+      </Language>
+      <Language id="Arabic">
+         رُتبت بمناسبة دفن سيدنا في القبر وإنتهاء نهار اليوم. نطلب فيها خلاصاً من الدينونة الرهيبة.
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+         
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The blessed prayer of retiring, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة النوم من هذا اليوم المبارك أقدمها للمسيح ملكي والهي وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 129</li>
+            <li>Psalm 140</li>
+            <li>Psalm 147</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/129"/>
+   <InsertDocument path="include/agpeya/psalms/130"/>
+   <InsertDocument path="include/agpeya/psalms/131"/>
+   <InsertDocument path="include/agpeya/psalms/132"/>
+   <InsertDocument path="include/agpeya/psalms/133"/>
+   <InsertDocument path="include/agpeya/psalms/136"/>
+   <InsertDocument path="include/agpeya/psalms/137"/>
+   <InsertDocument path="include/agpeya/psalms/140"/>
+   <InsertDocument path="include/agpeya/psalms/141"/>
+   <InsertDocument path="include/agpeya/psalms/145"/>
+   <InsertDocument path="include/agpeya/psalms/146"/>
+   <InsertDocument path="include/agpeya/psalms/147"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">  
+         <Title>
+            <Language id="English">
+               Gospel (Luke 2:25-32)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا لوقا ص 2: 25-32
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               And behold, there was a man in Jerusalem, whose name was Simeon; and this man was just and devout, waiting for the consolation of Israel; and the Holy Spirit was upon him. And it had been revealed to him by the Holy Spirit that he would not see death before he had seen Christ the Lord. So he came by the Spirit into the temple. And when the parents brought in the Child Jesus, to do for Him according to the custom of the law, he took Him up in his arms and blessed God, and said, “Lord, now You are letting Your servant depart in peace, according to Your word; for my eyes have seen Your salvation, which You have prepared before the face of all peoples, a light for the revelation to the Gentiles, and the glory of Your people Israel.”
+            </Language>
+            <Language id="Arabic">
+               وإذا إنسان كان بأورشليم اسمه سمعان، وهذا الإنسان كان بارا تقيا متوقعا تعزية إسرائيل، والروح القدس كان عليه. وكان قد أعلم بوحي من الروح القدس أنه لا يرى الموت قبل أن يعاين المسيح الرب. فأقبل بالروح إلى الهيكل. ولما دخل بالطفل يسوع أبواه ليصنعا عنه كما يجب في الناموس، حمله سمعان على ذراعيه وبارك الله قائلا: الآن يا سيدي تطلق عبدك بسلام حسب قولك، لأن عيني قد أبصرتا خلاصك الذي أعددته قدام جميع الشعوب. نورا تجلى للأمم، ومجدا لشعبك إسرائيل.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. Behold, I am about to stand before the Just Judge terrified and trembling because of my many sins. For a life spent in pleasures deserves condemnation. But repent, O my soul, so long as you dwell on this earth, for inside the grave, dust does not praise. And in death, no one remembers, neither in Hades, does anyone give thanks. Therefore arise from the slumber of laziness, and entreat the Savior, repenting and saying, “God, have mercy on me and save me.”
+            </Language>
+            <Language id="Arabic">
+               1. هوذا أنا عتيد أن أقف أمام الديان العادل، مرعوبا ومرتعبا من كثرة ذنوبي، لأن العمر المنقضي في الملاهي يستوجب الدينونة. لكن توبي يا نفسي مادمتِ في الأرض ساكنة، لأن التراب في القبر لا يسبح. وليس في الموتى من يذكر، ولا في الجحيم من يشكر. بل انهضي من رقاد الكسل وتضرعي إلى المخلص بالتوبة قائلة: اللهم ارحمني وخلصني
+            </Language>
+         </Text>
+      </Role>
+                
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+          
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. If life were everlasting, and this world ever-existing, you would have an excuse, O my soul. But if your wicked deeds and ugly evils were exposed before the Just Judge, what answer would you give while you are lying on the bed of sins, negligent in disciplining the flesh!? O Christ our God, before Your awesome seat of judgement I am terrified, and before Your council of judgement I submit, and from the Light of Your divine radiance I tremble, I, the wretched and defiled, who lies on my bed, negligent in my life. But I take example of the Publican, beating my chest and saying, “O God, forgive me and have mercy on me, a sinner.”
+            </Language>
+            <Language id="Arabic">
+               2. لو كان العمر ثابتا وهذا العالم مؤبدا، لكان لك يا نفسي حجة واضحة، لكن إذا انكشفت أفعالك الرديئة وشرورك القبيحة أمام الديان العادل، فأيَّ جواب تجيبين وأنت على سرير الخطايا منطرحة، وفى إخضاع الجسد متهاونة؟ أيها المسيح إلهنا لكرسي حكمك المرهوب أفزع، ولمجلس دينونتك أخشع، ولنور شعاع لاهوتك أجزع، أنا الشقي المتدنس، الراقد على فراشي المتهاون في حياتي. لكنى أتخذ صورة العشار قارعا صدري، قائلا: اللهم اغفر لي فإني خاطى.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+            
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. O Holy Virgin, overshadow your servant with your instant help, and keep the waves of evil thoughts away from me, and raise up my ailing soul for prayer and vigil, for it has gone into a deep sleep. For you are a capable, compassionate and helpful mother, the bearer of the Fountain of Life, my King and my God, Jesus Christ, my hope.
+            </Language>
+            <Language id="Arabic">
+               3. أيتها العذراء الطاهرة أسبلي ظلك السريع المعونة على عبدك. وأبعدي أمواج الأفكار الرديئة عنى. وأنهضي نفسي المريضة للصلاة والسهر، لأنها استغرقت في سُبات عميق. فإنك أم قادرة رحيمة معينة، والدة ينبوع الحياة، ملكي والهي، يسوع المسيح رجائي.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/GraciouslyAccord"/>
+   <InsertDocument path="include/agpeya/Trisagion"/>
+   <InsertDocument path="include/agpeya/HailToYou"/>
+   <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+   <InsertDocument path="include/Creed"/>
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+      
+   <Section expanded="true">   
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            Lord, all our sins which we committed against You in this day, whether in deeds or in words or in thoughts or through all senses, please remit and forgive us, for the sake of Your holy name, as You are Good and Lover of Mankind. God, grant us a peaceful night and a sleep free from all anxiety. And send us an angel of peace to protect us from every evil, and every affliction, and every temptation of the enemy; through the grace, compassion and love of mankind of Your Only-Begotten Son, our Lord, God and Savior Jesus Christ, to Whom is due, with You and with the Holy Spirit, the Life-Giver Who is of one essence with You, all glory, honor and dominion, now and forever and unto the ages of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            يا رب جميع ما أخطأنا به إليك في هذا اليوم، إن كان بالفعل أو بالقول أو بالفكر أو بجميع الحواس، فاصفح واغفر لنا من أجل اسمك القدوس، كصالح ومحب للبشر. وأنعم علينا اللهم بليلة سالمة، وبهذا النوم طاهرا من كل قلق. وأرسل لنا ملاك السلامة ليحرسنا من كل شر، ومن كل ضربة، ومن كل تجربة العدو. بالنعمة والرأفات ومحبة البشر اللواتي لابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح.هذا الذي من قبله يليق بك معه المجد والإكرام والعزة. مع الروح القدس المحيي المساوي لك، الآن وكل أوان وإلى دهر الدهور. آمين.
+         </Language>
+      </Text>
+   </Section>
+         
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

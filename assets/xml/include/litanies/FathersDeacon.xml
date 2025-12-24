@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per tou ar,i erewc /~mwn papa abba (nim): papa ke patriar,ou ke ar,ie~pickopou t/c megalou polewc Alexandriac: ke twn adelvwn autou en t/ apoctolik/ litourgia:  Mar Ignayiou (nim) tou patriar,ou t/c Antio,iac: ke Apouna (nim) tou patriar,ou t/c Eritreac.
+         </Language>
+         <Language id="English">
+            Pray for our archpriest, Papa Abba (…), Pope and Patriarch and archbishop of the great city of Alexandria; And his partners in the liturgy, the  Patriarch of Antioch, Mar Ignatius (…), and the Patriarch of Eritrea, Abouna (…),
+         </Language>
+         <Language id="Arabic">
+            صلوا من أجل رئيس كهنتنا البابا أنبا(...) بابا وبطريرك ورئيس أساقفة المدينة العظمى الاسكندرية وأخويه الروحيين في الخدمة الرسولية (...) بطريرك أنطاكيه و (...) بطريرك أرتيريا (...)
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            If a metropolitan or a bishop is present, he adds:
+         </Language>
+         <Language id="Arabic">
+            وفي وجود مطران أو أسقف يضاف:
+         </Language>      
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            ke tou cunkoinwnou en t/ litourgia tou patroc /~mwn tou e~pickopou (m/tropolitou) abba (nim)...
+         </Language>
+         <Language id="English">
+            and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (…)...
+         </Language>
+         <Language id="Arabic">
+            وشريكه في الخدمة الرسولية أبينا الأسقف(المطران) المكرم الأنبا (...)
+         </Language>         
+      </Text>
+   
+      <Comment>
+         <Language id="English">
+            Then he concludes:
+         </Language>
+         <Language id="Arabic">
+            ثم يختم:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            ke twn oryodoxwn /~mwn e~pickopwn.
+         </Language>
+         <Language id="English">
+            and for our orthodox bishops. 
+         </Language>
+         <Language id="Arabic">
+            وسائر أساقفتنا ألأرثوذكسيين
+         </Language>         
+      </Text>
+   </Role>  
+</Document>

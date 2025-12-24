@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Oblations</Language>
+         <Language id="Arabic">أوشية القرابين</Language>         
+      </Title>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               While pointing to the oblations set before him, the priest says:
+            </Language>
+            <Language id="Arabic">
+               يقول الكاهن ويشير إلى القرابين الموضوعة أمامه:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/litanies/OblationsShortPriest"/>         
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               P~roceuxacye u~per twn a~giwn timiwn dwron toutwn ke yuciwn /~mwn ke p~rocverontwn.
+            </Language>
+            <Language id="English">
+               Pray for these holy precious gifts, our sacrifices, and those who bring them.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل هذه القرابين المقدسة الكريمة، وضحايانا، والذين قدموها
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Nativity ^ Matins">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for Matins of the Nativity               
+            </Language>
+            <Language id="Arabic">
+               باكر عيد الميلاد المجيد               
+            </Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Chanted after The Doxologies of the Nativity
+            </Language>
+            <Language id="Arabic">
+               تقال بعد ذوكصولوجيات الميلاد
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="melodies/include/MatinsNativity_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               First Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الأولـى
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               The great living God / 
+               By His goodness wished to grant us life / 
+               To raise up our dire traits / 
+               And elevate us to the Kingdom
+            </Language>
+            <Language id="Arabic">
+               اللهُ الحيُّ المتعالي / 
+               أرادَ بجودِه يُحيينا / 
+               ويُنْهِض نَوعَنا البالى / 
+               وإلى الملكوت يُرقينا
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He sent His shining angel / 
+               Carrying the message of love / 
+               To Mary, he uttered saying, / 
+               “Rejoice, O highly favored one”
+            </Language>
+            <Language id="Arabic">
+               أرسل ملاكه المتلالئ / 
+               حاملاً البشارة لوادينا / 
+               إلى مريم بالنطقِ الغالى / 
+               إفرحى يا مختارة من بارينا
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               You have found grace / 
+               And were exalted above the righteous / 
+               The God of Abraham has chosen you / 
+               Overshadowing you with power and grace
+            </Language>
+            <Language id="Arabic">
+               وُهِبتِ نعمة مع تكريم / 
+               وفُضِّلتِ على الأبرار / 
+               إذ إختارك إلهُ إبراهيم / 
+               وظللكِ بقوة ووقار
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               To incarnate of you mysteriously / 
+               The Almighty Son will be born / 
+               To grant His servants all grace / 
+               And shine upon them with His light
+            </Language>
+            <Language id="Arabic">
+               ليتجسدَ منكِ بسر عظيم / 
+               ويُولد الإبنُ ذو الإقتدار / 
+               ويمنحُ عبيدَه كلَّ نعيم / 
+               ويُشـرِق علـيهم بـالأنوار
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               When you received the message / 
+               And submitted to the great mystery / 
+               The Word came according to the plan / 
+               And took flesh from you, O Mary               
+            </Language>
+            <Language id="Arabic">
+               ومنذ إقتبلتِ التبشير / 
+               وأذعنتِ للسرِّ الأعظم / 
+               حلَّ الكلمةُ كالتدبير / 
+               وأخذَ جسداً منكِ يا مريم               
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/MatinsNativity_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               Second Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الثانيـة
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">               
+               The great King of glory / 
+               The eternal Word of the Father / 
+               Came and was incarnate with love / 
+               Of a pure, chaste Virgin
+            </Language>
+            <Language id="Arabic">               
+               ملكُ العظمة الممجَّدْ / 
+               كلمةُ الآب الأزلية / 
+               أتانا بحُبٍّ وتجسد / 
+               من عذراء عفيفة ونقية
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               As said by the Evangelist / 
+               Who chanted the Gospel of eternal life: / 
+               The eternal only-begotten Son / 
+               Who is in His Father’s bosom
+            </Language>
+            <Language id="Arabic">
+               كقول البشير الذى أنشد / 
+               إنجيلَ الحياةِ الأبدية / 
+               أَنَّ الأبن الأزلى الأوحد / 
+               الكائن في الأحضان الأبوية
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               By His own will, He came to the world / 
+               And we beheld His glory / 
+               The glory as of the only-begotten / 
+               The true Son of the merciful God
+            </Language>
+            <Language id="Arabic">
+               بمسرته حلَّ في العالم / 
+               ورأينا مجده بالعيان / 
+               كمجدِ وحيدٍ معظم / 
+               إبن حق للآب الرحمان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He granted us forgiveness and grace / 
+               And a shining bright life / 
+               He renewed us with His honorable Birth / 
+               And called us His children through faith
+            </Language>
+            <Language id="Arabic">
+               منحنا عفواً مع نعيم / 
+               وحياة مُشرقة بلمعان / 
+               وجَدَّدنا بمولده الكريم / 
+               وَدُعِينا بنين لـه بالإيمان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               O how great are these glories / 
+               Poured out on Adam’s race / 
+               Incomprehensible with human minds / 
+               How could the minds understand?               
+            </Language>
+            <Language id="Arabic">
+               يا لهذه المكارم السنية / 
+               المُفاضة على جبلة آدم / 
+               لا تُدركها أفهامُ بشرية / 
+               وتحارُ العقول كيف تتفهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/MatinsNativity_Refrain"/>
+      
+         <Comment>
+            <Language id="English">
+               Third Passage
+            </Language>
+            <Language id="Arabic">
+               القطعـة الثـالثـة
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">               
+               All those of human tongues / 
+               Today rejoice with the Newborn / 
+               They sing with joyful voices / 
+               Chanting merrily with David
+            </Language>
+            <Language id="Arabic">               
+               آلُ اللغات البشرية / 
+               اليوم مبتهجون بالمولود / 
+               يرتلون بأصوات شجية / 
+               مترنمين بتهليل مع داود
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               All the high ranks / 
+               Worship His greatness / 
+               Crying with spiritual melodies / 
+               Sanctifying the Lord with reverence
+            </Language>
+            <Language id="Arabic">
+               كلُّ الطقوسِ العُلوْية / 
+               يخضعون لعظمته بسجود / 
+               هاتفين بأنغام روحية / 
+               لتقديس الربِّ المعبود
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The Almighty Son was born today / 
+               From the Virgin, the offspring of saints / 
+               He was wholly manifested / 
+               As revealed in the Scriptures
+            </Language>
+            <Language id="Arabic">
+               اليوم وُلِدَ الإبنُ المتعال / 
+               من العذراء نسلِ الأبرار / 
+               وإتضح علانية بكل كمال / 
+               كما أُوحِىَ فى الأسفار
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The King of might and glory / 
+               Will shine in Bethlehem / 
+               His manifestation of ancient times / 
+               Eternal, hidden from the eyes
+            </Language>
+            <Language id="Arabic">
+               إن ملكَ العظمة والجلال / 
+               يُشرِق في بيت لحم بالأنوار / 
+               وظهوره القديم قبل الأجيال / 
+               أزلـى مُنـزه عـن الأبصـار
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Blessed are you, O City of David / 
+               Wherein goodness has appeared / 
+               Your Shepherd came out of You / 
+               Hail to you, O Bethlehem!               
+            </Language>
+            <Language id="Arabic">
+               يامدينة داود طوباك / 
+               يا من فيك الخيرُ عَمّ / 
+               منكِ ظهر الذى يرعاك / 
+               فسلام عليك يا بيتَ لحم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/MatinsNativity_Refrain"/>
+      </Section>
+   </Season>
+</Document>

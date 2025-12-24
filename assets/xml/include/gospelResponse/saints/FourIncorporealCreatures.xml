@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FourIncorporealCreatures:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the Four Incorporeal Creatures:
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/FourIncorporealCreatures"/>
+      </Season>
+   </Group>
+</Document>

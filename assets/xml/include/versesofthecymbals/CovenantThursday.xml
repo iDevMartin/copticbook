@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="CovenantThursday ^ Matins">
+         <Comment>
+            <Language id="English">
+               For Covenant Thursday:
+            </Language>            
+         </Comment>
+         
+          <Text>
+            <Language id="Coptic">
+               Picwma nem pic~nof n~tak: pe p~,w e~bol n~te nennobi: nem ]diay/k/ m~beri: e~takt/ic n~nekmay/t/c.
+            </Language>
+            <Language id="English">
+               Your Body and Blood: are the forgiveness of our sins: and the New Covenant: that You gave to Your disciples.
+            </Language>
+            <Language id="Arabic">
+               جسدك ودمك هما غفران خطايانا مع العهد الجديد الذى أعطيت لتلاميذك.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

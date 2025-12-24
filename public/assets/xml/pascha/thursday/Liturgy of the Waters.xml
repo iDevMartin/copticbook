@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" LiturgyOfTheWaters="true" PaschaLiturgyOfTheWaters="true" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">The Liturgy of Blessing of the Water of Great Thursday</Language>
+         <Language id="Arabic">قداس لقان الخميس الكبير</Language>      
+         <Language id="Coptic">}lakan/ n~te Pit~iou n~nis]</Language>
+      </Title>
+      
+      <Role id="People">
+         <InsertDocument path="include/KcmarwoutSeasonalResponseShort"/>
+      </Role>
+               
+      <InsertDocument path="raisingOfIncense/include/Intro"/>
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/DoxaPatriAlleluia"/>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Genesis 18:1-23</Language>
+               <Language id="Arabic">تکوين 18: 1-23</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Genesis"/>
+            
+            <Text>
+               <Language id="English">
+                  Then God appeared to him at the oak of Mamre, as he was sitting in the tent door during the noon hour.
+               </Language>
+               <Language id="Arabic">
+                  وظهر الرب لإبراهيم عند شجرة ممرا وهو جالس على باب خيمته وقت الظهيرة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So he lifted his eyes and looked, and behold, three men stood before him; and when he saw them, he ran from the tent door to meet them, and bowed himself to the ground, and said, " Lord, if I have now found grace inYour sight, do not pass by Your servant. Let water be brought, and let them wash Your feet, while You cool Yourselves under the tree.
+               </Language>
+               <Language id="Arabic">
+                  فرفع عينيه ونظر، وإذا ثلاثة رجال واقفون لديه. فلما نظرهم ركض لإستقبالهم من باب الخيمة وسجد على الأرض وقال: يا سيدى إن كنت قد وجدت نعمة لديك فلا تتجاوز عبدك، فليؤخذ قليل ماء واغسلوا أرجلكم ثم استريحوا تحت الشجرة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And I will bring bread for You to eat. After that You may pass by, inasmuch as You have come to Your servant." They said, "Do as you have said: So Abraham hurried into the tent to Sarah and said, "Quickly, make ready three measures of fine meal; knead it and make cakes."
+               </Language>
+               <Language id="Arabic">
+                  فنأخذ خبزاً وتأكلون، وبعد هذا تمضوا لأنكم قد مررتم على عبدكم. فقالوا: افعل هكذا كما قلت. فأسرع إبراهيم إلى الخيمة، إلى سارة وقال لها: اسرعى واعجنى ثلاث مكاييل واصنعيها خبز ملة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then Abraham ran to the herd, took a young calf, tender and good, gave it to his servant, and he hastened to prepare it. He also took butter and milk and the calf he prepared, and set it before them; and he stood by, them under the tree as they ate.
+               </Language>
+               <Language id="Arabic">
+                  ثم ركض إبراهيم إلى ابقاره وأخذ عجلاً رخصاً حسناً وأعطاه لغلمانه ليعملوه طعاماً، ثم أخذ زبداً ولبناً، والعجل الذى عمله ووضعه قدامهم وأكلوا بينما كان هو واقفاً تحت الشجرة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then He said to him, "Where is Sarah your wife?" He replied, "Here, in the tent." Again He said, "I will certainly return to you according to the time of life, and behold, Sarah your wife shall have a son." (Sarah was listening in the tent door behind him.)
+               </Language>
+               <Language id="Arabic">
+                  وقالوا له: أين سارة إمرأتك؟ أما هو فأجاب قائلاً: ها هى داخل الخباء. فقال: إنى أرجع إليك فى هذا الزمن من العام المقبل ويكون لسارة إمرأتك إبن. فسمعت سارة وهى عند باب الخيمة من خلفه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Now Abraham and Sarah were old, well advanced in age; and Sarah had passed the age of childbearing. Therefore Sarah laughed within herself, saying, "I have not yet had a child until now, and my lord is old also?"
+               </Language>
+               <Language id="Arabic">
+                  وكان إبراهيم وسارة شيخين متقدمين فى أيامهما وقد انقطع ان يكون لسارة كما للنساء، فضحكت سارة فى نفسها قائلة: أيكون لى هذا الآن وقد شاخ سيدى؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the Lord said to Abraham, "Why did, Sarah laugh within herself, saying, 'Shall I surely bear a child, since I am old?'  Is anything impossible with God? At the appointed time I will return to you, according to the time of life, and Sarah shall have a son." 
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب لإبراهيم: لماذا ضحكت سارة فى نفسها قائلة اترى بالحقيقة ألد وأنا قد شخت؟. هل يستحيل على الله شئ؟ فى مثل هذا الزمان ارجع إليك فى العام المقبل ويكون لسارة إبن، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  But Sarah denied she had laughed, for she was afraid, saying; "I did not laugh"; but He said, "No, but you did laugh."
+               </Language>
+               <Language id="Arabic">
+                  فانكرت سارة قائلة: لم أضحك، لأنها خافت. فقال: لا بل ضحكت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the men rose from there and looked toward Sodom and Gomorrah, and Abraham went along and escorted them on their journey.  
+               </Language>
+               <Language id="Arabic">
+                  ثم قام الرجال من هناك وتطلعوا نحو سدوم وعامورة، وكان إبراهيم ماشياً معهم ليشيعهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the Lord said, "Shall I hide from Abraham, My servant, what I am about to do? But Abraham shall surely become a great and populous nation, and in him all the nations of the earth shall be blessed.  
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب: هل أخفى ما أنا فاعله عن عبدى إبراهيم، وإبراهيم يكون أمة عظيمة وكثيرة وتتبارك به جميع أمم الأرض.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  For I know he will order his sons and his house after him. They will keep the way of the Lord, to do righteousness and judgment, that the Lord may bring upon Abraham what He has spoken to him."  
+               </Language>
+               <Language id="Arabic">
+                  لأنى علمت أنه يوصى بنيه وبيته من بعده فيحفظوا طرق الرب، ليعملوا براً وعدلاً لكى يعمل الرب لإبراهيم بما تكلم به معه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the Lord said, "The outcry against Sodom and Gomorrah has been completed, and their sins are exceedingly great. Therefore, I will go down now and see whether or not they are carrying out the outcry coming to Me concerning them."  
+               </Language>
+               <Language id="Arabic">
+                  فقال الرب: إن صراخ سدوم وعاموره قد كثر وخطاياهم عظيمة جداً. إنى أنزل لأعرف هل صراخها الأتى إلىّ قد كمل أم لا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then the men turned away from there and went toward Sodom, but Abraham remained before the Lord. So Abraham drew near and said, "Would You also destroy the righteous with the ungodly?
+               </Language>
+               <Language id="Arabic">
+                  وأنصرف الرجال من هناك وذهبوا نحو سدوم، وأما إبراهيم فكان لم يزل واقفاً أمام الرب. فاقترب إبراهيم وقال للرب: لا تهلك البار مع الأثيم، فيكون الصديق مثل المنافق.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>         
+         </Section>
+   
+         <InsertDocument path="pascha/include/Proverbs9.1-11"/>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus from 14, 15</Language>
+               <Language id="Arabic">خروج من 14, 15</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+                     
+            <Text>
+               <Language id="English">
+                  When Israel crossed the Red Sea, they walked through dry ground in the midst of the sea, and their enemies went into the sea; and the Lord brought upon them the water of the sea.
+               </Language>
+               <Language id="Arabic">
+                  حينما عبر اسرائيل البحر الأحمر، وداست أرجلهم البحر، انطمس اعداءهم فى العمق، وانغمست أرجل العساكر فى الماء قسراً،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Israel and all the house of Jacob were saved. They danced and sang this song: Let us sing to the Lord, for He is greatly glorified.
+               </Language>
+               <Language id="Arabic">
+                  وأما أرجل اسرائيل وجميع بيت يعقوب رفعت ونجوا من الهلاك. وقالوا هذه التسبحة: فلنسبح الرب لأنه بالمجد قد تمجد. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Joshua from 1, 3</Language>
+               <Language id="Arabic">يشوع من 1, 3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Joshua"/>
+            
+            <Text>
+               <Language id="English">
+                  Joshua and all the people went over Jordan, they treaded on stones that were immersed in the water. Their feet strengthened and they defeated their enemies. 
+               </Language>
+               <Language id="Arabic">
+                  يشوع وكافة الشعب عبروا الأردن ووطئت أرجلهم الحجارة التى فى المياه فتوثقت أمامهم وأهلكوا أعدائهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 4:2-4</Language>
+               <Language id="Arabic">إشعيا 4: 2-4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="English">
+                  In that day, the Lord will shine in counsel and glory on the earth, to exalt and glorify those of Israel who remain.
+               </Language>
+               <Language id="Arabic">
+                  فى ذلك اليوم ينير الله بالمشورة والمجد على الأرض ليرتفع ويتمجد كل من يبقى من اسرائيل،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And it shall come to pass that those who remain in Zion and in Jerusalem will be called holy—everyone who is recorded among the living in Jerusalem, because the Lord shall wash away the filth of the sons and the daughters of Zion.
+               </Language>
+               <Language id="Arabic">
+                  ويكون كل من يبقى فى صهيون، وبقية أورشليم يدعون أطهاراً. يكتب للحياة كل من فى أورشليم لأن الرب يغسل أعمال بنى البشر وأولاد صهيون.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 55:1-56:1</Language>
+               <Language id="Arabic">إشعياء 55: 1-56: 1</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="English">
+                  "You who are thirsty, go to the water, and all who have no money, go and buy wine and fat, and eat and drink without money and price.
+               </Language>
+               <Language id="Arabic">
+                  أيها العطاش اذهبوا إلى المياه، ويامن ليس لهم فضة اذهبوا واشتروا لتأكلوا وتشربوا بلا فضة وبلا ثمن خبزاً ولبناً وشحماً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Why do you value at the price of money, and give your toil for what does not satisfy? Listen to Me and eat good things, and your soul will delight in good things. Incline your ears and follow my ways. 
+               </Language>
+               <Language id="Arabic">
+                   لماذا تشترون بفضة وتعبكم لغير شبع؟ اسمعوا لي فتأكلوا الخيرات ولتتلذذ بالدسم نفوسكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Listen to Me, and your soul shall live in good things; and I will make an everlasting covenant with you, the holy and faithful things of David.
+               </Language>
+               <Language id="Arabic">
+                  أميلوا آذانكم وهلموا إليّ، أطيعونى فتحيا نفوسكم بالخيرات واقطع لكم عهداً أبدياً، مراحم داود الصادقة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Behold, I made him a witness among the Gentiles, a ruler and commander to the Gentiles. The Gentiles, which did not know you, shall call upon you, and the peoples who did not understand you shall take refuge in you, because of your God, the Holy One of Israel;
+               </Language>
+               <Language id="Arabic">
+                  هوذا قد جعلته شاهداً فى الأمم ورئيساً وموصياً للشعوب. ها أمة لا تعرفها تدعوها وأمة لا تعرفك تركض إليك. من أجل إلهك قدوس اسرائيل لأنه قد مجدك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  for He glorified you." Seek God, and when you find Him, call upon Him when He draws near to you. Let the ungodly man abandon his ways, and the lawless man his counsels; and let him return to the Lord, and He will have mercy on him; for He shall forgive your sins abundantly. 
+               </Language>
+               <Language id="Arabic">
+                  إطلبوا الرب وحين تجدوه ادعوه ما دام قريب منكم. ليترك الشرير طريقه، ورجل الإثم أفكاره وليتب إلى الرب فيخلصه لأنه بكثرة يغفر لكم خطاياكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  "For My counsels are not as your counsels, neither are your ways My ways," says the Lord.
+               </Language>
+               <Language id="Arabic">
+                  لأن أفكاركم ليست كأفكارى، ولا طرقكم كطرقى، يقول الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  But as heaven is distant from earth, so is My way distant from your ways, and your thoughts from My mind.
+               </Language>
+               <Language id="Arabic">
+                  لأنه كما ناءت السموات عن الأرض هكذا ناءت طرقى عن طرقكم، وأفكارى عن أفكاركم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  For as rain comes down, or snow from heaven, and does not return until it saturates the earth, and it brings forth and produces, and gives seed to the sower and bread for food, so shall My word be, whatever proceeds from My mouth. It shall not return until it accomplishes whatever I willed, and I shall prosper your ways and My commandments.
+               </Language>
+               <Language id="Arabic">
+                  لأنه كما إذا نزل المطر أو الثلج من السماء لا يرجع حتى يروى الأرض ويجعلها تلد وتنبت وتعطى زرعاً للزارع، وخبزاً للآكل، هكذا تكون الكلمة التى تخرج من فمى لا ترجع إلىّ حتى تكمل ما أريده وتقوم طرقى وأوامرى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  For you shall go forth with gladness and shall be taught with joy, for the mountains and hills shall exult to receive you with joy; and all the trees of the field shall applaud with their branches.
+               </Language>
+               <Language id="Arabic">
+                  لأنكم بفرح تخرجون وترجعون لأن الجبال والآكام تنشد أمامكم ترنماً، وكل شجر الحقل تصفق بأغصانها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                   Instead of the broomtree shall come up the cypress, and instead of the nettle shall come up the myrtle; and the Lord shall be for a name and for an everlasting sign, and He shall not fail."
+               </Language>
+               <Language id="Arabic">
+                  عوضاً عن الشوك ينبت سرو وعوضاً عن القريس (السوكران) يصعد آس. ويكون للرب إسماً علامة أبدية لا تنقطع. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The Lord says this: “Guard judgment and do righteousness, for My salvation draws near, and My mercy shall be revealed.
+               </Language>
+               <Language id="Arabic">
+                  هكذا قال الرب: إحفظوا الحكم، واجروا العدل، لأنه قريب مجئ خلاصى، واستعلان برى.
+               </Language>
+            </Text>
+            
+           <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 36:25-29</Language>
+               <Language id="Arabic">حزقيال 36: 25-29</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="English">
+                  I shall sprinkle clean water on you, and you will be cleansed from all your uncleanness, and I will also cleanse you from all your idols.
+               </Language>
+               <Language id="Arabic">
+                  هذا ما يقوله الرب الإله، إنى سأنضح عليكم ماءً مختاراً فتطهرون من جميع خطاياكم، ومن سائر آثامكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I shall give you a new heart and put a new spirit within you. I shall take the heart of stone from your flesh and give you a heart of flesh.
+               </Language>
+               <Language id="Arabic">
+                  وأعطيكم قلباً جديداً وأجعل فى داخلكم روحاً جديداً، وانزع القلب الحجرى من أجسادكم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I shall put My Spirit within you and cause you to walk in My requirements, and you will keep My judgments and do them.  You will dwell in the land I gave to your fathers. You will be My people, and I shall be your God.  I shall save you from all your uncleanness.
+               </Language>
+               <Language id="Arabic">
+                  وأصير روحى داخلكم وأصنع بكم كمثل الأبناء الأحباء. وأجعلكم تسلكون فى فرائضى وتحفظون أحكامى وتعملون بها، لكى تسكنوا على الأرض التى أعطيتها لآبائكم وتكونون لى شعباً، وأنا أيضاً أكون لكم إلهاً، وأطهركم من آثامكم. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 47:1-9</Language>
+               <Language id="Arabic">حزقيال 47: 1-9</Language>
+            </Title>
+            
+           <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="English">
+                  Then he brought me back to the outer door of the house, and there was water, flowing from under the open air of the chamber toward the east; and the water was flowing from under the right side court, from the south to the altar.
+               </Language>
+               <Language id="Arabic">
+                  ثم حملنى الروح وأدخلنى من باب البيت وإذا ماء خارج من المشرق من تحت أسقفة الباب الشرقى لأن وجه البيت كان نحو المشرق وكان الماء منحدراً من الجانب الأيمن للبيت عن جنوبى المذبح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then he brought me out by way of the north gate and led me around on the outside to the outer gate that faces east; and there was water coming down, running out on the right side, in the direction in which a man went forth opposite. There was a measure in his hands,
+               </Language>
+               <Language id="Arabic">
+                  ثم أخرجنى من طريق باب الشمال، وطاف بى الباب الخارجى من الباب الذى يتجه نحو المشرق. وإذا ماء كان يجرى تحت الجانب الأيمن، و كمثل إنسان قدامه وقصبة فى يده.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  and he measured a thousand cubits with the measure; and he passed through the water. It was the water of remission.
+               </Language>
+               <Language id="Arabic">
+                  فقاس ألفاً بالمقياس وعبر فى الماء وكان الماء إلى الركبة، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Again he measured a thousand, and he passed through the water, and the water was up to the knees.
+               </Language>
+               <Language id="Arabic">
+                  ثم قاس ألفاً أخرى بالقياس وعبر فى الماء، فكان الماء إلى الحقوين،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Again he measured a thousand, and the water came up to the waist. Again he measured a thousand, and it could not be crossed; for it broke into a rushing torrent which man cannot pass through.
+               </Language>
+               <Language id="Arabic">
+                  ثم قاس ألفاً ايضاً فى وادى لم يستطع عبوره لأن الماء طمت كمياه فى واد منحدر لا يُعبر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He said to me, "Son of man, have you seen this?" Then he led me to the bank of the river.
+               </Language>
+               <Language id="Arabic">
+                  وقال لى أرأيت يا إبن الإنسان؟ ثم ذهب بى وارجعنى إلى شاطئ النهر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  As I returned, behold, along the bank of the river there were very many trees on this side and the other. Then he said to me, "This is the water that flows into Galilee, which is to the east.
+               </Language>
+               <Language id="Arabic">
+                  وإذا عند رجوعى أشجار كثيرة جداً على شاطئ النهر من هنا ومن هناك. وقال لى: هذه المياه خارجة من الجليل الذى بالدائرة الشرقية
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Then it goes down upon Arabia and reaches as far as the sea to the outlet of the water; and it will heal the waters.
+               </Language>
+               <Language id="Arabic">
+                  وتنحدر إلى بلاد العرب وتذهب إلى البحر على الماء الجارى فتطهر سائر المياه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So it shall be that every living thing that moves, wherever the river goes, will live.
+               </Language>
+               <Language id="Arabic">
+                  ويصير أن كل نفس حية تدب حيثما يتبدد ماء هذا النهر عليها تتطهر من كل شئ وكل ما يأتى عليه ماء هذا النهر يطهر ويحيا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+   
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba Shenouda the Archimandrite</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا شنودة رئيس المتوحدين</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaIntro"/>
+            
+            <Text>
+               <Language id="English">
+                  Brethren, we ought to be humbled in front of Him who suffered on our behalf. We ought to fear Him Who poured the water in a bowl and washed the feet of His disciples with His impeccable hands.
+               </Language>
+               <Language id="Arabic">
+                  فلنستح الآن يا أخوتى من الذى تألم عنا، ولنخف من الذى اشتد بمنديل وصب الماء فى المغسل وغسل أرجل تلاميذه بيديه الطاهرتين، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                   Let us present Him with good deeds that deserve this great modesty which He carried out for our sake. Let us repent for our sins that we committed. Because, if we do not repent, we will be called in heaven as lovers of sins.
+               </Language>
+               <Language id="Arabic">
+                  ولنصنع ثماراً تستحق هذا الأتضاع العظيم الذى صار فيه من أجلنا. لكى نتوب سريعاً من خطايانا التى ارتكبناها. لأننا إن لم نتب فسيقال عنا فى السموآتٍ إننا محبون للخطايا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  What will be our hope if we are cast out of heaven, forced to face the judgment and are rejected for our sins?
+               </Language>
+               <Language id="Arabic">
+                  فماذا يكون رجاؤنا بعد إذ طردنا من السماء وطرحنا إلى الحكم ورُفضنا لأجل خطايانا؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  We will be judged twice; not because we have sinned without knowledge but because of what we did with knowledge was worse than what we did without knowledge and not because we have sinned, but because we did not repent.
+               </Language>
+               <Language id="Arabic">
+                  فندان دينونة مضاعفة لا لأننا أخطأنا بغير معرفة فقط، بل لأن ما عملناه بمعرفة كان أردأ مما عملناه بغير معرفة. ولا لكوننا أخطأنا فقط بل لكوننا لم نتب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Why can’t the sheep know the voice of the real shepherd, the life giver, and take refuge in Him? He who purchased it with His blood, took care of it, and gave Himself up for it.
+               </Language>
+               <Language id="Arabic">
+                  لماذا لم تعرف الخراف صوت الراعى الحقيقى المحيي وتلتجئ إليه؟ ذلك الذى اشتراها بدمه وأعالها وأسلم ذاته فداء عنا. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He who gave us His Body to eat and His Blood to drink; Jesus Christ our Lord and Savior, the Son of God, who dwells in the highest forever.
+               </Language>
+               <Language id="Arabic">
+                  الذى أعطانا جسده لنأكله ودمه لنشربه. يسوع المسيح ربنا ومخلصنا، الإله إبن الإله العلى الكائن فى الأعالى إلى الأبد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="People">
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="1 Timothy 4:9-5:10" type="section"/>      
+      </Role>
+      
+      <InsertDocument path="include/trisagion/Seasonal"/>
+      <InsertDocument path="include/LitanyOfTheGospel"/>
+      <InsertDocument path="include/EvnotiNaiNan"/>
+      
+      <Role id="People">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Gospel Response</Language>      
+               <Language id="Arabic">مرد الإنجيل</Language>      
+            </Title>
+            
+            <InsertDocument path="include/JesusChristIsTheSame"/>
+            <InsertDocument path="include/Jefcmarwout"/>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/StandardPrayerIntro"/>
+      <InsertDocument path="include/SevenGreatLitanies"/>
+      <InsertDocument path="lakkan/include/Litanies"/>
+      <InsertDocument path="include/LordHaveMercy100"/>
+      <InsertDocument path="include/ThreeGreatLitanies"/>
+      <InsertDocument path="include/Ensofia"/>
+      <InsertDocument path="include/CreedPeople"/>
+      
+      <Role id="People">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Adam Aspasmos</Language>
+               <Language id="Arabic">الاسبسمس الادام</Language>
+            </Title>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rasi ouoh yel/l:  w~p~genoc n~nirwmi: je pair/] a~V] menre pikocmoc.
+               </Language>
+               <Language id="English">
+                  Rejoice and be glad, O human race, for God so loved the world.
+               </Language>
+               <Language id="Arabic">
+                  أفرحوا وﺗﻬللوا يا جنس البشـر ، لأنه هكذا أحب االله العالم.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hwcte nt~ef] mp~efs/ri mm~enrit qa n/eynah] er~of eyrouwnq sa en~eh.
+               </Language>
+               <Language id="English">
+                  That He gave His Beloved Son, for His faithful, that they may live forever.
+               </Language>
+               <Language id="Arabic">
+                  حتى بـذل إبنـه الحبيـب ، عـنالمؤمنين لكى يحيوا إلى الأبد.
+               </Language>
+            </Text>
+         </Section>
+         
+         <Section>
+            <Title>
+               <Language id="English">Alternate Adam Aspasmos</Language>
+               <Language id="Arabic">اسبسمس ادام اخر</Language>
+            </Title>
+            
+            <InsertDocument path="include/adamAspasmos/ApostlesFastContents"/>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="include/adamAspasmos/ShortConclusion"/>
+      
+      <Title>
+         <Language id="English">Liturgy of the Waters</Language>
+         <Language id="Arabic">اللقان</Language>
+      </Title>
+      
+      <InsertDocument path="include/AnaphoraIntro"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Meet and right, meet and right; truly indeed it is meet and right. We praise You, we exalt You, we bless You, we glorify You, we worship You. We thank You at all times for all Your works You have done for us. You alone are the True God, Who exists from the beginning, and Who formed water from His heights. 
+            </Language>
+            <Language id="Arabic">
+               مستحق ومستوجب مستحق ومستوجب لأنه حقاً بالحقيقة مستحق ومستوجب. لأنك بالحقيقة مستحق وعادل، أكرمك، أرفعك، أباركك، أمجدك، أسجد لك، أشكرك فى كل زمان لأجل الخيرات التى صنعتها معنا. أنت الإله الحقيقى وحدك. الكائن منذ البدء الذى أظهر المياه فى علاليه. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Who made the water in the firmament that blesses Your Holy Name, O King of all creation, Lord Jesus Christ, we worship You. You Who sits on the throne of His glory and is worshiped by all the holy powers.
+            </Language>
+            <Language id="Arabic">
+               الذى جعل المياه الكثيرة فى فلك السماء، هذه تبارك اسمك القدوس يا ملك الخليقة كلها، يا يسوع المسيح نسجد لك. أيها الجالس على كرسى مجده، الذى تسجد له جميع القوآتٍ المقدسة.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/YouWhoAreSeated"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               The angels, the archangels, the principalities, the authorities, the thrones, the dominions, all the serving spirits and all the infinite multitude of angelic powers, who stand before You in fear and trembling, praising Your Majesty.
+            </Language>
+            <Language id="Arabic">
+               ان الملائكة ورؤساء الملائكة والرئاسآتٍ والسلطآتٍ والكراسى والربوآتٍ. وكل الأرواح الخدام، وكل الجمع الغير المحصى من القوآتٍ الملائكية هؤلاء القيام أمامك بخوف ورعدة يسبحون عظمتك.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LookTowardsTheEast"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               You are He around Whom stand the blessed powers; the Cherubim and the Seraphim thrice glorifying You. Wherefore we also, make us worthy to join their praises and bless you with the voices full of glory saying:
+            </Language>
+            <Language id="Arabic">
+               أنت هو الذى يقف حولك القوآتٍ الطوباويين: الشاروبيم والسيرافيم هؤلاء يقدسونك ثلاث مرآتٍ فى كل حين. ونحن أيضاً اجعلنا مستحقين أن نسبحك معهم ونباركك بأصوآتٍ المجد قائلين:
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsAttend"/>
+      <InsertDocument path="include/AnaphoraTheCherubim"/>
+      
+      <Role id="Priest">
+         <Comment>
+            <Language id="English">
+               The priest blesses the water with the cross three times, saying:
+            </Language>
+            <Language id="Arabic">
+               يرشم الكاهن الماء ثلاث مرآتٍ بالصليب وكل رشم يقول:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/Agios3"/>
+         
+         <Text>
+            <Language id="English">
+               Holy, Holy, Holy, You are O Lord and Holy in all things. For You are the True Holy God, Jesus Christ, the Prototokos of all creation; Who dwells in the glory of His majesty, Whom no body can apprehend the fullness of the Divinity that dwells in Him bodily. You did not consider it robbery to be equal to God, Your Father, but with Your good will You came to earth taking the form of a servant and becoming man in truth. You were incarnate in the undefiled womb of the Holy Theotokos, St. Mary.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس أيها الرب وقدوس أنت فى كل شئ، لأنك أنت الإله القدوس الحقيقى يسوع المسيح الإبن بكر كل الخليقة. الكائن فى مجد عظمته الذى ليس أحد يعرف كمال لاهوته الحال فيه جسدياً. ليس هو اختطافاً ما نويت لتصير مساوياً لله أبيكَ. لكن بإرادتك وحدك أخذت شكل العبد وصرت إنسانا بالحقيقة، تجسدت فى بطن الغير الدنسة والدة الإله القديسة مريم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You Who was clothed in purity and never sinned; gave Yourself up to the holy cross for our salvation. You gave us this example, for after supper You arose, took a towel and girded Yourself and poured water into a basin, and began to wash your disciples’ feet; and wiped them with the towel with which You were girded. You had given them the ordinance of love and humility, and the remembrance of Your love for mankind.
+            </Language>
+            <Language id="Arabic">
+               أنت الذى لبست الطهارة ولم تخطئ أبداً، ودفعت ذاتك إلى الصليب المقدس من أجل خلاصنا. وضعت لنا هذا المثال. إذ قمت من العشاء وأخذت منديلاً اشتديت به، وصبيت ماء فى مغسل وابتدأت تغسل أرجل تلاميذك وتمسحها بالمنديل الذى كنت متزراً به واعطيتهم رسم المحبة وترتيب التواضع وتذكار محبتك للبشر.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               For You said to them, “If I, Your Lord and Master have washed your feet, then you also ought to wash one another’s feet. As much as I have done it unto you so you ought to do to one another.” 
+            </Language>
+            <Language id="Arabic">
+               إذ قلت لهم: أنا غسلت أقدامكم معلماً ورباً، فيجب عليكم أن يغسل بعضكم أقدام بعض. مثل ما صنعت بكم وكما صنعت بكم إصنعوا أنتم أيضاً ببعضكم بعضاً.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You have ordered them to follow Your commandments and Your statutes, for You have said: “love one another, by this shall all men know you are my disciples because you love one another.” 
+            </Language>
+            <Language id="Arabic">
+               وأمرتهم بوصاياك وأوامرك إذ قلت احبوا بعضكم بعضاً، وبهذا يعلمكم كل واحد أنكم تلاميذى إذا أحببتم بعضكم بعضاً. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You also have taught us the love and unity; and You have reconciled us with Your Father. Through washing the disciples’ feet and the purity of this example, and through Your love and compassion for mankind, You have crowned our freedom.
+            </Language>
+            <Language id="Arabic">
+               وعلمتنا نحن أيضاً المحبة والوحدانية، وأصلحتنا مع أبيك من جهة غسل أرجل تلاميذك، ونقاوة هذا المثال الحقيقى ومن قبل تعطفك ومحبتك للبشر صنعت كمال حريتنا
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               When Peter exalted Your Divinity and refused saying, “You shall never wash my feet”, he heard the true condition: “If I don't wash you, you have no part with me.” Therefore, he cried sincerely saying: “Lord, not my feet only, but also my hands and my head!” and he also heard Your Divine Voice which is full of truth saying, “He who is bathed needs only to wash his feet, but is completely clean." 
+            </Language>
+            <Language id="Arabic">
+               عندما استعظم بطرس لاهوتك وامتنع قائلاً: لا تغسل رجلى إلى الأبد، فسمع القضية الحقيقية، إذ لم أغسل قدميك فليس لك معى نصيب، أما هو بامانته صرخ قائلاً: يا سيدى ليس رجلى فقط بل ويداى ورأسى، قدسنى بالكلية. فسمع أيضاً صوتكَ الإلهى الغير الكاذب: أن الذى استحم لا يحتاج إلا إلى غسل قدميه لكنه كله نقى. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Therefore, we ask and entreat You our Lord Jesus Christ to make us worthy, and dwell in our midst as You were with Your disciples, the holy apostles.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا نسأل ونطلب منك يا ربنا يسوع المسيح اجعلنا مستحقين وحل فى وسطنا الآن كما كنت مع تلاميذك الرسل القديسين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               O You Who has blessed at that time, now also bless. Amen.
+            </Language>
+            <Language id="Arabic">
+               وكما باركت فى ذلك الزمن بارك الآن.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The priest blesses the water with the cross and the congregation responds after each time saying: Amen.
+            </Language>
+            <Language id="Arabic">
+               يقول الكاهن و يرشم الماء بالصليب و يجاوبه الشعب عند الآنتهاء من كل رشم: آمين.
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Bless this water unto healing, Amen.
+            </Language>
+            <Language id="Arabic">
+               طهر هذا ليكن ماءً للشفاء آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               A Holy water, Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء مقدساً آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               A water for the remission of sins, Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء لغفران الخطايا آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               A water of purification, Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء الطهارة آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               A water for salvation and health of our spirits, bodies and souls, Amen.
+            </Language>
+            <Language id="Arabic">
+               خلاصاً وصحة لأنفسنا وأجسادنا وأرواحنا آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               A gift of purity, Amen.
+            </Language>
+            <Language id="Arabic">
+               موهبة طاهرة آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Love for each other and purity of the senses, Amen.
+            </Language>
+            <Language id="Arabic">
+               ومحبة لبعضنا بعضاً وحواس نقية آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               That we may be worthy of Your Holy Virtue, which You have taught us through Your love of man, Amen.
+            </Language>
+            <Language id="Arabic">
+               لكى نستحق فضيلتك المقدسة. علمنا إياها من قبل محبتك للبشر آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               When we wash one another’s feet, make us worthy of the inheritance of Your holy disciples, Amen.
+            </Language>
+            <Language id="Arabic">
+               عندما نغسل أرجل بعضنا بعضاً لنستحق أن نكون فى ميراث تلاميذك الأطهار آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Purify our inner man with the fruits of this Mystery, Amen.
+            </Language>
+            <Language id="Arabic">
+               طهر إنساننا الداخلى بثمرة هذا السرآمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Grant us the forgiveness of our sins through the indwelling of Your Holy Spirit to purify our spirits, bodies and souls from all defilement, unrighteousness and sin, Amen.
+            </Language>
+            <Language id="Arabic">
+               وانعم لنا بغفران خطايانا بحلول روحك القدوس علينا ليطهر نفوسنا وأجسادنا وأرواحنا. من كل دنس الجسد وكل نجاسة وكل خطية آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Grant us the authority to trample on serpents and scorpions and every power of the enemy, and do not permit any evil to overpower us, but grant us wise senses and righteousness; so that we may come before You to receive compassion and mercy, Amen.
+            </Language>
+            <Language id="Arabic">
+               إمنحنا السلطان أن ندوس الحيآتٍ والعقارب وكل قوة العدو. ولا تدع شيئاً من الآثام يتسلط علينا. بل انعم علينا بحواس حكيمة وسلوك ذآتٍ وقار وأمان لكى نآتٍى إليك لنجد رحمة أمامك ورأفة آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               We ask You O True God, to send Your Holy Spirit the Paraclete upon us and this water, O You who fashioned the waters, O Jesus Christ our Lord, creator of all; who was crucified for us under Pontius Pilate confessing and saying: “I am the Son of God.” 
+            </Language>
+            <Language id="Arabic">
+               نطلب إليك يا الله الحقيقى لكى ترسل علينا وعلى هذه المياه روحك القدوس الباراقليط. يا جابل المياه، خالق الكل، يسوع المسيح ربنا الذى صلب عنا فى عهد بيلاطس البنطى. واعترف قائلاً: أنى أنا هو إبن الله. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We believe that You are the Son of God in truth. Purify this water by the power of Your Holy Spirit to annul the deadly powers of the adversary against us. 
+            </Language>
+            <Language id="Arabic">
+               نؤمن أنك أنت هو إبن الله بالحقيقة. طهر هذا الماء بقوة روح قدسك لكى يبطل قوات المضاد القاتل وكل سحر وكل رقية. وكل عبادة الأوثان. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Rebuke all evil spirits, all sorcery, and all idol worshipping. O our God Jesus Christ, may the power of the adversary flee from this water by the sign of Your Holy cross,
+            </Language>
+            <Language id="Arabic">
+               فلتهرب من هذا الماء كل قوة المضاد بعلامة صليبك المقدس يا ربنا يسوع المسيح.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Here the priest blesses the water with the sign of the cross, and says:
+            </Language>
+            <Language id="Arabic">
+               هنا يبارك الكاهن على الماء بالصليب ويقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Bring it forth water unto healing, Amen.
+            </Language>
+            <Language id="Arabic">
+               اظهره ماء الشفاء آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Water unto purification. Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء الطهارة آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Water unto remission of sins, Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء مغفرة الخطايا آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Water unto salvation, Amen.
+            </Language>
+            <Language id="Arabic">
+               ماء الخلاص آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Make us worthy of sonship, that we may cry out towards Your Good Father and the Holy Spirit saying:
+            </Language>
+            <Language id="Arabic">
+               واجعلنا مستحقين البنوة لكى نصرخ نحو أبيك الصالح والروح القدس قائلين:
+            </Language>
+         </Text>   
+      </Role>
+      
+      <InsertDocument path="include/NonLiturgyConcludingAbsolutionsIntro"/>
+      
+      <Role id="Deacon">
+         <InsertDocument path="include/SavedAmen"/>
+      </Role>
+      
+      <InsertDocument path="lakkan/include/BlessedBeTheLord"/>
+      
+      <Role id="People">
+         <InsertDocument path="include/OneIsTheAllHoly"/>
+      </Role>
+      
+      <InsertDocument path="include/psalm150/Psalm150"/>
+      
+      <Comment>
+         <Language id="English">
+            The psali is chanted in the standard tune:
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psali</Language>
+            <Language id="Arabic">ذوكصولوجية لللقان</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Our Lord laid aside His vestments / Took a towel and girded Himself / Poured water into a basin / And washed the disciples’ feet.
+            </Language>
+            <Language id="Arabic">
+               وضع ربنا ثيابه٬ / واشتد بمنديل٬ / وصب ماء فى مغسل٬ / وغسل أرجل تلاميذه. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Then He came to Simon Peter / To wash his feet / He said unto Him / "You shall never wash my feet."
+            </Language>
+            <Language id="Arabic">
+               فجاء أيضاً إلى سمعان بطرس٬ / ليغسل قدميه، / فقال له لست تغسل لى٬ / قدمى إلى الأبد.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Our Savior said to Simon Peter / "I say unto you / If I do not wash you / You have no part with Me."
+            </Language>
+            <Language id="Arabic">
+               فقال مخلصنا: / أنا اقول لك أنه٬ / إن لم أغسل قدميك٬ / فليس لك معى نصيب.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Simon Peter said to Him / "O my lord Jesus Christ / not my feet only / but also my hands and my head!"
+            </Language>
+            <Language id="Arabic">
+               قال سمعان لمخلصنا٬ / يا ربى يسوع المسيح، / ليس فقط قدمى٬ / بل يدى ورأسى.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               And He taught them saying / "I have washed your feet / you also should / wash each others feet."
+            </Language>
+            <Language id="Arabic">
+               وكان يعلمهم قائلاً، / أنا غسلت أرجلكم٬ / وأنتم أيضاً يجب عليكم٬ / أن يغسل بعضكم أرجل بعض.
+            </Language>
+         </Text>
+      </Section>
+      
+      <Text>
+         <Language id="Coptic">
+            Twbh m~P[oic e~h~r/i e~jwn: w~ na[oic n~io] n~a~poctoloc: nem pis~be c~nau m~may/t/c: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray to the Lord on our behalf, our lords and fathers the apostles, and the seventy two disciples, that He may forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            أطلبوا من الـرب عنا ياسادتى الآباء الرسل والاثـنين والسبعين تلميـذا ليغفر لنا خطايانا.
+         </Language>
+      </Text>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Thanksgiving Prayer after blessing of the Water</Language>
+            <Language id="Arabic">صلاة شكر بعد اللقان</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               We give thanks unto You, O Master, Lord, God Almighty, upon every condition, for any condition and in whatever condition, for You have made us worthy to complete Yours Holy Example of the washing of feet at this hour. This You; Your Only-Begotten Son, our Lord, God, Teacher and Savior Jesus Christ, anointed and taught Your disciples.
+            </Language>
+            <Language id="Arabic">
+               نشكرك أيها السيد الرب الإله الضابط الكل، نشكرك على كل حال، ومن أجل كل حال، وفى كل حال، لأنك جعلتنا مستحقين فى هذه الساعة أن نكمل مثال أفعالك المقدسة، هذه التى قررها وعلمها لتلاميذك إبنك الوحيد ربنا والهنا ومعلمنا ومخلصنا يسوع المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We ask and entreat Your goodness O Lover of man, forgive our sins and have compassion on us, according to Your great mercy and grant peace on Your Holy Church. Keep us in peace and love with Your fear, alert us to all Your commandments in this generation and forever. 
+            </Language>
+            <Language id="Arabic">
+               نسأل ونطلب من صلاحك يا محب البشر: تجاوز عن كل خطايانا الكثيرة، وتراءف علينا ككثرة مراحمك، وانعم علينا فى كل حين بسلامك فى كنيستك المقدسة. احفظنا بسلام ومحبة مع خوفك، حافظين لجميع وصاياك فى هذا الدهر الحاضر وفى الآتى .
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Make us all partakers of Your eternal blessings through Yours Only Begotten Son Jesus Christ our God, through whom glory, honor, dominion, and worship befit You with Him and the Holy Spirit both now and ever and unto the ages of the ages, Amen.
+            </Language>
+            <Language id="Arabic">
+               اجعلنا شركاء لخيرآتك الدهرية بإبنك الوحيد يسوع المسيح ربنا، هذا الذى من قبله المجد والاكرام والعزة والسجود يليق بك معه ومع الروح القدس المحيى المساوى لك، الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Section>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba John Chrysostom</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا يوحنا ذهبى الفم</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaChrysostomIntro"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  }nau gar e~oum/s m~pictoc m~voou eui/c m~mwou e~erkoinwnin e~paimuct/rion eymeh nho] hinehself: je ,ac efe~swpi n~je ouh/ou kata pihwb cnau:
+               </Language>
+               <Language id="English">
+                  Today, I behold many believers rushing to partake of the awesome mysteries that they may exceedingly benefit.
+               </Language>
+               <Language id="Arabic">
+                  أنى أرى اليوم كثيرين من المِؤمنين مسرعين إلى الشركة فى هذه السرائر المملوءه خوفا و رعدة، لكى يكون الربح مضاعفا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  aina[imwit qajwten n~sorp e~bolhiten nacaji: eyretenmosi qen ouho] nem ouc~yerter nem ounehself: kata petc~se e~qoun e~]koinwnia~ n~te naimuct/rion e~youab.
+               </Language>
+               <Language id="English">
+                  Let me first advise you that you must walk in fear and righteousness as befitting these holy mysteries.
+               </Language>
+               <Language id="Arabic">
+                  فأرشدكم أنا أولا بقولى، لكى تسيروا بخوف ورهبة ووجل، كما يحق بهذه السرائر المقدسة:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kegar e~tau] m~P[oic m~voou w~namenra]: alla a~retensancwtem je au] m~Pi,~rictoc m~peny~re petenho w~kem: mallon de marefwkem e~pihouo~: ouoh rimi e~masw e~jen v/e~taut/if an: alla e~jen v/e~taft/if e~te Ioudac pe: v/e~taft/if men afhemci caoui~nam m~Vnou] v~iwt qen niv/oui~: ouoh f~oi n~ouro e~jen p~t/rf qen oumetouro n~aymounk: v/ hwf e~taft/if afse e~q~r/i e~a~men]: 
+               </Language>
+               <Language id="English">
+                  My beloved, in this day our Lord Jesus was betrayed; if you then hear that He was betrayed, do not be disappointed. Let me tell you about whom you shall be disappointed in. Lament and cry over Judas who gave Him up. For He who was betrayed, sits on the right hand of the Father in heaven; and He is also King over all, in an everlasting kingdom.
+               </Language>
+               <Language id="Arabic">
+                  أحبائى أسلم السيد المسيح فى مثل هذا اليوم، فإذا سمعتم أنه قد أسلم فلا تعبسوا وجوهكم بل أقول لكم عمن تعبسون، إعبسوا كثيرا وإبكوا جدا على الذى سلمه الذى هو يهوذا، لأن الذى أسلم قد جلس عن يمين الله الآب فى السموات، وهو ملك على الكل ملكا أبديا لا إنقضاء له، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh f~m/n ]nou qen a~men] efjoust e~bolqat~q/ n~oukolacic ecos. Fia~hom je eybe vai n~tetenrimi: eybe je e~ta P[oic eremkahn~h/t
+               </Language>
+               <Language id="English">
+                  But he who gave Him up, descended into the depths of Hades; there he shall remain unto the end in anticipation of great grief and lament.
+               </Language>
+               <Language id="Arabic">
+                  وأما الذى أسلمه فهبط إلى  قاع الجحيم، ويبقى دائمآ فيه إلى ما لا نهاية له، يتوقع عذابا أليما وتنهدا شديدا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai eftamo m~mon je c~se pe e~nehpi e~jen v/e~taf erm~kah an: alla e~jen v/eterpethwou: oudikeon pe e~neh pi e~rof qen mainiben: v/eter pethwou gar efhwou e~hote v/et[i m~kah. 
+               </Language>
+               <Language id="English">
+                  It is over him you should say moan and lament. For our Lord taught us not to grieve over him who endures suffering, but rather to grieve over the evildoer. It is fit to bewail him who does evil more than he who accepts sufferings.
+               </Language>
+               <Language id="Arabic">
+                  على هذا إبكوا ونوحوا، لأن الرب علمنا أن نبكى ونحزن على الخطاة لا على من يتألم لأجل فعل البر، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kegar al/ywc f~hwou an n~je v/et[i m~kah: alla v/eter pethwou qen oumeym/i n~yof ethwou.
+               </Language>
+               <Language id="English">
+                  Indeed, he who accepts sufferings is not evil, but rather he who does evil is wicked.
+               </Language>
+               <Language id="Arabic">
+                  لأن قبول الآلام لأجل نوال الآخرة هو الذى يورثنا ملكوت السموات،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }metref sepm~kah gar etcwk qajwn e~qoun e~y~metouro n~niv/oui~: ]metreferpethwou de n~yoc sacswpi nan n~lwiji e~qoun e~]geenna nem nikolacic
+               </Language>
+               <Language id="English">
+                  For, being in sufferings leads us to the heavenly kingdom. But evil doing leads us to hell and into punishment.
+               </Language>
+               <Language id="Arabic">
+                  وأما الالام التى تنشأ عن الأشياء العالمية هو الفعل الردىء الذى يحدف بنا إلى الجحيم والعذاب الأبدى الذى ناره لا تطفأ ودوده لا يموت.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  W~ounia~tou pejaf n~n/e~tau[oji n~cwou eybe ]meym/i: je ywou te ]metouro n~te niv/oui~: ]metreferpethwou de n~yoc ouon n~tac m~mau n~oukolacic nem oudimwria~.
+               </Language>
+               <Language id="English">
+                  For it is said: “Blessed are they who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.” But he who does evil, is worthy of punishment and sufferings.
+               </Language>
+               <Language id="Arabic">
+                  قيل طوبى للمطرودين من أجل البر فإن لهم ملكوت السموات، وأما كل من يفعل الشر فله عقاب شديد.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaChrysostomConclusion"/>
+         </Section>
+      </Role>
+   </ForceSeason>
+</Document>

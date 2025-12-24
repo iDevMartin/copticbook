@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Consecration="true" ChurchConsecration="true">
+   <Title>
+      <Language id="English">Church Consecration (Part 2)</Language>      
+      <Language id="Coptic">Pjineragiazin n~]ekkl/cia m~beri</Language>
+   </Title>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Departed"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 39:43-40:33" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday5"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 1:78-79" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Oblations"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Exodus 40:23-38" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday6"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 2:29-32" type="section"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/PlaceShort"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Numbers 4:1-16" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday7"/>
+      <InsertDocument path="include/praises/theotokia/Sunday8"/>
+      <InsertDocument path="include/praises/theotokia/Sunday9"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/cyril/litanies/Standing"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Numbers 4:17-33" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday10"/>
+   </Role> 
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/cyril/litanies/Prayer"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Joshua 3:7-4:9" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday11"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   
+   <Section expanded="true">
+      <InsertDocument path="include/cyril/litanies/BishopsPresentContents"/>        
+   </Section>
+   
+   <Role id="Reader">
+      <BibleReference reference="2 Samuel 6:1-20" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday12"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Catechumens"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 Chronicles 15:2-16:43" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday13"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/cyril/litanies/Priesthood"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 Chronicles 28:2-29:22" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday14"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/cyril/litanies/RestOfTheOrthodox"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="2 Chronicles 3:1-6:11" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/praises/theotokia/Sunday15"/>
+      <InsertDocument path="include/praises/theotokia/Sunday16-18"/>
+   </Role>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/cyril/litanies/ServantPriest"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="1 Kings 8:22-61" type="section"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/psalies/MondayContents"/>
+      <InsertDocument path="include/psalies/ConclusionAdam"/>
+      <InsertDocument path="include/praises/theotokia/MondayContents"/>
+   </Role>
+   
+   <InsertDocument path="include/LooseTheBoundBishop"/>
+</Document>

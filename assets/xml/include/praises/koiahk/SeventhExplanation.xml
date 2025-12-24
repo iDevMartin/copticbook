@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Seventh Explanation</Language>
+               <Language id="Arabic">التفسير السابع</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  You are called, O Theotokos / The daughter of Joachim / You became the highest heaven / You're higher than the cherubim
+               </Language>
+               <Language id="Arabic">
+                  دعيت أم الله / ياإبنة يواقيم / وصرت كأعلا سماه / وفقت الكاروبيم
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  The Fountain of Life came forth from You / He healed all the sick / He returned the lost sheep / To the Paradise of Joy
+               </Language>
+               <Language id="Arabic">
+                  ظهر منك ينبوع الحياة / وأبرأ كل سقيم / ورد الخروف الضال / وحطم فخ الأركون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are the dome of Moses / That is filled with Light / You are the ark of covenant / Containing the secrets
+               </Language>
+               <Language id="Arabic">
+                  ياقبة موسى / يامملوءة انوار / ياتابوت العهد / وفيه كل الاسرار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O the flower of incense / Your aroma filled the earth / O precious treasure / O Aaron's rod
+               </Language>
+               <Language id="Arabic">
+                  يازهرة الاطياب / بخورك ملأ الأقطار / ياكنز الجوهر / ياعصاة هرون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O golden vessel / In it the hidden Manna / O pure sanctuary / Wherein God was delighted and dwelled
+               </Language>
+               <Language id="Arabic">
+                  ياقسط ذهب غالى / والمن مخفى فيه / ياهيكل طاهر / أحبه الله وسكن فيه
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He who believes in Him / Shall live after death / O you pure altar / Carrying the hidden secrets
+               </Language>
+               <Language id="Arabic">
+                  ومن يؤمن باسمه / بعد الموت يحييه / يامذبح طاهر / حامل السر المكنون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Hail to you O Mary / O favored above all virgins / The fathers called you / “The golden lampstand”
+               </Language>
+               <Language id="Arabic">
+                  السلام لك يامريم / ياست العذارى / سماك الآباء / كنزاً ومنارة
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Many spoke of you / With symbols and proverbs / O the aroma of Amber / In Aaron's censer
+               </Language>
+               <Language id="Arabic">
+                  وكم ضربوا عنك / رمزاً وإشارة / يا بخور العنبر / فى شورية هارون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  O sanctuary and protection / A dwelling place for the Trinity / O Throne of God the Father / The Lord of Hosts
+               </Language>
+               <Language id="Arabic">
+                  ياهيكل وحجاب / مسكن للثالوث / ياكرسى الله الآب / رب الصاباؤوت
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Through you O Mary we were awarded / The kingdom of Joy / Blessed are you O Mary / The sister of Solomon
+               </Language>
+               <Language id="Arabic">
+                  بك يا مريم فزنا / بنعيم الملكوت / طوباك يامريم / إتسونى ان سولومون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Do not forget your servant / For I am a poor sinner / I plead for your intercessions / On judgment day
+               </Language>
+               <Language id="Arabic">
+                  لاتنسى عبدك / لأنى خاطى ومسكين / وأرجو شفاعتك / فى الموقف يوم الدين
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Before Christ your Son / Be unto me a helper and provider / So He may forgive me / The multitude of sins
+               </Language>
+               <Language id="Arabic">
+                  عند يسوع ابنك / كونى لى عوناً ومعين / لكى يغفر لى ذنبى / ومن قد سلفون
+               </Language>
+            </Text>
+         </Section>
+         
+         <InsertDocument path="include/praises/koiahk/ExplanationRefrain"/>      
+      </Season>
+   </Group>
+</Document>

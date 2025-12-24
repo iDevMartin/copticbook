@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StThomasTheHermit:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Thomas the Hermit:
+            </Language>
+         </Comment>
+  
+         <InsertDocument path="include/versesofthecymbals/saints/StThomasTheHermitContents"/>
+      </Season>
+   </Group>
+</Document>

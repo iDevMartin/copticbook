@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StBesa:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Besa</Language>
+            <Language id="Arabic">ذوكصولوجية الأنبا ويصا</Language>
+            <Language id="Coptic">Pimay/t/c...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Besa:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Pimay/t/c n~te Abba Senou]: e~tafemp~sa n~tef[i pefma: hwc diado,oc efenhot: picovoc n~raus Abba Beca.
+            </Language>
+            <Language id="English">
+               The disciple of Abba Shenute: who was worthy to take his place: as a faithful successor: the wise and meek Abba Besa.
+            </Language>
+            <Language id="Arabic">
+               تلميذ الأنبا شنوده الذي استحق أن يأخذ مكانه كخليفة أمين الحكيم الطيب أنبا ويصا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Enafaiai m~m/ini qen pih~mot: naferhouo~ e~oumei n~]ekk~l/cia~: je nefio] ne haneuceb/c: au]c~bw naf n~niaret/.
+            </Language>
+            <Language id="English">
+               Who grew daily in grace: in His love for the Church: because of his pious parents: who taught him many virtues.
+            </Language>
+            <Language id="Arabic">
+               الذي كان ينمو دائماً في النعمة وكان يزداد حباً للكنيسة لأن والديه كانا تقيين وعلماه الفضائل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etaferp~iyumin qen pefh/t: n~tefermona,oc ouoh pefiwt: af[itf e~piar,/mand~ritic: e~ta piaggeloc tamof n~tefsopf.
+            </Language>
+            <Language id="English">
+               When he desired in his heart: to become a monk his father took him: to the Archimandrite: whom the angel told him to receive.
+            </Language>
+            <Language id="Arabic">
+               الذي اشتهي من قلبه أن يصير راهباً وأخذه والده إلي رئيس المتوحدين الذي أخبره الملاك أن يقبله.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etafersau qen tefmetmay/t/c: afcotpf n~je I/#c# n~teferoujwj: m~p~ab/t menenca Abba Senou]: e~s~m/n so m~mono,oc.
+            </Language>
+            <Language id="English">
+               When he succeeded in his discipleship: he was chosen by Jesus to lead: the monastery after Abba Shenute: that had eight thousand monks.
+            </Language>
+            <Language id="Arabic">
+               لما نجح في تلمذته إختاره يسوع ليصير رئيساً للدير بعد أنبا شنوده علي ثمانية آلاف راهب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ Abba Beca: v/e~te nouf n~nenjincaji n~covoc: akc~qai n~hanentol/ eu]h/ou: akjek pekagwn eynanef.
+            </Language>
+            <Language id="English">
+               Hail to you, O Abba Besa: who has said wise proverbs: You wrote beneficial laws: and completed your good struggle.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا أنبا ويصا يا من يخصه الأقوال الحكيمة كتبت رسائل نافعة وأكملت جهادك الحسن.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StBesa"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="JonahPassover ^ WatosDays ^ AdamDays ^ Weekdays ^ Thursdays">
+      <Title>
+         <Language id="English">Jonah's Passover</Language>
+         <Language id="Arabic">فطر يونان</Language>
+      </Title>
+       
+      <Title>
+         <Language id="English">Offering of Morning Incense</Language>
+         <Language id="Arabic">رفع بخور باكر</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins">
+         <InsertDocument path="include/gospelResponse/Index"/>         
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/hiten/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>         
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+   </ForceSeason>
+</Document>

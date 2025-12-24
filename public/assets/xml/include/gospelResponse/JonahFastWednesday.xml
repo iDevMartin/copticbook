@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JonahFast ^ Matins ^ Wednesdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Je a~mwini haroi...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Wednesday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Je a~mwini haroi: n/etc~marwout n~te Paiwt: a~rik~l/ronomin m~piwnq: eym/n e~bol sa e~neh.
+            </Language>
+            <Language id="English">
+               Come to Me, you who are blessed of My Father, inherit the life, which endures forever.
+            </Language>
+            <Language id="Arabic">
+               تعالوا إلي يا مباركي أبي رثوا الحياة الدائمة إلي الأبد.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+   
+   <Season id="JonahFast ^ Liturgy ^ Wednesdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Je a~mwini haroi...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Wednesday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Pisasf n~wik afc~mou e~rwou 4 n~so n~rwmi aft~ciwou: sasf m~bir aumoh m~mwou: qen nilakh: e~tauerhouo~ e~rwou.
+            </Language>
+            <Language id="English">
+               He blessed the seven loaves of bread, He filled four thousand men. Seven baskets were filled, with leftovers.
+            </Language>
+            <Language id="Arabic">
+               السبع خبزات باركها واشبع أربعة آلاف رجل وسبع قفف ملأها مما فضل عنهم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

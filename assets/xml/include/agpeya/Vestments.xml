@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">
+         Psalms Recited While Putting On Vestments
+      </Language>      
+   </Title>
+   
+   <InsertDocument path="include/agpeya/psalms/29"/>
+   <InsertDocument path="include/agpeya/psalms/92"/>
+</Document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheEvangelist:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. John the Evangelist</Language>
+            <Language id="Arabic">ذوكصولوجية القديس يوحنا الانجيلى</Language>
+            <Language id="Coptic">Iwann/c piparyenoc</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John the Evangelist:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Iwann/c piparyenoc: p~s/ri n~Zebedeoc: e~bol qen nirem m~B/d(y) caide: qen t~vul/ n~te Zebolon.
+            </Language>
+            <Language id="English">
+               John the virgin, the Son of Zebedee, a native of Bethsaida, from the tribe of Zebulun.
+            </Language>
+            <Language id="Arabic">
+               يوحنا البتول ابن زبدى من أهل بيت صيدا من سبط زبولون.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afcwtp m~mof n~je P,#c#: afe~roumay/t/c naf: ouoh pia~poctoloc: nafmei m~mof e~masw.
+            </Language>
+            <Language id="English">
+               Christ has chosen him, and made him a disciple for Himself, and also an apostle, he loved Him very much.
+            </Language>
+            <Language id="Arabic">
+               اختاره المسيح وصيره تلميذا له ورسولا وكان يحبه جدا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyof on menenca pid/pnon: afrwteb m~mof e~h~r/i e~jen: y~mectenh/t m~pencwt/r: ouoh afjoc nim v/eynat/ik.
+            </Language>
+            <Language id="English">
+               He also after dinner, rested upon the shoulder, of our Savior and said to him, "Who will betray You."
+            </Language>
+            <Language id="Arabic">
+               وهو أيضا بعد العشاء اتكأ على صدر مخلصنا وقال من هو الذي يسلمك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyof on e~tafcaji eyb/tf: n~je P,#c# qen rwf e#y#u#: je e~swp aisanouws e~,af: e~vai sa]i~ a~qok n~ywk.
+            </Language>
+            <Language id="English">
+               Christ has spoken of you, through His holy mouth, "If I will that he remain till I come, what is that to you?"
+            </Language>
+            <Language id="Arabic">
+               وهو أيضا الذي تكلم من أجله المسيح بفمه الطاهر إذا أردت أن أجعله يبقى لحين مجيئى فماذا لك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh menenca map n~rompi: e~]anactacic e#y#u#: afc~qai m~pefeuaggelion: afhiwis m~mof qen pikocmoc.
+            </Language>
+            <Language id="English">
+               And after thirty years, from the Holy Resurrection, he wrote his Gospel, and preached to the world.
+            </Language>
+            <Language id="Arabic">
+               وبعد ثلاثين سنة للقيامة المقدسة كتب إنجيله  وكرز به في العالم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ piparyenoc: ,ere pieuaggelict/c: ,ere pia~poctoloc: n~te P,#c# ouoh may/t/c.
+            </Language>
+            <Language id="English">
+               Hail to you O virgin, hail to the Evangelist, hail to the apostle, of Christ the disciple.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها البتول السلام للانجيلى السلام لرسول المسيح وتلميذه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: w~ pimenrit n~te P,#c#: Iwann/c picwtp m~m/i: p~s/ri n~Zebedeoc.
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, O beloved of Christ, John the truly chosen one, the Son of Zebedee.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة ياحبيب المسيح يوحنا المختار الحقيقي ابن زبدى.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJohnTheEvangelist"/>
+      </Section>
+   </Season>
+</Document>

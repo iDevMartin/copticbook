@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section antiphonePitch="1">
+      <Title>
+         <Language id="English">Doxology for the Apostles</Language>
+         <Language id="Arabic">ذوكصولوجية لآبائنا الرسل</Language>
+         <Language id="Coptic">Pisorp qen nia~poctoloc...</Language>
+      </Title>
+   
+      <InsertDocument path="include/doxologies/Apostles.2.1"/>
+   
+      <Text>
+         <Language id="Coptic">
+            Ke ouai on je Iwann/c: f~mei m~mof e~masw: afrwteb m~mof e~h~r/i e~jen: y~mectenh/t m~Pencwt/r.
+         </Language>
+         <Language id="English">
+            Also another one is John, he loved Him very much, he rested his head, on the shoulders of our Savior.
+         </Language>
+         <Language id="Arabic">
+            وآخر أيضاً يدعي يوحنا يحبه جداً اتكأ علي صدر مخلسنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Nem p~cepi n~te nimay/t/c: ouon n~twou n~outaio~ m~mau: eybe toumeta~poctoloc: je aumosi n~ca Pencwt/r.
+         </Language>
+         <Language id="English">
+            And the rest of the disciples, they have honor also, on account of their apostleship, for they followed our Savior.
+         </Language>
+         <Language id="Arabic">
+            وبقية التلاميذ لهم الكرامة من أجل رسوليتهم لأنهم تبعوا مخلصنا.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/doxologies/conclusions/Apostles"/>
+   </Section>
+   
+   <Section antiphonePitch="1">
+      <Title>
+         <Language id="English">Another Doxology for the Apostles</Language>
+         <Language id="Arabic">ذوكصولوجية لآبائنا الرسل</Language>
+         <Language id="Coptic">Kurioc I/#c# P,#c#...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Kurioc I/#c# P,#c#: afcwtp n~nefa~poctoloc: e~te Petroc nem And~reac: Iwann/c nem Iakwboc.
+         </Language>
+         <Language id="English">
+            Our Lord Jesus Christ: has chosen His apostles: Peter and Andrew: John and James.  
+         </Language>
+         <Language id="Arabic">
+            الرب يسوع المسيح اختار رسله وهم بطرس واندراوس ويوحنا ويعقوب.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Loipon Vilippoc nem Matyeoc: Baryolomeoc nem Ywmac: Iakwboc n~te Alveoc: nem Cimwn pikananeoc.
+         </Language>
+         <Language id="English">
+            And the rest: Philip and Matthew: Bartholomew and Thomas: James the son of Alphaeus: and Simon the Canaanite.
+         </Language>
+         <Language id="Arabic">
+            وفيلبس ومتى وبرثولماوس وتوما ويعقوب بن حلفى وسمعان القانوى.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Yaddeoc nem Matyiac: Pauloc nem Markoc nem Loukac: nem p~cepi n~te nimay/t/c: n/e~taumosi n~ca Pencwt/r.
+         </Language>
+         <Language id="English">
+            Thaddeus and Matthias: Paul, Mark and Luke: and the rest of the disciples: who followed our Savior. 
+         </Language>
+         <Language id="Arabic">
+            وتداوس ومتياس وبولس ومرقس ولوقا وبقية التلاميذ الذين تبعوا مخلصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Matyiac v/e~tafswpi: n~t~sebiw n~Ioudac: nem p~jwk e~bol nem p~cepi: n/e~taumosi n~ca decpota.
+         </Language>
+         <Language id="English">
+            Mathias, who was chosen: in place of Judas: all of them and the rest : followed the Master. 
+         </Language>
+         <Language id="Arabic">
+            متياس الذي صار عوضا عن يهوذا وكامل وبقية التلاميذ الذين تبعوا السيد.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Apouq~rwou senaf e~bol: hijen p~ho m~p~kahi t/rf: ouoh noucaji auvoh: sa aur/jc n~]oikoumen/.
+         </Language>
+         <Language id="English">
+            Their voices went forth: throughout the face of the whole earth : and their words have reached : the ends of the world.
+         </Language>
+         <Language id="Arabic">
+            خرجت أصواتهم إلى وجه الأرض كلها وبلغ كلامهم إلى أقطار المسكونة.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/doxologies/conclusions/Apostles"/>
+   </Section>
+</Document>

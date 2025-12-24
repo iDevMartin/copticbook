@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction4="true">
+   <Title>
+      <Language id="English">Unction of the Sick (Fourth Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة الرابعه)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         Let the fourth priest light the fourth lamp and say the fourth prayer.   
+      </Language>      
+      <Language id="Arabic">
+         توقد الفتيلة الرابعه ويقول الكاهن:
+      </Language>
+   </Comment>
+         
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>   
+   <InsertDocument path="include/litanies/LeaderLong"/>
+   
+   <InsertDocument path="include/PrayerOfIncenseForPaulineEpistle"/>
+   
+   <Role id="People">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Romans 8:14-21" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>
+      
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               P[oic pe]c~bw ouoh v/ettal[o: v/e~taftounoc ouh/ki e~bolha p~kahi: ouoh af[ici n~ousatmeynai e~bolha oukopria~.
+            </Language>
+            <Language id="English">
+               O Lord, the Teacher and the Healer, Who raise the poor from the ground, and lift up the beggar from the dung;  
+            </Language>      
+            <Language id="Arabic">
+               ايها الربُ المؤدبُ الشافى، الذى يقيمُ المسكينُ من الارضِ ويرفعُ الفقيرَ من المزبلةِ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Viwt n~te niorvanoc: ouoh v~ref]hap n~te ni,/ra: pilum/n n~te n/et,/ qen pi,imwn: pic/ini n~te n/ethemk/out.
+            </Language>
+            <Language id="English">
+               the Father of orphans; the Judge of widows; the Harbour of those in the storm; the Physician of the afflicted. 
+            </Language>      
+            <Language id="Arabic">
+               أب الايتام وقاضى الارامل، ميناء الذين فى العاصف طبيب السقماء. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~taffai qa nenswni: aftwoun qa nenswni: aftwoun qa nena~nomia~: v/et qen ]bo/~yia~: pirefw~oun~h/t qen nikolacic.
+            </Language>
+            <Language id="English">
+               Who bear our sicknesses, and take away our iniquities; Who are near to help; the Merciful in chastisements.  
+            </Language>      
+            <Language id="Arabic">
+               الذى حملَ أمراضَنا ورفعض آثامَنا. القريبُ فى المعونةِ، المتأنى فى العقاب.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafnifi e~qoun qen p~ho n~nefmay/t/c e~afjoc nwou: je [i nwten n~oup~neuma e~youab: n/e~tetenna,a nounobi nwou e~bol ce,/ nwou e~bol.
+            </Language>
+            <Language id="English">
+               Who breathed in the face of Your disciples, and said unto them, “Receive the Holy Spirit. If you forgive the sins of any, they are forgiven.”
+            </Language>      
+            <Language id="Arabic">
+               الذى نفَخَ فى وجهِ تلاميذِه وقال لهم: ”اقبلوه الروح القدس من غفرتم لهم خطاياهم غفرت لهم.“
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nyok pe e~takswp e~rok n~]meta~noia~ n~te nirefernobi: v/ettal[o e~bolqen niswni eybe ]meth/ki n~te pekbwk: nem patwbh a~nok qa piatm~p~sa e~tauyahmef qen pekh~mot e~]metou/b: qen pekma eyouab.
+            </Language>
+            <Language id="English">
+               You receive the repentance of sinners, Who heal from sicknesses through Your poor servant and the prayer of my unworthiness who have been called by Your grace to the priesthood in Your holy place;   
+            </Language>      
+            <Language id="Arabic">
+               أنت الذى تقبلُ اليكَ توبةَ الخطاةِ، أيها الشافى من الامراضِ. من اجل مسكنةِ عبدِكَ، وطلبتى أنا غيرُ المستحقِ، المدعو بنعمتِكَ إلى الكهنوتِ فى موضعِكَ المقدس. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               v/etm~p~sa qen pekh~mot m~p~semsi n~te nekmuct/rion eyouab: ouoh e~i~ni n~hanp~roceu,/ nem hanp~rocvora: eybe p~,w e~bol n~ninobi n~te peklaoc: nem oumecit/c qen p~jinqwnt n~neke~cwou n~logikon e~rok.
+            </Language>
+            <Language id="English">
+               who am worthy through Your grace of the ministry of Your holy mysteries,and to offer prayers and sacrifices for the remission of the sins of Your people, and a mediator to bring nigh Your reasonable sheep to You.   
+            </Language>      
+            <Language id="Arabic">
+               المستحق بنعمتِكَ لخدمةِ اسرارِكَ المقدسةِ. وتقدمه الصلواتِ والقرابين من اجل غفرانِ خطايا شعبِكَ والتوسط فى تقريبِ خرافِكَ الناطقة إليك. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               W pimane~cwou eynanef: swp e~rok m~pa]ho eybe pekbwk (nim): ouwrp naf m~pital[o n~,wlem: ouoh ,w naf e~bol n~nefa~nomia~: ouoh moi n~ououjai m~pefcwma t/rf nem nefmeloc t/rou nem pefp~neuma e~bol qen iabi niben: ouoh bwl e~bol n~nefm~kauh n~cwmatikon.
+            </Language>
+            <Language id="English">
+               O Good Shepherd receive my prayer for Your servant (...); and send unto him healing speedily, and forgive him his iniquities; and give health to his whole body and all his members and his soul from all diseases; and relieve him from his bodily pains.     
+            </Language>      
+            <Language id="Arabic">
+               ايها الراعى الصالح، إقبل اليكض طلبتى من أجلِ عبدِكَ (...). ارسل له الشفاءَ سريعاً، واغفر له آثامَه. وامنح الصحةَ لسائرِ جسدِه وجميعِ اعضائه وروحِه من كل الامراض. أرحه من كلِّ آلامِه الجسدانيةِ.  
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh ouw~teb n~nefa~nagk/: w~ v/e~tenerhelpic e~keouai an e~b/l e~rof:
+            </Language>
+            <Language id="English">
+               Make his necessities to pass away, O You in Whom we hope, and in none other but You,
+            </Language>      
+            <Language id="Arabic">
+               ازل ضيقاتَه وأحزانَه، يا من لا نرجو أخر سواكَ.
+            </Language>
+         </Text>         
+         
+         <Text>
+            <Language id="Coptic">
+               Kata v~r/] e~taktame pimay/t/c c~nau n~te Iwann/c ekjw m~moc: je masenwten matame Iwann/c e~n/e~tetennau e~rwou nem n/e~tetencwtem e~rwou: je nibelleu cenau m~bol: ouoh nikour cecwtem: ni[aleu cemosi: n/etswni ceoujai: nikakceht cetoub/out: nirefmwout cetwounou: nih/ki cehisennoufi nwou: wouniatf m~v/e~tenf~naerc~kandali-zecye an n~q~r/i n~q/t.
+            </Language>
+            <Language id="English">
+               according as You showed the two disciples of John, saying, “Go, show John all things which ye see and hear, that the blind see, and the deaf hear, the lame walk, the sick are healed, the lepers are cleansed, the dead are raised up; the poor have the gospel preached unto them. Blessed is he who shall not be offended in Me.”  
+            </Language>      
+            <Language id="Arabic">
+               كما اعلمتَ تلميذى يوحنا وقلتَ لهما: ”امضيا واعلما يوحنا بما رأيتما وسمعتما، أن العميانَ يبصرون، والصمَ يسمعون والعرجَ يمشون، والمرضى يعافون والبرصَ يتطهرون، والموتى يقومون، والمساكيَن يبشرون، فطوبى لمن لا يشك فىَّ.“
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenerc~kandalizin an qen ]jom n~te tekmeynou]: w~ Pi,~rictoc p~s/ri m~Vnou] pimonogen/c: pihi/b n~te Vnou]: v/etw~li m~v~nobi n~te pikocmoc.
+            </Language>
+            <Language id="English">
+               We are not offended in the power of Your Godhead, O Christ the Only-Begotten Son of God, the Lamb of God that takest away the sin of the world. 
+            </Language>      
+            <Language id="Arabic">
+               فلنسا نشكَ فى قوةِ لاهوتِكَ، أيها المسيحُ ابنَ الله الوحيد، وحملَ الله، حامل خطايا العالم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ n~neknai nem nekmetsenh/t je ceswpi icjen h/: je p~h/t m~v~rwmi raki n~ca pipeth~wou icjen tefmetkouji: je m~poujem h~li n~rwmi a[ne nobi: kan oue~hoou n~ouwt pe pefwnq hijen pikahi.
+            </Language>
+            <Language id="English">
+               Remember Your mercies and Your pity that have been from the beginning; that the heart of man turns to that which is evil from his infancy, that no man is found without sin, though his life be but one day upon the earth. 
+            </Language>      
+            <Language id="Arabic">
+               اذكر مراحمَكَ ورأفاتَكَ التى منذ البدءِ. لأن فكرَ الإنسانِ مائلٌ إلى الشرِ منذ صباه، ولا يوجد إنسانٌ بغيرِ خطيةٍ ولو كانت حياتُه يوماً واحداً على الأرضِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aksan]h~y/k e~a~nomia~ P[oic: P[oic nim eynas~o~hi e~ratf: je pi,w e~bol ou e~bolhitotk pe: aksan]hap nim eynas~jem dwiji: je rwf niben afywm ouoh n~nefs~jemjom e~caji.
+            </Language>
+            <Language id="English">
+               If You, O Lord, regardest iniquity, O Lord, who shall abide it? For forgiveness is from You. If You condemn, who shall find excuse?  For every mouth is closed, and will not be able to speak.
+            </Language>      
+            <Language id="Arabic">
+               وان أخذتَ بالآثامِ ياربُ. ياربُ من يستطيعُ الوقوفَ امامَكَ، لأن المغفرةَ هى من عندِكَ. وإن حاكمتَ فمن يقدرُ أن يحتجَ لأن كلَّ فمٍ يستد ولا يستطيعُ الكلامَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic m~pererv~meui~ n~ninobi n~te tametate~mi: pimanvwt n~te n/e~termetanoin: ]helpic n~te n/e~te m~montou helpic: pim~ton n~te n/etqoci.
+            </Language>
+            <Language id="English">
+               O Lord, remember not the sins of my ignorance, O Refuge of them that repent, the Hope of the hopeless, the Rest of them that labour. 
+            </Language>      
+            <Language id="Arabic">
+               ياربُ لا تذكرْ خطايا جهلى، يا ملجأ التائبين ورجاء من لا رجاء وراحة التعابى.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh tenouwrp nak e~p~swi m~piw~ou nem pitaio~: nem ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: ]nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               And we offer unto You glory and honour and worship, with Your Good Father and the Holy Spirit. Now and ever, and unto the age of all the ages.  Amen. 
+            </Language>      
+            <Language id="Arabic">
+               نرسل لك الى فوق المجد والكرامة والسجود مع ابيك الصالح، والروح القدس، الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Role>      
+   </Section>
+</Document>

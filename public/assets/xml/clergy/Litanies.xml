@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" PriestsOnly="true">      
+   <Title>
+      <Language id="English">
+         Litanies from the Raising of Incense
+      </Language>
+   </Title>
+   
+   <InsertDocument path="include/litanies/Sick"/>
+   <InsertDocument path="include/litanies/Travelers"/>
+   <InsertDocument path="include/litanies/Oblations"/>
+   <InsertDocument path="include/litanies/Departed"/>
+   
+   <InsertDocument path="include/FiveShortLitanies"/>
+   <InsertDocument path="include/ThreeGreatLitanies"/>   
+</Document>

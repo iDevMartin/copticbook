@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason">
+      <Comment>
+         <Language id="English">         
+            For the month of Koiahk:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Hiten nip~recbia n~te picuggen/c n~Emmanou/l Iwann/c p~s/ri n~Za,ariac: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+         </Language>
+         <Language id="English">
+            Through the intercessions of the kinsman of Immanuel, John the son of Zachariah: O Lord, grant us the forgiveness of our sins.
+         </Language>
+         <Language id="Arabic">
+            بشفاعات نسيب عمانوئيل يوحنا ابن زكريا ياربُ أنعم علينا بمغفرة خطايانا.
+         </Language>         
+      </Text>
+   </Season>
+</Document>

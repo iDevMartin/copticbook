@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Chanters">
+      <Text>
+         <Language id="Coptic">
+            Axioc axioc axioc: papa abba Tawadroc piar,ie~reuc.
+         </Language>
+         <Language id="English">
+            Worthy, worthy, worthy, Pope Abba Tawadros the archpriest.
+         </Language>
+         <Language id="Arabic">
+            مستحق مستحق مستحق البابا الأنبا تواضروس رئيس الكهنة.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

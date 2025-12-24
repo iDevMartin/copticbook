@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <InsertDocument path="include/agpeya/psalms/50"/>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+</Document>

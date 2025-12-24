@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/versesofthecymbals/HosannaSunday"/>
+   <InsertDocument path="include/versesofthecymbals/Pentecost"/>
+   <InsertDocument path="include/versesofthecymbals/Circumcision"/>
+   <InsertDocument path="include/versesofthecymbals/WeddingCana"/>
+   <InsertDocument path="include/versesofthecymbals/PresentationInTemple"/>
+   <InsertDocument path="include/versesofthecymbals/Annunciation"/>
+   <InsertDocument path="include/versesofthecymbals/Transfiguration"/>
+   <InsertDocument path="include/versesofthecymbals/JoyousSaturday"/>
+   <InsertDocument path="include/versesofthecymbals/Joyful29thOfTheMonth"/>
+   <InsertDocument path="include/versesofthecymbals/Nativity"/>
+   <InsertDocument path="include/versesofthecymbals/Theophany"/>
+   <InsertDocument path="include/versesofthecymbals/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/versesofthecymbals/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamily"/>
+</Document>

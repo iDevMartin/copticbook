@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Season id="KoiahkSeason">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Concluding Litany</Language>
+            <Language id="Arabic">الطلبة الختامية</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  O, begotten of the Father before all ages; Light of Light, true God of true God; begotten, not created; of one essence with the Father by whom all things were made, and without Him nothing was made which was made: we thank you, our Lord, God and Savior Jesus Christ. We entreat Your goodness, O Lover of Mankind, through the intercessions of our lady, the Lady of us all, our pride, the pure virgin, the chaste, Saint Mary, who was worthy to be a mother to You in the fullness of time;
+               </Language>
+               <Language id="Arabic">
+                  أيهاالمولود من الاب قبل كل الدهور٬ نور من نور اله حق من اله حق٬ مولود غير مخلوق واحد مع الاب فى الجوهر٬ الذى به كان كل شىء وبغيره لم يكن شىء مما كان٬ نشكرك يا ربنا ومخلصنا يسوع المسيح٬ ونتضرع الى صلاحك يا محب البشر٬ بشفاعة سيدتنا كلنا فخر جنسنا العذراء الطاهرة البتول مرتمريم٬ هذه التى استحقت ان تصير اما فى ملىء الزمان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  and through the prayers of our pure chaste Saint Mark the evangelist and apostle; and through the prayers of all the choirs of the martyrs and saints, have mercy upon us according to Your great mercy. Forgive our sins, save us from our sins, those past and present; keep us and protect us lest we fall into our laziness once more. Renew within us the grace of your Holy Spirit, the Comforter. Confirm Him in us in this age and the age to come.
+               </Language>
+               <Language id="Arabic">
+                  وبطلبات ابينا البكر الطاهر مارمرقس الانجيلى الرسول٬ وصلوات سائر مصاف الشهداء والقديسين٬ ارحمنا يا الله كعظيم رحمتك٬ واغفر لنا خطايانا واتقذنا من لآثامنا الماضية والمستأنفة٬ واحفظنا واسترنا لئلا نسقط فى تكاسلنا مرة أخرى وجدد فى احشائنا نعمة روح قدسك المعزى٬ وثبته فينا فى هذا الدهر وفى الدهر الآتى.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/agpeya/DoxaPatri"/>
+          
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  May Your comfort speedily reach us; grant it unto us, we Your servants, O Christ, when our spirits are faint. Be not far from our minds or souls, during tribulations. Be merciful to us, O Christ, who are exceedingly merciful. Draw near to us, who are Omnipresent, as You were present in the midst of Your pure disciples and righteous saintly apostles, comforting them and revealing Yourself to them at all times. Likewise, we, Your servants, who are longing for You, keep us and save us, so that we may praise You incessantly.
+               </Language>
+               <Language id="Arabic">
+                  فليدركنا عزاؤك سر يعا٬ وامنحه لنا نحن عبيدك ايها المسيح الهنا عندما تصغر ارواحنا٬ لا تبعد عن عقولنا فى الشدائد٬ ولا من نفوسنا٬ لكن تحنن علينا ايها المسيح الكثير الرحمة٬ واقترب منا ايها الحال فى كل مكان كما كنت حالا فى وسط تلاميذك الاطهار٬ ورسلك اللقديسين الابرار٬ تعزيهم وتريهم ذاتك فى كل حين٬ هكذا نحن عبيدك المشتاقين اليك٬ احفظنا وخلصنا لكى نسبحك على الدوام٬
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/agpeya/KeNin"/>
+                  
+         <Role id="Priest"> 
+            <Text>
+               <Language id="English">
+                  All generations magnify you, O Theotokos, Saint Mary, the pure virgin, for the un-containable, our Lord and helper, Christ, was pleased to dwell in you. Blessed are we the Christians, for you became a mediator, interceding for us night and day. Our rulers’ judgments are upright through your prayers. Therefore, we magnify you, with Gabriel the archangel, and cry out with the voice of joy and delight saying: “Hail to you, O full of grace, the Lord is with you. Amen.”
+               </Language>
+               <Language id="Arabic">
+                  تغبطك كل الاجيال يا والدة الاله مرتمريم العذراء الطاهرة لانه سر ان يحل فيك غير المحوى المسيح الهنا٬ وعيننا٬ طوبى لنا نحن المسيحيين لانك صرت وسيلة تشفع فينا الليل والنهار٬ وأسلحة رؤسائنا مستقيمة بطلباتك٬ من أجل ذلك نعظمك مع غبريال رئيس الملائكة ونصرخ بصوت الفرح والتهليل هكذا قائلين٬ السلام لك يا ممتلئة نعمة الرب معك. آمين.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="LazarusSaturday">
+      <Comment>
+         <Language id="English">
+            After Psalm 150, the hymn <span class="Coptic">Lazaroc amou ebol</span> may be chanted in the tune of <span class="Coptic">Je f~c~marouwt</span> (standard melodies) or <span class="Coptic">Piwik</span>:
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>                  
+            <Language id="English">Hymn for Lazarus Saturday</Language>
+            <Language id="Coptic">Lazaroc amou ebol</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Lazaroc a~mou ebol: Pi,~rictoc afmou] e~rok: qen tefvwni n~reftanqo: je Lazaroc a~mou ebol.
+            </Language>
+            <Language id="English">
+               “Lazarus come forth,” / Christ called to you / with His life-giving voice / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               لعازر هلم خارجا المسيح دعاك بصوته المحيي قائلاً: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Lazaroc afmou ouoh au,af qen pim~hau n~f~tou n~e~hoou: a~]c~m/ n~te P~[oic voh sarof: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Lazarus died and was buried / in the tomb for four days; / the Lord’s voice reached him / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               لعازر مات ووضع في القبر أربعة أيام صوت الرب بلغ اليه لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nim/s etauywou] m~mau: eyrounom] n~tefcwni aucwtem m~P~[oic: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               The crowd which gathered there / to comfort his sister / heard the Lord / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               الجموع الذين اجتمعوا هناك ليعزوا اخته سمعوا الرب قائلاً: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Peje Marya m~Pen[oic I/couc: e~nak,/ m~paima: narepaconna mou an: alla ]nae~mi: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Martha said to our Lord Jesus / “Had You been here my brother would have not died / but I know [you will call]” / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               فقالت مرثا لربنا يسوع لو كنت هنا لم يمت أخي بل اني أعلم أنك تدعوه: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pejaf nac n~je Pen[oic: je a~resan nah] n~q/t: ie h/ppe ]namou] e~rof: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Our Lord said to her / “If you believe in Me / then behold I will call him,” / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               فقال لها ربنا إن آمنت بي ها هوذا أدعوه : لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Einah] je n~yok pe P~s/ri m~V~nou]: v/e~teouon s~jom m~mok: eyrekmou] e~rof qen tekjom: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               I believe that You are the Son of God / who is able to call him out / by Your might / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               آمنت أنك أنت هو ابن الله تستطيع أن تدعوه بقوتك : لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nai e~tafjotou affai n~nefbal: e~p~swi ha pefiwt n~a~gayoc: efws e~bolqen ounis] n~c~m/: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Saying this He lifted His eyes / to His good Father / crying out with a great voice / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               لما قال هذا رفع عينيه الي فوق نحو أبيه الصالح صارخا بصوت عظيم: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Nilegeon etauconh m~mof: qen oumetbwk m~pii~tartaroc: pejwou je nim pe vai eyna je pai caji: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               The evil legions who bound him / in servitude in the depth of depths / said, “who is this who spoke / saying, ‘Lazarus come forth?’”
+            </Language>
+            <Language id="Arabic">
+               جنود الشر الذين أوثقوه في عبودية أسفل السافلين قائلين من هو هذا المتكلم : لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je nim pe vai etatef c~m/: afkws n~hanped/c n~nirefcwnh: je afjoc naf qen oumetatho]: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Who is this whose voice /  broke the shackles of the bound / and told him without fear / saying, “Lazarus come forth?”
+            </Language>
+            <Language id="Arabic">
+               من هو الذي صوته كسر قيود المربوطين وقال له بغير خوف : لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Twounou ,af m~mof ouoh envwt: vai pe v/ettanqo n~nirefmwout: a~f] n~tefc~m/ ouoh afhonhen m~mof: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Rise, leave Him and flee. / This is the Life-Giver to the dead; / He revealed His voice and ordered him / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               قوموا لنتركه ونهرب لأن هذا هو محيي الأموات أعلن صوته وأمره: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Catotf Lazaroc afi~ e~bol: efm/r n~oucodarion: qen p~jin y~re P~[oic mou] e~rof: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Immediately, Lazarus came out / bound in linen / when the Lord called him / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               فخرج لعازر لوقته مربوطاً بعمامة عندما دعاه الرب قائلاً : لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               N/e~taui~ ha Maria: aunah] eybe n/etauaitou: nem eybe ] c~m/ etaucoymec: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Those who came to Mary / believed because of what He had done / and because of the voice they heard / saying, “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               فأولئك الذين أتوا الي مريم آمنوا من أجل ما صنع ومن أجل الصوت الذي سمعوه: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenywou] ouoh n~tenhwc: m~Pen[oic I/couc Pi,~rictoc: tenws e~bol m~v/etafjoc: je Lazaroc a~mou e~bol
+            </Language>
+            <Language id="English">
+               Let us gather and praise / our Lord Jesus Christ; / we cry out to Him who said / “Lazarus come forth.”
+            </Language>
+            <Language id="Arabic">
+               فلنجتمع ونسبح ربنا يسوع المسيح ونصرخ لمن قال: لعازر هلم خارجاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;w nan e~bol n~nena~nomia~: ouoh moi nan n~oucwt/ria: hiten nentwbh nen nenp~recbia~: n~te ten[oic n~n/b ]agia Maria.
+            </Language>
+            <Language id="English">
+               Forgive us our sins / and grant us salvation / through the prayers and intercessions / of our Lady Saint Mary.
+            </Language>
+            <Language id="Arabic">
+               اغفر لنا آثامنا واعطنا خلاصاً بطلبات وشفاعات سيدتنا الملكة القديسة مريم.
+            </Language>         
+         </Text>
+      </Section>            
+   </Season>
+</Document>

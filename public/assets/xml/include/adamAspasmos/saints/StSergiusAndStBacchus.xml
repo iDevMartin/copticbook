@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StSergiusAndStBacchus:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Marenywou] w~ nilaoc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Sergius and St. Bacchus:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenywou] w~ nilaoc: m~mainou] I/couc Pi,~rictoc: n~tentaio~ n~naimarturoc: Niagioc Cergioc nem Ba,oc: All/louia (3)
+            </Language>
+            <Language id="English">
+               Let us gather O people: lovers of God Jesus Christ: to honor these martyrs: the Saints Sergius and Bacchus: Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               فلنجتمع نحن الشعب المحب للإله يسوع المسيح لنكرم هذين الشهيدين القديسين سرجيوس وواخس الليلويا (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

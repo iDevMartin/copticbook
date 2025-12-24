@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Patriarch:Intercessions">
+         <Text>
+            <Language id="Coptic">
+               Hiten noueu,/ a~reh e~p~wnq m~peniwt ettai/out n~ar,ie~reuc papa abba (nim): P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through their prayers, keep the life of our honored father, the archpriest, Pope Abba (...). O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلواتِهم إحفظ حياة أبينا المكرم رئيس الكهنة البابا الأنبا(…)، ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

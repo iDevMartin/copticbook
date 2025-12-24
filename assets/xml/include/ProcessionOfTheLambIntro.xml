@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Procession of the Lamb</Language>
+      <Language id="Arabic">دورة الحمل</Language>
+   </Title>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/ProcessionOfTheLambIntro.1"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouhir/n/ nem oukwt e~jen ]oui~ m~mauatc eyouab n~kayolik/ n~a~poctolik/ n~ekkl/cia n~te Vnou]: a~m/n.
+         </Language>
+         <Language id="English">
+            Peace and edification to the one, only, holy, catholic, and apostolic Church of God. Amen.
+         </Language>
+         <Language id="Arabic">
+            سلاماً وبنياناً لكنيسةِ الله الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ. آمين.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/litanies/OblationsShortPriest"/>      
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per twn a~giwn timiwn dwron toutwn ke yuciwn /~mwn ke p~rocverontwn. Kurie e~le/~con.
+         </Language>
+         <Language id="English">
+            Pray for these holy and precious gifts, our sacrifices, and those who bring them. Lord have mercy.
+         </Language>
+         <Language id="Arabic">
+            صلوا من أجل هذه القرابين المقدسة الكريمة وضحايانا والذين قدموها.
+         </Language>
+      </Text>         
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic n~ouon niben e~tauhonhen nan e~erpoumeui~ qen nen]ho nem nentwbh: P[oic efe~erpoumeui~ qen tefmetouro etqen niv/oui~.
+         </Language>
+         <Language id="English">
+            Remember, O Lord, all who have bidden us to remember them in our prayers and supplications. May the Lord remember them in His heavenly kingdom.
+         </Language>
+         <Language id="Arabic">
+            اذكر ياربُّ كُلَّ الذين أوصونا أن نذكرَهم في سؤالاتِنا، وطلباتِنــا، الربُّ يذكرُهُمْ في ملكوتِه الذي في السموات.
+         </Language>
+      </Text>
+   </Role>
+</Document>

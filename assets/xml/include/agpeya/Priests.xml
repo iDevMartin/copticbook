@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">
+         Psalms Recited on the Way to Church
+      </Language>      
+      <Language id="Arabic">
+         المزامير يتلى في الطريق إلى الكنيسة
+      </Language>
+   </Title>
+   
+   <InsertDocument path="include/agpeya/psalms/26"/>
+   <InsertDocument path="include/agpeya/psalms/46"/>
+   <InsertDocument path="include/agpeya/psalms/121"/>
+   <InsertDocument path="include/agpeya/Vestments"/>
+   <InsertDocument path="clergy/Absolution of the Priests"/>
+</Document>

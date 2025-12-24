@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="JoyousSaturday">
+         <Text>
+            <Language id="Coptic">
+               Eulogite pantata erga Kurie~ ton Kurion: u~mnite ke u~peru'ote: auton ic touc e~w~nac. Am/n.
+            </Language>
+            <Language id="English">
+               Bless the Lord, O you works of the Lord, Praise Him and exalt Him above all forever. Amen.
+            </Language>
+            <Language id="Arabic">
+               باركي الرب ياجميع أعمال الرب سبحيه وزيديه علواً إلى الآباد .آمين. سبحيه وزيديه علواً إلى الآباد.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Praise Him, glorify Him, and exalt Him, His mercy is forever. For He is praised, glorified, and exalted above the ages, His mercy is forever.
+            </Language>
+            <Language id="Arabic">
+               سبحوه , مجدوه, زيدوه علواً, الى الأبد رحمته. فهو المسبح و هو الممجد, و هو المتعالي على الأدهار, و الى الأبد رحمته.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>   
+</Document>

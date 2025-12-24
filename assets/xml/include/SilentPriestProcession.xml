@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Group>
+         <Season id="Matins">
+            <InsertDocument path="include/SilentPriestProcession_Matins"/>
+         </Season>
+         
+         <Season id="Vespers">    
+            <InsertDocument path="include/SilentPriestProcession_Vespers"/>
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest now censes the altar while standing facing the East, and, as he begins to encircle the altar the first time, he says:
+         </Language>               
+         <Language id="Arabic">
+            ثم يبخر الكاهن على المذبح وهو واقف متجها إلى الشرق في أول الدورة الأولى قائلا:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ten]ho e~rok penn/b: ariv~meui~ P[oic n~]hir/n/ n~te tekoui m~mauatc eyouab n~kayolik/ n~a~poctolik/ n~ekk~l/cia.
+         </Language>
+         <Language id="English">
+            We ask You, O our Master, remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—
+         </Language>
+         <Language id="Arabic">
+            ونسألك يا سيدَنا، اذكر ياربُّ سلامَ كنيستِك الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ.
+         </Language>
+      </Text>            
+   </Role>
+   
+   <InsertDocument path="include/litanies/PeaceDeacon"/>
+        
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            Then the priest kisses the altar, and proceeds to the south side of the altar, while saying:
+         </Language>               
+         <Language id="Arabic">
+            ثم يقبل الكاهن المذبح بفمه ويتوجه إلى قبلي المذبح وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Yai etsop icjen aur/jc n~]oikoumen/ sa aur/jc.
+         </Language>
+         <Language id="English">
+            this which exists from one end of the world to the other.
+         </Language>
+         <Language id="Arabic">
+            هذه الكائنةِ من أقصي المسكونةِ إلى أقصاها.
+         </Language>
+      </Text>   
+      
+      <Comment>
+         <Language id="English">
+            The priest proceeds to the east side of the altar, faces toward the west, and continues censing, while saying:
+         </Language>               
+         <Language id="Arabic">
+            ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول أوشية الآباء:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic m~penpatriar,/c n~iwt ettai/out n~ar,ie~reuc papa abba (...): nem nefc~n/ou m~p~neumatikon: pipatriar,/c n~t~Antio~,ia~ Mar Ignatioc (...): nem pipatriar,/c n~Eritrea Apouna (...).
+         </Language>
+         <Language id="English">
+            Remember, O Lord, our honored patriarch and father, the archpriest, Pope Abba (...), and his spiritual brethren: the Patriarch of Antioch Mar Ignatius (...) and the Patriarch of Eritrea Abouna (...),
+         </Language>
+         <Language id="Arabic">
+            اذكر ياربُّ بطريركَنا الأب المكرم رئيس الكهنة البابا أنبا(...)، وأخويه الروحيين، مار إغناطيوس (...) بطريرك أنطاكيه، وأبونا (...) بطريرك إريتريا.
+         </Language>
+      </Text>         
+      
+      <Comment>
+         <Language id="English">
+            If a metropolitan or a bishop is present, he adds:
+         </Language>               
+         <Language id="Arabic">
+            في وجود مطران أو أسقف يضيف:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            nem pefkes~v/r n~litourgoc peniwt n~e~pickopoc (m~m/tropolit/c) abba (...).
+         </Language>
+         <Language id="English">
+            and his partner in the [apostolic] liturgy, our father the bishop (metropolitan), Abba (...).
+         </Language>
+         <Language id="Arabic">
+            وشريكَهُ في الخدمةِ [الرسولية] أبانا الأسقف (المطران) المكرم أنبا(...).
+         </Language>
+      </Text>            
+   </Role>
+   
+   <InsertDocument path="include/litanies/FathersDeacon"/>
+        
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/KeepThemSecureForUs"/>
+      
+      <Comment>
+         <Language id="English">
+            The priest proceeds to the west side of the altar, faces toward the East, continues censing, and, as he begins to encircle the altar a second time, he says:
+         </Language>               
+         <Language id="Arabic">
+            ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول أوشية الاجتماعات في أول الدورة الثانية:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic n~nenjinywou]: c~mou e~rwou.                  
+         </Language>
+         <Language id="English">
+            Remember, O Lord, our assemblies; bless them.
+         </Language>
+         <Language id="Arabic">
+            اذكر ياربُّ اجتماعاتِنا، باركها.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon" silent="true">
+      <InsertDocument path="include/litanies/AssembliesDeacon"/>                                 
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Text>
+         <Language id="Coptic">
+            M/ic eyrouswpi nan n~aterkwlin n~attahno: eyrenaitou kata pekouws eyouab ouoh m~makarion.                  
+         </Language>
+         <Language id="English">
+            Grant that they may be to us without obstacle or hindrance, that we may hold them according to Your holy and blessed will:
+         </Language>
+         <Language id="Arabic">
+            اعطِ أن تكون لنا بغير مانعٍ ولا عائقٍ، لنصنَعها كمشيئتِكَ المقدسةِ الطوباويةِ.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            He proceeds to the East side of the altar, faces toward the west, and continues censing, and says:
+         </Language>               
+         <Language id="Arabic">
+            ثم ينتقل إلى شرقي المذبح ويجعل وجهه نحو الغرب ويبخر ويقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            han/i n~eu,/: han/i n~toubo: han/i n~c~mou: a~ri,arizecye m~mwou nan P[oic nem neke~biaik eyn/ou menencwn sa e~neh.                  
+         </Language>
+         <Language id="English">
+            houses of prayer, houses of purity, houses of blessing. Grant them to us, O Lord, and to Your servants who will come after us, for ever.
+         </Language>
+         <Language id="Arabic">
+            بيوتَ صلاةٍ، بيوتَ طهارةٍ، بيوتَ بركةٍ، انعم بها لنا ياربُّ، ولعبيدِك الآتين بعدنا إلى الأبد.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The priest proceeds to the west side of the altar, faces toward the East, continues censing, and, as he begins to encircle the altar a third time, he says:
+         </Language>               
+         <Language id="Arabic">
+            ثم ينتقل إلى غربي المذبح ويجعل وجهه نحو الشرق ويبخر ويقول في أول الدورة الثالثة:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Twnk P[oic Vnou]: maroujwr e~bol n~je nekjaji t/rou: marouvwt e~bol qat~h/ m~pekho n~je ouon niben eymoc] m~pekran eyouab.                  
+         </Language>
+         <Language id="English">
+            Arise, O Lord God, let all Your enemies be scattered, and let all who hate Your holy name flee before Your face.
+         </Language>
+         <Language id="Arabic">
+            قم أيها الربُّّ الإلهُ، ولتتفرقُ جميعُ أعدائِك، وليهربُ من قدامِ وجهِك كلُّ مبغضي اسمِك القدوس.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/ButLetYourPeople"/>
+   </Role>  
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V~nou] afse e~qoun e~Il#/#m# eftal/out e~oue~w~: All/louia: All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia. Jesus Christ, the Son of God, entered into Jerusalem, riding a Colt. Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله دخل أورشليم علي أتان. الليلويا الليلويا
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheBaptist:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">&lt;ere Iwann/c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. John the Baptist:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Iwann/c: pinis] m~p~rodromoc ,ere piou/b p~cuggen/c n~Emmanou/l.
+            </Language>
+            <Language id="English">
+               Hail to John: the great forerunner. Hail to the priest: the kinsman of Immanuel.
+            </Language>
+            <Language id="Arabic">
+               السلام ليوحنا العظيم السابق ، السلام للكاهن نسيب عمانوئيل.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere piq/bc n~ouwini qen p~safe m~PiIordan/c: ,ere picuggen/c n~Emmanou/l
+            </Language>
+            <Language id="English">
+               Hail to the lit lamp: in the wilderness of the Jordan. Hail to the cousin: of Immanuel.
+            </Language>
+            <Language id="Arabic">
+               السلام لمصباح النور في برية الأردن. السلام الي نسيب عمانوئيل.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

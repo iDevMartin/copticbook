@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstMondayOfGreatFast | LastFridayOfGreatFast | (GreatFast ^ Weekend)">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">A~ripaumeui~ w~ Pa[oic...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Saturdays and Sundays of the Great Fast:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               A~ripaumeui~ w~ Pa[oic: a~ripameui~ w~ Panou]: a~ripameui~ w~ Paouro: aksani~ qen tekmetouro.
+            </Language>
+            <Language id="English">
+               Remember me O my Lord, remember me O my God, remember me O my King, when You come into Your Kingdom.
+            </Language>
+            <Language id="Arabic">
+               أذكرني يا رب، أذكرني يا إلهي، أذكرني يا ملكي، متى جئت في ملكوتك.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

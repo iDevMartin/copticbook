@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" MyronConsecration="true">
+   <Title>
+      <Language id="English">Reservation of the Pre-sanctified Chrism</Language>
+      <Language id="Arabic"> طقس إيداع الخميرة</Language>
+   </Title>
+      
+      
+   <Comment>
+      <Language id="English">
+         The leaven (from the presanctified Myron) can be added either once or in three installments, in which case three liturgies are celebrated during the same week and the leaven of the Myron and the Hagelion are added at the conclusion of each.  As for the readings of these liturgies, they are as follows: 
+      </Language>
+   </Comment>
+            
+   <Title>
+      <Language id="English">First Liturgy</Language>
+   </Title>
+      
+   <Title>
+      <Language id="English">Offering of Morning Incense</Language>
+      <Language id="Arabic">رفع بخور باكر</Language>      
+      <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~toui</Language>
+   </Title>
+   
+   <BibleReference reference="Psalms 51:7-8" type="section"/>
+   <BibleReference reference="John 1:18-42" type="section" hideIntroConclusion="true"/>
+      
+   <Title>
+      <Language id="English">Liturgy of the Word</Language>
+      <Language id="Arabic">قداسُ الكلمة</Language>
+   </Title>
+   
+   <BibleReference reference="Hebrews 7:26-9:10" type="section"/>
+   <BibleReference reference="1 Peter 3:8-4:11" type="section"/>
+   <BibleReference reference="Acts 18:24-19:20" type="section"/>
+   <BibleReference reference="Psalms 133:1" type="section"/>
+   <BibleReference reference="Matthew 26:6-13" type="section" hideIntroConclusion="true"/>
+      
+   <Title>
+      <Language id="English">Second Liturgy</Language>
+   </Title>
+      
+   <Title>
+      <Language id="English">Offering of Morning Incense</Language>
+      <Language id="Arabic">رفع بخور باكر</Language>      
+      <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~toui</Language>
+   </Title>
+      
+   <BibleReference reference="Psalms 29:3-4" type="section"/>
+   <BibleReference reference="John 3:22-4:2" type="section" hideIntroConclusion="true"/>
+      
+   <Title>
+      <Language id="English">Liturgy of the Word</Language>
+      <Language id="Arabic">قداسُ الكلمة</Language>
+   </Title>
+   
+   <BibleReference reference="Hebrews 1:1-2:4" type="section"/>
+   <BibleReference reference="1 Peter 1:10-2:10" type="section"/>
+   <BibleReference reference="Acts 2:22-3:10" type="section"/>
+   <BibleReference reference="Psalms 130:2-5" type="section"/>
+   <BibleReference reference="Mark 14:3-9" type="section" hideIntroConclusion="true"/>
+      
+   <Title>
+      <Language id="English">Third Liturgy</Language>
+   </Title>
+      
+   <Title>
+      <Language id="English">Offering of Morning Incense</Language>
+      <Language id="Arabic">رفع بخور باكر</Language>      
+      <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~toui</Language>
+   </Title>
+   
+   <BibleReference reference="Psalms 32:1-2" type="section"/>
+   <BibleReference reference="John 3:1-21" type="section" hideIntroConclusion="true"/>
+   
+   <Title>
+      <Language id="English">Liturgy of the Word</Language>
+      <Language id="Arabic">قداسُ الكلمة</Language>
+   </Title>
+   
+   <BibleReference reference="1 Timothy 2:11-3:7" type="section"/>
+   <BibleReference reference="1 John 5:5-13" type="section"/>
+   <BibleReference reference="Acts 8:26-39" type="section"/>
+   <BibleReference reference="Psalms 66:1,6" type="section"/>
+   <BibleReference reference="Matthew 28:16-20" type="section" hideIntroConclusion="true"/>
+   
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            After giving communion to the fathers the bishops and the priests and the deacons, His Holiness the Pope covers the divine sacrifice while the fathers the priests carry the  Myron vessels to the altar of the offering. The fathers the bishops remove their stoles and the senior priest presents the leaven from the old presanctified Myron to His Holiness the Pope and his Holiness deposits the holy leaven saying:
+         </Language>
+      </Comment>
+         
+      <InsertDocument path="include/BlessedBeTheLord"/>
+   </Role>   
+            
+   <Role id="People">
+      <InsertDocument path="include/OneIsTheAllHoly"/>
+   </Role>   
+            
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            His Holiness repeats this thrice and the people respond likewise, and this is repeated for each vessel. 
+         </Language>
+      </Comment>
+         
+      <Comment>
+         <Language id="English">
+            His Holiness the Pope, followed by the fathers the bishops each one according to his rank, pray these verses and after each verse the chanters respond:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy, Lord of Hosts. Heaven and Earth are full of your holy glory. 
+         </Language>
+         <Language id="Arabic">
+            قدوسٌ قدوسٌ قدوسٌ ربُّ الصباؤوت السماء والأرض مملوءتان من مجدِك الأقدس
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Hosanna in the highest. Blessed be he Who comes in the name of the Lord. Hosanna in the highest. 
+         </Language>
+         <Language id="Arabic">
+            أوصنَّا في الأعالي، مبارك الآتي باسم الرب، أوصنا في الأعالي
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Glory to God in the highest, peace on earth and goodwill to men.
+         </Language>
+         <Language id="Arabic">
+            المجد لله في الأعالي وعلى الأرض السلام وبالناس المسرَّة
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Salvation and glory and honor and power unto our God, for true are His Judgments. 
+         </Language>
+         <Language id="Arabic">
+            الخلاص والمجد والكرامة والقوة لإلهنا لأن أحكامه حق
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            The Lord, God the Pantocrator has reigned! Let us be glad and rejoice and glorify Him, for the True Lamb has come. 
+         </Language>
+         <Language id="Arabic">
+            ملَكَ الرب الإله ضابط الكل، فلنفرح ونتهلَّل ونمجَّده لأنه قد جاء الحَمَل الحقيقي 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Jesus Christ, the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. 
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح الشاهد الصادق بكر الأموات ورئيس جميع ملوك الأرض
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            He who loved us and washed us from our sins in His own blood, and has made us kings and priests to His God and Father, to Him be glory and dominion forever and ever. Amen. 
+         </Language>
+         <Language id="Arabic">
+            هذا الذي أحبَّنا وخلَّصنا من خطايانا بدمه وصنعنا مملكة وكهنوتاً لله أبيه الذي له المجد والعز إلى الأبد 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Behold, he comes on the clouds; and every eye shall see him, and they also which pierced him: and all tribes of the earth. 
+         </Language>
+         <Language id="Arabic">
+            ها هو يأتي على السحاب وتراه كل العيون والذين طعنوه وكل قبائل الأرض
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            I am Alpha and Omega, the beginning and the ending, says the Lord, which is, and which was, and which is to come, the Almighty. 
+         </Language>
+         <Language id="Arabic">
+            أنا هو الألف والياء، البداية والنهاية، يقول الرب الإله الكائن والموجود والآتي ضابط الكل
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God. 
+         </Language>
+         <Language id="Arabic">
+            الذي يغلب أجعله عموداً في بيت إلهي ولا يخرج بعد وأكتب إسم إلهي عليه 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            And the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And My new name. 
+         </Language>
+         <Language id="Arabic">
+            وإسم المدينة الجديدة التي لأبي "أورشليم" النازلة من عند إلهي وإسمي الجديد 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            We give You thanks, O Lord God Almighty, The One who is and who was and who is to come, Because You have taken Your great power and reigned. 
+         </Language>
+         <Language id="Arabic">
+            نشكرك أيها الإله ضابط الكل الكائن والموجود والآتي لأنكَ أخذتَ القوة والـمُلـك 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Now salvation, and strength, and the kingdom of our God, and the power of His Christ have come. 
+         </Language>
+         <Language id="Arabic">
+            لأن الخلاص والقوة والمملكة صاروا لإلهنا والسلطان لمسيحه.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea. 
+         </Language>
+         <Language id="Arabic">
+            ورأيتُ سماءً جديدةً وأرضاً جديدةً لأن السماء الأولى والأرض الأولى مضتا والبحر لم يوجَد فيها بعد
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            And I saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband. 
+         </Language>
+         <Language id="Arabic">
+            ورأيتُ المدينة المقدَّسة أورشليم الجديدة نازلة من السماء من عند الله مُعَدَّة مثل عروس مُزيَّنة لعريسها 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            And I heard a great voice out of heaven saying, Behold, the tabernacle of God is with men, and he will dwell with them. 
+         </Language>
+         <Language id="Arabic">
+            وسمعتُ صوتاً عظيماً من السماء قائلاً: ها مظلة الله كائنة مع الناس وتكون معهم 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            You have anointed my head with oil; and Your cup has inebriated me like strong drink. 
+         </Language>
+         <Language id="Arabic">
+            دهنتَ بالدهن رأسي وأسكرتني كالصرف 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Your mercy shall follow me all the days of my life. 
+         </Language>
+         <Language id="Arabic">
+            رحمتك وكيبك يطلياني كل أيام حياتي 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            I have exalted one chosen out of my people: I have found David my servant 
+         </Language>
+         <Language id="Arabic">
+            رفعتُ مختاراً من شعبي، وجدتُ داود عبدي 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            With holy oil have I anointed him: For my hand shall support him. 
+         </Language>
+         <Language id="Arabic">
+            بدهن قدسي مسحتُهُ ويدي وساعدي يُقَوِّياه 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            The Lord has sent forth His angel and took me from my father's sheep, and anointed me with the oil of His anointing. My brethren are comely and tall and are greater than I. 
+         </Language>
+         <Language id="Arabic">
+            الرب أرسل ملاكه ورفعني من غنم أبي ومسحني بدهن مسحته. إخوتي حسان وهم أعظم مني
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            A holy unction of Christ our God, and a seal that shall not be loosed. An unction of the pledge of the kingdom of the heavens in the name of Jesus Christ. 
+         </Language>
+         <Language id="Arabic">
+            مسحة طهارة للمسيح إلهنا وخاتماً لا ينحل، مسحة عربون الملكوت السمائية باسم يسوع المسيح
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            An unction of participation in eternal life and immortality in the name of Christ our God. The perfection of the grace of the Holy Spirit, and the breastplate of the faith and the truth. 
+         </Language>
+         <Language id="Arabic">
+            مسحة شركة الحياة الأبدية غير المائتة باسم يسوع إلهنا، كمال نعمة الروح القدس ودرع الأمانة والحق
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Immanuel our God is now in our midst, in the glory of His Father, and the Holy Spirit. May He bless us all, purify our hearts, and heal the sicknesses of our souls and our bodies. 
+         </Language>
+         <Language id="Arabic">
+            عمانوئيل إلهنا في وسطنا الآن بمجد أبيه والروح القدس، يباركنا كلنا ويُطهِّر قلوبنا ويشفي أمراض نفوسنا وأجسادنا 
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            We worship You, O Christ, with Your Good Father, and the Holy Spirit, for You have come and saved us. 
+         </Language>
+         <Language id="Arabic">
+            نسجد لك أيها المسيح إلهنا مع أبيك الصالح والروح القدس لأنكَ قُمتَ وخلَّصتنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AlleluiaGloryBeToOurGod"/>
+      
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            After this the vessels of the Hagelion are brought and the holy leaven shall be deposited in them and His Holiness says “Blessed be the Lord Jesus Christ…” once for each vessel, and the people shall respond “One is the All-Holy Father…” And the previous verses shall be said. Then the vessels are returned to the synthronos.  The synthronos is the place of the throne of the bishop or the Pope that used to be in the niche at the eastern part of the sanctuary (The bosom of the Father).         
+         </Language>
+      </Comment>
+         
+      <InsertDocument path="include/BlessedBeTheLord"/>
+   </Role>   
+            
+   <Role id="People">
+      <InsertDocument path="include/OneIsTheAllHoly"/>
+   </Role>   
+</Document>

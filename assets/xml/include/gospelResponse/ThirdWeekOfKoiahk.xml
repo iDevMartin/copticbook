@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ThirdWeekOfKoiahk">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Ten[ici m~mo...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the third week of the month of Koiahk:
+            </Language>
+         </Comment>
+        
+         <InsertDocument path="include/TenichiciEmo"/>               
+         <InsertDocument path="include/EthveFai"/>               
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">The Seven Great Litanies</Language>
+      <Language id="Arabic">السبع الأواشي الكبار</Language>
+   </Title>
+
+   <InsertDocument path="include/litanies/Sick"/>
+   <InsertDocument path="include/litanies/Travelers"/>
+   <InsertDocument path="include/litanies/Seasons"/>
+   <InsertDocument path="include/litanies/LeaderLong"/>
+   <InsertDocument path="include/litanies/Departed"/>
+   <InsertDocument path="include/litanies/Oblations"/>
+   <InsertDocument path="include/litanies/Catechumens"/>
+</Document>

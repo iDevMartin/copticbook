@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StCosmas:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Cosmas, Damian, their brothers, and their mother:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nimarturoc: ,ere niswij n~genneoc: ,ere nia~ylovoroc: Kocma nem nefc~n/ou nem toumau.
+            </Language>
+            <Language id="English">
+               Hail to the martyrs: Hail to the courageous heroes: Hail to the struggle-mantled: Cosmas, his brothers and their mother.
+            </Language>
+            <Language id="Arabic">
+               السلام لكما ايها الشهيدان. السلام للشجاعين البطلين. السلام للابس الجهاد.         قزمان ودميان واخوتهما وامهم.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WatosDays">
+      <InsertDocument path="include/psalies/ResurrectionContentWatos"/>
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyWatos"/>
+         </Season>
+      </Group>
+   </Season>
+   
+   <Season id="AdamDays">   
+      <InsertDocument path="include/psalies/ResurrectionContentAdam"/>
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <InsertDocument path="include/psalies/EntranceOfTheHolyFamilyAdam"/>
+         </Season>
+      </Group>
+   </Season>
+</Document>

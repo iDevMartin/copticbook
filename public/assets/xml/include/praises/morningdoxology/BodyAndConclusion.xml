@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Morning Doxology</Language>
+         <Language id="Arabic">ذكصولوجية باكر</Language>
+      </Title>
+      
+      <InsertDocument path="include/praises/morningdoxology/Body"/>
+      <InsertDocument path="include/praises/morningdoxology/Conclusion"/>
+   </Section>
+   
+   <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+</Document>

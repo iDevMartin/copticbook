@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>      
+      <Season id="WatosDays | ThirdProstration">
+         <Comment>
+            <Language id="English">
+               On Watos days (Wednesday through Saturday), the people say the following.
+            </Language>
+         </Comment>                     
+      </Season>
+      
+      <Season id="AdamDays| SecondProstration">
+         <Comment>
+            <Language id="English">
+               On Adam days (Sunday through Tuesday), the people say the following.
+            </Language>
+         </Comment>         
+      </Season>
+   </Group>
+</Document>

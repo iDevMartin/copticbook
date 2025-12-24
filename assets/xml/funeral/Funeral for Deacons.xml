@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true" FuneralDeacons="true">
+   <Title>
+      <Language id="English">The Funeral for Deacons</Language>
+      <Language id="Arabic">تجنيز الشمامسة</Language>
+   </Title>
+   
+   <InsertDocument path="funeral/include/FuneralContent"/>
+</Document>

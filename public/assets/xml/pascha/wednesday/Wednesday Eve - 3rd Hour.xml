@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday Eve (The Third Hour)</Language>
+         <Language id="Arabic">ليلة الأربعاء (الساعة الثالثة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Pf~tou (}ajp 3)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Third Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الثالثة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Amos 5:18-27</Language>
+               <Language id="Arabic">عاموس 5: 18-27</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Amos"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoi n~n/eter e~piyumin e~pie~hoou n~te P[oic: e~rou nwten e~pai. ehoou n~te P[oic: ouoh pai e~hoou n~ou,aki ouoh n~ouwini an pe: Mv~r/] afsanvwt n~je ourwmi e~bolha p~ho n~oumoui~ ouoh n~tec i~ ejwf n~je ou laboi:
+               </Language>
+               <Language id="English">
+                  Woe to you who desire the day of the Lord! What is the day of the Lord to you? It will be darkness and not light. It will be as though a man fled from a lion, and a bear met him!
+               </Language>
+               <Language id="Arabic">
+                  ويل للذين يشتهون يوم الرب  ما بغيتكم في يوم الرب, فإن هذا اليوم ظلام لا نور, كما إذا هرب إنسان من وجه أسد فصادفته لبوة
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~tefvwt e~qoun e~pef/i ouoh n~teffai n~tef jij e~h~r/i e~jen ]joi n~tef jokhf n~je ouhof: M/ ou,aki an pe p~e~hoou m~P[oic: ouoh ououwinia~n pe oug~novoc pe m~mon tefmoue~. 
+               </Language>
+               <Language id="English">
+                  As though he rushed into the house, leaned his hand on the wall, and a serpent bit him! Is not the day of the Lord darkness and not light? Is it not a deep darkness, with no brightness in it? 
+               </Language>
+               <Language id="Arabic">
+                  فيجيئ إلي بيته ويرفع يده علي الحائط فتلدغه حية, أليس يوم ظلام لا نور وضباب لا ضياء له؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aimecte netensai ouoh ai,au n~cwi: oun~naswlem qen netennis] n~e~hoou n~sai: 
+               </Language>
+               <Language id="English">
+                  "I hate, I reject your feast days. I do not savor your sacred assemblies. 
+               </Language>
+               <Language id="Arabic">
+                  لقد أبغضت أعيادكم ورذلتها ولست أشم رائحة في أيام أعيادكم العظيمة, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i e~swp a~retensan i~ni n/i n~han[~lil nem hansouswousi n~]nasopou an: ouoh ]najoust an e~jen na pioujai n~te petenouwnh e~bol:
+               </Language>
+               <Language id="English">
+                  Though you offer Me burnt offerings and meat offerings, I will not accept them. I will not regard your fattened peace offerings.
+               </Language>
+               <Language id="Arabic">
+                  إني إذا قربتم لي محرقاتكم وتقدماتكم لا أقبلها, ولست أنظر إلي فدية شكركم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matacyo e~bolharoi mp~q~rwou n~nekhwd/: ouoh pi'almoc n~te nekorganon n~]nacwtem e~rof an:
+               </Language>
+               <Language id="English">
+                  Take away from Me the sound of your songs, for I will not hear your musical instruments.
+               </Language>
+               <Language id="Arabic">
+                  أبعد عني صوت تسابيحك, ومزمار أرغنك لست أسمعه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efe~c~kerker n~je ouhap m~v~r/] n~oumwou: ouoh ]meym/i m~v~r/] n~oumouncwrem n~aterjinior m~mof. M/ hanqolqel nem han souswousi a~retene~nou e~h~r/i n/i hip~safe nh~me n~rompi p~/i m~p~Icra/l peje P[oic:
+               </Language>
+               <Language id="English">
+                  Instead, let justice run swiftly as does water from the mountain, and let righteousness be as a stream that cannot be crossed. "O house of Israel, did you offer Me sacrifices and offerings those forty years in the wilderness? [Says the Lord.]
+               </Language>
+               <Language id="Arabic">
+                  وليجر القضاء كالماء والعدل كالوادي الذي لايعبر. هل قربتم لي ذبائح وتقدمات في البرية أربعين سنة يا بيت اسرائيل يقول الرب؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~reten[i n~]c~kun/ n~te Molo, nempiciou n~te petennou] Revan: nitupoc e~taretenyamiw~ou nwten. 
+               </Language>
+               <Language id="English">
+                  You have carried the tabernacle of Moloch and the star of your god Raiphan, which you made for yourselves. 
+               </Language>
+               <Language id="Arabic">
+                  بل حملتم خيمة ملوخ وكوكب إلهكم رافان التماثيل التي صنعتموها لكم, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~oue~teb y/nou e~bol cam~n/ n~Damackoc: peje P[oic Vnou] pipantokratwr pe pefran.
+               </Language>
+               <Language id="English">
+                  Therefore I shall exile you beyond Damascus," says the Lord—the Almighty God is His name.
+               </Language>
+               <Language id="Arabic">
+                  فأسبيكم إلي ماوراء دمشق. قال الرب الإله الضابط الكل هو إسمه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Third Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الثالثة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 64:5</Language>
+               <Language id="Arabic">مزمور 64: 5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            <InsertDocument path="readings/include/other/Psalm 64.5"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 24:36-51</Language>
+            <Language id="Arabic">متى 24: 36-51</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Eybe pie~hoou de etem~mau nem ]ounou: m~mon hli e~mi e~rwou: oude niaggeloc n~te niv/oui~: e~b/l e~Viwt m~mauatf:
+               </Language>
+               <Language id="English">
+                  “But of that day and hour no one knows, not even the angels of heaven, but My Father only.
+               </Language>
+               <Language id="Arabic">
+                  وأما ذلك اليوم وتلك الساعة, فلا يعلمهما أحد ولا ملائكة السموات, إلا الآب وحده.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] gar n~nie~hoou n~te Nwe~: pair/] eynaswpi qen t~paroucia~ m~p~s/ri m~v~rwmi.
+               </Language>
+               <Language id="English">
+                  But as the days of Noah were, so also will the coming of the Son of Man be.
+               </Language>
+               <Language id="Arabic">
+                  وكما كان في أيام نوح, كذلك يكون في ظهور إبن الإنسان,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Mv~r/] gar e~nausop qen nie~hoou etqajwf m~pikatak~lucmoc euouwm ouoh eucw: eu[ic~himi ouoh eu[ihai: sa pie~hoou e~ta Nwe~ senaf e~qoun e~]kubwtoc m~mof. Ouoh m~poue~mi satefi~ n~je pikatak~lucmoc ouoh n~tefel ouon niben: pair/] eynaswpi qen p~jini~ m~p~s/ri m~v~rwmi:
+               </Language>
+               <Language id="English">
+                  For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark, and did not know until the flood came and took them all away, so also will the coming of the Son of Man be. 
+               </Language>
+               <Language id="Arabic">
+                   لأنه كما كانوا قبل أيام الطوفان يأكلون ويشربون ويتزوجون ويزوجون إلي اليوم الذي دخل فيه نوح إلي الفلك, ولم يعلموا حتي جاء الطوفان وغرق الجميع، كذلك يكون أيضاً مجيء إبن الإنسان. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote c~nau eu,/ qen t~koi: ouai eue~olf ouoh ouai eue~,af:
+               </Language>
+               <Language id="English">
+                  Then two men will be in the field: one will be taken and the other left.
+               </Language>
+               <Language id="Arabic">
+                  حينئذٍ يكون إثنان في الحقل ويؤخذ الواحد ويترك الآخر
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Ouoh c~nou] eunout qen oueuni: oui~ eue~olc ouoh oui~ eue~,ac.
+               </Language>
+               <Language id="English">
+                  Two women will be grinding at the mill: one will be taken and the other left.
+               </Language>
+               <Language id="Arabic">
+                  وإثنتان تطحنان علي رحي, فتؤخذ الواحدة وتترك الأخرى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Rwic oun je tetene~mi an je a~re peten[oic n/ou qen as n~ounou: 
+               </Language>
+               <Language id="English">
+                  Watch therefore, for you do not know what hour your Lord is coming.
+               </Language>
+               <Language id="Arabic">
+                   إسهروا إذا لأنكم لا تعلمون في أية ساعة يأتي ربكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai de a~rie~mi e~rof: je e~nare pineb/i e~mi je a~re piconi n/ou naf qen as n~ounou: nafnarwic: hina n~tefstem,au e~[i m~pef/i:
+               </Language>
+               <Language id="English">
+                  But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into.
+               </Language>
+               <Language id="Arabic">
+                  وإعلموا هذا, أنه لو علم رب البيت في أية ساعة يأتى السارق لسهر ولم يدع بيته ينقب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai hwten swpi e~retencebtwt: je qen ]ounou e~tetencwoun m~moc an e~re p~s/ri m~v~rwmi n/ou n~q/tc.
+               </Language>
+               <Language id="English">
+                  Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.
+               </Language>
+               <Language id="Arabic">
+                  فلذلك كونوا انتم أيضاً مستعدين لأن إبن الإنسان يأتي في ساعة لا تعرفونها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nim hara pe pipictoc m~bwk ouoh n~cabe: v/e~te pef[oic na,af e~h~r/i e~jen nefe~biaik e~] nwou n~touq~re qen p~c/ou n~t/ic: 
+               </Language>
+               <Language id="English">
+                  “Who then is a faithful and wise servant, whom his master made ruler over his household, to give them food in due season? 
+               </Language>
+               <Language id="Arabic">
+                  فمن تري هو العبد الأمين الحكيم الذي يقيمه سيده علي عبيده ليعطيهم طعامهم في حينه؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Wouniatf m~pibwk e~tem~mau: eswp afsani~ n~je pef[oic n~tefjemf efi~ri m~pair/]: A~m/n ]jw m~moc nwten: je efe,af hijen peten~taf t/rf.
+               </Language>
+               <Language id="English">
+                  Blessed is that servant whom his master, when he comes, will find so doing. Assuredly, I say to you that he will make him ruler over all his goods.
+               </Language>
+               <Language id="Arabic">
+                  طوبي لذلك العبد الذي إذا جاء سيده فيجده يفعل هكذا. الحق أقول لكم, إنه يقيمه علي جميع ماله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~swp de afsanjoc n~je pibwk ethwou e~te m~mau qen pefh/t: je pa[oic nawck:
+               </Language>
+               <Language id="English">
+                  But if that evil servant says in his heart, ‘My master is delaying his coming,’
+               </Language>
+               <Language id="Arabic">
+                  ولكن إن قال ذلك العبد الشرير في قلبه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~teferh/tc n~hioui~ n~nefs~v/r n~e~biaik: n~tef ouwm de ouoh n~tefcw nem n/etyaqi: 
+               </Language>
+               <Language id="English">
+                  And begins to beat his fellow servants, and to eat and drink with the drunkards, 
+               </Language>
+               <Language id="Arabic">
+                  إن سيدي يبطئ قدومه فيبتدئ يضرب العبيد رفقاءه ويأكل ويشرب مع السكيرين, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Efe~i~ de n~je P[oic m~pibwk e~tem~mau qen pie~hoou e~tefnajoust qajwf an: nem qen ]ounou e~ten~f~cwoun m~moc an: 
+               </Language>
+               <Language id="English">
+                  The master of that servant will come on a day when he is not looking for him and at an hour that he is not aware of, 
+               </Language>
+               <Language id="Arabic">
+                  فيأتي سيد ذلك العبد في يوم لا ينتظره, وساعة لا يعرفها 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh efevorjf tefm/] ouoh efe~,w n~teftoi nem nisobi: pima e~te v~rimi naswpi m~mof nem pic~yerter n~te ninajhi.
+               </Language>
+               <Language id="English">
+                  And will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth.
+               </Language>
+               <Language id="Arabic">
+                  فيشقه من وسطه ويجعل نصيبه مع المرائين هناك يكون البكاء وصرير الاسنان.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Third Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الثالثة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Contemplate you who exalt the Lord, the kindness of Christ our God: observe how He calls His chosen who fulfill His will, prudent and honest servants. 
+               </Language>
+               <Language id="Arabic">
+                  تأملوا يا عابدي الإله إلي تحنن المسيح إلهنا, كيف يدعو أصفياءه الصانعين إرادته عبيداً حكماء وأمناء, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  I mean those who preserve his commandments, and look forward to their awards; those who remain awake and alert, that they may receive the promised rewards.
+               </Language>
+               <Language id="Arabic">
+                  أعني الذين يحفظون وصاياه المتوقعين أجراً صالحاً, الساهرين المتيقظين لكي ينالوا المواعيد 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  As the Bible asserts that those servants—whose master makes a surprise visit and finds them awake—are blessed. Assuredly I say: He will make His servant ruler over His property.
+               </Language>
+               <Language id="Arabic">
+                  كما قال في الإنجيل إن ذلك العبد مغبوطاً, أعني الذي يأتي سيده بغتة فيجده يفعل هكذا أقول لكم إنه يقيمه وكيلاً على جميع ماله
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  So for He whom He finds derelict in his duties and neglecting them often, one day, his Master will make a surprise visit, repudiate him, and make his lot with the hypocrites, in the place of darkness and suffering.
+               </Language>
+               <Language id="Arabic">
+                  فأما ذلك الذي يجده متغافلاً فيطرد يوماً بيوم, فيجئ سيده في ساعة لا يعرفها فيشقه من وسطه ويجعل نصيبه مع المرائين في الظلمة وموضع العذاب,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Let us awake and be alert in anticipation of the day of the Lord so that we may rejoice with Him in His dwelling-place and receive His clemencies and mercies.
+               </Language>
+               <Language id="Arabic">
+                  فلنتيقظ من غفلتنا وننتظر يوم الرب لنفرح معه في دياره ونفوز بمراحمه ورافاته.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

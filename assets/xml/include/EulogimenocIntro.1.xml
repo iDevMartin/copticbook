@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Eulogimenoc o~er,omenoc en o~nomati Kuriou: palin en o~nomati Kuriou
+      </Language>
+      <Language id="English">
+         Blessed is He who comes in the name of the Lord; again, in the name of the Lord.
+      </Language>
+      <Language id="Arabic">
+         مبارك الآتي باسم الرب وأيضاً  باسم الرب.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         W~canna tw u~iw Dauid: palin tw u~iw Dauid.
+      </Language>
+      <Language id="English">
+         Hosanna to the Son of David; again to the Son of David.
+      </Language>
+      <Language id="Arabic">
+         أوصنا لابن داود وأيضاً لابن داود.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         W~canna en tic u~'ictic palin en tic u~'ictic.
+      </Language>
+      <Language id="English">
+         Hosanna in the highest; again in the highest.
+      </Language>
+      <Language id="Arabic">
+         أوصنا في الأعالي وأيضاً في الأعالي.
+      </Language>
+   </Text>
+   
+   <Text>
+      <Language id="Coptic">
+         W~canna bacili tou Icra/l palin bacili tou Icra/l.
+      </Language>
+      <Language id="English">
+         Hosanna to the King of Israel; again to the King of Israel
+      </Language>
+      <Language id="Arabic">
+         أوصنا ملك إسرائيل وأيضاً ملك إسرائيل.
+      </Language>
+   </Text>   
+</Document>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StDemiana:VersesOfCymbals"> 
+         <InsertDocument path="include/versesofthecymbals/saints/StDemianaContents"/>
+      </Season>
+   </Group>
+</Document>

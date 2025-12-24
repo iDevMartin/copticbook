@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelSuriel:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Suriel:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~Viwt nem Ps/ri: nem piP~neuma e#y#u#: n~tentaio~ n~Couri/l: pimah f~toou n~a~r,/a~ggeloc.
+            </Language>
+            <Language id="English">
+               Let worship the Father, the Son, and the Holy Spirit, and honor Suriel the fourth in archangels.
+            </Language>
+            <Language id="Arabic">
+               فلنسجد للآب والابن والروح القدس ونكرم سوريال الرابع في رؤساء الملائكة.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

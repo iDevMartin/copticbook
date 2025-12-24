@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest" silent="true">
+      <Season id="CovenantThursday">
+         <Comment>
+            <Language id="English">
+               The priest offers incense around the church without greetings (kissing).
+            </Language>
+         </Comment>
+      </Season>
+         
+      <Section>
+         <Title>
+            <Language id="English">Procession of Incense During the Doxologies</Language>
+         </Title>      
+         
+         <Comment>
+            <Language id="English">
+               Meanwhile, putting his right foot first, the priest goes up to the sanctuary, kisses the altar, and makes the sign of the cross once over the incense box, saying, “Glory and honor, honor and glory … .” Then he places a spoonful of incense in the censer and offers incense above the altar three times toward the East, saying the first time: 
+            </Language>               
+            <Language id="Arabic">
+               أما الكاهن فانه بعد تمام الأوشية يصعد إلى الهيكل برجله اليمنى، ويقبل المذبح ويرشم درج البخور رشماً واحداً بمثال الصليب وهو يقول مجداً وإكراماً، إكراماً ومجداً بكمالها. ويضع يد بخور واحدة، ويرفع البخور فوق المذبح ثلاث أياد إلى الشرق قائلاً في اليد الأولى:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/ProcessionOfIncenseSilentPart"/>
+            
+         <Comment>
+            <Language id="English">
+               The priest encircles the altar once, offering incense. Then he descends and stands before the sanctuary and offers incense toward the East three times, saying what he did before. Then he censes toward the north, while saying for the Virgin: 
+            </Language>               
+            <Language id="Arabic">
+               ثم يدور حول المذبح مبخراً دورة واحدة. وينزل ويقف أمام الهيكل ويعطى البخور جهة الشرق ثلاث أياد قائلاً كما سبق. ثم يبخر إلى جهة بحري قائلاً لأجل العذراء:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/TentiNem"/>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the west, saying: 
+            </Language>               
+            <Language id="Arabic">
+               ثم يبخر غرباً قائلاً:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere p~,oroc n~te niaggeloc: nem na[oic n~io] n~a~poctoloc: nem p~,oroc n~te nimarturoc: nem n/eyouab t/rou.
+            </Language>
+            <Language id="English">
+               Hail to the choir of the angels, to my masters and fathers the apostles, and to the choir of the martyrs and all the saints.
+            </Language>
+            <Language id="Arabic">
+               السلام لمصافِ الملائكةِ، وسادتي الأباءِ الرسل، وصفوفِ الشهداءِ وجميعِ القديسين.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the south, saying: 
+            </Language>               
+            <Language id="Arabic">
+               ويبخر قبلياً قائلا:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Iwann/c p~s/ri n~Za,ariac: ,ere piou/b p~s/ri m~piou/b.
+            </Language>
+            <Language id="English">
+               Hail to John, the son of Zachariah. Hail to the priest, the son of the priest.
+            </Language>
+            <Language id="Arabic">
+               السلام ليوحنا ابن زكريا، السلام للكاهنِ ابن الكاهن.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the East, saying: 
+            </Language>               
+            <Language id="Arabic">
+               ويبخر شرقاً قائلا:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Marenouwst m~pencwt/r: pimairwmi n~a~gayoc: je n~yof afsenh/t qaron afi~ ouoh afcw] m~mon.
+            </Language>
+            <Language id="English">
+               Let us worship our Savior, the Good One and Lover of Mankind, for He had compassion on us and has come and saved us.
+            </Language>
+            <Language id="Arabic">
+               فلنسجدُ لمخلصِنا محبِّ البشرِ الصالح، لأنه تراءف علينا وأتى وخلَّصنا.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               If the Pope, a metropolitan, or a bishop is present, the priest censes him three times. 
+            </Language>               
+            <Language id="Arabic">
+               وإذا كان الأب البطريرك أو المطران أو الأسقف حاضراً يعطيه البخور ثلاث أياد:
+            </Language>
+         </Comment>
+         
+         <Comment>
+            <Language id="English">
+               The first time, in the presence of the Pope:  
+            </Language>               
+            <Language id="Arabic">
+               أول يد للأب البطريرك:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic efe~areh e~p~wnq nem p~taho e~ratf m~peniwt ettai/out n~ar,ie~reuc abba (...).
+            </Language>
+            <Language id="English">
+               May the Lord preserve and confirm the life of our honored father, the archpriest, Abba (...).
+            </Language>
+            <Language id="Arabic">
+               الربُّ يحفظُ حياةَ وقيامَ أبينا المكرم، رئيسِ الكهنةِ أنبا (...).
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               If a metropolitan or a bishop is present, the priest censes him the first time, saying:  
+            </Language>               
+            <Language id="Arabic">
+               وإذا كان الأب المطران أو الأسقف حاضراً يقول في أول يد:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic efe~areh e~p~wnq nem p~taho e~ratf m~peniwt ettai/out n~epickopoc (m~metropolit/c) abba (...).
+            </Language>
+            <Language id="English">
+               May the Lord preserve and confirm the life of our honored father, the bishop (metropolitan), Abba (...).
+            </Language>
+            <Language id="Arabic">
+               الربُّ يحفظُ حياةَ وقيامَ أبينا المكرم الأسقف (المطران) أنبا (...)
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The second time: 
+            </Language>               
+            <Language id="Arabic">
+               اليد الثانية:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/KeepHimSecureForUs"/>
+         
+         <Comment>
+            <Language id="English">
+               The third time:
+            </Language>               
+            <Language id="Arabic">
+               اليد الثالثة:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ntefyebio~ n~nefjaji t/rou capec/t n~nef[alauj n~,wlem.
+            </Language>
+            <Language id="English">
+               May He subdue all his enemies under his feet speedily.
+            </Language>
+            <Language id="Arabic">
+               ويخضع جميعَ أعدائه تحت قدميه سريعاً.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The priest kisses the cross, while saying, 
+            </Language>               
+            <Language id="Arabic">
+               ثم يقبِّل الصليب قائلاً:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Twbh e~Pi,rictoc e~h~r/i e~jwn: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to Christ on our behalf to forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلب من المسيحِ عنا، ليغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then he censes the rest of the priests in the following manner. He censes the hegumen twice, saying the first time:
+            </Language>               
+            <Language id="Arabic">
+               ثم يعطي البخور لباقي الكهنة. للقمص يدان، أول يدٍ يقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               }]ho e~rok paiwt pih/goumenoc a~ripameui~ qen peks~l/l.
+            </Language>
+            <Language id="English">
+               I ask you, my father the hegumen, to remember me in your prayer,
+            </Language>
+            <Language id="Arabic">
+               أسألك يا أبي القمص اذكرني في صلاتِك.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And the second time: 
+            </Language>               
+            <Language id="Arabic">
+               وفي ثاني يد:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hina n~te Pi,rictoc Pennou] ,w n/i e~bol n~nanobi etos.            
+            </Language>
+            <Language id="English">
+               that Christ our God may forgive me my many sins.
+            </Language>
+            <Language id="Arabic">
+               لكي المسيحُ إلهُنا يغفرَ لي خطاياي الكثيرة.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes each priest once, saying: 
+            </Language>               
+            <Language id="Arabic">
+               وللقس يدٍ واحدة يقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               }]ho e~rok paiwt Piprecbuteroc a~ripameui~ qen peks~l/l.
+            </Language>
+            <Language id="English">
+               I ask you, my father the priest, to remember me in your prayer.            
+            </Language>
+            <Language id="Arabic">
+               أسـألُكَ يا أبي القس، اذكرني في صلاتِك.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Each one of the hegumens and priests responds, saying: 
+            </Language>               
+            <Language id="Arabic">
+               يجاوبه كل من القمص والقس قائلين:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               P[oic efe~a~reh e~tekmetou/b: m~v~r/] m~Mel,icedek nem Aa~rwn nem Za,ariac nem Cumewn niou/b n~te Vnou] et[oci: a~m/n.
+            </Language>
+            <Language id="English">
+               May the Lord preserve your priesthood, as He did with Melchizedek, Aaron, Zachariah, and Simeon, the priests of the Most High God. Amen.            
+            </Language>
+            <Language id="Arabic">
+               الربُّ يحفظُ كهنوتَكَ مثل ملكي صادق وهرون وزكريا وسمعان كهنة الله العلي، آمين.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               During the Liturgy, they respond: 
+            </Language>               
+            <Language id="Arabic">
+               وفي القداس يجاوبانه هكذا:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Vnou] efe~sep tekyucia~ m~v~r/] m~Mel,icedek.
+            </Language>
+            <Language id="English">
+               May the Lord accept your sacrifice, as He did with Melchizedek.            
+            </Language>
+            <Language id="Arabic">
+               الله يقبلُ ذبيحتَكَ مثل ملكي صادق.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then the priest censes the entire congregation, both men and women. He begins with the men on the north side of the door of the sanctuary and turns to the right, while saying the following.
+            </Language>               
+            <Language id="Arabic">
+               ثم يعطي البخور للشعب جميعه رجالاً ونساء إذ يبتدئ بالرجال من بحري باب الهيكل ويدور يميناً وهو يقول:
+            </Language>
+         </Comment>
+         
+         
+         <Group>
+            <Season id="Vespers">
+               <Comment>
+                  <Language id="English">
+                     During the evening incense: 
+                  </Language>               
+                  <Language id="Arabic">
+                     في بخور عشية:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">                  
+                     Cmou m~pic~yoinoufi n~te hana~rouhi: e~re pefc~mou eyouab swpi neman: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the evening incense, may its holy blessing be with us. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     بركة بخورِ المساءِ، بركته المقدسة تكون معنا. آمين.
+                  </Language>
+               </Text>
+            </Season>
+            
+            <Season id="Matins">
+               <Comment>
+                  <Language id="English">
+                     During the morning incense: 
+                  </Language>               
+                  <Language id="Arabic">
+                     في بخور باكر:
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">                  
+                     Cmou m~pic~yoinoufi n~te hana~tooui~: e~re pefc~mou eyouab swpi neman: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     The blessing of the morning incense, may its holy blessing be with us. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     بركة بخورِ باكر، بركته المقدسة تكون معنا. آمين.
+                  </Language>
+               </Text>            
+            </Season>
+         </Group>
+         
+         <Comment>
+            <Language id="English">
+               While going into the second division of the church, he says the following five verses in reverence and praise to the Lord Christ. 
+            </Language>               
+            <Language id="Arabic">
+               عند خروجه إلى الخورس الثاني يقول هذه الخمسة الأرباع الخشوعية تمجيداً للسيد المسيح:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/JesusChristIsTheSame"/>
+
+         <Comment>
+            <Language id="English">
+               He censes toward the East, saying: 
+            </Language>               
+            <Language id="Arabic">
+               يبخر شرقاً قائلا:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">                  
+               Vai etafenf e~p~swi: n~ouyucia ecs/p: hijen pic~tauroc: qa p~oujai m~pengenoc.
+            </Language>
+            <Language id="English">
+               This is He Who offered Himself as an acceptable sacrifice upon the Cross for the salvation of our race.
+            </Language>
+            <Language id="Arabic">
+               هذا الذي أصعدَ ذاتَه، ذبيحةً مقبولةً على الصليبِ عن خلاصِ جنسِنا.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the north, saying: 
+            </Language>               
+            <Language id="Arabic">
+               يبخر بحرياً قائلاً:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">                  
+               Afswlem e~rof n~je pefiwt n~agayoc: m~v~nau n~te hana~rouhi: hijen ]golgoya.
+            </Language>
+            <Language id="English">
+               His good Father smelled Him in the evening on Golgotha.
+            </Language>
+            <Language id="Arabic">
+               فاشتَمَّهُ أبوهُ الصالح وقتَ المساءِ على الجلجثة.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the west, saying: 
+            </Language>               
+            <Language id="Arabic">
+               يبخر غرباً قائلاً:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">                  
+               Afouwn m~v~ro m~piparadicoc: aftacyo n~Adam e~tefar,/ n~kecop.
+            </Language>
+            <Language id="English">
+               He opened the gate of Paradise and restored Adam once more to his dominion. 
+            </Language>
+            <Language id="Arabic">
+               فَتَحَ بابَ الفردوسِ، وردَّ آدم إلى رئاستِه مرةً أخرى.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He censes toward the south, saying: 
+            </Language>               
+            <Language id="Arabic">
+               يبخر قبلياً قائلاً:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">                  
+               Ebolhiten pefc~tauroc nem tefa~nactacic eyouab: aftacyo m~pirwmi n~kecop: e~qoun e~piparadicoc.
+            </Language>
+            <Language id="English">
+               Through His Cross and holy Resurrection, He returned man once more to Paradise. 
+            </Language>
+            <Language id="Arabic">
+               من قِبَلِ صليبِه وقيامتِه المقدسةِ، ردَّ الإنسانَ مرةً أخرى إلى الفردوسِ.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The priest ascends to the sanctuary and censes above the altar for the entire congregation’s confession during the evening incense, morning incense, and the Pauline incense, and says the following Prayer of Repentance. During the Acts, however, he says it outside of the sanctuary door. 
+            </Language>               
+            <Language id="Arabic">
+               ثم يطلع إلى الهيكل ويبخر فوق المذبح عن اعتراف الشعب جميعه في بخور عشية وباكر والبولس وهو يقول السر الآتي (ويسمى سر الرجعة). وأما في الابركسيس فإنه يقوله خارج باب الهيكل.
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">                  
+               Vnou] v/etafswp e~rof n~]o~mologia~ n~te piconi hijen pic~tauroc ettai/out: swp e~rok n~]o~mologia n~te peklaoc: ouoh ,w nwou n~nounobi t/rou e~bol: eybe pekran eyouab e~taumou] m~mof e~h~r/i e~jwn: kata to e~leoc cou Kurie~: ke m/ kata tac a~martiac /~mwn.
+            </Language>
+            <Language id="English">
+               O God, who, while on the honored Cross, accepted the confession of the thief, accept to Yourself the confession of Your people and forgive them all their sins, for the sake of Your holy name which is called upon us; according to Your mercy, O Lord, and not according to our sins.
+            </Language>
+            <Language id="Arabic">
+               يا الله الذي قَبِلَ إليه اعترافَ اللصِ على الصليبِ المكرمِ. اقبَلْ إليكَ اعترافَ شعبِكَ واغفرْ لهم جميعَ خطاياهم، من أجلِ اسمِكَ القدوس الذي دُعِيَ علينا. كرحمتِكَ ياربُّ وليس كخطايانا.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Then the priest encircles the altar once and kisses it, and after descending, he stands before the sanctuary door. He offers incense three times in the manner previously described, censing toward the north, west, south, and east. Then he censes each one of his brethren the priests in the manner previously described. If the Pope, a metropolitan, or a bishop is present, the priest censes him alone and does not cense each one of the priests again. But he returns to the sanctuary door and turns toward his brethren the priests and censes all of them one time, and likewise the deacons. [Then he swings the censor toward the people, censing them, and hangs it on the door of the sanctuary. After that, he makes a prostration toward the sanctuary, and likewise toward his fellows and then toward the people.] Then he stands next to the altar facing the west until the end of the recitation of the doxologies and the Creed.  
+            </Language>               
+            <Language id="Arabic">
+               ثم يدور حول المذبح دورة واحدة ويقبِّله، وينزل ويقف أمام باب الهيكل ويعطي البخور قدام بابه ثلاث أياد كما مرّ، ويبخر إلى الجهات البحرية والغربية والقبلية والشرقية كما مرّ. ويُعطى البخور لإخوته الكهنة واحداً فواحداً كما مرّ. وإذا كان البطريرك أو المطران أو الأسقف حاضراً فيعطيه الكاهن البخور وحده، ولا يُعطِ البخور ثانية لكل واحد من الكهنة. ولكن يعود إلى باب الهيكل، ويلتفت إلى اخوته الكهنة ويُعطِى البخور للجميع دفعة واحدة، وكذلك لناحية الشمامسة . [ويُومئ بالمجمرة للشعب مبخراً لهم، ويُعلِّقها على باب الهيكل. ويضرب مطانية للهيكل، ولرفقته، ثم للشعب]. ثم يقف بجانب المذبح ووجهه إلى الغرب إلى نهاية قراءة الذكصولوجيات وقانون الإيمان.
+            </Language>
+         </Comment>
+      </Section>
+   </Role>
+</Document>

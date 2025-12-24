@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(FuneralTune ^ FuneralPrayer) | GeneralFuneralPrayer | (JoyousSaturday ^ RaisingOfIncense)">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>            
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Eybe vai ten]w~ou naf...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For funerals:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Eybe vai ten]w~ou nak: enws e~bol enjw m~moc: je k~c~marwout w~ Pa[#c# I/#c#: je auask akcw] m~mon.                     
+            </Language>
+            <Language id="English">
+               For this we glorify You, crying out saying, blessed are You O my Lord Jesus, for You were crucified and saved us.
+            </Language>
+            <Language id="Arabic">
+               فلهذا نمجده صارخين قائلين مبارك أنت ياربي يسوع لأنك صُلبت وخلصتنا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

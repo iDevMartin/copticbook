@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="All">
+      <Title>
+         <Language id="English">The Prayers of the Fractions</Language>
+         <Language id="Arabic">صلوات القِسَم</Language>      
+      </Title>
+      
+      <InsertDocument path="include/fractions/Standard"/>
+      <InsertDocument path="include/fractions/Index"/>
+   </ForceSeason>
+</Document>

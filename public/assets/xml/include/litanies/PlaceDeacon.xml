@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per t/c cwt/riac tou kocmou ke t/c polewc /~mwn taut/c ke pacwn polewn ke twn ,wrwn ke n/cwn ke monact/riwn.
+         </Language>
+         <Language id="English">
+            Pray for the salvation of the world and of this city+ of ours, and of all cities, districts, islands, and monasteries.
+         </Language>
+         <Language id="Arabic">
+            صلوا من أجل خلاص هذا العالم ومدينتنا هذه،+ وسائر المدن والأقاليم والجزائر والأديرة
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="Coptic">
+            +ke tou monact/riou /~mwn toutou
+         </Language>
+         <Language id="English">
+            + “This monastery of ours” is said in the monasteries instead of “this city of ours.”
+         </Language>
+         <Language id="Arabic">
+            +في الأديرة يقال ”وديرِنا هذا“، بدلاً من ”ومدينتِنا هذه“
+         </Language>
+      </Comment>         
+   </Role>
+</Document>

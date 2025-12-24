@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <Comment>
+               <Language id="English">
+                  For the Entrance of the Holy Family into Egypt from the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="PostAscensionPentecostPeriod">
+            <Comment>
+               <Language id="English">
+                  From the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+               </Language>
+            </Comment> 
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/conclusion/PostAscensionPentecostPeriodNoComment"/>
+   </Season>
+</Document>

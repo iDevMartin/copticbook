@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PresentationInTemple">         
+      <Comment>
+         <Language id="English">
+            For the Feast of the Presentation of the Lord in the Temple:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Menenca h~me n~e~hoou: n~te pefjinmici: m~paradoxon: afse e~qoun e~piervei.
+         </Language>
+         <Language id="English">
+            After forty days: from His wonderful birth: He entered into the temple.  
+         </Language>
+         <Language id="Arabic">
+            بعد أربعين يوماً لميلاده العجيب دخل الهيكل.
+         </Language>
+      </Text>
+   </Season>
+</Document>

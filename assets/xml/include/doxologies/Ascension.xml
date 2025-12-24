@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Ascension</Language>
+            <Language id="Arabic">ذوكصولوجية لعيد الصعود</Language>
+            <Language id="Coptic">Ouoh menenca...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Feast of the Ascension:
+            </Language>      
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh menenca h~me n~e~hoou: afsenaf e~p~swi e~niv/oui~: qen ouw~ou nem outaio~: afhemci caouinam m~Pefiwt.
+            </Language>
+            <Language id="English">
+               And after forty days, He ascended to heaven, with glory and with honor, He sat at the right hand of His Father.
+            </Language>
+            <Language id="Arabic">
+               وبعد أربعين يوماً صعد إلى السموات بمجد وكرامة وجلس عن يمين أبيه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Kata v~r/] e~tafjoc: n~je Dauid qen Pip#n#a# e#y#u#: je peje Po#c# m~Pao#c#: je hemci cataouinam.
+            </Language>
+            <Language id="English">
+               As David has said, by the Holy Spirit, "The Lord said to My Lord, sit at My right hand."
+            </Language>
+            <Language id="Arabic">
+               كقول داود بالروح القدس قال الرب لربى اجلس عن يمينى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Au[nejwou m~pefa~mahi: n~je na t~ve nem na p~kahi: niar,/ nem nie~xoucia~: nem n/etcapec/t m~p~kahi.
+            </Language>
+            <Language id="English">
+               The heavenly and the earthly, were subdued by His might, the principalities and authorities, and those that are under the earth.
+            </Language>
+            <Language id="Arabic">
+               خضع لعزته السمائيون والأرضيون والرئاسات والسلطات ومن تحت الأرض.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nijom t/rou n~te niv/oui~: auhitou e~q~r/i auouwst m~mof: na niv/oui nem nap~kahi: qen hanc~mou auhwc e~rof.
+            </Language>
+            <Language id="English">
+               All the powers of heaven, fell down and worshipped Him, the heavenly and the earthly, with blessings praised Him.
+            </Language>
+            <Language id="Arabic">
+               جميع قوات السموات خرت وسجدت له السمائيون والأرضيون سبحوه بالبركات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afsenaf e~p~swi e~t~ve: n~te t~ve caniman~sai: hina n~tefouwrp nan m~piparakl/ton: Pip#n#a# n~te ]meym/i.
+            </Language>
+            <Language id="English">
+               He ascended to the heaven, of heavens towards the East, that He may send unto us, the Spirit of Truth.
+            </Language>
+            <Language id="Arabic">
+               صعد إلى سماء السموات ناحية المشارق لكى يرسل لنا المعزى روح الحق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai maren]w~ou: n~tefa~nalum'ic e#y#u#: marefsanah~y/f qaron: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Therefore let us glorify, His Holy Ascension, that He may have pity upon us, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا فلنمجد صعوده المقدس لكى يتحنن علينا ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. P,#c# aftwnf e~bol qen n/eymwout: ouoh afsenaf e~pswi n~niv/oui~.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia. Christ has risen from the dead, and ascended to the heavens.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا المسيح قام من بين الأموات وصعد إلى السموات.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>
+               
+      </Section>
+   </Season>
+</Document>

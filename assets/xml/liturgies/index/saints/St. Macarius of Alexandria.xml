@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StMacariusOfAlexandria:All">
+      <Title>
+         <Language id="English">St. Macarius of Alexandria</Language>
+         <Language id="Arabic">القديس أنبا مقار الاسكندرى</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

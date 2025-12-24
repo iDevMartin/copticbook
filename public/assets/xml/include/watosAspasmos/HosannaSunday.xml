@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Ous~v/ri efmeh...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Hosanna Sunday:
+            </Language>
+            <Language id="Arabic">
+               في أحد الشعانين:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Ous~v/ri efmeh n~w~ou: v/ethemci hijen ni,eroubim: kata v~r/] m~pai e~hoou: afse eqoun e~Il#/#m#.
+            </Language>
+            <Language id="English">
+               A wonder full of glory, Who sits upon the cherubim, on such a day, entered Jerusalem.
+            </Language>
+            <Language id="Arabic">
+               أعجوبة مملوءة مجداً الجالس علي الشيروبيم في مثل هذا اليوم دخل إلي أورشليم. 
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               Piouro n~refyamio: piaynau e~rof: aunau e~rof eftal/out e~oue~w~: e~re nikouji n~a~lwoui~ hwc qajwf.
+            </Language>
+            <Language id="English">
+               The King and Creator, the Unseen, was seen riding on a colt, the young children singing before Him:
+            </Language>
+            <Language id="Arabic">
+               الملك الخالق غير المنظور نظروه راكباً على أتان ، والأطفال يسبحون قدامه.
+            </Language>         
+         </Text>    
+         
+         <InsertDocument path="include/HosannaInTheHighest"/>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. I/couc Pi,~rictoc p~s/ri m~V] afse e~qoun e~Il#/#m#: Cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Jesus Christ, the Son of God, entered into Jerusalem. Save us and Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا يسوع المسيح ابن الله دخل أورشليم خلصنا وارحمنا.
+            </Language>         
+         </Text>           
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true">
+   <Title>
+      <Language id="English">Funeral Prayers During Holy Pascha Week</Language>
+      <Language id="Arabic">صلاة التجنيز في  أسبوع البصخة</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         During the Holy Pascha Week, the church’s entire focus is on the sufferings of Christ; it cannot direct its focus on any other occasion.  The purpose of the General Funeral Prayer done at the end of the Liturgy on Hosanna Sunday is to pray for anyone who may depart during Pascha Week.
+      </Language>
+      <Language id="Arabic">
+         أثناء أسبوع البصخة تركز الكنيسه على ألام المسيح ولا تهتم بأية مناسبة أخرى. ولهذا تقام صلاة الجناز العام بعد قداس أحد الشعانين للصلاة على أى أحد قد يموت خلال أسبوع البصخة.  
+      </Language>      
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         If a person departs during this week, the full funeral prayers are not said. 
+      </Language>
+      <Language id="Arabic">
+         فى حالة وفاة أى شخص خلال هذا الأسبوع لا يُعمل له صلاة جناز كاملة.
+      </Language>      
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         Instead, the casket is brought in to the church, without a procession, and attends one of the prayers of the Pascha.  
+      </Language>
+      <Language id="Arabic">
+         بل يُحضر الكفن إلي الكنيسه بدون موكب ويبقى حاضرا       خلال أحد صلوات البصخة.
+      </Language>      
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         At the end of the Pascha Prayer, the following modified prayer is done:
+      </Language>
+      <Language id="Arabic">
+         وبعد إنتهاء صلاة البصخة تقال الصلاة المعدلة الأتية.
+      </Language>      
+   </Comment>
+   
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>   
+   
+   <Comment>
+      <Language id="English">
+         The prophecy is read:
+      </Language>
+      <Language id="Arabic">
+         تقال النبوات كالأتي: 
+      </Language>      
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         For Men: 
+      </Language>
+      <Language id="Arabic">
+          الرجال الكبار: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="Genesis 50:4-25" type="section" collapsed="true"/>
+   
+   <Comment>
+      <Language id="English">
+         For Women: 
+      </Language>
+      <Language id="Arabic">
+         النساء الكبار: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="Genesis 23:1-24:67" type="section" collapsed="true"/>
+   
+   <Comment>
+      <Language id="English">
+         For Boys: 
+      </Language>
+      <Language id="Arabic">
+         الأطفال الصغار: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="1 Kings 17:17-24" type="section" collapsed="true"/>
+   
+   <Comment>
+      <Language id="English">
+         For Girls: 
+      </Language>
+      <Language id="Arabic">
+         البنات: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="Judges 11:30-40" type="section" collapsed="true"/>
+   
+   <Comment>
+      <Language id="English">
+         For Deacons: 
+      </Language>
+      <Language id="Arabic">
+         الشمامسة: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="Job 6:30-7:19" type="section" collapsed="true"/>
+   
+   <Comment>
+      <Language id="English">
+         For Priests: 
+      </Language>
+      <Language id="Arabic">
+         الكهنة: 
+      </Language>      
+   </Comment>
+   
+   <BibleReference reference="Numbers 20:22-29" type="section" collapsed="true"/>
+   
+   <InsertDocument path="include/trisagion/Seasonal"/>    
+   <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+   
+   <Comment>
+      <Language id="English">
+         Then, the deacon chants the psalm in the (Adribi) tune. 
+      </Language>
+      <Language id="Arabic">
+         ثم يرتل الشماس المزمور بالطريقه الادريبي. 
+      </Language>      
+   </Comment>
+   
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Comment>
+      <Language id="English">
+         The casket is sprinkled with the water of the General Funeral Prayer conducted immediately following the Hosanna Sunday liturgy. 
+      </Language>
+      <Language id="Arabic">
+         يُرش الكفن بماء صلاة الجناز العام التي عُملت مباشرة بعد قداس أحد الشعانين. 
+      </Language>      
+   </Comment>
+</Document>

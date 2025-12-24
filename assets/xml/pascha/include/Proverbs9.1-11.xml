@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/"> 
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Proverbs 9:1-11</Language>
+         <Language id="Arabic">أمثال 9: 1-11</Language>
+      </Title>
+      
+      <InsertDocument path="pascha/include/prophecyIntro/Proverbs"/>
+      
+      <Text>
+         <Language id="Coptic">
+            A~]covia~ n~ou/i: ouoh actajro n~sasf n~c~tulloc qarof: Acqolqel n~necswt: acywt m~pec/rp qenoumoki: ouoh accob] n~tect~rapeza:
+         </Language>
+         <Language id="English">
+            Wisdom built her house, and she supported it with seven pillars. She offered her sacrifices; she mixed her wine in a bowl And prepared her table.
+         </Language>
+         <Language id="Arabic">
+            الحكمة بنت لها بيتاً ونصبت فيه سبعة أعمدة. ذبحت ذبائحها ومزجت خمرها في البواطي (الأواني) وهيأت مائدتها.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Acouwrp n~nece~biaik e~ywhem qen ounis] n~q~rwou e~ouk~rater ecjwm~moc: Je v/etoi n~ath/t qen y/nou marefi~ haroi:
+         </Language>
+         <Language id="English">
+            She sent her servants, inviting people to the bowl with a lofty proclamation, saying, "he who is without discernment, let him turn aside to me";
+         </Language>
+         <Language id="Arabic">
+            أرسلت عبيدها لينادوا بصوت عال علي الزوايا قائلين : من كان منكم جاهلاً فليأت إلي,
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ouoh nietsat n~c~bw ajoc nwou: Je a~mwini ouwm e~bol qen pawik: ouoh cw e~bolqen pi/rp e~tai yotf nwten: &lt;w n~]metath/t n~cay/nou hina n~tetenwnq kw] n~ca ]metcabe hina n~tetenerneba~hi: ouoh mataho m~petenka] e~ratf qen ougnwcic 
+         </Language>
+         <Language id="English">
+            and to those in need of discernment, she says, "come, eat my bread and drink the wine I mixed for you; forsake lack of discernment, and you shall live; seek discernment so you may live, and keep straight your understanding with knowledge."
+         </Language>
+         <Language id="Arabic">
+            وناقصي الفهم قولوا لهم هلموا كلوا من خبزي وإشربوا من الخمر التي مزجتها لكم  أتركوا عنكم الجهل لتحيوا  أطلبوا الحكمة لتعمروا  وقوموا فهمكم بمعرفة.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V/e~]c~bw n~hanpethwou efe~[i n~ousws naf: v/etcohi m~pia~ceb/c ef e~hia[ni erof m~minm~mof:
+         </Language>
+         <Language id="English">
+            He who chastises evil men shall receive dishonor to himself, and he who reproves the ungodly man shall be blamed himself.
+         </Language>
+         <Language id="Arabic">
+            من يؤدب الأشرار يلحق بنفسه هواناً ومن يبكت المنافق يكسب عيباً لذاته.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Mpercohi n~han pethwou hina n~tous~temmectwk: cohi de n~oucabe ouoh efe~menritk: 
+         </Language>
+         <Language id="English">
+            Do not reprove evil men, so they may not hate you; reprove a wise man, and he will love you. 
+         </Language>
+         <Language id="Arabic">
+            لا توبخ الأشرار لئلا يبغضوك. وبخ حكيماً فيحبك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Cohi de n~ouatc~bw ouoh efe~mectwk: moi n~ou lwiji m~picabe ouoh efe~ercabe n~houo: matame piy~m/i ouoh f~naouah totf e~[i. 
+         </Language>
+         <Language id="English">
+            Give the opportunity to a wise man, and he will be wiser; instruct a righteous man, and he shall continue to receive it.
+         </Language>
+         <Language id="Arabic">
+            وبخ جاهلاً فيبغضك. أعط الحكيم سبباً فيزداد حكمة وعلم البار فيزداد براً  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Tar,/ n~]covia~ ]ho] n~te P[oic te: ouoh p~co[ni n~te n/eyu ouka] pe.Pcouen pinomoc de vai oumeui~ n~a~gayoc pe: qen pai t~ropoc vai eke~wnq n~ounis] n~,ronoc: ouoh hanrompi n~te p~wnq eue~oua~hou erok.
+         </Language>
+         <Language id="English">
+            The fear of the Lord is the beginning of wisdom, and the counsel of saints is understanding; for to know the law is characteristic of a good mind. For in this manner you will live a long time, and the years of your life shall be increased.
+         </Language>
+         <Language id="Arabic">
+            راس الحكمة مخافة الرب ومشورة القديسين فهم ومعرفة للناموس هي الفكر الصالح  بهذا المثال تعيش زماناً طويلاً وتزداد لك سنو الحياة.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="pascha/include/ProphecyConclusion"/>
+   </Section>
+</Document>

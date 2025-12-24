@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ GreatFriday ^ Fridays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Great Friday Eve (The Ninth Hour)</Language>
+         <Language id="Arabic">ليلة الجمعة  العظيمة (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~jwrh n~]nis] m~parackeu/ (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the ninth hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Jeremiah 9:6-10</Language>
+               <Language id="Arabic">أرميا 9: 6-10</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Jeremiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai nai ne n/e~tefjw m~mwou n~je P[oic: je h/ppe anok ]navactou ouoh ]naerdokimazin m~mwou: je ]nai~ri m~pem~yo e~bol n~]metpethwou n~te t~seri m~palaoc.
+               </Language>
+               <Language id="English">
+                  Therefore thus says the Lord: "Behold, I will set them on fire and test them; I shall do so because of the evil of the daughter of My people. 
+               </Language>
+               <Language id="Arabic">
+                  من أجل ذلك هكذا يقول الرب: هأنذا أسكبهم وامتحنهم شر إبنة شعبي,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oucoynef ef[i pe poulac: han,~rof ne nicaji n~te rwou: f~caji nem pefs~v/r n~hancaji n~hir/nikon: e~re ]metjaji ,/ qen pefh/t. 
+               </Language>
+               <Language id="English">
+                  Their tongue is a wounding arrow, and the words of their mouth are deceitful. One speaks peaceably to his neighbor, but has hatred in his heart.
+               </Language>
+               <Language id="Arabic">
+                  لسانهم سهم حاد، وكلمات أفواههم غاشة. يتكلم مع قريبة كلاماً سلامياً والعداوة في قلبه، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ nq~r/i an e~jen nai eie~jem p~sini peje P[oic: ie qen oulaoc an m~pair/] e~re ta'u,/ i~ri n~ou[im~p~sis.
+               </Language>
+               <Language id="English">
+                  Shall I not visit them for these things?" says the Lord. "Shall not My soul take vengeance on such a people as this?
+               </Language>
+               <Language id="Arabic">
+                  أعلى هذا لا افتقدهم يقول الرب. أم لا تنتقم نفسي من شعب كهذا؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Jw n~ounehpi e~jen nitwou: ouoh rimi e~h~r/i e~jen nimwit n~te p~safe~: je au,w e~bol eybe je m~mon rwmi sop n~q/tou: 
+               </Language>
+               <Language id="English">
+                  Take up a wailing on the mountains and a lamentation on the paths of the desert; for they cease from being a people. 
+               </Language>
+               <Language id="Arabic">
+                  قل نوحا على الجبال وإبك على طرق البرية، لأنها قد تركت وليس فيها إنسان، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpoucwtem e~t~c~m/ n~n/etsop icjen nihala] sa nitebnwoui~: autwmt ouoh autako: eie~] n~Ieroucal/m n~ouw~teb e~bol ouoh e~oumanswpi n~drakwn: ouoh nibaki n~te Iouda eie~,au e~outako: e~s~tem y~rouswpi n~q/tou.
+               </Language>
+               <Language id="English">
+                  They do not hear the sound of existence from the birds of the sky, nor even from cattle. They were astonished; they were gone. I will put Jerusalem into captivity, and it will become a dwelling place of serpents. I will make the cities of Judah desolate, beyond habitation."
+               </Language>
+               <Language id="Arabic">
+                  ولم يسمع صوت سكان من الطير إلى البهائم. تحيرت وهلكت وسأنقل أورشليم وأصيرها مسكناً للتنانين، ومدن يهوذا أجعلها للهلاك، ولا يكون فيها ساكن.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 21:33-37</Language>
+               <Language id="Arabic">حزقيال 21: 33-37</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yok hwk p~s/ri m~v~rwmi a~rip~rov/teuin ouoh eke~joc: je nai ne n/e~tefjw m~mwou n~je P[oic n~nens/ri n~Ammwn nem pousws: 
+               </Language>
+               <Language id="English">
+                   "As for you, son of man, prophesy, and you shall say, 'Thus says the Lord to the sons of Ammon and to their shame,' and you shall say,
+               </Language>
+               <Language id="Arabic">
+                  وأنت أيضاً يا إبن الإنسان تنبأ وقل: هذا ما يقوله الرب لبنى عمون وتعييرهم. وقل للسيف: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ouoh eke~joc n~]c/fi: ]c/fi e~tauyokmec e~qolqel: ouoh etauyokmec e~ouqae~. Je twni hopwc n~te iel/l qen tehoracic m~mete~v~l/ou nem ep~jinsenhin qen hanmeynouj:
+               </Language>
+               <Language id="English">
+                  'O sword, sword, drawn for slaughter and for an end; arise, that you may glisten.  While you are seeing a worthless vision, and while you are prophesying falsehood,
+               </Language>
+               <Language id="Arabic">
+                  أيها السيف المسلول للذبح، المصقول للنهاية، قم وأبرق برؤياك الباطل وللتهديد بالكذب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ep~jin t/i] e~jen y~nahbi nhanqwteb n~te nia~nomoc n/et a~n ouehoou i~ qen p~c/ou m~pi[i n~jonc n~te oujwk.
+               </Language>
+               <Language id="English">
+                  And while you are handing over the necks of wounded and lawless men whose day has come, whose end of wrongdoing has come at the proper time.
+               </Language>
+               <Language id="Arabic">
+                  لتقطع أعناق المخالفين الذي قد قربت ايامهم، وكمل زمان ظلمهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matacyo m~perm~ton m~mo qen paima e~taumac] n~q/tf ]na]hap e~ro qen pekahi. 
+               </Language>
+               <Language id="English">
+                  Turn back, and do not lodge in this place in which you were born, for I will judge you in your own land.
+               </Language>
+               <Language id="Arabic">
+                  أرجع ولا تسترح في المكان الذي ولدت فيه، سأدينك في أرضك 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]navwn m~pam~bon e~h~r/i e~jw: ouoh qen ou,rwm n~te pam~bon ]nanifi n~cwi ouoh ]nat/i] n~nibarbaroc eujvo n~outako. 
+               </Language>
+               <Language id="English">
+                  I will pour out My wrath upon you; I will breathe upon you with the fire of My wrath, and deliver you into the hands of barbarians, skilled in working destruction.  
+               </Language>
+               <Language id="Arabic">
+                  وأسكب عليك رجزى وبنار سخطى أنفخ عليك غضبى وسأسلمك للبربر صانعي الهلاك، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen ou,~rwm e~reswpi euouwm m~mopc~nof efe~swpi qen y~m/] m~pekahi: ouoh n~neerv~meui~ swpi ne: je a~nok P[oic aicaji.
+               </Language>
+               <Language id="English">
+                  You will be fuel for the fire; your blood will be in the midst of your land. There will be no remembrance of you; for I the Lord have spoken.'
+               </Language>
+               <Language id="Arabic">
+                  فتكون مأكلا للنار ودمك يكون في وسط أرضك ولا يكون لك ذكر لأني أنا الرب تكلمت.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the ninth hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.3"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 27:3-4, 34:4</Language>
+               <Language id="Arabic">مزمور 27: 3-4, 34: 4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  N/etcaji nem nous~v/r qen ouhirn/n: hanpethwou de etqen nouh/t. 
+               </Language>
+               <Language id="English">
+                  Who speak peace with their neighbor, but evil is in their hearts.
+               </Language>
+               <Language id="Arabic">
+                  المتكلمون مع أصحابهم بالسلام والشرور في قلوبهم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Moinwou P[oic kata nouh~b/oui~: nem kata ]metpethwou n~te nouh~b/oui: All/louia.
+               </Language>
+               <Language id="English">
+                  Give them according to their works, according to the wickedness of their pursuits. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  أعطهم يا رب كحسب أفعالهم ومثل شر أعمالهم: الليلويا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Marou[isipi ouoh n~ce[isws n~je ouon niben etkw] n~ca ta'u,/. 
+               </Language>
+               <Language id="English">
+                  Let those who seek my soul be dishonored and shamed.
+               </Language>
+               <Language id="Arabic">
+                  فليخز ويخجل جميع اللذين يطلبون نفسى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Maroukotou e~vahou ouoh n~ce[isipi n~je n/etco[ni e~roi n~hanpethwou: All/louia.
+               </Language>
+               <Language id="English">
+                  Let those who plot evils against me be turned backward and disappointed. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وليرتدوا إلى الوراء ويفتضح الذين يتآمرون على بالسوء: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 26:47-58</Language>
+            <Language id="Arabic">متى 26: 47-58</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~ti efcaji: ic ioudac ouai e~bolqen pim/tc~nau: afi~ nem ounis] m~m/s nem hanc/fi nem hans~bo]: e~bolha niar/,e~reuc nem nip~recbuteroc n~te pilaoc.
+               </Language>
+               <Language id="English">
+                  And while He was still speaking, behold, Judas, one of the twelve, with a great multitude with swords and clubs, came from the chief priests and elders of the people.
+               </Language>
+               <Language id="Arabic">
+                  وفيما هو يتكلم إذ جاء يهوذا أحد الإثنى عشر ومعه جمع كثير بسيوف وعصى من قبل رؤساء الكهنة وشيوخ الشعب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  V/ de e~naf nat/if af] n~oum/ini nwou efjw m~moc: je v/e~]na] n~ouvi e~rwf n~yof pe a~moni m~mof.
+               </Language>
+               <Language id="English">
+                  Now His betrayer had given them a sign, saying, "Whomever I kiss, He is the One; seize Him."
+               </Language>
+               <Language id="Arabic">
+                  وكان مسلمه قد أعطاهم علامة قائلا: الذي أقبل فاه هو هو فأمسكوه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh catotf afi~ ha I/c pejaf naf je ,ere Rabbi: ouoh af] n~ouvi e~rwf.
+               </Language>
+               <Language id="English">
+                  Immediately he went up to Jesus and said, "Greetings, Rabbi!" and kissed Him.
+               </Language>
+               <Language id="Arabic">
+                  وللوقت تقدم إلى يسوع وقال له: السلام يا معلم. وقبل فاه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc de pejaf naf je pas~v/r: vai etaki~ eyb/tf: tote auen noujij e~jen I/couc aua~moni m~mof.
+               </Language>
+               <Language id="English">
+                  But Jesus said to him, "Friend, why have you come?" Then they came and laid hands on Jesus and took Him.
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: يا صاحب، أهذا الذي جئت من أجله؟ حينئذ ألقوا أيديهم على يسوع وأمسكوه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ic ouai e~bolqen n/et,/ nem I/couc: afcouten tefjij e~bol afselem tefc/fi ouoh afhioui~ n~ca v~bwk m~piar,/e~reuc afjej pefmasj n~oui~nam e~bol.
+               </Language>
+               <Language id="English">
+                  And suddenly, one of those who were with Jesus stretched out his hand and drew his sword, struck the servant of the high priest, and cut off his  right ear.
+               </Language>
+               <Language id="Arabic">
+                  وإذ واحد من الذين كانوا مع يسوع مد يده وإستل سيفه وضرب عبد رئيس الكهنة، فقطع أذنه اليمنى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote peje I/couc naf je matacyo n~]c/fi e~pecma: ouon gar niben eyna[ic/fi cenatakwou n~t~c/fi. 
+               </Language>
+               <Language id="English">
+                  But Jesus said to him, "Put your sword in its place, for all who take the sword will perish by the sword.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ قال له يسوع: أردد السيف إلى مكانه، لأن كل الذين يأخذون بالسيف بالسيف يهلكون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ie akmeui je ete m~mons~jom m~moi e~twbh m~paiwt: ouoh n~tefy~rehouo e~m/tc~nau n~liegiwn n~aggeloc i~ n/i m~nai ]nou.
+               </Language>
+               <Language id="English">
+                  Or do you think that I cannot now pray to My Father, and He will provide Me with more than twelve legions of angels?
+               </Language>
+               <Language id="Arabic">
+                  أتظن أنى لا أستطيع الآن أن أطلب من أبي فيقدم لى في الحال ههنا أكثر من إثنتى عشرة جوقة من الملائكة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pwc oun n~te nig~rav/ jwk e~bol: je pair/] petc~se n~tecswpi.
+               </Language>
+               <Language id="English">
+                  How then could the Scriptures be fulfilled, that it must happen thus?"
+               </Language>
+               <Language id="Arabic">
+                  ولكن كيف تتم الكتب؟!. فإنه هكذا ينبغي أن يكون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen ]ounou e~tem~mau peje I/couc n~nim/s: jee~tareten i~ e~bol m~v~r/] e~reten n/ou n~ca ouconi: nem hanc/fi nem hans~bo] e~a~moni mmoi:
+               </Language>
+               <Language id="English">
+                  In that hour Jesus said to the multitudes, "Have you come out, as against a robber, with swords and clubs to take Me?
+               </Language>
+               <Language id="Arabic">
+                  وفي تلك الساعة قال يسوع للجموع: خرجتم كما تخرجون على لص بسيوف وعصى لتمسكوني،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ naihemci an pe qen piervei m~m/ni e~]c~bw ouoh mpeten amoni m~moi.
+               </Language>
+               <Language id="English">
+                  I sat daily with you, teaching in the temple, and you did not seize Me.
+               </Language>
+               <Language id="Arabic">
+                  أما كنت أجلس كل يوم في الهيكل أعلم ولم تمسكوني؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vai de t/rf afswpi hina n~toujwk e~bol n~je nig~rav/ n~te nip~rov/t/c:
+               </Language>
+               <Language id="English">
+                  But all this was done that the Scriptures of the prophets might be fulfilled."
+               </Language>
+               <Language id="Arabic">
+                  وهذا كله قد كان لتتم كتب الآنبياء.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Tote nimay/t/c t/rou au,af auvwt: N~ywou de aua~moni n~I/couc: auenf ha Kaiava piar,/e~reuc: pima e~tauywou] e~rof n~jenicaq nem nip~recbuteroc:
+               </Language>
+               <Language id="English">
+                  Then all the disciples forsook Him and fled. And those who had laid hold of Jesus led Him away to Caiaphas the high priest, where the scribes and the elders were assembled.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ تركه التلاميذ كلهم وهربوا، أما هم فأمسكوا يسوع وقدموه إلى قيافا رئيس الكهنة، حيث إجتمع الكتبة والشيوخ
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Petroc de nafmosi n~cwf pe hiv~ouei sa]aul/ n~te piar,/e~reuc: 
+               </Language>
+               <Language id="English">
+                  But Peter followed Him at a distance to the high priest's courtyard.
+               </Language>
+               <Language id="Arabic">
+                  وكان بطرس يتبعهم من بعيد إلى دار رئيس الكهنة، ودخل 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafsenaf e~qoun afhemci nem nihuperet/c e~nau e~pijwk.
+               </Language>
+               <Language id="English">
+                  And he went in and sat with the servants to see the end.
+               </Language>
+               <Language id="Arabic">
+                  وجلس مع الخدام لينظر النهاية.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationMark"/>
+         </Role>
+      </Section>
+         
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Mark 14:43-54</Language>
+            <Language id="Arabic">مرقس 14: 43-54</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroMark"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh catotfe~ti efcaji: afi~ n~je Ioudac ouai e~bolqen pim/t c~nau: e~re ouon oum/s nemaf nemhanc/fi nem hanse e~bolha niar,/e~reuc nem niprecbutroc nem nicaq:
+               </Language>
+               <Language id="English">
+                  And immediately, while He was still speaking, Judas, one of the twelve, with a great multitude with swords and clubs, came from the chief priests and the scribes and the elders.
+               </Language>
+               <Language id="Arabic">
+                  وللوقت فيما هو يتكلم، أقبل يهوذا أحد الإثنى عشر ومعه جمع كثير بسيوف وعصى من عند رؤساء الكهنة والشيوخ والكتبة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ne af] de n~oum/ini nwou n~je v/eynat/if efjw m~moc: je v/e~]na] n~ouvi e~rwf: n~yof pe a~moni m~mof ouoh [itf acvalwc.
+               </Language>
+               <Language id="English">
+                  Now His betrayer had given them a signal, saying, "Whomever I kiss, He is the One; seize Him and lead Him away safely."
+               </Language>
+               <Language id="Arabic">
+                  وكان المزمع أن يسلمه قد أعطاهم علامة قائلا: الذي أقبل فاه هو هو فأمسكوه وخذوه بحرص.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ catotf afi~ harof pejaf ja rabbi: ouoh af]vi e~rwf. N~ywou de auen noujij e~jwf ouoh aua~moni mmof.
+               </Language>
+               <Language id="English">
+                  As soon as He had come, immediately he went up to Him and said to Him, "Rabbi, Rabbi!" and kissed Him.
+               </Language>
+               <Language id="Arabic">
+                  وللوقت جاء وتقدم إليه وقال: يا معلم. وقبل فاه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouai de n~te n/etohi e~ratou:
+               </Language>
+               <Language id="English">
+                  Then they laid their hands on Him and took Him.
+               </Language>
+               <Language id="Arabic">
+                  فألقوا ايديهم عليه وامسكوه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afyekem tefc/fi ouoh af] n~ousas m~v~bwk m~piar,/e~reuc: ouoh afw~li m~pefmasj e~bol.
+               </Language>
+               <Language id="English">
+                  And one of those who stood by drew his sword and struck the servant of the high priest, and cut off his ear.
+               </Language>
+               <Language id="Arabic">
+                  فإستل واحداً من الواقفين السيف وضرب عبد رئيس الكهنة فقطع أذنه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aferouw~ n~je I/couc pejaf nwou: je e~tareten i~ e~bol hwc e~retenn/ou n~caouconi: nem hanc/fi nem hanse e~tahoi.
+               </Language>
+               <Language id="English">
+                  Then Jesus answered and said to them, "Have you come out, as against a robber, with swords and clubs to take Me?
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال لهم: كإنما على لص خرجتم بسيوف وعصى، لتقبضوا على!.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai,/ harwten pe m~m/ni ei]c~bw qen piervei ouoh m~petena~moni m~moi: alla hina n~toujwk e~bol n~je nig~rav/.
+               </Language>
+               <Language id="English">
+                  I was daily with you in the temple teaching, and you did not seize Me. But the Scriptures must be fulfilled."
+               </Language>
+               <Language id="Arabic">
+                  كل يوم كنت معكم أعلم في الهيكل ولم تمسكوني، ولكن لكي تكمل الكتب،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tau,af auvwt t/rou. Ouoh nare ouqelsiri mosi n~cwf: efj/l n~oucundonion e~jen pefbws: 
+               </Language>
+               <Language id="English">
+                  Then they all forsook Him and fled. Now a certain young man followed Him, having a linen cloth thrown around his naked body.
+               </Language>
+               <Language id="Arabic">
+                  فتركه الجميع وهربوا، وكان يتبعه شاب مرتدياً إزاراً على عريه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aua~moni m~mof. N~yof de afcwjp n~]cundonion afvwt efb/s.
+               </Language>
+               <Language id="English">
+                  And the young men laid hold of him, and he left the linen cloth and fled from them naked.
+               </Language>
+               <Language id="Arabic">
+                  فأمسكوه، أما هو فترك الإزار وهرب عاريا.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh au[i n~I/couc ha piar,/e~reuc Kaia~va: ouoh auywou] harof n~je niar,/e~reuc nem nip~recbuteroc nem nicaq.
+               </Language>
+               <Language id="English">
+                  And they led Jesus away to the high priest; and with him were assembled all the chief priests, the elders, and the scribes.
+               </Language>
+               <Language id="Arabic">
+                  وأخذوا يسوع إلى قيافا رئيس الكهنة واجتمع إليه كل رؤساء الكهنة والشيوخ والكتبة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Petroc nafmosi n~cwf pe hiv~ouei sae~qoun e~]aul/ n~te piar,/e~reuc:
+               </Language>
+               <Language id="English">
+                  But Peter followed Him at a distance, right into the courtyard of the high priest.
+               </Language>
+               <Language id="Arabic">
+                  وكان بطرس يتبعه من بعيد إلى داخل دار رئيس الكهنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh nafers~v/r n~hemci nem nihuperet/c: eft~q~mo mmof qaten piouwini.
+               </Language>
+               <Language id="English">
+                   And he sat with the servants and warmed himself at the fire.
+               </Language>
+               <Language id="Arabic">
+                  وكان جالساً يصطلى عند الضوء.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationLuke"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Luke 22:47-55</Language>
+            <Language id="Arabic">لوقا 22: 47-55</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroLuke"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~ti efcaji h/ppe ic oum/s nem v/e~tou] e~rof je Ioudac ouai e~bolqen pim/t c~nau nafmosi qajwou pe: ouoh afqwnt e~I/c af]v,i e~rwf.
+               </Language>
+               <Language id="English">
+                  And while He was still speaking, behold, a multitude; and he who was called Judas, one of the twelve, went before them and drew near to Jesus to kiss Him.
+               </Language>
+               <Language id="Arabic">
+                  وفيما هو يتكلم، إذا جمع يتقدمهم المدعو يهوذا أحد الإثنى عشر، فدنا من يسوع وقبل فاه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  I/couc de pejaf naf: je Ioudac akna] m~p~s/ri mv~rwmi qen ouvi. E~taunau de n~je n/etkw] e~rof m~v/e~tafswpi: pejwou je P[oic n~tenhioui~ n~tc/fi.
+               </Language>
+               <Language id="English">
+                  But Jesus said to him, "Judas, are you betraying the Son of Man with a kiss?" When those around Him saw what was going to happen, they said to Him, "Lord, shall we strike with the sword?"
+               </Language>
+               <Language id="Arabic">
+                  فقال له يسوع: يا يهوذا، أبقبلة تسلم إبن الإنسان؟! فلما رأى الذين حوله ما كان قالوا: يا رب أنضرب بالسيف؟.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh a~ ouai e~bol n~q/tou afhioui~ n~ca v~bwk m~piar,/e~reuc: ouoh afel pefmasj n~oui~nam e~bol.
+               </Language>
+               <Language id="English">
+                  And one of them struck the servant of the high priest and cut off his right ear.
+               </Language>
+               <Language id="Arabic">
+                  وضرب واحد منهم عبد رئيس الكهنة فقطع أذنه اليمنى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw de n~je I/couc pejaf je k/n sa m~nai: ouoh e~taf[oh e~pefmasj aftal[of.
+               </Language>
+               <Language id="English">
+                  But Jesus answered and said, "Permit even this." And He touched his ear and healed him.
+               </Language>
+               <Language id="Arabic">
+                  فأجاب يسوع وقال: كفى إلى هنا. ولمس أذنه وأبرأها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje I/couc de n~n/e~taui~ n~cwf e~bolqen niar,ie~reuc nem nicat/gouc n~te piervei nem e~tareten i~ e~bol m~v~r/] e~retenn/ou n~ca ouconi: nem hanc/fi nem hans~bo].
+               </Language>
+               <Language id="English">
+                  Then Jesus said to the chief priests, captains of the temple, and the elders who had come to Him, "Have you come out, as against a robber, with swords and clubs?
+               </Language>
+               <Language id="Arabic">
+                  ثم قال يسوع للذين جاءوا إليه من رؤساء الكهنة وقواد جند الهيكل والشيوخ: كأنه على لص خرجتم بسيوف وعصى،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ei,/ qen piervei nemwten m~m/ni: m~petencouten netenjij e~bol e~h~r/i e~jwi: alla yai te tetenounou nem piersisi n~te p~,aki:
+               </Language>
+               <Language id="English">
+                  When I was with you daily in the temple, you did not try to seize Me. But this is your hour, and the power of darkness."
+               </Language>
+               <Language id="Arabic">
+                  وقد كنت معكم كل يوم في الهيكل، ولم تمدوا على أيديكم ولكن هذه ساعتكم وسلطان الظلمة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  E~taua~moni de m~mof auenf ouoh au[itf e~qoun e~p/i m~piar,/e~reuc:
+               </Language>
+               <Language id="English">
+                  Having arrested Him, they led Him and brought Him into the high priest's house.
+               </Language>
+               <Language id="Arabic">
+                  فلما أمسكوه وجاءوا به وأدخلوه إلى بيت رئيس الكهنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Petroc de nafmosi n~cwf hiv~ouei: Etau[ere ou,rwm de qen y~m/] n~]aul/: ouoh e~tauhemci nare Petroc hwf hemci toum/].
+               </Language>
+               <Language id="English">
+                  But Peter followed at a distance. Now when they had kindled a fire in the midst of the courtyard and sat down together, Peter sat among them.
+               </Language>
+               <Language id="Arabic">
+                  وكان بطرس يتبعه من بعيد، ولما أضرموا ناراً في وسط الدار وجلسوا، فكان بطرس أيضاً جالساً في وسطهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/GospelContinuationJohn"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="include/GloryBeToGodForever"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 18:10-14</Language>
+            <Language id="Arabic">يوحنا 18: 10-14</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+            
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Cimwn oun Petroc ne ouon ouc/fi n~totf: afyokmec afhioui~ n~ca v~bwk m~piar,/e~reuc: ouoh afjwji m~pefmasjn~oui~nam e~bol:
+               </Language>
+               <Language id="English">
+                  Then Simon Peter, having a sword, drew it and struck the high priest’s servant, and cut off his right ear.
+               </Language>
+               <Language id="Arabic">
+                  وكان مع سمعان بطرس سيف فإستله وضرب عبد رئيس الكهنة، فقطع إذنه اليمنى
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  ne v~ran m~pibwk pe Mal,oc. Peje I/couc oun m~Petroc: je hioui~ n~]c/fi e~tecy/k/: pia~vot e~taft/if n/i n~je paiwt an n~]nacof an.
+               </Language>
+               <Language id="English">
+                  The servant’s name was Malchus. So Jesus said to Peter, "Put your sword into the sheath. Shall I not drink the cup which My Father has given Me?"
+               </Language>
+               <Language id="Arabic">
+                  وكان إسم العبد ملخس، فقال يسوع لبطرس: إلق السيف في غمده. الكأس التي أعطانيها أبى ألا أشربها؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pim/s oun nem pi,iliar,oc nem nihuperet/c n~te niIoudai: aua~moni n~I/couc ouoh auconhf.
+               </Language>
+               <Language id="English">
+                  Then the detachment of troops and the captain and the officers of the Jews arrested Jesus and bound Him.
+               </Language>
+               <Language id="Arabic">
+                  ثم أن الجمع وقائد الألف وخدام اليهود قبضوا على يسوع وأوثقوه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auenf n~sorp ha Anna: nep~som gar pe n~Kaia~va: v/e~nafoi n~ar,/e~reuc n~te ]rompi e~tem~mau.
+               </Language>
+               <Language id="English">
+                  And they led Him away to Annas first, for he was the father-in-law of Caiaphas who was high priest that year.
+               </Language>
+               <Language id="Arabic">
+                  وجاءوا به اولاً إلى حنان، لأنه كان حما قيافا الذي كان رئيسا للكهنة في تلك السنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ne vai de pe Kaia~va v/e~taf]co[ni n~niIoudai efjwm~moc: je cernofri n~te ourwmi n~ouwt mou e~h~r/i e~jen pilaoc.
+               </Language>
+               <Language id="English">
+                   Now it was Caiaphas who advised the Jews that it was expedient that one man should die for the people.
+               </Language>
+               <Language id="Arabic">
+                  وكان قيافا هو الذي أشار على اليهود قائلا: أنه خير أن يموت رجل واحد عن الشعب. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the ninth hour of the eve of Great Friday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة من ليلة الجمعة العظيمة من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  And while he was speaking with his disciples concerning his suffering, one of the twelve who is Judas came accompanied with a great multitude armed with swords and clubs and soldiers from the chief priests and the scribes.
+               </Language>
+               <Language id="Arabic">
+                  فلما فرغ كلام المخلص لتلاميذه من أجل آلامه، جاء واحد من الإثنى عشر الذى هو يهوذا ومعه جمع بسيوف وعصى وجند من عند الكتبة ورؤساء الكهنة،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  His betrayer the contrary full of transgressions had given them a sign saying, "Whomever I kiss, he is the one; seize him."
+               </Language>
+               <Language id="Arabic">
+                  وكان الدافع إبن الشرير المخالف المملوء من الآثام، وأعطاهم علامة قائلا: إن الذي اقبله هو هو فإمسكوه واعرفوه من ذلك الوقت الذي أصنع به هذا، إذا دنوت منه لأقبله وأخاطبه هو هو فأمسكوه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He immediately went up to Jesus and said to him, "Peace Lord," and kissed him. Jesus said to him: "How could you have the auducity to deliver me with a kiss."
+               </Language>
+               <Language id="Arabic">
+                  وأتى إلى يسوع وقال له: السلام يا معلم. وقبله، فقال له: يا صاحب كيف تجاسرت لأن تسلمني بقبلة إلى الأمم؟!
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And suddenly, one of those who were with Jesus, stretched out his hand, drew his sword, and struck the servant of the high priest and cut off his ear. Then Jesus said to him, "Put your sword in its sheeth; for all who take the sword, by the sword will perish. I could, if I want to, bring in hosts of angels to fight for me."
+               </Language>
+               <Language id="Arabic">
+                  فأسرع واحد واستل سيفاً وقطع به أذن عبد رئيس الكهنة، فقال يسوع: أردد السيف إلى غمده، فإن الذي يقتل بالسيف بالسيف يقتل، وأنا يمكني أن احضر ربوات الملائكة لتحارب أمامي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                   When the disciples saw that, they escaped and left him alone with the multitudes. Then they led him away to Caiaphas the high priest where the scribes and the elders were assembled. Peter followed him, at a distance to the high priest's courtyard.
+               </Language>
+               <Language id="Arabic">
+                  حينئذ لما نظر التلاميذ هذا هربوا وتركوه مع الجمع الكثير، فاتوا به إلى قيافا رئيس الكهنة وجماعة الكتبة واصحاب الناموس وكان سمعان بطرس يتبعه حتى جلس عند باب رئيس الكهنة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Woe to you Judas, for you have met a punishment without parallel and doomed damnation on yourself. Your lot will be with the corrupt.
+               </Language>
+               <Language id="Arabic">
+                  الويل لك يا يهوذا لأنك احتملت عقوبة لا شبيه لها، ولبست اللعنة مثل الثوب، فنصيبك يكون مع الزناة أيها المخالف.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

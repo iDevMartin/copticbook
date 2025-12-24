@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StGeorge:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. George</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيد مار جرجس</Language>
+            <Language id="Coptic">Sasf n~rompi...</Language>
+         </Title>
+               
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. George:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Sasf n~rompi afjokou e~bol: n~je v/e#y#u# Gewrgioc: e~re pis~be n~ouro n~a~nomoc: eu]hap e~rof m~m/ni.
+            </Language>
+            <Language id="English">
+               Saint George completed: seven whole years: being judged daily: by seventy lawless kings.
+            </Language>
+            <Language id="Arabic">
+               سبع سنين أكملها القديس جيؤرجيوس ال٧٠ ملكا منافقين يحكمون عليه كل يوم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Mpous~vwnh m~peflogicmoc: oude pefnah] etcoutwn: oude tefnis] n~a~gap/: e~qoun e~p~ouro P,#c#.
+            </Language>
+            <Language id="English">
+               They could not change his mind: nor his upright faith: nor his great love: for Christ the King.
+            </Language>
+            <Language id="Arabic">
+               ولم يقدروا أن يميلوا أفكاره ولا إيمانه المستقيم ولا عظم محبته في الملك المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nafer'alin nem Dauid: je aukw] e~roi n~je nieynoc t/rou: alla qen v~ran n~I/#c# Panou]: ai[i m~pa[i m~p~sis nemwou.
+            </Language>
+            <Language id="English">
+               He was singing with David saying: "All the nations surrounded me: but in the name of Jesus my Lord: I took revenge upon them.”
+            </Language>
+            <Language id="Arabic">
+               وكان يرتل مع داود قائلا أحاط بي جميع الأمم لكن بإسم يسوع الهي انتقمت منهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ounis] gar pe pektaio~: w~ pao#c# p~ouro Gewrgioc: e~re P,#c# rasi nemak: qen Ieroucal/m n~te t~ve.
+            </Language>
+            <Language id="English">
+               For great is your honor: O George, my lord and prince: for Christ rejoices in you: in the heavenly Jerusalem.
+            </Language>
+            <Language id="Arabic">
+               عظيمة هي كرامتك ياسيدى الملك جيؤرجيوس المسيح يفرح معك في أورشليم السمائية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere piaylovoroc: pao#c# p~ouro Gewrgioc.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail to the courageous hero: Hail to the struggle-mantled: George, my lord and prince.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع المجاهد السلام للابس الجهاد سيدى الملك جيؤرجيوس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StGeorge"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for St. George</Language>         
+            <Language id="Arabic">ذوكصولوجية آخر للشهيد مار جرجس</Language>
+            <Language id="Coptic">Ni,oroc n~te nimarturoc...</Language>
+         </Title>
+      
+         <Text>
+            <Language id="Coptic">
+               Ni,oroc n~te nimarturoc: nem niy~m/i nem nidikeoc: euermakarizin m~mok: w~ piouro Gewrgioc.
+            </Language>
+            <Language id="English">
+               The choruses: of the martyrs: the just and the righteous: bless you O King George;
+            </Language>
+            <Language id="Arabic">
+               صفوف الشهداء والأبرار والصديقين يطوبونك أيها الملك جيؤرجيوس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je n~yok ounis] gar n~q/tou: eybe tekomologia~: menenca sasf n~rompi n~c/ou: m~peh~li erv~meui~ m~P,#c#.
+            </Language>
+            <Language id="English">
+               For you are great among them: because of your confession: after seven years’ time: no one remembered Christ.
+            </Language>
+            <Language id="Arabic">
+               لأنك أنت العظيم فيهم من أجل اعترافك بعد سبع سنوات من الزمن لم يكن يذكر اسم المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akouwnh m~P,#c# e~bol: qen ouparr/cia~ n~aterho]: afswpi n~hans~be n~ouro: nem noui~dwlon et[wqem.
+            </Language>
+            <Language id="English">
+               You proclaimed Christ: boldly and fearlessly: Seventy kings were there: with their defiled idols.
+            </Language>
+            <Language id="Arabic">
+               اعترفت بالمسيح علناً بغير خوف وكان سبعون ملكاً مع أوثانهم النجسة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aksepm~kauh e~bolhitotou: n~sasf n~rompi etj/k e~bol: auerbacanizin m~mok: qen ounis] m~bacanoc.
+            </Language>
+            <Language id="English">
+               You received sufferings from them: for seven whole years: They tortured you: with great tortures;
+            </Language>
+            <Language id="Arabic">
+               قبلت الآلام منهم سبع سنوات كاملة عذبوك بعذابات عظيمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Qen nai aP,#c# piouro: ]taio~ m~mok e~masw: e~hote nimarturoc: afmou] e~rok je ounis] n~q/tou.
+            </Language>
+            <Language id="English">
+               With these, Christ the King: honored your greatly: more than the martyrs: He called you, “great”, among them.
+            </Language>
+            <Language id="Arabic">
+               وبهذا الملك المسيح كرمك جداً أكثر من الشهداء ودعاك العظيم فيهم..
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afervorin m~mok qen tefjij: n~oui~nam n~sasf n~,~lom: afolk nemaf e~tefmetouro: qen ouw~ou nem outaio~.
+            </Language>
+            <Language id="English">
+               With His right hand he adorned you: with seven crowns: He lifted you with Him: to His kingdom with glory and honor.
+            </Language>
+            <Language id="Arabic">
+               وألبسك سبع اكاليل بيمينه ورفعك معه إلي ملكوته بمجد وكرامة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere piaylovoroc: pao#c# p~ouro Gewrgioc.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail to the courageous hero: Hail to the struggle-mantled: my lord King George.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع المجاهد السلام للابس الجهاد سيدى الملك جيؤرجيوس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StGeorge"/>
+      </Section>
+   </Season>
+</Document>

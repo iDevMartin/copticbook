@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               From the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+            </Language>
+         </Comment>
+         
+         <Group>
+            <Season id="Liturgy ^ DisplayNonCustomaryPrayers">
+               <Text>
+                  <Language id="Coptic">
+                     Hwc e~P~[oic qen ouhwc m~beri caji m~pefw~ou nem nefs~v/ri: P,#c#  aftwnf e~bolqen n/e~ymwout ouoh afsenaf e~p~swi e~niv/oui.
+                  </Language>
+                  <Language id="English">
+                     Sing to the Lord a new song, declare His glory and wonders.   Christ is risen from the dead and has ascended into the heavens.
+                  </Language>
+                  <Language id="Arabic">
+                     سبحوا الرب تسبيحًا جديدًا، خبروا  بمجده  وبعجائبه، المسيح قام من الأموات، وصعد إلي السموات 
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Afi~ n~je P[oic sa B/ya~nia: nem nefmay/t/c eyouab: affai n~nefjij afc~mou e~rwou: afsenaf e~p~swi e~niv/oui~.
+                  </Language>
+                  <Language id="English">
+                     The Lord came to Bethany, with His Holy Disciples, He raised His Hands and blessed them, He ascended to the Heavens.
+                  </Language>
+                  <Language id="Arabic">
+                     جاء الرب إلى يت  عنيا، مع تلاميذه القديسين، ورفع يديه باركهم، وصعد إلى السموات. 
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) Pi,~rictoc aftwnf ebolqen n/eymwout: ouoh afsenaf e~p~swi e~niv/oui:
+            </Language>
+            <Language id="English">
+               Alleluia (4) Christ is risen from the dead and has ascended into the heavens.
+            </Language>
+            <Language id="Arabic">
+               الليلويا  (4) المسيح قام من الأموات وصعد إلي السموات 
+            </Language>
+         </Text>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/gospelResponse/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+</Document>

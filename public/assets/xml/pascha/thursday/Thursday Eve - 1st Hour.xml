@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday Eve (The First Hour)</Language>
+         <Language id="Arabic">ليلة خميس العهد (الساعة الاولى)</Language>
+         <Language id="Coptic">Pie~jwrh m~Ptiou n~nis] (}ajp 1)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the First Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الاولى، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Ezekiel 43:5-11</Language>
+               <Language id="Arabic">حزقيال 43: 5-11</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Ezekiel"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afolt n~je ou~p~neuma ouoh afent e~qoun e~]aul/ etcaqoun: ouoh h/ppe ic pi/i e~afmoh ebolqen p~wou n~te P[oic:
+               </Language>
+               <Language id="English">
+                  The Spirit lifted me up and brought me into the inner court, and behold, the house was full of the Lord's glory.
+               </Language>
+               <Language id="Arabic">
+                  فحملنى الروح وأدخلنى إلى الدار الداخلية. وإذ البيت ممتلئ من مجد الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh aiohie~rat ouoh h/ppe ic ouc~m/ n~te v/etcaji nem/i e~bolqen pi/i: ouoh nare pirwmi ohi e~ratf pe qa youwi:
+               </Language>
+               <Language id="English">
+                  Then I stood, and behold, there was a voice from the house, and a Man was standing with me.
+               </Language>
+               <Language id="Arabic">
+                  فوقفت وإذا بصوت يتكلم معى من البيت، وكان الرجل واقفاً بجانبى، وقال لى:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf n/i je p~s/ri m~v~rwmi: aknau e~vma m~pay~ronoc: nem v~ma n~]sentatci n~tena[a~lauj: nai e~tef naswpi n~q/tou n~je paran qen y~m/] m~p~/i m~Piicra/l sae~neh:
+               </Language>
+               <Language id="English">
+                  He said to me, "Son of man, you have seen the place of My throne and the place of the soles of My feet, where I will dwell in the midst of the house of Israel forever.
+               </Language>
+               <Language id="Arabic">
+                  أترى يا إبن الإنسان مكان عرشى وموضع باطن قدمى؟ هؤلاء الذين يكون فيهم أسمى فى وسط بيت اسرائيل إلى الأبد، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~ne p/i m~Piicra/l wreb m~paran eyouab: je n~ywou nem nouhugoumenoc n~q~r/i qen oupon/ria~: nem niqwteb n~te nouhugoumenoc qen toum/]. 
+               </Language>
+               <Language id="English">
+                  No more will the house of Israel defile My holy name, they nor their leaders, by their fornication or murders of the leaders in their midst. 
+               </Language>
+               <Language id="Arabic">
+                  ولن ينجس بعد بيت اسرائيل أسمى القدوس. هم ومدبريهم فى الإثم وقتل مدبريهم فى وسطهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Qen p~jiny~rou,w m~paro qaten nourwou ouoh naouejrwou qaten nouejrwou: ouoh au,w n~tajoi m~v~r/] e~naca~moni m~moi nemwou: 
+               </Language>
+               <Language id="English">
+                  When they set My threshold by their thresholds, and My doorpost by their doorposts, with a wall between them and Me, 
+               </Language>
+               <Language id="Arabic">
+                  عندما جعلوا بابى عند أبوابهم، وأعتابى بجانب أعتابهم، وجعلوا سياجهم كما لو كانت تمسكنى معهم، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh auw~reb m~paran eyouab qen noua~nomia~ e~naui~ri m~mwou: ouoh aiqemqwmou qen pam~bon nem qen ouqwteb:
+               </Language>
+               <Language id="English">
+                  they desecrated My holy name by their lawlessness, and I destroyed them in My anger and with slaughter.
+               </Language>
+               <Language id="Arabic">
+                  فنجسوا أسمى القدوس بآثامهم التى يفعلونها فسحقتهم بغضبى قتلاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ]nou marou,w n~noupon/ria~: nem niqwteb n~te nouhugoumenoc e~bol haroi: ouoh ]naswpi qen toum/] sae~neh:
+               </Language>
+               <Language id="English">
+                  Now let them remove their fornication from My presence, and the murders of their leaders, and I will dwell in their midst forever.
+               </Language>
+               <Language id="Arabic">
+                  والآن فليتركوا شرورهم. وقتل مدبريهم أمامى، فأحل فى وسطهم إلى الأبد،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~yok hwk p~s/ri m~v~rwmi: matame p~/i m~Piicra/l e~pi/i nem tefhoracic: nem pefyws ouoh cenaheri e~bolha nounobi: ouoh nai cena[i n~toukoulacic:
+               </Language>
+               <Language id="English">
+                  "As for you, son of man, explain this house to the house of Israel, and they will cease from the shame of their sins; and describe to them its vision and its plan.
+               </Language>
+               <Language id="Arabic">
+                  وأنت أيضاً يا إبن الإنسان أخبر بيت اسرائيل عن البيت وشكله ورسمه فيكفون عن خطاياهم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe hwb niben e~tauaitou ouoh eke~c~qai m~pi/i nem pefcob]: nem pefmwit e~bol: nem pefmwit e~qoun: nem tefhupoctacic: nem nefouahcahni t/rou:
+               </Language>
+               <Language id="English">
+                  They shall take the chastisements for all the things they did, and you shall describe the house, its design, its exits, and its substance, and all its ordinances.
+               </Language>
+               <Language id="Arabic">
+                  وهؤلاء ينالون عقابهم من أجل كل ما صنعوه، وترسم البيت وهيئته ومخارجه ومداخله ونظامه، وكل أوامره أخبرهم بها.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eke~tamwou e~rwou ouoh eke~c~q/tou m~poum~yo e~bol: ouoh cenaa~reh e~nameym/i t/rou nem naouahcahni t/rou n~ceaitou.
+               </Language>
+               <Language id="English">
+                  You shall make known its laws to them and write them out in their sight. Then they will keep all My requirements and all My ordinances and perform them.
+               </Language>
+               <Language id="Arabic">
+                  وأكتب ذلك أمامهم فيحفظون جميع حقوقى وجميع وصاياى ويعملون بها.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the First Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الاولى، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 68:1, 16</Language>
+               <Language id="Arabic">مزمور 68: 1, 16</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Matanqoi Vnou] je a~hanmwou: se e~qoun sa ta'u,/: 
+               </Language>
+               <Language id="English">
+                  Save me, O God, for the waters flood my soul. 
+               </Language>
+               <Language id="Arabic">
+                  أحينى ياالله فإن المياه قد بلغت إلى نفسى، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kata p~a~sai n~te nekmetsenh/t: joust e~q~r/i e~jwi: All/louia.
+               </Language>
+               <Language id="English">
+                  According to Your abundant compassion, look upon me. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وأنظر إلى ككثرة رأفاتك: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 10:17-21</Language>
+            <Language id="Arabic">يوحنا 10: 17-21</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai fmei m~moi n~je paiwt: je anok ]na,w n~ta'u,/ hin on n~ta[itc:
+               </Language>
+               <Language id="English">
+                  “Therefore My Father loves Me, because I lay down My life that I may take it again.
+               </Language>
+               <Language id="Arabic">
+                  من أجل هذا يحبنى أبى، لأنى أضع نفسى لأخذها أيضاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mmon hli wli m~moc n~tot alla a~nok et,w m~moc e~q~r/i ebol hito m~mauat: ouon] ersisi m~mau e~,ac ouon ersisi m~mau on e~[itc: 
+               </Language>
+               <Language id="English">
+                  No one takes it from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. 
+               </Language>
+               <Language id="Arabic">
+                  ليس أحد يأخذها منى ولكنى أضعها أنا من ذأتى وحدى، ولى سلطان أن أضعها، ولى أيضاً سلطان أن آخذها، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Yai te ]entol/ e~tai[itc e~bol hiten paiwt.
+               </Language>
+               <Language id="English">
+                  This command I have received from My Father.”
+               </Language>
+               <Language id="Arabic">
+                  هذه هى الوصية التى قبلتها من أبى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouc~,icma on afswpi qen niIoudai eybe paicaji: &lt;anm/s de e~bol n~q/tou naujwm~moc je ouon oude mwn nemaf ouoh f~lobi: eybeou tetencwtem e~rof.
+               </Language>
+               <Language id="English">
+                  Therefore there was a division again among the Jews because of these sayings. And many of them said, “He has a demon and is mad. Why do you listen to Him?”
+               </Language>
+               <Language id="Arabic">
+                  فحدث شقاق بين اليهود بسبب هذا الكلام، فقال كثيرون منهم أن به شيطان وقد جن فلماذا تسمعون له.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hanke,wouni de naujw m~moc je nai caji na ourwmi an pe e~ouon ou demwn nemaf m/ ouons~jom n~oudemwn e~a~ouwn nnibal n~hanbelleu.
+               </Language>
+               <Language id="English">
+                  Others said, “These are not the words of one who has a demon. Can a demon open the eyes of the blind?”
+               </Language>
+               <Language id="Arabic">
+                  وقال آخرون ليس هذا كلام إنسان به شيطان، هل يقدر شيطان أن يفتح أعين العميان.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the First Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الاولى، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Christ our Lord, master and king reveals his divinity and dominion. The God who prevails over all hegemony and power in heavens and on earth. 
+               </Language>
+               <Language id="Arabic">
+                  ربنا وسيدنا وملكنا المسيح يظهر لاهوته وسلطانه أنه هو الإله المتعالى على كل رئاسة وكل سلطان فى السماء وعلى الأرض، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  That is why he tells us: My Father loves me and I humble myself to earn it. No one can force the cross on me, but only through my own will that I humble myself and that I have the power to take it away.
+               </Language>
+               <Language id="Arabic">
+                  فلذلك قال إن الآب يحبنى فأنى أضع نفسى لكى آحذها، وليس أحد ينزعها منى لكن أنا الذى أضعها بإرادتى فإن لى سلطان أن أضعها لى ولى سلطان أن آخذها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  There developed a schism among the Jews because of these words that he told them. The hypocrites among them said he is crazy, do not listen to him.
+               </Language>
+               <Language id="Arabic">
+                  فصار انشقاق بين اليهود من أجل هذا الكلام الذى قال لهم. وقال قوم من المنافقين ,لماذا تسمعون منه؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Others said; these are not the words of a possessed man. Crazy people cannot open the eyes of someone born blind.
+               </Language>
+               <Language id="Arabic">
+                  وقال آخرون: هذا الكلام ليس هو كلام إنسان به شيطان، لا يقدر مجنون أن يفتح عينى أعمى مولود.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Truly he is the light for the faithful hearts—except for the contrary Jews whom he blinded the vision of their hearts and their eyes—so that they may not see with their eyes and that they may not understand with their hearts and return to Him with true love, great hope and total honesty and that he may forgive their sins so as to save them of their transgressions.
+               </Language>
+               <Language id="Arabic">
+                  هو بالحقيقة الذى يضيئ أعين قلوب المؤمنين به ما خلا اليهود المخالفين، طمس عيون قلوبهم وأجسادهم كيلا ينظروا بعيونهم ويفهموا بقلوبهم يرجعوا إليه بمحبة حقيقة ورجاء عظيم وأمأنه كاملة، ويغفر لهم كثرة خطاياهم ويسامحهم بزلاتهم.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

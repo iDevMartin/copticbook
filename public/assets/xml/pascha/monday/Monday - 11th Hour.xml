@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday (The Eleventh Hour)</Language>
+         <Language id="Arabic">يوم الأثنين (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~hoou m~p~c~nau (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Isaiah 50:1-3</Language>
+               <Language id="Arabic">إشعياء 50: 1-3</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Isaiah"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Vai pe m~v~r/] e~tefjw m~moc n~je P[oic: je aspe pijwm n~hioui~ e~bol n~te tenmau e~tai hitc e~bol n~q/tf: ie e~tai]y/nou e~bol n~nim n~euw: 
+               </Language>
+               <Language id="English">
+                  Thus says the Lord: "Of what quality is your mother's certificate of divorce, by which I put her away? Or to which debtor have I sold you? 
+               </Language>
+               <Language id="Arabic">
+                  هكذا يقول الرب. أين هو كتاب طلاق أمكم الذى طلقتها به أو إلى أى غريم أسلمتكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe ai]y/nou e~bol qen netennobi: ouoh qen netena~nomia~ aihioui~ e~bol n~tetenmau:
+               </Language>
+               <Language id="English">
+                  Behold, you are sold for your sins, and for your lawlessness I put away your mother.
+               </Language>
+               <Language id="Arabic">
+                  هوذا من أجل خطاياكم قد بعتكم. وبسبب أثامكم طلقت أمكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe ou aii~ ouoh ne m~mon rwmi: aimou] ouoh ne m~mon petcwtem eroi: 
+               </Language>
+               <Language id="English">
+                  Why, when I came, was there no man? Why, when I called, was there none to obey?
+               </Language>
+               <Language id="Arabic">
+                  لماذا أتيت ولم يكن إنسان دعوت وليس من مجيب. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ tajij jemjom an e~nohem: ie e~ta pamasj h~ros e~cwtem: 
+               </Language>
+               <Language id="English">
+                  Is My hand unable to deliver? [Has my ear become hard of hearing?]
+               </Language>
+               <Language id="Arabic">
+                  قصرت يدى عن أن تخلص. أثقلت أذنى عن السماع.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla netennobi ohi e~ratou qen tetenm/] nem Vnou]: ouoh eybe netennobi aftacyo m~pefho cabol m~mwten: es~tem nai nwten:
+               </Language>
+               <Language id="English">
+                  [But your sins are standing between you and God. Because of your sins He turned His face from you so as not to have mercy upon you.]
+               </Language>
+               <Language id="Arabic">
+                  إنما خطايا كم قائمة بينكم وبين الله لأجل ذنوبكم صرف وجهه عنكم لكى لا يرحمكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ e~te m~mon s~jom m~moi e~nahem y/nou:
+               </Language>
+               <Language id="English">
+                  Have I no strength to deliver?
+               </Language>
+               <Language id="Arabic">
+                  هل ليس لى قوة على خلاصكم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  H/ppe n~h~r/i qen pajwnt ainaer v~iom n~safe: ouoh eie~,w n~haniarwou n~safe n~ceswoui~ n~je noutebt eybe je m~mon mwou: ouoh n~cemou eybe nii~bi: 
+               </Language>
+               <Language id="English">
+                  Behold, with My rebuke I dry up the sea, and I turn rivers into deserts; and because there is no water, their fish dry up and die of thirst. 
+               </Language>
+               <Language id="Arabic">
+                  هوذا بغضبى أنشف البحر وأصير الأنهار قفاراً فييبس سمكها مـن عدم الماء. ويـموت من العطش. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh eie~]hiwtc n~tve n~ou,aki: ouoh eie~,w n~techebcw m~v~r/] n~oucok.
+               </Language>
+               <Language id="English">
+                  I clothe heaven with darkness and make its covering like sackcloth."
+               </Language>
+               <Language id="Arabic">
+                  وألبس السماء ظلاماً وأجعل المسح غطاءها.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Sirach 1:18-27</Language>
+               <Language id="Arabic">سيراخ 1: 18-27</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Sirach"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Y~nouni gar n~]covia~ pe p~erho] qath/ mP[oic: ouoh hanm/s n~ehoou ne neck~ladoc: 
+               </Language>
+               <Language id="English">
+                  The root of wisdom is to fear the Lord, and her branches are length of days. 
+               </Language>
+               <Language id="Arabic">
+                  أصل الحكمة هى مخافة الرب. وأغصانها كثرة الأيام,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mmon s~jom n~ourefjwnt e~y~maio: piriki gar n~te pefjwnt pe pefhei:
+               </Language>
+               <Language id="English">
+                  Unjust anger cannot be justified, for anger's decisive influence causes his fall.
+               </Language>
+               <Language id="Arabic">
+                  والغضوب لا يمكن أن يتبرر. لأن ميله للغضب يسقطه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                   Pirefw~ou n~h/t safera~na,ecye sap~c/ou: menencwc safswpi nafn~ouounof: saf,wp n~nefcaji sap~c/ou: 
+               </Language>
+               <Language id="English">
+                  A patient man will hold fast until the proper time, then afterwards gladness shall burst forth for him. 
+               </Language>
+               <Language id="Arabic">
+                  الطويل الروح يصبر إلى حين ثم يعاوده السرور. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh sare nic~votou n~te oum/s caji e~tefmetcabe.
+               </Language>
+               <Language id="English">
+                  He shall conceal his words until the proper time, and the lips of many will tell of his understanding.
+               </Language>
+               <Language id="Arabic">
+                  يكتم كلامه إلى حين وشفاه الكثيرين تنطق بحكمة أمثال التعليم كائنة,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouon hanparabol/ n~c~bw ,/ qen nia~hwr n~te ]covia~: ]metrefsa m~senou] de ouorebte m~pirefernobi:
+               </Language>
+               <Language id="English">
+                  In the treasures of wisdom are the parables of knowledge, But godliness is an abomination to a sinner.
+               </Language>
+               <Language id="Arabic">
+                  فى كنوز الحكمة أما عند الخاطئ فعبادة الله رجس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aksaner e~piyumin n~]covia~ a~reh e~nientol/: ouoh f~nat/ic nak n~je P[oic.
+               </Language>
+               <Language id="English">
+                  If you desire wisdom, keep the commandments, and the Lord will supply it to you.
+               </Language>
+               <Language id="Arabic">
+                  إن رغبت الحكمة فأحفظ الوصايا. فيهبها لك الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }covia~ gar nem ]c~bw ]ho] n~te P[oic te: ouoh petehnaf pe pinah] nem ]metremraus: m~pereratcwtem e~]ho] n~te P[oic: ouoh m~perqwnt e~rof qen oumeth/tc~nau:
+               </Language>
+               <Language id="English">
+                  For the fear of the Lord is wisdom and instruction, and His good pleasure is faith and gentleness. Do not disobey the fear of the Lord, and do not come to Him with a divided heart.
+               </Language>
+               <Language id="Arabic">
+                  فإن الحكمة والأدب هما مخافة الرب. والذى يرضيه هو الإيمان والوداعة لا تكن مخالفاً لمخافة الرب ولا تتقدم إليه بقلبين.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mperermetsobi m~pem~yo e~bol n~nirwmi: mah~y/k e~rwk nem nekc~votou. Mper[ici m~mok je n~nekhei: n~tek i~ni n~ousws e~jen tek'u,/: 
+               </Language>
+               <Language id="English">
+                  Do not be a hypocrite in the sight of men, and be careful with your lips. Do not exalt yourself, lest you fall and bring dishonor to your soul.
+               </Language>
+               <Language id="Arabic">
+                  لا تكن مرائياً قدام الناس وأحفظ فمك وشفتيك لا تترفع لئلا تسقط. فتجلب على نفسك الهوان. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~te P[oic [wrp n~n/eth/p n~tak e~bol ouoh n~teftaouok e~pec/t e~ym/] n~ouywoutc: je m~pekqwnt e~]ho] n~te P[oic: ouoh pekh/t meh n~,rof.
+               </Language>
+               <Language id="English">
+                  The Lord shall reveal your secrets, and in the midst of the assembly He will strike you down, because you did not come in the fear of the Lord And your heart was full of deceit.
+               </Language>
+               <Language id="Arabic">
+                  ويكشف الرب خفاياك. و يصرعك فى وسط الجماعة. لأنك لم تتقدم إلى مخافة الرب. وقلبك ممتلئ غشاً.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Homily of Abba Shenouda the Archimandrite</Language>
+               <Language id="Arabic">عظة لابينا القديس أنبا شنودة رئيس المتوحدين</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaIntro"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouon hanh~b/oui~ enmeui~ e~rwou je han a~gayon ne: e~han pethwou ne qaten Vnou]: 
+               </Language>
+               <Language id="English">
+                  Occasionally there are some deeds, which we may think they are good while in God’s eyes they are bad. 
+               </Language>
+               <Language id="Arabic">
+                  قد توجد أعمال نخالها أنها صالحة. ولكنها رديئة عند الله. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ete vai pe je enfai qa nene~r/ou enernobi qen nitopoc eyouab: 
+               </Language>
+               <Language id="English">
+                  For example the unqualified tolerance of sinners in holy places may lead them to be indifferent to sin. 
+               </Language>
+               <Language id="Arabic">
+                  وذلك إننا نتغاضى عن بعضنا بعضاً فنخطئ فى المواضع المقدسة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Neta P[oic [i an e~bol qen nis~s/n ethwou nem nis~s/n eynaneu af[o m~piparadicoc: alla je e~taf[i ebol qen nis~s/n eynaneu af[of.
+               </Language>
+               <Language id="English">
+                  For example the Lord did not plant good trees and bad trees in paradise but only good trees.
+               </Language>
+               <Language id="Arabic">
+                  لأن الرب لم يغرس فى الفردوس الأشجار الصالحة وغير الصالحة بل غرسه من الأشجار الصالحة فقط. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~taf[of an qen han s~s/n n~atoutah ie efhwou n~je p~outah ouoh monon vai: alla nem nirwmi e~taf,au m~maua~tou e~mau: qen p~jin y~rou erparabenin m~pefera~na,ecye: alla afhitou e~bol n~q/tf:
+               </Language>
+               <Language id="English">
+                  He did not plant fruitless trees with bad fruits. Even man himself when he disobeyed the commandment He was not indifferent about man’s iniquity but expelled him from paradise.
+               </Language>
+               <Language id="Arabic">
+                  ولم يغرس فيه أشجاراً غير مثمرة أو رديئة الثمر. وليس هذا فقط. بل والناس أنفسهم الذين جعلهم هناك. عند ما خالفوا لم يحتملهم بل أخرجهم منه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~rie~mi e~bol qen vai w~nic~n/ou m~menrit: je c~sean e~mah nitopoc eyouab n~te Vnou] e~bol qen nirwmi ethwou nem nia~gayoc.
+               </Language>
+               <Language id="English">
+                  From this we can see dear beloved, that the houses of the Lord should not be filled with bad and good people—
+               </Language>
+               <Language id="Arabic">
+                  فمن هذا إعلموا أيها الأخوة الأحباء أنه لا يجب أن نملأ مساكن الله المقدسة من الناس الأشرار والصالحين. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mv~r/] e~tepikocmoc t/rf moh n~refernobi nem ref[in~jonc: nem hana~gayoc nem han a~kayartoc:
+               </Language>
+               <Language id="English">
+                  As is the case in the world where the saints and sinners, the unjust and the impure mingle together.
+               </Language>
+               <Language id="Arabic">
+                  كما فى العالم المملوء من الخطاة والظالمين والقديسين والأنجاس.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Alla n/eternobi e~s~tem,au n~q/tou alla e~hitou e~bol.
+               </Language>
+               <Language id="English">
+                  It is incumbent on us to remind those who come to the house of the Lord to behave appropriately.
+               </Language>
+               <Language id="Arabic">
+                  بل يجب علينا أن نقول لكل من نراه يسلك بغير ترتيب فى بيت الله.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }cwoun je pikahi t/rf va P[oic pe ouoh icje kata v~r/] m~pef/i pair/] pe pikahi t/rf: iem~mon houo rw sop ouoh enerou n~q/tou.
+               </Language>
+               <Language id="English">
+                  I know that the whole earth is God's, but if we make His house just like the rest of the earth what is going to distinguish the house of the Lord from the rest.
+               </Language>
+               <Language id="Arabic">
+                  أنا أعرف أن الأرض كلها هى للرب. فاذا كنا نجعل بيته كباقى الأرض. فما هى ميزته إذن على غيره.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh icje kata v~r/] n~napethwou t/rou pair/] n/eter pethwou t/rou qen p~kahi eybeou a~nok eumou] e~roi je ou/b: oum/s gar n~cop n~tene~mian je ten]hap e~ron: qen v/e~ten jwm~mof:
+               </Language>
+               <Language id="English">
+                  If I as a servant of God commit the same bad deeds as the wicked then I do not deserve to be called a servant of God. For we often sin and are unable to judge ourselves with the same standard we judge others.
+               </Language>
+               <Language id="Arabic">
+                  فإن كنت وأنا الكاهن أعمل الشر كما يعمله الأشرار على الأرض فلا يحق لى أن أدعى كاهناً لأنه مراراً كثيرة نخطئ ولا نعرف كيف ندين أنفسنا بما نقول.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Mpare h~li gar sertolman e~mah pek/i qen han[w~qem aks~tem ywt n~h/t qen vai:
+               </Language>
+               <Language id="English">
+                  You see no one can fill your place with dirt unless they notice your lack of interest in it.
+               </Language>
+               <Language id="Arabic">
+                  لا يتجرأ أحد أن يملأ بيتك قذارة إلا إذا رأى منك التهاون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oude gar m~pare niciour n~te piouro [irwmi niben e~qoun e~pef/i: n/eta~reh e~ninomoc nem n/etoi natcwtem n~cwf: 
+               </Language>
+               <Language id="English">
+                  Just like the king’s pages; they can not let everyone in the king’s house whether they honor the king’s decree or whether they ignore them without the king’s permission. 
+               </Language>
+               <Language id="Arabic">
+                  ولا حجاب الملك يتجرأون أن يدخلوا بكل إنسان إلى بيته من الحافظين مراسيمه والمخالفين لها الإ بأمره. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eui~ri n~n/et c~sean je n~f~erh~li nwou an pe.
+               </Language>
+               <Language id="English">
+                  If they deviate from this (rule), they receive punishment.
+               </Language>
+               <Language id="Arabic">
+                  ومتى عملوا بخلاف ذلك يعاقبون.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/homily/AbbaShenoudaConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 12:3-4</Language>
+               <Language id="Arabic">مزمور 12: 3-4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Comc cwtem e~roi P[oic panou]: mavouwini n~nabal m/pwc n~tahwrp qen v~mou: m/pote nte pajaji joc: je aijemjom oub/f: All/louia.
+               </Language>
+               <Language id="English">
+                  Look upon me and hear me, O Lord my God; enlighten my eyes, lest I sleep in death, Lest my enemy say, "I prevailed against him." Alleluia.
+               </Language>
+               <Language id="Arabic">
+                   أنظر وأستجب لى ياربي وإلهي أنر عينى لئلا أنام فى الموت. لئلا يقول عدوى إنى قد قويت عليه. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+            
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 8:51-59</Language>
+            <Language id="Arabic">يوحنا 8: 51-59</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  A~m/n a~m/n ]jw m~moc nwten je e~swp aresan ouai a~reh e~pacaji n~nefnau e~v~mou sae~neh:
+               </Language>
+               <Language id="English">
+                  Most assuredly, I say to you, if anyone keeps My word he shall never see death.”
+               </Language>
+               <Language id="Arabic">
+                  الحق الحق أقول لكم أن كان أحد يحفظ كلامى فلن يرى الموت إلى الأبد.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje niioudai naf je ]nou ane~mi je ouon oudemwn nemak: Abraam afmou nem nikep~rov/t/c ouoh n~yok k~jwm~moc je v/eynaa~reh e~pacaji n~nefjem]pi m~v~mou sae~neh: 
+               </Language>
+               <Language id="English">
+                  Then the Jews said to Him, “Now we know that You have a demon! Abraham is dead, and the prophets; and You say, ‘If anyone keeps My word he shall never taste death.’ 
+               </Language>
+               <Language id="Arabic">
+                  فقال له اليهود. الآن علمنا أن بك شيطاناً. قد مات إبراهيم والأنبياء وأنت تقول أن كان أحد يحفظ كلامى فلن يذوق الموت إلى الأبد. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/ n~yok ounis] n~yok e~peniwt Abraam v/e~tafmou nem nikep~rov/t/c aumou kiri m~mok n~nim.
+               </Language>
+               <Language id="English">
+                  Are You greater than our father Abraham, who is dead? And the prophets are dead.
+               </Language>
+               <Language id="Arabic">
+                  ألعلك أنت أعظم من أبينا إبراهيم الذى مات والآنبياء قد ماتوا أيضاً من تجعل نفسك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afe~rouw~ n~je I/couc efjw m~moc je e~swp a~nok aisan ]w~ou n/i m~mauat pawou hli an pe:
+               </Language>
+               <Language id="English">
+                  Who do You make Yourself out to be?” Jesus answered, “If I honor Myself, My honor is nothing.
+               </Language>
+               <Language id="Arabic">
+                  أجاب يسوع قائلاً. أن كنت أنا أمجد نفسى وحدى فليس مجدى شيئاً.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Fsop n~je paiwt eyna]w~ou n/i: v/n~ywten e~teten jw m~moc jepetennou] pe: ouoh m~petencouwnf anok de ]cwoun m~mof.
+               </Language>
+               <Language id="English">
+                  It is My Father who honors Me, of whom you say that He is your God. Yet you have not known Him, but I know Him. 
+               </Language>
+               <Language id="Arabic">
+                  أبى هو الذى يمجدنى. الذى تقولون أنتم أنه إلهكم ولستم تعرفونه وأما أنا فأعرفه 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eswp de aisanjoc je ]cwoun m~mof an eie~swpi eioni m~mwten n~cameynouj alla ]cwoun m~mof ouoh pefcaji ]a~reh erof: 
+               </Language>
+               <Language id="English">
+                  And if I say, ‘I do not know Him,’ I shall be a liar like you; but I do know Him and keep His word. 
+               </Language>
+               <Language id="Arabic">
+                  وأن قلت أنى لست أعرفه صرت كاذباً مثلكم لكننى أعرفه و أحفظ كلامه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Abraam peteniwt nafyel/l pe efouws enau e~oue~hoou n~t/i ouoh afnau afrasi.
+               </Language>
+               <Language id="English">
+                  Your father Abraham rejoiced to see My day, and he saw it and was glad.”
+               </Language>
+               <Language id="Arabic">
+                  إبراهيم أبوكم تهلل مشتهيا أن يرى يومى فرأى وفرح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Peje niioudai oun naf je m~pateker tebi n~rompi ouoh aknau e~Abraam. Peje I/couc nwou je a~m/n a~m/n ]jw m~moc nwten je m~pate Abraam swpi a~nok pe:
+               </Language>
+               <Language id="English">
+                  Then the Jews said to Him, “You are not yet fifty years old, and have You seen Abraham?” Jesus said to them, “Most assuredly, I say to you, before Abraham was, I AM.”
+               </Language>
+               <Language id="Arabic">
+                  فقال له اليهود ليس لك خمسون سنة بعد وقد رأيت إبراهيم. فقال لهم يسوع الحق الحق أقول لكم. قبل أن يكون إبراهيم أنا كائن.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auelw~ni oun n~je niioudai hina n~cehioui~ e~jwf: I/couc de af,opf ouoh afi~ ebol qen piervei ouoh afcini nafmosi pe qen toum/] ouoh nafciniw~ou m~pair/]
+               </Language>
+               <Language id="English">
+                  Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.
+               </Language>
+               <Language id="Arabic">
+                  فأخذ اليهود حجارة ليرجموه فتوارى يسوع وخرج من الهيكل مجتازاً فى وسطهم و مضى هكذا.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O shining True Light that fills the earth, I mean Jesus the true light that shines for all nations—except the Jews for they stayed away from him and did not look at him. 
+               </Language>
+               <Language id="Arabic">
+                  أيها النور الحقيقى الذى يضئ المالئ كل مكان فى المسكونة أعنى يسوع النور الحقيقى الذى يضئ لجميع الأمم ما خلا اليهود فإنهم لم يقتربوا من هذا النور ليتأملوه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When he revealed himself to them and told them that those who believe in him shall live forever; the ignorant breakers of the law accuses him that with a satan he exorcises demons.
+               </Language>
+               <Language id="Arabic">
+                  وأظهر فيهم سره قائلاً أن من يؤمن به لن يموت إلى الأبد. أسمعوا كيف أن الجهال ومخالفى الناموس قالوا أن معه شيطان يخرج الشياطين،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They said unto Him, “Abraham died and the prophets there after how is it possible that those who believe in you never die?” He replied, “If I honor myself then my honor is nothing. He glorifies me.”
+               </Language>
+               <Language id="Arabic">
+                  إبراهيم مات والآنبياء أيضاً فكيف لا يموت الذى يؤمن بك، إن أنا مجدت نفسى فليس مجدى شيئاً. لى من يمجدنى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They retorted, “You think you are greater than our patriarch Abraham and his descendants who all died? You are not even fifty years old how could you have seen Abraham.” The Savior said, “Assuredly, before Abraham was, I am.”
+               </Language>
+               <Language id="Arabic">
+                  ألعلك أعظم من أبينا إبراهيم ومن نسله الذين ذاقوا الموت. لم يكن لك خمسون سنة من الزمان فهل رأيت إبراهيم من يصدقك؟ قال المخلص الحق أنه كائن من قبل أن يكون إبراهيم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  We, God's new nations, believe in Him and observe His commandments and confess by word and in the depth of our hearts that the True Word, the Omnipotent and Righteous, is Eternal with the Comforting Holy Spirit.
+               </Language>
+               <Language id="Arabic">
+                  فنحن أيضاً نؤمن معشر الشعوب الجديدة ونواظب على وصاياه فى أفواهنا ونعترف من عمق قلوبنا بالكلمة الحقيقى الذى لضابط الكل أن الصالح كائن منذ البدء مع الروح القدس المعزى.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Despite all what He did to teach them, the contrary, unjust foolish rejected this great blessing and the many miracles He demonstrated among them. They did not realize that he was their Savior of the prophecies. They renounced Him, rejected Him and strayed away from God.
+               </Language>
+               <Language id="Arabic">
+                  لم يزل يخبر الجهال المملوئين أثماً المخالفين الأبناء المرذولين، فجحدوا ولم يقبلوه ورفضوه وصاروا بغير إله.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

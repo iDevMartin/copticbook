@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Paschal Praise</Language>
+            <Language id="Arabic">تسبحة البصخة</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               The paschal praise <span class="Coptic">Ywk te ]jom</span> is chanted twelve times, alternating between the north and south choirs. From the First Hour of Great Friday Eve until the Twelfth Hour of Great Friday, the following is chanted.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="pascha/include/DoxologyIntro"/>
+         
+         <Text>
+            <Language id="Coptic">
+               Ywk te ]jom nem piw~ou nem pic~mou nem pia~mahi sa e~neh a~m/n: Pa[oic I/couc Pi,~rictoc: Pacwt/r na~gayoc: tajom nem pac~mou pe P[oic: afswpi n/i eucwt/ria~ efouab.
+            </Language>
+            <Language id="English">
+               Thine is the power, the glory, the blessing, the majesty forever. Amen. My Lord Jesus Christ, my good Savior. The Lord is my strength and my praise; He became to me a sacred salvation.
+            </Language>
+            <Language id="Arabic">
+               لك القوة والمجد والبركة والعزة إلى الأبد آمين ياربى يسوع المسيح مخلصى الصالح. قوتى وتسبحتى هو الرب و صار لى خلاصاً مقدساً. 
+            </Language>
+         </Text>
+         
+         <InsertDocument path="pascha/include/DoxologyConclusion"/>
+      </Section>
+   
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+</Document>

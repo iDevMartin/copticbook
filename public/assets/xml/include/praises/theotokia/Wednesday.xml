@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Wednesdays">
+      <InsertDocument path="include/praises/theotokia/WednesdayContents"/>
+   </Season>  
+</Document>

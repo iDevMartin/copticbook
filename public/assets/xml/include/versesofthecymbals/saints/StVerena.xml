@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StVerena:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Verena:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]a~lou n~cab/ mparyenoc: ]cwtp n~kuria m~m/i: ]selet Pi,~rictoc: ]a~gia Bir/na.
+            </Language>
+            <Language id="English">
+               Hail to the young wise virgin, the truly chosen lady, the bride of Christ, Saint Verena.
+            </Language>
+            <Language id="Arabic">
+               السلام للعذراء الصبية الحكيمة، السيدة المختارة الحقيقية، عروس المسيح، القــديـســة فيرينا.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

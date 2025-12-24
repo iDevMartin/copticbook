@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Auen pis~bwt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Cross:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Auen pis~bwt n~te A~arwn hijen p~se n~te pic~tauroc e~taues Pa[oic erof sa n~tef cw] m~mon
+            </Language>
+            <Language id="English">
+               They likened the rod of Aaron to the wood of the Cross, upon which my Lord was crucified in order to save us.
+            </Language>
+            <Language id="Arabic">
+               شبهوا عصا هارون بخشبة الصليب التي صلب ربي عليها حتي خلصنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

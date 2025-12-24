@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Group>
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/gospelResponse/StandardAndProstration"/>         
+      </Group> 
+   </Role>
+</Document>

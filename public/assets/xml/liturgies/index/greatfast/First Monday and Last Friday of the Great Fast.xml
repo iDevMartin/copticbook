@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="C:\Users\Andrew.Ekladious\Documents\RAW (1)\RAW\encrypted_documents" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="Fasts ^ GreatFast ^ FirstMondayofGreatFast ^ LastFridayOfGreatFast ^ WatosDays ^ AdamDays">
+      <Title>
+         <Language id="English">First Monday and Last Friday of the Great Fast</Language>
+         <Language id="Arabic">الاثنين الأول و الجمعة الأخيرة من الصوم الكبير</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <ForceSeason id="MidnightPraises">
+         <InsertDocument path="include/psalies/OccasionPsalies"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Offering of Morning Incense</Language>
+         <Language id="Arabic">رفع بخور باكر</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins">
+         <InsertDocument path="include/versesofthecymbals/Index"/>         
+         <InsertDocument path="include/doxologies/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>    
+         <InsertDocument path="include/conclusion/Index"/>     
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Unction of the Sick</Language>
+         <Language id="Arabic">المسحة المقدسة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">Please refer to the Unction of the Sick menu.</Language>
+      </Comment>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/PostProcessionOfTheLambIntro"/>
+         <InsertDocument path="include/Nefcenti"/>         
+         <InsertDocument path="include/HymnOfTheCenser"/>         
+         
+         <ForceSeason id="Other">
+            <InsertDocument path="include/praxisResponse/Index"/>
+         </ForceSeason>
+         
+         <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/adamAspasmos/Index"/>         
+         <InsertDocument path="include/watosAspasmos/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/psalm150/Index"/>
+         <InsertDocument path="include/distribution/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/greatfast/First Monday and Last Friday of the Great Fast">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

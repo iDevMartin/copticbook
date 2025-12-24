@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday ^ !GeneralFuneralPrayer ^ !Pascha">      
+      <Comment>
+         <Language id="English">
+            On the Feast of the Entrance of Our Lord into Jerusalem (Hosanna Sunday):
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V]: afse e~qoun e~Il#/#m#: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God, entered into Jerusalem. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            ابن الله دخل أورشليم خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

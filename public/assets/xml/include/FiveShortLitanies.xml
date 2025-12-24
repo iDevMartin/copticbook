@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Comment>
+      <Language id="English">
+         The priest continues with the Five Short Litanies while standing before the sanctuary door with the censer in his hand.
+      </Language>
+      <Language id="Arabic">
+         يكمل الكاهن الصلاة وهو واقف أمام باب الهيكل فيقول الاواشي الآتية والمجمرة بيده.
+      </Language>
+   </Comment>
+   
+   <Title>
+      <Language id="English">The Five Short Litanies</Language>
+      <Language id="Arabic">الخمس الأواشي الصغار</Language>
+   </Title>
+   
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/PeaceShortSection"/>
+   <InsertDocument path="include/litanies/FathersShort"/>
+   <InsertDocument path="include/litanies/Place"/>
+   <InsertDocument path="include/litanies/Seasons"/>
+   <InsertDocument path="include/litanies/Assemblies"/>
+</Document>

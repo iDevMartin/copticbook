@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic n~t~'~u,/ m~peniwt (m~patriar,/c - m~m/tropolit/c - n~epickopoc) Abba (...).
+         </Language>
+         <Language id="English">
+            Remember, O Lord, the soul of our father the (patriarch / metropolitan / bishop) Abba (...).
+         </Language>
+         <Language id="Arabic">
+            اذكر ياربُّ نفسَ أبينا البطريرك (البطريرك/المطران/الاسقف) أنبا (...).
+         </Language>         
+      </Text>
+   </Role>
+</Document>

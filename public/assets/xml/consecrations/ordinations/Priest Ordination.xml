@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">In The Name of the Mighty God Concerning The Appointment of A Presbyter</Language>
+      <Language id="Arabic">بسم الله القوي لأجل سيامة قسيس</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">The Vows of Commitment for the New Priest</Language>
+         <Language id="Arabic">تعهد الكاهن الجديد</Language>
+      </Title>
+      
+      <Text>
+         <Language id="English">
+            I (...), the unworthy, who is called for the grace of the priesthood on the holy altar of the One, Holy, Catholic, and Apostolic Orthodox Church of God in the Diocese of (...), the beloved of Christ.
+         </Language>
+         <Language id="Arabic">
+            أنا غير المستحق (...) المدعو لنعمة الكهنوت على المذبح المقدس في كنيسة الله المقدسة الجامعة الرسولية في إيبارشية  (...) المحبة للمسيح، 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I vow before God, the Lord of lords, and the Shepherd of the shepherds, and before His angels and saints, and before my father His Holiness Pope (...), my father Bishop (...), [my fathers Bishop (...) and Bishop (...)], and before all the clergy and all the people; to be steadfast in the holy orthodox faith until the last breath, to respect the canons of the Holy Church, and to keep all her traditions, rites, religious customs, and teachings. I will make every effort to teach the people the true faith, and lead them in a holy and righteous life, and to be an example for them in every good deed.
+         </Language>
+         <Language id="Arabic">
+            أتعهد أمام الله رب الأرباب وراعي الرعاة، وأمام ملائكته و قديسيه، وأمام أبي صاحب القداسة البابا(...)، وأبي الأسقف الأنبا (...) (وآبائي الأساقفة الحاضرين الأنبا (...) والأنبا (...) وأمام الأكليروس و كل الشعب: بأن أثبت على الإيمان الأرثوذكسي إلى النفس الأخير، وأن أحترم قوانين الكنيسة المقدسة، وأحافظ على تقاليدها و طقوسها وتعاليمها، وأن أبذل كل جهدي في تعليم الشعب الإيمان السليم، وقيادته في حياة القداسة والبر، وأكون أنا نفسي قدوة له في كل عمل صالح. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I vow to love the flock, and deal with them in compassion and wisdom. I vow to give myself for all the people in pastoral care and being concerned for them in every respect to the very last of my abilities.
+         </Language>
+         <Language id="Arabic">
+            وأتعهد بأن أحب الرعية، وأعاملها بالرفق والحكمة، وأبذل ذاتي في افتقاد الشعب والاهتمام به من كل ناحية حسب طاقتي، 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I will search for the lost and try to return him. I will gather the scattered flock of God. I will not ignore the incapacitated, the rejected, or those who have no one to remember them. I will be patient and long suffering in dealing with all the people and will not show partiality to a chosen group, but be equally concerned for all.
+         </Language>
+         <Language id="Arabic">
+            وأن أبحث عن الضال وأسعى لرده، وأجمع خراف الله المتفرقة، ولا أغفل عن العاجزين والمنطرحين والذين ليس لهم أحد يذكرهم. وأن أكون طويل الروح واسع الصدر في معاملة الناس، ولا تكون لي منهم جماعة مختارة بل اهتم بالكل. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I vow to put the Lord Christ and His church before everything else. I will stay away from the love of money and loving the bigger portion. 
+         </Language>
+         <Language id="Arabic">
+            وأتعهد بأن أضع صالح الكنيسة فوق كل اعتبار، وأن أبعد عن محبة المال وعن محبة النصيب الأكبر،
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I will not boast over the people, nor will ever neglect them or overburden them. I will not order them against the commandment of the Lord, and will never reject the repentant when he returns to the church but I will serve all of them.
+         </Language>
+         <Language id="Arabic">
+            ولا أتعالى على الشعب، ولا أهملهم، ولا أكلفهم بما لا يطيقون ولا آمرهم بما يخالف وصية الرب، ولا أرفض التائب إذا رجع، ولا أقصر في خدمة أحد منهم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I vow to submit to the hierarchy of the priesthood represented in person of His Holiness the Pope of Alexandria and Patriarch of the See of Saint Mark, and His Grace the Bishop of the Diocese of (...) along with my respect and honor to their Eminences and Graces, the Metropolitans and Bishops of the Church.
+         </Language>
+         <Language id="Arabic">
+            وأتعهد بأن أخضع لرئاسة الكهنوت ممثلة في قداسة بابا الإسكندرية وبطريرك الكرازة المرقسية وأبي أسقف إيبارشية (...)،  مع احترامي وتوقيري لشركائه في الخدمة الرسولية الآباء المطارنة والأساقفة.  
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            I ask the Lord to grant me strength through your prayers so that I may fulfill the duties of this great office of the honorable priesthood with honesty and integrity.
+         </Language>
+         <Language id="Arabic">
+            وأطلب من الرب أن يهبني قوة بصلواتكم حتى أقوم بهذه المسئولية الخطيرة، وأؤدي بأمانة كافة ما يتطلبه مني عمل الكهنوت الجليل. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Pray for me my fathers and brothers, the saints. A Metania for all of you.
+         </Language>
+         <Language id="Arabic">
+            صلوا عني يا آبائي واخوتي القديسين. ها مطانية لكم جميعاً.
+         </Language>
+      </Text>      
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         When a presbyter is appointed, let him first receive testimony from the members of the clergy about his good deeds, how he knows the word of doctrine well, is gentle, a comforter, charitable, and that his marriage was lawful according to the canon.  But if he is ordained deacon, if he is not one already, let him be made a reader, a subdeacon and a deacon and let him be given the blessing on another day.    
+      </Language>
+      <Language id="Arabic">
+         إذا أراد تقدمة قسيس فلتشهد له الكهنة أولاً بأعماله الحسنة وأنه عارف بكلمة التعليم جيداً ووديع و معز و رحوم. و أن زيجته كانت على حسب الناموس كالقانون. وإذا كان مرسوم شماساً وإلا فليقم أغنسطساً وأبوذياقناً وشماساً. ويبارك إلى ثاني يوم:     
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         Let him be brought in vested as a deacon, with the orarion on his left arm, before the altar.  A presbyter shall stand with the bishop.  He who will be ordained shall kneel before the altar in front of the bishop; and he shall say the Thanksgiving and offer incense and the Prayer of Incense    
+      </Language>
+      <Language id="Arabic">
+         يقدم وهو لابس كشماس والزنار على كتفه الشمال أمام المذبح. ويقف قسيس مع الأسقف والذي يقام منحني الركبتين قدام المذبح أمام الأسقف بعد أن يتلو التعهد السابق ثم يقال الشكر ويرفع البخور     
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+   
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               and this prayer, with his face toward the altar: 
+            </Language>
+            <Language id="Arabic">
+                ويقول صلاة البخور وهذه الصلاة و جهه إلى المذبح:
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="consecrations/ordinations/include/Deacon.1"/>
+      
+         <Text>
+            <Language id="English">
+               and accept as a presbyter and make perfect this Your servant (...) who is here present and awaits Your heavenly gift; for You are kind and very merciful toward all who call upon You, and strong is Your power and that of Your only Son and of Your most-holy Spirit, both now …     
+            </Language>
+            <Language id="Arabic">
+               واقبل إليك القسيسية الكاملة التي ستصير لعبدك (...) الواقف منتظر مواهبك السمائية: لأنك صالح وكثير الرحمة لكل من دعاك. لأن سلطانك قوي مع ابنك الوحيد و الروح القدس الآن. الخ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               The grace of our Lord Jesus Christ, who supplies our deficiency through the beneficence of God the Father and the Holy Spirit, shall come upon Your servant (...), who has approached the altar in fear and trembling and humility, kneeling and lifting the eyes of his heart to heaven, to You who are in heaven, awaiting from it Your heavenly gift, so that he might pass from the rank of the deaconate to the rank of presbyterate in the church and the altar of (...). Pray, all of you, that the gift of the Holy Spirit might come upon him. Amen.        
+            </Language>
+            <Language id="Arabic">
+               نعمة ربنا يسوع المسيح المكملة لنقصنا بمسرة الله الآب والروح القدس تحل على عبدك  (...) هذا الداخل بخوف ورعدة وتواضع قلب إلى المذبح المقدس جاث ورافع عيني قلبه إليك، أيها الساكن في السماء، منتظر مواهبك السمائية لينتقل من طقس الشماسية إلى رتبة القسيسية في بيعة (كذا) والمذبح الطاهر. أطلبوا كلكم لكي تحل عليه  موهبة الروح القدس. آمين. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               And the Bishop shall say this prayer facing the East: 
+            </Language>
+            <Language id="Arabic">
+               يقول الأسقف هذه الصلاة ووجهه للشرق 
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Yea, Lord, make Your servant worthy of the calling of the presbyterate, so that he may deserve through Your kindness, as befits Your holy name, to labor and serve in the temple of Your glory, and find mercy before You; for You are a merciful and compassionate God, and to You is due glory, honor, and dominion, and to the Son and to the Holy Spirit….      
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب اجعله مستحقاً لدعوة القسيسية لكي باستحقاق من قبل محبتك للبشر يستحق اسمك القدوس ويتعبد لك ويخدم مذبحك المقدس ويجد رحمة أمامك لأن الرحمة والرأفة من قبلك يا الله وينبغي لك المجد أيها الآب والابن والروح القدس....الآن. الخ. 
+            </Language>
+         </Text>
+      
+         <Comment>
+            <Language id="English">
+               You shall turn to the west and place your right hand on his head and say this prayer: 
+            </Language>
+            <Language id="Arabic">
+               التفت إلى الغرب وضع يدك على رأسه وقل هذه الصلاة:  
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Our Master, Lord God Almighty, who created all things by Your coeternal Word, exercising providence over the universe through Him also, according to Your will which looks at all times on Your holy Church, and makes it increase and those who preside in it, making them multiply and giving them strength to labor in word and deed; look upon Your servant (...), who has been made a presbyter by the vote and judgment of those who have brought him into the midst.  Fill him with Holy Spirit and grace and counsel, fearing You, so that he might help and guide Your people with a pure heart, just as you looked over Your people whom You chose and commanded Your servant Moses to choose for himself presbyters whom You ordained by an uncreated Holy Spirit which proceeds from You.       
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الله ضابط الكل خالق كل الأشياء بكلمته الذاتية المعتني بالكل من قبلك أيضاً. أيها المتطلع في كل حين على بيعته المقدسة. وينميهم ويكثرهم ويقويهم ليقبلوا الأتعاب بالقول والفعل أنظر على عبدك (فلان) هذا الذي قدم للقسيسية بحكم وتزكية الذين قدموه في الوسط املأه من الروح القدس والنعمة والمشورة وتقواك ليعضد ويدبر شعبك بقلب نقي كما تطلعت على شعبك الذي اخترته. وأمرت عبدك موسى أن يختار له شيوخاً. هؤلاء الذين ملأتهم من الروح القدس غير المصنوع المنبثق منك. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               Yea, Lord, hear us as we beseech You, and preserve in us also the Holy Spirit of Your grace which is uncreated.  Grant him the spirit of Your wisdom, so that, filled with works of healing and instructive speech, he might teach Your people in meekness and serve You in purity with a clean mind and a willing soul, that he might perform the functions of the priesthood over Your people, those who will approach him that he might renew them through the regeneration of baptism.        
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب اسمعنا. نطلب إليك أن تحفظ فينا أيضاً الروح القدس الذي لنعمتك غير المخلوقة امنحه روح حكمتك ليمتلئ من أعمال الشفاء وكلام التعليم ليعلم شعبك بوداعة ويتعبد لك بطهارة وفكر نقي ونفس منسحقة ليكمل أعمال الكهنوت على شعبك وأما الذين يقتربون إليه أيضاً فليجددهم بحميم الميلاد الجديد. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop" silent="true">
+         <Text>
+            <Language id="English">
+               As for me, cleanse me from all sins of others and free me from those which are my own, through the mediation of Your only-begotten Son, our Lord and our God and our Savior, Jesus Christ, who …         
+            </Language>
+            <Language id="Arabic">
+               وأنا أيضاً طهرني من كل خطية غريبة واعتقني مما يجب علي من ذاتي بواسطة ابنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح هذا الذي الخ. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Turn to the altar. Pray thus:  
+            </Language>
+            <Language id="Arabic">
+               التفت إلى المذبح وصلي هكذا
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Look upon us, O Lord, and on Your ministry, and cleanse us from every stain, while You give grace from heaven to this Your servant, so that he may deserve by Your kindness blamelessly to be occupied in this ministry to which You have called him, and find Your mercy with all who through the ages have pleased you;        
+            </Language>
+            <Language id="Arabic">
+               اطلع يا رب علينا وعلى خدمتنا وطهرنا من كل دنس. وأرسل من السماء نعمتك على عبدك هذا لكي يستحق من قبلك أن يكمل كهنوتك بغير اعوجاج. ليفوز بمراحمك مع الذين أرضوك منذ البدء.  
+            </Language>
+         </Text>      
+      </Role>
+      
+       <Role id="Bishop" silent="true">
+         <Text>
+            <Language id="English">
+               for You are a God who wills mercy and kindness, and from all is due glory, honor and adoration to You, and to the Son, and to the Holy Spirit, now…..         
+            </Language>
+            <Language id="Arabic">
+               لأن الرحمة كائنة بإرادتك: ويليق بك الإكرام من كل أحد والسجود أيها الآب والابن والروح القدس....الخ. 
+            </Language>
+         </Text>
+      </Role>
+         
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               Turn to the west. Sign his forehead, saying:  
+            </Language>
+            <Language id="Arabic">
+               التفت غرباً و ارشم جبهته قائلاً
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We ordain you in the holy Church of God. Amen.         
+            </Language>
+            <Language id="Arabic">
+               ندعوك في كنيسة الله المقدسة آمين.   
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               (...), a presbyter of the holy altar of the holy catholic Church of God of the Christ-loving city of (...).         
+            </Language>
+            <Language id="Arabic">
+               (...) قسيساً على المذبح المقدس بالبيعة المقدسة الجامعة الرسولية كنيسة الله بالمدينة المحبة للمسيح (...)   
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               We ordain you, (...) as presbyter for the holy altar which has been named for the orthodox, in the name of the Father and of the Son and of the Holy Spirit.          
+            </Language>
+            <Language id="Arabic">
+               ندعوك يا(فلان) قسيساً على المذبح المقدس الذي دعي للأرثوذكسيين بسم الآب والابن والروح القدس.      
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He makes three crosses on his forehead, the symbol of the Trinity. He clothes him with the vestment, saying:  
+            </Language>
+            <Language id="Arabic">
+               يرشم ثلاثة صلبان على جبهته مثال الثالوث ثم يلبسه الحلة ويقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Glory and honor for the all-holy consubstantial Trinity, the Father and the Son and the Holy Spirit.  Peace and upbuilding for the holy Church of God. Amen.          
+            </Language>
+            <Language id="Arabic">
+               مجداً و إكراماً للثالوث الكلي القداسة الآب والابن والروح القدس. سلاماً وبنياناً لكنيسة الله المقدسة آمين      
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Turn to the east. Pray over him thus:   
+            </Language>
+            <Language id="Arabic">
+               ثم تلتفت إلى الشرق وصلي هكذا
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We give thanks to You, our almighty Lord, and we praise and glorify Your holy name, because You have deigned to do with us, and poured out Your gift on this Your servant. Again we ask and beseech You, O Lord, hear us according to the multitude of Your mercies, and may this ordination to the presbyterate be pleasing to You which has been performed on this Your servant through the coming of Your most-holy Spirit.  To the calling, add also the election, the sanctity, and grace of Your goodness; and choose us and him for good, and grant to him that he may labor for You in the talent which he has received; so that with all who have done Your will he may receive the reward of faithful and wise steward, at the second coming from heaven of our Lord, our God and our Savior, Jesus Christ, with whom glory, honor, and dominion are due to you, with your good and most-holy Spirit…          
+            </Language>
+            <Language id="Arabic">
+               نشكرك أيها السيد ضابط الكل من أجل كل حال ونمجد اسمك القدوس لأنك صنعت معنا عظائم وأفضت موهبتك ذات الغنى على عبدك هذا. نسأل ونطلب إليك يا سيد اسمعنا ككثرة رأفتك وسر بهذه الشرطونية الصائرة لعبدك هذا من قبل حلول روحك القدوس عليه وقوم دعوة اختياره بطهارة بنعمة صلاحك واخترنا معه للصلاح لكي نعمل ونربح في الوزنة وننال مع كل الذين عملوا مشيئتك منذ البدء أجرة الوكيل الأمين الحكيم في ظهور ربنا وإلهنا ومخلصنا يسوع المسيح. هذا الذي من قبله المجد والإكرام والعز يليق بك معه مع الروح القدس....الخ.       
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+   
+   <Role id="Bishop">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis</Language>
+            <Language id="Arabic">الوصية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Know, O son, what is the manner of the ordination of which you have been made worthy, that is, the presbyterate with which you have been entrusted, since it is the great mystery of the new covenant in the order of teaching.  It is necessary for you, therefore, to act and teach through good deeds rather than by word, remembering the word of the Apostle, Peter, who says, “I exhort the presbyters who are among you, I your fellow-presbyter and witness of the sufferings of Christ and partaker of the glory which is to be revealed: tend the flock of God which is among you, and supervising not with constraint but willingly, in accordance with God, and eagerly, not domineering those allotted to you, but be an example to the flock, so that, when the chief shepherd will be manifest, you will receive the unfading crown of glory.” You shall work, therefore, with the talent which was entrusted to you, that it might be doubled, so that you might receive the reward of the wise and faithful servant, gathering together your people for the word of instruction, as a nurse nourishes her children. that you might save yourself with those who hear you.  Go in peace, the Lord be with you. 
+            </Language>
+            <Language id="Arabic">
+               اعلم أيها الابن قدر هذه الدعوة التي استحققتها التي هي القسيسية وتقليدك الأسرار العظيمة التي للعهد الجديد بدرجة التعليم. فيجب عليك إذاً أن تعمل وتعلم من جهة الأعمال الحسنة أفضل من الكلام وأذكر كلام بطرس الرسول القائل أن القسوس الذين فيكم أرغب إليهم أنا القس شريكهم والشاهد على آلام المسيح والشريك في المجد الذي يظهر. ارعوا رعية الله التي فيكم. وكونوا تفتقدوها لا بالظلم بل بإرادة قلب. وليس كأنكم أرباب الأنصبة بل كونوا مثالاً للرعية. لكي إذا ظهر رئيس الرعاة. تأخذون إكليل المجد غير المضمحل. كن إذا عاملاً بالوزنة التي أؤتمنت عليها لتردها متضاعفة. لتأخذ أجرة العبد الحكيم الأمين: وتجمع الشعب على كلمة التعليم مثل مربية تربي بنيها لتخلص أنت والذين يسمعونك. امض بسلام الرب معك.  
+            </Language>
+         </Text>
+      </Section>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Another Catechesis</Language>
+            <Language id="Arabic">الوصية الأخرى</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               Another catechesis to be read to the priest at the end of his ordination:
+            </Language>
+            <Language id="Arabic">
+               وأيضاً وصية أخرى تقرأ للقسيس عند نهاية تكريزه:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Know this O blessed son: May God support you in what He has called you to, and grant you success as He did for His righteous. Our Master Jesus Christ, to whom is the glory, has chosen you to serve Him and counted you among His priests, elevating you from the deaconship to the priesthood and entrusting you with the life-giving Mysteries. Do according to all of these commandments and you shall gain the forgiveness of sins: Know the extent of this grace which you have been granted and the perfect gift that you have received. From now on, you are worthy to address the Lord, as an intercessor in His holy place, the place of the forgiveness of sins for the people. Work not for the food which perishes but for the food that remains forever. 
+            </Language>
+            <Language id="Arabic">
+               اعلم أيها الإبن المبارك. أعانك الله إلى ما دعاك إليه. ووفقك إلى ما وفق أبراره لديه. أن سيدنا يسوع المسيح له المجد قد اصطفاك لخدمته وصيرك مع عدد كهنته بما رفعك به من خدمة الشماسية إلى رتبة القسيسية وائتمنك على أسراره المحيية. فاصنع لما يتلى عليك من هذه الوصايا الفائز من عمل بها بغفران الذنوب والخطايا واعرف قدر هذه النعمة التي نلتها والموهبة التامة التي اعطيتها من الآن أنك قد صرت مستحقاً لمخاطبة الرب شفيعاً في مقادسه ومحل غفرانه على الشعب. فاعمل لا للطعام الفاني بل للطعام الباقي إلى الأبد. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Do not fall short in acquiring the spiritual virtues as long as the spirit is in the body that you may grow in good deeds. May the lamp of your soul be enlightened so that you will be a good example in speech, in conduct and by good works; in great and little matters, both public and private. Flee from the love of money which is the origin of all evil works. Beware of gluttony and drunkenness, for both darken the enlightened mind. Stay free of envy, divisions, resistance, hard heartedness, mockery, and pride. Also stay free of gossiping, malice, favoritism, and hypocrisy. Do not be double faced, nor covetous for it is written that the priest must be “blameless.” 
+            </Language>
+            <Language id="Arabic">
+               لا تتوانى عن اقتناء الفضائل الروحانية ما دام الروح في الجسد لتنمو في الأعمال المرضية فيشرق مصباح ذاتك بأنوارها المضيئة وكن مثالاً صالحاً في القول والسيرة عن جليل الأمور والحقيرة في العلانية والسريرة. واهرب من محبة الفضة التي هي أصل كل الأعمال الشريرة. واحذر من الشبع والسكر فانهما يظلمان العقول النيرة وتجنب الحسد والشقاق والمقاومة والقساوة والهزء والكبرياء. وابعد عن النميمة والوقيعة والإفتخار الردئ والمحاباة والرياء. واحذر أن تكون ذو لسانين ولا وجهين. أو تشهد شهادة فيها ريب. فانه مكتوب يجب أن يكون القسيس ولا يوجد فيه عيب. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Do not discipline by hand, but through the love of God. Love everyone with all your heart and soul. Be adorned with righteousness, mercy, purity, meekness, contentment, humility, patience, endurance and meekness.
+            </Language>
+            <Language id="Arabic">
+               وإياك أن تسرع يدك إلى الضرب بل حب الله وجميع الخلق من كل النفس والقلب. واشتمل بفضائل التقوى والرحمة والعفة والتواضع والقناعة وانسحاق القلب والإحتمال والصبر والوداعة. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Be steadfast in the orthodox faith of our Lord and Savior Jesus Christ, who is the foundation of our faith, and through whom Christians are saved. Enlighten yourself by reading and learning with diligence all the rites of the Church. Treat God’s people with compassion and serve them with skillfulness. Take the path following these guides that you may reach the places of the righteous ones and to be saved from suffering and wrath.
+            </Language>
+            <Language id="Arabic">
+               ولا تحد عن الإيمان الصحيح بربنا ومخلصنا يسوع المسيح الذي هو أساس الدين وبه يتم الخلاص لسائر المسيحيين. واستضئ بالمطالعة مواظباً على القراءة والتعليم بمعاني الكتب البيعية والتدرب بالعلوم الدينية والقوانين الشرعية وعامل شعب الله بالرأفة والحذق وسسهم بلين المسيح والسهولة والرفق. وسر في مناهج هذه الآداب لتصل بها إلى مساكن الأبرار فائزاً من أليم العذاب. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               I command you to the greatest and most important commandment: LOVE. It is the foundation of Christianity. You are to love all from your heart with a clear conscious. Be alert and cautious when distributing the life-giving Mysteries of the Lord to make certain it is done according to the Church rules and the commands of the Apostles. Do so earnestly and eagerly with every conceivable effort. Be sure to know that the Cherubim and the Seraphim are standing in fear and trembling.
+            </Language>
+            <Language id="Arabic">
+               وأوصيك الوصية الكبرى الضرورية التي هي أصل قيام الشريعة المسيحية وهي أن تحب الجميع محبة قلبية بإخلاص الضمير وشهادة النية. والواجب عليك أكثر من وصايا بيعية. وأفضل من كل ما سواه من الأوامر الرسولية وهو الإحتراز على توزيع سرائر الرب المحيية ويكون ذلك منك بجد ونشاط واجتهاد. وتحقق أن الشاروبيم والسارافيم وقوف بالمخافة والإرتعاد. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Be aware of the gravity of the Sacrifice in your hands; it is Christ Emmanuel, who gave Himself up for you. Know with no doubt that you are breaking His body. You are holding in your hands, the one whom Simeon the priest held in honor and glory. And that this cup is truly His Blood shed for our sins, by which He saved all of the captives from Hades. This Blood came forth to us from the true vine, which is His divine side after He commended His Spirit on the Cross. Truly this sacrament is a great mystery. This is the holy Body and the precious Blood by which all creation is saved. This is the Lamb of God who takes away the sins of the world, and draws all people to being the Light of Truth.
+            </Language>
+            <Language id="Arabic">
+               وكن عارفاً بمقدار من هو ذبيح بين يديك وأنه المسيح عمانوئيل الذي أسلم ذاته عنك وعليك. واعلم أنك تقسم أعضاءه الناسوتية لا محالة وتحمل على يديك الذي حمله سمعان الكاهن بالكرامة والجلالة. وأن هذه الكأس دمه المهراق عن الخطايا الذي به استنقذ من الجحيم جميع السبايا النابع لنا من الكرمة الحقانية الذي هو جنبه الإلهي الزكي من بعد إسلامه الروح على الصليب. فيا لهذا السر الخفي، هذا هو الجسد المقدس والدم الكريم اللذان صار بهما خلاص الخليقة. هذا حمل الله الذي رفع خطايا العالم وجذبهم لنور الحقيقة. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Guard this treasure as the Cherubim guards the Tree of Life. Be very cautious and careful with it to be saved form all evil. Do not give the mysteries to any partaker unless he/she has good and pure conduct. Restore who goes astray, lest he/she dies and you are held accountable. Beware of negligence as the whole world is not worth even one particle of it. In dispensing the Mysteries, do so in order, calmness, tranquility, caution and carefulness. Show the holy vessels once, twice, or even three times to one with sharp eye sight so that your ministry may be acceptable, your intercession honored, your prayers beneficial and the grace of God remains with you.
+            </Language>
+            <Language id="Arabic">
+               فكن منهما لنفسك أيها الإبن غاية الإنتباه، واحرس على هذه الذخيرة كحراسة الشاروبيم لشجرة الحياة، واحترز على هذه السرائر إحترازاً يخلصك من الجرائر، ولا تناوله إلا للحسن السيرة الصالح السمعة الطاهر السريرة. ورد من كان طريقته شريرة لئلا يقتل نفسه وتكون أنت السبب في الجريرة. والحذر من الإهمال فتحصل المضرة فان العالم كله لا يساوي منه مثقالاً من ذرة. ويكون توزيعك بترتيب ونظام وهدوء وسكون وحرص وإحتراز والتفتيش برمق العيون واعراض الأواني المقدسة على من يكون حاد النظر مرة واثنين أو ثلاثة. فان العيان أوكد من الخبر لتكون خدمتك مقبولة ووساطتك مكرمة وصلاتك نافعة ونعمة الرب عليك سابغة. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               May the Lord God, the Head of all authorities, the Giver of all honors and the Founder of priesthood on earth as it is in heaven—help you, support you, watch upon you, and confirm you with His strength to assume this service all the days of your life. May He bless you and bless others through you. May He allow you to be enthroned with the twenty-four spiritual priests and permit you to hear the voice full of joy, saying: “Enter into the joy of your Lord to inherit the kingdom prepared for you before the foundation of the world.”
+            </Language>
+            <Language id="Arabic">
+               والرب الإله رأس الرئاسات وأساس السيادات وواهب الكرامات مرتب درجات الكهنوت على الأرض كما هي عليه في السموات، يعينك ويعضدك ويشاهدك ويؤيدك بقوته على القيام بفرائض خدمتك جميع أيام مدتك ويباركك ويبارك بك، وينصبك مع الأربعة والعشرين القسوس الروحانيين ويسمعك الصوت المبهج القائل: ادخل إلى فرح سيدك لترث الملك المعد لك من قبل إنشاء العالم. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               May He forgive me, I, the miserable, the abject, the slothful, the poor all of my sins and transgressions on Judgment Day. Through the intercessions of our Lady the lady of us all and the pride of our race, the holy Virgin St. Mary, whose intercessions are acceptable at all times, and by our honored witness and apostle, St. Mark the evangelist, along with our masters the Patriarchs, the Bishops, and all the martyrs and Saints and all who have pleased the Lord by their good deeds now and forever and unto the ages of ages. Amen. 
+            </Language>
+            <Language id="Arabic">
+               ويسامحني أنا البائس الحقير المتواني المسكين بآثامي وسيئاتي في يوم الدين بشفاعة سيدتنا كلنا وفخر جنسنا الست السيدة البتول القديسة المقبولة شفاعتها في كل حين والشاهد الكريم مارمرقس أحد الأربعة الإنجيليين مع كافة سادتنا البطاركة والأساقفة ورؤساء الكهنوت وسائر الشهداء والقديسين وكل من أرضى الرب بأعماله الصالحة آمين.
+            </Language>
+         </Text>
+      </Section>
+ 
+      <Section>
+         <Title>
+            <Language id="English">Catechesis for Monks</Language>
+            <Language id="Arabic">الوصية الخاصة بالرهبان</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               In the case of ordained monks the following catechesis will be recited:
+            </Language>
+            <Language id="Arabic">
+               وإذا كان المتكرز راهباً فتقرأ عليه بقية الوصية:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               If you are trained in the mystery of Confession, accept anyone coming for confession because the holy law excommunicates any priest who rejects whoever is coming to confess his sins. St. James stresses the urgency of confession by addressing both confessors and confessing. He said to the confessing, “confess your trespasses to one another” and to the confessor, “pray for one another” which means the priest prays for his flock. For “he who turns a sinner from the error of his way will save a soul from death and cover a multitude of sins”.
+            </Language>
+            <Language id="Arabic">
+               ولا بأس من أن تقبل المعترف إذا جاء إليك معترفاً بخطيته إن كنت مدرباً بهذه الصناعة فإن القانون المقدس يقول أن الكاهن الذي لايقبل المعترف ينفى من الجماعة. ويعقوب الرسول يخبر المعترف والمعترف له جميعاً أن ذلك واجباً وفرضاً بقوله للمعترف اعترفوا بخطاياكم بعضكم بعضاً. ويقول للمعترف له وليصلي بعضكم عن بعض، أعني الكاهن عن الرعايا. لأن الذي يرد الخاطئ عن طريق ضلالته يخلص نفساً من الموت و يستر كثرة من الخطايا
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You must take for yourself an elderly experienced spiritual father known for his wisdom in order to teach you how to cure wounds and pain with the proper medicine and ointment lest you put the wrong medicine on the wrong organ and cause damage. Do not be too stern on chronically lax members lest they perish. Relying on God, the father of compassion put in your consideration, age, habits, habitation, time, period, temperament, environment and shelter while dispensing the proper spiritual medication.  
+            </Language>
+            <Language id="Arabic">
+               ويجب أن تتخذ لك أباً شيخاً خبيراً بالمعالجة مشهوراً بالنجاح حتى يعلمك أن تضع الدواء والمرهم بما يلائم الوجع والجراح. لئلا تضع دواء العين على الرجل فلا ينتفع بذلك ولا تشدد على العضو المتراخي المزمن فيصير هالكاً. وكن سائلاً عن السن والعادة والوضع والزمان والطبع والمكان والإمكان والمزاج والتحصن. معتمداً في ذلك على أبي الرأفة والتحنن. ولاطف كل واحد من هؤلاء بما يلائمه من الدواء حتى يعود العليل من مرضه إلى حال الصحة
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Be a spiritual vessel carrying spiritually invalid individuals to the harbor of salvation and an enlightened spiritual teacher elevating the instructed to the level of understanding. May the Lord grant your garb a double reward and bestow upon you the perpetual riches of heaven.  Glory be to God forever.
+            </Language>
+            <Language id="Arabic">
+               لتكن مركباً روحياً تحمل البركات إلى ميناء الخلاص ومعلماً روحانياً نورانياً ترفع المتعلمين إلى درجة الاختصاص. لتستحق بهذه الحلة الأجر المتضاعف ويسبغ عليك الرب الخير السمائي المترادف. والسبح لله دائماً.
+            </Language>
+         </Text>
+      </Section>
+      
+      <Comment>
+         <Language id="English">
+            He who is ordained kisses the altar and the bishop and those who are present.  They give him of the mysteries.  The bishop shall lay hands on him three times and all shall proclaim three times: 
+         </Language>
+         <Language id="Arabic">
+            والذي تمت سيامته ليقبلن المذبح والأسقف والحاضرين ثم يتناول من السرائر المقدسة ويضع عليه الأسقف اليد ثلاث مرات، وليصرخ كل أحد ثلاث مرات:  
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="English">
+            Worthy is (...), the presbyter of the holy, catholic, apostolic Church of the Christ-loving city of (...).
+         </Language>
+         <Language id="Arabic">
+            مستحق (...) قسيس على البيعة المقدسة الجامعة الرسولية التي بالمدينة المحبة للمسيح (...).
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Exposition for the Ordination of a Priest</Language>
+         <Language id="Arabic">طرح عند سيامة الكاهن</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Rejoice you all with us this day my fathers and my brethren for our blessed priest (...) who has taken the rank of priesthood, and the blessed talent that God gives to whom He wants to give it to, and His Holy Spirit will cherish in him and will bless him only if he does according to God’s will. As God chose him on St. Paul’s golden tongue and the teacher for the world who said in his letters sent to the Romans: “So then it is not of him who wills nor of him who runs but of God who shows mercy.” Romans 9:6
+            </Language>
+            <Language id="Arabic">
+               افرحوا معنا كلكم اليوم يا آبائي وإخوتي من أجل أبينا المكرم القس (...) الذي أخذ بركة الكهنوت المقدسة والموهبة الصالحة التي يعطيها الرب لمن يشاء ويفيض روح قدسه على من يعمل صلاحه فقد اختاره الرب على لسان بولس الرسول لسان العطر ومعلم المسكونة إذ قال في رسالة رومية: «ليس لمن يشاء ولا لمن يسعى بل لله الذي يرحم» رو 9: 6
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               It is also said in the book of James the apostle: “Every good gift and every perfect gift is from above and comes down from the father of lights with whom there is no variation or shadow of turning.” James 1:17
+            </Language>
+            <Language id="Arabic">
+               وحقق ذلك يعقوب الرسول قائلاً: «إن كل موهبة صالحة وكل موهبة تامة هي من فوق نازلة من عند أبي الأنوار الذي ليس عنده تغيير ولا ظل دوران» يع 1: 17
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Also, that the holy gospel said proving and teaching us that “A man can receive nothing unless it has been given to him from heaven.” John 3:27
+            </Language>
+            <Language id="Arabic">
+               وذلك كما قال الإنجيل المقدس مبرهناً ومعلماً أنه: «لا يقدر إنسان أن يأخذ شيئاً ما لم يكن قد أُعطي من السماء» يو 3: 27
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We should glorify Him according to His glory and thank Him for His abundant blessings. We ask Him to give us the understanding so that we can open our mouths today and utter, rejoice and be glad for the honored priest (...) for what he received from the priesthood which is the revered order of the “presbyter” As St. John the evangelist has said in the book of Revelation “I saw a great throne in the midst of the heaven and there are twenty four thrones around the great one and on those thrones sits twenty four priest on their heads crowns of gold and in their hands are golden censors full of the chosen incense and they are praying without ceasing morning and night saying: “Holy, Holy, Holy Lord of Host. Heaven and earth are full of your holy glory.” He also said: “I saw a lamp in the midst of the throne and in His hands a sealed book and if the seals were opened the priests will take their crowns off ad fall down and worship the lamp and ask him about the salvation of the world.”
+            </Language>
+            <Language id="Arabic">
+               فنقدسه تقديساً يليق بجلاله ونشكره شكراً على ما وهب لنا من جزيل بركاته ونسأله أن يعطينا فهماً لكي نفتح أفواهنا اليوم وننطق ونتهلل ونفرح بكرامة أبينا الطاهر القس (...) بما ناله من المنزلة الرفيعة الكهنوتية التي هي درجة القسيسية كما قال يوحنا الإنجيلي البتول في سفر الرؤيا: "إنني رأيت كرسياً عظيماً في وسط السماء وأربعة وعشرون كرسياً حول العرش وجالساً عليهم أربعة وعشرون قسيساً وعلى رؤوسهم أكاليل وبأيديهم مجامر من ذهب مملؤة بخوراً مختاراً وهم يصرخون الليل والنهار قائلين: قدوس، قدوس، قدوس رب الصاباؤوت السماء والأرض مملوءتان من مجدك الأقدس. وقال: رأيت حملاً في وسط الكراسي وبيده كتاب مختوم وإذا فتح الأختام يضع القسوس تاجاتهم ويخرون بوجوههم ويسجدون للحمل ويسألونه في خلاص العالم. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               David the prophet also said about the Lamb of God the Logos: “You are a priest forever after the order of Melchizedek.” Now you are worthy of the great honor O our honored father the priest (hegumen)(...)  priest of the most high God for your purity and good standing before God asking continuously on behalf of his flock before His holy altar. Blessed are you, the pure priest, for you have been blessed with this rank in the priesthood which you received from Jesus Christ as His disciple. Truly great is the gift that which you have received from Jesus Christ through laying the hand of priesthood, which was laid upon you and the blowing of the Holy Spirit. When the hand was put on you the heavenly hosts and earthly people cried out saying:
+            </Language>
+            <Language id="Arabic">
+               وأيضاً داود النبي يقول في المزمور عن حمل الله الكلمة: "أنك أنت هو الكاهن إلى الأبد على طقس ملكيصادق." قد استحققت كرامة عظيمة يا أبانا المكرم القس (...) كاهن الله العلي من أجل طهارتك وسيرتك الحسنة أمام الله تطلب دائماً عن قطيعه أمام هيكله المقدس. طوباك أيها الكاهن الطاهر فقد تشرفت جداً بهذه الدرجة الحسنة من السيد المسيح له المجد مثل رسله الأطهار، بالحقيقة عظيمة هي هذه الموهبة التي أنعم بها عليك السيد المسيح من قبل وضع اليد الكهنوتية ونفخ الروح القدس لما وضعت عليك اليد صرخ السمائيون والأرضيون قائلين:
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="consecrations/reception/include/Axios"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               The Holy Spirit  the Paraclete descended upon you and now you are worthy to carry the awesome and holy and blessed mysteries of Emmanuel our Lord in your hands.
+            </Language>
+            <Language id="Arabic">
+               وحل عليك الروح القدس الباراكليت واستحققت أن تحمل بين يديك الأسرار المقدسة الرهيبة التي لعمانوئيل إلهنا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Blessed are you, the honored priest (hegumen), for you have received this wondrous glory which is the rank of priesthood through which you became a steward of the Lord of heavens. 
+            </Language>
+            <Language id="Arabic">
+               طوباك أيها القس المكرم إذ نلت هذه النعمة الجليلة التي هي درجة القسيسية المرسوم بها وكيلاً لله العلي.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We ask the Lord to make you worthy of the inheritance of the paradise of joy and let you hear the joyful voice saying: “Enter into the joy of your Lord.” We also ask the Lord our God and Savior Jesus Christ to keep your priesthood in righteousness, justice, and purity. Amen. 
+            </Language>
+            <Language id="Arabic">
+               ونحن نسأل الله العظيم أن يجعلك مستحقاً ومستوجباً لميراث فردوس النعيم ليسمعك الصوت الفرح الحنون القائل من الفم الإلهي: "ادخل إلى فرح سيدك" وأيضاً نسأل ربنا وإلهنا ومخلصنا يسوع المسيح أن يحفظ كهنوتك بالبر والعدل والطهارة. آمين. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               And to keep the life and standing of our honored father Papa Abba  (...) Amen. and his partner in the apostolic liturgy our father the bishop (...) Amen. 
+            </Language>
+            <Language id="Arabic">
+               وأن يحفظ لنا حياة وقيام أبينا الطوباوي المكرم البابا المعظم البطريرك (...). آمين. وشريكه في الخدمة الرسولية أبينا الأسقف المكرم (...). آمين. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               May God keep their lives for many years and peaceful times, and lead us to His heavenly kingdom. Through the intercessions of the Virgin, mother of light, St. Mary, the great martyr St. Mark the evangelist the apostolic and the preacher of the land of Egypt, and the strong St. Moses and all the prophets, apostles, martyrs, saints, and anchorites, strivers All saying Amen Alleluia... 
+            </Language>
+            <Language id="Arabic">
+               الرب يديم لنا حياتهما سنين عديدة وأزمنة سالمة ويوصلنا إلى الملكوت السماوي بشفاعة السيدة العذراء البتول الزكية أم النور مريم والشهيد العظيم مارمرقس الرسول كاروز الديار المصرية والقوي الأنبا موسى وسائر الأنبياء والرسل والشهداء والقديسين والسواح والمجاهدين بقولنا جميعاً آمين الليلويا...
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+</Document>

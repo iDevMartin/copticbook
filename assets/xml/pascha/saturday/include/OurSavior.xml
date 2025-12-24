@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Ere Pencwt/r qen tecm/]: ef],~lom hi taio~ n~n/eymei m~mof.
+         </Language>
+         <Language id="English">
+            Our Savior is in its midst: crowning  with honor those who love Him.
+         </Language>
+         <Language id="Arabic">
+            ومخلصنا في وسطها يكلل بالكرامة الذين يحبونه.
+         </Language>
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>      
+      <Season id="CovenantThursday">
+         <InsertDocument path="include/PraxisReading"/>
+         <InsertDocument path="include/JudasWhoHasBrokenTheLaw"/>
+         <InsertDocument path="include/trisagion/Seasonal"/>
+      </Season>
+      
+      <Season id="Vespers ^ DayAfterResurrection">
+         <InsertDocument path="include/ProcessionOfTheResurrection"/>         
+      </Season>
+      
+      <Season id="Matins ^ Pentecost">
+         <InsertDocument path="include/PreHymnOfTheResurrection"/>
+         
+         <Comment>
+            <Language id="English"> 
+               A procession around the altar and church three times is done while only carrying the icon of the resurrection.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/CommonHymnsOfResurrection"/>
+                  
+         <Section expanded="true">            
+            <Title>
+               <Language id="English">Coptic Hymn for the Pentecost</Language>
+               <Language id="Coptic">Pi,~rictoc aftwnf</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pi,~rictoc aftwnf e~bolqen n/eymwout: ouoh afsenaf e~p~swi e~ niv/oui~: afhemci caouinam m~Pefiwt qen n/et[oci: afouwrp nan m~piparak/ton Pip~neuma n~te ]meym/i: aferh~mot n~nen'u,/ m~piwnq n~e~neh.
+               </Language>
+               <Language id="English">
+                  Christ is risen from the dead and ascended into the heavens, and is seated at the right hand of His Father in the highest, He sent us the Paraclete, the Spirit of Truth bestowing upon our souls everlasting life.
+               </Language>
+               <Language id="Arabic">
+                  المسيح قام من بين الأموات، وصعد الى السموات وجلس عن يمين ابيه في الاعالي وأرسل لنا البارقليط روح الحق. وانعم لنفوسنا بالحياة الأبدية. 
+               </Language>         
+            </Text>
+         </Section>         
+         
+         <InsertDocument path="include/ProcessionOfTheResurrection_SilentPrayer"/>
+      </Season>
+      
+      <Season id="Matins ^ (HosannaSunday | ThooutFeastOfTheCross1 | ParemhotepFeastOfTheCross)">      
+         <InsertDocument path="include/ProcessionOfTheCross"/>      
+      </Season> 
+      
+      <Season id="Vespers ^ (HosannaSunday | FeastOfTheCross)">
+         <InsertDocument path="include/ProcessionOfTheCrossIntro"/>
+      </Season>
+      
+      <Season id="Matins ^ (LazarusSaturday | JonahFast | (GreatFast ^ Weekdays))">
+         <Comment>
+            <Language id="English">
+               The candles are extinguished, and the veil of the sanctuary is drawn shut.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="readings/Prophecies"/>
+         
+         <Comment>
+            <Language id="English">
+               The veil is then reopened, and the candles relit.
+            </Language>
+         </Comment>
+         
+         <Group>
+            <Season id="!LazarusSaturday">
+               <InsertDocument path="include/GreatFastLitanies"/>
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+</Document>

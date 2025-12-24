@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="English">
+            I ask of you O Good One to have mercy upon me according to Your great mercy.
+         </Language>
+         <Language id="Arabic">
+            أسألك أيها الصالح أن تصنع معى رحمة كعظيم رحمتك.
+         </Language>
+      </Text>
+   </Role>
+</Document>

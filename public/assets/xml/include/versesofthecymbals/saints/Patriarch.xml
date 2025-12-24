@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Patriarch:VersesOfCymbals | MyronConsecration | GladnessConsecration | Consecration">
+         <Comment>
+            <Language id="English">         
+               In the presence of the Pope or a bishop:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt e#y#u# n~dikeoc: abba (...) pip~ickopoc pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Blessed are you in truth: our holy and righteous father: Abba (…) the bishop: the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة يا ابانا القديس البار انبا (...) حبيب المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ten]ho e~rok w~ Uioc Yeoc: eyreka~reh e~p~wnq m~penpatriar,/c: papa abba (...) pia~r,/ e~reuc: matajrof hijen pefy~ronoc.
+            </Language>
+            <Language id="English">
+               We ask You O Son of God: to keep the life of our patriarch: Pope Abba (…) the archpriest: confirm him on his throne.
+            </Language>
+            <Language id="Arabic">
+               نسألك يا أبن الله. أن تحفظ حياة بطريركنا البابا أنبا شنودة رئيس الكهنة ثبته علي كرسيه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nem pefkes~v/r n~litourgoc: peniwt e#y#u# n~dikeoc: abba (...) pim/tropolit/c (pie~pickopoc): matajrof hijen pefy~ronoc.
+            </Language>
+            <Language id="English">
+               And his partner in the liturgy: our holy and righteous father: Abba (…) the metropolitan (bishop): confirm him on his throne.
+            </Language>
+            <Language id="Arabic">
+               وشريكه في الخدمة ابانا القديس البار أنبا(...) المطران (الاسقف) ثبته علي كرسيه.
+            </Language>
+         </Text>
+      </Season>
+   </Group>  
+</Document>

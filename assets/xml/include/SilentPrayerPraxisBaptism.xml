@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Title>
+         <Language id="English">Inaudible Prayer for the Praxis</Language>
+         <Language id="Arabic">اوشية بخور الابركسيس</Language>         
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The priest recites the Prayer of the Acts
+         </Language>
+         
+         <Language id="Arabic">
+            يقول الكاهن سر الإبركسيس
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerPraxisPart"/>
+      </Role>      
+   </Section>
+</Document>
+            

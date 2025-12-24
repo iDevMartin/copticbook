@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The Third Hour (Terce)</Language>
+      <Language id="Arabic">صلاة الساعة الثالثة</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         9:00 AM: To commemorate the descent of the Holy Spirit upon the Disciples and the hour which our Lord was condemned.
+      </Language>
+      <Language id="Arabic">
+         وتقابل التاسعة صباحاً بالتوقيت الفرنجي. بهذه الصلاة نطلب إضرام مواهب الروح القدس التي حلت عَلى التلاميذ القديسين في مثل هذه الساعة من النهار.
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+   <InsertDocument path="include/agpeya/3rdHourIntro"/>
+   <InsertDocument path="include/agpeya/psalms/3rdHour"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint John, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار يوحنا البشير بركته علي جميعنا أمين.
+         </Language>      
+      </Text>
+   </Role>
+      
+   <Role id="Reader">
+      <Section expanded ="true">
+         <Title>
+            <Language id="English">
+               Gospel (John 14:26 - 15:4)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا يوحنا ص 14: 26 – 15: 4
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               When the Comforter, the Holy Spirit, Whom the Father will send in My name, has come, He shall teach you all things, and bring to your remembrance all things that I have said unto you. My peace I leave with you, My peace I give unto you: not as the world gives do I give unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, “I go away, and come again unto you.” If you loved Me, you would rejoice, because I said, “I go unto the Father”: for My Father is greater than I. And now I have told you before it comes to pass, that, when it comes to pass, you might believe. I will not talk much with you: for the prince of this world comes, and has nothing in Me. But that the world may know that I love the Father; and as the Father gave Me commandment, so I do: arise, let us go from here.
+            </Language>
+            <Language id="Arabic">
+               متى جاء المعزى الروح القدس الذي سيرسله الآب باسمي، فهو يعلمكم كل شيء ويذكركم بكل ما قلته لكم. سلامي أترك لكم. سلامي أنا أعطيكم. ليس كما يعطى العالمُ أعطيكم. لا تضطرب قلوبكم ولا تجزع. سمعتم أنى قلت لكم إني أمضى ثم آتى إليكم. لو كنتم تحبونني لكنتم تفرحون لأني أمضى إلى الآب، لأن أبى أعظمُ منى. وقد قلتُ لكم الآن قبل أن يكون، حتى متى كان تؤمنون. لست أكلمكم كلاما كثيرا بعد، لأن رئيس هذا العالم آتٍ وليس له في شيءٌ. لكن لكي يعلمَ العالمُ أنني أحب أبى، وكما أوصاني أبى هكذا أفعل، قوموا ننطلق من ههنا.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               I am the true vine, and My Father is the vinedresser. Every branch in Me that does not bear fruit He takes away: and every branch that bears fruit He prunes, that it may bring forth more fruit. Now you are clean through the word which I have spoken unto you. Abide in Me, and I in you.
+            </Language>
+            <Language id="Arabic">
+               أنا هو الكرمة الحقيقية وأبى الكرام. كل غصن فيّ لا يأتي بثمر يقطعه. وكل ما يأتي بثمر ينقيه ليأتي بثمر أكثر. وأنتم من قبْل أنقياءُ من أجل الكلام الذي كلمتكم به. اثبتوا في وأنا أيضا فيكم.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/GospelConclusion"/>   
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. Your Holy Spirit, O Lord Whom You sent forth upon Your holy disciples and honored apostles in the third hour, do not take away from us, O Good One, but renew Him within us. Create in me a clean heart, O God, and renew a right spirit within me. Do not cast me away from Your presence. And do not take Your Holy Spirit away from me.
+            </Language>
+            <Language id="Arabic">
+               1. روحك القدوس يا رب الذي أرسلته على تلاميذك القديسين ورسلك المكرمين في الساعة الثالثة، هذا لا تنزعه منا أيها الصالح، لكن جدده في أحشائنا. قلبا نقيا اخلق فيَّ يا الله، وروحا مستقيما جدد في أحشائي. لا تطرحني من قدام وجهك، وروحك القدوس لا تنزعه منى
+            </Language>
+         </Text>
+      </Role>
+               
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <InsertDocument path="include/agpeya/3rdHour.2"/>
+      </Role>
+               
+      <InsertDocument path="include/agpeya/KeNin"/>   
+      
+      <Role id="Reader">
+         <InsertDocument path="include/agpeya/3rdHour.3"/>
+      </Role>
+      
+      <InsertDocument path="include/agpeya/KeNin"/>         
+      <InsertDocument path="include/agpeya/OHeavenlyKing"/> 
+   </Section>
+   
+   <InsertDocument path="include/agpeya/TrisagionCollapsed"/>   
+   <InsertDocument path="include/agpeya/HailToYouCollapsed"/>
+   
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            O God of all compassion, and Lord of all comfort, who comforted us at all times with the comfort of Your Holy Spirit, we thank You for You raised us for prayer in this holy hour, in which You abundantly poured the grace of Your Holy Spirit upon Your holy disciples and honorable and blessed apostles, like tongues of fire.
+         </Language>
+         <Language id="Arabic">
+            يا إله كل الرأفات ورب كل عزاء، الذي عزانا كل حين بعزاء روحك القدوس، نشكرك لأنك أقمتنا للصلاة في هذه الساعة المقدسة، التي فيها أفضت نعمة روحك القدوس بغنى على تلاميذك القديسين ورسلك المكرمين الطوباويين مثل ألسنة نار.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            We ask and entreat You, O Lover of Mankind: Accept our prayers, and forgive our sins, and send forth upon us the grace of Your Holy Spirit, and purify us from all defilement of body and spirit.
+         </Language>
+         <Language id="Arabic">
+            نسأل ونطلب منك يا محب البشر، اقبل إليك صلواتنا، واغفر خطايانا، وأرسل علينا نعمة روحك القدوس، وطهرنا من كل دنس الجسد والروح،
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            Change us into a spiritual manner of life, that we may walk in the Spirit and not fulfill the lusts of the flesh. And make us worthy to serve You with purity and righteousness all the days of our life. For unto You is due glory, honor, and dominion, with Your good Father and the Holy Spirit, now and forever and unto the ages of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            وانقلنا إلى سيرة روحانية، لكي نسلك بالروح ولا نكمل شهوة الجسد. واجعلنا مستحقين أن نخدمك بطهارة وبر كل أيام حياتنا. لأنه يليق بك المجد والكرامة والعزة، مع أبيك الصالح والروح القدس، الآن وكل أوان وإلى الأبد أمين.
+         </Language>
+      </Text>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

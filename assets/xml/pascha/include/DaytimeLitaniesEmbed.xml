@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Daytime Litanies</Language>
+         <Language id="Arabic">طلبة النهار</Language>
+      </Title>
+      
+      <Group>
+         <Season id="!SundayPascha ^ !CovenantThursday11thHour">
+            <Comment>
+               <Language id="English">
+                  The Litanies are prayed with prostration in the morning.      
+               </Language>
+            </Comment>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Klinwmen ta gonata.
+                  </Language>
+                  <Language id="English">
+                     Let us bow our knees.
+                  </Language>
+                  <Language id="Arabic">
+                     نحنى ركبنا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>
+                  <Language id="Coptic">
+                     Nai nan Vnou] Viwt pipantokratwr.
+                  </Language>
+                  <Language id="English">
+                     Have mercy upon us. O God, the Father, the Pantocrator.
+                  </Language>
+                  <Language id="Arabic">
+                     إرحَمنا يا الله الآبُ، ضابطَ الكل.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Anactwmen k~linwmen ta gonata.
+                  </Language>
+                  <Language id="English">
+                     Let us stand. Let us bow our knees.
+                  </Language>
+                  <Language id="Arabic">
+                     نقف، نحنى ركبنا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>
+                  <Language id="Coptic">
+                     Nai nan Vnou] Pencwt/r.
+                  </Language>
+                  <Language id="English">
+                     Have mercy upon us, O God, our Savior.
+                  </Language>
+                  <Language id="Arabic">
+                     إرحَمنا يا الله مخلصنا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Ke a~nactwmen: k~linwmen ta gonata.
+                  </Language>
+                  <Language id="English">
+                     And let us stand. Let bow our knees.
+                  </Language>
+                  <Language id="Arabic">
+                     ثم نقف، نحنى ركبنا.
+                  </Language>
+               </Text>
+            </Role>
+            
+            <Role id="People">
+               <Text>
+                  <Language id="Coptic">
+                     Nai nan Vnou] ouoh\ nai nan.
+                  </Language>
+                  <Language id="English">
+                     Have mercy upon us, O God, have mercy upon us.
+                  </Language>
+                  <Language id="Arabic">
+                     إرحَمنا يا الله ثم إرحَمنا.
+                  </Language>
+               </Text>
+            </Role>
+         </Season>
+      </Group>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray that God may have mercy and compassion on us, hear us, help us, and accept the supplications and prayers of His saints for that which is good on our behalf at all times, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا لكى يرحمنا الله ويتراءف علينا ويسمعنا ويعيننا ويقبل سؤالآتٍ وطلبآتٍ قديسيه منهم عنا بالصلاح فى كل حين. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray for the peace of the one, holy, catholic, and apostolic church, and for God’s salvation and comfort to abide in all places, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن سلامة الواحدة الوحيدة المقدسة الجامعة الرسولية الكنيسة. وخلاص الله فى الشعوب والطمأنينة بكل موضع. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray for our fathers and brethren who are sick with any sickness, whether in this place or in any place, that the Lord our God may grant us, with them health and healing, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               اطلبوا عن أبائنا وأخوتنا المرضى بكل الأمراض فى هذا الموضع وكل مكان لكى ينعم لنا الرب إلهنا وإياهم بالعافية والشفاء. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for our fathers and brethren in all places who are traveling or planning to travel, that God may ease their ways, whether by seas, rivers, lakes, roads, [air] or other means, and may the Lord our God guide them, return them in safety, and forgive us our sins. 
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن أبائنا واخوتنا المسافرين والذين أضمروا السفر بكل مكان٬ ليسهل طرقهم جميعاً إن كانوا فى البحار أو الآنهار أو الينابيع أو الطرق المسلوكة ] أوالجو[ والذين جعلوا سفرهم بكل نوع٬ لكى يرشدهم الرب إلهنا ويرجعهم إلى مساكنهم بسلام ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the air of heaven, the fruits of the earth, the trees and vineyards, and all fruit-bearing trees everywhere, that Christ our God may bless them, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن أهوية السماء وثمرآتٍ الأرض وكل الأشجار والكروم وكل شجرة مثمرة فى جميع المسكونة٬ لكى يباركها الرب إلهنا ويكملها بسلام. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask that God may grant us mercy before leading authorities, incline their hearts with goodwill towards us always, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا لكى يعطينا الله رحمة ورأفة أمام السلاطين الأعزاء ويعطف قلوب المتولين علينا بالصلاح فى كل حين. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for our fathers and brethren who have fallen asleep and reposed in the faith of Christ since the beginning, our holy fathers the patriarchs, metropolitans, bishops, hegumens, priests, our brethren the deacons, our fathers the monks and our brethren the laymen, and for the rest of all departed Christians, that the Lord our God may repose all their souls, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن آبائنا واخوتنا الذين رقدوا وتنيحوا فى الإيمان بالمسيح منذ البدء٬ آبائنا البطاركة وآبائنا المطارنة وآبائنا الأساقفة وآبائنا القمامصة وآبائنا القسوس واخوتنا الشمامسة وآبائنا الرهبان واخوتنا العلمانيين٬ وعن كل الذين تنيحوا من المسيحين لكى ينيح الرب إلهنا نفوسهم أجمعين. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for those who care for the sacrifices, offerings, wine, oil, incense, coverings, reading books, and all the altar vessels, that the Lord our God may reward their labors in the heavenly Jerusalem, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن المهتمين بالصعائد والقرابين والخمر والزيت والبخور والستور وكتب القراءة وكل أوانى المذبح٬ لكى يعوضهم الرب إلهنا عن آتٍعابهم فى أورشليم السمائية. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the catechumens of our people, that our Lord may bless them, open the eyes of their hearts, and confirm them in the Orthodox faith until their last breath, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن موعوظى شعبنا لكى يباركهم الرب الهنا ويفتح عيون قلوبهم ويثبتهم على الإيمان الأرثوذكسى إلى النفس الأخير. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for this church and for all churches of the Orthodox people, for the desert monasteries and their elders, and for the peace of the whole world, that the Lord our God may protect both us and them from all evil, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن هذه الكنيسة وكل الكنائس وديارآتٍ الشعوب الأرثوذكسيين فى البرارى والشيوخ السكان فيها وعن طمأنينة كل العالم معاً. لكى يحفظنا الرب إلهنا وإياهم من كل سوء ومن كل شر. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the life and standing of our honorable father, the Patriarch and Archbishop Pope Abba (...), [and his partner in the apostolic liturgy, our father the bishop (metropolitan), Abba (...),] that the Lord may preserve his life, and confirm him in his see for many years and peaceful times, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن حياة وقيام أبينا المكرم رئيس الأساقفة الآب البطريرك البابا أنبا__،]  وشريكه في الخدمة أبينا الأسقف (المطران) المكرم الآنبا __،[ لكى يحفظ الرب لنا حيآتٍه ويثبته على كرسيه سنين عديدة وأزمنه  سلامية هادئة مديدة. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for our Orthodox fathers everywhere, the metropolitans, bishops, hegumens, priests, deacons, and all the orders of the Church, that Christ our God may preserve and strengthen them, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن آبائنا المطارنة والأساقفة الأرثوذكسيين بكل مكان والقمامصة والقسوس والشمامسة وكل طغمآتٍ الكنيسة لكى يحفظهم المسيح إلهنا ويقويهم. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for this assembly of ours and for all assemblies of the Orthodox people, that the Lord our God may bless them and fulfill them in peace, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن إجتماعنا هذا وكل إجتماع الشعوب الأرثوذكسيين لكى يباركهم الرب إلهنا ويكملهم بسلام. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the hierarchs of the holy Church, and for all the orders of the clergy, that the Lord our God may bless and strengthen them, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن مدبرى الكنيسة المقدسة وكل رتب الكهنوت لكى يباركهم الرب إلهنا ويقويهم. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for those who toil in the holy Church and for the Orthodox people, that the Lord our God may have mercy on them, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن كل نفس لها تعب فى الكنيسة المقدسة ومع الشعب الأرثوذكسى لكى يصنع الرب إلهنا معهم رحمة. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for all Christ-loving rulers who asked us to pray for them by name, that the Lord our God may remember them in His mercy and grant them favor before powerful rulers, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن محبى المسيح الرؤساء الذين أمرونا أن نذكرهم بإسمائهم لكى يباركهم الرب إلهنا ويذكرهم بالرحمة ويعطيهم النعمة أمام السلاطين الأعزاء. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the poor, the weak, the farmers, and for every soul in any type of hardship, that the Lord our God may have compassion on them and on us, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن المساكين والفلاحين والضعفاء وعن كل نفس متضايقة بكل نوع لكى يتراءف علينا الرب إلهنا وإياهم. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for those in the distress of jails, prisons, captivity, or exile, and for those bound by devils, that the Lord our God may free them from their hardships, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن كل المتضايقين الذين فى السجون وفى المطابق والذين فى النفى أو فى السبى والمربوطين من جهة رباطآتٍ الشياطين لكى يعتقهم الرب إلهنا من متاعبهم. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for all those gathered with us today in this place, seeking mercy for their souls, that the Lord’s mercy may encompass both us and them, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن كل النفوس المجتمعة معنا اليوم فى هذا الموضع يطلبون الرحمة لنفوسهم لكى تدركنا مراحم الرب إلهنا وإياهم. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for each person by name who asked us to remember them in our prayers, that the Lord our God may always remember them in His goodness, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن الذين أوصونا أن نذكرهم كل واحد واحد بإسمه لكى يذكرهم الرب إلهنا بالصلاح فى حين. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for the rising of the waters of the rivers this year, that Christ our God may bless them and raise them according to their measure, give joy to all the earth with the Nile, sustain us and deliver man and animal, and spare the world from death, scarcity, plagues, devastation, the sword of the enemies, and that He may grant calm, peace, and security to the holy Church, and raise the state of Christians in every place on earth until the last breath, and forgive us our sins.   
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن صعود مياه الآنهار فى هذه السنة لكى يباركها المسيح إلهنا ويصعدها كمقدارها ويفرح وجه الأرض بالنيل ويعولنا نحن البشر ويعطى النجاة لشعبه والبهائم ويرفع عن العالم الموت والغلاء والوباء والفناء والجلاء وسيف الأعداء ويجعل الهدوء والسلام والطمأنينة فى البيعة المقدسة ويرفع شأن المسيحيين فى كل مكان وفى كل المسكونة إلى النفس الأخير. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Let us pray and ask for this holy Pascha of our good Savior, that He may complete it for us in peace and bring us the joy of His holy Resurrection in safety, and forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               صلوا واطلبوا عن هذه البصخة المقدسة التى لمخلصنا الصالح لكى يكملها لنا بسلام ويرينا بهجة قيامته المقدسة ونحن جميعاً سالمين. ويغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

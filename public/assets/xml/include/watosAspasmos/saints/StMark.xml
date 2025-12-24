@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMark:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Pinis]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mark:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Pinis] n~refhiwis: Qen ],wra n~te ,/mi: Markoc piapoctoloc: Pecsorp n~referhemi.
+            </Language>
+            <Language id="English">
+               The great preacher: In the land of Egypt: Mark the Apostle: Her first guide.
+            </Language>
+            <Language id="Arabic">
+              المبشر العظيم في كورة مصر أنبا مرقس الرسول مدبرها الأول. 
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

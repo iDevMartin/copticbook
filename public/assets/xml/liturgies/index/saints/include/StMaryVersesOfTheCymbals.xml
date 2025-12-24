@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Verses of the Cymbals</Language>
+         <Language id="Arabic">ارباع الناقوس</Language>
+      </Title>
+      
+      <InsertDocument path="include/versesofthecymbals/saints/StMary"/>
+   </Section>
+</Document>

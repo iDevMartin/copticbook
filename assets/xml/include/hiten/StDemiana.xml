@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StDemiana:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Demiana:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te ]selet  n~te pi&lt;rictoc: ]a~gia~ m~m/i Dumian/: P[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of the bride of Christ: the righteous Saint Demiana, O Lord, grant us the forgiveness of our sins.                  
+            </Language>
+            <Language id="Arabic">
+               بصلوات عروس المسيح القديسة الحقيقية دميانة يارب انعم لنا بمغفرة خطايانا.                  
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         The psalm is chanted in Coptic with the following introduction:
+      </Language>
+   </Comment>
+      
+   <Text>
+      <Language id="Coptic">
+         "~almoc tw Dauid.  All/louia.
+      </Language>
+      <Language id="English">
+         A psalm of David. Alleluia.
+      </Language>
+      <Language id="Arabic">
+         مزمور لداود
+      </Language>
+   </Text>
+   
+   <Group>         
+      <Season id="(FuneralTune ^ FuneralPrayer) | GeneralFuneralPrayer">
+         <Comment>
+            <Language id="English">
+               The psalm is chanted in the Paschal tune, followed by its trailer (A psalm that is chanted after the primary psalm in the same tune).
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Liturgy ^ (MajorNightFeasts | (HosannaSunday ^ !HosannaSundayFirstLiturgyGospel))">
+         <Comment>
+            <Language id="English">
+               The psalm is chanted in the festive "syngary" tune, followed by its trailer (A psalm that is chanted after the primary psalm in the same tune).
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Feasts">
+         <Comment>
+            <Language id="English">
+               The psalm is chanted in the festive tune, followed by its trailer (A psalm that is chanted after the primary psalm in the same tune).
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Comment>
+            <Language id="English">
+               The psalm is chanted in the standard tune, followed by its trailer (A psalm that is chanted after the primary psalm in the same tune).
+            </Language>
+         </Comment>
+      </Season>
+   </Group>
+</Document>

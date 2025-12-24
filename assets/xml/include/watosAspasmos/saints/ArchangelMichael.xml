@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Sare V~]...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Michael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Sare V~] ouwrp nan: n~nefnai nem nefmetsenh/t: hiten ni]ho n~te Mi,a/l: Pinis] n~ar,/~aggeloc:
+            </Language>
+            <Language id="English">
+               God sends us: His mercies and his compassions: through the prayers  of Michael: the great archangel:
+            </Language>
+            <Language id="Arabic">
+               إن الله يرسل لنا مراحمه ورأفاته بسؤالات رئيس الملائكة العظيم.ا
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Intercessions">
+      <Comment>
+         <Language id="English">         
+            The verse for Archangel Michael is added to the verses of the intercessions before the verse for the angels:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            Hiten nip~recbia~ n~te piar,/aggeloc e~youab Mi,a/l p~ar,on n~naniv/oui: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+         </Language>
+         <Language id="English">
+            Through the intercessions of the holy archangel Michael the commander of the heavenly: O Lord, grant us the forgiveness of our sins.
+         </Language>
+         <Language id="Arabic">
+            بشفاعات رئيس الملائكة الطاهر ميخائيل رئيس السمائيين. ياربُ أنعم علينا بمغفرة خطايانا.
+         </Language>         
+      </Text>
+   </Season>
+</Document>

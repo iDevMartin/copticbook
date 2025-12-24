@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="English">
+         On the road they spread garments / 
+         And from the trees they cut branches / 
+         while proclaiming with hymns / 
+         <span class="Coptic">Wcanna p~s/ri n~Dauid</span><sup>2</sup>.
+      </Language>
+      <Language id="Arabic">
+         في الطريق فرشوا القمصان / 
+         ومن الشجر قطعوا أغصان / 
+         وهم يصيحون بالألحان / 
+         أوصنا إبشيري إن دافيد.
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         <ol start="2">
+            <li>Ousanna ep-sheeree en Daveed = Hosanna to the Son of David</li>                  
+         </ol>
+      </Language>
+   </Comment>
+</Document>

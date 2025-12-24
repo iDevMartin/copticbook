@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">The Prayers of the Fractions</Language>
+      <Language id="Arabic">صلوات القِسَم</Language>      
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         While breaking the holy Body, the priest says one of the following prayers of the Fraction:     
+      </Language>
+      <Language id="Arabic">
+         يقول الكاهن وهو يقسم الجسد المقدس:     
+      </Language>
+   </Comment>
+   
+   <LinkDocument path="liturgies/index/Fractions Full Index">      
+      <Language id="English">Fractions Index</Language>
+      <Language id="Arabic">فهرس القسم</Language>
+   </LinkDocument>
+   
+   <Group>      
+      <InsertDocument path="include/fractions/Fractions.1"/>
+      
+      <Season id="Other">
+         <Group>
+            <InsertDocument path="include/fractions/Fractions.2"/>            
+            
+            <Season id="Other">
+               <InsertDocument path="include/fractions/Standard"/>      
+            </Season>
+         </Group>
+      </Season>
+   </Group>
+</Document>

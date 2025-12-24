@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StJohnTheBaptist:VersesOfCymbals | KoiahkSeason | NativityParamoun">
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Iwann/c: pinis] m~p~rodromoc: ,ere piou/b: p~cuggen/c n~Emmanou/l.
+            </Language>
+            <Language id="English">
+               Hail to John, the great forerunner, Hail to the priest, the kinsman of Immanuel.  
+            </Language>
+            <Language id="Arabic">
+               السلام ليوحنا السابق العظيم السلام للكاهن نسيب عمانوئيل.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

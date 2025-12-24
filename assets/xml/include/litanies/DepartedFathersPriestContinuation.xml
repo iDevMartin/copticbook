@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Arikataxoin mamton nac nem n/eyouab n~tak.
+         </Language>
+         <Language id="English">
+            Graciously repose him with your saints.
+         </Language>
+         <Language id="Arabic">
+            تفضلْ نيِّحْها مع قديسيكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eke~er,arizecye eyrektaho nan eratf n~oumanecwou e~nanef: eyrefamoni m~peklaoc qen outoubo nem oumeym/i.
+         </Language>
+         <Language id="English">
+            Grant to appoint for us a good shepherd to shepherd Your people in purity and righteousness.
+         </Language>
+         <Language id="Arabic">
+            أَنعِمْ بأن تُقيمَ لنا راعياً صالحاً ليرعَى شعبَكَ بالطهارةِ والعدلِ.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Clergy</Language>         
+      </Title>
+      
+      <Role id="Priest">
+         <Group>
+            <Season id="StBasilLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Nem n/etswt e~bol nemaf m~p~caji n~te ]meym/i qen oucwouten.
+                  </Language>
+                  <Language id="English">
+                     And those who rightly handle the word of truth with him,
+                  </Language>
+                  <Language id="Arabic">
+                     والذين يُفَصِّلُونَ معه كلمةَ الحقِ باستقامةٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ari,arizecye m~mwou n~tekekk~l/cia eyouab: eua~moni m~peko~hi qen ouhir/n/.
+                  </Language>
+                  <Language id="English">
+                     grant them unto Your holy Church to shepherd Your flock in peace.
+                  </Language>
+                  <Language id="Arabic">
+                     أَنعِمْ بِهم على كنيستِكَ المقدسةِ يَرْعَوْنَ قطيعَكَ بسلامٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ariv~meui~ P[oic n~nih/goumenoc: nem nip~recbuteroc n~oryodoxoc: nem nidiakwn.
+                  </Language>
+                  <Language id="English">
+                     Remember, O Lord, the orthodox hegumens, priests, and deacons—
+                  </Language>
+                  <Language id="Arabic">
+                     اذكر ياربُّ القمامصةَ والقسوسَ الأرثوذكسيين والشمامسةَ.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StGregoryLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Nem e~h~r/i e~jen n/etsop m~paima: nem n/e~tauenkot.
+                  </Language>
+                  <Language id="English">
+                     And for those who are in this place, and those who have fallen asleep,
+                  </Language>
+                  <Language id="Arabic">
+                     وعن الكائنينَ ههنا  والذين رقدوا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nie~pickopoc: nih/goumenoc: nip~recbuteroc: nidiakwn: nihupodiakwn.
+                  </Language>
+                  <Language id="English">
+                     the bishops, hegumens, priests, deacons, and subdeacons.
+                  </Language>
+                  <Language id="Arabic">
+                     الأساقفةِ، والقمامصةِ، والقسوسِ، والشمامسةِ، والإبوذياقونين.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>
+      </Role>
+               
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Proceuxacye u~per twn /~gomenwn ke p~recbuterwn ke diakonwn ke u~podiakonwn epta tagmatwn tou Yeou t/c ekk~l/ciac.
+            </Language>
+            <Language id="English">
+               Pray for the hegumens, priests, deacons, subdeacons, and the seven orders of the Church of God.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل القمامصة والقسوس والشمامسة والإيبوذياكونيين، وسبع طغمات كنيسة الله
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>   
+</Document>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMaryMagdalene:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary Magdalene:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere y/etacnau m~P~o#c#: menenca n~te tefanactacic: ,ere y/eyouab ]faicojen: ]agia Maria ]magdalin/.
+            </Language>
+            <Language id="English">
+               Hail to her who saw the Lord after his resurrection. Hail to the holy myrrh-bearer; St. Mary Magdalene.
+            </Language>
+            <Language id="Arabic">
+               السالم للتى رأت الرب: بعد قيامته: السالم للقديسة حاملة الطيب: القديسة مريم المجدلية.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

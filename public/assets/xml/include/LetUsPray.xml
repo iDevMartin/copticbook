@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye.
+         </Language>
+         <Language id="English">
+            Let us pray.
+         </Language>
+         <Language id="Arabic">
+            صلوا
+         </Language>         
+      </Text>   
+   </Role>
+</Document>

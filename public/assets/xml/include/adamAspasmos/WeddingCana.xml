@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Coou n~hudria...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Wedding at Cana of Galilee:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Coou n~hudria m~mwou: akaitou n~/rp efcwtp: hiten peknis] n~w~ou: tenhwc nak somt n~cop.
+            </Language>
+            <Language id="English">
+               Six jars of water, You made select wine, through Your great glory, we praise You three times.
+            </Language>
+            <Language id="Arabic">
+               ستة أجران ماء صنعتها خمرا مختارا بمجدك العظيم نسبحك ثلاث مرات.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

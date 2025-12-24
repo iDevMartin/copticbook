@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StStephen:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Stephen:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Ctevanoc: pisorp m~marturoc: ,ere pia~r,idiakwn: ouoh t~c~marwout.
+            </Language>
+            <Language id="English">
+               Hail to Stephen the first martyr, Hail to the holy archdeacon, and the blessed.
+            </Language>
+            <Language id="Arabic">
+               السلام لاسطفانوس أول الشهداء. السلام لرئيس الشمامسة المبارك.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

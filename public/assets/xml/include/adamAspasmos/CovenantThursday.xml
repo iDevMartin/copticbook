@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CovenantThursday">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Piwik n~te p~wnq...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For Covenant Thursday:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Piwik n~te p~wnq: e~tafi~ e~pec/t: nan e~bolqen t~ve: af] m~p~wnq m~pikocmoc.
+            </Language>
+            <Language id="English">
+               The Bread of Life, which came down for us from heaven, has given life to the world.
+            </Language>
+            <Language id="Arabic">
+               خبز الحياة الذي نزل لنا من السماء، وهب الحياة للعالم
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Aremacf a[ne ywleb: af] nan m~pefcwma: nem pefc~nof ettai/out: anwnq sa e~neh.
+            </Language>
+            <Language id="English">
+               You have brought Him forth without blemish; He gave us His Body and His precious Blood, and we live forever.
+            </Language>
+            <Language id="Arabic">
+               ولدته بغير دنس واعطانا جسده ودمه الكريم فحيينا إلى الأبد
+            </Language>         
+         </Text>
+      </Section>
+   </Season>
+</Document>

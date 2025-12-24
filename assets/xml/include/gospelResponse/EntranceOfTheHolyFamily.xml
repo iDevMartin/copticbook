@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">            
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <InsertDocument path="include/gospelResponse/EntranceOfTheHolyFamilyContents"/>
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

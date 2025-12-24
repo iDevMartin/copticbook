@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Coptic New Year:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="English">
+                     Behold the Spirit of the Lord anointed Me / To the poor, He sent Me / And to the broken-hearted and wretched / To preach an acceptable year for salvation.
+                  </Language>
+                  <Language id="Arabic">
+                     ها روح الرب قد مسحني:  و إلى المساكين قد أرسلني:  والمنسحقين بلأسر والحزانى:  ولأنادى بعام مقبول لخلاص النفوس.
+                  </Language>         
+               </Text>                
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) C~mou e~pi,~lom n~te ]rompi hiten tekmet,~r/ctoc P[oic:
+            </Language>
+            <Language id="English">
+               Alleluia (4) Bless the crown of the year with Your goodness, O Lord.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) بارك اكليل السنة بصلاحك، يارب.
+            </Language>         
+         </Text>         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

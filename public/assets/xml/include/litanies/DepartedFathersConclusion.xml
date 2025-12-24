@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/litanies/DepartedFathersDeacon"/>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Arikataxoin mamton nac nem n/eyouab n~tak.
+         </Language>
+         <Language id="English">
+            Graciously repose him with your saints.
+         </Language>
+         <Language id="Arabic">
+            تفضلْ نيِّحْها مع قديسيكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Eke~er,arizecye eyrektaho nan eratf n~oumanecwou e~nanef: eyrefamoni m~peklaoc qen outoubo nem oumeym/i.
+         </Language>
+         <Language id="English">
+            Grant to appoint for us a good shepherd to shepherd Your people in purity and righteousness.
+         </Language>
+         <Language id="Arabic">
+            أَنعِمْ بأن تُقيمَ لنا راعياً صالحاً ليرعَى شعبَكَ بالطهارةِ والعدلِ.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            If a metropolitan or a bishop is present, he adds:
+         </Language>
+         <Language id="Arabic">
+            وفي وجود مطران أو أسقف يضاف:
+         </Language>      
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ariv~meui~ P[oic m~peniwt ettai/out e~pickopou (m/tropolitou) Abba (...)
+         </Language>
+         <Language id="English">
+            Remember O Lord, our honored father the Bishop (Metropolitan), Abba (...)
+         </Language>
+         <Language id="Arabic">
+            أذكُرْ ياربُّ أبينا الطوباويّ الأسقف أنبا (...)،
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">                  
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen peniwt ettai/out n~e~pickopoc (m~m/tropolit/c) Abba (...)
+         </Language>
+         <Language id="English">
+            Pray for our honored father the Bishop (Metropolitan) Abba (...)
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن أبينا الطوباويّ الأسقف أنبا (...)،
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            ke twn oryodoxwn /~mwn e~pickopwn.
+         </Language>
+         <Language id="English">
+            and for our orthodox bishops. 
+         </Language>
+         <Language id="Arabic">
+            وسائر أساقفتنا ألأرثوذكسيين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

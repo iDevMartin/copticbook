@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelRaphael:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Archangel Raphael</Language>
+            <Language id="Arabic">ذوكصولوجية لرئيس الملائكة رافائيل</Language>
+            <Language id="Coptic">Genea~ niben...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Raphael:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Genea~ niben e~tauswpi: icjen Adam sa e~qoun e~voou: cejimi gar n~Rava/l: efoi n~cobt e~]metrwmi.
+            </Language>
+            <Language id="English">
+               Every generation that was from, Adam to this day, find Raphael, a fortress for mankind.
+            </Language>
+            <Language id="Arabic">
+               كل الأجيال الذين كانوا من آدم إلى اليوم يجدون رافائيل حصنا للبشرية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Vouai v~ouai n~te nik~rit/c: nip~rov/t/c nem niy~m/i: nem niourwou n~dikewc: n~yof etoi n~nas] nwou.
+            </Language>
+            <Language id="English">
+               Each one of the judges, the prophets and the just, and the righteous kings, were supported by him.
+            </Language>
+            <Language id="Arabic">
+               وكل واحد من القضاة والأنبياء والأبرار والملوك والصديقين كان ناصرا لهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nenio] e#y#u# n~a~poctoloc: n~yof e~ter[aumwit qajwou: san~toutacyo n~]oikoumen/: e~qoun e~p~couen ]meym/i.
+            </Language>
+            <Language id="English">
+               He has guided, our holy fathers the Apostles, until they restored the world, to the knowledge of the Truth.
+            </Language>
+            <Language id="Arabic">
+               وآباؤنا القديسون الرسل هو الذي أرشدهم حتى ردوا المسكونة إلى معرفة الحق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Niaylit/c m~marturoc: n~te Peno#c# I/#c# P,#c#: m~pefcenou e~bol m~p~t/rf: san~touervorin m~pi,~lom n~atlwm.
+            </Language>
+            <Language id="English">
+               He did not forsake, any of the struggling martyrs, of our Lord Jesus Christ, until they wore the unfading crown.
+            </Language>
+            <Language id="Arabic">
+               والشهداء المجاهدون الذين لربنا يسوع المسيح لم يفارقهم جميعا حتى لبسوا الإكليل غير المضمحل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nikecwtp n~ack/t/c: etcwrem e~bol hi nisafeu: Rava/l hikwt e~rwou: san~toujwk m~poubioc e~bol.
+            </Language>
+            <Language id="English">
+               The chosen ascetics, who were lost in the wilderness, Raphael surrounded them, until they completed their lives.
+            </Language>
+            <Language id="Arabic">
+               والنساك المختارون التائهون في البراري كان رافائيل يحيط بهم حتى أكملوا سعيهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Sare p~aggeloc m~Po#c#: hikwt m~p~kw] n~ouon niben: e~terho] qa tefh/: safrwic e~rwou ouoh safnahmou.
+            </Language>
+            <Language id="English">
+               Wherefore the angel of the Lord, surrounds everyone, who fears the face of God, he guards and delivers them.
+            </Language>
+            <Language id="Arabic">
+               ملاك الرب يحيط بكل خائفيه يحرسهم وينجيهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Maren]wou~ n~}t~riac: e#y#u# n~o~mooucioc: hina n~tefa~reh e~ron: e~bol qen nipiracmoc.
+            </Language>
+            <Language id="English">
+               Let us glorify the Holy, and Coessential Trinity, so that He may keep us, away from temptations.
+            </Language>
+            <Language id="Arabic">
+               فلنمجد الثالوث القدوس المساوى لكى يحفظنا من التجارب.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/ArchangelRaphael"/>
+      </Section>
+   </Season>
+</Document>

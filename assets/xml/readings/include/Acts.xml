@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <BibleReference reference="Acts 3:12-21" type="section"/>
+   </Season>
+   
+   <Season id="AnnunciationRaw | (Joyful29thOfTheMonthRaw ^ (5thSundayOfFirstSixMonths | 5thSundayOfLastSixMonths))">
+      <BibleReference reference="Acts 7:23-34" type="section"/>
+   </Season>
+
+   <Season id="ApostlesFeast">
+      <BibleReference reference="Acts 3:1-16" type="section"/>
+   </Season>
+
+   <Season id="Ascension">
+      <BibleReference reference="Acts 1:1-14" type="section"/>
+   </Season>
+
+   <Season id="Circumcision">
+      <BibleReference reference="Acts 15:13-21" type="section"/>
+   </Season>
+
+   <Season id="CopticNewYear">
+      <BibleReference reference="Acts 17:16-34" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.3">
+      <BibleReference reference="Acts 10:34-43" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.4">
+      <BibleReference reference="Acts 4:1-13" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.5">
+      <BibleReference reference="Acts 4:13-22" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.6">
+      <BibleReference reference="Acts 13:34-42" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.7">
+      <BibleReference reference="Acts 4:19-31" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.9">
+      <BibleReference reference="Acts 4:1-4" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.10">
+      <BibleReference reference="Acts 4:5-7" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.11">
+      <BibleReference reference="Acts 4:8-12" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.12">
+      <BibleReference reference="Acts 4:13-18" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.13">
+      <BibleReference reference="Acts 4:19-21" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.14">
+      <BibleReference reference="Acts 9:31-35" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.16">
+      <BibleReference reference="Acts 4:23-27" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.17">
+      <BibleReference reference="Acts 4:27-31" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.18">
+      <BibleReference reference="Acts 4:32-35" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.19">
+      <BibleReference reference="Acts 5:1-6" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.20">
+      <BibleReference reference="Acts 5:5-11" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.21">
+      <BibleReference reference="Acts 5:12-20" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.23">
+      <BibleReference reference="Acts 5:21-25" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.24 | PentecostPeriod.38">
+      <BibleReference reference="Acts 5:27-29" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.25">
+      <BibleReference reference="Acts 20:1-6" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.26">
+      <BibleReference reference="Acts 5:30-33" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.27">
+      <BibleReference reference="Acts 5:34-36" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.28">
+      <BibleReference reference="Acts 9:36-43" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.30">
+      <BibleReference reference="Acts 7:37-41" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.31">
+      <BibleReference reference="Acts 7:40-43" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.32">
+      <BibleReference reference="Acts 7:44-50" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.33">
+      <BibleReference reference="Acts 7:51-54" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.34">
+      <BibleReference reference="Acts 8:1-4" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.35">
+      <BibleReference reference="Acts 23:6-11" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.37">
+      <BibleReference reference="Acts 9:23-31" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.39">
+      <BibleReference reference="Acts 19:6-10" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.41">
+      <BibleReference reference="Acts 22:6-10" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.42">
+      <BibleReference reference="Acts 24:10-21" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.44">
+      <BibleReference reference="Acts 14:19-23" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.45">
+      <BibleReference reference="Acts 14:20-23" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.46">
+      <BibleReference reference="Acts 15:4-9" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.47">
+      <BibleReference reference="Acts 15:7-12" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.48">
+      <BibleReference reference="Acts 15:13-18" type="section"/>
+   </Season>
+
+   <Season id="PentecostPeriod.49">
+      <BibleReference reference="Acts 1:15-26" type="section"/>
+   </Season>
+
+   <Season id="ThomasSunday">
+      <BibleReference reference="Acts 17:16-34" type="section"/>
+   </Season>
+
+   <Season id="PentecostSunday2">
+      <BibleReference reference="Acts 20:1-12" type="section"/>
+   </Season>
+
+   <Season id="PentecostSunday3">
+      <BibleReference reference="Acts 10:37-43" type="section"/>
+   </Season>
+
+   <Season id="PentecostSunday4">
+      <BibleReference reference="Acts 14:8-23" type="section"/>
+   </Season>
+
+   <Season id="PentecostSunday5">
+      <BibleReference reference="Acts 9:1-20" type="section"/>
+   </Season>
+
+   <Season id="PentecostSunday6">
+      <BibleReference reference="Acts 20:1-16" type="section"/>
+   </Season>
+   
+   <Season id="Nativity">
+      <BibleReference reference="Acts 13:26-33" type="section"/>
+   </Season>
+
+   <Season id="HosannaSunday">
+      <BibleReference reference="Acts 28:11-31" type="section"/>
+   </Season>
+
+   <Season id="ParemhotepFeastOfTheCross | ThooutFeastOfTheCross1">
+      <BibleReference reference="Acts 10:34-43" type="section"/>
+   </Season>
+
+   <Season id="Pentecost">
+      <BibleReference reference="Acts 2:1-21" type="section"/>
+   </Season>
+
+   <Season id="PresentationInTemple">
+      <BibleReference reference="Acts 15:13-21" type="section"/>
+   </Season>
+
+   <Season id="Resurrection">
+      <BibleReference reference="Acts 2:22-28" type="section"/>
+   </Season>
+
+   <Season id="Theophany">
+      <BibleReference reference="Acts 18:24-19:6" type="section"/>
+   </Season>
+
+   <Season id="ThooutFeastOfTheCross2">
+      <BibleReference reference="Acts 4:8-18" type="section"/>
+   </Season>
+
+   <Season id="ThooutFeastOfTheCross3">
+      <BibleReference reference="Acts 3:12-21" type="section"/>
+   </Season>
+
+   <Season id="Transfiguration">
+      <BibleReference reference="Acts 7:44-8:1" type="section"/>
+   </Season>
+
+   <Season id="WeddingCana">
+      <BibleReference reference="Acts 8:3-13" type="section"/>
+   </Season>
+
+   <Season id="EntranceOfTheHolyFamily">
+      <BibleReference reference="Acts 7:20-34" type="section"/>
+   </Season>
+
+   <Season id="FirstSundayOfKoiahk">
+      <BibleReference reference="Acts 1:1-14" type="section"/>
+   </Season>
+
+   <Season id="FourthSundayOfKoiahk">
+      <BibleReference reference="Acts 7:8-22" type="section"/>
+   </Season>
+
+   <Season id="SecondSundayOfKoiahk">
+      <BibleReference reference="Acts 7:30-34" type="section"/>
+   </Season>
+
+   <Season id="ThirdSundayOfKoiahk">
+      <BibleReference reference="Acts 7:35-50" type="section"/>
+   </Season>
+
+   <Season id="DayAfterNativity">
+      <BibleReference reference="Acts 13:36-43" type="section"/>
+   </Season>
+
+   <Season id="DayAfterResurrection">
+      <BibleReference reference="Acts 3:1-20" type="section"/>
+   </Season>
+
+   <Season id="DayAfterTheophany">
+      <BibleReference reference="Acts 8:26-39" type="section"/>
+   </Season>
+
+   <Season id="FirstSundayOfThoout">
+      <BibleReference reference="Acts 13:25-33" type="section"/>
+   </Season>
+
+   <Season id="FourthSundayOfThoout">
+      <BibleReference reference="Acts 9:36-42" type="section"/>
+   </Season>
+
+   <Season id="SecondSundayOfThoout">
+      <BibleReference reference="Acts 11:19-26" type="section"/>
+   </Season>
+
+   <Season id="ThirdSundayOfThoout">
+      <BibleReference reference="Acts 9:22-31" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSaturday0">
+      <BibleReference reference="Acts 21:1-14" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday0">
+      <BibleReference reference="Acts 21:15-26" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday1">
+      <BibleReference reference="Acts 21:40-22:16" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday2">
+      <BibleReference reference="Acts 23:1-11" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday3">
+      <BibleReference reference="Acts 24:1-23" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday4">
+      <BibleReference reference="Acts 25:13-26:1" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday5">
+      <BibleReference reference="Acts 26:19-27:8" type="section"/>
+   </Season>
+
+   <Season id="GreatFastSunday6">
+      <BibleReference reference="Acts 27:27-37" type="section"/>
+   </Season>
+
+   <Season id="5thSundayOfFirstSixMonths">
+      <BibleReference reference="Acts 18:9-21" type="section"/>
+   </Season>
+
+   <Season id="5thSundayOfLastSixMonths">
+      <BibleReference reference="Acts 24:1-9" type="section"/>
+   </Season>
+
+   <Season id="NativityParamoun">
+      <BibleReference reference="Acts 13:13-25" type="section"/>
+   </Season>
+
+   <Season id="TheophanyParamoun">
+      <BibleReference reference="Acts 16:25-34" type="section"/>
+   </Season>
+
+   <Season id="JonahPassover">
+      <BibleReference reference="Acts 3:22-26" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.1">
+      <BibleReference reference="Acts 2:38-47" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.2">
+      <BibleReference reference="Acts 17:30-34" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.3">
+      <BibleReference reference="Acts 15:12-20" type="section"/>
+   </Season>
+
+   <Season id="FirstMondayOfGreatFast">
+      <BibleReference reference="Acts 14:19-28" type="section"/>
+   </Season>
+
+   <Season id="LastFridayOfGreatFast">
+      <BibleReference reference="Acts 15:1-18" type="section"/>
+   </Season>
+
+   <Season id="LazarusSaturday">
+      <BibleReference reference="Acts 27:38-28:10" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.2">
+      <BibleReference reference="Acts 5:34-42" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.3">
+      <BibleReference reference="Acts 10:9-20" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.4">
+      <BibleReference reference="Acts 8:3-13" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.5">
+      <BibleReference reference="Acts 2:42-3:9" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.6">
+      <BibleReference reference="Acts 21:27-39" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.8">
+      <BibleReference reference="Acts 4:36-5:11" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.9">
+      <BibleReference reference="Acts 4:13-22" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.10">
+      <BibleReference reference="Acts 5:3-11" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.11">
+      <BibleReference reference="Acts 12:12-23" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.12">
+      <BibleReference reference="Acts 15:22-31" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.13">
+      <BibleReference reference="Acts 22:17-30" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.15">
+      <BibleReference reference="Acts 17:10-14" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.16">
+      <BibleReference reference="Acts 27:9-12" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.17">
+      <BibleReference reference="Acts 28:7-11" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.18">
+      <BibleReference reference="Acts 28:1-6" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.19">
+      <BibleReference reference="Acts 23:6-11" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.20">
+      <BibleReference reference="Acts 23:12-35" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.22">
+      <BibleReference reference="Acts 11:2-18" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.23">
+      <BibleReference reference="Acts 27:1-3" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.24">
+      <BibleReference reference="Acts 11:26-12:2" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.25">
+      <BibleReference reference="Acts 4:19-31" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.26 | GreatFast.44">
+      <BibleReference reference="Acts 22:17-24" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.27">
+      <BibleReference reference="Acts 24:24-25:12" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.29">
+      <BibleReference reference="Acts 10:25-35" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.30">
+      <BibleReference reference="Acts 24:10-23" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.31">
+      <BibleReference reference="Acts 11:12-18" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.32">
+      <BibleReference reference="Acts 21:5-14" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.33">
+      <BibleReference reference="Acts 15:36-16:3" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.34">
+      <BibleReference reference="Acts 26:1-18" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.36">
+      <BibleReference reference="Acts 18:9-18" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.37">
+      <BibleReference reference="Acts 19:11-20" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.38">
+      <BibleReference reference="Acts 26:1-8" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.39">
+      <BibleReference reference="Acts 27:16-20" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.40">
+      <BibleReference reference="Acts 8:9-17" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.41">
+      <BibleReference reference="Acts 27:9-26" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.43">
+      <BibleReference reference="Acts 9:22-31" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.45">
+      <BibleReference reference="Acts 19:23-26" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.46">
+      <BibleReference reference="Acts 25:23-26:6" type="section"/>
+   </Season>
+
+   <Season id="Epep.1stSunday">
+      <BibleReference reference="Acts 5:12-21" type="section"/>
+   </Season>
+
+   <Season id="Epep.2ndSunday">
+      <BibleReference reference="Acts 5:19-23" type="section"/>
+   </Season>
+
+   <Season id="Epep.3rdSunday">
+      <BibleReference reference="Acts 18:12-23" type="section"/>
+   </Season>
+
+   <Season id="Epep.4thSunday">
+      <BibleReference reference="Acts 19:11-22" type="section"/>
+   </Season>
+
+   <Season id="Hathor.1stSunday">
+      <BibleReference reference="Acts 10:37-11:1" type="section"/>
+   </Season>
+
+   <Season id="Hathor.2ndSunday">
+      <BibleReference reference="Acts 5:19-29" type="section"/>
+   </Season>
+
+   <Season id="Hathor.3rdSunday">
+      <BibleReference reference="Acts 5:30-42" type="section"/>
+   </Season>
+
+   <Season id="Hathor.4thSunday">
+      <BibleReference reference="Acts 16:40-17:7" type="section"/>
+   </Season>
+
+   <Season id="Meshir.1stSunday">
+      <BibleReference reference="Acts 9:3-9" type="section"/>
+   </Season>
+
+   <Season id="Meshir.2ndSunday">
+      <BibleReference reference="Acts 18:9-21" type="section"/>
+   </Season>
+
+   <Season id="Meshir.3rdSunday">
+      <BibleReference reference="Acts 20:7-16" type="section"/>
+   </Season>
+
+   <Season id="Meshir.4thSunday">
+      <BibleReference reference="Acts 8:5-13" type="section"/>
+   </Season>
+
+   <Season id="Mesore.1stSunday">
+      <BibleReference reference="Acts 19:23-41" type="section"/>
+   </Season>
+
+   <Season id="Mesore.2ndSunday">
+      <BibleReference reference="Acts 20:1-12" type="section"/>
+   </Season>
+
+   <Season id="Mesore.3rdSunday">
+      <BibleReference reference="Acts 21:8-14" type="section"/>
+   </Season>
+
+   <Season id="Mesore.4thSunday">
+      <BibleReference reference="Acts 11:19-30" type="section"/>
+   </Season>
+
+   <Season id="Nesi.1stSunday">
+      <BibleReference reference="Acts 2:14-21" type="section"/>
+   </Season>
+
+   <Season id="Paone.1stSunday">
+      <BibleReference reference="Acts 12:25-13:12" type="section"/>
+   </Season>
+
+   <Season id="Paone.2ndSunday">
+      <BibleReference reference="Acts 14:8-22" type="section"/>
+   </Season>
+
+   <Season id="Paone.3rdSunday">
+      <BibleReference reference="Acts 17:1-12" type="section"/>
+   </Season>
+
+   <Season id="Paone.4thSunday">
+      <BibleReference reference="Acts 18:1-11" type="section"/>
+   </Season>
+
+   <Season id="Paope.1stSunday">
+      <BibleReference reference="Acts 13:36-43" type="section"/>
+   </Season>
+
+   <Season id="Paope.2ndSunday | Tobe.1stSunday">
+      <BibleReference reference="Acts 14:24-15:3" type="section"/>
+   </Season>
+
+   <Season id="Paope.3rdSunday">
+      <BibleReference reference="Acts 15:4-12" type="section"/>
+   </Season>
+
+   <Season id="Paope.4thSunday">
+      <BibleReference reference="Acts 15:36-16:5" type="section"/>
+   </Season>
+
+   <Season id="Pashons.3rdSunday">
+      <BibleReference reference="Acts 13:44-52" type="section"/>
+   </Season>
+
+   <Season id="Pashons.4thSunday | Tobe.4thSunday">
+      <BibleReference reference="Acts 11:2-18" type="section"/>
+   </Season>
+
+   <Season id="Tobe.2ndSunday">
+      <BibleReference reference="Acts 15:22-29" type="section"/>
+   </Season>
+
+   <Season id="Tobe.3rdSunday">
+      <BibleReference reference="Acts 2:38-45" type="section"/>
+   </Season>
+
+   <Season id="Epep.1 | Epep.17 | Epep.28 | Hathor.10 | Koiahk.26 | Mesore.15 | Mesore.2 | Mesore.21 | Mesore.6 | Paope.1 | Paope.6 | Thoout.10 | Thoout.20 | Thoout.29 | Thoout.5 | Tobe.24 | Tobe.29 | Tobe.30">
+      <BibleReference reference="Acts 21:5-14" type="section"/>
+   </Season>
+
+   <Season id="Epep.3 | Hathor.1 | Hathor.13 | Hathor.17 | Hathor.21 | Hathor.30 | Hathor.6 | Koiahk.1 | Koiahk.15 | Koiahk.6 | Meshir.14 | Meshir.18 | Meshir.27 | Meshir.7 | Mesore.14 | Mesore.18 | Paone.28 | Paope.11 | Paope.17 | Paope.2 | Paope.3 | Paope.5 | Paope.9 | Pashons.28 | Pashons.30 | Thoout.13 | Thoout.3 | Thoout.30 | Thoout.7 | Tobe.2 | Tobe.7 | Tobe.8">
+      <BibleReference reference="Acts 20:17-38" type="section"/>
+   </Season>
+
+   <Season id="Epep.6 | Paone.1 | Paone.25 | Paope.26 | Pashons.22 | Thoout.15 | Thoout.24 | Tobe.1 | Tobe.20">
+      <BibleReference reference="Acts 6:1-7:2" type="section"/>
+   </Season>
+
+   <Season id="Epep.7 | Koiahk.25 | Koiahk.7 | Meshir.2 | Mesore.17 | Paope.20">
+      <BibleReference reference="Acts 15:12-21" type="section"/>
+   </Season>
+
+   <Season id="Epep.10 | Epep.13 | Epep.2 | Epep.9 | Hathor.14 | Hathor.20 | Hathor.23 | Hathor.28 | Hathor.4 | Koiahk.10 | Koiahk.19 | Koiahk.27 | Meshir.22 | Meshir.24 | Mesore.11 | Mesore.24 | Nesi.5 | Paone.14 | Paone.27 | Paone.3 | Paope.23 | Paope.30 | Pashons.17 | Pashons.23 | Pashons.27 | Thoout.9 | Tobe.18 | Tobe.23">
+      <BibleReference reference="Acts 15:36-16:5" type="section"/>
+   </Season>
+
+   <Season id="Epep.11 | Epep.22 | Koiahk.14 | Meshir.13 | Meshir.17 | Meshir.23 | Mesore.8 | Paone.11 | Thoout.11 | Thoout.22 | Tobe.16 | Tobe.27">
+      <BibleReference reference="Acts 19:23-41" type="section"/>
+   </Season>
+
+   <Season id="Epep.12 | Epep.24 | Epep.4 | Hathor.15 | Meshir.6 | Mesore.1 | Mesore.9 | Paone.15 | Paone.4 | Tobe.28">
+      <BibleReference reference="Acts 7:44-8:1" type="section"/>
+   </Season>
+
+   <Season id="Epep.14 | Epep.19 | Epep.30 | Epep.8 | Hathor.22 | Hathor.26 | Meshir.5 | Mesore.19 | Mesore.20 | Mesore.26 | Paone.10 | Paone.22 | Paope.27 | Pashons.18 | Thoout.27 | Thoout.28 | Tobe.19 | Tobe.9">
+      <BibleReference reference="Acts 19:11-20" type="section"/>
+   </Season>
+
+   <Season id="Epep.15 | Koiahk.17 | Meshir.9 | Mesore.3 | Paone.24 | Pashons.21 | Pashons.29 | Thoout.14">
+      <BibleReference reference="Acts 15:13-29" type="section"/>
+   </Season>
+
+   <Season id="Epep.16 | Epep.18 | Epep.29 | Hathor.18 | Koiahk.21 | Koiahk.24 | Koiahk.4 | Meshir.10 | Meshir.21 | Meshir.29 | Nesi.1 | Pashons.26 | Tobe.4">
+      <BibleReference reference="Acts 3:1-16" type="section"/>
+   </Season>
+
+   <Season id="Epep.20 | Meshir.25 | Meshir.28 | Paone.6 | Paope.15 | Paope.19">
+      <BibleReference reference="Acts 27:42-28:6" type="section"/>
+   </Season>
+
+   <Season id="Epep.21 | Epep.25 | Hathor.19 | Hathor.25 | Koiahk.8 | Paope.10 | Paope.28 | Paope.4 | Paope.8 | Pashons.25 | Tobe.5">
+      <BibleReference reference="Acts 12:25-13:12" type="section"/>
+   </Season>
+
+   <Season id="Epep.23 | Hathor.27 | Hathor.5 | Koiahk.16 | Mesore.10 | Paope.29">
+      <BibleReference reference="Acts 15:13-21" type="section"/>
+   </Season>
+
+   <Season id="Epep.26 | Koiahk.20 | Koiahk.23 | Koiahk.5 | Meshir.26 | Mesore.22 | Mesore.4 | Paone.20 | Paone.26 | Paone.9 | Paope.21 | Thoout.25 | Thoout.4 | Thoout.6 | Thoout.8 | Tobe.15">
+      <BibleReference reference="Acts 15:21-29" type="section"/>
+   </Season>
+
+   <Season id="Epep.27 | Hathor.7 | Mesore.23 | Mesore.27 | Paone.19 | Paone.7">
+      <BibleReference reference="Acts 16:16-34" type="section"/>
+   </Season>
+
+   <Season id="Hathor.2 | Hathor.29 | Meshir.11 | Meshir.20 | Paone.18 | Paope.16 | Paope.18">
+      <BibleReference reference="Acts 12:1-24" type="section"/>
+   </Season>
+
+   <Season id="Hathor.3 | Hathor.9 | Meshir.1 | Thoout.12">
+      <BibleReference reference="Acts 11:15-24" type="section"/>
+   </Season>
+
+   <Season id="Hathor.8">
+      <BibleReference reference="Acts 11:2-14" type="section"/>
+   </Season>
+
+   <Season id="Hathor.12 | Paone.12">
+      <BibleReference reference="Acts 10:1-20" type="section"/>
+   </Season>
+
+   <Season id="Hathor.16 | Koiahk.11 | Koiahk.12 | Koiahk.2 | Meshir.12 | Meshir.15 | Meshir.19 | Meshir.3 | Mesore.25 | Nesi.4 | Paone.16 | Paone.29 | Paope.13 | Paope.25 | Paope.7 | Pashons.20 | Tobe.14 | Tobe.17 | Tobe.25">
+      <BibleReference reference="Acts 18:24-19:6" type="section"/>
+   </Season>
+
+   <Season id="Hathor.24">
+      <BibleReference reference="Acts 15:6-12" type="section"/>
+   </Season>
+
+   <Season id="Koiahk.9 | Paone.17 | Paone.23 | Paone.5 | Paope.24 | Pashons.19 | Tobe.22">
+      <BibleReference reference="Acts 11:19-26" type="section"/>
+   </Season>
+
+   <Season id="Koiahk.13 | Meshir.16 | Mesore.7 | Thoout.26 | Hathor.11">
+      <BibleReference reference="Acts 7:2-7" type="section"/>
+   </Season>
+
+   <Season id="Koiahk.18 | Koiahk.3 | Meshir.4 | Mesore.16 | Paone.21 | Paope.22 | Tobe.21">
+      <BibleReference reference="Acts 1:1-14" type="section"/>
+   </Season>
+
+   <Season id="Koiahk.22 | Nesi.3 | Paone.13">
+      <BibleReference reference="Acts 10:21-33" type="section"/>
+   </Season>
+
+   <Season id="Mesore.5 | Tobe.26">
+      <BibleReference reference="Acts 8:3-13" type="section"/>
+   </Season>
+
+   <Season id="Mesore.12">
+      <BibleReference reference="Acts 10:34-43" type="section"/>
+   </Season>
+
+   <Season id="Mesore.28 | Paone.8">
+      <BibleReference reference="Acts 7:20-34" type="section"/>
+   </Season>
+
+   <Season id="Mesore.29">
+      <BibleReference reference="Acts 5:34-42" type="section"/>
+   </Season>
+
+   <Season id="Mesore.30">
+      <BibleReference reference="Acts 7:30-37" type="section"/>
+   </Season>
+
+   <Season id="Nesi.2">
+      <BibleReference reference="Acts 14:1-8" type="section"/>
+   </Season>
+
+   <Season id="Nesi.6">
+      <BibleReference reference="Acts 11:12-18" type="section"/>
+   </Season>
+
+   <Season id="Paone.2">
+      <BibleReference reference="Acts 13:25-33" type="section"/>
+   </Season>
+
+   <Season id="Paone.30">
+      <BibleReference reference="Acts 7:8-22" type="section"/>
+   </Season>
+
+   <Season id="Paope.12">
+      <BibleReference reference="Acts 5:12-18" type="section"/>
+   </Season>
+
+   <Season id="Paope.14">
+      <BibleReference reference="Acts 8:26-39" type="section"/>
+   </Season>
+
+   <Season id="Thoout.2">
+      <BibleReference reference="Acts 12:1-12" type="section"/>
+   </Season>
+
+   <Season id="Thoout.16">
+      <BibleReference reference="Acts 9:31-43" type="section"/>
+   </Season>
+
+   <Season id="Thoout.21 | Thoout.23">
+      <BibleReference reference="Acts 19:11-17" type="section"/>
+   </Season>
+
+   <Season id="Tobe.3">
+      <BibleReference reference="Acts 9:22-30" type="section"/>
+   </Season>
+</Document>

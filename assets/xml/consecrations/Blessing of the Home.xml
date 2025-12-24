@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" HomeBlessing="true">
+   <Title>
+      <Language id="English">Blessing of the Home</Language>
+      <Language id="Arabic">صلاة تبريك المنازل</Language>
+   </Title>
+   
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/agpeya/psalms/50"/>
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   <InsertDocument path="include/litanies/Sick"/>
+   <InsertDocument path="include/litanies/Catechumens"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">First Litany</Language>
+         <Language id="Arabic">الطلبة الاولي</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord the All Holy and Revered God, Who is glorified in His works, whose power is beyond understanding, and Whose wisdom is immeasurable, Who created heavens by His command, and established the earth upon the waters, Who raised the mountains to their measure and the hills in their proportion. We ask You, O Lord to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها الرب الاله القدوس المخوف الممجد فى جميع أعماله وقوته غير المدركه الذى لا تستقصى أحكامه، الذى خلق السموات بأمره وثبت الأرض على المياه، الذى أقام الجبال بمعيار، والتلال بميزان. نسألك يا رب اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord, Who gave boundary to the sea and established islands on the abundant waters, Who touched the mountains and they smoked. We ask You, our Master, to bless this place that Your servant (...) has chosen for his/her dwelling and hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               الذى جعل للبحر حدا وثبت جزرا فى المياه الكثيرة، الذى يمس الجبال فتدخن، نسالك يا سيدنا بارك هذا المكان الذى اختاره عبدك (فلان ) لسكناه، نسألك يارب اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You Who are clothed with light for a garment, and Who extended the heavens as a tent, and established the waters above the firmament. We ask You, O Lord to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها اللابس النور مثل الثوب والباسط السماء مثل الخيمة، وجعل المياه فوق الجلد، نسألك يا الهنا اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord Who established the earth and created the water and made it flow upon the face of the earth, and separated it from the land by Your Great Power; we ask You, our Master, bless this house that Your servant (...) has chosen for his/her dwelling, and hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               الذى أسس الأرض وخلق الماء وسكبه على وجه الأرض وفصلة عن اليابس بقوته العظيمة، نسألك يا سيدنا بارك هذا المنزل الذى اتخذه عبدك (فلان) لسكناه واسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord God of Powers, the Healer of every sickness and every infirmity look from heaven on high and answer our prayers, bestow Your blessing upon Your servant (...) and upon this place that he/she has chosen for his/her dwelling. Keep him/her away from all the works of the devils, and cast away from him/her all the unclean spirits. We ask You, O Lord to hear us and have mercy on us. 
+            </Language>
+            <Language id="Arabic">
+               أيها الرب اله القوات الشافى كل مرض وكل ضعف، اطلع من أعلى سمائك واستجب لدعائنا وبارك على عبدك ( فلان ) وعلى هذا المكان الذى اتخذه لسكناه، وابعد عنه كل فعل الشياطين، واطرد عنه كل الأرواح الشريره النجسه وانتهرها، نسألك يا سيدنا اسمعنا وارحمنا. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord, Who are seated upon the throne of the Cherubim, examining the depths of the hearts; Who is feared by the angels, the archangels, the principalities, the dominions, the thrones and all powers; Who the heavens, the earth, the sea and everything therein also fear: Bless, O Lord, Your servant (…) and grant that he/she successfully complete all his/her activities with Your grace and favor.
+            </Language>
+            <Language id="Arabic">
+               أيها الجالس على الشاروبيم الناظر الى الأعماق، الذى ترتعد منه الملائكة ورؤساء الملائكة والكراسى والأرباب والسلاطين والقوات، الذى تجزع منه السموات والأرض والبحار وكل ما فيها. بارك يا رب عبدك (فلان) وبارك على جميع أعماله وكملها وأقرنها بالنجاح والنعمة والبركة،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Guide his/her way according to Your Will, and conclude his/her days in righteousness and piety. Through the intercession of the Virgin Mother of God, the martyrs and the holy saints. We ask You, O Lord to hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               وقوم سبلة فى رضاك واختم أيامه بالصلاح والتقوى، بشفاعة العذراء والدة الاله وجميع الشهداء والأبرار نسألك يارب اسمعنا وارحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+   
+   <Role id="People">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology</Language>
+            <Language id="Arabic">الذوكصولوجية</Language>
+         </Title>
+         
+         <InsertDocument path="include/praises/theotokia/Monday9.1"/>
+         <InsertDocument path="include/praises/theotokia/Monday9.2"/>
+      
+         <Text>
+            <Language id="Coptic">
+               K~c~marwout a~l/ywc: w~ Pa[oic I/couc nem pekiwt n~agayoc: nem pip~neuma eyouab: je aki akcw] m~mon nai nan. 
+            </Language>
+            <Language id="English">
+               Blessed are You in truth, O Jesus our Lord, with Your good Father and the Holy Spirit, for You came and saved us.
+            </Language>
+            <Language id="Arabic">
+               بالحقيقة تباركت أيها المسيح الهنا، مع أبيك الصالح والروح القدس لأنك أتيت وخلصتنا.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Second Litany</Language>
+         <Language id="Arabic">الطلبة الثانية</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the heavenly peace, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل السلام السمائى من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For this house and its sanctification, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا البيت وتقديسه من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the head of our priests, the Pope (...) and his brethren, our Metropolitans, our Bishops and all clerical ranks, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل رئيس كهنتنا البابا الأنبا (...) وشركائه مطارنتنا وأساقفتنا وكل مصاف الأكليروس من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the sake of this city, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذة المدينة من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the healing of the sick and for those Who are suffering form unclean spirits and the spirit of sickness, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل شفاء المرضى والمعذبين من الأرواح النجسة وروح المرض من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the travelers by air, sea, land or the many paths, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل المسافرين فى الجو والبحر والبر وكل الطرق المسلوكة من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the moderation of the winds, the blessing of the waters and the fruits of the earth, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من أجل اعتدال الأهوية وبركة مياة الأنهار وثمار الأرض من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the visitation of the whole world by the mercies of our Good Lord, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل افتقاد كل العالم بمراحم الهنا الصالح من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the repose of the souls of all our fathers and brethren who have gone to their rest in the Orthodox faith, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل نياح انفس جميع آبائنا واخوتنا الراقدين في الايمان الأرثوذكسي من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For our kings and presidents, who love Christ; let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل ملوكنا ورؤسائنا محبي المسيح من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For our sacrifices and those who are offering them as well as those by whom and for whom they are being offered, and also those who wished to offer sacrifices but could not afford, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل قرابيننا ومقدميها، ومن قدمت بواسطتهم ومن قدمت عنهم ومن ارادوا ان يقدموا وليس لهم من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the sanctification of this water by the power, the action and the descending of the Holy Spirit, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل تقديس هذا الماء بقوة الروح القدس وفعله وحلوله من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               That the grace of purification descends on it through the power of the Holy Trinity, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل ان تحل فيه نعمة التطهير بفعل الثالوث القدوس من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               That this water becomes a healer for minds, bodies, and souls, and an expeller of all adversary forces. Let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل ان يصير هذا الماء شافيا للاجساد والارواح وطاردا لكل قوة مضادة من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For those who need help and strength from God, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل المحتاجين الي المعونة والقوة من الله من الرب نطلب. 
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For our continued steadfastness in the Orthodox faith, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل دوام ثباتنا علي الايمان الارثوذكسي من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               That we remain protected by the exalted Hand that is Yours O God. Through the intercession of our Lady, the pride of mankind, the immaculate Mother of God, and the intercession of all the hosts of martyrs and saints, let us pray to the Lord.
+            </Language>
+            <Language id="Arabic">
+               من اجل حفظنا تحت اليد العالية التي لك يا الله بشفاعة سيدتنا وفخر جنسنا والدة الاله الطاهرة وكل مصاف الشهداء والقديسين من الرب نطلب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+   
+   <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   
+   <Role id="Reader">
+      <BibleReference reference="Romans 8:14-21" type="section"/>
+   </Role>
+      
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>   
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Role id="Priest">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Concluding Prayer</Language>
+            <Language id="Arabic">الخاتمة</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               O our God, You are Great in Your thoughts and wonderful in Your works, the Maker of all Creation; seen and unseen. You keep Your covenant, and bestow Your mercies on those who love You with all their hearts, and who observe Your covenant and commandments.
+            </Language>
+            <Language id="Arabic">
+               ايها الرب الهنا العظيم فى افكاره العجيب فى افعاله البارى الخليقة كلها المنظورة وغير المنظورة الحافظ عهده ورحمته للذين يحبونه من كل قلوبهم وللحافظين عهده ووصاياه 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You respond to the tearful eyes and have sympathy for those who are in tribulations. For this You came down and took the form of a servant, giving healing to the body. O Lord, You said to the palsied: “Lo you have become whole, do not sin again;” O Lord, You made clay 
+            </Language>
+            <Language id="Arabic">
+               الذى يقبل الدموع ويرثى للذين فى الشدائد. لانك لهذا اتيت فى صورة عبد واهبا الشفاء للجسد. يا من قلت للمخلع ها قد صرت معافى فلا تعود تخطئ ايضا يا من صنعت طينا 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               with which You anointed the eyes of the blind man and ordered him to wash and gave him back his eyesight with Your Word. O Lord, You have, shaken the rocks of adversary pain, silenced the waves of the tumultuous sea of this world, and calmed down the waves of worldly desires. 
+            </Language>
+            <Language id="Arabic">
+               وطليت عينى الاعمى وامرته بغسلها ووهبت له النور بكلمتك. يا من زعزعت صخور الامواج المضادة واسكت امواج بحر هذا العالم وهدأت امواج الشهوات الثقيلة. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               O King and Philanthropic One, Who have granted that we be clothed in pure white vestments of water and Spirit, send down Your purifying Grace through our drinking of this water and sprinkling it on ourselves, our houses, our household effects, and our properties. 
+            </Language>
+            <Language id="Arabic">
+               أنت ايها الملك المحب للبشر يا من وهبتنا أن نتسربل بحلة بيضاء من الماء والروح أرسل نعمتك المطهرة من الاوجاع بتناولنا من هذا الماء ونضحه علينا وعلى منازلنا وامتعتنا ومنقولاتنا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Yes, O Good Lord, we beseech You: visit us when we are sick, heal the infirmities of our minds and bodies, through the intercession of the Immaculate Mother of God, the Virgin Mary, and by the Power of Your honorable Cross, and through the intercessions of the heavenly hosts 
+            </Language>
+            <Language id="Arabic">
+               نعم ايها الصالح نسالك افتقدنا فى امراضنا واشف اسقام نفوسنا واجسادنا بشفاعة والدة الاله الطاهرة العذراء مريم وبقوة الصليب الكريم وبطلبات الاجناد السمائية 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               and all the martyrs and saints and all the cross bearers as we all pray to You: 
+            </Language>
+            <Language id="Arabic">
+               وكل مصاف الشهداء والقديسين وجميع لباس الصليب إذ نصلى أجمعين:
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+      
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>      
+   <InsertDocument path="include/AmenLordHaveMercy3"/>      
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Comment>
+      <Language id="English">
+         The priest signs the water breath on it with the cross the three signs and Then he sprinkles the water all over the house.
+      </Language>
+      <Language id="Arabic">
+         يرشم الكاهن الماء وينفخ بعلامة الصليب الثلاثة رشومات ثم يرش من المياه فى كل مرافق المنزل.
+      </Language>
+   </Comment>
+</Document>

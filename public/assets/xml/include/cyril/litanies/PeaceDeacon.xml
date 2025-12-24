@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Twbh e~jen ]hir/n/ n~te ]oui~ m~mauatc eyouab n~kayolik/ n~a~poctolik/ n~ekk~l/cia: nem p~oujai m~Vnou] qen nilaoc: nem oucemni qen mai niben: n~tef,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            Pray for the peace of the one, only, holy, catholic, and apostolic Church, for God’s salvation among the peoples, for dignity in all places, that He may forgive us our sins. 
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن سلامِ الكنيسةِ الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ، وخلاصِ اللهِ في الشعوبِ، والهدوءِ في كلِّ مكانٍ، ولِيغفِرَ لنا خطايانا.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

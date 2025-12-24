@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    <Text>
+      <Language id="Coptic">
+         Doxa ci Kurie. Am/n.
+      </Language>
+      <Language id="English">
+         Glory be to God forever. Amen.
+      </Language>
+      <Language id="Arabic">
+         والمجْدَ للَهِ دَائماً
+      </Language>
+   </Text>      
+   
+   <InsertDocument path="include/MayTheSayingsOfGod"/>
+   <InsertDocument path="include/TenouwstSeasonalResponse"/>
+   
+   <Comment>
+      <Language id="English">
+         Then these Troparia and Theotokion are said:         
+      </Language>
+      <Language id="Arabic">
+         ثُمَ يقول المُصلي
+      </Language>
+   </Comment>
+</Document>

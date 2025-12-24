@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Comment>
+         <Language id="English">
+            <ol>
+               <li>At the end of the service, Psalm 150 is not chanted, but the Psalm and Gospel for the Distribution are read.</li>
+               <li>The hymn “<span class="Coptic">Panou] Panou]</span>” (My God My God) is chanted in the tune of the great <span class="Coptic">Pih~mot gar</span> or <span class="Coptic">?~ a~gap/</span></li>
+            </ol> 
+         </Language>            
+      </Comment>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Psalm is chanted half in the Paschal “Edreebe” tune, and the other half in the standard tune.
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 68: 1</Language>
+               <Language id="Arabic">مزامير 68: 1</Language>
+            </Title>
+         
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            <BibleReference reference="Psalms 68:1" hideIntroConclusion="true"/>            
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/KeEperto"/>
+      
+      <Role id="Reader">
+         <Comment>
+            <Language id="English">
+               The Gospel is read, the first half in Paschal tune and the second half in annual tune.
+            </Language>
+            <Language id="Arabic">
+               ويقرأ الانجيل نصفه بلحن الحزن والنصف الآخر بالطريقة السنوية.
+            </Language>
+         </Comment>
+         
+         <BibleReference reference="Luke 24:1-12" type="section"/>
+      </Role>
+      
+      <InsertDocument path="include/PanotiPanoti"/>
+      
+      <Comment>
+         <Language id="English">
+            If the Distribution is not finished, the prophesies of Eve of the Resurrection are read. 
+         </Language>
+      </Comment>
+   </Season>
+</Document>

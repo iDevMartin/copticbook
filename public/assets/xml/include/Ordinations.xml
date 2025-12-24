@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Ordinations</Language>
+      <Language id="Arabic">الرسامات</Language>
+   </Title>
+   
+   <LinkDocument path="consecrations/ordinations/Chanter Ordination">
+      <Language id="English">Chanter</Language>
+      <Language id="Arabic">الأبصلتس</Language>
+   </LinkDocument> 
+   
+   <LinkDocument path="consecrations/ordinations/Reader Ordination">          
+      <Language id="English">Reader</Language>
+      <Language id="Arabic">الأغنسطس</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="consecrations/ordinations/Subdeacon Ordination">
+      <Language id="English">Subdeacon</Language>
+      <Language id="Arabic">الأيبوذياكون</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="consecrations/ordinations/Deacon Ordination">
+      <Language id="English">Deacon</Language>
+      <Language id="Arabic">الشماس</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="consecrations/ordinations/Archdeacon Ordination">
+      <Language id="English">Archdeacon</Language>
+      <Language id="Arabic">رئيس الشمامسة</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="consecrations/ordinations/Priest Ordination">
+      <Language id="English">Priest</Language>
+      <Language id="Arabic">الكاهن</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="consecrations/ordinations/Hegumen Ordination">
+      <Language id="English">Hegumen</Language>
+      <Language id="Arabic">القمص</Language>
+   </LinkDocument>
+   
+   <LinkDocument path="papal/Papal Enthronement">
+      <Language id="English">Papal Enthronement</Language>
+      <Language id="Arabic">تنصيب قداسة البابا</Language>
+   </LinkDocument>
+</Document>

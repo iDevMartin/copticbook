@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">The Confession</Language>
+      <Language id="Arabic">الاعتراف</Language>
+   </Title>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Cwma a~gion ke e~ma timion a~l/yinon I/cou &lt;rictou tou u~iou tou Yeou /~mwn: a~m/n.
+         </Language>
+         <Language id="English">
+            The Holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen.
+         </Language>
+         <Language id="Arabic">
+            جسد مقدس ودم كريم حقيقي، ليسوع المسيح ابن إلهنا. آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Agion timion cwma ke e~ma a~l/yinon: I/cou &lt;rictou tou u~iou tou Yeou /~mwn: a~m/n.
+         </Language>
+         <Language id="English">
+            The holy, precious Body and true Blood of Jesus Christ, the Son of our God. Amen.
+         </Language>
+         <Language id="Arabic">
+            مقدس وكريم، جسد ودم حقيقي، ليسوع المسيح ابن إلهنا. آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest">      
+      <Comment>
+         <Language id="English">
+            The Priest signs the Blood with the Despotikon and places It in the chalice, and says:     
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Picwma nem pic~nof n~te Emmanou/l Pennou] vai pe qen oumeym/i: a~m/n.
+         </Language>
+         <Language id="English">
+            The Body and the Blood of Immanuel our God; this is true. Amen.
+         </Language>
+         <Language id="Arabic">
+            جسد ودم عمانوئيل إلهنا، هذا هو بالحقيقة. آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n ]nah].
+         </Language>
+         <Language id="English">
+            Amen. I believe.
+         </Language>
+         <Language id="Arabic">
+            حقا أؤمن
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Group>
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Am/n a~m/n a~m/n: ]nah] ]nah] ]nah]: ouoh ]ero~mologin sa pinifi n~qae~. Je yai te ]carx n~reftanqo e~tak[itc w~ Pi,rictoc Panou] e~bolqen ten[oic t/ren ]yeo~tokoc eyouab ]a~gia Maria.
+               </Language>
+               <Language id="English">
+                  Amen. Amen. Amen. I believe, I believe, I believe and confess to the last breath that this is the life giving Flesh that You took, O Christ my God, from the Lady of us all, the holy Theotokos, Saint Mary.
+               </Language>
+               <Language id="Arabic">
+                  آمين. آمين. آمين. أؤمنُ. أؤمنُ. أؤمنُ. وأعترفُ إلى النفسِ الأخيرِ، أن هذا هو الجسدُ المحيي، الذي أخذتَه أيها المسيحُ إلهي من سيدتِنا كلِّنا والدةِ الإلهِ القديسةِ الطاهرةِ مريم
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Akaic n~ouai nem tekmeynou]: qen oumetatmoujt: nem oumetatywq: nem oumetatsib].
+               </Language>
+               <Language id="English">
+                  You made It one with Your divinity without mingling, without confusion, and without alteration.
+               </Language>
+               <Language id="Arabic">
+                  وجعلتَهُ واحداً مع لاهوتِكَ بغيرِ اختلاطٍ ولا امتزاجٍ ولا تغييرٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eakero~mologin n~]o~mologia eynanec nahren Pontioc Pilatoc.
+               </Language>
+               <Language id="English">
+                  You made the good confession before Pontius Pilate.
+               </Language>
+               <Language id="Arabic">
+                  واعترفتَ الاعترافَ الحسنَ أمامَ بيلاطُس البُنطي.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Akt/ic e~h~r/i e~jwn hijen pise eyouab n~te pic~tauroc: qen pekouws m~min m~mok e~h~r/i e~jwn t/ren.
+               </Language>
+               <Language id="English">
+                  You gave It up for us upon the holy wood of the Cross, of Your own will, for us all.
+               </Language>
+               <Language id="Arabic">
+                  وسلَّمتَهُ عنا على خشبةِ الصليبِ المقدسةِ، بإرادتِكَ وحدَكَ عنا كلِّنا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  }nah] je m~pe tekmeynou] vwrj e~tekmetrwmi: n~oucoucou n~ouwt oude ouriki m~bal.
+               </Language>
+               <Language id="English">
+                  I believe that Your divinity parted not from Your humanity for a single moment, nor a twinkling of an eye;
+               </Language>
+               <Language id="Arabic">
+                  [بالحقيقةِ] أؤمنُ، أن لاهوتَكَ لم يفارقْ ناسوتَكَ لحظةً واحدةً ولا طرفةَ عينٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eu] m~moc e~jwn n~oucw]: nem ou,w e~bol n~te ninobi: nem ouwnq n~e~neh: n~n/eyna[i e~bol n~q/tc.
+               </Language>
+               <Language id="English">
+                  given for us for salvation, remission of sins, and eternal life to those who partake of It.
+               </Language>
+               <Language id="Arabic">
+                  يُعطَى عنا خلاصاً وغفراناً للخطايا، وحياةً أبديةً لمن يتناولُ منُه.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  }nah] je yai te qen oumeym/i a~m/n.
+               </Language>
+               <Language id="English">
+                  I believe that this is true. Amen. 
+               </Language>
+               <Language id="Arabic">
+                  أؤمن. أن هذا هو بالحقيقةِ. آمين.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <Text>
+               <Language id="Coptic">
+                  Am/n a~m/n a~m/n: ]nah] ]nah] ]nah]: ouoh ]ero~mologin sa pinifi n~qae~.
+               </Language>
+               <Language id="English">
+                  Amen. Amen. Amen. I believe, I believe, I believe, and confess to the last breath
+               </Language>
+               <Language id="Arabic">
+                  آمين. آمين. آمين. أؤمنُ. أؤمنُ. أؤمنُ. وأعترفُ إلى النفسِ الأخيرِ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Je yai te ]carx n~reftanqo e~ta pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc: [itc e~bolqen ten[oic n~n/b t/ren ]yeo~tokoc eyouab ]a~gia Maria.
+               </Language>
+               <Language id="English">
+                  that this is the life-giving Flesh that Your only-begotten Son, our Lord, God, and Savior Jesus Christ, took from our Lady, the Lady of us all, the holy Theotokos, Saint Mary.
+               </Language>
+               <Language id="Arabic">
+                  أن هذا هو الجسدُ المحُيِي، الذي أخذَه إبنُكَ الوحيدُ، ربُّنا وإلهُنا ومخلِّصُنا يسوعُ المسيحُ من سيِّدتِنا، سيِّدتِنا كلِّنا والدةِ الإلهِ القديسةِ الطاهرةِ مريمَ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Afaic n~ouai nem tefmeynou]: qen oumetatmoujt nem oumetatywq nem oumetatsib].
+               </Language>
+               <Language id="English">
+                  He made It one with His divinity without mingling, without confusion, and without alteration.
+               </Language>
+               <Language id="Arabic">
+                  وجَعَلَهُ واحداً معَ لاهوتِهِ بغيرِ اختلاطٍ ولا امتزاجٍ ولا تغييرٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eafero~mologin n~]o~mologia eynanec nahren Pontioc Pilatoc.
+               </Language>
+               <Language id="English">
+                  He confessed the good confession before Pontius Pilate.
+               </Language>
+               <Language id="Arabic">
+                  واعترفَ الاعترافَ الحسنَ أمام بيلاطُسَ البُنْطِي.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Aft/ic e~h~r/i e~jwn: hijen pise eyouab n~te pic~tauroc: qen pefouws m~min m~mof e~h~r/i e~jwn t/ren.
+               </Language>
+               <Language id="English">
+                  He gave It up for us upon the holy wood of the Cross, of His own will, for us all.
+               </Language>
+               <Language id="Arabic">
+                  وسلَّمَهُ عنا على خشبةِ الصليبِ المقدسةِ، بإرادتِهِ وحدَهُ، عنا كلِّنا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Al/ywc ]nah] je m~pe tefmeynou] vwrj e~tefmetrwmi: n~oucoucou n~ouwt oude ourikim~bal.
+               </Language>
+               <Language id="English">
+                  Truly, I believe that His divinity parted not from His humanity for a single moment, nor a twinkling of an eye;
+               </Language>
+               <Language id="Arabic">
+                  بالحقيقةِ أؤمنُ، أن لاهوتَه لم يفارقْ ناسوتَه لحظةً واحدةً ولا طرفةَ عينٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eu] m~moc e~jwn n~oucw]: nem ou,w e~bol n~te ninobi: nem ouwnq n~e~neh: n~n/eyna[i e~bol n~q/tc.
+               </Language>
+               <Language id="English">
+                  given for us for salvation, remission of sins, and eternal life to those who partake of Him.
+               </Language>
+               <Language id="Arabic">
+                  يُعطَى عنا خلاصاً وغفراناً للخطايا، وحياةً أبديةً لمن يتناولُ مِنْهُ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  }nah] ]nah] ]nah] je yai te qen oumeym/i: a~m/n.
+               </Language>
+               <Language id="English">
+                  I believe, I believe, I believe that this is true. Amen.
+               </Language>
+               <Language id="Arabic">
+                  أؤمنُ. أؤمنُ. أؤمنُ أن هذا هو بالحقيقةِ. آمين.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Am/n a~m/n a~m/n: ]nah] ]nah] ]nah]: je yai te qen oumeym/i a~m/n.
+         </Language>
+         <Language id="English">
+            Amen. Amen. Amen. I believe, I believe, I believe that this is true. Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين. آمين. آمين. أؤمن. أؤمن. أؤمن أن هذا هو بالحقيقة آمين
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Twbh e~h~r/i e~jwn nem e~jen ,~rictianoc niben e~taujoc nan eyb/tou: je a~ripenmeui~ [qen p~/i m~P[oic].
+         </Language>
+         <Language id="English">
+            Pray for us and for all Christians who said to us concerning them, “Remember us [in the house of the Lord].”
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عنا وعن كلِّ المسيحيينَ الذينَ قالوا لنا من أجلِهم، أُذكرونا [في بيتِ الربِّ].
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            ? i~r/n/ ke a~gap/ I/cou &lt;rictou mey u~mwn: 'allate: jw a~ll/louia.
+         </Language>
+         <Language id="English">
+            The peace and love of Jesus Christ be with you. Let us sing, “Alleluia.”
+         </Language>
+         <Language id="Arabic">
+            سلامُ ومحبةُ يسوعَ المسيحِ معكُم. رتلوا بنشيدٍ: الليلويا.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per t/c axiac metal/'ewc a,rantwn ke e~pouraniwn twn a~giwn muct/riwn. Kurie~ e~le/~con.
+         </Language>
+         <Language id="English">
+            Pray for the worthy partaking of the immaculate and heavenly Holy Mysteries. Lord have mercy.
+         </Language>
+         <Language id="Arabic">
+            صلُّوا من أجلِ التناولِ باستحقاقٍ من هذه الأسرارِ المقدسةِ الطاهرةِ والسمائيةِ. ياربُّ ارحَم.
+         </Language>         
+      </Text>
+      
+      <Group>
+         <Season id="StBasilLiturgy">
+            <InsertDocument path="include/AlternateConfessionResponse"/>
+         </Season>
+      </Group>
+   </Role>   
+</Document>

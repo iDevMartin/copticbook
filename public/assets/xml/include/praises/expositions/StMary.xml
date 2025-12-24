@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMary">      
+      <Title>      
+         <Language id="English">Watos Exposition for the 21st day of each Coptic Month</Language>
+         <Language id="Arabic">طرح واطس اليوم الحادي والعشرون من كل شهر</Language>            
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Nim n~rwmi ethijen pikahi: nas~jemjom e~nacaji: e~jwm~p~taio n~te taiparyenoc: Maria ]yeo~tokoc. 
+         </Language>
+         <Language id="English">
+            Whom among humans on earth / may utter / of the honor of this Virgin, / the Mother of God, Saint Mary.  
+         </Language>
+         <Language id="Arabic">
+            مَن ِمن البشر الذين على الأرض، يقدر أن ينطق، بكرامة هذه العذراء، والدة الإله مرتمريم. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="Coptic">
+            &lt;ere ne w~]paryenoc: y/e~tacswpi n~ouy~ronoc: m~P,#c# pia~,writoc: Ps/ri m~V] a~l/ywc.
+         </Language>
+         <Language id="English">
+            Hail to you, O virgin / who became a throne / for the uncontainable Christ / the true Son of God.  
+         </Language>
+         <Language id="Arabic">
+            السلام لكِ أيتها العذراء، التي صارتكرسياً ، للمسيح الغير المحوى، إبن الله بالحقيقة.
+         </Language>
+      </Text>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Watos Exposition</Language>
+            <Language id="Arabic">طرح واطس</Language>
+         </Title>
+            
+         <Text>
+            <Language id="English">
+               A luxurious praise and rich veneration is this honorable commemoration of our Lady, the pride of our race, the Virgin Saint Mary, the mother of salvation.  May her intercession on our behalf save us from the blows of the evil one. Amen.
+            </Language>
+            <Language id="Arabic">
+               مديحاً فاخراً وتبجيلاً زاهراً من أجل التذكار الكريم الذي لسيدتنا وفخر جنسنا العذراء البتول مرتمريم والدة الخلاص، شفاعتها المقبولة تخلصنا من ضربات العدو الشرير آمين.
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Explanation
+            </Language>
+            <Language id="Arabic">
+               التفسير
+            </Language>
+         </Comment>
+            
+         <Text>
+            <Language id="English">
+               Who among humans on earth may utter of the honor of this Virgin, the Mother of God, Saint Mary?  I will dare, however, with the grace of God to utter briefly of what is fitting of her honor and glory, with faith that she will aid me in praising her, saying:
+            </Language>
+            <Language id="Arabic">
+               مَن ِمن البشر الذين على الأرض يقدر أن ينطق بكرامة هذه العذراء والدة الإله مرتمريم. لكنني أبتديء بجسارة بمعونة الله وأقول جزءاً يسيراً مما يليق بكرامتها وعظمتها. متيقناً منها بالحقيقة أن تساعدني في هذا الكلام لكي أمدحها هكذا قائلاً: 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, who became a throne for the uncontainable Christ, the true Son of God.  
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيتها العذراء، التي صارت كرسياً للمسيح الغير المحوى ابن الله بالحقيقة. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, in whom was hidden the One whom heaven and earth cannot contain.  
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيتها العذراء، التي احتجب داخلها الذي لا يحويه مكان في السماء وعلى الأرض. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, from whose womb the One sitting on the cherubim shone.  
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ أيتها العذراء، الذي أشرق من أحشائها الجالس على مركبة الشاروبيم. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, from whom was born and appeared the everlasting Son, who is glorified by the seraphim.   
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ أيتها العذراء، الذي ظهر منها مولوداً الابن الأزلي الممجد من السيرافيم. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, the pleasant olive tree, the foundation of Christianity.  
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ أيتها العذراء، شجرة الزيتون اللذيذة التي هي أساس المسيحيين. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, the golden pure lamp-stand that emits the true Light.  
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ أيتها العذراء، المنارة الذهب النقي التي أشرق منها النور الحقيقي. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O virgin, the second dome that contained the everlasting Logos, the co-essential with the Father.
+            </Language>
+            <Language id="Arabic">
+               السلام لكِ أيتها العذراء، القبة الثانية التي داخلها الكلمة الأزلية المساوي للآب.
+            </Language>
+         </Text>
+            
+         <Comment>
+            <Language id="English">
+               Additional Explanation
+            </Language>
+            <Language id="Arabic">
+               وله أيضاً
+            </Language>
+         </Comment>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O virgin, the royal palace of the King of Kings?  
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها العذراء، القصر الملوكي الذي لملك الملوك. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O field, that was not planted in whom the Cluster of Life was found; He who gives life to everyone?
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها الحقل، الذي لم يزرع ووجد فيه عنقود الحياة معطي الحياة لكل أحد. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O true turtledove, whose breast is shining with yellow gold?
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها اليمامة الحقيقية، التي منكباها بصفرة الذهب يلمع جداً. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O glorious throne of One of the Holy Trinity, upon whom the Holy Spirit settled because of her virginity?   
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها الكرسي الممجد، الذي للواحد من الثالوث ومحله الروح القدس من أجل بتوليتها. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O daughter of the pious Joachim and the lady Anna, who shone with light and blossomed from the root of our father David?
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ يا ابنة البار يواقيم والسيدة حنه، التي أشرقت بالشرق وأزهرت من أصل أبينا داود. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O pure bride, who has borne for us Immanuel, the begotten of the Father before all ages?
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها العروس النقية، التي ولدت لنا عمانوئيل المولود من الآب قبل كل الدهور. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O Church of the first-born, where the angels incessantly praise?
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ يا كنيسة الأبكار، التي الملائكة يسبحون داخلها بغير فتور. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               What should I call you, O second heaven, in whose womb dwelt Him who was spoken of by the prophets and saints.  
+            </Language>
+            <Language id="Arabic">
+               بماذا أدعوكِ أيتها السماء الثانية، التي حل في أحشائها الذي نطق من أجله الأنبياء والصديقون. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O Virgin Mary, for because of you we were delivered from the yoke of slavery and became free.   
+            </Language>
+            <Language id="Arabic">
+               طوباكِ أنتِ يا مريم العذراء، لأن من قبلك عتقنا من العبودية وصرنا أحراراً. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O Virgin Mary, for you carried in your womb the ember of divinity while your womb was not burned.  
+            </Language>
+            <Language id="Arabic">
+               طوباكِ أنت يا مريم العذراء، لأنك حملت في بطنك جمر اللاهوت ولم تحترق أحشاؤك. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O Virgin Mary, for you nourished from your breasts the One who nourishes all.  
+            </Language>
+            <Language id="Arabic">
+               طوباكِ أنت يا مريم العذراء، لأنكِ أرضعتِ من ثدييك الذي يعول الكل. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Hail to you, O Virgin Mary, for you were enveloped in righteousness since you were in the womb.  
+            </Language>
+            <Language id="Arabic">
+               طوباكِ أنت يا مريم العذراء، لأنك اشتملتِ بالطهر منذ كنت في الأحشاء. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Rejoice, O virgin mother of God, the pride of all the women of the world.  
+            </Language>
+            <Language id="Arabic">
+               افرحي يا والدة الإله العذراء، فخر جميع نساء العالم. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Rejoice O Mary, the Mother of Light, for you brought to us the true light, God, the Son of God.  
+            </Language>
+            <Language id="Arabic">
+               افرحي يا مريم أم النور، لأنكِ ولدت النور الحقيقي الإله ابن الإله. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Rejoice, O full of grace, the Lord is with you!  
+            </Language>
+            <Language id="Arabic">
+               افرحي يا ممتلئة نعمة الرب معكِ. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               We bless you with Archangel Gabriel in a joyful voice, and we magnify you along with Elizabeth saying, “Blessed are you among women and blessed is the fruit of your womb.”  
+            </Language>
+            <Language id="Arabic">
+               نعطيكِ الطوبى مع غبريال الملاك بصوت الفرح ونعظمك مع أليصابات هكذا قائلين مباركة أنتِ في النساء ومباركة هي ثمرة بطنك. 
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="English">
+               Intercede on our behalf before your beloved Son, so that He grants us the forgiveness of our sins, saves us from our adversaries, has mercy on us according to His great mercy, softens the hearts of those having authority over us, and saves us from the pains of this fleeting world. Amen.
+            </Language>
+            <Language id="Arabic">
+               اشفعي فينا أمام ابنك الحبيب لكي ينعم لنا بغفران خطايانا ويخلصنا من أعدائنا المضادين لنا، ويرحمنا كعظيم رحمته ويعطف قلوب المتولين علينا ويخلصنا من أتعاب هذا العالم الزائل آمين.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

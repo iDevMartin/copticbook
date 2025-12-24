@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    <Group>
+      <Season id="Feasts">
+         <Comment>
+            <Language id="English">
+               Prayed in the festive tune.      
+            </Language>      
+         </Comment>
+      </Season>
+      
+      <Season id="FuneralTune">
+         <Comment>
+            <Language id="English">
+               Prayed in the mournful tune.      
+            </Language>      
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Comment>
+            <Language id="English">
+               Prayed in the standard tune.      
+            </Language>      
+         </Comment>
+      </Season>         
+   </Group>
+   
+    <Group>
+      <Season id="PentecostPeriod">
+         <Comment>
+            <Language id="English">
+               During the Pentecost period, the people chant “<span class="Coptic">&lt;ricotc Anect/</span>.”     
+            </Language>      
+            <Language id="Arabic">
+               فى أيام الخماسين بعد عيد القيامة يقال "المسيح قام".
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/HymnOfTheResurrection"/>
+      </Season>
+      
+      <Season id="Feasts">
+         <InsertDocument path="include/gospelResponse/GospelResponse"/>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="People">
+            <InsertDocument path="include/RememberMe.1"/>
+            <InsertDocument path="include/RememberMe.2"/>
+            <InsertDocument path="include/RememberMe.3"/>
+            <InsertDocument path="include/OurFatherGreatFast"/>
+            <InsertDocument path="include/Jefcmarwout"/>
+         </Role>
+      </Season>
+   </Group>
+</Document>

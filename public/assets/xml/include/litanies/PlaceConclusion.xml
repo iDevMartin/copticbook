@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Nem polic niben: nem ,wra niben: nem ni]mi: nem poucolcel t/rf.
+         </Language>
+         <Language id="English">
+            and every city and every country, and the villages and all their adornment. 
+         </Language>
+         <Language id="Arabic">
+            وكلِّ مدينةٍ، وكلِّ كورةٍ، والقرى وكلِّ زينتِها.
+         </Language>         
+      </Text>      
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh nahmen t/ren e~bol ha ouh~bwn nem oumou nem oumonmen nem oukataponticmoc nem ou,~rwm nem oue,malwcia n~te hanbarbaroc: nem e~bolha t~c/fi n~te pisemmo: nem e~bolha p~jintwnf e~p~swi n~te hanheretikoc.
+         </Language>
+         <Language id="English">
+            And save us all from famine, plague, earthquake, drowning, fire, captivity by barbarians, the sword of the stranger, and the rising up of heretics. 
+         </Language>
+         <Language id="Arabic">
+            ونجنا كلَّنا من الغلاءِ، والوباءِ، والزلزالِ، والغرقِ، والحريقِ، وسبيِ البربرِ، ومن سيفِ الغريبِ، ومن قيامِ الهراطقةِ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

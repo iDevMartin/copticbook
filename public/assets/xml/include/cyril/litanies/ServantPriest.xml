@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litany of the Servant Priest</Language>
+         <Language id="Arabic">أوشية الكاهن الخديم</Language>
+      </Title>
+      
+      <Group>
+         <Season id="ChurchConsecration">
+            <Role id="Bishop" silent="true">
+               <InsertDocument path="include/cyril/litanies/ServantPriest.1"/>
+            </Role>       
+         </Season>
+         
+         <Season id="Other">
+            <Role id="Priest" silent="true">
+               <InsertDocument path="include/cyril/litanies/ServantPriest.1"/>
+            </Role>       
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest cries out in the ancient tune, saying:
+         </Language>         
+         <Language id="Arabic">
+            ويصيح ههنا قائلا بلحن العتيقة:
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Hina n~tac~mou e~rok n~c/ou niben: n~nie~hoou t/rou n~te pawnq.
+            </Language>
+            <Language id="English">
+               that I may bless You at all times, all the days of my life.
+            </Language>         
+            <Language id="Arabic">
+               لكي أبارِكَكَ كلَّ حينٍ جميعَ أيامِ حياتي.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>      
+   </Section>
+</Document>

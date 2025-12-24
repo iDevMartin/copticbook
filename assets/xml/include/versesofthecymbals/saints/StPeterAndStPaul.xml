@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StPeterAndStPaul:VersesOfCymbals | ApostlesFeast">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Peter and St. Paul:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt Petroc: nem pencaq Pauloc: pinis] n~ctulloc: ettajro n~nipictoc.
+            </Language>
+            <Language id="English">
+               Hail to our father Peter: and our teacher Paul: the great pillars: for the firmness of the faithful.
+            </Language>
+            <Language id="Arabic">
+               السلام لابينا بطرس ومعلمنا بولس. العمودين العظيمين لثبات المؤمنين.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

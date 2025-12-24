@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The prayer of the sixth hour of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة الساعة السادسة من النهار المبارك، أقدمها للمسيح ملكي وإلهي، وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 53</li>
+            <li>Psalm 84</li>
+            <li>Psalm 92</li>
+         </ul>
+      </Language>
+   </Comment>
+</Document>

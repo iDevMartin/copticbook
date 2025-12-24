@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Text>
+         <Language id="Coptic">
+            I/couc Pi,~rictoc p~s/ri m~V]: afse e~qoun e~Il#/#m#  
+         </Language>
+         <Language id="English">
+            Jesus Christ, the Son of God, is entering Jerusalem
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح ابن الله دخل أورشليم.
+         </Language>
+      </Text>         
+   </Season>
+</Document>

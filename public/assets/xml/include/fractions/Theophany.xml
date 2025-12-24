@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod | TheophanyParamoun">
+      <Section>
+         <Title>
+            <Language id="English">Fraction to the Father for the Theophany: As You have bestowed...</Language>
+            <Language id="Arabic">قسمة للآب تقال في عيد الغطاس: إذ أعطيتَنا...</Language>
+            <Language id="Coptic">Eak] nan m~pih~mot...</Language>         
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Eak] nan m~pih~mot n~te ]mets/ri: hiten pijwkem n~te pioua~hemmici: nem ]metberi n~te Pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               As You have bestowed upon us the grace of sonship through the washing of rebirth and renewing of the Holy Spirit,
+            </Language>
+            <Language id="Arabic">
+               إذ أعطيتَنا نعمةَ البنوةِ بحميمِ الميلادِ الجديدِ، وتجديدِ الروحِ القدسِ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh ]nou on a~riten n~emp~sa qen oumetatsobi: nem ouh/t efouab nem oucunid/cic ecmeh m~parr/cia: nem hanc~votou n~athei eyrentwbh m~mok abba Viwt.
+            </Language>
+            <Language id="English">
+               so make us worthy now also, that, without hypocrisy, with a pure heart, a conscience full of boldness, and unerring lips, we may entreat You, O Abba Father,
+            </Language>
+            <Language id="Arabic">
+               الآن أيضاً اجعَلْنا مستحقينَ، بغيرِ رياءٍ، وبقَلْبٍ طاهرٍ، ونيةٍ مملوءَةٍ دالةٍ، وشفتينِ غيرِ ساقطتينِ، أن نطلبَ إليكَ يا أَبَّا الآب.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Hina e~an,w e~q~r/i n~]mete~v~l/ou n~te ]metrefkem/s n~caji n~te nieynoc: nem ]metrefhip~ho n~te Niioudai.
+            </Language>
+            <Language id="English">
+               so that having abandoned the vanity of the excessive words of the heathen and the haughtiness of the Jews,
+            </Language>
+            <Language id="Arabic">
+               لكي إذ تركناباطلَ كثرةِ كلامِالأممِ واستكبارِاليهودِ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ntens~jemjom n~i~ni nak e~qoun m~pi]ho n~te ]p~roceu,/: kata ]nomoyecia eymeh n~oujai n~te pekmonogen/c n~S/ri.
+            </Language>
+            <Language id="English">
+               we may be able to offer unto You the supplication of prayer according to the decree of Your only-begotten Son, which is full of salvation.
+            </Language>
+            <Language id="Arabic">
+               نستطيعَ أن نقدمَ لكَ سؤالَ الصلاةِ، كشريعةِ ابنِكَ الوحيدِ المملوءَةِ خلاصاً.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Qen ouc~m/ men ecyebi/out ecerp~repi n~ni,~rictianoc: qen outoubo de n~te ]'u,/ nem picwma nem pip~neuma.
+            </Language>
+            <Language id="English">
+               So with a humble voice befitting Christians, and with purity of soul, body, and spirit,
+            </Language>
+            <Language id="Arabic">
+               فبصوتٍ متواضِعٍ يليقُ بالمسيحيينَ، وبطهارةِ النفسِ والجسدِ والروحِ.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ntenertolman qen oumetatho] e~ws oub/k: n~yok piatcontf ouoh n~atar,/ ouoh n~atj~vof: v~n/b n~ouon niben: Vnou] Viwt eyouab etqen niv/oui~ ouoh e~joc.
+            </Language>
+            <Language id="English">
+               we dare without fear to cry out to You who are uncreated, without beginning, and unbegotten, the Master of everyone, God the holy Father, who is in the heavens, and say,
+            </Language>
+            <Language id="Arabic">
+               نجسُرُ بغيرِ خوفٍ أن نصرُخَ إليكَ أنتَ غيرُ المخلوقِ ولا مُبتدِئ ولا مولودٍ، سيدُ كلِّ أحدٍ، اللهُ الآبُ القدوسُ الذي في السمواتِ، ونقولَ:
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je Peniwt...
+            </Language>
+            <Language id="English">
+               Our Father...
+            </Language>
+            <Language id="Arabic">
+               أبانا...
+            </Language>         
+         </Text>
+      </Section>
+      
+      <InsertDocument path="include/fractions/StJohnTheBaptist"/>
+   </Season>
+</Document>

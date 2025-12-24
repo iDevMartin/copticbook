@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">         
+   <Title>
+      <Language id="English">Doxologies</Language>
+      <Language id="Arabic">الذوكصولوجيات</Language>         
+   </Title>
+   
+   <InsertDocument path="include/doxologies/Body"/>   
+</Document>

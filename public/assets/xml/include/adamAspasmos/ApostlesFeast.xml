@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFeast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">&lt;ere peniwt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Apostles:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt Petroc nem pencaq Pauloc: ninis] n~c~tuloc ettajro n~nipictoc
+            </Language>
+            <Language id="English">
+               Hail to our father Peter, and our teacher Paul, the great pillars, which strengthen the faithful.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا بطرس ومعلمنا بولس العمودين العظيمين مثبتى المؤمنين.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

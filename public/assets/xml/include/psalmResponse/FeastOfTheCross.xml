@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm Response</Language>
+            <Language id="Arabic">مرد المزمور</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Cross:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia a#l# I/couc Pi,~rictoc p~s/ri m~V]: V/e~tauasf e~pic~tauroc eke~qomqem m~p~catanac capec/t n~nen[alauj. a#l# a#l#.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia Jesus Christ, the Son of God, Who was crucified on the Cross: trample satan under our feet. Alleluia Alleluia
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا يسوع المسيح ابن الله يا من صلب علي الصليب اسحق الشيطان تحت أقدامنا الليلويا الليلويا
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/psalies/Joyful29thOfTheMonth"/>
+   <InsertDocument path="include/psalies/NativityParamoun"/>
+   <InsertDocument path="include/psalies/Nativity"/>   
+   <InsertDocument path="include/psalies/Theophany"/>
+   <InsertDocument path="include/psalies/Circumcision"/>
+   <InsertDocument path="include/psalies/Theophany"/>
+   <InsertDocument path="include/psalies/WeddingCana"/>
+   <InsertDocument path="include/psalies/PresentationInTemple"/>
+   <InsertDocument path="include/psalies/Annunciation"/>
+   <InsertDocument path="include/psalies/HosannaSunday"/>
+   <InsertDocument path="include/psalies/Resurrection"/>
+   <InsertDocument path="include/psalies/Ascension"/>
+   <InsertDocument path="include/psalies/Pentecost"/>
+   <InsertDocument path="include/psalies/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/psalies/Transfiguration"/>
+   <InsertDocument path="include/psalies/CopticNewYear"/>
+   <InsertDocument path="include/psalies/FeastOfTheCross"/>
+   <InsertDocument path="include/psalies/LazarusSaturday"/>
+</Document>

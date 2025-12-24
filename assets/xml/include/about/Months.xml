@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Thoout">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Thoout</Language>
+               <Language id="Coptic">Yoout</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Tune
+                        <ol>
+                           <li>The services are prayed with the festive tune from 1-16 Thoout.</li>
+                           <li>The remainder of the month is prayed in the standard tune.</li>
+                           <li>The feast of the Cross (17 Thoout) is treated like a Feast of the Lord.  Its tune is the festive Hosanna tune, and it is celebrated for three days</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Readings
+                        <ol>
+                           <li>The readings of first of Thoout are read on the first day of the Coptic year whether it is a Sunday or a weekday.</li>
+                           <li>If any of the three days of the Feast of the Cross (17 - 19 Thoout) fall on a Sunday, the readings of the day are read instead of the readings of the Sunday.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The feast of Nayrouz (1 Thoout - 16 Thoout)</li>
+                           <li>The feast of Saint John the Baptist (2 Thoout, 30 Mesore, 2 Paone and 30 Paone)</li>
+                           <li>The feast of Saint Stephen (15 Thoout and 1 Tobe)</li>
+                           <li>The feast of the Cross (17 Thoout)</li>
+                           <li>The feast of Saint Marina (24 Thoout)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Paope">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Paope</Language>
+               <Language id="Coptic">Pawpe</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        General
+                        <ol>
+                           <li>The month of Paope follows the standard rites and the feasts of the saints.  There are no special rites or feasts during this month.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The feast of Saints Sergious and Wakhos (4 and 10 Paope)</li> 
+                           <li>The feast of St. Paul of Tammoh (7 Paope)</li>
+                           <li>The feast of Saint John Colobos, the dwarf (20 Paope)</li> 
+                           <li>The feast of Saint Rowis (21 Paope)</li>
+                           <li>The feast of Saint Mark the Apostle (30 Paope)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Hathor">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Hathor</Language>
+               <Language id="Coptic">Haywr</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        General
+                        <ol>
+                           <li>The month of Hathor follows the standard rites and the feasts of the saints, except that the Nativity Fast starts on 16 Hathor.</li>
+                           <li>From the beginning of the Nativity Fast the fraction for the Nativity Fast is prayed as well as the concluding hymn for the fast.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The feast of Saint George (7 Hathor and 24 Parmoute)</li> 
+                           <li>The feast of the four incorporeal creatures (8 Hathor)</li>
+                           <li>The feast of Archangel Michael (12 Hathor)</li>
+                           <li>The feast of Saint Mina (15 Hathor and 15 Paone)</li>
+                           <li>The feast of Saints Sergious and Wakhos (19 Hathor, 4 and 10 Paope)</li> 
+                           <li>The feast of Saint Theodore (20 Hathor and 20 Epep)</li>
+                           <li>The feast of Saints Cosmas, Demian, their brothers and their mother (22 Hathor and 22 Paone)</li> 
+                           <li>The feast of the twenty-four priests (24 Hathor)</li>
+                           <li>The feast of Philopateer Mercurius (25 Hathor, 9 Paone and 25 Epep)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Koiahk">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Koiahk</Language>
+               <Language id="Coptic">Koiahk</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        General
+                        <ol>
+                           <li>There will be no fasting on 29 Koiahk (the accurate day of Nativity) even if it is a Wednesday or a Friday.</li>
+                           <li>From the Feast of Nativity to the Feast of Circumcision, the services are conducted in the festive tune; the rites and hymns are identical those of the Nativity.</li>
+                        </ol>
+                     </li>     
+                                     
+                     <li>
+                        Readings
+                        <ol>
+                           <li>If there are not four Sundays in the month of Koiahk (before the Paramoun of the Nativity), then the last Sunday of Hathor is treated as the first Sunday of Koiahk and its readings are the readings of the first Sunday of Koiahk.</li>
+                           <li>If the Paramoun of the Nativity is more than one day, then the readings of the Paramoun are repeated on each day of the Eve even if it is a Sunday.</li>
+                           <li>If the Nativity (January 7) falls on 28 Koiahk, the readings of 29 Koiahk are read  (because 29 Koiahk is the original date for the Nativity) and the readings are repeated again on 29 Koiahk even if it is a Sunday. As for the Paramoun of the Nativity (27 Koiahk), the readings of 28 Koiahk are read.</li>
+                           <li>If 30 Koiahk falls on a Sunday, the readings of 30 Koiahk are used instead of the readings of the fifth Sunday because it does not befit the second day of Nativity.</li>
+                        </ol>
+                     </li>
+                     
+                     <br/>
+                     <table cellpadding="8">
+                        <tr><th>Date</th><th>Coptic Date</th><th>Readings</th></tr>
+                        <tr><td>January 6<br/>(Paramoun)</td><td>Koiahk 27</td><td>Koiahk 28</td></tr>
+                        <tr><td>January 7<br/>(Feast)</td><td>Koiahk 28</td><td>Koiahk 29</td></tr>
+                        <tr><td>January 8<br/>(Feast)</td><td>Koiahk 29</td><td>Koiahk 29</td></tr>
+                        <tr><td>January 9</td><td>Koiahk 30</td><td>Koiahk 30</td></tr>
+                     </table>
+                     <br/>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The feast of Saint Shenouda the Archimandrite (1 Koiahk, 7 Epep)</li>
+                           <li>The feast of the entrance of Virgin Mary into the Temple (3 Koiahk)</li> 
+                           <li>The feast of Saint Barbara (8 Koiahk); (8 Mesore)</li> 
+                           <li>The feast of Saint Juliana (8 Koiahk); (8 Mesore)</li> 
+                           <li>The feast of Saint Samuel the Confessor (8 Koiahk)</li> 
+                           <li>The feast of Archangel Raphael (13 Koiahk, 13 Nesi)</li> 
+                           <li>The feast of Archangel Gabriel (22 Koiahk, 26 Paone)</li> 
+                           <li>The feast of Saint John Kama (25 Koiahk)</li> 
+                           <li>The Nativity Paramoun (26 to 28 Koiahk)</li> 
+                           <li>The feast of Nativity (29 Koiahk)</li>
+                           <li>Second day of Nativity (30 Koiahk) to 5 Tobe</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>
+         </Section>
+      </Season>
+      
+      <Season id="Tobe">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Tobe</Language>
+               <Language id="Coptic">Twbe</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>If the Theophany Paramoun is more than one day, the readings of the Paramoun are repeated even if it falls on a Sunday.</li>
+                           <li>If 12 Tobe (second day of Theophany) falls on a Sunday, the readings of the second day of Theophany are read instead of the second Sunday of Tobe.</li>
+                           <li>If either feasts of Circumcision or the Wedding at Cana of Galilee fall on a Sunday, the readings for the feast are read, as they are among the minor feasts of the Lord.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Tune
+                        <ol>
+                           <li>From the Feast of Nativity to the Feast of Circumcision, the services are conducted in the festive tune.</li>
+                           <li>From 7 Tobe to 10 Tobe, the services are conducted in the standard tune.</li> 
+                           <li>From 11 Tobe (Theophany) to 13 Tobe (Wedding at Cana of Galilee), the services are conducted in the festive tune.</li> 
+                           <li>On the rest of the days of Tobe, the services are conducted in the standard tune.</li> 
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The Commemoration of the Annunciation, Nativity and Resurrection is not celebrated on 29 Tobe.</li>
+                           <li>During the period from 30 Koiahk to 5 Tobe (second day of Nativity to the day before Circumcision), the rites and hymns for this period are identical those of the Nativity. During Vespers Praise, however, the exposition of the day is read.</li> 
+                           <li>The Feast of the 144,000 Saints (3 Tobe).   </li>
+                           <li>The Feast of the Circumcision (6 Tobe)</li>
+                           <li>The Feast of Saint Macarius the Great (8 Tobe, 27 Paremhotep)</li>
+                           <li>The Theophany (Theophany) Paramoun  (10 Tobe)</li>
+                           <li>The Feast of Theophany (Theophany) (11 Tobe)</li>
+                           <li>Second day of Theophany (12 Tobe)</li>
+                           <li>The Feast of the Wedding at Cana of Galilee (13 Tobe)</li>
+                           <li>The Feast of Saint Demiana (13 Tobe)</li>
+                           <li>The Feast of Saint Maximus (14 Tobe)</li>
+                           <li>The Feast of Saint Dometius (17 Tobe)</li>
+                           <li>The Feast of Saint Antony (22 Tobe)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Meshir">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Meshir</Language>
+               <Language id="Coptic">Msir</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>The feast of the Christ’s entrance into the Temple (8 Meshir) is one of the minor feasts of the Lord.  If it falls on a Sunday or during the Fast of Jonah or the Great Fast, the readings of the feast are read.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The Feast of Saint Paul the Hermit (2 Meshir).</li>
+                           <li>The Feast of Apa Kir and his brother John (6 Meshir, 14 Paone, and 4 Epep).</li> 
+                           <li>The Feast of Christ’s Entrance into the Temple (8 Meshir).</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Paremhotep">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Paremhotep</Language>
+               <Language id="Coptic">Parmhotp</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>The feast of the Cross (10 Paremhotep) is treated like the feasts of the Lord.</li>
+                           <li>The readings of 17 Thoout are read on the feast of the Cross (10 Paremhotep) even if it falls on a Sunday or during the Great Fast.</li>
+                           <li>The readings of 29 Paremhotep are read on the Feast of the Annunciation, even if it falls on a Sunday or during the Great Fast.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Rites
+                        <ol>
+                           <li>The feast of the Cross is celebrated for one day only (10 Paremhotep) and its rites are similar to the feast of the Cross that falls on 17 Thoout.</li>
+                           <li>If the feast of Annunciation falls anywhere from the last Friday of the Great Fast to the second day of Resurrection, it is not celebrated, because those days commemorate non-recurring events.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The Feast of the Cross (10 Paremhotep)</li>
+                           <li>The Feast of Saint Macarius the Great (8 Tobe, 27 Paremhotep)</li>
+                           <li>The Feast of the Annunciation of the Birth of Christ (29 Paremhotep)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Parmoute">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Parmoute</Language>
+               <Language id="Coptic">Parmoute</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  Usually the Great Fast or the Pentecost Period fall during this month.  Note that the dates of the Fast of Jonah, the Great Fast, etc, can change per year. 
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Pashons">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Pashons</Language>
+               <Language id="Coptic">Pasonc</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>There is an opinion that says if the feast of Christ’s entrance into Egypt (24 Pashons) falls during the Pentecost Period, it is preferred that its readings are read, instead of the readings of that day, so that we experience the spirituality and meaning of the Feast.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Rites
+                        <ol>
+                           <li>The Feast of the Birth of the Virgin Mary (1 Pashons) is celebrated while observing to read the readings of the appropriate day of the Pentecost Period</li>
+                           <li>If the fast of the apostles begins during the month of Pashons, the rites of the fast of the apostles are followed</li>
+                           <li>The Feast of Christ’s entrance into Egypt (24 Pashons) is one of the Minor feasts of the Lord, and is prayed in the festive tune.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The Feast of Saint Pachomius (14 Pashons)</li>
+                           <li>Feast of Christ’s Entrance into Egypt (24 Pashons)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Paone">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Paone</Language>
+               <Language id="Coptic">Pawne</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Rites
+                        <ol>
+                           <li>The fast of the apostles usually falls during the month of Paone and it is prayed in the standard tune.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>Paone and 30 Paone are the feasts of Saint John the Baptist</li>
+                           <li>12 Paone is the feast of Archangel Michael</li>
+                           <li>21 Paone is the feast of Virgin Mary</li>
+                           <li>The Feast of Archangel Gabriel (22 Koiahk, 26 Paone)</li>
+                           <li>The Fast of the Apostles</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Epep">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Epep</Language>
+               <Language id="Coptic">Ep/p</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        Readings
+                        <ol>
+                           <li>If the feast of the apostles falls on a Sunday, the readings of the Sunday are read.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Rites
+                        <ol>
+                           <li>The feast of the apostles (Martyrdom of Saints Peter and Paul) falls on 5 Epep, and is prayed in the standard tune</li>
+                           <li>The Liturgy of the Waters (Lakkan) is prayed after the Offering of the morning incense in the third chorus (part) of the church.  The priest and deacons put on their white service vestments and start the prayers as it is written in the “Book of the Liturgy of the Waters and Prostration Prayers”.</li>
+                           <li>If the feast of the apostles falls on a Wednesday or a Friday, strict abstinence is still observed and the fast is not ended (until the next day).</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        Feasts
+                        <ol>
+                           <li>The Feast of the Apostles (5 Epep)</li>
+                           <li>The Feast of Saint Shenouda the Archimandrite (1 Koiahk, 7 Epep)</li>
+                           <li>The Feast of Saint Pishoi (7 Paope, 8 Epep)</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Mesore">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Month of Mesore</Language>
+               <Language id="Coptic">Mecor/</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  <ol class="UpperAlpha">
+                     <li>
+                        The Fast of Virgin Mary
+                        <ol>
+                           <li>The fast of Virgin Mary occurs from 1 Mesore to 15 Mesore.  Its rites are similar to the rites of the twenty first of every Coptic month.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        The feast of the assumption of Virgin Mary 
+                        <ol>
+                           <li>Falls on 16 Mesore.</li>
+                           <li>Its rites are similar to the rites of the fast of Saint Mary.</li>
+                        </ol>
+                     </li>
+                     
+                     <li>
+                        The Feast of Transfiguration
+                        <ol>
+                           <li>The Feast of transfiguration falls on 13 Mesore.</li>
+                           <li>It is one of the minor feasts of the Lord and is prayed in the festive tune.</li>
+                        </ol>
+                     </li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+      
+      <Season id="Nesi">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Little Month (Nesi)</Language>
+               <Language id="Coptic">Kouji n~a~bot/</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  The rites of the month of Nesi (Lit. the little month) are standard and follow the rites of the feasts of the saints that fall in it
+                  <ol>
+                     <li>The Feast of Archangel Raphael (13 Koiahk, 3 Nesi).</li>
+                     <li>The Feast of Saint Parsouma the Naked (5 Nesi).</li>
+                  </ol>
+               </Language>
+            </Comment>            
+         </Section>
+      </Season>
+   </Group>
+</Document>

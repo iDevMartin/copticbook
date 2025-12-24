@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/StandardPrayerIntro"/>
+   
+   <Title>
+      <Language id="English">Thanksgiving Prayer</Language>
+      <Language id="Arabic">صلاة الشكر</Language>      
+   </Title>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.1"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Ordination | Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.1"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.1"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   
+   <InsertDocument path="include/LetUsPray"/>
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.2"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Ordination | Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.2"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.2"/>
+         </Role>      
+      </Season>
+   </Group>
+      
+   <Role id="Deacon">
+      <Group>
+         <Season id="OfferingOfLamb">
+            <Text>
+               <Language id="Coptic">
+                  Twbh hina n~te Vnou] nai nan: n~tef senh/t qaron: n~tefcwtem e~ron: n~teferbo/~yin e~ron: n~tef[i n~ni]ho nem nitwbh n~te n/eyouab n~taf n~totou e~h~r/i e~jwn e~pia~gayon n~c/ou niben:+ n~tefaiten n~emp~sa eyren[i e~bolqen ]koinwnia n~te nefmuct/rion eyouab: etc~marwout e~pi,w e~bol n~te nennobi.            
+               </Language>
+               <Language id="English">
+                  Pray that God may have mercy and compassion on us, hear us, help us, and accept the supplications and prayers of His saints, for that which is good on our behalf at all times+ and make us worthy to partake of the communion of His holy and blessed Mysteries, for the remission of our sins.            
+               </Language>
+               <Language id="Arabic">
+                  اطلبوا لكي يرحمنا الله ويتراءف علينا ويسمعنا ويعيننا ويقبل سؤالات وطلبات قديسيه منهم بالصلاح عنا في كل حين+ ويجعلنا مستحقين أن ننال من شركة أسراره المقدسة المباركة لمغفرة خطايانا.            
+               </Language>         
+            </Text>      
+         </Season>
+         
+         <Season id="Crowning ^ !Engagement">
+            <Text>
+               <Language id="Coptic">
+                  Twbh hina n~te Vnou] nai nan: n~tefsenh/t qaron: n~tefcwtem e~ron: n~teferbo/~yin e~ron: n~tef[i n~ni]ho nem nitwbh n~te n/eyouab n~taf n~totou e~h~r/i e~jwn e~pia~gayon n~c/ou niben:+ n~tefc~mou nipatselet: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Pray that God may have mercy and compassion on us, hear us, help us, and accept the supplications and prayers of His saints, for that which is good on our behalf at all times;+ and bless the bridegroom and bride, and forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  اطلبوا لكي يرحمنا الله، ويتراءف علينا، ويسمَعَنَا، ويُعينَنَا، ويَقْبَلَ سؤالات وطلبات قديسيه منهم بالصلاح عنا في كل حين،+ وأن يبارك العروسين، ويغفرَ لنا خطايانا..
+               </Language>         
+            </Text>      
+         </Season>
+      
+         <Season id="Other">
+            <Text>
+               <Language id="Coptic">
+                  Twbh hina n~te Vnou] nai nan: n~tefsenh/t qaron: n~tefcwtem e~ron: n~teferbo/~yin e~ron: n~tef[i n~ni]ho nem nitwbh n~te n/eyouab n~taf: n~totou e~h~r/i e~jwn e~pia~gayon n~c/ou niben:+ n~tef,a nennobi nan e~bol.            
+               </Language>
+               <Language id="English">
+                  Pray that God may have mercy and compassion on us, hear us, help us, and accept the supplications and prayers of His saints, for that which is good on our behalf at all times+ and forgive us our sins.            
+               </Language>
+               <Language id="Arabic">
+                  اطلبوا لكي يرحمَنا الله، ويتراءف علينا، ويسمعنا، ويعيننا، ويقبلَ سؤالات وطلبات قديسيه منهم بالصلاحِ عنا في كلِّ حينِ+ ويغفرَ لنا خطايانا.            
+               </Language>         
+            </Text>
+         </Season>      
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            + The following is added in the presence of the Pope, a metropolitan, or a bishop:
+         </Language>         
+         <Language id="Arabic">
+            + وفي وجود الأب  البطريرك أو المطران أو الأسقف يضاف: 
+         </Language>
+      </Comment>   
+      
+      <Text>
+         <Language id="Coptic">
+            n~tefa~reh e~p~wnq nem p~taho e~ratf m~peniwt ettai/out n~ar,ie~reuc papa abba (nim) nem pefkes~v/r n~litourgoc peniwt n~epickopoc (m~m/tropol/t/c) abba (nim)
+         </Language>
+         <Language id="English">
+            and to keep the life and standing of our honored father, the archpriest, Pope Abba (...), and his partner in the liturgy, our father the bishop (metropolitan), Abba (...)
+         </Language>
+         <Language id="Arabic">
+            وأن يحفظَ حياةَ وقيامَ أبينا المكرمِ البابا الأنبا (...) وشريكِهِِ في الخدمةِ [الرسولية] أبينا الأسقف (المطران) أنبا (...).
+         </Language>         
+      </Text>
+      
+      <Section>
+         <Title>
+            <Language id="English">Thanksgiving Prayer Response in the Presence of the Pope or a Bishop</Language>
+            <Language id="Coptic">Twbh hina...</Language>
+         </Title>
+         
+         <InsertDocument path="include/ThanksgivingPrayer_Bishop"/>
+      </Section>   
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.3"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Ordination | Consecration">
+         <Role id="Bishop">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.3"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.3"/>
+         </Role>      
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="MyronConsecration | GladnessConsecration">
+         <Role id="Patriarch" silent="true">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.4"/>
+            <InsertDocument path="include/SilentPriestConclusion"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Ordination | Consecration">
+         <Role id="Bishop" silent="true">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.4"/>
+            <InsertDocument path="include/SilentPriestConclusion"/>
+         </Role>      
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest" silent="true">
+            <InsertDocument path="include/ThanksgivingPrayer.Priest.4"/>
+            <InsertDocument path="include/SilentPriestConclusion"/>
+         </Role>      
+      </Season>
+   </Group>
+</Document>

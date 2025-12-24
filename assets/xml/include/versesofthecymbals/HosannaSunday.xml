@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">         
+      <Comment>
+         <Language id="English">
+            For Hosanna Sunday:
+         </Language>
+         <Language id="Arabic">
+            في أحد الشعانين:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/HosannaInTheHighest"/>
+            
+      <Text>
+         <Language id="Coptic">
+            V/ethemci hijen Ni,eroubim: aftalof e~oue~w~: afse e~qoun e~Iourcal/m: oupe painis] n~yebio.
+         </Language>
+         <Language id="English">
+            He who sits upon the Cherubim, sat on a donkey, He came into Jerusalem, what is this great humility.
+         </Language>
+         <Language id="Arabic">
+            الجالس على الشاروبيم ركب على جحش ودخل أورشليم ما هو هذا التواضع العظيم.
+         </Language>
+      </Text>               
+   </Season>
+</Document>

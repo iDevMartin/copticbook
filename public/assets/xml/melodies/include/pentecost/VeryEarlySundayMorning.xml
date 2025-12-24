@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Very Early Sunday Morning</Language>         
+      </Title>
+   
+      <Text>
+         <Language id="English">
+            Very early Sunday morning /
+            While the guards were still asleep /
+            Jesus has risen declaring /
+            Victory no more defeat
+         </Language>         
+      </Text>
+            
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Jesus is risen in glory /
+            Heaven and earth sang and praised /
+            And the angel told the story /
+            He is risen as He said
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Mary Magdalene was looking /
+            In the garden for her Lord /
+            While Jesus Himself was telling /
+            Her to go and spread the word
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            All the disciples were praying /
+            They were really in great fear /
+            When Mary came to them saying /
+            He is risen He is not here
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            While they gathered in the room /
+            Jesus Christ Himself appeared /
+            Said My peace I gave to you /
+            And My peace with you I leave
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            But Thomas did not believe /
+            What the disciples had seen /
+            So Jesus again appeared /
+            Showed Him the place of the spear
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Tell the Mary’s no more mourning /
+            Among the dead do not seek /
+            For Jesus Our Lord is living /
+            Giving power to the weak
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Jesus My victorious Lord /
+            Conquered the powers of Hades /
+            And the thorns of death He broke /
+            My salvation He declared
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            The heavenly hosts were singing /
+            Welcoming our glorious Lord /
+            And the joy is overwhelming /
+            He opened the doors of hope
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="melodies/include/pentecost/VeryEarlySundayMorning_Refrain"/>
+   </Section>
+</Document>

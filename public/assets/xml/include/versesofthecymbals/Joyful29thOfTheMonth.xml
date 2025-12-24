@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Joyful29thOfTheMonth">
+      <Comment>
+         <Language id="English">         
+            For the 29th of each Coptic Month:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/versesofthecymbals/Annunciation.2"/>
+      <InsertDocument path="include/versesofthecymbals/Nativity.2"/>
+      <InsertDocument path="include/versesofthecymbals/Resurrection.2"/>
+   </Season>
+</Document>

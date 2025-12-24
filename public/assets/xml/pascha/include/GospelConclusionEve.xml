@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    
+   <InsertDocument path="include/GloryBeToGodForever"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Exposition Introduction</Language>
+         <Language id="Arabic">مقدمة الطرح</Language>
+      </Title>
+    
+      <InsertDocument path="pascha/include/GospelConclusionIntro"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ne Maria~:
+            </Language>
+            <Language id="English">
+               Hail to you, Mary
+            </Language>
+            <Language id="Arabic">
+               السلام لك يامريم
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               ][~rompi eynecwc:
+            </Language>
+            <Language id="English">
+               The beautiful dove
+            </Language>
+            <Language id="Arabic">
+               الحمامة الحسنة
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               y/e~tacmici nan:
+            </Language>
+            <Language id="English">
+               Who has born unto us
+            </Language>
+            <Language id="Arabic">
+               التي ولدت لنا
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               m~Vnou] pilogoc.
+            </Language>
+            <Language id="English">
+               God the Logos.
+            </Language>
+            <Language id="Arabic">
+               الله الكلمة.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+</Document>

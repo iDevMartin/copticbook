@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Coptic';
+  src: url('http://localhost:8082/assets/fonts/Coptic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CS New Athanasius';
+  src: url('http://localhost:8082/assets/fonts/CS New Athanasius.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

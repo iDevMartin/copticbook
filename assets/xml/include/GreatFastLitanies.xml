@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Supplication for the Offering of Morning Incense During the Days of the Great Fast and Jonah’s Fast</Language>
+         <Language id="Arabic">طلبة تقال في رفع بخور باكر في أيام الصوم الكبير وصوم نينوى</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Then the priest and the congregation chant the litanies for the Great Fast or the Fast of Jonah, as follows:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/LetUsBow"/>
+      
+      <Comment>
+         <Language id="English">
+            The Litanies of the Great Fast are prayed, with the prostrations (metanias), as follows:
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.1"/>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/etonq.
+            </Language>
+            <Language id="English">
+               Pray for the living.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل الأحياء.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.2"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/etswni.
+            </Language>
+            <Language id="English">
+               Pray for the sick.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل المرضى.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.3"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/etause e~p~semmo.
+            </Language>
+            <Language id="English">
+               Pray for the travelers.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل المسافرين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <InsertDocument path="include/LetUsBow"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.4"/>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen pia~/r eynanef nem nikarpoc n~te p~kahi.
+            </Language>
+            <Language id="English">
+               Pray for the good air and fruits of the earth.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل الهواء الصالح وثمار الأرض.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.5"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen p~jinmosi e~p~swi n~te niiarwou m~mwou nem nefjini~ e~p~swi kata nousi.
+            </Language>
+            <Language id="English">
+               Pray for the rising of the waters of the rivers according to their measure.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل صعود مياه الأنهار، وارتفاعها كمقدارها.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.6"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nimounhwou eynanef nem nirwt n~te p~kahi.
+            </Language>
+            <Language id="English">
+               Pray for good rain and the plants of the earth.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل الأمطار الصالحة ومزروعات الأرض.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <InsertDocument path="include/LetUsBow"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.7"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen v~nohem n~te nirwmi nem nitebnwoui.
+            </Language>
+            <Language id="English">
+               Pray for the salvation of men and animals.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل نجاة الناس والدواب.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/litanies/PlaceShortPriest"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen t~cwt/ria m~pikocmoc.
+            </Language>
+            <Language id="English">
+               Pray for the salvation of the world.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل خلاص العالم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.8"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nenourwou (nenar,/) m~mai,~rictoc.
+            </Language>
+            <Language id="English">
+               Pray for our Christ-loving kings (leaders).
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل ملوكنا محبي المسيح.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <InsertDocument path="include/LetUsBow"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.9"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/e~tauer,~malwteuin m~mwou.
+            </Language>
+            <Language id="English">
+               Pray for those who are in captivity.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل المسبيين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.10"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/e~tauenkot.
+            </Language>
+            <Language id="English">
+               Pray for those who have fallen asleep.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل المتنيحين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/litanies/OblationsShortPriest"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen niyucia nem nip~rocvora.
+            </Language>
+            <Language id="English">
+               Pray for the sacrifices and offerings.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل الصعائد والقرابين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <InsertDocument path="include/LetUsBow"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.11"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen n/ethejhwj.
+            </Language>
+            <Language id="English">
+               Pray for those who suffer hardship.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل المتضايقين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.12"/>      
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nikat/,oumenoc.
+            </Language>
+            <Language id="English">
+               Pray for the catechumens.
+            </Language>
+            <Language id="Arabic">
+               صلوا من أجل الموعوظين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/SilentPrayerGospel.13"/>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Sl/l t/rou: je Kurie~ e~le/~con.
+            </Language>
+            <Language id="English">
+               Let everyone pray, “Lord have mercy.”
+            </Language>
+            <Language id="Arabic">
+               صلوا جميعاً: ياربُ إرحَم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>         
+</Document>

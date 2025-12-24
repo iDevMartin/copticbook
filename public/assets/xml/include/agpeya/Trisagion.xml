@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <InsertDocument path="include/agpeya/TrisagionContents"/>
+   </Section>   
+   
+   <InsertDocument path="include/LordsPrayer"/>
+</Document>

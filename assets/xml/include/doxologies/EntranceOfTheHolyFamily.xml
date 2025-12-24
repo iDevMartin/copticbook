@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="EntranceOfTheHolyFamily">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Entrance of the Holy Family into Egypt</Language>
+            <Language id="Arabic">ذوكصولوجية لعيد دخول السيد أرض مصر</Language>
+            <Language id="Coptic">Vnou] v/e~tou]w~ou...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Feast of the Entrance of the Holy Family into Egypt:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Vnou] v/e~tou]w~ou naf: qen p~co[ni n~te n/e#y#u#: v/ethemci hijen Ni,eroubim: aunau e~rof qen t~,wra n~&lt;/mi.
+            </Language>
+            <Language id="English">
+               God who is glorified, in the council of the saints, who sits upon the Cherubim, was seen in the land of Egypt.
+            </Language>
+            <Language id="Arabic">
+               الله الممجد فى مشورة القديسين الجالس على الشاربيم رؤى فى إقليم مصر.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/etafyamio~ n~t~ve nem p~kahi: annau e~rof hwc agayoc: qen kenc m~Maria ]ve m~beri: nem piy~m/i Iwc/v pidikeoc.
+            </Language>
+            <Language id="English">
+               He who created heaven and earth, we saw Him as a good One, in the bosom of Mary the new heaven, and the righteous Joseph the elder.
+            </Language>
+            <Language id="Arabic">
+               الذى خلق السماء والأرض رأيناه كصالح فى حضن مريم السماء الجديدة مع البار يوسف الصديق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Piapac n~te nie~hoou: v/etouhwc e~rof n~je niaggeloc: qen t~,wra n~&lt;/mi afi~ m~voou: san~tefcotten anon qa peflaoc.
+            </Language>
+            <Language id="English">
+               The Ancient of the days, whom the angels praise, today has come into Egypt, to save us His people.
+            </Language>
+            <Language id="Arabic">
+               عتيق الأيام الذى تسبحه الملائكة جاء اليوم إلى إقليم مصر لكى يخلصنا نحن شعبه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Rasi yel/l w~ &lt;/mi: nem necs/ri nem necyws t/rou: je afi~ saro n~je pimairwmi: v/etsop qajwou n~niewn t/rou.
+            </Language>
+            <Language id="English">
+               Rejoice and be happy O Egypt, and all your children and your borders, for the Lover of man has come to you, who exists before all ages.
+            </Language>
+            <Language id="Arabic">
+               إفرحى وتهللى يامصر مع بنيها بكل تخومها لأنه أتى أليك محب البشر الكائن قبل كل الدهور.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/EntranceOfTheHolyFamily.5"/>
+               
+         <Text>
+            <Language id="Coptic">
+               Tenhwc e~rof ten]w~ou naf: tenerhouo~ [ici m~mof: hwc agayoc ouoh m~mairwmi: nai nan kata peknis] n~nai.
+            </Language>
+            <Language id="English">
+               We praise and glorify Him, and exalt Him above all, as a good One and Lover of man, have mercy upon us according to Your great mercy.
+            </Language>
+            <Language id="Arabic">
+               نسبحه ونمجده ونزيده علواً كصالح ومحب البشر إرحمنا كعظيم رحمتك.
+            </Language>
+         </Text>
+               
+      </Section>
+   </Season>
+</Document>

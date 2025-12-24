@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ AdamDays ^ Weekdays ^ Mondays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Monday (The Sixth Hour)</Language>
+         <Language id="Arabic">يوم الأثنين (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~hoou m~p~c~nau (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Exodus 32:7-15</Language>
+               <Language id="Arabic">خروج 32: 7-15</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Exodus"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Afcaji de n~je P[oic nem Mwu~c/c efjw m~moc: je mosi n~,wlem e~bol qen paima n~tekse e~pec/t: je afera~nomin n~je peklaoc nai etake~nou e~bol qen p~kahi n~,/mi: 
+               </Language>
+               <Language id="English">
+                  But the Lord said to Moses, "Go quickly! Get down from here! For your people whom you brought out of the land of Egypt are transgressing the law. 
+               </Language>
+               <Language id="Arabic">
+                  وكلم الرب موسى قائلاً : إمضى مسرعاً من هنا وإنزل لأنه قد أثم شعبك الذى أخرجته من أرض مصر. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auerparabenin n~,wlem e~bol qen pimwit etakhonhen m~mof etotou: auyamio nwou n~oumaci: auouwst mmof: ouoh auset souswousi n~noumonk n~jij: ouoh pejwou
+               </Language>
+               <Language id="English">
+                  They turned aside quickly from the way I commanded them. They made themselves a calf and are worshiping and sacrificing to it, and are saying,
+               </Language>
+               <Language id="Arabic">
+                  وقد زاغوا سريعاً عن الطريق الذى أوصيتهم به. وصنعوا لهم عجلاً (مسبوكاً) وسجدوا له وذبحوا ذبائح لصنعة أيديهم. قائلين
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je nai ne neknou] p~Icra/l e~tauenk e~h~r/i ebol qen p~kahi n~,/mi: 
+               </Language>
+               <Language id="English">
+                  'These are your gods, O Israel, that brought you out of the land of Egypt.' 
+               </Language>
+               <Language id="Arabic">
+                  هذه هى آلهتك يا اسرائيل التى أخرجتك من أرض مصر. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }nou de ,at n~tajwnt e~rwou qen oum~bon: n~ta fotou e~bol: n~taaik nounis] n~eynoc:
+               </Language>
+               <Language id="English">
+                  Now therefore, let Me be, that I may burn in wrath against them and consume them. Then I will make of you a great nation."
+               </Language>
+               <Language id="Arabic">
+                  والآن دعنى أغضب عليهم بحنق وأبيدهم وأجعلك لأمة أعظم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Af]ho de n~je Mwu~c/c m~pem~yo m~P[oic Vnou] efjw m~moc: je eybeou P[oic ,~najwnt qen oum~bon ejen peklaoc n/e~take~nou e~bol qen p~kahi n~,/mi n~h~r/i qen teknis] n~jom nem pekswbs et[oci:
+               </Language>
+               <Language id="English">
+                  But Moses prayed before the Lord God and said, "Why, O Lord, does Your wrath burn hot against Your people whom You brought out of the land of Egypt with great power and a mighty hand?
+               </Language>
+               <Language id="Arabic">
+                  فتضرع موسى أمام الرب الإله قائلاً : لماذا يارب تغضب غضباً على شعبك الذى أخرجته من أرض مصر بقوتك العظيمة وذراعك الرفيعة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  M/pote n~cejoc n~je nirem n~,/mi: je etaue~nou e~bol qen oupon/ria~ eqoybou qen nitwou nem e~fotou e~bol hijen pikahi: 
+               </Language>
+               <Language id="English">
+                  Why should the Egyptians speak and say, 'He brought them out with evil intent, to kill them in the mountains and to consume them from the face of the earth'? 
+               </Language>
+               <Language id="Arabic">
+                  لئلا يقول المصريون أنك أخرجتهم بكيد لتقتلهم فى الجبال وتفنيهم عن وجه الأرض. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  &lt;ake~bol P[oic qen pjwnt n~te pekm~bon: ouoh ,w e~bol n~]kakia~ n~te peklaoc:
+               </Language>
+               <Language id="English">
+                  Turn from Your fierce wrath and be merciful to the wickedness of Your people.
+               </Language>
+               <Language id="Arabic">
+                  أرجع يارب عن حمو غضبك و أغفر شر شعبك.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N~tekervmeui~ n~Abraam nem Icaak nem Iakwb: nai etakwrk m~mok nwou m~min m~mok: 
+               </Language>
+               <Language id="English">
+                  Remember Abraham, Isaac, and Jacob, Your servants, to whom You swore by Yourself and said to them, 
+               </Language>
+               <Language id="Arabic">
+                  وأذكر إبراهيم وإسحق ويعقوب الذين أقسمت لهم بذاتك وقلت لهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je eie~ eyre petenjroj a~ sai e~masw m~v~r/] n~niciou n~te t~ve qen poua~sai: ouoh paikahi t/rf vai e~takjoc e~t/if m~poujroj: ouoh je cenaerk~ l/ronomin e~jwf sae~neh.
+               </Language>
+               <Language id="English">
+                  'I will greatly multiply your seed as the stars of heaven for multitude; and all this land I spoke about to give their seed, they shall inherit unto the ages.'''
+               </Language>
+               <Language id="Arabic">
+                  إنى أكثر نسلكم جداً كنجوم السماء فى كثرتها. وكل هذه الأرض التى قلت عنها أن تعطيها لنسلهم فيرثوها إلى الأبد.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  P[oic de af,w e~bol n~]kakia~ n~te peflaoc:
+               </Language>
+               <Language id="English">
+                  So the Lord granted mercy for the harm He said He would do to His people.
+               </Language>
+               <Language id="Arabic">
+                  فصفح الرب عن شر شعبه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aftacyo n~je Mwu~c/c afi~ e~pec/t e~bolhipitwou: e~re nip~lax c~nou] n~te ]metmeyre ,/ qen nefjij: e~ne han p~laxn~w~nine euc~q/out m~p~ho cnau paica nem fai.
+               </Language>
+               <Language id="English">
+                  Then Moses turned and went down from the mountain with the two tablets of the testimony in his hands. They were stone tablets written on both sides, on one side and on the other.
+               </Language>
+               <Language id="Arabic">
+                  ثم رجع موسى ونزل من الجبل ولوحا الشهادة فى يديه وهما لوحان من حجارة مكتوبان من الوجهين من هنا ومن هنا. 
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Wisdom of Solomon 1:1-9</Language>
+               <Language id="Arabic">حكمة سليمان 1: 1-9</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/WisdomOfSolomon"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Menre ]meym/i n/et ]hap e~p~kahi: a~ri v~meui~ m~P[oic qen oumeta~gayoc: e~retenkw] n~cwf qen ]metaplouc n~te petenh/t: 
+               </Language>
+               <Language id="English">
+                  Love righteousness, you who judge on the earth. Think about the Lord in goodness and seek Him with sincerity of heart; 
+               </Language>
+               <Language id="Arabic">
+                  أحبوا العدل يا قضاة الأرض. أذكروا الرب بالصلاح. أطلبوه ببساطة قلوبكم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je saujimi m~mof n~je n/e~te n~ceerpirazin m~mof an: safouwnh e~bol e~n/e~te n~ceoi n~aynah] e~rof an:
+               </Language>
+               <Language id="English">
+                  because He is found by those who do not tempt Him, and He is manifest to those who do not disbelieve Him.
+               </Language>
+               <Language id="Arabic">
+                  فانما يجده الذين لا يجربونه. ويتجلى للذين لا يكفرون به.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Sare pimeui~ gar ethwou vorjou e~bolha Vnou]: ouoh tefjom eyouwnh e~bol sac cohi n~niath/t: 
+               </Language>
+               <Language id="English">
+                  For dishonest reasoning separates people from God, and when His power examines someone, it convicts the undiscerning; 
+               </Language>
+               <Language id="Arabic">
+                  لأن الفكر الشرير يبعدهم عن الله. وقوته الظاهرة تبكت الجهال. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je m~pare ]covia~ se e~qoun e~ou'u,/ echwou: oude m~pac ouwnh qen oucwma n~refernobi:
+               </Language>
+               <Language id="English">
+                  For wisdom will not enter the soul that plots evil, nor will it dwell in a body involved in sin.
+               </Language>
+               <Language id="Arabic">
+                  لأن الحكمة لا تدخل فى نفس شريرة. ولا تحل فى جسم خاطئ. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Pip~neuma gar eyouab n~te ]covia~: safvwt e~bol n~,~rof niben: ouoh safouei e~bol n~nimokmek n~te niath/t: ouoh safcohi m~pi[in~jonc afsani~.
+               </Language>
+               <Language id="English">
+                  For a holy spirit of discipline [wisdom] flees from deceit and sends away undiscerning reasoning; it will put wrongdoing to shame when it comes near.
+               </Language>
+               <Language id="Arabic">
+                  لأن روح الحكمة الطاهرة يهرب من كل غش. ويبتعد عن أفكار الجهال ويبكت الظالم إذا أقبل. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oumairwmi gar pe pip~neuma n~te ]covia~: ouoh f~erm~aio an m~v/etjeoua~ qen nefc~votou:
+               </Language>
+               <Language id="English">
+                  For wisdom is a spirit that loves mankind, but she will punish a blasphemer because of his words;
+               </Language>
+               <Language id="Arabic">
+                  روح الحكمة محب للبشر. فلا يبرئ المجدف بشفتيه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je Vnou] pe pimeyre n~te nef[lwt: ouoh petqotqet m~m/i n~te pefh/t ouoh etcwtem e~peflac: 
+               </Language>
+               <Language id="English">
+                  For God is the witness of his thoughts, the true examiner of his heart, and the hearer of his tongue; 
+               </Language>
+               <Language id="Arabic">
+                  لأن شاهد كليتاه هو الله وهو الفاحص الحقيقى لقلبه والسامع للسانه. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je pip~neuma n~te P[oic afmoh n~]oikoumen/ ouoh v/etcwjp m~pt/rf: f~cwoun m~pouqrwou:
+               </Language>
+               <Language id="English">
+                  Because the Spirit of the Lord fills the world, and He who holds all things together knows what is said.
+               </Language>
+               <Language id="Arabic">
+                  لأن روح الرب ملأ المسكونة وبقية الكل وهو يعرف أصواتهم 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai m~monhli nas~hwp e~pefcaji qen ou[in~jonc oude n~nefer e~bol e~]k~ricic eyn/ou: eue~jemp~sini gar m~pia~ceb/c qen pefco[ni: 
+               </Language>
+               <Language id="English">
+                  Therefore no one who speaks unrighteous things will escape notice. Nor will justice, when it cross-examines, pass him by. For there shall be a close examination into the deliberations of an ungodly man,
+               </Language>
+               <Language id="Arabic">
+                  فلذلك لا يستطيع أحد يخفى كلامه بالظلم ولا ينجو من الدينونة الآتية. لأنه يفحص مشورة المنافق. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh P[oic nacwtem an e~nefcaji e~v~ouwnh e~bol n~nefa~nomia.
+               </Language>
+               <Language id="English">
+                  And a report of his words will come to the Lord as proof of his lawlessness.
+               </Language>
+               <Language id="Arabic">
+                  والرب لا يسمع لكلامه حتى يظهر آثامه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.1"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 121:4</Language>
+               <Language id="Arabic">مزمور 121: 4</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Etausenwou gar e~p~swi: e~mau n~je nivul/: nivul/ n~te P[oic eumetmeyre m~p~Icra/l: 
+               </Language>
+               <Language id="English">
+                  There the tribes went up, the tribes of the Lord, a testimony to Israel, 
+               </Language>
+               <Language id="Arabic">
+                  لأنه هناك صعدت القبائل قبائل الرب شهادة لاسرائيل,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Euouwnh ebol m~v~ran m~P[oic: All/louia.
+               </Language>
+               <Language id="English">
+                  To give thanks to the name of the Lord. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  يعترفون لأسم الرب. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 2:13-17</Language>
+            <Language id="Arabic">يوحنا 2: 13-17</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh e~tafi~ n~je i/couc e~h~r/i eIeroucal/m: Ouoh afjimi qen piervei n~niet ]ehe ebol nem e~cwou nem [rompi nem nifaikerma euhemci.
+               </Language>
+               <Language id="English">
+                  And Jesus went up to Jerusalem. And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business.
+               </Language>
+               <Language id="Arabic">
+                  وصعد يسوع إلى أورشليم فوجد فى الهيكل باعة البقر والغنم والحمام والصيارفة جلوساً
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh afyamio~ n~ouvragellion e~bol qen hannoh afhitou t/rou e~bol qen piervei 
+               </Language>
+               <Language id="English">
+                  When He had made a whip of cords, He drove them all out of the temple, 
+               </Language>
+               <Language id="Arabic">
+                  فصنع مخصرة (سوطاً) من حبال وطرد الجميع من الهيكل 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nie~cwou nem nie~hwou ouoh nikerma n~te nifaikerma afvonou e~bol ouoh nout~rapeza afvonjou.
+               </Language>
+               <Language id="English">
+                  with the sheep and the oxen, and poured out the changers’ money and overturned the tables.
+               </Language>
+               <Language id="Arabic">
+                  الغنم والبقر ونثر دراهم الصيارف وقلب موائدهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh pejaf n~n/et ][~rompi e~bol je alioui~ n~nai e~bol tai m~perer p/i mpaiwt n~ou/i n~swt: 
+               </Language>
+               <Language id="English">
+                  And He said to those who sold doves, “Take these things away! Do not make My Father’s house a house of merchandise!” 
+               </Language>
+               <Language id="Arabic">
+                  وقال لباعة الحمام ارفعوا هذه من هنا ولا تصيروا بيت أبى بيت تجارة. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Auerv~meui n~je nefmay/t/c je c~c~q/out je p~,oh m~pek/i petafouomt.
+               </Language>
+               <Language id="English">
+                  Then His disciples remembered that it was written, “Zeal for Your house has eaten Me up.”
+               </Language>
+               <Language id="Arabic">
+                  فتذكر تلاميذه أنه مكتوب غيرة بيتك أكلتنى.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionDay"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour of Monday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من يوم الأثنين من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  O Israel, God's first children: What impudence did you commit and how insensitive are your priests. The place of forgiveness became a place to sin. 
+               </Language>
+               <Language id="Arabic">
+                  يا لهذه الجسارة التى صنعتها يا شعب اسرائيل أول ميلاد الله. وهذه البلادة التى من كهنتك إذ موضع الغفران صار موضع الخطية 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The house of prayer and supplication became a den of thieves and a market place for cattle, sheep, pigeon merchants and for currency exchangers. What profit is that unclean and corrupt, and what injustice have you done.
+               </Language>
+               <Language id="Arabic">
+                  وبيت الصلاة وموضع الطلبة صيرتموه مسكناً للصوص ومجمعاً للعجول والخراف ولباعة الحمام والصيارف. ما هو هذا الربح المملوء من كل نجس وهذا الظلم الذى صنعتموه.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When the Son of God saw all this done in His Fathers House—for they have turned it in to a den for thievery, bandits, the unjust and a house of trade—he toppled the seats of pigeon merchants and the tables of the currency exchangers and scattered their funds.
+               </Language>
+               <Language id="Arabic">
+                  لما نظر إبن الله بيت أبيه وهذه كلها تصنع فيه. فإنهم صيروه مسكناً للصوص الخاطفين والظلمة وبيت التجارة ، فأخرج البقر والغنم معها كراسى باعة الحمام وموائد الصيارف قلبها وبدد دراهمهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  As they watched him do that, His disciples knew that it was thus written about Him; the Zeal for Your house has consumed me. That is why He did that with impunity.
+               </Language>
+               <Language id="Arabic">
+                  فلما نظر تلاميذه إلى هذا علموا أنه هكذا هو مكتوب لأجله أن غيرة بيتك أكلتنى فلهذا صنع هكذا بغير خوف.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Your reign is forever in heaven and on earth and Your fear, O Lord, has shaken the mountains. But Israel has erred and thus was denied God's help.
+               </Language>
+               <Language id="Arabic">
+                  سلطانك دائم فى السماء وعلى الأرض وخوفك يارب زعزع الجبال. أما اسرائيل فقد جهل فلذلك أستترت عنه معونته.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/DaytimeLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

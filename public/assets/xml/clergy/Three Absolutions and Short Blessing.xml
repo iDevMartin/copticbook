@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" PriestsOnly="true">
+   <Title>
+      <Language id="English">
+         Three Absolutions
+      </Language>      
+   </Title>
+   
+   <InsertDocument path="include/NonLiturgyConcludingAbsolutions"/>
+   
+   <Section expanded="true">
+      <InsertDocument path="include/ShortBlessing"/>
+   </Section>   
+</Document>

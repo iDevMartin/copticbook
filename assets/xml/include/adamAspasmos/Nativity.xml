@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Pihi/b m~m/i...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Pihi/b m~m/i n~te V] v~iwt a~riounai neman qen tekmetouro
+            </Language>
+            <Language id="English">
+               O True Lamb of God the Father, have mercy upon us in Your Kingdom.
+            </Language>
+            <Language id="Arabic">
+               ايها الحمل الحقيقي الذي لله الآب اصنع معنا رحمة في ملكوتك
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Rwf gar m~pekiwt etoi m~meyre qarok je n~yok pe pas/ri a~nok aij~vok m~voou
+            </Language>
+            <Language id="English">
+               For the mouth of Your Father testifies about You, saying “You are my Son, today I have begotten You.”
+            </Language>
+            <Language id="Arabic">
+               لأن فم أبيك يشهد لك أنك هو ابن العلي وأنا اليوم ولدتك.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Second Adam Aspasmos</Language>
+            <Language id="Coptic">Je aumici...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Je aumici nan n~oua~lou: au] nan n~ous/ri: v/et e~retefar,/: ,/ hijen tefnahbi
+            </Language>
+            <Language id="English">
+               For unto us a Child is born, unto us a Son is given, whose Rule is upon His shoulder.
+            </Language>
+            <Language id="Arabic">
+               انه ولد لنا ولد واعطينا ابنا الذي رئاسته علي منكبيه
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V] v/etjor: n~exouciact/c: ouoh piaggeloc n~te pinis] n~co[ni.
+            </Language>
+            <Language id="English">
+               God, the mighty Ruler, and the Messenger of great counsel.
+            </Language>
+            <Language id="Arabic">
+               الإله القوي المتسلط وملاك المشورة العظمي.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Third Adam Aspasmos</Language>
+            <Language id="Coptic">&lt;ere ]ve...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]ve m~beri: etafsai nan e~bol n~q/tc: n~je pir/ n~te ]dikeo~cun/: P[oic n~te ]k~t/cic t/rc.
+            </Language>
+            <Language id="English">
+               Hail to the new heaven, from which the Sun of Righteousness, the Lord of all creation, has shined upon us…
+            </Language>
+            <Language id="Arabic">
+               السلام للسماء الجديدة، التي أشرق منها، شمس البر، رب جميع البَرِية
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Fourth Adam Aspasmos</Language>
+            <Language id="Coptic">&lt;ere B/eyleem...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Nativity:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               &lt;ere B/eyleem: t~polic n~nip~rov/t/c: y/etaumec Pi,~rictoc n~q/tc: pimahc~nau n~Adam
+            </Language>
+            <Language id="English">
+               Hail to Bethlehem, the city of the prophets, in which Christ was born, the second Adam.
+            </Language>
+            <Language id="Arabic">
+               السلام لبيت لحم مدينة الأنبياء التي ولد فيها المسيح آدم الثاني.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

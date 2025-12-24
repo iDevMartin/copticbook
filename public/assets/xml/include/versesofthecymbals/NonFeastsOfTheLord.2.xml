@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/versesofthecymbals/saints/ArchangelMichaelPentecost"/>
+      <InsertDocument path="include/versesofthecymbals/saints/ArchangelMichaelStandard"/>
+   </Group>
+   
+   <InsertDocument path="include/versesofthecymbals/saints/ArchangelGabriel"/>
+   <InsertDocument path="include/versesofthecymbals/NativityParamoun"/>
+   <InsertDocument path="include/versesofthecymbals/saints/ArchangelRaphael"/>
+   <InsertDocument path="include/versesofthecymbals/saints/ArchangelSuriel"/>  
+</Document>

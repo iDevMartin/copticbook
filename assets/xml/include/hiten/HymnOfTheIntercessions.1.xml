@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="include/hiten/ArchangelMichaelPentecost"/>
+      <InsertDocument path="include/hiten/ArchangelMichaelStandard"/>
+   </Group>
+   
+   <InsertDocument path="include/hiten/ArchangelGabriel"/>
+   <InsertDocument path="include/hiten/ArchangelRaphael"/>
+   <InsertDocument path="include/hiten/ArchangelSuriel"/>
+</Document>

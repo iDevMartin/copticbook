@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMoses:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Moses:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimart/roc : ,ere piswij n~genneoc: ,ere piaylovoroc: pijwri eyouab abba Mwc/. 
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail to the courageous hero: Hail to the fighter: the strong Saint Abba Moses.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع المجاهد السلام للابس الجهاد القوي القديس أنبا موسى.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

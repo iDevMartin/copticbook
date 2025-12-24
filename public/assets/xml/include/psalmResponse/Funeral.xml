@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(FuneralTune ^ FuneralPrayer) | GeneralFuneralPrayer | (CovenantThursday ^ RaisingOfIncense) | JoyousSaturday">
+      <Section expanded="true">
+         <Title>                  
+            <Language id="Coptic">Ke u~pertou</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Covenant Thursday raising of incense, Joyous Saturday, and during funerals:
+            </Language>
+         </Comment>
+                        
+         <Group>
+            <Season id="JoyousSaturday">
+               <Comment>
+                  <Language id="English">
+                     The hymn “<span class="Coptic">Ke u~pertou</span>” is chanted quickly.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     Then they say the following hymn with its known (Adribi) tune or the fast one.
+                  </Language>
+                  <Language id="Arabic">
+                     ثم يقولون مقدمة الانجيل بالطريقه الادريبي أو دمجاً.
+                  </Language>
+               </Comment>      
+            </Season>
+         </Group>
+         
+         <InsertDocument path="pascha/include/KeEpertoNoRole"/>               
+      </Section>
+   </Season>
+</Document>

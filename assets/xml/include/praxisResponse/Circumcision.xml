@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Circumcision">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Yel/l m~mwten...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Circumcision:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               Yel/l m~mwten m~voou: Nieynoc t/rou qen ourasi: je P,#c# afswp e~rof: m~picebi e~h~r/i e~jwn.
+            </Language>
+            <Language id="English">
+               Rejoice today with joy / all you nations / for Christ accepted unto Him / the circumcision on our behalf.
+            </Language>
+            <Language id="Arabic">
+               تهللوا اليوم بفرح ياجميع الآمم ، لأن المسيح قبل إليه الختان عنا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

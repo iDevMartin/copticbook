@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(Liturgy ^ GreatFastSunday0) | GreatFast">
+      <Comment>
+         <Language id="English">
+            For Saturdays and Sundays of the Great Fast:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            V/e~tafern/cteuin e~h~r/i e~jwn n~h~me n~e~hoou nem h~me n~e~jwrh: sa n~tefcotten qen nennobi: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who fasted for us forty days and forty nights until He saved us from our sins. Save us and have mercy on us. 
+         </Language>
+         <Language id="Arabic">
+            الذي صام عنا أربعين يوماً وأربعين ليلة حتى خلصنا من خطايانا. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

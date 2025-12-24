@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/distribution/Nativity"/>
+   <InsertDocument path="include/distribution/NativityParamoun"/>
+   <InsertDocument path="include/distribution/ThomasSunday"/>
+   <InsertDocument path="include/distribution/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/distribution/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/distribution/KoiahkSeason"/>
+   <InsertDocument path="include/distribution/GreatFastWeekend"/>
+   <InsertDocument path="include/distribution/LazarusSaturday"/>
+   <InsertDocument path="include/distribution/HosannaSunday"/>
+</Document>

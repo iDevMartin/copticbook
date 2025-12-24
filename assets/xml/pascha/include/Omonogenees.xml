@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">O Only Begotten</Language>
+            <Language id="Arabic">أيها الإبن الوحيد</Language>
+            <Language id="Coptic">Omonogen/c</Language>
+         </Title>
+         
+         <Text>
+            <Language id="Coptic">
+               Omonogen/c u~ioc ke logoc tou yeou a~yanatoc u~par,wn ke kata dexamenoc: dia~t/n /~meteran cwt/rian: carkwy/ne ek t/c a~gia~c yeo~tokou ke a~i~ paryenou Mariac.
+            </Language>
+            <Language id="English">
+               O Only-Begotten, Eternal, and Immortal Word of God, who for our salvation did accept all (sufferings). Who was incarnate of the Holy Theotokos Mother of God and (Ever-Virgin Mary).
+            </Language>
+            <Language id="Arabic">
+               أيها الإبن الوحيد وكلمة الله الذى لا يموت الأزلى القابل كل شيء من أجل خلاصنا المتجسد من القديسة والدة الإله الدائمة البتولية مريم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Atreptwc e~nany~rwpicac o~c~taurwyic te &lt;ricte o~Yeoc. Yanatw yanaton pat/cac: ic wnt/c a~giac t~ria~doc: cundoxazomenoc tw Patri ke tw a~giw Pneumati: cwcon /~mac.
+            </Language>
+            <Language id="English">
+               Who, without change, became Man and was crucified, Christ, God. (Who) trampled down death by death, One of the Holy Trinity, Who is glorified with the Father and the Holy Spirit, save us.
+            </Language>
+            <Language id="Arabic">
+               بغير استحالة المتأنس المصلوب المسيح الإله. بالموت داس الموت. أحد الثالوث القدوس الممجد مع الآب والروح القدس خلصنا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               A~gioc o~ Yeoc: o~di /~mac an y~rwpoc: gegonwc atreptwc ke minac Yeoc.
+            </Language>
+            <Language id="English">
+               Holy God, who being God, for our sake, became Man without change.
+            </Language>
+            <Language id="Arabic">
+               قدوس الله الذى من اجلنا صار إنساناً بغير استحالة وهو الإله.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               A~gioc ic,uroc o~ e~n acyenia~ to u~pere,on t/c ic,uroc e~pidixamenoc.
+            </Language>
+            <Language id="English">
+               Holy Mighty, who by weakness showed forth what is greater than power.
+            </Language>
+            <Language id="Arabic">
+               قدوس القوى الذى اظهر بالضعف ما هو اعظم من القوة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               A~gioc a~yanatoc o~c~taurwyic di /~mac: o~ton dia~c~taurou yanaton u~pominac carki ke dixacuwc ke en yanatw gegonwc u~par,ic a~yanatoc.
+            </Language>
+            <Language id="English">
+               Holy Immortal, who was crucified for our sake, and endured death in His flesh, the Eternal and Immortal.
+            </Language>
+            <Language id="Arabic">
+               قدوس الذى لا يموت الذى صلب من اجلنا وصبر على موت الصليب وقبله فى جسده وهو أزلى غير مائت.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Agia Triac e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               O Holy Trinity, Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها الثالوث القدوس ارحمنا.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+</Document>

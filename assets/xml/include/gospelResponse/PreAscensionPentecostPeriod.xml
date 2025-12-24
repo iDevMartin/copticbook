@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod ^ !(Liturgy ^ ThomasSunday)">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+            </Language>
+         </Comment>
+         
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Loipon Au,au qen pim~hau: kata nic~m/ m~p~rov/tikon qen pimah somt n~e~hoou Pi,~rictoc Anect/ eknekrwn
+                  </Language>
+                  <Language id="English">
+                     And He was placed in the tomb, according to the prophetic voices, on the third day, Christ rose from the dead.
+                  </Language>
+                  <Language id="Arabic">
+                     وأيضاً وضع في القبر، حسب الأخبار النبوية. وفي اليوم الثالث المسيح قام من الأموات 
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/gospelResponse/ResurrectionConclusion"/>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/gospelResponse/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+</Document>

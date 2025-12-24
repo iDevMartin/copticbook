@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Vespers="true" RaisingOfIncense="true">
+   <Group>
+      <InsertDocument path="include/VespersNotPrayedComment"/>
+      
+      <Season id="Other">
+         <InsertDocument path="raisingOfIncense/include/RaisingOfIncenseContent"/>
+      </Season>
+   </Group>
+</Document>

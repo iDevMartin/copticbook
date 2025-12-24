@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ThomasSunday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for Thomas Sunday</Language>
+            <Language id="Arabic">ذوكصولوجية لأحد توما</Language>
+            <Language id="Coptic">Qen pimah s~m/n...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For Thomas Sunday:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Qen pimah s~m/n n~e~hoou: nauyou/t e~qoun n~je nimay/t/c: naf,/ nemaf n~je Ywmac: nare nirwou ecsotem.
+            </Language>
+            <Language id="English">
+               On the eighth day, the disciples were gathered, and Thomas was with them, the doors were shut.
+            </Language>
+            <Language id="Arabic">
+               فى اليوم الثامن كان التلاميذ مجتمعين ومعهم توما وكانت الأبواب مغلقة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afo~hi e~ratf qen toum/]: n~je Peno#c# I/#c# P,#c#: pejaf je t~hir/n/ nemwten: namenra] ouoh pejaf.
+            </Language>
+            <Language id="English">
+               Our Lord Jesus Christ, stood in their midst, and said “Peace be to you, O my brothers” and he said.
+            </Language>
+            <Language id="Arabic">
+               ربنا يسوع المسيح وقف فى وسطهم وقال سلام لكم ياأحبائى وقال.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ywmac ma pekt/b m~nai: ouoh a~nioui ntekjij: ,a tekjij qen pac~vir: m~pereraynah] alla nah].
+            </Language>
+            <Language id="English">
+               “Thomas put your finger here, reach out your hand, place your hand on My side, do not doubt but believe.”
+            </Language>
+            <Language id="Arabic">
+               ياتوما هات أصبعك إلى هنا وضع يدك فى جنبى ولا تكن غير مؤمن بل مؤمناً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ywmac de afws e~bol: je Pao#c# ouoh Panou]: pejaf naf n~je I/#c#: aknau e~roi aknah].
+            </Language>
+            <Language id="English">
+               Thomas proclaimed, “My Lord and my God,” Jesus said to him, “You see and you believe.”
+            </Language>
+            <Language id="Arabic">
+               فصرخ توما قائلا ربى والهى قال له يسوع لما رأيتنى آمنت.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wounia~tou n~n/e~taun/ou: e~roi m~pounau aunah] e~roi: ariten n~emp~sa n~tennah] e~rok: w Penn/b p~ouro P,#c#.
+            </Language>
+            <Language id="English">
+               “But blessed are those who accept, and believe but have no seen,” make us worthy to believe in You, O our Master Christ the King.
+            </Language>
+            <Language id="Arabic">
+               طوبى لمن يقبل إلى ويؤمن بى ولم يرانى أجعلنا مستحقين أن نؤمن بك ياسيدنا الملك المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tenoi n~ramao~: qen nia~gayon etj/k e~bol: qen ounah] teneralin: enjw m~moc je All/louia~.
+            </Language>
+            <Language id="English">
+               Therefore we are wealthy, with perfect gifts, and with faith we sing, saying Alleluia.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا نحن أغنياء بالخيرات الكاملة وبايمانٍ نرتل قائلين الليلويا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. I/#c# P,#c# p~ouro n~te p~wou: aftwnf e~bol qen n/eymwout.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Jesus Christ the King of Glory, has risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا يسوع المسيح ملك المجد قام من بين الأموات.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>
+               
+      </Section>
+   </Season>
+</Document>

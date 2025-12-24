@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(PentecostPeriod | Joyful29thOfTheMonth) ^ !ThirdProstration">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the Resurrection</Language>
+            <Language id="Arabic">ذوكصولوجية لعيد القيامة المجيد والخمسين</Language>
+            <Language id="Coptic">Tote rwn...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Resurrection and the Holy Fifty Days:
+            </Language>      
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tote rwn afmoh n~rasi: ouoh penlac qen ouyel/l: je Peno#c# I/#c# P,#c#: aftwnf e~bol qen n/eymwout.
+            </Language>
+            <Language id="English">
+               Then our mouths are filled with joy, and our tongues with rejoicing, for our Lord Jesus Christ, has risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               حينئذ امتلأ فُمنا فرحاً ولساننا تهليلاً لأن ربنا يسوع المسيح قام من بين الأموات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afkwrf m~v~mou qen tefjom: afy~rep~wnq e~rouwini e~ron: n~yof on v/e~tafsenaf: e~nima etcapec/t m~p~kahi.
+            </Language>
+            <Language id="English">
+               He has abolished death by His might, and made life shine upon us, He is the one who has descended, to the lower parts of the earth.
+            </Language>
+            <Language id="Arabic">
+               بقوته أبطل الموت وجعل الحياة تضئ لنا وهو أيضاً الذي مضى إلى الأماكن التي أسفل الأرض.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nim~nout n~te Amen]: aunau e~rof auerho]: aftako n~ninakhi m~v~mou: m~pous~jemjom n~a~moni m~mof.
+            </Language>
+            <Language id="English">
+               The gatekeepers of Hades, saw Him and were afraid, He abolished the pangs of death, and He was not held by them.
+            </Language>
+            <Language id="Arabic">
+               بوابو الجحيم رأوه وخافوا وأهلك طلقات الموت فلم تستطع أن تمسكه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afqomqem n~hanpul/ n~h~omt: afkws n~hanmo,louc m~benipi: afi~ni n~nefcwtp e~bol: qen ouounof nem ouyel/l.
+            </Language>
+            <Language id="English">
+               He has crushed the gates of brass, and broke the bars of iron, and brought out His chosen ones, with rejoicing and with joy.
+            </Language>
+            <Language id="Arabic">
+               سحق الابواب النحاس وكسر المتاريس الحديد وأخرج مختاريه بفرح وتهليل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afo~lou e~p~[ici nemaf: e~qoun e~nefman~emton: afnahmou eybe pefran: afouwnh n~tefjom nwou e~bol.
+            </Language>
+            <Language id="English">
+               He lifted them up with Him, into His place of rest, and saved them for the sake of His Name, and revealed His power to them.
+            </Language>
+            <Language id="Arabic">
+               وأصعدهم معه إلى العلو إلى موضع راحته خلصهم لأجل إسمه وأظهر قوته لهم..
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tenoi n~ramao~: qen nia~gayon etj/k e~bol: qen ounah] teneralin: enjw m~moc je All/louia~.
+            </Language>
+            <Language id="English">
+               Therefore we are wealthy, with perfect gifts, and with faith we sing, saying Alleluia.
+            </Language>
+            <Language id="Arabic">
+               فلهذا نحن أغنياء بالخيرات الكاملة وبايمانٍ نرتل قائلين الليلويا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. I/#c# P,#c# p~ouro n~te p~wou: aftwnf e~bol qen n/eymwout.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Jesus Christ the King of glory, has risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا الليلويا يسوع المسيح ملك المجد قام من بين الأموات.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/FaiErePeoo"/>         
+      </Section>
+      
+      <Group>
+         <InsertDocument path="melodies/include/MatinsResurrection"/>
+      </Group>      
+   </Season>
+</Document>

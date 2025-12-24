@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>      
+            <Language id="Arabic">مرد الإنجيل</Language>      
+            <Language id="Coptic">F~tai/out gar...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Cross in the Hosanna Tune:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               F~tai/out gar e~masw: n~je pim/ini n~te pic~tauroc: n~te I/couc Pi,~rictoc P~ouro: Pennou] n~a~l/yinoc
+            </Language>
+            <Language id="English">
+               For greatly honored: is the sign of the Cross: of Jesus Christ the King: our true God.
+            </Language>
+            <Language id="Arabic">
+               لأنها مكرمة جداً علامة صليب يسوع المسيح الملك إلهنا الحقيقي.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ArchangelSuriel:Intercessions">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Suriel:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nip~recbia:  n~te piar,iaggeloc eyouab: Couri/l picalpict/c> P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the intercessions of the Holy Archangel Suriel the trumpeter, O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بشفاعات رئيس الملائكة الطاهر سوريال المبوق. ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

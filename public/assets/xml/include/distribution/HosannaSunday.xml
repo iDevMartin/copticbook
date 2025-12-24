@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Comment>
+         <Language id="English">
+            The hymn <span class="Coptic">Eulogimenoc</span> may be chanted:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Eulogimenoc"/>
+   </Season>
+</Document>

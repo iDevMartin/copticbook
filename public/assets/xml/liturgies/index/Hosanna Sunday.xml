@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ HosannaSunday ^ AdamDays ^ Sundays">
+      <Title>
+         <Language id="English">Hosanna Sunday</Language>
+         <Language id="Arabic">أحد الشعانين</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Offering of Evening Incense</Language>
+         <Language id="Arabic">رفع بخور عشية</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Vespers">
+         <InsertDocument path="include/versesofthecymbals/Index"/>
+         <InsertDocument path="include/doxologies/Index"/>
+         <InsertDocument path="include/PostEvnotiNaiNan"/>
+         <InsertDocument path="readings/include/VespersPsalm"/>
+         <InsertDocument path="include/psalmResponse/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <ForceSeason id="MidnightPraises">
+         <InsertDocument path="include/psalies/OccasionPsalies"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Offering of Morning Incense</Language>
+         <Language id="Arabic">رفع بخور باكر</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins">         
+         <InsertDocument path="include/versesofthecymbals/Index"/>
+         <InsertDocument path="include/doxologies/Index"/>
+         <InsertDocument path="include/ProcessionOfTheCrossIntro"/>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Procession of the Cross</Language>            
+            </Title>
+            
+            <Comment>
+               <Language id="English">Please change the date to Hosanna Sunday and refer to the Matins.</Language>
+            </Comment>
+         </Section>
+         
+         <InsertDocument path="include/psalmTrailer/Index"/>
+         <InsertDocument path="include/psalmResponse/Index"/>
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <ForceSeason id="Other">
+            <InsertDocument path="include/praxisResponse/Index"/>
+         </ForceSeason>
+         
+         <InsertDocument path="include/synaxarionConclusion/SynaxarionConclusion"/>
+         <InsertDocument path="include/psalmResponse/Index"/>
+         
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Gospel Responses</Language>            
+               <Language id="Arabic">مرد الإنجيل</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">Please change the date to Hosanna Sunday and refer to the Liturgy of the Word.</Language>
+            </Comment>
+         </Section>
+         
+         <InsertDocument path="include/adamAspasmos/Index"/>
+         <InsertDocument path="include/watosAspasmos/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/psalm150/Index"/>
+         <InsertDocument path="include/distribution/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/hosannasunday/Hosanna Sunday">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

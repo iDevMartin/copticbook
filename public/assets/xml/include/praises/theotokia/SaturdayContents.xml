@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>         
+         <Language id="English">The Saturday Theotokia (1)</Language>
+         <Language id="Arabic">ثاؤطوكية يوم السبت (1)</Language>
+         <Language id="Coptic">}atywleb n~cemne...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            }atywleb n~cemne: ouoh e#y#u# qen hwb niben: y/etaci~ni nan m~V]: eftal/out e~jen necj~voi.
+         </Language>
+         <Language id="English">
+            O, Virgin Mary, the undefiled virtuous and holy in everything, who carried God to us.
+         </Language>
+         <Language id="Arabic">
+            أيتها الغير دنسة العفيفة القديسة فى كل شئ التى قدمت لنا الله محمولا على ذراعيها.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Crasi neme n~je ]k~t/cic t/rc: ecws e~bol ecjw m~moc: je ,ere y/eymeh n~hmot: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            The whole creation rejoice with you saying: Hail to you O full of grace. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            تفرح معكِ كل الخليقة صارخة قائلة السلام لك ياممتلئة نعمة الرب معكِ.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_1"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_1"/>
+         </Group>      
+      </Season>
+   </Group>
+      
+   <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+      <Title>
+         <Language id="English">The Saturday Theotokia (2)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (2)</Language>
+         <Language id="Coptic">Tenermakarizin...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Tenermakarizin n~temetnis]: w ]paryenoc n~cab/: ten] ne m~pi,ereticmoc: nem Gabri/l piaggeloc.
+         </Language>
+         <Language id="English">
+            We praise your greatness, O the wise Virgin, and we say: Hail to you with Gabriel the angel.
+         </Language>
+         <Language id="Arabic">
+            نغبط عظمتك أيتها العذراء الحكيمة ونُعطيك السلام مع غبريال الملاك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je e~bolhiten pekarpoc: a~pioujai tahe pengenoc: a~V] hotpen e~rof n~kecop: hiten tefmeta~gayoc.
+         </Language>
+         <Language id="English">
+            Because your yield saved our race, and reconciled us again with God out of His goodness.
+         </Language>
+         <Language id="Arabic">
+            لأن من قبل ثمرتك أدرك الخلاص جنسنا  وأصلحنا الله مرة أخرى من قبل صلاحه.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_2"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_2"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Saturday Theotokia (3)</Language>
+         <Language id="Arabic">ثاؤطوكية يوم السبت (3)</Language>      
+         <Language id="Coptic">Hwc man~selet</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Hwc man~selet n~attako: a~Pip#n#a# e#y#u# i~ e~jw: oujom n~te v/et[oci: eynaerq/ibi e~ro Maria~.
+         </Language>
+         <Language id="English">
+            As an undefiled chamber, the Holy Spirit came upon you, and the power of the Most High illuminated you, O Mary.
+         </Language>
+         <Language id="Arabic">
+            كخدرٍ بغير فساد الروح القدس حل عليك وقوة العلى ظللتك يامريم.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je a~rej~vo m~pia~l/yinoc: n~logoc n~S/ri n~te Viwt: eym/n e~bol sa e~neh: afi~ afcotten qen nennobi.
+         </Language>
+         <Language id="English">
+            You borne the True Word, the Son of the Eternal Father, Who came and saved us from our sins.
+         </Language>
+         <Language id="Arabic">
+            لأنك ولدت الكلمة الحقيقى ابن الآب الدائم إلى الأبد أتى وخلصنا من خطايانا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_3"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_3"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+      <Title>
+         <Language id="English">The Saturday Theotokia (4)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (4)</Language>
+         <Language id="Coptic">Nyo gar pe pigenoc...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Nyo gar pe pigenoc: nem ]nouni n~te Dauid: a~remici nan kata carx: m~Penc#w#r# I/#c# P,#c#.
+         </Language>
+         <Language id="English">
+            You are the race and descendant of David. You borne to us our Savior Jesus Christ.
+         </Language>
+         <Language id="Arabic">
+            أنتِ هي جنس وأصل داود ولدت لنا جسدياً مخلصنا يسوع المسيح.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Pimonogen/c e~bol qen Viwt: qajwou n~nie~wn t/rou: afsouwf e~bol m~min m~mof: af[i n~oumorv/ m~bwk n~q/]: eybe penoujai.
+         </Language>
+         <Language id="English">
+            The Only-Begotten of the Father before all ages, He abandoned Himself and He took flesh from you as a servant for our salvation.
+         </Language>
+         <Language id="Arabic">
+            الوحيد من الآب قبل كل الدهور  أخلى ذاته وأخذ شكل عبد منك لاجل خلاصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_4"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_4"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Saturday Theotokia (5)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (5)</Language>
+         <Language id="Coptic">Areswpi n~oumahc~nou]...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Areswpi n~oumahc~nou] m~ve: hijen pikahi w~ ]macnou]: je afsai nan e~bol n~q/]: n~je pir/ n~te ]dikeo~cun/.
+         </Language>
+         <Language id="English">
+            You became the second heaven on earth, O the Theotokos. For He shone to us from you the sun of righteousness.
+         </Language>
+         <Language id="Arabic">
+            صرتِ سماء ثانية على الأرض ياوالدة الإله لأنه أشرق لنا منكِ شمسُ البر.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Arej~vof hiten oup~rov/tia~: a[ne j~roj n~attako: hwc d/miourgoc: ouoh n~logoc n~te Viwt.
+         </Language>
+         <Language id="English">
+            You bore Him according to prophecy: without seed or blemish. He is the Creator and the Word of the Father.
+         </Language>
+         <Language id="Arabic">
+            ولدته كالنبوة بغير زرع ولا فساد وهو الخالق وكلمة الآب.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_5"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_5"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+      <Title>
+         <Language id="English">The Saturday Theotokia (6)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (6)</Language>
+         <Language id="Coptic">}c~k/n/ y/e~toumou]...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            }c~k/n/ y/e~toumou] e~roc: je y/e#y#u# n~te n/e#y#u#: e~re ]kibwtoc n~q/tc: etosj n~noub n~caca niben.
+         </Language>
+         <Language id="English">
+            The dome which is called the Holy of holies, which contains the Ark, overlaid with gold from every side
+         </Language>
+         <Language id="Arabic">
+            القبة التى تُدعى قدس الأقداس التى فيها التابوت المصفح بالذهب من كل ناحية.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Y/ e~re nip~lax n~q/tc: n~te ]dia~y/k/: nem pic~tamnoc n~noub: e~re pimanna h/p n~q/tf.
+         </Language>
+         <Language id="English">
+            In which there is the covenant and the golden vessel with the hidden manna.
+         </Language>
+         <Language id="Arabic">
+            الذى فيه لوحا العهد والقسط الذهبى المخفى فيه المن.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Foi n~tupoc m~Ps/ri m~V]: e~tafi~ afswpi qen Maria: ]paryenoc n~atywleb: af[icarx e~bol n~q/tc.
+         </Language>
+         <Language id="English">
+            It is a symbol to the Son of God, Who came and dwelt in Virgin Mary, the unblemished, and took flesh from her.
+         </Language>
+         <Language id="Arabic">
+            هو مثال لإبن الله الذى أتى وحل فى مريم العذراء غير الدنسة وتجسد منها.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Acj~vof e~pikocmoc: qen oumetouai n~atvwrj: alla n~yof pe p~ouro n~te p~w~ou: afi~ ouoh afcw] m~mon.
+         </Language>
+         <Language id="English">
+            She gave birth to Him to the world: with the Divine unity without separation. For He is the King of glory came and saved us.
+         </Language>
+         <Language id="Arabic">
+            ولدته للعالم باتحاد (اللاهوت) بغير افتراق إذ هو ملك المجد أتى وخلصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Piparadicoc e~s~l/loui~: je afi~ n~je pihi/b: n~logoc n~S/ri n~te Viwt eym/n e~bol sa e~neh: afi~ afcotten qen nennobi.
+         </Language>
+         <Language id="English">
+            The Paradise rejoices for the coming of the lamb, the Word, Son of the Father, the Eternal, to save us from our sins.
+         </Language>
+         <Language id="Arabic">
+            يتهلل الفردوس بمجئ الحَمَل الكلمة إبن الآب الدائم إلى الأبد ليخلصنا من خطايانا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_6"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_6"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1" antiphoneStart="true">
+      <Title>
+         <Language id="English">The Saturday Theotokia (7)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (7)</Language>
+         <Language id="Coptic">Aumou] e~ro...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Aumou] e~ro je y~mau m~V]: piouro m~m/i menenca y~remacf: a~reo~hi e~reoi m~paryenoc: qen ouhwb m~paradoxon.
+         </Language>
+         <Language id="English">
+            You are called the mother of God, the True King, and after you delivered Him you mysteriously remained virgin.
+         </Language>
+         <Language id="Arabic">
+            دعيتِ أم الله الملك الحقيقى وبعد ما ولدته بقيت عذراء بأمرٍ عجيب.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Emmanou/l v/e~tarej~vof: eybe vai afa~reh e~ro: e~reoi n~attako: ectob n~je teparyenia~.
+         </Language>
+         <Language id="English">
+            Immanuel, Whom you gave birth to, He reserved you from defilement and sealed your virginity.
+         </Language>
+         <Language id="Arabic">
+            عمانوئيل الذى ولدته هو حفظك بغير فساد وبتوليتك مختومة.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_7"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_7"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Saturday Theotokia (8)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (8)</Language>
+         <Language id="Coptic">Aretenywn] e~]mouki...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            Aretenywn] e~]mouki: y/eta Iakwb nau e~roc: ec[oci sa e~h~r/i e~t~ve: e~re Po#c# hijwc qen ouho].
+         </Language>
+         <Language id="English">
+            You are said to be like the ladder that Jacob saw ascending to heaven and the feared God on it.
+         </Language>
+         <Language id="Arabic">
+            شُبهتِ بالسلم الذى رآه يعقوب مرتفعاً إلى السماء والرب المخوف عليه.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere ne e~bolhitoten: w y/etacswp e~roc m~pia~,writoc: qen tecm/tra m~paryenik/: ouoh ecsotem n~caca niben.
+         </Language>
+         <Language id="English">
+            Hail to the one who had in her womb, the Uncontainable, and Her virginity is sealed.
+         </Language>
+         <Language id="Arabic">
+            سلامنا إلى من قبلت غير المحوى فى بطنها وبتوليتها مختومة من كل ناحية.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Areswpi nan n~oup~roctat/c: nahren V] penrefcw]: v/etaf[icarx e~bol n~q/]: eybe penoujai.
+         </Language>
+         <Language id="English">
+            You became our intercessor before God our Saviour, Who incarnate from you for our salvation.
+         </Language>
+         <Language id="Arabic">
+            صرت لنا شفيعة أمام الله مخلصنا الذى تجسد منكِ لأجل خلاصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_8"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_8"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Saturday Theotokia (9)</Language>      
+         <Language id="Arabic">ثاؤطوكية يوم السبت (9)</Language>
+         <Language id="Coptic">H/ppe ic Po#c#...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            H/ppe ic Po#c# afi~ e~bol n~q/]: w~ y/etc~mamat etj/k e~bol: e~nohem m~pikocmoc e~tafyamiof: eybe nefmetsenh/t etos.
+         </Language>
+         <Language id="English">
+            Here is the Lord has come forth from you, O the blessed and perfect, to save His creation according to his mercy.
+         </Language>
+         <Language id="Arabic">
+            هوذا الرب خرج منكِ أيتها المباركة الكاملة ليخلص العالم الذى خلقه حسب كثرة رأفاته.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Tenhwc e~rof ten]w~ou naf: tenerhouo~ [ici m~mof: hwc a~gayoc ouoh m~mairwmi: nai nan kata peknis] n~nai.
+         </Language>
+         <Language id="English">
+            We praise and glorify Him, and exceedingly exalt Him, as a Good and Philanthropic One. Have mercy on us according to Your great mercy.
+         </Language>
+         <Language id="Arabic">
+            نُسبحه ونُمجده ونُزيده علواً كصالح ومحب للبشر إرحمنا كعظيم رحمتك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere y/eymeh n~h~mot: ,ere y/etacjem h~mot: ,ere y/etacmec P,#c#: ouoh Po#c# sop neme.
+         </Language>
+         <Language id="English">
+            Hail to you O full of grace: Hail to you who has found grace. Hail to you who has given birth to Christ. The Lord is with you.
+         </Language>
+         <Language id="Arabic">
+            السلام لك ياممتلئة نعمة السلام لك يامن وجدتِ نعمة السلام لك يامن ولدت المسيح الرب معكِ.
+         </Language>
+      </Text>
+   </Section>
+   
+   <Group>
+      <Season id="!ChurchConsecration">
+         <Group>
+            <InsertDocument path="melodies/include/greatfast/SaturdayTheotokia_9"/>
+            <InsertDocument path="include/praises/koiahk/SaturdayTheotokia_9"/>
+         </Group>
+      </Season>
+   </Group>
+</Document>

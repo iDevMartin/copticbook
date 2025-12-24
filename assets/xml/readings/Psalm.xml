@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Vespers">
+         <InsertDocument path="readings/Vespers Psalm"/>
+      </Season>
+      
+      <Season id="Matins">
+         <InsertDocument path="readings/Matins Psalm"/>
+      </Season>
+      
+      <Season id="Liturgy">
+         <InsertDocument path="readings/Liturgy Psalm"/>
+      </Season>                        
+      
+      <Season id="Other">
+         <InsertDocument path="readings/Other Psalm"/>
+      </Season>
+   </Group>
+</Document>

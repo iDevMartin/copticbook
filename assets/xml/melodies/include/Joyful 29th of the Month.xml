@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="melodies/include/Annunciation"/>
+   <InsertDocument path="melodies/include/Nativity"/>
+   <InsertDocument path="melodies/include/pentecost/Resurrection"/>
+</Document>

@@ -1,0 +1,1987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">The Institution Narrative</Language>
+      <Language id="Arabic">الصلُّوات التأسيسية</Language>
+   </Title>
+   
+   <Role id="Priest">
+      <Group>
+      	<Season id="StBasilLiturgy">
+            <Comment>
+               <Language id="English">
+                  The priest censes his hands three times and then censes the bread, followed by the wine, with his hands, while saying:
+               </Language>
+               <Language id="Arabic">
+                  يبخر الكاهن يديه على المجمرة ثلاث مرات ثم يبخر بيديه إلى القربانة ثم إلى الخمر.وهو يقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Af,w de nan e~q~r/i m~painis] m~muct/rion n~te ]meteuceb/c.
+               </Language>
+               <Language id="English">
+                  He instituted for us this great Mystery of godliness.
+               </Language>
+               <Language id="Arabic">
+                  ووضع لنا هذا السر العظيم الذي للتقوى
+               </Language>         
+            </Text>   
+            
+            <Comment>
+               <Language id="English">
+                  The priest takes away his smoke-filled hands from the censer, and says:
+               </Language>
+               <Language id="Arabic">
+                  ثم يرفع يديه من فوق المجمرة بالبخور ويقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Efy/s gar e~t/if e~v~mou qa p~wnq m~pikocmoc.
+               </Language>
+               <Language id="English">
+                  For being determined to give Himself up to death for the life of the world,
+               </Language>
+               <Language id="Arabic">
+                  لأنه فيما هو راسم أن يسلم نفسه للموت عن حياة العالمِ.
+               </Language>         
+            </Text>   
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Comment>
+               <Language id="English">
+                  The priest takes hold of the spoon with a veil and makes the sign of the cross over the incense box, then takes a spoonful of incense and puts it in the censer, while saying:
+               </Language>
+               <Language id="Arabic">
+                  ههنا يمسك الكاهن المعلقة بلفافة، ويرشم بها دُرْج البخور رشماً واحداً، ثم يأخذ ملء ملعقة بخور من الدُرْج ويضعه في المجمرة، وهو يقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  }ini nak e~h~r/i pan/b n~nicumbolon n~te tametremhe.
+               </Language>
+               <Language id="English">
+                  I offer You, O my Master, the symbols of my freedom.
+               </Language>
+               <Language id="Arabic">
+                  أُقَدِّمُ لكَ يا سيدي مشورات حُريتي.
+               </Language>         
+            </Text>   
+            
+            <Text>
+               <Language id="Coptic">
+                  }c~qai n~nah~b/oui n~ca nekcaji.
+               </Language>
+               <Language id="English">
+                  I write my works according to Your sayings.
+               </Language>
+               <Language id="Arabic">
+                  وأكتبُ أعمالي تبعاً لأقوالِكَ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nyok pe e~tak] e~tot m~paisemsi eymeh  m~muct/rion.
+               </Language>
+               <Language id="English">
+                  You are He who has given me this service, full of mystery.
+               </Language>
+               <Language id="Arabic">
+                  أنتَ الذي أَعطيتني هذه الخدمةَ المملوءةَ سراً.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ak] n/i n~y~meta~lum'ic n~te tekcarx qen ouwik nem ou/rp.
+               </Language>
+               <Language id="English">
+                  You have given me the partaking of Your Flesh, in bread and wine.
+               </Language>
+               <Language id="Arabic">
+                  أعطيتني تناولَ جسدِكَ بخبزٍ وخمرٍ.
+               </Language>         
+            </Text>   
+            
+            <Comment>
+               <Language id="English">
+                  The priest points to the bread and wine.
+               </Language>
+               <Language id="Arabic">
+                  هنا يشير الكاهن إلى الخبز والخمر.
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Je n~yof pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r ouoh penouro t/ren I/couc Pi,rictoc.
+               </Language>
+               <Language id="English">
+                  For Your only-begotten Son, our Lord, God, Savior, and King of us all, Jesus Christ,
+               </Language>
+               <Language id="Arabic">
+                  لأن ابنَكَ الوحيدَ ربَّنا وإلَهَنا ومخلِّصَنا وملكَنا كلِّنا يسوعَ المسيحِ.
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  Here the priest holds the spoon with a veil, signs the incense box with it once, puts a spoonful of incense into the censer, censes his hands three times as is the custom, and says:
+               </Language>
+               <Language id="Arabic">
+                  ههنا يمسك الكاهن الملعقة بلفافة ويرشم بها على درج البخور رشماً واحداً ويضع بها البخور في المجمرة ثم يبخر يديه على المجمرة ثلاث دفعات كالعادة ويقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Qen pie~jwrh etefnat/if n~q/tf e~sepm~kah e~h~r/i e~jen nennobi.
+               </Language>
+               <Language id="English">
+                  in the night in which He was about to give Himself up to suffer for our sins—
+               </Language>
+               <Language id="Arabic">
+                  في الليلةِ التي سَلَّم ذاتَه فيها ليتألَّمََ عن خطايانا.
+               </Language>         
+            </Text>   
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pimou e~tafsopf e~rof e~bolhitotf qen pefouws m~min m~mof e~h~r/i e~jwn t/ren.
+               </Language>
+               <Language id="English">
+                  and to death, which He accepted by His own will for us all—
+               </Language>
+               <Language id="Arabic">
+                  والموتُ الذي قَبِلَه بذاتِه بإرادتِه وحدِه عنا كلِّنا.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Picteuo~men.
+         </Language>
+         <Language id="English">
+            We believe.
+         </Language>
+         <Language id="Arabic">
+            نؤمن
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Comment>
+               <Language id="English">
+                  The priest takes the bread into his left hand, raises the silk veil that was beneath it on the paten and kisses it, then places it on the altar, saying:
+               </Language>
+               <Language id="Arabic">
+                  يأخذ الكاهن القربانة ويضعها على يده اليسرى. ويرفع اللفافة الحرير التي تحتها في الصينية ويقبلها بفيه ويتركها على المذبح وهو يقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Af[i n~ouwik e~jen nefjij eyouab: n~ata[ni ouoh n~atywleb: ouoh m~makarion: ouoh n~reftanqo.
+               </Language>
+               <Language id="English">
+                  He took bread into His holy hands, which are without spot or blemish, blessed, and life-giving.
+               </Language>
+               <Language id="Arabic">
+                  أخذ خُبزاً على يديْهِ الطاهرتَيْنِ، اللتينِ بلا عيبٍ ولا دنسٍ، الطوباويتَيْنِ المحييتَيْنِ.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Comment>
+               <Language id="English">
+                  The priest censes his hands over the censer three times, and says:
+               </Language>
+               <Language id="Arabic">
+                  يبخر الكاهن يديه على المجمرة ثلاث مرات، ويقول:
+               </Language>
+            </Comment>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nh~r/i gar qen pie~jwrh e~teknat/ik n~q/tf: qen pekouws m~min m~mok nem tekexoucia m~mauatk.
+               </Language>
+               <Language id="English">
+                  For in the same night in which You gave Yourself up of Your own will and authority alone,
+               </Language>
+               <Language id="Arabic">
+                  لأنكَ في الليلةِ التي سَلَّمْتَ فيها ذاتَكَ، بإرادتِكَ وسلطانِكَ وحدِكَ.
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  The priest lifts his hands from the censer, takes the bread in his hands, and removes the veil from the paten, while saying:
+               </Language>
+               <Language id="Arabic">
+                  يرفع يديه من على المجمرة ويأخذ الخبز على يديه ويرفع اللفافة من الصينية وهو يقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ak[i n~ouwik e~jen nekjij eyouab: ouoh n~ata[ni: ouoh n~atywleb: ouoh m~makarion: ouoh n~reftanqo.
+               </Language>
+               <Language id="English">
+                  You took bread into Your holy hands, which are without spot or blemish, blessed, and life-giving.
+               </Language>
+               <Language id="Arabic">
+                  أخذتَ خبزاً على يديكَ الطاهرتينِ، اللتينِ بلا عيبٍ ولا دنسٍ، الطوباويتينِ المحييتينِ.
+               </Language>         
+            </Text>      
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Tennah] je vai pe qen oumeym/i a~m/n.
+         </Language>
+         <Language id="English">
+            We believe that this is true. Amen.
+         </Language>
+         <Language id="Arabic">
+            نؤمنُ أن هذا هو بالحقيقةِ. آمين.
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest places his right hand upon the bread that is in his left hand, raises his eyes upward, and says:
+         </Language>
+         <Language id="Arabic">
+            يضع الكاهن يده اليمنى على القربانة التي على يده اليسرى، ويرفع نظره إلى فوق ويقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afjoust e~p~swi e~t~ve harok: v/e~te vwf n~iwt Vnou] ouoh v~n/b n~te ouon niben.
+               </Language>
+               <Language id="English">
+                  He looked up toward heaven to You, O God, who are His Father and Master of everyone.
+               </Language>
+               <Language id="Arabic">
+                  ونَظَرَ إلى فوقُ نحوَ السماءِ، إليكَ يا اللهُ أَباهُ وسيِّدُ كلِّ أحدٍ.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akcomc e~p~swi e~t~ve ha v/e~te vwk n~iwt Vnou] ouoh v~n/b n~te ouon niben.
+               </Language>
+               <Language id="English">
+                  You looked up toward heaven to God, who is Your Father and Master of everyone.
+               </Language>
+               <Language id="Arabic">
+                  ونظرتَ إلى فوقُ، نحوَ السماءِ، إلى اللهِ أبيكَ وسيِّدِ كلِّ أحدٍ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest makes the sign of the cross with his finger three times, and each time the congregation responds, saying, “Amen.” At the first signing, the priest says:
+         </Language>
+         <Language id="Arabic">
+            يرشم الكاهن الخبز بأصبعه ثلاثة رشوم. وفي كل رشم يجاوبه الشعب قائلين .<span class="Coptic">Am/n</span>أول رشم يقول الكاهن:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Etafseph~mot.
+               </Language>
+               <Language id="English">
+                  And when He had given thanks—
+               </Language>
+               <Language id="Arabic">
+                  وشكر
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Etakseph~mot.
+               </Language>
+               <Language id="English">
+                  And when You had given thanks—
+               </Language>
+               <Language id="Arabic">
+                  وشَكَرْتَ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And at the second signing:
+         </Language>
+         <Language id="Arabic">
+            وثاني رشم:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afc~mou e~rof.
+               </Language>
+               <Language id="English">
+                  He blessed it—
+               </Language>
+               <Language id="Arabic">
+                  وباركه
+               </Language>         
+            </Text>      
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akc~mou e~rof.
+               </Language>
+               <Language id="English">
+                  You blessed it—
+               </Language>
+               <Language id="Arabic">
+                  وباركْتَهُ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And at the third signing:
+         </Language>
+         <Language id="Arabic">
+            وثالث رشم:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afera~giazin m~mof.
+               </Language>
+               <Language id="English">
+                  and He sanctified it.
+               </Language>
+               <Language id="Arabic">
+                  وقدسه
+               </Language>         
+            </Text>      
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akera~giazin m~mof.
+               </Language>
+               <Language id="English">
+                  You sanctified it.
+               </Language>
+               <Language id="Arabic">
+                  وقدَّسْتَهُ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n. Picteuo~men ke o~mologoumen ke doxazomen.
+         </Language>
+         <Language id="English">
+            Amen. We believe, we confess, and we glorify.
+         </Language>
+         <Language id="Arabic">
+            نؤمنُ ونعترفُ ونمجِّدُ.
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest breaks the oblation into a two-thirds and a one-third part, carefully, slightly, and without separating one part from the other, and without touching the Despotikon. The fraction must be made with his right thumb, and not with the nail. Making the fraction from the top to the bottom with the one-third part on his right and the two-thirds part on his left, he says:
+         </Language>
+         <Language id="Arabic">
+            ثم يقسم القربانة ثلثين وثلثاً بعناية من غير فصل بعضهما عن بعض. ومن غير أن يمس الأسباديقون. وتكون القسمة بإبهام يده اليمنى وليس بالظفر. ويجعل القسمة من فوق إلى أسفل ويكون الثلث عن يمينه والثلثان عن يساره. وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afvasf aft/if n~n/e~te nouf n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab efjw m~moc: je [i ouwm e~boln~q/tf t/rou: vai gar pe pacwma.
+               </Language>
+               <Language id="English">
+                  He broke it, and gave it to His own saintly disciples and holy apostles, saying, “Take, eat of it, all of you. For this is My Body,
+               </Language>
+               <Language id="Arabic">
+                  وقسَّمَهُ، وأعطاهُ لتلاميذِهِ القديسينَ ورُسُلِهِ الأطهارِ قائلاً: ”خذوا كُلوا منه كلُّكُم، لأن هذا هو جسدي
+               </Language>         
+            </Text>      
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akvasf akt/if n~n/e~te nouk ettai/out n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab ekjw m~moc. Je [i ouwm e~bol n~q/tf t/rou: vai gar pe pacwma.
+               </Language>
+               <Language id="English">
+                  You broke it and gave it to Your own saintly, honorable disciples and holy apostles, saying, “Take, eat of it, all of you. For this is My Body,
+               </Language>
+               <Language id="Arabic">
+                  وقسَّمْتَهُ وأَعطيتَهُ لتلاميذِكَ المكرمينَ القديسينَ ورُسُلِكَ الأطهارِ قائلاً: ”خذوا كُلُوا منه كلُّكُم، لأن هذا هو جسدي.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afvasf aft/if n~n/e~te nouf ettai/out n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab efjw m~moc. Je [i ouwm e~bol n~q/tf t/rou: vai gar pe pacwma.
+               </Language>
+               <Language id="English">
+                  He broke it, and gave it to His own honored saintly disciples and holy apostles, saying, “Take, eat of it, all of you. For this is My Body
+               </Language>
+               <Language id="Arabic">
+                  وقسَّمَهُ، وأعطاهُ لتلاميذِهِ المكرمينَ القديسينَ ورُسُلِهِ الأطهارِ قائلاً: ”خذوا كُلُوا منهُ كلُّكُم، لأن هذا هو جسدي 
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest slightly and gently breaks the top of the oblation with the tips of his fingers, without, however, completely separating it. He places it in the paten, and cleans his hands inside the paten so that nothing of the oblation should adhere to either of them. He does this while saying:
+         </Language>
+         <Language id="Arabic">
+            هنا يفرق رأس القربانة من فوق قليلاً بأطراف أصابعه بعناية من غير فصل ويضعها في الصينية. وينظف يديه داخل الصينية لئلا يكون قد التصق بهما شيء من القربانة. يفعل ذلك وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            e~tounavasf e~jen y/nou nem hankem/s: n~cet/if e~p~,w e~bol n~te ninobi: vai a~ritf e~paerv~meui~.
+         </Language>
+         <Language id="English">
+            which is broken for you and for many, to be given for the remission of sins. This do in remembrance of Me.”
+         </Language>
+         <Language id="Arabic">
+            الذي يُقْسَمُ عَنكم وعن كثيرين، يُعطَى لمغفرةِ الخطايا، هذا اصنعوهُ لذِكرِي.“
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Vai pe qen oumeym/i: a~m/n.
+         </Language>
+         <Language id="English">
+            This is true. Amen.
+         </Language>
+         <Language id="Arabic">
+            هذا هو بالحقيقة، آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest places his hand upon the rim of the chalice, and says:
+         </Language>
+         <Language id="Arabic">
+            يضع الكاهن يده على حافة الكأس ويقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Pair/] on pikea~vot menenca pidipnon: afyotf e~bolqen ou/rp nem oumwou.
+               </Language>
+               <Language id="English">
+                  Likewise also, the cup, after supper, He mixed it of wine and water.
+               </Language>
+               <Language id="Arabic">
+                  هكذا الكأس أيضاً، بعد العشاء، مزجها من خمر وماء
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Pair/] on menenca y~rououwm ak[i n~oua~vot: akyotf e~bol qen p~outah n~te ]bw n~a~loli nem oumwou.
+               </Language>
+               <Language id="English">
+                  Likewise also, after they had supped, You took a cup and mixed it of the fruit of the vine and water.
+               </Language>
+               <Language id="Arabic">
+                  هكذا أيضاً بعدَ أن أَكَلُوا أَخذْتَ كأساً ومزجْتَها من ثمرةِ الكرمةِ والماءِ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest makes the sign of the cross three times, and each time the congregation responds, saying, “Amen.” At the first signing, the priest says:
+         </Language>
+         <Language id="Arabic">
+            يرشم الكأس ثلاثة رشوم. وفي كل رشم يجاوبه الشعب قائلين  <span class="Coptic">Am/n</span>أول رشم يقول الكاهن:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Etafseph~mot.
+               </Language>
+               <Language id="English">
+                  And when He had given thanks,
+               </Language>
+               <Language id="Arabic">
+                  وشكر
+               </Language>         
+            </Text>  
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Etakseph~mot
+               </Language>
+               <Language id="English">
+                  And when You had given thanks—
+               </Language>
+               <Language id="Arabic">
+                  وشَكَرْتَ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>    
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And at the second signing:
+         </Language>
+         <Language id="Arabic">
+            وثاني رشم:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afc~mou e~rof.
+               </Language>
+               <Language id="English">
+                  He blessed it,
+               </Language>
+               <Language id="Arabic">
+                  وباركها
+               </Language>         
+            </Text> 
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akc~mou e~rof.
+               </Language>
+               <Language id="English">
+                  You blessed it—
+               </Language>
+               <Language id="Arabic">
+                  وباركْتَها.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>     
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n.
+         </Language>
+         <Language id="English">
+            Amen.
+         </Language>
+         <Language id="Arabic">
+            آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            And at the third signing:
+         </Language>
+         <Language id="Arabic">
+            وثالث رشم:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afera~giazin m~mof.
+               </Language>
+               <Language id="English">
+                  He sanctified it.
+               </Language>
+               <Language id="Arabic">
+                  وقدسها
+               </Language>         
+            </Text>      
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akera~giazin m~mof.
+               </Language>
+               <Language id="English">
+                  You sanctified it. 
+               </Language>
+               <Language id="Arabic">
+                  وقدسْتَها.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Am/n. Ke palin picteuo~men ke o~mologoumen ke doxazomen.
+         </Language>
+         <Language id="English">
+            Amen. Again, we believe, we confess, and we glorify.
+         </Language>
+         <Language id="Arabic">
+            آمين وأيضاً نؤمن ونعترف ونمجد
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest holds the rim of the chalice with his hands, saying:
+         </Language>
+         <Language id="Arabic">
+            يمسك الكاهن حافة الكأس بيده ويقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Afjem]pi aft/if on n~n/e~te nouf n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab efjw m~moc...
+               </Language>
+               <Language id="English">
+                  He tasted, and gave it also to His own saintly disciples and holy apostles, saying,
+               </Language>
+               <Language id="Arabic">
+                  وذاق، وأعطاها أيضاً لتلاميذه القديسين ورسله الأطهار قائلا
+               </Language>         
+            </Text>            
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Akjem]pi akt/if on n~n/e~te nouk ettai/out n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab ekjw m~moc.
+               </Language>
+               <Language id="English">
+                  You tasted and gave it also to Your own saintly, honorable disciples and holy apostles, saying,
+               </Language>
+               <Language id="Arabic">
+                  وذُقتَ وأعطيتَها أيضاً لتلاميذِكَ المكرمينَ القديسينَ ورُسُلِكَ الأطهارِ قائلاً:
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">                  
+                  Afjem]pi: aft/if on n~n/e~te nouf ettai/out n~a~gioc m~may/t/c: ouoh n~a~poctoloc eyouab efjw m~moc.
+               </Language>
+               <Language id="English">
+                  He tasted, and gave it also to His own honored saintly disciples and holy apostles, saying,
+               </Language>
+               <Language id="Arabic">
+                  وذاقَ، وأَعطاها أيضاً لتلاميذِه المكرمين القديسين ورُسُلِه الأطهارِ قائلاً:
+               </Language>         
+            </Text>            
+         </Season>
+      </Group>
+      
+      <Comment>
+         <Language id="English">
+            The priest moves the chalice in the form of the cross, inclining it carefully first to the west, then to the East, to the north, and to the south, while saying:
+         </Language>
+         <Language id="Arabic">
+            يحرك الكأس مثال الصليب. أي يميلها باحتراس إلى الغرب أولاً ثم الشرقِ والشمال والجنوب، وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            je [i cw e~boln~q/tf t/rou.
+         </Language>
+         <Language id="English">
+            “Take, drink of it, all of you.
+         </Language>
+         <Language id="Arabic">
+            ”خُذوا اشربوا منها كُلُّكُم.
+         </Language>         
+      </Text>   
+      
+      <Comment>
+         <Language id="English">
+            The priest points with his hands to the chalice, and says:
+         </Language>
+         <Language id="Arabic">
+            ثم يشير بيديه إلى الكأس ويقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Vai gar pe pac~nof n~te ]diay/k/ m~beri: e~tounavonf e~bol e~jen y/nou nem hankem/s: n~cet/if e~p~,w e~bol n~te ninobi: vai a~ritf e~paerv~meui~.
+         </Language>
+         <Language id="English">
+            For this is My Blood of the New Covenant, which is shed for you and for many, to be given for the remission of sins. This do in remembrance of Me.”
+         </Language>
+         <Language id="Arabic">
+            لأنَّ هذا هو دمي الذي للعهدِ الجديدِ، الذي يُسفَكُ عنكُم وعن كثيرينَ. يُعطَى لمغفرةِ الخطايا. هذا اصنعوهُ لذِكرِي.“
+         </Language>         
+      </Text>   
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Vai on pe qen oumeym/i: a~m/n.
+         </Language>
+         <Language id="English">
+            This is also true. Amen.
+         </Language>
+         <Language id="Arabic">
+            وهذا هو أيضاً بالحقيقة آمين
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Group>
+         <Season id="StBasilLiturgy | StGregoryLiturgy">
+            <Comment>
+               <Language id="English">
+                  The priest points with his hand to the Body, saying:
+               </Language>
+               <Language id="Arabic">
+                  يشير الكاهن بيديه إلى الجسد وهو يقول:
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Comment>
+               <Language id="English">
+                  The fellow priest encircles the altar with the censer, while the serving priest points to the Body and Blood, and says:
+               </Language>
+               <Language id="Arabic">
+                  هنا يدور الكاهن الشريك الهيكل بالمجمرة. والكاهن الخديم يشير إلى الجسد والدم قائلاً:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <Text>
+         <Language id="Coptic">
+            Cop gar niben e~tetennaouwm e~bolqen paiwik vai.
+         </Language>
+         <Language id="English">
+            “For every time you eat of this bread
+         </Language>
+         <Language id="Arabic">
+            لأنَّ كلَّ مرةٍ تأكُلونَ من هذا الخبزِ.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            Then he points with his hands to the chalice, saying:
+         </Language>
+         <Language id="Arabic">
+            ثم يشير بيديه إلى الكأس أيضاً وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            ouoh n~tetencw e~bolqen paia~vot vai.
+         </Language>
+         <Language id="English">
+            and drink of this cup,
+         </Language>
+         <Language id="Arabic">
+            وتشرَبونَ من هذه الكأسِ.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The priest continues, saying:
+         </Language>
+         <Language id="Arabic">
+            ثم يكمل قائلاً:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            e~retenhiwis m~pamou: e~retenero~mologin n~taa~nactacic: e~reteni~ri m~pameui~ sa]i~.
+         </Language>
+         <Language id="English">
+            you proclaim My Death, confess My Resurrection, and remember Me till I come.”
+         </Language>
+         <Language id="Arabic">
+            تُبشرونَ بموتِي وتعترفونَ بقيامتي وتذكروني إلى أن أجيءَ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Amen, Amen, Amen</Language>
+      </Title>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               Am/n a~m/n a~m/n: Ton yanaton cou Kurie~ kataggelomen: ke t/n a~gian cou a~nactacin ke t/n a~nalu'in cou en t/c ouranic ce omologoumen.
+            </Language>
+            <Language id="English">
+               Amen. Amen. Amen. Your Death, O Lord, we proclaim; Your holy Resurrection and Ascension into the heavens, we confess. 
+            </Language>
+            <Language id="Arabic">
+               آمين آمين آمين بموتك يارب نبشر، وبقيامتك المقدسة وصعودك إلى السموات، نعترف
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ce e~noumen ce eulogoumen ce~ eu,arictoumen Kurie~: ke deo~meya cou o~ Yeoc /~mwn.
+            </Language>
+            <Language id="English">
+               We praise You, we bless You, we thank You, O Lord, and we entreat You, O our God.
+            </Language>
+            <Language id="Arabic">
+               نسبحك، نباركك، نشكرك يارب، ونتضرع إليك يا إلهنا
+            </Language>         
+         </Text>
+      </Role>
+   </Section>
+   
+   <Group>
+      <Season id="StBasilLiturgy">
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Eni~ri oun hwn m~v~meui~ n~nefqici eyouab: nem pefjintwnf e~bolqen n/eymwout: nem pefjinse e~p~swi e~niv/oui~: nem pefjinhemci catekouinam Viwt.
+               </Language>
+               <Language id="English">
+                  Therefore, as we also commemorate His holy Passion, His Resurrection from the dead, His Ascension into the heavens, His Sitting at Your right hand, O Father,
+               </Language>
+               <Language id="Arabic">
+                  ففيما نحنُ أيضاً نصنعُ ذِكرَ آلامِهِ المقدسةِ، وقيامتِهِ مِن الأمواتِ، وصعودِهِ إلى السمواتِ، وجلوسِهِ عن يمينِكَ أيها الآبُّ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem tefmahc~nou] m~paroucia: eyn/ou e~bolqen niv/oui~: etoi n~ho] ouoh eymeh n~w~ou.
+               </Language>
+               <Language id="English">
+                  and His Second Coming from the heavens, awesome and full of glory,
+               </Language>
+               <Language id="Arabic">
+                  وظهورِهِ الثاني الآتي من السمواتِ، المخوفِ المملوءِ مجداً.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Tenerp~rocverin nak n~n/e~te nouk n~dwron e~bolqen n/e~te nouk: kata hwb niben: nem eybe hwb niben: nem qen hwb niben.
+               </Language>
+               <Language id="English">
+                  we offer unto You Your gifts from what is Yours, for everything, concerning everything, and in everything.
+               </Language>
+               <Language id="Arabic">
+                  نقرِّبُ لكَ قرابينكَ من الذي لكَ، على كلِّ حالٍ، ومن أجل كلِّ حالٍ، وفي كلِّ حالٍ.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Hwcte oun penn/b eni~ri m~v~meui~ m~pekjini~ e~pec/t hijen pikahi: nem pekmou n~reftanqo: nem pekm~hau n~somt n~e~hoou.
+               </Language>
+               <Language id="English">
+                  Therefore, O our Master, as we commemorate Your Coming to earth, Your life giving Death, Your Burial for three days,
+               </Language>
+               <Language id="Arabic">
+                  فإذاً يا سيِّدَنا فيما نحنُ نصنعُ ذِكرَ نزولِكَ على الأرضِ، وموتِكَ المحيِي، وقبرِكَ ثلاثةَ أيامٍ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem teka~nactacic e~bolqen n/eymwout: nem pekjinse e~p~swi e~niv/oui~: nem pekjinhemci caoui~nam m~Pekiwt.
+               </Language>
+               <Language id="English">
+                  Your Resurrection from the dead, Your Ascension into the heavens, Your Sitting at the right hand of Your Father,
+               </Language>
+               <Language id="Arabic">
+                  وقيامتِكَ من الأمواتِ، وصعودِكَ إلى السمواتِ، وجلوسِكَ عن يمينِ أبيكَ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem tekmahc~nou] m~paroucia: eyn/ou e~bolqen niv/oui~: etoi n~ho] ouoh eymeh n~w~ou.
+               </Language>
+               <Language id="English">
+                  and Your Second Coming from the heavens, awesome and full of glory,
+               </Language>
+               <Language id="Arabic">
+                  وظهورِكَ الثاني الآتي من السمواتِ، المخوفِ المملوءِ مجداً.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Tenerp~rocverin nak n~n/e~te nouk n~dwron e~bolqen n/e~te nouk: kata hwb niben: nem eybe hwb niben: nem qen hwb niben.
+               </Language>
+               <Language id="English">
+                  we offer unto You Your gifts from what is Yours, for everything, concerning everything, and in everything.
+               </Language>
+               <Language id="Arabic">
+                  نقرِّبُ لكَ قرابينَكَ، من الذي لكَ، على كلِّ حالٍ، ومن أجلِ كلِّ حالٍ، وفى كلِّ حالٍ.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  Ouwst m~Pihi/b n~Logoc n~te Vnou].
+               </Language>
+               <Language id="English">
+                  Worship the Lamb, the Logos of God.
+               </Language>
+               <Language id="Arabic">
+                  اسجُدوا للحملِ كلمةِ الله.
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  Or the deacon says:
+               </Language>
+               <Language id="Arabic">
+                  أو يقول الشماس:
+               </Language>         
+            </Comment>
+         </Role>
+      </Season>
+      
+      <Season id="StCyrilLiturgy">
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  }nou oun Vnou] Viwt pipantokratwr: enhiwis m~v~mou m~pekmonogen/c n~S/ri Pen[oic ouoh pennou] ouoh pencwt/r ouoh penouro t/ren I/couc Pi,rictroc.
+               </Language>
+               <Language id="English">
+                  Therefore now, O God, the Father, the Pantocrator, as we proclaim the death of Your only-begotten Son, our Lord, God, Savior, and King of us all, Jesus Christ;
+               </Language>
+               <Language id="Arabic">
+                  فالآنَ يا اللهُ الآبُ ضابطُ الكلِّ، فيما نحنُ نبشِّرُ بموتِ ابنِكَ الوحيدِ، ربِّنا وإلَهِنا ومخلِّصِنا وملكِنا كلِّنا يسوعَ المسيحِ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Enero~mologin n~tefa~nactacic eyouab: nem pefjinse e~p~swi e~niv/oui~: nem pefjinhemci catekoui~nam Viwt.
+               </Language>
+               <Language id="English">
+                  and confess His holy Resurrection; His Ascension into the heavens; His sitting at Your right hand, O Father;
+               </Language>
+               <Language id="Arabic">
+                  ونعترفُ بقيامتِهِ المقدسةِ، وصعودِهِ إلى السمواتِ، وجلوسِه عن يمينِكَ أيها الآبُ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Enjoust e~bol qat~h/ n~tefmahc~nou] m~paroucia~: eyn/ou e~bolqen niv/oui~: etoi n~ho] ouoh eymeh n~w~ou: qen ]cuntelia~ n~te paie~wn.
+               </Language>
+               <Language id="English">
+                  and look for His Second Advent, coming from the heavens, awesome and full of glory at the end of this age,
+               </Language>
+               <Language id="Arabic">
+                  وننتظرُ ظهورَهُ الثاني الآتي من السمواتِ، المخوفَ المملوءَ مجداً في إنقضاءِ هذا الدهرِ. 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Yai e~tefn/ou n~q/tc e~]hap e~]oikoumen/ qen oumeym/i.
+               </Language>
+               <Language id="English">
+                  wherein He comes to judge the world in righteousness
+               </Language>
+               <Language id="Arabic">
+                  هذا الذي يأتي فيه ليدينَ المسكونةَ بالعدلِ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem e~] m~piouai piouai kata nefh~b/oui: i~te oupeynanef i~te oupethwou.
+               </Language>
+               <Language id="English">
+                  and to give each one according to his deeds, whether they be good or evil—
+               </Language>
+               <Language id="Arabic">
+                  ويُعطِي كلَّ واحدٍ كأعمالِهِ، إن كانَ خيراً وإن كانَ شراً.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/AccordingToYourMercy"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StBasilLiturgy | StGregoryLiturgy">
+         <InsertDocument path="include/WorshipGodInFear"/>
+         
+         <Role id="People">
+            <Comment>
+               <Language id="English">
+                  While all the people bow their heads, they say:
+               </Language>
+               <Language id="Arabic">
+                  يسجد جميع الشعب لله ويقولون وهم مطامنون رؤوسهم.
+               </Language>         
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Tenhwc e~rok tenc~mou e~rok tensemsi m~mok tenouwst m~mok.
+               </Language>
+               <Language id="English">
+                  We praise You, we bless You, we serve You, we worship You. 
+               </Language>
+               <Language id="Arabic">
+                  نسبحك. نباركك. نخدمك نسجد لك
+               </Language>         
+            </Text>
+         </Role>   
+      </Season>   
+      
+      <Season id="StCyrilLiturgy">
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  Klinate Yew~ meta vobou.
+               </Language>
+               <Language id="English">
+                  Bow to God in fear.
+               </Language>
+               <Language id="Arabic">
+                  اسجدوا لله بخوفٍ.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            While kneeling with hands stretched forth, the priest says the Prayer of the Descent of the Holy Spirit (the Epiclesis) inaudibly.
+         </Language>
+         <Language id="Arabic">
+            يقول الكاهن أوشية حلول الروح القدس سراً وهو ساجد وباسط يديه، وهي هذه:
+         </Language>         
+      </Comment>
+      
+      <Section>
+         <Title>
+            <Language id="English">The Epiclesis</Language>
+            <Language id="Arabic">صلاة استدعاء الروح القدس</Language>
+         </Title>
+         
+         <Group>
+            <Season id="StBasilLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh ten]ho e~rok P[oic Pennou]: a~non qa nirefernobi ouoh n~atemp~sa n~e~biaik n~tak.
+                  </Language>
+                  <Language id="English">
+                     And we ask You, O Lord our God—we Your sinful and unworthy servants
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُكَ أيها الربُّ إلهُنا نحنُ عبيدَكَ الخطاةُ، غيرُ المستحقينَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Tenouwst m~mok e~bol hiten p~]ma] n~te tekmeta~gayoc: eyre Pekp~neuma eyouab i~ e~q~r/i.
+                  </Language>
+                  <Language id="English">
+                     worship You by the pleasure of Your goodness—that Your Holy Spirit may descend
+                  </Language>
+                  <Language id="Arabic">
+                     نسجُدُ لكَ بمسرةِ صلاحِكَ، ليحلَّ روحُكَ القدوسُ.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     He points to himself with his hands and then to the oblations present before him, and says:
+                  </Language>
+                  <Language id="Arabic">
+                     يشير بيديه إلى ذاته ثم إلى القرابين الموضوعة أمامه ويقول:
+                  </Language>         
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     e~jwn nem e~jen naidwron nai et,/ e~q~r/i: ouoh n~teftoubwou: ouoh n~tefouoybou: ouoh n~tefouonhou e~bol euouab n~te n/eyouab n~tak.
+                  </Language>
+                  <Language id="English">
+                     upon us and upon these gifts set forth, and purify them, change them, and manifest them as a sanctification of Your saints.
+                  </Language>
+                  <Language id="Arabic">
+                     علينا وعلى هذه القرابينِ الموضوعة، ويُطَهِّرَها ويَنْقُلَها، ويُظهِرَها قدساً لقِدِيسيكَ.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StGregoryLiturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Nyok penn/b qen tekc~m/ m~min m~mok vwnh n~nai et,/ e~q~r/i: n~yok et,/ qatoten cob] nan m~paisemsi eymeh m~muct/rion.
+                  </Language>
+                  <Language id="English">
+                     O You, our Master, by Your voice alone, change these which are set forth. You who are with us, prepare for us this service, full of mystery.
+                  </Language>
+                  <Language id="Arabic">
+                     أنتَ يا سيِّدَنا بصوتِكَ وحدَكَ حوِّل هذين الموضوعَينِ. أنتَ الحالُّ معنا، هيئْ لنا هذه الخدمةَ المملوءةَ سراً.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nyok twji n~q/ten m~p~erv~meui~ m~peksemsi eyouab.
+                  </Language>
+                  <Language id="English">
+                     Implant in us the remembrance of Your holy service.
+                  </Language>
+                  <Language id="Arabic">
+                     أنتَ اغرسْ فينا ذِكرَ خدمتِكَ المقدسةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nyok ouwrp e~q~r/i e~jwn m~pih~mot n~te Pekp~neuma eyouab.
+                  </Language>
+                  <Language id="English">
+                     Send to us the grace of Your Holy Spirit
+                  </Language>
+                  <Language id="Arabic">
+                     أنتَ أرسِلْ علينا نعمةَ روحِكَ القدوس.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Hina n~teftoubo ouoh n~tefouw~teb n~naidwron nai et,/ e~q~r/i: e~picwma nem pic~nof n~te pencw].
+                  </Language>
+                  <Language id="English">
+                     to purify and change these gifts set forth into the Body and Blood of our salvation.
+                  </Language>
+                  <Language id="Arabic">
+                     لكي تُطهِّرَ وتنقلَ هذه القرابينَ الموضوعةَ إلى جسدِ ودمِ خلاصِنا.
+                  </Language>         
+               </Text>
+            </Season>
+            
+            <Season id="StCyrilLiturgy">
+               <InsertDocument path="include/EpiclesisCyril"/>
+            </Season>
+         </Group>
+      </Section>
+   </Role>
+   
+   <Group>
+      <Season id="StCyrilLiturgy">         
+         <InsertDocument path="include/HaveMercyUponUsPantocrator3"/>
+         
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest takes the veil on his hand, turns toward the congregation, points to it with his hand, then turns back to the East and cries out, saying:
+               </Language>
+               <Language id="Arabic">
+                  هنا يأخد الكاهن اللفافة على يده ويلتفت إلى الشعب ويشير إليهم بيده  ثم يلتفت إلى الشرق ويصرخ ويقول:
+               </Language>
+            </Comment>
+      
+            <InsertDocument path="include/ForYourPeopleCyril"/>
+         </Role>
+         
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  Ouwst m~Vnou] Viwt pipantokratwr.
+               </Language>
+               <Language id="English">
+                  Worship God, the Father, the Pantocrator.
+               </Language>
+               <Language id="Arabic">
+                  اسجدوا للهِ الآبِ ضابطِ الكلِّ.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Section silent="true">
+               <Title>
+                  <Language id="English">The Epiclesis</Language>
+                  <Language id="Arabic">صلاة استدعاء الروح القدس</Language>
+               </Title>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh ouwrp e~pec/t e~bolqen pek[ici eyouab: nem e~bolqen pekman~swpi etcebtwt e~bolqen piatsorff e~qoun e~kenf n~tak: e~bolqen piy~ronoc n~te y~metouro m~pekw~ou.
+                  </Language>
+                  <Language id="English">
+                     And send down from Your holy height, and from Your prepared mansion, and from Your unbounded bosom, and from the throne of the kingdom of Your glory,
+                  </Language>
+                  <Language id="Arabic">
+                     وأَرسِلْ إلى أسفل من عُلُوِّكَ المقدسِ، ومن مسكنِكَ المستعدِ، ومن حِضْنِكَ غيرِ المحصورِ، ومن عرشِ مملكةِ مجدِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nyof piparakl/toc Pekp~neuma eyouab v/etsop qen ouhupoctacic: piatvwnh piatsib]: v/etoi n~[oic pireftanqo.
+                  </Language>
+                  <Language id="English">
+                     the Paraclete—Your Holy Spirit who is an hypostasis, the immutable, the unchangeable, the Lord, the Giver of Life,
+                  </Language>
+                  <Language id="Arabic">
+                     البارقليطَ، روحَكَ القدوسَ، الأقنومَ غيرَ المستحيلِ، ولامتغيِّرٍ، الربَّ المحيي.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/e~tafcaji qen pinomoc nem nip~rov/t/c nem niapoctocloc.
+                  </Language>
+                  <Language id="English">
+                     who spoke in the Law, the Prophets, and the Apostles;
+                  </Language>
+                  <Language id="Arabic">
+                     الناطقَ في الناموسِ والأنبياءِ والرسلِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/etsop qen mai niben ouoh eymoh m~mai niben: ouoh m~mon ma swp m~mof.
+                  </Language>
+                  <Language id="English">
+                     who is present in every place and who fills every place, yet no place contains Him;
+                  </Language>
+                  <Language id="Arabic">
+                     الحالَّ في كلِّ مكانٍ، المالئَ كلَّ مكانٍ ولا يحويهِ مكانٌ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh efere~nergin audoxoucioc qen pek]ma] m~pitoubo e~h~r/i e~jen n/e~tefoua~sou: kata oumetrefsemsi an.
+                  </Language>
+                  <Language id="English">
+                     who, on His own authority and not as service, works sanctification on whom He wills, according to Your good pleasure;
+                  </Language>
+                  <Language id="Arabic">
+                     وهو يُجرِي التقديسَ بسلطةٍ بمسرتِكَ للذينَ يُحِبُّهُم، وليسَ على سبيلِ خدمةِ عبوديةٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Piaploun qen tefvucic v/etoi n~ouyo n~r/] qen tefe~nergia~: ]moumi n~te nih~mot n~nou].
+                  </Language>
+                  <Language id="English">
+                     who is single in His nature and manifold in His working, the fountain of the divine graces;
+                  </Language>
+                  <Language id="Arabic">
+                     البسيطَ في طبيعتِهِ، الكثيرَ الأنواعِ في فعلِهِ، ينبوعَ النعمِ الإلهيةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/etoi n~o~mooucioc nemak: v/eyn/ou e~bol n~q/tk.
+                  </Language>
+                  <Language id="English">
+                     who is of one essence with You; who proceeds from You;
+                  </Language>
+                  <Language id="Arabic">
+                     المساوِي لكَ، المنبثقَ منكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Pis~v/r n~y~ronoc n~te y~metouro m~pekw~ou nem pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r ouoh penouro t/ren I/couc Pi,rictoc.
+                  </Language>
+                  <Language id="English">
+                     the sharer of the throne of the kingdom of Your glory, with Your only-begotten Son, our Lord, God, Savior, and King of us all, Jesus Christ—
+                  </Language>
+                  <Language id="Arabic">
+                     شريكَ عرشِ مملكةِ مجدِكَ، وابنِكَ الوحيدِ ربِّنا وإلهنا ومخلِّصنا وملكِنا كلِّنا يسوعَ المسيحِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eh~r/i e~jwn qa neke~biaik: nem e~jen naidwron n~tak ettai/out: e~tersorp n~,/ e~q~r/i m~pekm~yo.
+                  </Language>
+                  <Language id="English">
+                     upon us, we Your servants, and upon these Your precious gifts which have been set forth before You,
+                  </Language>
+                  <Language id="Arabic">
+                     علينا نحنُ عبيدِكَ وعلى هذه القرابينِ التي لكَ المكرَّمَةِ السابقِ وضعَها أمامَكَ.
+                  </Language>         
+               </Text>
+               
+               <Comment>
+                  <Language id="English">
+                     He points to the Body and the Blood, and continues: 
+                  </Language>
+                  <Language id="Arabic">
+                     هنا يشير إلى الجسد والدم.
+                  </Language>         
+               </Comment>               
+            </Section>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ejen paiwik vai nem e~jen paia~vot vai: hina n~toutoubo ouoh n~tououw~teb.
+               </Language>
+               <Language id="English">
+                  upon this bread and this cup, that they may be sanctified and changed.
+               </Language>
+               <Language id="Arabic">
+                  على هذا الخبزِ وعلى هذه الكأسِ، لكي يتطهرا وينتقلا.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proc,wmen a~m/n.
+         </Language>
+         <Language id="English">
+            Let us attend. Amen.
+         </Language>
+         <Language id="Arabic">
+            ننصت آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Group>
+      <Season id="StCyrilLiturgy">
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  Am/n.
+               </Language>
+               <Language id="English">
+                  Amen.
+               </Language>
+               <Language id="Arabic">
+                  آمين.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Everyone raises his head, and, three times, the priest quickly signs with the sign of the cross the oblation which is upon the paten, and says aloud:
+         </Language>
+         <Language id="Arabic">
+            يرفع الجميع رؤوسهم. ويرشم الكاهن القربان ثلاثة رشوم بسرعة وهو موضوع في الصينية ويصرخ ويقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paiwik men n~tefaif n~cwma efouab n~taf.
+               </Language>
+               <Language id="English">
+                  And this bread He makes into His holy Body.
+               </Language>
+               <Language id="Arabic">
+                  وهذا الخبز يجعله جسداً مقدساً له
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paiwik men n~tefaif n~cwma efouab n~tak.
+               </Language>
+               <Language id="English">
+                  And this bread He makes into Your holy Body.
+               </Language>
+               <Language id="Arabic">
+                  وهذا الخبزُ يَجْعَلُهُ جسداً مقدساً لكَ.
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paiwik men n~tefaif n~cwma efouab n~te Pi,rictoc.
+               </Language>
+               <Language id="English">
+                  And this bread He makes into the holy Body of Christ.
+               </Language>
+               <Language id="Arabic">
+                  وهذا الخبزُ يجعلُهُ جسداً مقدساً للمسيحِ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The people worship, and say:
+         </Language>
+         <Language id="Arabic">
+            يسجد الشعب ويقولون:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Group>
+      <Season id="StBasilLiturgy | StGregoryLiturgy">
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  }nah]. Am/n.
+               </Language>
+               <Language id="English">
+                  I believe. Amen.
+               </Language>
+               <Language id="Arabic">
+                  أؤمن
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest" silent="true">
+            <Comment>
+               <Language id="English">
+                  Meanwhile, the priest stretches forth his hands and bows his head to the Lord, saying:
+               </Language>
+               <Language id="Arabic">
+                  يبسط الكاهن يديه ويخضع برأسه للرب ويقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi~,~rictoc. eu] m~mof e~p~,w e~bol n~te ninobi: nem ouwnq n~e~neh n~n/eyna[i e~bol n~q/tf.
+               </Language>
+               <Language id="English">
+                  Our Lord, God, and Savior Jesus Christ, given for the remission of sins and eternal life to those who partake of Him.
+               </Language>
+               <Language id="Arabic">
+                  ربنا وإلهنا ومخلصنا يسوع المسيح. يعطى لغفران الخطايا وحياة أبدية لمن يتناول منه
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+      
+      <Season id="StCyrilLiturgy">
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  Am/n.
+               </Language>
+               <Language id="English">
+                  Amen.
+               </Language>
+               <Language id="Arabic">
+                  آمين.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Three times, the priest quickly signs the chalice with the sign of the cross.
+         </Language>
+         <Language id="Arabic">
+            يرشم الكاهن الكأس أيضاً ثلاثة رشوم بسرعة ويصرخ ويقول:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paia~vot de on n~c~nof eftai/out: n~te ]diay/k/ m~beri n~taf.
+               </Language>
+               <Language id="English">
+                  And this cup also, the precious Blood of His New Covenant.
+               </Language>
+               <Language id="Arabic">
+                  وهذه الكأس أيضاً دماً كريماً للعهد الجديد الذي له
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ouoh paia~vot de on n~c~nof eftai/out: n~te ]diay/k/ m~beri n~tak.
+               </Language>
+               <Language id="English">
+                  And this cup also, the precious Blood of Your New Covenant.
+               </Language>
+               <Language id="Arabic">
+                  وهذه الكأسُ أيضاً دماً كريماً لعهدِكَ الجديدِ.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            The people worship, and say:
+         </Language>
+         <Language id="Arabic">
+            يسجد الشعب أيضاً ويقولون:
+         </Language>
+      </Comment>
+      
+      <Group>
+         <Season id="StBasilLiturgy | StGregoryLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Ke palin ]nah]: a~m/n.
+               </Language>
+               <Language id="English">
+                  Again, I believe. Amen.
+               </Language>
+               <Language id="Arabic">
+                  وأيضاً أؤمن
+               </Language>         
+            </Text>
+         </Season>
+         
+         <Season id="StCyrilLiturgy">
+            <Text>
+               <Language id="Coptic">
+                  Am/n.
+               </Language>
+               <Language id="English">
+                  Amen.
+               </Language>
+               <Language id="Arabic">
+                  آمين.
+               </Language>         
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+   
+   <Group>
+      <Season id="StBasilLiturgy | StGregoryLiturgy">
+         <Role id="Priest" silent="true">
+            <Comment>
+               <Language id="English">
+                  The priest stretches forth his hands and bows his head to the Lord, saying:
+               </Language>
+               <Language id="Arabic">
+                  يبسط الكاهن يديه ويخضع برأسه للرب ويقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.
+               </Language>
+               <Language id="English">
+                  Our Lord, God, and Savior Jesus Christ,
+               </Language>
+               <Language id="Arabic">
+                  ربُّنا وإلهُنا ومخلِّصُنا يسوعَ المسيحُ.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Eu] m~mof e~p~,w e~bol n~te ninobi:
+               </Language>
+               <Language id="English">
+                  given for the remission of sins
+               </Language>
+               <Language id="Arabic">
+                  يُعطَى لغفرانِ الخطايا، 
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  ...nem ouwnq n~e~neh n~n/eyna[i e~bol n~q/tf.
+               </Language>
+               <Language id="English">
+                  ...and eternal life to those who partake of Him.
+               </Language>
+               <Language id="Arabic">
+                   ...وحياةً أبديةً لمن يتناول منه.
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  Now, indeed, the bread has become the Body of Christ and the wine the Blood of Christ. After this, the signings of both of Them shall be through Them and by Them.
+               </Language>
+               <Language id="Arabic">
+                  الآن فقد صار القربان جسد المسيح والخمر دم المسيح وصار رشمهما في مابعد منهما وبِهما.
+               </Language>
+            </Comment>
+         </Role>
+         
+         <Group>
+            <Season id="StGregoryLiturgy">
+               <InsertDocument path="include/yeaweaskyou/YeaWeAskYou"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/LordHaveMercy3"/>
+               
+               <LinkDocument path="liturgies/gregory/Yea We Ask You">
+                  <Language id="English">
+                     Yea We Ask You
+                  </Language>
+                  <Language id="Arabic">
+                     نعم نسألُكَ
+                  </Language>
+               </LinkDocument>         
+            </Season>
+         </Group>         
+      </Season>
+      
+      <Season id="StCyrilLiturgy">
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Pen[oic ouoh Pennou] ouoh pencwt/r ouoh penouro t/ren I/couc Pi,rictoc.
+               </Language>
+               <Language id="English">
+                  Our Lord, God, Savior, and King of us all, Jesus Christ.
+               </Language>
+               <Language id="Arabic">
+                  ربِّنا وإلهِنا ومخلِّصِنا وملكِنا كلِّنا يسوعَ المسيحِ.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Role id="People">
+            <Text>
+               <Language id="Coptic">
+                  Am/n.
+               </Language>
+               <Language id="English">
+                  Amen.
+               </Language>
+               <Language id="Arabic">
+                  آمين.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <Comment>
+            <Language id="English">
+               As the priest says the following litany, the congregation reponds by chanting “Lord have mercy” after each verse.
+            </Language>
+            <Language id="Arabic">
+               يقول الكاهن هذه الطلبات ويرد الشعب ”ياربُّ ارحَم“ بعدكل ربع.
+            </Language>
+         </Comment>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Hina n~touswpi nan t/rou qa n/eyna[i e~bol m~mwou: e~ounah] n~atqotqet: e~oua~gap/ n~atmetsobi.
+               </Language>
+               <Language id="English">
+                  That they may be unto all of us who partake of them: faith without searching; love without hypocrisy;
+               </Language>
+               <Language id="Arabic">
+                  لكي يكونا لنا نحنُ جميعاً المتناولينَ منهُما، إيماناً بغيرِ فحصٍ، ومحبةً بغيرِ رياءٍ.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Eouhupomon/ ecj/k e~bol: e~ouhelpic ectajr/out.
+               </Language>
+               <Language id="English">
+                  perfect patience; firm hope;
+               </Language>
+               <Language id="Arabic">
+                  وصبراً كامِلاً، ورجاءً ثابتاً.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Eounah]: e~ourwic: e~outoujo: e~ouounof.
+               </Language>
+               <Language id="English">
+                  faith and watchfulness; health and joy;
+               </Language>
+               <Language id="Arabic">
+                  وإيماناً، وحراسةً، وعافيةً، وفرحاً.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Eoumetberi n~te ]'u,/ nem picwma nem pip~neuma: e~ouw~ou m~pekran eyouab.
+               </Language>
+               <Language id="English">
+                  renewal for the soul, body, and spirit; glory to Your holy name;
+               </Language>
+               <Language id="Arabic">
+                  وتجديداً للنفسِ والجسدِ والروحِ، ومجداً لاسمِكَ القدوسِ.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  Eoumets~v/r n~te oumetmakarioc n~te ouwnq n~eneh nem oumetattako: e~ou,w e~bol n~te ninobi.
+               </Language>
+               <Language id="English">
+                  sharing in the blessedness of eternal life and incorruption; and forgiveness of sins.
+               </Language>
+               <Language id="Arabic">
+                  شركةَ سعادةِ الحياةِ الأبديةِ وعدمَ الفسادِ، وغفراناً للخطايا.
+               </Language>         
+            </Text>
+         </Role>
+         
+         <InsertDocument path="include/LordHaveMercy"/>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="StBasilLiturgy">
+         <Role id="Priest">
+            <Comment>
+               <Language id="English">
+                  The priest takes a veil in his right hand and another in his left hand, and says:
+               </Language>
+               <Language id="Arabic">
+                  ثم يأخذ الكاهن لفافة على يده اليمنى ولفافة أخرى على يده اليسرى ويقول:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ariten n~emp~sa t/ren penn/b: e~[i e~bolqen n/eyouab n~tak: e~outoubo n~te nen'u,/ nem10 nencwma nem nenp~neuma.
+               </Language>
+               <Language id="English">
+                  Make us all worthy, O our Master, to partake of Your Holies, unto the purification of our souls, bodies, and spirits,
+               </Language>
+               <Language id="Arabic">
+                  اجعلنا مُستحِقينَ كلَّنا، يا سيدَنا، أن نتناولَ من قُدساتِكَ طهارةً لأنفسِنا وأجسادِنا وأرواحِنا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hina n~tenswpi n~oucwma n~ouwt: nem oup~neuma n~ouwt: n~tenjimi n~oumeroc nem ouk~l/roc: nem n/eyouab t/rou e~tauranak icjen p~e~neh.
+               </Language>
+               <Language id="English">
+                  that we may become one body and one spirit, and may have a share and inheritance with all the saints who have pleased You since the beginning.
+               </Language>
+               <Language id="Arabic">
+                  لكي نكونَ جسداً واحداً، وروحاً واحداً، ونجدَ نصيباً وميراثاً مع جميعِ القديسينَ الذين أرضَوْكَ مُنذُ البدءِ.
+               </Language>         
+            </Text>
+         </Role>
+      </Season>
+   </Group>
+</Document>

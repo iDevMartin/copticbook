@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/praises/theotokia/Sunday11"/>
+   <InsertDocument path="include/praises/theotokia/Sunday12"/>
+   <InsertDocument path="include/praises/theotokia/Sunday13"/>
+   <InsertDocument path="include/praises/theotokia/Sunday14"/>
+   <InsertDocument path="include/praises/theotokia/Sunday15"/>
+
+   <Group>
+      <Season id="PentecostPeriod | (Sundays ^ ApostlesFastToLastDayOfHathor)">      
+         <Comment>
+            <Language id="English">
+               The following hymn is prayed beginning from the Resurrection Feast throughout the Fifty days daily. After the Fifty days, it is only prayed on Sundays, until the last Sunday of Hathor.
+            </Language>
+            <Language id="Arabic">
+               هذه القطعة تُقال من ليلة عيد القيامة إلى آخر الخمسين فى الآحاد والأيام وبعد الخمسين تُقال فى الآحاد فقط إلى الأحد الأخير من شهر هاتور
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/praises/theotokia/Sunday16-18"/>
+      </Season>
+   </Group>   
+</Document>

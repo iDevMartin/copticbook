@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">                             
+            By the thrice-blessed John.
+         </Language>      
+         <Language id="Arabic">                             
+            ليوحنا المثلث الطوبى.
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Vnou] n~te ]a~gap/ ouoh v~ref] n~te ]meth/t n~ouwt: ouoh v~refcahni n~te ]g~nwm/ n~ouwt n~te ]a~ret/.
+         </Language>
+         <Language id="English">
+            O God of love and giver of the oneness of heart, provider of the oneness of mind that is of virtue,
+         </Language>
+         <Language id="Arabic">
+            يا إلهَ المحبةِ ومُعْطِي وحدانيةِ القلبِ، ورازقَ الرأيِ الواحدِ الذي للفضيلةِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            V/e~taferh~mot nan n~]entol/ m~beri: hiten pekmonogen/c n~S/ri.
+         </Language>
+         <Language id="English">
+            who has granted to us the new commandment through Your only-begotten Son,
+         </Language>
+         <Language id="Arabic">
+            الذي أنعمَ لنا بالوصيةِ الجديدةِ بابنِكَ الوحيدِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Hina n~tenmenre nene~r/ou: kata v~r/] n~yok e~takmenriten: a~non qa niatm~p~sa ouoh etcwrem.
+         </Language>
+         <Language id="English">
+            that we should love one another even as You have loved us, we the undeserving and the lost,
+         </Language>
+         <Language id="Arabic">
+            لكي نحبَّ بعضَنا بعضاً كما أحببتنا أنتَ، نحنُ غيرَ المستحقينَ والضالينَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh ak] m~pekmenrit n~S/ri e~h~r/i e~jen penwnq nem penoujai.
+         </Language>
+         <Language id="English">
+            and gave Your beloved Son for our life and salvation.
+         </Language>
+         <Language id="Arabic">
+            وبَذَلتَ ابنَكَ الحبيبَ عن حياتِنا وخلاصِنا.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ten]ho e~rok penn/b: a~rih~mot nan qa neke~biaik: n~c/ou niben n~te penwnq ethijen pikahi: n~houo~ de mallon ]nou.
+         </Language>
+         <Language id="English">
+            We ask You, O our Master, to grant us Your servants, for all the days of our life on earth and most especially now,
+         </Language>
+         <Language id="Arabic">
+            نسألُكَ يا سيدَنا، أَنعِم لنا نحنُ عبيدَكَ في كلِّ زمانِ حياتِنا التي على الأرضِ، ولاسيما بالأكثرِ الآنَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            N~oulogicmoc efi~ri an m~v~meui~ n~nimetpethwou n~te sorp: nem oucunid/cic n~atmetsobi hanmeui~ euenhot: nem ouh/t m~maicon.
+         </Language>
+         <Language id="English">
+            a reasoning that remembers not the earlier evils, a conscience without hypocrisy, truthful thoughts, and a heart that loves the brethren,
+         </Language>
+         <Language id="Arabic">
+            بتفكيرٍ غيرَ ذاكرٍ للشرورِ الأُولى، ونيةٍ بغيرِ رياءٍ، وأفكارٍ صادقةٍ، وقلبٍ محبٍّ للإِخوةِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Hina e~an] n~ouacpacmoc m~p~neumatikon: n~tenvwt e~bolha p~i~ni n~Ioudac pip~rodot/c.
+         </Language>
+         <Language id="English">
+            that, as we give a spiritual greeting, we may flee from the likeness of Judas the traitor.
+         </Language>
+         <Language id="Arabic">
+            لكي، ونحنُ نُعطِي قبلةً روحيةً، نَهْرُبَ من شِبْهِ يهوذا الخائنِ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Kata de nekmay/t/c eyouab ouoh n~a~pactoloc: e~anhwtp n~nene~r/ou qen pitoubo entoubo ouoh eutoubo m~mon: e~bol hiten ]metmecit/c n~te Pekp~neuma eyouab.
+         </Language>
+         <Language id="English">
+            But having been reconciled to one another in the likeness of Your holy disciples and apostles, in purity we are purified and become sanctified through the mediation of Your Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            وكمثلِ تلاميذِكَ القديسينَ الرسلِ، فيما قد صالحنا بعضَنا بعضاً، نكونُ بالنقاوةِ أطهاراً،ِ ونتقدسُ بِوَسَاطَةِ روحِكَ القدوسِ.
+         </Language>         
+      </Text>
+   </Role>     
+   
+   <Role id="Priest" silent="true">
+      <InsertDocument path="include/SilentPriestConclusion"/>
+   </Role>
+</Document>

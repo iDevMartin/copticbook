@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Nenio] n~a~poctoloc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Fast of the Apostles:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/adamAspasmos/ApostlesFastContents"/>
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

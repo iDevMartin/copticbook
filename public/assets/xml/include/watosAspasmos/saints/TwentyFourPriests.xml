@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TwentyFourPriests:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Eybe je...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of the Twenty-Four Priests:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Eybe je ceqent eqoun e~v~nou]: ouoh eu,/ nahren pefy~ronoc: euhwc e~rof qen oumetatmounk: m~pi e~hoou nem pie~jwrh:
+            </Language>
+            <Language id="English">
+               Because they are near to God: and being before His throne: singing to Him ceaselessly: day and night:
+            </Language>
+            <Language id="Arabic">
+               من أجل أنهم قريبون من الله وكائنون أمام كرسيه يسبحون بلا فتور النهار والليل.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

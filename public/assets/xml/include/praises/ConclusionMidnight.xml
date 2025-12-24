@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="include/agpeya/IntroductionToCreed"/>   
+   <InsertDocument path="include/Creed"/>
+   
+   <Comment>
+      <Language id="English">
+         The following litany is said for the Conclusion of the Midnight Psalmody. Each verse is preceded by “Lord Have Mercy” three times
+      </Language>
+      <Language id="Arabic">
+         طلبة تقال ختام التسبحة فى باكر على <span class="Coptic">Ke#</span>
+      </Language>
+   </Comment>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Conclusion of the Midnight Psalmody</Language>
+         <Language id="Arabic">ختام التسبحة</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            V] nai nan.
+         </Language>
+         <Language id="English">
+            O God have mercy on us:
+         </Language>
+         <Language id="Arabic">
+            ياالله ارحمنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V] cwtem e~ron.
+         </Language>
+         <Language id="English">
+            O God hear us:
+         </Language>
+         <Language id="Arabic">
+            ياالله اسمعنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V] comc e~ron.
+         </Language>
+         <Language id="English">
+            O God behold us:
+         </Language>
+         <Language id="Arabic">
+            يالله أنظر إلينا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V] joust e~ron.
+         </Language>
+         <Language id="English">
+            O God look to us:
+         </Language>
+         <Language id="Arabic">
+            ياالله أطلع علينا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V] senh/t qaron.
+         </Language>
+         <Language id="English">
+            O God have compassion on us:
+         </Language>
+         <Language id="Arabic">
+            ياالله تراءف علينا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Anon qa peklaoc.
+         </Language>
+         <Language id="English">
+            We are Your people:
+         </Language>
+         <Language id="Arabic">
+            نحن شعبك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Anon qa pekp~lacma.
+         </Language>
+         <Language id="English">
+            We are Your creation:
+         </Language>
+         <Language id="Arabic">
+            نحن جُبلتك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Nahmen e~bol qen nenjaji.
+         </Language>
+         <Language id="English">
+            Deliver us from our enemies:
+         </Language>
+         <Language id="Arabic">
+            نجنا من أعدائنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Nahmen e~bolha ouh~bwn.
+         </Language>
+         <Language id="English">
+            Deliver us from inflation:
+         </Language>
+         <Language id="Arabic">
+            نجنا من الغلاء.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Anon qa neke~biaik.
+         </Language>
+         <Language id="English">
+            We are Your servants:
+         </Language>
+         <Language id="Arabic">
+            نحن عبيدك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            U~ioc yeoc n~yok.
+         </Language>
+         <Language id="English">
+            You are the Son of God:
+         </Language>
+         <Language id="Arabic">
+            أنتَ إبن الله.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Annah] e~rok.
+         </Language>
+         <Language id="English">
+            We believe in You:
+         </Language>
+         <Language id="Arabic">
+            آمنا بك.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/ConclusionMidnightSeasonalVerse"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Jempensini qen pekoujai.
+         </Language>
+         <Language id="English">
+            Visit us with Your salvation:
+         </Language>
+         <Language id="Arabic">
+            تعهدنا بخلاصك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ouoh ,a nennobi nan e~bol.
+         </Language>
+         <Language id="English">
+            And forgive us our sins
+         </Language>
+         <Language id="Arabic">
+            وأغفر لنا خطايانا.
+         </Language>
+      </Text>
+   </Section>
+   
+   <InsertDocument path="include/agpeya/HolyHolyHoly"/>
+      
+   <Comment>
+      <Language id="English">
+         The priest says the absolution of the Midnight Hour and the First Hour and the Morning Doxology are prayed.
+      </Language>
+      <Language id="Arabic">
+         يقول الكاهن تحليل نصف الليل وتقرأ مزامير باكر وبعدها ذوكصولوجية باكر.
+      </Language>
+   </Comment>
+</Document>

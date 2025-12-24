@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Enthronement="true">
+   <Title>
+      <Language id="English">Service of Enthronement of His Holiness the Pope of Alexandria</Language>
+      <Language id="Arabic">طقس تنصيب قداسة بابا الأسكندرية</Language>
+   </Title>
+         
+   <Comment>
+      <Language id="English">
+         One of the bishops starts the prayer according to the custom, the lections for 17th of Hathor are read until the Praxis (Acts) and the Synaxarion. Then the priests go out with their censers and the deacons carrying crosses to the Papal residence, where the metropolitans and the bishops are with the one chosen for the patriarchal throne, then the door of the cathedral is locked and the keys are given to one of the archdeacons to stand at the door, waiting for the new Pope when he comes in order to deliver the keys to him.
+      </Language>
+      <Language id="Arabic">
+         يبدأ أحد الأساقفة الصلاة في يوم الأحد كالمعتاد وتقرأ فصول 17 هاتور، وبعد تلاوة فصل الإبركسيس (سفر أعمال الرسل) والسكنسار (سير القديسين)، يخرج الكهنة بمجامرهم والشمامسة – وبأيديهم الصلبان – إلى المقر البابوي حيث يكون المطارنة والأساقفة مع المختار للكرسي البابوي ويقفل باب الكاتدرائية وتعطى المفاتيح لأحد رؤساء الشمامسة ليقف ببابها في إنتظار البابا الجديد عند قدومه ليسلمه إياها. 
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         When the priests and the deacons reach the papal residence, the metropolitans and the bishops should be vested and surrounding the new Pope. Then the Papal entourage proceeds towards the cathedral, preceded by the deacons and the priests and one of the archdeacons walks in front of the senior bishop carrying the Gospel, while sing <span class="Coptic">Eulog/menoc… Wcanna</span>
+      </Language>
+      <Language id="Arabic">
+         وإذا ما وصل الكهنة والشمامسة إلى المقر، يكون المطارنة والأساقفة بلباسهم الكهنوتي محيطين بالبابا الجديد. ثم يأخذ الموكب البابوي في المسير إلى الكاتدرائية يتقدمهم الشمامسة والكهنة ويسير أمام كبير الأساقفة أحد رؤساء الشمامسة حاملاً الإنجيل، وهم يرنمون <span class="Coptic">Eulog/menoc… Wcanna</span> 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="Coptic">Eulogimenoc</Language>
+         </Title>
+         
+         <InsertDocument path="include/EulogimenocIntro"/>
+      </Section>
+   </Role>
+   
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            And the procession continues until they reach the door of the cathedral, then the archdeacon proceeds to the Pope and delivers the keys to him. His Holiness opens the door saying:
+         </Language>
+         <Language id="Arabic">
+            ويظل الموكب على هذا النظام حتى يصل إلى باب الكاتدرائية، وهناك يتقدم رئيس الشمامسة إلى البابا ويسلمه المفاتيح، فيفتح قداسته الباب ويقول: 
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            “Open to me the gates of righteousness: that I may go into them, and confess to the Lord: this is the gate of the Lord, the righteous shall enter into it. I shall confess You, Lord: for You have heard me, and have become to me salvation.” (Ps 117: 19-21)
+         </Language>
+         <Language id="Arabic">
+            "إفتحوا لي أبواب البر لكي أدخل وأشكر الرب، لأن هذا هو باب الرب وفيه يدخل الأبرار. أشكرك يارب لأنك إستجبت لي وكنت لي منقذاً ومخلصاً". 
+         </Language>
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         When the door is opened, the bells of the cathedral ring, welcoming the new Pope. 
+      </Language>
+      <Language id="Arabic">
+         وعند فتح الباب تدق أجراس الكاتدرائية مرحبة بالبابا الجديد.  
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The procession continues in the same order until they reach the sanctuary door, while they sing <span class="Coptic">Omonogen/c</span> 
+      </Language>
+      <Language id="Arabic">
+         ثم يدخل الموكب إلى الكاتدرائية ويستمر في المسير على النظام السابق حتى يبلغ باب الهيكل والكل يرنم: <span class="Coptic">Omonogen/c</span> 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <InsertDocument path="include/Omonogenees"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+        They all prostrate themselves before the holy sanctuary.
+      </Language>
+      <Language id="Arabic">
+         ويسجد الجميع أمام الهيكل المقدس.
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The Pope stands below the step of the sanctuary door between two bishops, while the metropolitans and the bishops ascend the step of the sanctuary door and form two rows. The priests and the deacons occupy their assigned places.
+      </Language>
+      <Language id="Arabic">
+         ثم يقف البابا تحت درج باب الهيكل بين أسقفين ويصعد المطارنة والأساقفة إلى الهيكل إلى درجة صفين ويأخذ الكهنة والشمامسة مكانهم المخصص. 
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         The senior bishop then says the Prayer of the Gospel (from the Liturgy of Saint Gregory)
+      </Language>
+      <Language id="Arabic">
+         ثم يتلو كبير الأساقفة صلاة الإنجيل (من قداس القديس غريغوريوس)
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="papal/include/StandardPrayerIntro"/>
+   
+   <Title>
+      <Language id="English">Litany of the Gospel</Language>
+      <Language id="Arabic">أوشية الإنجيل</Language>
+   </Title>
+   
+   <InsertDocument path="include/AlternateLitanyOfTheGospel"/>
+   
+   <Comment>
+      <Language id="English">
+         And after that he delivers the nomination to one of the archdeacons, who reads it from the pulpit. Then the senior bishop enters into the sanctuary and sits on the throne, surrounded by the metropolitans and the bishops according to their ranks.
+      </Language>
+      <Language id="Arabic">
+         وبعدها يسلم التزكية لأحد رؤساء الشمامسة يتلوها من فوق الإنبل (المنبر) ثم يدخل كبير الأساقفة إلى الهيكل ويجلس على السترونس وحوله المطارنة والأساقفة عن يمينه ويساره كرتبهم.
+      </Language>
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">The Nomination</Language>
+            <Language id="Arabic">التزكية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               In the name of the Father and the Son and the Holy Spirit, the Holy undivided Trinity, One God, our God we the Orthodox Christians; in Whom we hope till the last breath and unto Whom we send up unto the highest the glory and the honour, forever. 
+            </Language>
+            <Language id="Arabic">
+               باسم الآب والابن والروح القدس، الثالوث القدوس غير المفترق، الإله الواحد، إلهنا نحن المسيحيين الأرثوذكسيين، نتكل عليه إلى النفس الأخير، ونرسل إليه في الأعالي المجد والإكرام إلى الأبد. 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               We the metropolitans and the bishops and the priests and the deacons and all the Christ loving congregation of the cities of Alexandria and Cairo and all the region of Egypt, and the city of our God, Jerusalem, and all the countries of Africa, Asia, Europe, North America, South America, and Australia. When the calamity befell us and we became orphans, when the triple blessed Pope Shenouda III of thrice blessed memory departed us to the heavenly chambers; him who has received all the holy promises, and departed to God whom he loved, and heard from Him that voice full of joy saying unto him: “Well done, good and faithful servant, enter into the joy of your Master.” When we became orphaned and the holy Church of God became a widow; this which he had shepherded with his teachings, we entreated the Most High to guide us to whom would be worthy of the great archpriesthood, that he may shepherd us in the way of the Lord, and guide us to the haven of salvation, so with gift from on high and the election of the Holy Spirit, We have all agreed with one heart and elected the God fearing Abba Tawadros, general bishop of Albehera, from the monks of St. Pishoy monastery as Pope and Patriarch and Archbishop for the Apostolic See, the See of Saint Mark the Evangelist of Egypt, Nubia, Sudan, Pentapolis, and all the regions of the See in Africa, Asia, Europe, North America, South America, and Australia. We have elected him because he is God fearing, hospitable, adorned by knowledge and understanding, pure, diligent in publishing the evangelical percepts, well in governing, watchful in the preservation of the rites and the traditions of the Church. We have crowned him as principal shepherd, Pope and Patriarch of the holy Church of God, to shepherd us in compassion and meekness.
+            </Language>
+            <Language id="Arabic">
+               نحن المطارنة والأساقفة والكهنة والشمامسة وكل الشعب المحب للمسيح بمدينتي الأسكندرية والقاهرة وأقاليم مصر جميعاً ومدينة إلهنا أورشليم "القدس" وسائر بلاد أفريقيا وآسيا وأوربا وأمريكا الشمالية وأمريكا الجنوبية وأستراليا، عندما حلت بنا جائحة اليتم بانتقال الطيب الذكر مثلث الرحمات البابا الأنبا شنوده الثالث إلى الأخدار السمائية، الذي نال جميع المواعيد المقدسة ومضى إلى الله الذي أحبَّهُ فسمع منه ذاك الصوت المملوء فرحاً القائل: نعماً أيها العبد الصالح الأمين، أدخل إلى فرح سيدك: عندما تيتمنا وترملت كنيسة الله المقدسة التي كان يرعاها بتعاليمه، تضرعنا إلى العلي أن يرشدنا إلى من هو جدير برياسة الكهنوت العظمى، ليرعانا في طريق الرب ويهدينا ميناء الخلاص، فبمنحة علوية وإختيار الروح القدس، إتفقنا جميعاً بطيب قلب فإنتخبنا المتعبد لله الأنبا تواضروس الأسقف العام بالبحيرة، من رهبان دير الأنبا بيشوي، بابا وبطريرك ورئيس أساقفة للكرسي الرسولي كرسي القديس مرقس الإنجيلي كاروز الديار المصرية والنوبة والسودان وخمس المدن الغربية وسائر أقاليم الكرازة بأفريقيا وآسيا وأوربا وأمريكا الشمالية وأمريكا الجنوبية وأستراليا، وقد وقع إختيارنا عليه، لأنه رجل متعبد لله، محب للغرباء، معلم طاهر، مجمل بالفهم والمعرفة، مجد في نشر تعاليم الإنجيل، حسن التدبير، ساهر على حفظ طقوس الكنيسة وتقاليدها، وتوجناه رأس رعاة وبابا وبطريركاً لبيعة الله المقدسة، لكي يرعانا بالرأفة والوداعة. 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Therefore we have inscribed this nomination and signed it, giving thanks unto the Holy Trinity, the father, the Son and the holy spirit. Amen.
+            </Language>
+            <Language id="Arabic">
+               ولهذا سطَّرنا هذه التزكية، ووقعنا عليها مقدمين الشكر للثالوث الأقدس الآب والإبن والروح القدس – آمين.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               Following this, the metropolitans and the bishops shall descend from the throne and shall stand before the altar in order to install the Pope, and the elected one shall kneel before the altar. The senior bishop shall pray the Prayer of Thanksgiving:
+            </Language>
+            <Language id="Arabic">
+               وبعد ذلك ينزل المطارنة والأساقفة من على السترونس ويقفون أمام المذبح لتنصيب البابا فيجثو المختار على ركبتيه أمام الهيكل، ثم يقول كبير الأساقفة صلاة الشكر:
+            </Language>
+         </Comment>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="papal/include/StandardPrayerIntro"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Thanksgiving Prayer</Language>
+         <Language id="Arabic">صلاة الشكر</Language>      
+      </Title>
+      
+      <Role id="Metropolitan">
+         <InsertDocument path="include/ThanksgivingPrayer.Priest.1"/>
+      </Role>
+      
+      <InsertDocument path="include/LetUsPray"/>
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Metropolitan">
+         <InsertDocument path="include/ThanksgivingPrayer.Priest.2"/>
+      </Role>
+      
+      <Role id="Deacon">         
+         <Text>
+            <Language id="Coptic">
+               Twbh hina n~te Vnou] nai nan: n~tefsenh/t qaron: n~tefcwtem e~ron: n~teferbo/~yin e~ron: n~tef[i n~ni]ho nem nitwbh n~te n/eyouab n~taf: n~totou e~h~r/i e~jwn e~pia~gayon n~c/ou niben: n~tefa~reh e~p~wnq nem p~taho e~ratf m~peniwt ettai/out n~ar,ie~reuc papa abba Tawadroc nem nefkes~v/r n~litourgoc neniw] m~m/tropol/t/c nem n~iepickopoc n/et,/ neman n~tef,a nennobi nan e~bol.            
+            </Language>
+            <Language id="English">
+               Pray that God may have mercy and compassion on us, hear us, help us, and accept the supplications and prayers of His saints, for that which is good on our behalf at all times and to keep for us and upon us the life and standing of our honored father, the archpriest, Pope Abba Tawadros, and his partners in the [apostolic] liturgy, our fathers the metropolitans and the bishops assembled with us; and forgive us our sins.            
+            </Language>
+            <Language id="Arabic">
+               اطلبوا لكي يرحمَنا الله، ويتراءف علينا، ويسمعنا، ويعيننا، ويقبلَ سؤالات وطلبات قديسيه منهم بالصلاحِ عنا في كلِّ حينِ وأن يحفظَ لنا وعلينا حياةَ وقيامَ أبينا المكرمِ البابا البطريرك الأنبا تواضروس وشركائهِ في الخدمةِ [الرسولية] أبائنا المطارنة والأساقفة المجتمعين معنا، ويغفر لنا خطايانا            
+            </Language>         
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Metropolitan">
+         <InsertDocument path="include/ThanksgivingPrayer.Priest.3"/>
+      </Role>
+      
+      <Role id="Metropolitan" silent="true">
+         <InsertDocument path="include/ThanksgivingPrayer.Priest.4"/>
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </Section>
+   
+   <Comment>
+      <Language id="English">
+         And then they offer incense saying the Prayer of the Morning Incense, then shall this prayer be said:
+      </Language>
+      <Language id="Arabic">
+         ويرفع البخور بأوشية بخور باكر وبعدها تقال هذه الصلاة:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="English">
+         O Lord, God of powers, Who made us worthy of this service, Who has exalted the understanding of mankind, who searches the hearts and the reins. Hear us according to the multitude of Your compassions, and cleanse us from the stains of the body and the spirit. Tear asunder the cloud of our sins and our iniquities, even as You disperse the mist. Fill us with Your divine power, and the grace of Your Only Begotten Son, and the working of Your Holy Spirit. Make us worthy of this ministry, the ministry of the New Covenant, that we may worthily exalt Your holy Name and arise for serving Your holy mysteries, and suffer us not to be partakers of other men’s sins, but rather blot out our sins. Grant, o our master that we walk not in crooked paths, but rather grant us wisdom that we may utter that which is seemly. We come nigh unto You and we supplicate You that You kindle the grace of the archpriesthood on Your servant Abba Tawadros, who stands here to be filled with Your heavenly gifts. For You are Good and plenteous in mercy unto all who call upon You, and your authority is mighty, together with Your Only Begotten Son and the Holy Spirit. Now and at all times and unto the age of ages. Amen.
+      </Language>
+      <Language id="Arabic">
+         أيها الرب إله القوات الذي أهلنا لهذه الخدمة المقدسة، الذي رقّى أفهام بني البشر. فاحص القلوب والكلى: إستجب لنا بكثرة رأفاتك، وطهرنا من دنس الجسد والروح. مزّق سحابة خطايانا وآثامنا كما تمزق الضباب، أملأنا من قوتك الإلهية، ونعمة ابنك الوحيد وفعل روحك القدوس. اجعلنا جديرين بهذه الخدمة، خدمة العهد الجديد. لكي نستطيع باستحقاق أن نعظم إسمك القدوس ونقف لخدمة أسرارك المقدسة، ولا تدعنا نشترك في خطايا آخرين بل أمح خطايانا، وإمنحنا يا سيدنا ألا نسلك طرقاً معوجة، بل هبنا معرفة لننطق بما يليق ونقترب منك، ونضرع إليك أن تضرم نعمة رياسة الكهنوت العليا على عبدك الأنبا تواضروس الواقف ها هنا ليمتلئ من مواهبك السمائية، لأنك صالح كثير الرحمة لكل طالبيك وسلطانك قوي مع ابنك الوحيد والروح القدس، الآن وكل أوان وإلى دهر الدهور آمين. 
+      </Language>         
+   </Text>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            Then shall the Archdeacon say the following Litany:
+         </Language>
+         <Language id="Arabic">
+            ثم يقول رئيس الشمامسة الطلبات الآتية: 
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="English">
+            Let us all say Lord hear us and have mercy upon us
+         </Language>
+         <Language id="Arabic">
+            لنقل جميعاً استجب لنا يارب وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the sake of the rule of peace in the One Holy Catholic and Apostolic Church of God, and the salvation of the congregation of God, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل سيادة السلام في بيعة الله المقدسة الواحدة الجامعة الرسولية، وخلاص شعب الله، نضرع إليك يارب استجب لنا وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the sake of the forgiveness of our sins and iniquities, and our deliverance from all necessity and all rebuke, and from all affliction and the rising up of enemies and nations, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل مغفرة خطايانا وآثامنا، ونجاتنا من كل شدة ورجز، ومن كل محنة ومن قيام الأعداء والأمم، نتوسل إليك يارب أن استجب لنا وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            O Lord save Your people, bless Your Fatherly inheritance, visit the world with Your mercy and compassion: Raise the status of the Christians by the power of Your life-giving Cross. Turn your face away from our sins: blot out the handwriting of our iniquities, through the intercession of the holy Mother of God the Virgin Mary and Saint Mark the Evangelist and all the saints, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            خلص يارب شعبك، بارك ميراثك الأبوي، وافتقد العالم برحمتك ورأفتك: ارفع شأن المسيحيين بقوة صليبك المحيي، واصرف وجهك عن خطايانا: امح صك آثامنا، بشفاعة والدة الإله القديسة العذراء مريم والقديس مارمرقس الإنجيلي وجميع القديسين، نضرع إليك يارب استجب لنا وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            That You may forgive us every sin, voluntary or involuntary, that you may receive our supplication, and send God’s mercy and compassion upon us all, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل أن تغفر لنا كل خطية طوعية وقهرية، وأن تقبل طلبتنا وترسل رحمة الله ورأفته إلينا جميعاً، نبتهل إليك يارب استجب لنا وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            That You may kindle Your Holy Spirit in Your servant Tawadros, that You have chosen for the high-priesthood, through the prayer that we offer to You, we ask You O Lord to hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل أن تضرم روحك القدوس في عبدك الأنبا تواضروس الذي اخترته لرياسة الكهنوت العليا بالصلاة التي نقدمها إليك، نبتهل إليك يارب استجب لنا وارحمنا
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy3"/>
+      
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            O Master, Lord, the Pantocrator, God of all, the Father of mercies, and the God of all comfort, You are the protector of the shepherd and the flock. You are the invincible Power. You are the Helper and the Physician and the deliverer and the Fence and the Stability and the Hope and the Refuge and the Grace and the Resurrection and the Life. You are He Who has reconciled us and saved us through His Blood, Who abides for us forever. Strengthen us, protect us, guard us, be vigilant towards us. For You are the Prince of princes and the Lord of lords.   The Master of masters and the King of kings. Kindle in Your servant Abba Tawadros grace, accord him wisdom that he may shepherd Your Church in purity and righteousness. For Yours is the power and the glory with Your Good Father and the Holy Spirit, now and at all times and unto the age of ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب ضابط الكل رب الجميع، مصدر الرأفات وإله كل عزاء، أنت حافظ الراعي والرعية، أنت القوة المنيعة، أنت المعين والطبيب والمنجي والسور والثبات والرجاء والملجأ والنعمة والحياة والقيامة، أنت الذي صالحنا وخلصنا بدمه الكائن لنا كلنا إلى الأبد. قونا. احفظنا. نجنا. احرسنا. اسهر علينا، لأنك رئيس الرؤساء، ورب الأرباب. وسيد السادة. وملك الملوك. اضرم في عبدك الأنبا تواضروس النعمة، وهبه الحكمة ليرعى بيعتك بطهر وعدل، لأن لك القوة والمجد مع أبيك الصالح والروح القدس، الآن وكل أوان وإلى دهر الدهور – آمين
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Archdeacon">
+      <InsertDocument path="include/LetUsEntreatContents"/>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            The archdeacon shall say this hymn:
+         </Language>
+         <Language id="Arabic">
+            يقول رئيس الشمامسة هذه الترنيمة: 
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            The divine grace that heals illnesses and perfects all imperfections and gathers the dispersed, and cares for the holy Church of God, has guided us to the knowledge of the God fearing Abba Tawadros, that we may erect him Pope and Patriarch and Archbishop of Alexandria, Cairo and all the region of Egypt and the rest of the See of Saint Mark, instead of the tripple-blessed Pope Abba Shenouda III, who reposed in blessed old age. May the grace of the Holy Spirit be kindled in him. Let us all say: Lord have mercy.
+         </Language>
+         <Language id="Arabic">
+            النعمة الإلهية التي تشفي الأمراض وتكمل النقص وتجمع المتفرقين، وتعني بكنيسة الله المقدسة، قد أرشدتنا إلى معرفة المتعبد لله الأنبا تواضروس، لنقيمه باباً وبطريركاً ورئيس أساقفة على مدينتي الأسكندرية والقاهرة وكل أقاليم مصر وسائر الكرازة المرقسية، عوضاً عن مثلث الرحمات البابا الأنبا شنوده الثالث الذي تنيَّح في شيخوخة مباركة، وارتحل إلى الله. فلنصل إذن متوسلين إلى رب النعمة، لتضرم فيه نعمة الروح القدس، ولنقل جميعاً يارب ارحم. 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy3"/>
+   
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            Yea, Lord, kindle in the calling of the archpriesthood. May he be worthy to shepherd Your people with purity and righteousness, and win the portion of the saints. Through the mercies of Your Only Begotten Son, our Lord Jesus Christ, with Whom You are blessed together with the Holy Spirit Who is co-essential with You, now and at all times and unto the age of ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            نعم يارب اضرم فيه دعوة رياسة الكهنوت العليا، ليكون مستحقاً أن يرعى شعبك بطهر وبر، ويفوز بنصيب القديسين بمراحم ابنك الوحيد يسوع المسيح ربنا، الذي تباركت معه، والروح القدس المساوي لك، الآن وكل أوان وإلى دهر الدهور – آمين. 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ir/n/ paci.
+         </Language>
+         <Language id="English">
+            Peace be with all. 
+         </Language>
+         <Language id="Arabic">
+            السلام للكل.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Stand aright, stand in purity, stand with reverence, stand with fear and calmness and let us all say: Lord have mercy.
+         </Language>
+         <Language id="Arabic">
+            قفوا حسناً، قفوا بطهارة، قفوا بوقار. قفوا بخوف وهدوء ولنقل جميعاً يارب ارحم 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy3"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            All ye fathers, the metropolitans and the bishops gathered (here) pray, all of you for our father, elected by God.
+         </Language>
+         <Language id="Arabic">
+            أيها الآباء المطارنة والأساقفة المجتمعون صلوا جميعاً لأبينا المختار من الله 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            O Master, Lord the Pantocrator, the eternal, the Father of mercies, and the God of all comfort, The Father of our Lord, God and Saviour Jesus Christ. Who has created all things by His power and wisdom and counsel. Who has confirmed the foundation of the world. O God Who knows all things before they be, Who has crowned His saints with unfading crowns. Who has put His fear into the hearts of all His creation that they may be subject to His might. Who has granted us the true knowledge, that we may know the Spirit of His Goodness. Who has enlightened His Church with his ineffable Light. Who Chosen Abraham His friend unto the inheritance of faith. Who has translated his elect Enoch into the treasures of light because he pleased Him. Who granted Moses meekness and Aaron the perfection of the priesthood. Who anointed kings and princes that they may judge Your people in justice. Who has not left His holy heavenly altar without a minister, since the foundation of the world. Who has erected His priests in His Church, that they may serve His Holy Name. We ask and entreat Your goodness, O Lover of Mankind, for your servant Abba Tawadros, whom You have chosen to be an archbishop in Your Church, that he may be a prince and a shepherd of Your people. Lift up the light of Your countenance upon him that his heart might be enlightened by the fountain of Your glory, and that he may know Your divine mysteries. Kindle in him the gifts of Your Holy Spirit, the Spirit of Truth, the Spirit of perfection, the Paraclete, Whom You have given to Your holy apostles and pure prophets. Kindle in him, O Lord the spirit of wisdom and understanding, the spirit of counsel and power, the spirit of knowledge and piety. O God, fill him with Your fear, that he may judge Your people with uprightness and justice and defend the Orthodox upright faith. Cloth him with the robe of Your holy glory. Place a crown upon his head as he was anointed with the oil of gladness, the oil of Your goodness to be Your archpriest, a faithful (steward) unto Your Church. That he may blamelessly glorify you every day with holy sacrifices and pure prayer, and a soul enlightened by fastings and good deeds and a meek love and unfeigned faith. That he may offer oblations for the ignorances of Your people, and snatch them from the snares of sin, and restore them to Your holy fold. O Lord grant Your people peace upon peace, and grant Your servant Anba Tawadros Your Holy Spirit, that he may loose all bonds of sin that the adversary has bound. That he may gather the children of the Church, that they may become one fold for one shepherd. Guard his priesthood blameless unto the end, that he may minister unto You with spiritual sacrifices at all times, according to the order of the Great High priest, Who is in the heavens, Jesus Christ our Lord. To Whom, together with You and the Holy Spirit is due the might and the glory and the honour forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب ضابط الكل الأزلي مصدر كل الرأفات وإله كل عزاء. أبو ربنا وإلهنا ومخلصنا يسوع المسيح، الذي خلق جميع الأشياء بقوته وحكمته ومشورته، وثبت أسس المسكونة. اللهم العارف كل الأشياء قبل تكوينها، الذي كلل قديسيه بأكاليل لا تبلى، الذي جعل خوفه على قلوب خليقته لتخضع لعزته، وأنعم علينا بفهم حقيقي، لنعرف روح صلاحه وأضاء كنيسته بنوره غير الموصوف، واختار إبراهيم خليله لميراث الإيمان، ونقل أخنوخ صفيَّه إلى كنوز النور لأنه أرضاه، ووهب موسى الوداعة، وهارون كمال الكهنوت. اللهم الذي مسح الملوك والرؤساء لكي يقضوا بين شعبك بالعدل، ولم يدَع مذبحه المقدس السمائي بغير خدمة منذ إنشاء العالم حتى اليوم. اللهم الذي أقام كهنته في بيعته ليخدموا اسمه القدوس، نسأل ونضرع إلى صلاحك يا محب البشر عن عبدك أنبا تواضروس الذي اخترته رئيس أساقفة على بيعتك، ليكون رئيساً لشعبك وراعياً له. أشرق عليه يارب بنور وجهك لكي يضئ قلبه بينبوع مجدك فيعرف أسرارك الإلهية. أضرم فيه مواهب روحك القدوس، روح الحق، روح الكمال المعزي الذي أعطيته لرسلك القديسين وأنبياءك الأطهار: اضرم فيه يارب روح الحكمة والفهم، روح المشورة والقوة، روح المعرفة والتقوى. اللهم املأه من مخافتك ليقضي بين شعبك بالإستقامة والعدل ويذود عن الإيمان الأرثوذكسي القويم. ألبسه حُلة مجدك المقدسة، وضع على رأسه تاجاً، إذ قد مُسِحَ بدهن الفرح، دهن صلاحك، ليكون رئيساً لكهنتك، أميناً على بيعتك، ليمجدك بلا لوم كل أيام حياته بذبائح طاهرة وصلوات نقية ونفس مضيئة بأصوام وأعمال صالحة ومحبة وديعة وأمانة بلا رياء ويرفع القرابين عن جهالات شعبك وينتشلهم من فخاخ الخطيئة، ويردهم إلى حظيرتك المقدسة. اللهم أنعم على شعبك بسلام فوق سلام، واضرم في عبدك الأنبا تواضروس روح قدس ليحل كل وثاقٍ ربطه العدو بالخطيئة، ويجمع أبناء الكنيسة لكي تصبح الرعية واحدة لراع واحد، واحفظ كهنوته بلا عيب إلى الإنقضاء ليخدمك بذبائح روحية كل حين كرتبة رئيس الكهنوت الأعظم الذي في السموات يسوع المسيح ربنا، هذا الذي يليق بك معه والروح القدس العز والمجد والإكرام إلى الأبد. آمين. 
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The senior bishop then turns his face towards the east and says:
+         </Language>
+         <Language id="Arabic">
+            ثم يحول كبير الأساقفة وجهه إلى الشرق ويقول:    
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            Behold, O God upon us and upon our ministry and cleanse us from all blemish, and kindle from on high the grace of the archpriesthood in Your servant Abba Tawadros, that he be worthy in Your good will to shepherd Your people blamelessly. For You are merciful and righteous and unto You is due glory, honour, might and worship forever. Amen.
+         </Language>
+         <Language id="Arabic">
+            اطلع يارب علينا وعلى خدمتنا وطهرنا من كل دنس وأضرم من العلاء نعمة رياسة الكهنوت العليا في عبدك الأنبا تواضروس لكي يستحق بمسرتك أن يرعى شعبك بلا لوم، لأنك رحيم بار. يليق بك المجد والإكرام والعز والسجود إلى أبد الآبدين. آمين. 
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            Then he turns his face to the elected one and says:
+         </Language>
+         <Language id="Arabic">
+            ثم يحول وجهه إلى المختار ويقول:     
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            We call you Abba Tawadros II, Pope and Patriarch and lord archbishop of the See of Saint Mark. 
+         </Language>
+         <Language id="Arabic">
+            ندعوك أيها الأنبا تواضروس بابا وبطريرك وسيد ورئيس أساقفة الكرازة المرقسية  
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/KhenEfran"/>
+   
+   <Comment>
+      <Language id="English">
+         After that they shall vest him with the tunic and seat him upon a small chair, with the metropolitans and the bishops sitting around him, while the deacons sing a doxology to Saint Mark. 
+      </Language>
+      <Language id="Arabic">
+         وبعد ذلك يلبسونه التونيه ويجلسونه على كرسي صغير ويجلس حوله المطارنة والأساقفة ويرتل الشمامسة ذكصولوجية (مديح) القديس مرقس. 
+      </Language>
+   </Comment>
+   
+   <Role id="People">
+      <InsertDocument path="include/doxologies/StMark"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then the senior bishop shall deliver the deed of the archpriesthood to His Holiness the Pope saying aloud: 
+      </Language>
+      <Language id="Arabic">
+         ثم يسلم كبير الأساقفة تقليد رياسة الكهنوت إلى قداسة البابا البطريرك ويقول له بصوت جهري: 
+      </Language>
+   </Comment>
+   
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            Receive the deed of the archpriesthood for many years and peaceful times filled with glory and honour. 
+         </Language>
+         <Language id="Arabic">
+            تسلم تقليد رياسة الكهنوت لسنين كثيرة وأزمنة سلامية محفوفة بالمجد والكرامة
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Here the chanters shall say the Doxology of the Pope: 
+      </Language>
+      <Language id="Arabic">
+         وهنا يقول المرتلون: ذكصولوجية قداسة البابا 
+      </Language>
+   </Comment>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/doxologies/Patriarch"/>
+   </Role>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            The archdeacon shall then say the following litany:
+         </Language>
+         <Language id="Arabic">
+            ثم يقول رئيس الشمامسة الطلبة الآتية: 
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            For the sake of the peace and harmony and the order in the holy Church of God, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل السلام والوئام وانتظام كنيسة الله المقدسة، إلى الرب نطلب.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the congregation of God to be without offence or blame, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل شعب الله ليكون بلا عثرة ولا لوم، إلى الرب نطلب.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the sake of the metropolitans, the bishops and all the clergy and the Christ-loving people, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل المطارنة والأساقفة وسائر الأكليروس والشعب المحب للمسيح، إلى الرب نطلب. 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the sake of our father the righteous Abba Tawadros, who is entrusted with the See of Saint Mark, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل أبينا البار الأنبا تواضروس المؤتمن على الكرازة المرقسية، إلى الرب نطلب. 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For the sake of petitioning the mercies of the holy God upon our pure father Anba Tawadros, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل استدرار مراحم الإله القدوس على أبينا الطاهر الأنبا تواضروس، إلى الرب نطلب.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/LordHaveMercy"/>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            For his happy life and that he may shepherd us in purity and righteousness, let us entreat the Lord.
+         </Language>
+         <Language id="Arabic">
+            من أجل حياته السعيدة ورعايته إيانا بطهر وعدل، إلى الرب نطلب.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/Axios"/>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            The senior bishop shall then put the four Gospels on the head of the Pope. Then the Gospels are lifted up from his head and the metropolitans and bishops shall kiss them. Then the archdeacon says:
+         </Language>
+         <Language id="Arabic">
+            وفي كل مرة يقول فيها المرتلون يضع كبير الأساقفة الأناجيل الأربعة على هامة البابا ثم ترفع الأناجيل عن رأسه ويقبلها المطارنة والأساقفة، ثم يقول رئيس الشمامسة:
+         </Language>         
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            Pray, O ye fathers the righteous metropolitans and bishops.
+         </Language>
+         <Language id="Arabic">
+            صلوا أيها الآباء المطارنة والأساقفة الأبرار.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            We entreat on behalf of the God’s elect servant Abba Tawadros a standing of the rank and steadfastness of the worship in the One undivided holy Catholic and apostolic Orthodox Church of God, which He has acquired with His precious blood. Unto righteous judgements and lofty gifts and faithful teachings, and the offering of prayers for confirming the foundation of the Church, and for victory of the chiefs.
+         </Language>
+         <Language id="Arabic">
+            نطلب من أجل صفي الله وعبده الأنبا تاوضروس قياماً للرتبة وثباتاً للعبادة في الواحدة غير المنحلة كنيسة الله الأرثوذكسية المقدسة الجامعة الرسولية التي اقتناها بدمه الكريم، ولأقامة الأحكام العادلة والمواهب السامية والتعاليم الأمينة، ولتقديم الصلوات لتوطيد دعائم الكنيسة، ونصرة الرؤساء
+         </Language>         
+      </Text>
+   </Role>
+   
+   <InsertDocument path="papal/include/KhenEfran"/>
+   <InsertDocument path="papal/include/Axios"/>
+   
+   <Comment>
+      <Language id="English">
+         Then the metropolitans and the bishops shall vest the Pope with the priestly vestments. Then shall one of the priests put the pontifical cross wrapped in a silken veil upon the Prospherin and shall put the staff of the shepherding beside it while the chanters sing: 
+      </Language>
+      <Language id="Arabic">
+         ثم يأخذ المطارنة والأساقفة والكهنة في الباس البابا ثياب الكهنوت. ويتقدم أحد الكهنة ويضع صليب الرياسة الملفوف بمنديل من الحرير على البروسفارين ويجعل عصا الرعاية بجانبه والمرتلون يقولون: 
+      </Language>         
+   </Comment>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Nisavev"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         And when they vest him with the Sticharion, the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         وعندما يلبسونه البدلة يقول رئيس الشمامسة: 
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Your priests shall be clothed with righteousness: Your saints shall rejoice in joy at all times.
+         </Language>
+         <Language id="Arabic">
+            كهنتك يارب يلبسون العدل وأبرارك يبتهجون إبتهاجاً كل حين 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they vest him with the Epitrachelion and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه البطرشيل ورئيس الشمامسة يقول:  
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Blessed be God Who has poured His grace upon His priests. Like precious ointment upon the head, which comes down upon the beard, the beard of Aaron: which comes down to the edge of his garment; as the dew of Hermon at all times.
+         </Language>
+         <Language id="Arabic">
+            تبارك الله الذي سكب من نعمته على كهنته، مثل الدهن على الرأس الذي ينزل على اللحية لحية هارون. النازل على جيب قميصه مثل ندى حرمون كل حين 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they vest him with the girdle and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه المنطقة ورئيس الشمامسة يقول:   
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Blessed be God Who has girded my loins with strength and made my paths blameless at all times.
+         </Language>
+         <Language id="Arabic">
+            تبارك الله الذي منطق حقويّ بالقوة وجعل طرقي بلا عيب كل حين 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they vest him with the right sleeve and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه الكم الأيمن ورئيس الشمامسة يقول:    
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Your right hand O Lord is glorified by strength. Your right hand O Lord has crushed the enemies, and with the strength of your arm you have destroyed the adversaries.  The right hand of the Lord has exalted me. The right hand of the Lord has strengthened me. The right hand of the Lord has done wonders at all times.
+         </Language>
+         <Language id="Arabic">
+            يمينك يارب ممجدة بالقوة: يدك اليمنى يارب سحقت الأعداء وبقوة ساعدك هدمت المناصبين. يمين الرب رفعتني يمين الرب قوّتني يمين الرب صنعت العجائب كل حين 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they vest him with the left sleeve and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه الكم الأيسر ورئيس الشمامسة يقول:     
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Your hands have formed me and created me: give me understanding, that I may learn Your commandments. Those who fear You shall see me, and they shall be glad at all times.
+         </Language>
+         <Language id="Arabic">
+            يداك صنعتاني وجبلتاني – فهمني فأتعلم وصاياك الذين يخافونك يبصرونني فيفرحون كل حين 
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they vest him with the zone and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه المحارم ورئيس الشمامسة يقول:      
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Gird your sword upon Your thigh, O Mighty One. With Your beauty and Your comeliness. Prosper and reign in truth and meekness and by righteousness; Your right hand shall guide You at all times.
+         </Language>
+         <Language id="Arabic">
+            تقلد سيفك على فخذك أيها الجبار. بحسنك وجمالك. إنجح وأملك بالصدق والدعة. وبالبر تهديك يمينك كل حين  
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they shall vest him with the robe and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه البرنس ورئيس الشمامسة يقول:       
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            My soul rejoices in the Lord, and my heart rejoices in God my Saviour. For He has clothed me with the gown of salvation and vested me with the robe of gladness at all times.
+         </Language>
+         <Language id="Arabic">
+            تبتهج روحي بالرب ويبتهج قلبي بالله مخلصي. لأنه ألبسني ثوب الخلاص وسربلني حُلة السرور كل حين.   
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         Then they crown him and the archdeacon says: 
+      </Language>
+      <Language id="Arabic">
+         ثم يلبسونه التاج ورئيس الشمامسة يقول:       
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            The Lord has reigned, He has clothed Himself with beauty; He has clothed Himself with power, and girded Himself with it. He has put a crown of precious stones on my head. A good life I have asked Him and he gave me at all times.
+         </Language>
+         <Language id="Arabic">
+            ملك الرب واتشح بالبهاء. لبس القدرة وتجمَّل بها: وضع على رأسي تاجاً من حجر كريم. وحياة صالحة سألته فأعطاني كل حين    
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         And after they put the crown on the head of the Pope, the metropolitans and the bishops shall take off their crowns and put on the Pallin. Then they lead him up to the altar in order to receive the cross and the staff from the altar and the senior bishop shall say to him: 
+      </Language>
+      <Language id="Arabic">
+         وبعد وضع التاج على هامة البابا يرفع المطارنة والأساقفة تيجانهم ويلبسون البلين. ثم يصعدون به إلى المذبح ليتسلم الصليب وعصا الرعاية من فوق المذبح. فيلتفت إليه كبير الأساقفة ويقول:        
+      </Language>         
+   </Comment>
+   
+   <Role id="Archdeacon">
+      <Text>
+         <Language id="English">
+            Receive the staff of the shepherding from the great Shepherd of shepherds, Jesus Christ, Son of the Living God Who abides forever, that you may shepherd His people and feed them with life-giving teachings. For He has entrusted you with the souls of His sheep and from your hands He shall ask for their blood.
+         </Language>
+         <Language id="Arabic">
+            تسلم عصا الرعاية من يد راعي الرعاة الأعظم يسوع المسيح ابن الله الحي الدائم إلى الأبد لترعى شعبه وتغذيه بالتعاليم المحيية فقد ائتمنك على نفوس رعيته ومن يديك يطلب دمها.     
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         And after he receives the staff of the shepherding from the altar, he proceeds to receive the cross also
+      </Language>
+      <Language id="Arabic">
+         وبعد تسليم عصا الرعاية من فوق المذبح يتقدم فيتسلم الصليب أيضاً.
+      </Language>         
+   </Comment>
+   
+   <InsertDocument path="papal/include/Axios"/>
+   
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="English">
+            We enthrone Abba Tawadros as Archbishop on the holy throne; the throne of the apostle Mark the evangelist.
+         </Language>
+         <Language id="Arabic">
+            نُجلس الأنبا تاوضروس رئيس أساقفة على الكرسي الطاهر. كرسي الرسول الإنجيلي مرقس:
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.1"/>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Metropolitan">
+      <Comment>
+         <Language id="English">
+            And when he ascends the second step, the senior bishop says:
+         </Language>
+         <Language id="Arabic">
+            وعند ارتقاء الدرج الثاني يقول كبير الأساقفة:
+         </Language>         
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            We enthrone the chief shepherd, called by God Abba Tawadros as Patriarch on the throne of Saint Mark. In the name of the Father and the Son and the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            نجلس رئيس الرعاة المدعو من قبل الله الأنبا تاوضروس بطريركاً على كرسي القديس مرقس. باسم الآب والابن والروح القدس
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.2"/>
+   </Role>
+         
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Metropolitan">
+      <Comment>
+         <Language id="English">
+            Then they enthrone him on the throne and the senior bishop says:
+         </Language>
+         <Language id="Arabic">
+            ثم يجلسونه على الكرسي وكبير الأساقفة يقول: 
+         </Language>         
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            We have enthroned Abba Tawadros as Pope and Patriarch on the apostolic throne; the throne of Saint Mark. In the name of the Father and the Son and the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            أجلسنا الأنبا تاوضروس بابا وبطريركاً على الكرس الرسولي كرسي القديس مرقس الإنجيلي: باسم الآب والابن والروح القدس
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/Offering.Priest.3"/>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <InsertDocument path="papal/include/Axios"/>
+   
+   <Comment>
+      <Language id="English">
+         Then they present to him the gospel of Saint Mark to greet it, and the chanters say:
+      </Language>
+      <Language id="Arabic">
+         ثم يقدمون إليه إنجيل القديس مرقس فيحتضنه ويقول المرتلون:
+      </Language>         
+   </Comment>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Teeshoree"/>
+      
+      <Comment>
+         <Language id="English">
+            Then the chanters say this hymn:
+         </Language>
+         <Language id="Arabic">
+            ثم يقول المرتلون هذا اللحن:
+         </Language>         
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            (Tawadroc) tou makariw tatou a~giwtatou te ke cebacmiw~tatou: patroc /~mwn auyentou ke decpotou 
+         </Language>
+         <Language id="English">
+            The blessed (Tawadros), the holy fully honored, our father and master, 
+         </Language>
+         <Language id="Arabic">
+            (تواضروس) الطوباوى الأقدس الكلى الاكرام، أبونا ومولانا وسيدنا
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Papa ke patriar,ou t/c megal/c polewc A~lexand~riac: Lubi/c pentapolewc Eyiopiac nem Afrikia ke pac/c g/c E~guptou 
+         </Language>
+         <Language id="English">
+            Pope and Patriarch of the great city of Alexandria, Libya, Pentapolis, Ethiopia, Africa and all the land of Egypt.
+         </Language>
+         <Language id="Arabic">
+            وبابا وبطريرك المدينة العظمى الاسكندرية وليبيا والخمس مدن والحبشة وأفريقية وجميع أرض مصر
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Patroc paterwn pimenoc pimenwn: ar,ie~rewc ar,ie~rewn /~mwn: t~ritou ke dekatou twn a~poctolwn ke k~ritou t/c oikoumen/c: 
+         </Language>
+         <Language id="English">
+            Father of all fathers, shepherd of all shepherds, our Archbishop, the thirteenth Apostle and the judge of the world, 
+         </Language>
+         <Language id="Arabic">
+            أبو الاباء، راعى الرعاة رئيس رؤساء كهنتنا ثالث عشر  الرسل وقاضى المسكونة 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Polla ta e~t/: ton decpot/n ke ar,ie~rea~ /~mwn Kurie vulatte aftwn (icpolla e~t/ decpota) (3)
+         </Language>
+         <Language id="English">
+            May his years be countless, may the Lord preserve our master and Archbishop (for many years O master) (3)
+         </Language>
+         <Language id="Arabic">
+            فلتكن سنينة عديدة، سيدنا ورئيس كهنتنا يارب احفظه (لسنين كثيرة يا سيد) (3)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            nem neniw] m~m/tropolit/c nem nie~pickopoc n/et,/ neman
+         </Language>
+         <Language id="English">
+            and our fathers the metropolitans and the bishops assembled with us,
+         </Language>
+         <Language id="Arabic">
+            وأبائنا المطارنة والأساقفة المجتمعين معنا 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Mare pik~l/roc nem pilaoc t/rf: oujai qen P[oic: je a~m/n ece~swpi.
+         </Language>
+         <Language id="English">
+            May the clergy and all the people be safe in the Lord. Amen. So be it.
+         </Language>
+         <Language id="Arabic">
+            فليكن الإكليروس وكل الشعب معافين في الرب آمين يكون.
+         </Language>         
+      </Text>      
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            Then one of the priests shall read from the letter of Saint Paul to the Hebrews (4:14- 5:1-6)
+         </Language>
+         <Language id="Arabic">
+            ثم يقرأ أحد الكهنة فصلاً من رسالة بولس الرسول إلى العبرانيين ( 4: 14 – 5: 1 – 6)
+         </Language>         
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Pauline Epistle - Hebrews 4:14-5:6</Language>
+            <Language id="Arabic">العبرانيين 4: 14 - 5: 6</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Seeing then that we have a great High Priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession. For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin. Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need. For every high priest taken from among men is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins. He can have compassion on those who are ignorant and going astray, since he himself is also subject to weakness. Because of this he is required as for the people, so also for himself, to offer sacrifices for sins. And no man takes this honor to himself, but he who is called by God, just as Aaron was. So also Christ did not glorify Himself to become High Priest, but it was He who said to Him: "You are My Son, Today I have begotten You." As He also says in another place: "You are a priest forever According to the order of Melchizedek."               
+            </Language>
+            <Language id="Arabic">
+               فاذ لنا رئيس كهنة عظيم قد اجتاز السموات يسوع ابن الله. فلنتمسك بالاقرار به. لأنه ليس لنا رئيس كهنة غير قادر أن يرثي لضعفاتنا. بل مجرّب في كل شئ مثلنا بلا خطيئة. فلنتقدم بثقة إلى عرش النعمة. لكي ننال رحمة ونجد نعمة، عوناً في حينه. لأن كل رئيس كهنة مأخوذ من الناس يقام لأجل الناس في ما لله. لكي يقدم قرابين وذبائح عن الخطايا. قادراً أن يترفق بالجهال والضالين. إذ هو أيضاً محاط بالضعف. ولهذا الضعف يلتزم أنه كما يقدم عن الخطايا لأجل الشعب، هكذا أيضاً لأجل نفسه. ولا يأخذ أحد هذه الكرامة بنفسه. بل المدعو من الله كما هارون أيضاً. كذلك المسيح أيضاً لم يمجد نفسه ليصير رئيس كهنة. بل الذي قال له أنت ابني أنا اليوم ولدتك. كما يقول أيضاً في موضع آخر أنت كاهن إلى الأبد على رتبة ملكي صادق.
+            </Language>         
+         </Text>      
+         
+         <Text>
+            <Language id="English">
+               The grace of God the Father be with us all. Amen.                              
+            </Language>
+            <Language id="Arabic">
+               نعمة الله الآب تحل على جميعنا آمين.
+            </Language>         
+         </Text>
+      </Section>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/trisagion/SeasonalContents"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         And one of the priests says the Prayer of the Gospel.
+      </Language>
+      <Language id="Arabic">
+         ويقول أحد الكهنة أوشية الإنجيل: 
+      </Language>         
+   </Comment>
+   
+   <InsertDocument path="papal/include/StandardPrayerIntro"/>
+   <InsertDocument path="include/LitanyOfTheGospelIntroStandard"/>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            Then the archdeacon shall chant the Psalm (from 72:17,18,21)
+         </Language>
+         <Language id="Arabic">
+             ثم يقول رئيس الشمامسة المزمور 72: 17، 18، 21
+         </Language>         
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Psalm (Psalm 72:17,18,21)</Language>
+            <Language id="Arabic">المزمور 72: 17، 18، 21</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               You have held me by my right hand. You have guided me with Your counsel, and received me to glory. But it is good for me to draw near to God; and to put my trust in the Lord God, That I may declare all Your praises in the gates of the daughter of Zion.                
+            </Language>
+            <Language id="Arabic">
+               أمسكت بيدي اليمنى، وبمشورتك أهديتني وبالمجد قبلتني، وأنا فخير لي الإلتصاق بالله وأن أجعل على الرب إتكالي، لأخبر بكل تسابيحك في أبواب إبنه صهيون: الليلويا. 
+            </Language>         
+         </Text>
+      </Section>
+      
+      <InsertDocument path="include/psalmResponse/PsalmBishop"/>
+   </Role>
+   
+   <InsertDocument path="include/psalmResponse/PsalmResponse"/>
+   
+   <Role id="Archdeacon">
+      <Comment>
+         <Language id="English">
+            Then he says the introduction to the Gospel:
+         </Language>
+         <Language id="Arabic">
+            ثم التنبيه لسماع الإنجيل المقدس: 
+         </Language>         
+      </Comment>
+      
+      <InsertDocument path="include/PopeGospelIntro"/>
+   </Role>
+   
+   <Role id="Patriarch">
+      <Comment>
+         <Language id="English">
+            His Holiness the Pope shall then read the Gospel in Coptic and Arabic from John 10:1-16.
+         </Language>
+         <Language id="Arabic">
+            ثم يتلو قداسة البابا الإنجيل قبطياً وعربياً من يوحنا (10: 1 – 16) 
+         </Language>         
+      </Comment>
+      
+      <BibleReference reference="John 10:1-16" type="section"/>
+   </Role>
+   
+   <InsertDocument path="papal/include/Axios"/>
+   <InsertDocument path="papal/include/GoodShepherd"/>
+   <InsertDocument path="papal/include/Axios"/>
+   <InsertDocument path="papal/include/GoodShepherd"/>
+   <InsertDocument path="papal/include/Axios"/>
+   
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them.  The hireling flees because he is a hireling and does not care about the sheep.  I am the good shepherd; and I know My sheep, and am known by My own.  As the Father knows Me, even so I know the Father; and I lay down My life for the sheep.  And other sheep I have which are not of this fold; them also I must bring, and they will hear My voice; and there will be one flock and one shepherd. (Glory be to God forever.)
+         </Language>
+         <Language id="Arabic">
+            وأما الذي هو أجير وليس راعياً، الذي ليست الخراف له فيرى الذئب مقبلاً ويترك الخراف ويهرب. فيخطف الذئب الخراف ويبددها. والأجير يهرب لأنه أجير ولا يبالي بالخراف. أما أنا فأني الراعي الصالح وأعرف خاصتي وخاصتي تعرفني كما أن الآب يعرفني وأنا أعرف الآب. وأنا أضع نفسي عن الخراف ولي خراف أخر ليست من هذه الحظيرة ينبغي أن آتي بتلك أيضاً. فتسمع صوتي وتكون رعية واحدة وراع واحد (والمجد لله دائماً)
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+         After the conclusion of the Gospel, the metropolitans and the bishops kiss it while the chanters sing:
+      </Language>
+      <Language id="Arabic">
+         وبعد نهاية الإنجيل يقبله المطارنة والأساقفة والمرتلون يرنمون: 
+      </Language>         
+   </Comment>
+   
+   <InsertDocument path="include/PiEpnevma"/>
+   
+   <Comment>
+      <Language id="English">
+         His Holiness the Pope then says his word and they shall continue with the divine Liturgy according to custom. At the conclusion of the prayer they shall go to seek the blessing of the relics of Saint Mark.
+      </Language>
+      <Language id="Arabic">
+         ثم يلقى قداسة البابا كلمته، ويتمون القداس الإلهي كالمعتاد، وفي ختام الصلاة ينزل موكب قداسة البابا للتبرك من رفات القديس مامرقس. 
+      </Language>         
+   </Comment>
+</Document>

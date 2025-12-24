@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/hiten/StAnthony"/>
+   <InsertDocument path="include/hiten/StThomasTheHermit"/>
+   <InsertDocument path="include/hiten/StJohnTheShort"/>
+   <InsertDocument path="include/hiten/StPishoyAndStPaulOfTammah"/>
+   <InsertDocument path="include/hiten/StMaximusAndStDometius"/>
+   <InsertDocument path="include/hiten/StMoses"/>
+   <InsertDocument path="include/hiten/StPachomAndStTheodore"/>
+   <InsertDocument path="include/hiten/StShenuteTheArchimandrite"/>
+   <InsertDocument path="include/hiten/StParsoumaTheNaked"/>
+   <InsertDocument path="include/hiten/StRoweis"/>
+   <InsertDocument path="include/hiten/StAthanasius"/>
+   <InsertDocument path="include/hiten/StTaklaHaymanout"/>
+   <InsertDocument path="include/hiten/StVerena"/>
+   <InsertDocument path="include/hiten/KingConstantineAndQueenHelen"/>
+   <InsertDocument path="include/hiten/StAbraam"/>
+   <InsertDocument path="include/hiten/PopeKyrillos"/>
+   <InsertDocument path="include/hiten/StHabibGirgis"/>
+</Document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Nenio] n~a~poctoloc: auhiwis qen nieynoc: qen pieuaggelion: n~te I/#c# P,#c#
+      </Language>
+      <Language id="English">
+         Our fathers the apostles, preached to the nations, the Gospel, of Jesus Christ. 
+      </Language>
+      <Language id="Arabic">
+         آباؤنا الرسل بشروا فى الأمم بانجيل يسوع المسيح.
+      </Language>
+   </Text>
+
+   <Text>
+      <Language id="Coptic">
+         Apouq~rwou senaf: hijen p~kahi t/rf: ouoh noucaji auvoh: sa aur/jc n~]oikoumen/.
+      </Language>
+      <Language id="English">
+         Their voices went forth, unto all the earth, and their words have reached, the ends of the world.
+      </Language>
+      <Language id="Arabic">
+         خرجت أصواتهم الى الأرض كلها وبلغ كلامهم الى أقطار المسكونة.
+      </Language>
+   </Text>
+</Document>

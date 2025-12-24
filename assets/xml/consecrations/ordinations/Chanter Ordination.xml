@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">The Order of Ordaining a Chanter</Language>
+      <Language id="Arabic">طقس رسامة الأبصلتس</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O our Good God, who raised Heman and Asaph to chant in Your holy Places, and granted David the prophet to chant with psaltery, harp, and the ten lyre.  
+         </Language>
+         <Language id="Arabic">
+            يا إلهنا الصالح يا من أقام هيمان وآساف للترتيل في مواضعك المقدسة، يا من أعطيت داود النبي أن يرتل على المزمار والقيثار والعشرة أوتار.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            You said, "Out of the mouth of babes and sucklings You have brought perfect praise."  You established praise in Your Holy Church and Your people worship You with psalms, chants, and spiritual songs.  
+         </Language>
+         <Language id="Arabic">
+            يا من قلت "من أفواه الأطفال والرضعان هيأت سبحاً"، يا من وضعت التسبيح في كنيستك المقدسة، وأن يعبدك شعبك بمزامير وتراتيل وأغاني روحية.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            We ask You O Lord to give Your grace to these Your servants so they may do the work of the Psaltos in Your Holy Church and may they sing unto You hymns, chants, and spiritual songs chanting from their hearts to the Lord by the grace, compassion, and love of mankind of Your Only Begotten Son, our Lord, God, and Savior Jesus Christ.  
+         </Language>
+         <Language id="Arabic">
+            نسألك يارب أن تعطي نعمتك لعبيدك هؤلاء ليعملوا عمل الأبصلتس في كنيستك المقدسة ويغنوا لك بألحان وتراتيل وأغاني روحية مرتلين من قلوبهم للرب، بالنعمة والرأفات ومحبة البشر اللواتي لإبنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Bishop" silent="true">
+      <InsertDocument path="include/SilentPriestConclusionEnding"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Our God Who commanded us by the prophet David's mouth saying, "Sing unto the Lord a new song; Praise the Lord! For it is good to sing praises to our God; and a song of praise is seemly."    
+         </Language>
+         <Language id="Arabic">
+            إلهنا الذي أمرنا على فم داود النبي قائلاً "سبحوا الرب تسبيحاً جديداً، سبحوا الرب إن المزمور جيد"، ولإلهنا يلذ التسبيح"
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            We ask You O Lord to give Your servants the grace of praise and chanting in the Holy Church.  Grant them the ability to chant unto You with good understanding, so they may chant to You from the depth of their hearts in the spirit of prayer and worship.    
+         </Language>
+         <Language id="Arabic">
+            نسألك يارب أن تعطي عبيدك نعمة التسبيح والترتيل في الكنيسة المقدسة. أعطهم فهماً حسناً لما يرتلون به فيرتلون لك من عمق قلوبهم بروح الصلاة والعبادة
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Grant that they may serve You with all their hearts by filling their mouths with the hymns.  Accept their chants as a sweet savor before You.  Remove from them the spirit of pride, showiness, and boasting.  Make them good servants by the grace, compassion, and love of mankind of Your Only Begotten Son, our Lord, God, and Savior Jesus Christ.    
+         </Language>
+         <Language id="Arabic">
+            أعطهم أن يخدموك بقلوبهم وأفواههم وألحانهم، واقبل تراتيلهم كرائحة بخور قدامك. إبعد عنهم روح الغرور والتظاهر ومحبة المديح، إجعلهم خداماً صالحين، بالنعمة والرأفات ومحبة البشر اللواتي لإبنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح
+         </Language>
+      </Text>
+   </Role>
+
+   <Role id="Bishop" silent="true">
+      <InsertDocument path="include/SilentPriestConclusionEnding"/>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            O Master Lord God the Pantocrator, the Father of our Lord, God, and Savior, Jesus Christ. We ask and entreat Your goodness O Lover of Mankind for these Your servants who are standing before You, who came to Your Catholic and Apostolic (Orthodox) Church.    
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب الإله ضابط الكل أبو ربنا وإلهنا ومخلصنا يسوع المسيح. نسأل ونطلب من صلاحك يا محب البشر. عن عبدك (عبيدك) هؤلاء الواقفين أمامك، الذين جاءوا إلى كنيستك الجامعة الرسولية. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Shine upon them with the sweetness of Your holy words. Grant them to chant with understanding spiritual praises. May they become worthy to begin with faithfulness; and worship You with understanding and purity. Sanctify them, bless them, fill them with Your fear. Guard them with Your angelic power.    
+         </Language>
+         <Language id="Arabic">
+            أضيء عليهم بحلاوة أقوالك المقدسة. هب لهم أن يرتلوا بفهم تسابيح روحانية. وليستحقوا أن يبتدئوا بأمانة ويتعبدوا لك بالعقل والطهارة.  قدسهم. باركهم. إملاهم من مخافتك. احرسهم بقوتك الملائكية. 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Enrich them with every good gift and perfect talent that they may live according to Your holy and pure will that is pleasing unto You and be called to the most perfect and better growth of Your Holy Spirit, by Your Only Begotten Son, our Lord, God, and Savior Jesus Christ.      
+         </Language>
+         <Language id="Arabic">
+            اغنهم بكل عطية صالحة وموهبة تامة. لكي يعيشوا كإرادتك المقدسة الطوباوية المرضية لك،  ويدعوا إلى النمو الكامل الأفضل جداً الذي لروحك القدوس. بإبنك الوحيد ربنا وإلهنا ومخلصنا يسوع المسيح.  
+         </Language>
+      </Text>
+   </Role>
+
+   <Role id="Bishop" silent="true">
+      <Text>
+         <Language id="English">
+            To You with Him, is due the glory with the Holy Spirit, the Giver of Life, who is of one essence with You, now and at all times and unto the age of all ages. Amen.      
+         </Language>
+         <Language id="Arabic">
+            هذا الذي ينبغي لك المجد معه ومع الروح القدس المحيي المساوي لك. الآن وكل أوان وإلى دهر الدهور آمين.  
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Axioc axioc axioc pekbwk (neke~biaik) (…) pi"alt/c (ni"alt/c).
+         </Language>
+         <Language id="English">
+            Worthy worthy worthy Your servant(s) (…) the chanter(s).
+         </Language>
+         <Language id="Arabic">
+            مستحق مستحق مستحق عبدك  (عبيدك)  (...) الأبصلتس
+         </Language>
+      </Text>
+   </Role>
+</Document>

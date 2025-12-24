@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Baptism | StGregoryLiturgy | LiturgyOfTheWaters | MyronConsecration">
+         <InsertDocument path="include/TheLoveOfGodTheFather"/>            
+      </Season>
+      
+      <Season id="Other">         
+         <Text>
+            <Language id="Coptic">
+               O Kurioc meta pantwn u~mwn.
+            </Language>
+            <Language id="English">
+               The Lord be with you all.
+            </Language>
+            <Language id="Arabic">
+               الرب مع جميعكم
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

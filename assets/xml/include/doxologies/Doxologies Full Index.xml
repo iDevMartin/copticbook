@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreCurrentSeason="true" ExpandSections="true" IgnoreGroups="true">  
+   <ForceSeason id="All ^ Matins ^ Vespers ^ MidnightPraises">
+      <Title>
+         <Language id="English">Doxologies</Language>
+         <Language id="Arabic">الذوكصولوجيات</Language>         
+      </Title>
+      
+      <InsertDocument path="include/doxologies/Body"/>      
+   </ForceSeason>       
+</Document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityPeriod">                  
+      <Comment>
+         <Language id="English">
+            For the Feast of the Nativity:
+         </Language>            
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Pjinmici m~paryenikon: ouoh ninakhi m~p~neumatikon: ous~v/ri m~paradoxon: kata nic~m/ m~p~rov/tikon.
+         </Language>
+         <Language id="English">
+            The virginal birth, and the spiritual emissions, are an amazing wonder, according to the prophets.
+         </Language>
+         <Language id="Arabic">
+            ميلاد بتولى وطلق  روحى عجيب ممجد حسب الأخبار النبوية.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/versesofthecymbals/Nativity.2"/>
+   </Season>
+</Document>

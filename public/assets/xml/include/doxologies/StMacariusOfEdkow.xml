@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMacariusOfEdkow:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Macarius, Bishop of Edkow</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس أنبا مقار أسقف قاو</Language>
+            <Language id="Coptic">Afnamou] e~rok...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Macarius, Bishop of Edkow:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Afnamou] e~rok je nim: n~je peklaoc e~taka~moni m~mof: qen outoubo nem oumeym/i: abba Makari pie~pickopoc.
+            </Language>
+            <Language id="English">
+               Your people whom you guided, in purity and righteousness, what should they call you, O Abba Makari the Bishop.
+            </Language>
+            <Language id="Arabic">
+               ماذا يدعوك شعبك الذى رعيته بطهارة وبر يا أنبا مقار الأسقف.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aisanjoc e~rok je aggeloc: ie mane~cwou ie marturoc: nai akjokou e~bol kalwc: qen p~hwb nem p~caji n~te ]meym/i.
+            </Language>
+            <Language id="English">
+               If I call you an angel, or a shepherd or a martyr, these all you have truly accomplished, in deed and word of truth.
+            </Language>
+            <Language id="Arabic">
+               ان قلت عنك انك ملاك أو راع أو شهيد فهذه اكملتها جيداً بالفعل وقول الحق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aisanjoc e~rok je aggeloc: ke gar ak,w m~pekcwma e~q~r/i: aisanjoc e~rok mane~cwou: ak] n~teku,/ e~jen neke~cwou.
+            </Language>
+            <Language id="English">
+               I will say of you an angel, for you have left your body, I will say of you a shepherd, for you gave your life for your sheep.
+            </Language>
+            <Language id="Arabic">
+               ان قلت عنك انك ملاك فقد ضحيت بجسدك وان قلت عنك انك راع فقد اسلمت نفسك عن رعيتك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aisanjoc e~rok je marturoc: ak] n~teka~ve qa P,#c#: vai e~tafermarturoc eyb/ten: nahren Pontioc pilatoc.
+            </Language>
+            <Language id="English">
+               I will say of you a martyr, for you delivered your head for Christ, He who became a martyr for us, before Pontius Pilate.
+            </Language>
+            <Language id="Arabic">
+               وان قلت عنك انك شهيد فقد اسلمت رأسك لاجل المسيح الذى صار فداءاً لاجلنا أمام بيلاطس البنطى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               }metou/b akjokc e~bol: pinah] aka~reh e~ron: akervorin m~pi,~lom n~atlwm: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               You completed the priesthood, you have kept the faith, you wore the unfading crown, of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               اكملت الكهنوت وحفظت الايمان ونلت اكليل الشهادة غير المضمحل.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMacariusOfEdkow"/>
+      </Section>
+   </Season>
+</Document>

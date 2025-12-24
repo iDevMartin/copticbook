@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Theophany:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="Coptic">
+                     Vai pe Pihi/b n~te V]: v/etw~li m~v~nobi m~pikocmoc: v/e~tafini n~outap n~cw]: eyrefnohem m~Peflaoc
+                  </Language>
+                  <Language id="English">
+                     This is the Lamb of God / who takes away the sin of the world /  who brought a trumpet of salvation / in order to save His people. 
+                  </Language>
+                  <Language id="Arabic">
+                     هذا هو حمل الله حامل خطية العالم الذي جاء بقرن خلاص ليخلص شعبه
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V]: af[iwmc qen piIordan/c.
+            </Language>
+            <Language id="English">
+               Alleluia (4), Jesus Christ, the Son of God, was baptized in the Jordan.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله اعتمد في الأردن.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

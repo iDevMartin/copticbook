@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">      
+      <Title>
+         <Language id="English">Doxology for the Patriarch</Language>
+         <Language id="Arabic">ذوكصولوجية للآب البطريرك</Language>
+         <Language id="Coptic">Ak[i t~,aric m~Mwuc/c...</Language>
+      </Title>
+   
+      <Comment>
+         <Language id="English">
+            The following doxology is said on the ordinations (while wearing the schema) and the visits of the Patriarch and the bishops during the Morning and Evening Raising of Incense
+         </Language>
+         <Language id="Arabic">
+            تقال فى رسامته وفى حضوره بالكنيسة عند رفع بخور عشية وباكر وفى سيامة الأساقفة وقت لبس الاسكيم
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            Ak[i t~,aric m~Mwuc/c: ]metou/b n~te Mel,icedek: ak[i m~p~taio m~peniwt Petroc: pianjwj n~nia~potoloc.
+         </Language>
+         <Language id="English">
+            You received the grace of Moses, the priesthood of Aaron, you received honor from our father Peter, the first of the apostles.
+         </Language>
+         <Language id="Arabic">
+            نِلتَ نعمة موسى وكهنوت ملشيصاداق وأخذت كرامة أبينا بطرس بكر الرسل.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            AP,#c# talo n~tefjij: n~oui~nam e~jen teka~ve: aftenhoutk e~nisost: n~te y~metouro n~niv/oui~.
+         </Language>
+         <Language id="English">
+            Christ lifted His right hand, on your head, He gave you the keys, of the Kingdom of heaven.
+         </Language>
+         <Language id="Arabic">
+            رفع المسيح يده اليمنى على رأسك وأئتمنك على مفاتيح ملكوت السموات.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Eyrekswpi n~oureferhemi: cap~swi n~]ekk~l/cia: eyreka~moni m~peklaoc: qen outoubo nem oumeym/i.
+         </Language>
+         <Language id="English">
+            That you may govern, over the church, and that you may shepherd your people, in purity and righteousness.
+         </Language>
+         <Language id="Arabic">
+            لتصر مدبراً على الكنيسة وترعى شعبك بطهارة وبر.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Kata v~r/] e~tafjoc: n~je Pauloc piapoctoloc: je kata v~r/] n~Aarwn: pair/] hwf m~P,#c#.
+         </Language>
+         <Language id="English">
+            As Paul: the Apostle, has said,: “Likewise as Aaron, Christ is also.”
+         </Language>
+         <Language id="Arabic">
+            كما قال بولس الرسول كمثل هرون كذلك المسيح.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Wcautwc ten[ici m~mok: nem pihumnodoc Dauid: je n~yok pe piou/b sa e~neh: kata t~taxic m~Mel,icedek.
+         </Language>
+         <Language id="English">
+            Likewise we magnify You, with David the Psalmist, You are the priest forever, according to the order of Melchizedek.
+         </Language>
+         <Language id="Arabic">
+            كذلك نرفعك مع المرتل داود قائلين أنت هو الكاهن إلى الأبد على طقس ملشيصادق.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/doxologies/conclusions/Patriarch.1"/>
+      
+      <Group>
+         <Season id="Enthronement | MyronConsecration">
+            <Text>
+               <Language id="Coptic">
+                  Twbh m~Po#c# e~h~r/i e~jwn: neniw] e#y#u# n~dikeoc: nim/tropolit/c nem nie~pickopoc n/et,/ neman: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Pray to the Lord on our behalf: O my saintly fathers the righteous: the metropolitans and the bishops assembled with us: that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  إطلبوا من الرب عنا يا ابائنا القديسين الأبرار المطارنة والأساقفة المجتمعين معنا ليغفر لنا خطايانا.
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="include/doxologies/conclusions/Patriarch.2"/>
+         </Season>
+      </Group>
+   </Section>
+</Document>

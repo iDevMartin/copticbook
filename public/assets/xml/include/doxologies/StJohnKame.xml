@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnKame:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. John Kame</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس الأنبا يؤانس كاما</Language>
+            <Language id="Coptic">Apic~yoinoufi...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John Kame
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Apic~yoinoufi sws e~bol: n~te pektoubo etj/k e~bol: nem peka~moni sa e~bol: peniwt abba Iwann/c &lt;ame.
+            </Language>
+            <Language id="English">
+               The incense of your, perfect purity has spread, and your eternal guidance, our father Abba John Kame.
+            </Language>
+            <Language id="Arabic">
+               فاح بخور طهارتك الكاملة وتمسكك الى التمام ياأبانا القديس أنبا يؤانس كاما.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anicovoc swlem e~rof: au,oh e~pekbioc etcwtp: je e~bol hiten pektoubo: nem tekparyenia etoi n~ata[ni.
+            </Language>
+            <Language id="English">
+               The elders have smelled it, and were envious of your chosen zeal, for through your purity, and your spotless virginity.
+            </Language>
+            <Language id="Arabic">
+               فاشتمه الحكماء وغاروا لسيرتك المختارة لأن من قبل طهارتك وبتوليتك التى بلا عيب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               APo#c# viri n~oubw n~a~loli: acerq/ibi e~pekman~selet: oum/ini efouwnh efermeyre: e~pektoubo n~aggelikon.
+            </Language>
+            <Language id="English">
+               The Lord grew a vine, and it overshadowed your chamber, as a sign it revealed, your angelic purity.
+            </Language>
+            <Language id="Arabic">
+               أزهر الرب كرمةً وظللت على خدرك علامة ظاهرة تشهد لطهارتك الملائكية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pekerv~meui~ ettai/out: nem tekc~himi m~paryenoc: ]selet n~te P,#c#: afcwr e~bol qen pikocmoc t/rf.
+            </Language>
+            <Language id="English">
+               Your honored fame, and that of your celibate wife, the bride of Christ, spread throughout the whole earth.
+            </Language>
+            <Language id="Arabic">
+               تذكارك المكرم مع أمرأتك البتول عروس المسيح شاع فى كل العالم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai aui~ harok: n~je n/etkw] n~ca Po#c#: w~ piou/b m~mane~cwou: n~te pio~hi n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Therefore those who seek the Lord, came unto you, O priest and shepherd, of the flock of Christ.
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا أتى اليك طالبو الرب أيها الكاهن الراعى قطيع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ak]c~bw nwou n~]metmona,oc: kata t~taxic n~niaggeloc: akenou e~p~swi n~ouyucia~ ecs/p: nahren V] Viwt.
+            </Language>
+            <Language id="English">
+               You taught them monasticism, according to the angelic rites, you lifted up a pleasant sacrifice, before God the Father.
+            </Language>
+            <Language id="Arabic">
+               وعلمتهم الرهبنة كطقس الملائكة وأصعدتهم ذبيحة مقبولة أمام الله الآب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ak[i n~hantaio~ nem han,~lom: e~bol hiten p~ouro P,#c#: akounof nem n/e#y#u#: n~h~r/i qen tefmetouro.
+            </Language>
+            <Language id="English">
+               You received honor and crowns, before Christ the King, you rejoiced with the saints, in His kingdom.
+            </Language>
+            <Language id="Arabic">
+               ونلت كرامات وأكاليل من قبل الملك المسيح وفرحت مع جميع القديسين فى ملكوته.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StJohnKame"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ApostlesFast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Nenio] eyouab...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Fast of the Apostles:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Nenio] eyouab n~a~poctoloc: N~yof eter[aumwit qajwou sa n~toutacyo n~]oikoumen/ e~qoun e~p~couen ]meym/i. 
+            </Language>
+            <Language id="English">
+               Our holy apostolic fathers the Apostles - He guided them, until they returned the world to the knowledge of the Truth.
+            </Language>
+            <Language id="Arabic">
+               هو الذى أرشد أباءنا الرسل القديسين حتى ردوا المسكونة إلى معرفة الحق .
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+      </Section>
+   </Season>
+</Document>

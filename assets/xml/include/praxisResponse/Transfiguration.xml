@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">?~liac nem Mwu~c/c...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Transfiguration:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               ?~liac nem Mwu~c/c petjor: aunau e~nefh~bwc hi Yabwr: nimay/t/c auerjinior: n~ou[/pi ecerouwini
+            </Language>
+            <Language id="English">
+               Elijah and Moses the strong: saw His clothes on Tabor: the disciples crossed: a shining  cloud
+            </Language>
+            <Language id="Arabic">
+               ايليا وموسى نظرا القوي ثيابه فوق طابور وعبر التلاميذ سحابة نيرة.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+      
+      <Section>
+         <Title>
+            <Language id="English">Alternate Praxis Response</Language>
+            <Language id="Coptic">&lt;ere piswbt...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               Another response for the Feast of the Transfiguration:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               &lt;ere piswbt n~te Pi,~rictoc: hijen pitwou n~Yabwr: nahren nefmay/t/c eyouab: Petroc nem Iwann/c nem Iakwboc.
+            </Language>
+            <Language id="English">
+               Hail to the transfiguration of Christ: on Mount Tabor: before His holy disciples: Peter and John and James
+            </Language>
+            <Language id="Arabic">
+               السلام لتجلي المسيح على جبل طابور امام تلاميذه القديسين بطرس ويوحنا ويعقوب.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

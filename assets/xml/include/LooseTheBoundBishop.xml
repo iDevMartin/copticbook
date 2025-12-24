@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true"> 
+      <Title>
+         <Language id="English">Loose the Bound</Language>
+         <Language id="Arabic">حِلَّ المربوطينَ</Language>
+         <Language id="Coptic">Bwl n~n/etcwnh e~bol</Language>
+      </Title>
+   
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.1"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.2"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.3"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.4"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.5"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Bishop">
+         <InsertDocument path="include/LooseTheBound.6"/>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </Section>
+</Document>

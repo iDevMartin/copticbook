@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            During the distribution of the Holy Mysteries, the people chant Psalm 150, “Alleluia. Praise God” (<span class="Coptic">All/louia c~mou e~Vnou]</span>). Then the congregation chants what is appropriate for the day.
+         </Language>
+         <Language id="Arabic">
+            ثم يرتل الشعب المزمور المائة والخمسين  (هلليلويا سبحوا الله) ثم يرتلون ما يلائم. ولكل أيام ما يناسبها.
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            The priest kisses with his mouth the holy Body and partakes of it. Then he gives communion to the assistant priest (if there is one), the ministering deacon, and the rest of the communicants.
+         </Language>
+         <Language id="Arabic">
+            يقبِّل الكاهن الجسد المقدس بفمه ويتناول منه. ثم يناول الكاهن الشريك إن وُجد، والشماس الخديم، وبقية المتناولين.
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            When he gives the assistant priest, the servants, and the people the pure Body without the Blood, he says, “This is truly the Body of Immanuel our God. Amen.” When he gives the precious Blood, he says, “This is truly the Blood of Immanuel our God. Amen.” If he gives the Body dipped in the Blood, as in the case for the sick, he says, “These are truly the Body and Blood of Immanuel our God. Amen.” The communicant responds each time, saying, “Amen.”
+         </Language>
+         <Language id="Arabic">
+            وإذا ناول الكاهن الشريك والخدام وجميع الشعب الجسد الطاهر بدون الدم يقول: ”الجسد الذي لعمانوئيل إلهنا هذا هو بالحقيقةِ. آمين.“وإذا ناول الدم الكريم يقول: ”الدم الذي لعمانوئيل إلهنا هذا هو بالحقيقة. آمين.“ وإذا ناول الجسد مصبوغاً بالدم (كما في حالات المرضى) يقول: ”الجسد والدم الذي لعمانوئيل إلهنا هذا هو بالحقيقة. آمين.“ فيقول المتناول في كل مرة: ”آمين.“
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            While bearing the paten with the Body of Christ, the priest begins distributing the Holy Mysteries to the people by turning to the west and, with the paten, blessing the people with the sign of the cross, saying:
+         </Language>
+         <Language id="Arabic">
+            ثم يذهب فيناول الشعب إذ يلتفت الكاهن حامل الصينية بجسد المسيح إلى الغرب. ويبارك الشعب مثال الصليب بالصينية ويقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Ta a~gia tic a~giic.Eulog/toc Kurioc I/couc &lt;rictoc Uioc Yeou a~giacmoc Pneuma a~gion: a~m/n.
+         </Language>
+         <Language id="English">
+            The Holies for the holy. Blessed be the Lord Jesus Christ, the Son of God; the sanctification is by the Holy Spirit. Amen.
+         </Language>
+         <Language id="Arabic">
+            القُدْسات للقديسين. مباركٌ الربُّ يسوعُ المسيحُ ابنُ اللهِ، وقدوسٌ الروحُ القُدُسِ. آمين.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            All the people, along with the deacons, bow, saying:
+         </Language>
+         <Language id="Arabic">
+            فيسجدون جميعهم ويقول الشماس والشعب:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Fc~marwout n~je v/eyn/ou qen v~ran m~P[oic.
+         </Language>
+         <Language id="English">
+            Blessed is He who comes in the name of the Lord.
+         </Language>
+         <Language id="Arabic">
+            مباركٌ الآتي باسمِ الربِ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            After all have communion, the priest returns to the altar and, with the paten, makes the sign of the cross on the people again, while saying:
+         </Language>
+         <Language id="Arabic">
+            وبعدما يتناول الجميع، يعود الكاهن إلى المذبح ويرشم الشعب بالصينية وهو يقول:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Cwma a~gion ke e~ma timion a~l/yinon I/cou &lt;rictou tou U~iou tou Yeou /~mwn: a~m/n.
+         </Language>
+         <Language id="English">
+            The holy Body and the precious, true Blood of Jesus Christ, the Son of our God. Amen.
+         </Language>
+         <Language id="Arabic">
+            جَسَدٌ مقدسٌ ودمٌ كريمٌ حقيقيٌ، ليسوعَ المسيحِ ابنِ إلهِنا. آمين.
+         </Language>         
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            Then he places the paten on the altar and consumes, together with the servants, what remains of the holy Body. Again, after all have been given communion from the precious Blood, the priest distributes and consumes what remains in the chalice. Then he washes the vessels, drinking the washing water and giving it also to the servants.
+         </Language>
+         <Language id="Arabic">
+            ثم يضع الصينية على المذبح، ويتناول مع الخدام ما يتبقى من الجسد المقدس. وأيضاً بعدما يتناول الجميع من الدم الكريم، فإن الكاهن يوزّع ويشرب ما يتبقى في الكأس. ثم يغسل الأواني ويشرب ماء الغسيل، معطياً أيضاً للخدام.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="People">
+      <Comment>
+         <Language id="English">
+            During the distribution of the Holy Mysteries, the people chant Psalm 150.
+         </Language>
+         <Language id="Arabic">
+            وفي أثناء التناول يقول الشعب المزمور المائة والخمسين وهو هذا:
+         </Language>
+      </Comment>
+   </Role>
+</Document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(Vespers | Crowning | FuneralPrayer) ^ DayAfterResurrection">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>   
+            <Language id="Arabic">مرد الإنجيل</Language>         
+            <Language id="Coptic">Kata v~r/] etakt/ic...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the day after the Feast of the Resurrection:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Kata v~r/] etakt/ic: n~neka~gioc n~a~poctoloc: eke~joc nan m~pour/]: je tahir/n/ ]] m~moc nwten
+            </Language>
+            <Language id="English">
+               As You granted, to your saintly disciples, tell us as You told them, “My peace I give to you.”
+            </Language>
+            <Language id="Arabic">
+               كما أعطيته لتلاميذك القديسين، قل لنا مثلهم، إن سلامى أعطيكم.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Tahir/n/ a~nok y/etai[itc hiten paiwt: a~nok ],w m~moc nemwten icjen ]nou nem sa e~neh
+            </Language>
+            <Language id="English">
+               My peace that I have received, from My Father, I leave unto you, now and forever.
+            </Language>
+            <Language id="Arabic">
+               سلامى الذى أخذته، من أبى، أنا أتركه لكم، من الآن وإلى الأبد.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~ouro n~te p~wou aftwnf e~bol qen n/eymwout.
+            </Language>
+            <Language id="English">
+               Alleluia (4) Jesus Christ, the King of Glory, rose from the dead.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ملك المجد قام من الأموات.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

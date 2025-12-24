@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>        
+         <Language id="Coptic">            
+            Qen v~ran n~]t~riac: n~oumoocioc: Viwt nem Ps/ri: nem Pip~neuma eyouab.
+         </Language> 
+         <Language id="English">            
+            In the name of the Trinity, one in essence,  the Father and the Son, and the Holy Spirit.
+         </Language>
+         <Language id="Arabic">
+            باسم الثالوث، المساوى، الآب والابن، والروح القدس.
+         </Language>
+      </Text>
+         
+      <Group>
+         <Season id="FuneralWomen | FuneralWomenDelivery | FuneralGirls | FuneralNuns">
+            <Text>        
+               <Language id="Coptic">            
+                  Tai'u,/ yai e~tanywou] eyb/tc: P[oic mam~ton nac qen y~metouro n~niv/oui~.
+               </Language> 
+               <Language id="English">            
+                  This very soul, for whom, we are gathered, O Lord repose her in the kingdom of the heaven. 
+               </Language>
+               <Language id="Arabic">
+                  هذه النفس، التي اجتمعنا بسببها، يارب نيحها في ملكوت السموات
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic n~nirwou n~te t~ve: ouoh sopc e~rok kata peknis] n~nai.
+               </Language> 
+               <Language id="English">            
+                  Open unto her, O Lord, the gates of Heaven. And receive her unto You according to Your great mercy. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب أبواب السماء، واقبلها إليك كعظيم رحمتك. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic: m~v~ro n~te ]meym/i: hina n~tecse e~qoun n~tecounof m~mau.
+               </Language> 
+               <Language id="English">            
+                  Open unto her, O Lord, the gate of righteousness, that she may enter therein, and rejoice there.
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب باب البر، لكي تدخل وتتنعم هناك.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic m~v~ro m~piparadicoc m~v~r/] e~takouwn m~piconi e~tem~mau.
+               </Language> 
+               <Language id="English">            
+                  Open unto her, O Lord, the gate of Paradise, As You opened unto that thief. 
+               </Language>
+               <Language id="Arabic">
+                  أفتح لها يارب باب الفردوس، كما فتحته للص اليمين. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic: m~v~ro n~te ]metouro: marecers~v/r nem nia~gioc t/rou.
+               </Language> 
+               <Language id="English">            
+                  Open unto her, O Lord, the gate of the kingdom. May she be a partaker with all the saints. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب باب الملكوت، لتشارك جميع القديسين. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic n~nirwou n~te p~emton eyrecerhumnoc nem niaggeloc t/rou.
+               </Language> 
+               <Language id="English">            
+                  Open unto her, O Lord, the gates of rest, that she may sing with all the angels. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب أبواب الراحة، لترتل مع كافة الملائكة. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Marecerp~emp~sa eyrecnau e~p~ounof: e~re niaggeloc n~te v~ouwini [imwit nac e~p~wnq.
+               </Language> 
+               <Language id="English">            
+                  May she be worthy to see joy. Let the angels of light lead her to the life. 
+               </Language>
+               <Language id="Arabic">
+                  ولتستحق أن تنظر النعيم، ولتدخلها ملائكة النور إلى الحياة، 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Ouoh marecrwteb qen kenf n~nenio]: Abraam nem Icaak nem Iakwb Picra/l.
+               </Language> 
+               <Language id="English">            
+                  May she repose in the bosom of our fathers, Abraham, Isaac and Jacob Israel.
+               </Language>
+               <Language id="Arabic">
+                  ولتتكئ في حضن آبائنا إبراهيم واسحق ويعقوب اسرائيل.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  &lt;a necnobi nac e~bol: e~tacersorp n~aitou: qen oue~mi eucop: nem qen oumetate~mi eucop.
+               </Language> 
+               <Language id="English">            
+                  Forgive her her sins, which she has afore-time committed, both knowingly and unknowingly. 
+               </Language>
+               <Language id="Arabic">
+                  أغفر لها خطاياها التي سبقت فصنعتها بمعرفة وبغير معرفة معا. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Je n~yok w~ P[oic etcwoun n~]metjwb nem y~metacyen/c n~te ]metrwmi.
+               </Language> 
+               <Language id="English">            
+                  For You, O Lord, know the feebleness, and the weakness of humanity. 
+               </Language>
+               <Language id="Arabic">
+                  لأنك أنت يارب تعرف ضعف البشرية ونقصها. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Ouoh qen peknai: ]nom] n~ouon niben e~taccwjp m~mwou nem necremn~/i.
+               </Language> 
+               <Language id="English">            
+                  And in Your mercy, give consolation to all whom she has left behind, and to her household. 
+               </Language>
+               <Language id="Arabic">
+                  وبرحمتك عز كل الذين خلقتهم، وأهل بيتها. 
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <Text>        
+               <Language id="Coptic">            
+                  Tai'u,/ yai e~tanywou] eyb/tc: P[oic mam~ton nac qen y~metouro n~niv/oui~.
+               </Language> 
+               <Language id="English">            
+                  This very soul, for whom, we are gathered, O Lord repose him in the kingdom of the heaven. 
+               </Language>
+               <Language id="Arabic">
+                  هذه النفس، التي اجتمعنا بسببها، يارب نيحها في ملكوت السموات
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic n~nirwou n~te t~ve: ouoh sopc e~rok kata peknis] n~nai.
+               </Language> 
+               <Language id="English">            
+                  Open unto him, O Lord, the gates of Heaven. And receive him unto You according to Your great mercy. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب أبواب السماء، واقبلها إليك كعظيم رحمتك. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic: m~v~ro n~te ]meym/i: hina n~tecse e~qoun n~tecounof m~mau.
+               </Language> 
+               <Language id="English">            
+                  Open unto him, O Lord, the gate of righteousness, that he may enter therein, and rejoice there.
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب باب البر، لكي تدخل وتتنعم هناك.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic m~v~ro m~piparadicoc m~v~r/] e~takouwn m~piconi e~tem~mau.
+               </Language> 
+               <Language id="English">            
+                  Open unto him, O Lord, the gate of Paradise, As You opened unto that thief. 
+               </Language>
+               <Language id="Arabic">
+                  أفتح لها يارب باب الفردوس، كما فتحته للص اليمين. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic: m~v~ro n~te ]metouro: marecers~v/r nem nia~gioc t/rou.
+               </Language> 
+               <Language id="English">            
+                  Open unto him, O Lord, the gate of the kingdom. May he be a partaker with all the saints. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب باب الملكوت، لتشارك جميع القديسين. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Aouwn nac P[oic n~nirwou n~te p~emton eyrecerhumnoc nem niaggeloc t/rou.
+               </Language> 
+               <Language id="English">            
+                  Open unto him, O Lord, the gates of rest, that he may sing with all the angels. 
+               </Language>
+               <Language id="Arabic">
+                  افتح لها يارب أبواب الراحة، لترتل مع كافة الملائكة. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Marecerp~emp~sa eyrecnau e~p~ounof: e~re niaggeloc n~te v~ouwini [imwit nac e~p~wnq.
+               </Language> 
+               <Language id="English">            
+                  May he be worthy to see joy. Let the angels of light lead him to the life. 
+               </Language>
+               <Language id="Arabic">
+                  ولتستحق أن تنظر النعيم، ولتدخلها ملائكة النور إلى الحياة، 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Ouoh marecrwteb qen kenf n~nenio]: Abraam nem Icaak nem Iakwb Picra/l.
+               </Language> 
+               <Language id="English">            
+                  May he repose in the bosom of our fathers, Abraham, Isaac and Jacob Israel.
+               </Language>
+               <Language id="Arabic">
+                  ولتتكئ في حضن آبائنا إبراهيم واسحق ويعقوب اسرائيل.
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  &lt;a necnobi nac e~bol: e~tacersorp n~aitou: qen oue~mi eucop: nem qen oumetate~mi eucop.
+               </Language> 
+               <Language id="English">            
+                  Forgive him his sins, which he has afore-time committed, both knowingly and unknowingly. 
+               </Language>
+               <Language id="Arabic">
+                  أغفر لها خطاياها التي سبقت فصنعتها بمعرفة وبغير معرفة معا. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Je n~yok w~ P[oic etcwoun n~]metjwb nem y~metacyen/c n~te ]metrwmi.
+               </Language> 
+               <Language id="English">            
+                  For You, O Lord, know the feebleness, and the weakness of humanity. 
+               </Language>
+               <Language id="Arabic">
+                  لأنك أنت يارب تعرف ضعف البشرية ونقصها. 
+               </Language>
+            </Text>
+            
+            <Text>        
+               <Language id="Coptic">            
+                  Ouoh qen peknai: ]nom] n~ouon niben e~taccwjp m~mwou nem necremn~/i.
+               </Language> 
+               <Language id="English">            
+                  And in Your mercy, give consolation to all whom he has left behind, and to his household. 
+               </Language>
+               <Language id="Arabic">
+                  وبرحمتك عز كل الذين خلقتهم، وأهل بيتها. 
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+      
+      <Text>        
+         <Language id="Coptic">            
+            Ouoh eke~] nwou n~ouhupomon/: nem oube,e e~nanec n~e~pouranion:
+         </Language> 
+         <Language id="English">            
+            And give unto them patience, and a good heavenly reward.
+         </Language>
+         <Language id="Arabic">
+            ألهمهم صبرا، وعوضهم أجرا صالحا سمائيا.
+         </Language>
+      </Text>
+      
+      <Text>        
+         <Language id="Coptic">            
+            Hiten nip~recbia n~te ten[oic Maria~: nem p~,wroc t/rf eucop n~e~pouranion.
+         </Language> 
+         <Language id="English">            
+            Through the intercessions of our Lady Mary, and all the whole choir of Heaven. 
+         </Language>
+         <Language id="Arabic">
+            بشفاعة سيدتنا القديسة مريم، وجميع صفوف السمائيين.
+         </Language>
+      </Text>
+      
+      <Text>        
+         <Language id="Coptic">            
+            Mare peknai nem tekboi~yia~ eucop swpi nem peklaoc: moi nwou n~ou,~bob.
+         </Language> 
+         <Language id="English">            
+            Let both Your mercy, and Your help, be with Your people, grant them coolness. 
+         </Language>
+         <Language id="Arabic">
+            فلتكن رحمتك ومعونتك مع شعبك، وأعطهم برودة. 
+         </Language>
+      </Text>
+      
+      <Text>        
+         <Language id="Coptic">            
+            Matajron qen peknah] n~oryodoxoc: swpi nan n~nas]: a~non qa nipictoc.
+         </Language> 
+         <Language id="English">            
+            Establish us in Your orthodox faith; be a protector unto us, we the faithful. 
+         </Language>
+         <Language id="Arabic">
+            وثبتنا في إيمانك الأرثوذكسي. كن ناصرا لنا نحن المؤمنين. 
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/TenouwstSeasonalResponseShort"/>
+   </Role>
+</Document>

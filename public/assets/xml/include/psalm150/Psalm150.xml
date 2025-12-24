@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>     
+         <Language id="English">Psalm 150</Language>
+         <Language id="Arabic">المزمور 150</Language>         
+      </Title>
+   
+      <Role id="People">      
+         <Group>
+            <Season id="FeastOfTheCross | HosannaSunday">
+               <Comment>
+                  <Language id="English">
+                     Psalm 150 is chanted in the Hosanna tune:     
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Feasts ^ !CovenantThursday">
+               <Comment>
+                  <Language id="English">
+                     Psalm 150 is chanted in the festive tune:     
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="FirstMondayOfGreatFast | LastFridayOfGreatFast | GreatFastSunday0 | (GreatFast ^ Weekend)">
+               <Comment>
+                  <Language id="English">
+                     Psalm 150 is chanted in the fasting tune:     
+                  </Language>
+               </Comment>
+            </Season>         
+            
+            <Season id="GreatFast ^ Weekdays">
+               <Comment>
+                  <Language id="English">
+                     Psalm 150 is chanted in the sorrowful tune of the fast:     
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Other">
+               <Comment>
+                  <Language id="English">
+                     Psalm 150 is chanted in the standard tune:     
+                  </Language>
+               </Comment>
+            </Season>
+         </Group>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/AnnunciationContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~V~nou] qen n/eyouab t/rou n~taf. All/louia.
+            </Language>
+            <Language id="English">
+               Praise God, in all His saints. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوا الله في جميع قديسيه . الليلويا 
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/NativityContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen pitajro n~te tefjom. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, in the firmament of His power. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه في جلد قوته  . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/ResurrectionContents"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof e~h~r/i hijen tefmetjwri. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, for His mighty acts. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه على مقدرته . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/AnnunciationContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof kata p~a~sai n~te tefmetnis]. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, according to the multitudes of His greatness. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه ككثرة عظمته . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/NativityContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen ouc~m/ n~calpiggoc. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, with the sound of the trumpet. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بصوت البوق . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/ResurrectionContents"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen ou'alt/rion nem oukuyara. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, with psaltery and harp. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بالمزمار والقيثار . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/AnnunciationContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen hankemkem nem han,oroc. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, with timbrel and chorus. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بالدفوف والصفوف . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/NativityContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen hankap nem ouorganon. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, with strings and organs. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بأوتار وأرغن . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/ResurrectionContents"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen hankumbalon e~nece touc~m/. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, with pleasant-sounding cymbals. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بصنوج حسنة الصوت. الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/AnnunciationContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               C~mou e~rof qen hankumbalon n~te oue~s~l/loui. All/louia.
+            </Language>
+            <Language id="English">
+               Praise Him, upon the cymbals of joy. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               سبحوه بصنوج التهليل . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/NativityContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Nifi niben marouc~mou t/rou e~v~ran m~P[oic Pennou]. All/louia.
+            </Language>
+            <Language id="English">
+               Let everything that has breath praise the name of the Lord our God. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               كل نسمة فلتسبح اسم الرب إلهنا . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/ResurrectionContents"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Doxa Patri ke Uiw ke a~giw p~neumati. All/louia.
+            </Language>
+            <Language id="English">
+               Glory to the Father and to the Son and to the Holy Spirit. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               المجد للاَب والابن والروح القدس . الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/AnnunciationContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Ke nun ke a~i~ ke ictouc e~w~nac twn e~w~nwn. a~m/n All/louia.
+            </Language>
+            <Language id="English">
+               Now and ever and unto the ages of the ages. Amen. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الآن وكل أوان والى دهر الدهور آمين. هلليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/NativityContents"/>      
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia. All/louia. Doxa ci o~ Yeoc /~mwn. All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia. Alleluia. Glory to You, our God. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا . الليلويا. المجد هو لإلهنا. الليلويا
+            </Language>         
+         </Text>
+         
+         <Group>         
+            <InsertDocument path="include/psalm150/Refrain"/>         
+            <Season id="Joyful29thOfTheMonth">
+               <InsertDocument path="include/psalm150/ResurrectionContents"/>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia. All/louia. Piw~ou va Pennou] pe. All/louia.
+            </Language>
+            <Language id="English">
+               Alleluia. Alleluia. Glory be to our God. Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الليلويا . الليلويا. المجد هو لإلهنا. الليلويا
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               I/couc Pi,~rictoc P~s/ri m~V] cwtem e~ron ouoh nai nan.
+            </Language>
+            <Language id="English">
+               O Jesus Christ, the Son of God, hear us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا يسوع المسيح ابن الله، اسمعنا وارحمنا
+            </Language>         
+         </Text>      
+      </Role> 
+   </Section>
+</Document>

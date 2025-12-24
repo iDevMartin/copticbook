@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday Eve (The Eleventh Hour)</Language>
+         <Language id="Arabic">ليلة الأربعاء (الساعة الحادية عشر)</Language>
+         <Language id="Coptic">Pie~jwrh m~Pf~tou (}ajp 01)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Eleventh Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة الحادية عشر، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Wisdom of Solomon 7:24-30</Language>
+               <Language id="Arabic">حكمة سليمان 7: 24-30</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/WisdomOfSolomon"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  }covia~ gar c~kim e~qoun e~n/etkim t/rou: c~voh ouoh c~n/ou e~bolhiten pt/rf eybe pectoubo: ousah gar te n~te t~jom m~Vnou]: 
+               </Language>
+               <Language id="English">
+                  For wisdom moves from one place to another more easily than motion itself, And because of her purity, she penetrates all things. 
+               </Language>
+               <Language id="Arabic">
+                  إن الحكمة تتحرك في كل متحرك فهي تبلغ وتأتي علي الكل من أجل طهارتها, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh ouqa] e~bol qen piw~ou e~youab n~te pipantokratwr: eybe vai m~mon h~li ef[a~qem s~qwnt e~roc: ououwini gar te n~te piouwini n~e~neh: ouoh ouial e~couab te n~te nih~b/oui~ n~te Vnou]: ouoh t~hukwn n~tefmeta~gayoc te:
+               </Language>
+               <Language id="English">
+                  So she is the exhalation of the power of God and emanation of the pure glory of the Almighty; Therefore nothing defiled enters her. For she is the radiance of eternal light, A spotless mirror of the power of God and the image of His goodness.
+               </Language>
+               <Language id="Arabic">
+                  فإنها لهب قوة الله, وفيض من المجد المقدس الذي لضابط الكل, فلذلك لا يقدر أن يقربها شئ دنس لأنها ضياء النور الأزلي, ومرآة أعمال الله النقية وصورة صلاحه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oui~ te ecjemjom e~hwb niben: ouoh c~,/ qariqaroc: eoi~ri m~p~t/rf m~beri: ouoh kata genea~ ecse e~qoun e~han.u,/ eyu eci~ri m~mwou n~s~v/r m~Vnou] ouoh m~p~rov/t/c: 
+               </Language>
+               <Language id="English">
+                  Though she is one, she can do all things; so while remaining in herself, she renews all things; and in every generation, she passes into holy souls and makes them friends of God and prophets. 
+               </Language>
+               <Language id="Arabic">
+                  تقدر علي كل شئ وهي واحدة وتجدد كل شئ, وهي ثابتة في ذاتها وفي كل جيل تحل في النفوس الطاهرة وتجعلهم شركاء الله وتصيرهم أنبياء 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Vnou] gar mei n~hli an e~b/l e~v/etsop qen ]covia~:
+               </Language>
+               <Language id="English">
+                  Thus God loves nothing as much as the one who lives with wisdom.
+               </Language>
+               <Language id="Arabic">
+                  لأن الله لا يحب أحداً إلا من يساكن الحكمة.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Yai gar oucaie te e~hote pir/ nem ehote pcemni n~niciou t/rou: 
+               </Language>
+               <Language id="English">
+                  For wisdom is more beautiful than the sun and more than every constellation of stars. 
+               </Language>
+               <Language id="Arabic">
+                  لأنها أبهي من الشمس, وأسمي من كل مركز النجوم, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ausantenywnc e~v~ouwini enaersorp e~rcf: vai men gar sare pie~jwrh i~e~pefma: ]covia~ de m~pare ,aki s~jemjom eroc.
+               </Language>
+               <Language id="English">
+                  Compared with light she is found to be superior, for night succeeds the light, but evil cannot overcome wisdom.
+               </Language>
+               <Language id="Arabic">
+                  وإذا قيست بالنور تقدمت عليه, لأن النور يعقبه الليل , وأما الحكمة فلا يقوى عليها الظلام.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Eleventh Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة الحادية عشر، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 56:1-2</Language>
+               <Language id="Arabic">مزمور 56: 1-2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nai n/i Vnou] ouoh nain/i: Je ac,ahy/c e~rok n~je ta'u,/: 
+               </Language>
+               <Language id="English">
+                  Have mercy on me, O God, have mercy on me, for my soul trusts in You; 
+               </Language>
+               <Language id="Arabic">
+                  ارحمني يا الله ارحمني فانه عليك توكلت نفسي 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  }naer helpic qa t~q/ibi n~tenektenh: sa teccini n~je ]a~nomia: All/louia.
+               </Language>
+               <Language id="English">
+                  And in the shadow of Your wings I will hope, until lawlessness shall pass away. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  وبظل جناحيك أتكل الى ان يعبر الإثم. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 11:55-57</Language>
+            <Language id="Arabic">يوحنا 11: 55-57</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nafqent de pe n~je pipac,a n~te niIoudai: ouoh aui~ n~jeoum/s e~h~r/i e~Ieroucal/m e~bolqen ],wra qajen pipac,a hina n~toutoubwou:
+               </Language>
+               <Language id="English">
+                  And the Passover of the Jews was near, and many went from the country up to Jerusalem before the Passover, to purify themselves.
+               </Language>
+               <Language id="Arabic">
+                  وكان قد اقترب فصح اليهود فصعد كثيرون من الكورة إلى أورشليم قبل الفصح ليتطهروا
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Naukw] oun pe n~ca I/couc n~je ni Ioudai eujw m~moc n~nouer/ou euohi eratou qen piervei: je ou petetenmeui~ e~rof je fnai an e~p~sai.
+               </Language>
+               <Language id="English">
+                  Then they sought Jesus, and spoke among themselves as they stood in the temple, “What do you think—that He will not come to the feast?” 
+               </Language>
+               <Language id="Arabic">
+                  وكان اليهود يطلبون يسوع ويقولون فيما بينهم وهم قائمون في الهيكل ماذا تظنون ألعله لا يأتي إلي العيد؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ne au] entol/ de n~je niar,/e~reuc nem nivariceoc hina aresan ouai e~mi je afywn n~teftamwou e~rof hina n~cetahof.
+               </Language>
+               <Language id="English">
+                  Now both the chief priests and the Pharisees had given a command, that if anyone knew where He was, he should report it, that they might seize Him.
+               </Language>
+               <Language id="Arabic">
+                  وكان رؤساء الكهنة والفريسيون قد اصدروا أمرا انه ان عرف أحد أين هو فليدل عليه ليمسكوه.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Eleventh Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة الحادية عشر، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  It was the tradition of the Jews, that as it became near the days of the Passover, the multitudes go up the mountain from the hamlets to Jerusalem to purge themselves. 
+               </Language>
+               <Language id="Arabic">
+                  جرت العادة لسائر اليهود إنه إذا اقترب عيد الفصح تصعد جموع كثيرة من الذكور الى أورشليم ليتطهروا أ
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  When they ascended the mountain as usual they did not see Jesus go up. They said one to the other maybe he will not come to the feast.
+               </Language>
+               <Language id="Arabic">
+                  فلما صعدوا كالعادة لم ينظروا يسوع يصعد فقالوا لبعضهم وهم في الهيكل: ألعله حقا لا يأتي الى العيد؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The hypocrites were conniving their vicious plots because the high priests, the Pharisees, and the Elders had asked the people to lead them to his location, if it were known, in order to arrest him.
+               </Language>
+               <Language id="Arabic">
+                  وكان المنافقون يفتكرون أفكارا مملوءة من الخبث والرياء لان رؤساء الكهنة والفريسيين والشيوخ كانوا قد أوصوا انه ان علم أحد أين هو فليدلهم عليه ليمسكوه
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  O what foolishness and stupidity of these evil people who wanted to bait the omnipotent, the source of all power. Because of their opposition, He will chain them and assign them to Hell, the place of suffering.
+               </Language>
+               <Language id="Arabic">
+                  يا لهذا الجهل وهذه البلادة وعدم المعرفة التى لهؤلاء الآنجاس فانهم وضعوا فخا لصاحب القوة الشديدة الكلى القدرة لانهم مخالفون فسيربطهم هو بسلاسل ويسوقهم الى الجحيم وموضع العذاب.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesEmbed"/>
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheBaptist:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">&lt;ere piou/b...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. John the Baptist:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere piou/b n~te P[oic: pip~rov/t/c n~te v/et[oci: pimarturoc n~te ]meym/i: Iwann/c piref]wmc
+            </Language>
+            <Language id="English">
+               Hail to the Priest of the Lord, the Prophet of The (Most) High , the martyr of the Truth, John the Baptizer.
+            </Language>
+            <Language id="Arabic">
+               السلام لكاهن الرب نبي العلي شهيد الحق يوحنا المعمدان.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/doxologies/ArchangelMichael"/>
+   <InsertDocument path="include/doxologies/ArchangelGabriel"/>
+   <InsertDocument path="include/doxologies/ArchangelMichaelAndGabriel"/>
+   <InsertDocument path="include/doxologies/ArchangelRaphael"/>
+   <InsertDocument path="include/doxologies/ArchangelSuriel"/>
+   <InsertDocument path="include/doxologies/FourIncorporealCreatures"/>
+   <InsertDocument path="include/doxologies/TwentyFourPriests"/>
+</Document>

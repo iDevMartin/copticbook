@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Amou saron...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Pentecost:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Amou saron m~voou w~ penn/b Pi,~rictoc a~riouwini e~ron qen tekmeynou] et[oci.
+            </Language>
+            <Language id="English">
+               Come to us today, O our Master Christ; enlighten us with Your high divinity.
+            </Language>
+            <Language id="Arabic">
+               تعال إلينا اليوم ياسيدنا المسيح وأضئ علينا بلاهوتك العالي 
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouwrp e~q~r/i e~jwn m~painis] n~h~mot n~te pekp~neuma eyouab m~parakl/ton.
+            </Language>
+            <Language id="English">
+               Send down upon us this great grace of Your Holy Spirit of Comfort.
+            </Language>
+            <Language id="Arabic">
+               أرسل إلينا هذه النعمة العظيمة لروحك القدوس المعزي
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>   
+</Document>

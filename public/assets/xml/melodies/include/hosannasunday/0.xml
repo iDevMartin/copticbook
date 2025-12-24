@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">
+            Hymn of the Feast Of Hosanna Sunday
+         </Language>
+         <Language id="Arabic">
+            لحن لأحد الشعانين
+         </Language>
+      </Title>
+   
+      <Text>
+         <Language id="English">
+            Hosanna in the highest / 
+            This is the King of Israel / 
+            Blessed is He who comes / 
+            In the name of the Lord of hosts
+         </Language>
+         <Language id="Arabic">
+            أوصنا في الأعالي / 
+            هذا هو ملك إسرائيل / 
+            مبارك الآتي / 
+            بإسم الرب إله القوات
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/HeWhoSitsUponTheCherubim"/>
+      <InsertDocument path="include/OnTheWayTheySpreadGarments"/>
+      <InsertDocument path="include/TodayTheSayingsAreFulfilled"/>
+   </Section>
+</Document>

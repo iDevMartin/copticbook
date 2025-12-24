@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="Coptic">Tou makariw</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The following Greek hymn may said in place of <span class="Coptic">Pih~mot gar</span>:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            (nim) tou makariw tatou a~giwtatou te ke cebacmiw~tatou: patroc /~mwn auyentou ke decpotou  
+         </Language>
+         <Language id="English">
+            The blessed (…), the holy fully honored, our father and master,  
+         </Language>
+         <Language id="Arabic">
+            (...) الطوباوى الأقدس الكلى الاكرام، أبونا ومولانا وسيدنا
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Papa ke patriar,ou t/c megal/c polewc A~lexand~riac: Lubi/c pentapolewc Eyiopiac nem Afrikia ke pac/c g/c E~guptou 
+         </Language>
+         <Language id="English">
+            Pope and Patriarch of the great city of Alexandria, Libya, Pentapolis, Ethiopia, Africa and all the land of Egypt.
+         </Language>
+         <Language id="Arabic">
+            وبابا وبطريرك المدينة العظمى الاسكندرية وليبيا والخمس مدن والحبشة وأفريقية وجميع أرض مصر
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Patroc paterwn pimenoc pimenwn: ar,ie~rewc ar,ie~rewn /~mwn: t~ritou ke dekatou twn a~poctolwn ke k~ritou t/c oikoumen/c:   
+         </Language>
+         <Language id="English">
+            Father of all Fathers, Shepard of all Shepards, our Archbishop, the thirteenth Apostle and the judge of the world, 
+         </Language>
+         <Language id="Arabic">
+            أبو الاباء، راعى الرعاة رئيس رؤساء كهنتنا ثالث عشر  الرسل وقاضى المسكونة 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Polla ta e~t/: ton decpot/n ke ar,ie~rea~ /~mwn Kurie vulatte aftwn (icpolla e~t/ decpota) (3)
+         </Language>
+         <Language id="English">
+            May his years be countless, may God preserve our master and Archbishop (for many years O master) (3)
+         </Language>
+         <Language id="Arabic">
+            فلتكن سنينة عديدة، سيدنا ورئيس كهنتنا يارب احفظه (لسنين كثيرة يا سيد) (3)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem peniwt m~m/tropolt/c (n~e~pickopoc) abba (nim)
+         </Language>
+         <Language id="English">
+            And our father the Metropolitan (Bishop) Abba (…)
+         </Language>
+         <Language id="Arabic">
+            وأبينا المطران (الأسقف) أنبا (...)
+         </Language>         
+      </Text>
+   </Section>
+</Document>

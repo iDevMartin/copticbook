@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Title>
+      <Language id="English">The Short Blessing</Language>
+      <Language id="Arabic">البركة القصيرة</Language>
+   </Title>
+      
+   <Role id="Priest">
+      <Group>
+         <Season id="PaschaWeek | Pascha | GeneralFuneralPrayer">
+            <Comment>
+               <Language id="English">
+                  During Holy Pascha Week:
+               </Language>
+               <Language id="Arabic">
+                  في جمعة البسخة المقدسة: 
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="English">
+                  May Jesus Christ, our true God, who through His own goodwill accepted sufferings, and was crucified on the cross for our sakes, bless us with all spiritual blessings, and support us, and complete for us the holy Pascha, and bring forth upon us the joy of His holy Resurrection for many years and peaceful times.
+               </Language>
+               <Language id="Arabic">
+                  يسوع المسيح إلهنا الحقيقى الذى قبل الآلام بإرادته وصلب على الصليب من أجلنا. يباركنا بكل بركة روحية ويعيننا ويكمل لنا البسخة المقدسة ويرينا فرح قيامته المقدسة سنينا كثيرة وأزمنه  سلامية.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  Through the never-ending intercessions of the holy Theotokos Saint Mary, and of all the choirs of the angels and archangels. 
+               </Language>
+               <Language id="Arabic">
+                  بالسؤلآتٍ والطلبات التى تصنعها عنا كل حين سيدتنا ملكتنا كلنا والدة الإله القديسة الطاهرة مريم وجميع مصاف الملائكة. 
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  And through the prayers of the patriarchs, prophets, apostles, martyrs, righteous, holy ones, cross-bearers, ascetics, confessors and anchorites. And through the blessing of this holy Pascha of our Good Savior.
+               </Language>
+               <Language id="Arabic">
+                  وكل الطغمات السمائية وصلوات رؤساء الأباء والآنبياء والرسل والشهداء والأبرار والصديقين ومصاف لباس الصليب، والنساك والمعترفون والسواح وبركة البسخة المقدسة التى لمخلصنا الصالح.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="English">
+                  May their holy blessings, their benediction, their power, their gift, their love, and their help be with us all forever. Amen.
+               </Language>
+               <Language id="Arabic">
+                  بركتهم المقدسة ونعمتهم وقوتهم وهبتهم ومحبتهم ومعونتهم تكون معنا كلنا إلى الأبد. آمين.
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <Group>
+               <Season id="NativityFast">
+                  <Comment>
+                     <Language id="English">
+                        For the Fast of the Nativity:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم الميلاد المجيد:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pa[oic I/couc Pi,rictoc: pimici e~bolqen Viwt qajwou n~niewn t/rou: nai nan kata peknis] n~nai.
+                     </Language>
+                     <Language id="English">
+                        O my Lord Jesus Christ, begotten of the Father before all ages, have mercy upon us according to Your great mercy. 
+                     </Language>
+                     <Language id="Arabic">
+                        يا ربي يسوعَ المسيح، المولود من الآبِ قبلَ كلِّ الدهورِ، ارحَمْنا كعظيمِ رحمتِكَ.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="NativityPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Nativity to the Feast of Circumcision.
+                     </Language>
+                     <Language id="Arabic">
+                        من عيد الميلاد إلى عيد الختان:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pa[oic I/couc Pi,rictoc: pimici e~bolqen Viwt qajwou n~niewn t/rou: v/e~taf[icarx e~bolqen ]paryenoc Maria~: ouoh aumacf hijen pikahi: qen B/yleem n~te ]Ioudea~: san~tefcotten e~bolqen nennobi.
+                     </Language>
+                     <Language id="English">
+                        O my Lord Jesus Christ, begotten of the Father before all ages, who was incarnate of the Virgin Mary and was born on earth in Bethlehem of Judea to save us from our sins,
+                     </Language>
+                     <Language id="Arabic">
+                        يا ربي يسوعَ المسيح، المولودُ من الآبِ قبل كلِّ الدهورِ، الذي تجسَّدَ من العذراءِ مريم ووُلِدَ على الأرضِ في بيت لحم اليهودية حتى خلَّصَنا من خطايانا.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        V/e~terouwini e~rwmi niben eyn/ou e~pikocmoc: a~riouwini e~nibal n~te nenh/t: a~rih~mot nan m~pic~mou m~pijinmici m~paryenikon: ouoh moi nan n~oumetrefernumvin: hopwc n~teni~ri m~peyranak n~c/ou niben.
+                     </Language>
+                     <Language id="English">
+                        who enlightens every man that comes into the world, enlighten the eyes of our hearts and grant us the blessing of the Virginal Nativity and give us sobriety that we may do what pleases You at all times.
+                     </Language>
+                     <Language id="Arabic">
+                        الذي يضيءُ لكلِّ إنسانٍ آتٍ إلى العالَمِ، أنر عيونَ قلوبِنا، وانعم علينا ببركةِ الميلادِ البتولي واعطِنا استيقاظاً لكي نصنعَ ما يرضيكَ كل حينٍ.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="Theophany">
+                  <Comment>
+                     <Language id="English">
+                        For the Feast of the Theophany:
+                     </Language>
+                     <Language id="Arabic">
+                        في عيدالغطاس: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">                     
+                        Pa[oic I/couc Pi,rictoc v/e~taf[iwmc qen Piiordan/c eke~toubo n~nen'u,/ e~bolha p~ywleb n~te nennobi.
+                     </Language>
+                     <Language id="English">
+                        O my Lord Jesus Christ, who was baptized in the Jordan, purify our souls from the defilement of our sins.
+                     </Language>
+                     <Language id="Arabic">
+                        ياربي يسوعَ المسيح الذي اعتمدَ في الأردن، طهِّرْ نفوسَنا من دنسِ خطايانا.
+                     </Language>
+                  </Text>   
+                  
+                  <Comment>
+                     <Language id="English">
+                        The priest may say the following instead.
+                     </Language>
+                     <Language id="Arabic">
+                         أو يقول في عيد الغطاس:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">                     
+                        I/couc Pi,rictoc pimonogen/c n~S/ri: ouoh n~Logoc n~te Vnou] Viwt.
+                     </Language>
+                     <Language id="English">
+                        O Jesus Christ, the only-begotten Son and Logos of God the father, 
+                     </Language>
+                     <Language id="Arabic">
+                        يا يسوع المسيح الابن الوحيد وكلمةُ اللهِ الآب.
+                     </Language>
+                  </Text>               
+                  
+                  <Text>
+                     <Language id="Coptic">                     
+                        V/e~taf[iwmc qen piiordan/c: hiten nenjij m~pibaptict/c Iwann/c: ouoh aftoubo n~]oikoumen/ t/rc.
+                     </Language>
+                     <Language id="English">
+                        who was baptized in the Jordan by the hands of the baptizer, John, and has purified the whole world,
+                     </Language>
+                     <Language id="Arabic">
+                        الذي تعمَّدَ في الأردن من يدي المُعمِّدِ يوحنا، وطَهَّرَ جميعَ المسكونةِ.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">                     
+                        Matoubon e~bolha meui~ niben ethwou: nem p~raxic niben et[aqem: nem logicmoc niben eymeh n~a[ni.
+                     </Language>
+                     <Language id="English">
+                        purify us from all evil reasoning and every defiled practice and every thought filled with blemish.
+                     </Language>
+                     <Language id="Arabic">
+                        طهِّرْنا من كلِّ فكرٍ رديءٍ، وكلِّ سيرةٍ دنسةٍ، وكلِّ حواسٍ مملوءةٍ عيباً.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="GreatFast">
+                  <Comment>
+                     <Language id="English">
+                        During the Holy Forty Days of the Great Fast:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم الأربعين المقدسة: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        I/couc Pi,rictoc p~ouro n~te nie~wn: v/e~tafern/cteuin e~h~r/i e~jwn n~h~me n~e~hoou nem h~me n~e~jwrh.
+                     </Language>
+                     <Language id="English">
+                        O Jesus Christ, King of the ages, who fasted for us forty days and forty nights,
+                     </Language>
+                     <Language id="Arabic">
+                        يا يسوعَ المسيح ملكَ الدهورِ، الذي صامَ عنا أربعين يوماً وأربعين ليلة.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Swp e~rok n~tenn/ctia~: ouoh ,w nan e~bol n~nena~nomia~: a~ricun,wrin n~nenparaptwma: ouoh moi nan m~penjwk n~,~rictia~noc efranak m~pekm~yo.
+                     </Language>
+                     <Language id="English">
+                        receive to Yourself our fasting, forgive us our iniquities, and remit our trespasses. And grant us our Christian perfection that would be pleasing to You.
+                     </Language>
+                     <Language id="Arabic">
+                        اقبل إليك صومَنا، واغفر لنا آثامَنا، واصفح عن زلاتِنا، وامنحنا كمالَنا المسيحي يُرضيك أمامَكَ.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Ouoh a~reh e~ron qen outoubo nem oumeym/i: n~niehoou t/rou n~te penwnq.
+                     </Language>
+                     <Language id="English">
+                        And keep us in purity and righteousness all the days of our life.
+                     </Language>
+                     <Language id="Arabic">
+                        واحفظنا بقداسةٍ وبرٍ جميعَ أيامِ حياتِنا.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="PreAscensionPentecostPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Resurrection up until the Feast of the Ascension:
+                     </Language>
+                     <Language id="Arabic">
+                        من عيد القيامة إلى عيد الصعود: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pihi/b m~m/i n~te Vnou] Viwt: v/e~taftwnf e~bolqen n/eymwout: qen pie~hoou m~mahsomt.
+                     </Language>
+                     <Language id="English">
+                        O true Lamb of God the Father, who rose from the dead on the third day, 
+                     </Language>
+                     <Language id="Arabic">
+                        أيها الحملُ الحقيقيُّ الذي للهِ الآبِ، الذي قامَ من الأمواتِ في اليومِ الثالثِ.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Couten nen[alauj e~v~mwit n~te ]hir/n/: a~reh e~ron e~bolha pethwou niben: n~nie~hoou t/rou n~te penwnq: a~ri,arizecye nan m~p~,w e~bol n~te nennobi.
+                     </Language>
+                     <Language id="English">
+                        straighten our feet toward the path of peace. Keep us from every evil all the days of our life. Grant us the forgiveness of our sins. 
+                     </Language>
+                     <Language id="Arabic">
+                        قوِّمْ أقدامَنا إلى سبيلَ السلامَ، احفظنا من كلِّ شرٍ جميعَ أيامِ حياتِنا، انعم لنا بغفرانِ خطايانا.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="PostAscensionPentecostPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Ascension to the Feast of the Pentecost:
+                     </Language>
+                     <Language id="Arabic">
+                        في عيد الصعود: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pa[oic I/couc Pi,rictoc: v/e~taftwnf e~bolqen n/eymwout afsenaf e~p~swi e~niv/oui~: afhemci caoui~nam m~Pefiwt: hina n~tefouwrp nan m~piparakl/ton: Pip~neuma n~te ]meym/i.
+                     </Language>
+                     <Language id="English">
+                        O my Lord Jesus Christ, who rose from the dead, ascended into the heavens, and was seated at the right hand of His Father that He may send to us the Paraclete, the Spirit of truth.  
+                     </Language>
+                     <Language id="Arabic">
+                        ياربي يسوع المسيح الذي قامَ من الأمواتِ، وصَعِدَ إلى السمواتِ، وجَلَسَ عن يمين أبيه كي يُرسلَ لنا البارقليط روحَ الحق.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="Other">
+                  <Text>
+                     <Language id="Coptic">
+                        Vnou] efe~senh/t qaron efe~c~mou e~ron: efe~ouwnh m~pefho e~h~r/i e~jwn ouoh efe~nai nan.
+                     </Language>
+                     <Language id="English">
+                        May God have compassion upon us, bless us, manifest His face upon us, and have mercy upon us. 
+                     </Language>
+                     <Language id="Arabic">
+                        الله يتراءَفُ علينا ويباركُنا، ويظهرُ وجهَه علينا ويرحمنا.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        P[oic nohem m~peklaoc: c~mou e~tekk~l/ronomia~: a~moni m~mwou [acou sa e~neh.
+                     </Language>
+                     <Language id="English">
+                        O Lord, save Your people, bless Your inheritance, shepherd them, and raise them up for ever. 
+                     </Language>
+                     <Language id="Arabic">
+                        ياربُّ خلِّص شعبَكَ. بارِكْ ميراثَكَ. ارعهم وارفعهم إلى الأبدِ.
+                     </Language>
+                  </Text>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        {ici m~p~tap n~ni,rictianoc hiten t~jom m~pic~tauroc n~reftanqo.
+                     </Language>
+                     <Language id="English">
+                        Exalt the horn of Christians through the power of the life-giving Cross,
+                     </Language>
+                     <Language id="Arabic">
+                        ارفعْ شأنَ المسيحيين بقوةِ الصليبِ المحيِي.
+                     </Language>
+                  </Text>
+               </Season>
+            </Group>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten ni]ho nem nitwbh e~teci~ri m~mwou qaron n~c/ou niben: n~je ten[oic n~n/b t/ren ]yeotokoc eyouab ]a~gia Maria.
+               </Language>
+               <Language id="English">
+                  through the supplications and prayers which our Lady, the Lady of us all, the holy Theotokos, Saint Mary, makes for us at all times.
+               </Language>
+               <Language id="Arabic">
+                  بالسؤالاتِ والطلباتِ التي تصنعُها عنا كلَّ حينٍ سيدتُنا، سيدتُنا كلِّنا والدةُ الإلهِ القديسةُ الطاهرةُ مريم.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pisomt n~nis] n~referouwini eyouab: Mi,a/l nem Gabri/l nem Rava/l.
+               </Language>
+               <Language id="English">
+                  And [through the supplications and prayers of] the three great holy luminaries Michael, Gabriel, and Raphael;
+               </Language>
+               <Language id="Arabic">
+                  والثلاثةُ العظماء المنيرون الأطهارُ ميخائيل وغبريال ورافائيل.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pif~twou n~zwon n~acwmatoc: nem pijwt f~twou m~p~recbuteroc: nem nitagma t/rou n~e~pouranion.
+               </Language>
+               <Language id="English">
+                  the four incorporeal living creatures; the twenty-four presbyters; all the heavenly orders;
+               </Language>
+               <Language id="Arabic">
+                  والأربعةُ الحيوانات غير المتجسدين، والأربعةُ والعشرون قسيساً، وكلُّ الطغماتِ السمائيةِ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pia~gioc Iwann/c piref]wmc: nem pir#m#d# (se h~me f~twou) n~so: nem na[oic n~io] n~a~poctoloc: nem pi3 n~a~lou n~a~gioc: nem pia~gioc Ctevanoc.
+               </Language>
+               <Language id="English">
+                  Saint John the Baptist; the hundred and forty-four thousand; my lords and fathers the apostles; the three holy youths; Saint Stephen;
+               </Language>
+               <Language id="Arabic">
+                  والقديسُ يوحنا المعمدان، والمائة والأربعة والأربعون آلفاً، وسادتي الآباء الرسل، والثلاثةُ الفِتْيَةِ القديسين، والقديسُ استفانوس.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem piyew~rimoc n~euaggelict/c Markoc pia~poctoloc eyouab ouoh m~marturoc.
+               </Language>
+               <Language id="English">
+                  the beholder-of-God, the Evangelist Mark, the holy apostle and martyr;
+               </Language>
+               <Language id="Arabic">
+                  وناظرُ الإلهِ الإنجيلي مرقس الرسول القديس والشهيد.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pia~gioc Gewrgioc: nem pia~gioc Yeo~dwroc: nem Vilopat/r Markourioc: nem pia~gioc a~pa M/na: nem p~,oroc t/rf n~te nimarturoc.
+               </Language>
+               <Language id="English">
+                  Saint George; Saint Theodore; Philopater Mercurius; Saint Abba Mina; and the whole choir of the martyrs;
+               </Language>
+               <Language id="Arabic">
+                  والقديسُ جرجس، والقديسُ تادرس، وفيلوباتير مرقوريوس، والقديسُ أبامينا، وكلُّ مصافِ الشهداء.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem peniwt n~dikeoc pinis] abba Antwnioc: nem piy~m/i abba Paule: nem pisomt eyouab abba Makari.
+               </Language>
+               <Language id="English">
+                  our righteous father, the great Abba Anthony; the righteous Abba Paul; the three saints Abba Macarii;
+               </Language>
+               <Language id="Arabic">
+                  وأبونا الصديقُ العظيمُ أنبا أنطونيوس، والبار أنبا بولا، والثلاثةُ أنبا مقارات القديسون.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem peniwt abba Iwann/c: nem peniwt abba Piswi: nem peniwt abba Paule piremtammoh: nem nenio] n~rwmeoc Maximoc nem Dometioc: nem peniwt abba Mouc/: nem pim#y# (h~me 'it) m~marturoc.
+               </Language>
+               <Language id="English">
+                  our father Abba John; our father Abba Pishoi; our father Abba Paul of Tammoh; our Roman fathers Maximus and Dometius; our father Abba Moses; the Forty-nine Martyrs;
+               </Language>
+               <Language id="Arabic">
+                  وأبونا أنبا يوحنا، وأبونا أنبا بيشوي، وأبونا أنبا بولا الطموهي، وأبوانا الروميان مكسيموس ودوماديوس، وأبونا أنبا موسى، والتسعةُ والأربعون شهيداً.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem p~,oroc t/rf n~te nic~taurovoroc: nem niy~m/i nem nidikeoc: nem nicabeu t/rou m~paryenoc: nem p~aggeloc n~te paie~hoou etc~marwout.
+               </Language>
+               <Language id="English">
+                  the whole choir of the cross-bearers; the just; the righteous; all the wise virgins; the angel of this blessed day;
+               </Language>
+               <Language id="Arabic">
+                  وكلُّ مصافِ لُبَّاسِ الصليبِ والأبرارُ والصديقون، وجميعُ العذارى الحكيمات، وملاكُ هذا اليوم المبارك.
+               </Language>
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  The patron saint of the church is mentioned, followed by the saint(s) of the day.
+               </Language>
+               <Language id="Arabic">
+                  ههنا يذكر اسم صاحب الكنيسة وقديسي اليوم ثم يقول:
+               </Language>
+            </Comment> 
+            
+            <Text>
+               <Language id="Coptic">
+                  Nem pic~mou n~]yeotokoc eyouab ]a~gia~ Maria n~sorp nem qae~.
+               </Language>
+               <Language id="English">
+                  and the blessing of the holy Theotokos, Saint Mary, first and last.
+               </Language>
+               <Language id="Arabic">
+                  وبركةُ والدةِ الإلهِ القديسةِ الطاهرةِ مريم أولاً وآخراً.
+               </Language>
+            </Text>
+            
+            <Group>
+               <Season id="Sundays">
+                  <Comment>
+                     <Language id="English">
+                        On Sunday, he adds:
+                     </Language>
+                     <Language id="Arabic">
+                        وأيضاً إذا كان يوم الأحد فيضيف:
+                     </Language>
+                  </Comment> 
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]kuria~k/ n~te pencwt/r n~a~gayoc.
+                     </Language>
+                     <Language id="English">
+                        And the blessing of the Lord's Day of our good Savior.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ يومِ الأحدِ الذي لمخلصِنا الصالح.
+                     </Language>
+                  </Text>   
+               </Season>
+            </Group>
+            
+            <Group>
+               <Season id="NativityFast">
+                  <Comment>
+                     <Language id="English">
+                        For the Fast of the Nativity:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم الميلاد المجيد:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]n/ctia~ m~pijinmici m~paryenikon.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Fast of the Virginal Nativity.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ صومِ الميلاد البتولي.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="NativityPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Nativity to the Feast of Circumcision.
+                     </Language>
+                     <Language id="Arabic">
+                        من عيد الميلاد إلى عيد الختان:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou m~pijinmici m~paryenikon.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Virginal Nativity.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ الميلاد البتولي.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="TheophanyParamoun | Theophany">
+                  <Comment>
+                     <Language id="English">
+                        For the Paramoun of the Theophany or the Feast of the Theophany:
+                     </Language>
+                     <Language id="Arabic">
+                        في برمون الغطاس و عيدالغطاس:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~te p~sai n~te ]e~pivania n~te Pen[oic I/couc Pi,rictoc.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Feast of Theophany of our Lord Jesus Christ.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ عيد الظهورِ، الذي لربِّنا يسوعَ المسيح.
+                     </Language>
+                  </Text>               
+               </Season>
+               
+               <Season id="Annunciation">
+                  <Comment>
+                     <Language id="English">
+                        For the Feast of the Annunciation:
+                     </Language>
+                     <Language id="Arabic">
+                        في عيد البشارة:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~te p~sai m~pihisennoufi eyouab n~reftanqo.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Feast of the holy, life-giving Annunciation.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ عيدِ البشارةِ المقدسةِ المحيية.
+                     </Language>
+                  </Text>               
+               </Season>
+               
+               <Season id="JonahFast">
+                  <Comment>
+                     <Language id="English">
+                        For the Fast of Jonah:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم يونان:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]n/ctia~ n~te Iwna pip~rov/t/c.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Fast of Jonah the prophet.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ صومِ يونان النبي.
+                     </Language>
+                  </Text>               
+               </Season>               
+               
+               <Season id="GreatFast">
+                  <Comment>
+                     <Language id="English">
+                        During the Holy Forty Days of the Great Fast:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم الأربعين المقدسة: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]n/ctia~ n~te pih~me n~oujai n~te pencwt/r n~a~gayoc.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Fast of the Forty Days of Salvation of our good Savior.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ صومِ أربعين الخلاصِ الذي لمخلِّصِنا الصالح.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="HosannaSunday">
+                  <Comment>
+                     <Language id="English">
+                        For Hosanna Sunday:
+                     </Language>
+                     <Language id="Arabic">
+                        في أحد الشعانين:
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~te p~sai n~te pieulog/menoc eyouab etc~marwout.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the holy blessed Feast of Hosanna.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ عيدِ الشعانين الطاهرِ المباركِ.
+                     </Language>
+                  </Text>               
+               </Season>
+               
+               <Season id="PreAscensionPentecostPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Resurrection to the Feast of the Ascension:
+                     </Language>
+                     <Language id="Arabic">
+                        من عيد القيامة إلى عيد الصعود: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]a~nactacic n~te pencwt/r n~a~gayoc.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Resurrection of our good Savior.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ القيامةِ التي لمخلِّصنا الصالح.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="PostAscensionPentecostPeriod">
+                  <Comment>
+                     <Language id="English">
+                        From the Feast of the Ascension to the Feast of the Pentecost:
+                     </Language>
+                     <Language id="Arabic">
+                        في عيد الصعود: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]anal/m'ic n~te pencwt/r n~a~gayoc swpi neman t/ren sa e~neh: a~m/n.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Ascension of our good Savior, may it be with us all for ever. Amen.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ الصعودِ الذي لمخلِّصِنا الصالح، تكونُ معنا إلى الأبدِ. آمين.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="Pentecost">
+                  <Comment>
+                     <Language id="English">
+                        For the Feast of the Pentecost:
+                     </Language>
+                     <Language id="Arabic">
+                        في عيد البنطيقسطي: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~te p~sai n~te ]pent/koct/.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the Feast of Pentecost.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ عيد البنطيقسطي.
+                     </Language>
+                  </Text>
+               </Season>
+               
+               <Season id="ApostlesFast">
+                  <Comment>
+                     <Language id="English">
+                        For the Fast of the Apostles:
+                     </Language>
+                     <Language id="Arabic">
+                        في صوم آبائنا الرسل: 
+                     </Language>
+                  </Comment>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Nem pic~mou n~]n/ctia~ n~te na[oic n~io] n~a~poctoloc.
+                     </Language>
+                     <Language id="English">
+                        and the blessing of the fast of my lords and fathers the apostles.
+                     </Language>
+                     <Language id="Arabic">
+                        وبركةُ الصومِ الذي لسادتي الآباء الرسل.
+                     </Language>
+                  </Text>
+               </Season>
+            </Group>
+            
+            <Comment>
+               <Language id="English">
+                  And he continues:
+               </Language>
+               <Language id="Arabic">
+                  ثم يكمل:
+               </Language>
+            </Comment> 
+            
+            <Text>
+               <Language id="Coptic">
+                  Ere pouc~mou eyouab nem pouh~mot nem toujom nem tou,aric nem toua~gap/ nem toubo/~yia~ swpi neman t/ren sa e~neh: a~m/n.
+               </Language>
+               <Language id="English">
+                  May their holy blessing, their grace, their power, their gift, their love, and their help be with us all for ever. Amen.
+               </Language>
+               <Language id="Arabic">
+                  بَرَكَتُهم المقدسةُ، ونعمتُهم، وقوَّتُهم، وهبتُهم، ومحبتُهم، ومعونتُهم تكونُ معنا كُلِّنا إلى الأبدِ. آمين.
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+</Document>

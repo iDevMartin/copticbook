@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "CopticBook",
+    "slug": "copticbook",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/Icon-App-76x76@3x.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/icons/ItunesArtwork@2x.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "org.idevmartin.copticbook"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/Icon-App-76x76@3x.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "org.idevmartin.copticbook"
+    },
+    "web": {
+      "favicon": "./assets/icons/Icon-App-76x76@3x.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "scheme": "copticbook"
+  }
+}

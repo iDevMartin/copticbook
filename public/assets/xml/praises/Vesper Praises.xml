@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" VesperPraises="true">
+   <Group>
+      <InsertDocument path="include/VespersNotPrayedComment"/>    
+   
+      <Season id="Other">
+         <Title>
+            <Language id="English">Vesper Praises</Language>
+            <Language id="Arabic">تسبحة عشية</Language>
+         </Title>
+         
+         <Group>
+         
+            <Season id="Nativity | Theophany">
+               <Comment>
+                  <Language id="English">
+                     No Agpeya hours are prayed in the Offering of Evening Incense of the Feasts of Nativity or Theophany, since they were all prayed in the Liturgy of the Paramoun.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="DayAfterResurrection">
+               <Comment>
+                  <Language id="English">
+                     No Agpeya hours are prayed in the Evening Prayer of Resurrection Sunday.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="ParemhotepFeastOfTheCross | Annunciation">
+               <Comment>
+                  <Language id="English">
+                     No Agpeya hours are prayed in the Offering of Evening Incense of the Feasts of the Cross (10 Paremhotep) and the Feast of the Annunciation as they fall during the Great Fast.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="PresentationInTemple ^ (JonahFast | GreatFast)">
+               <Comment>
+                  <Language id="English">
+                     No Agpeya hours are prayed in the Offering of Evening Incense of the Feast of the Lord’s Entry into the Temple if it falls during the Fast of Jonah or the Great Fast because they were all prayed in the Liturgy.
+                  </Language>
+               </Comment>
+            </Season>
+            
+            <Season id="Weekend | !Fasts | FeastsOfTheLordPeriods | FeastOfTheCross">
+               <Comment>
+                  <Language id="English">
+                     On non-fasting days (including Saturdays and Sundays of fasting days, as well as Feasts of the Lord and Feasts of the Cross), the prayers of None (Ninth), Vespers (Eleventh) and Compline (Twelfth), and Veil in the monasteries are prayed.
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/agpeya/9thHourLink"/>
+               <InsertDocument path="include/agpeya/11thHourLink"/>
+               <InsertDocument path="include/agpeya/12thHourLink"/>
+               <InsertDocument path="include/agpeya/VeilLink"/>
+            </Season>
+            
+            <Season id="Fasts ^ !(Weekdays ^ (GreatFast | JonahFast))">
+               <Comment>
+                  <Language id="English">
+                     On fasting days (except the weekdays of the Great Fast and Jonah’s Fast), the prayers of Vespers and Compline (and Veil in the monasteries) are prayed.
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/agpeya/11thHourLink"/>
+               <InsertDocument path="include/agpeya/12thHourLink"/>
+               <InsertDocument path="include/agpeya/VeilLink"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/praises/Psalm116"/>
+         
+         <Comment>
+            <Language id="English">
+               After this hymn is chanted, the Fourth Canticle is said.
+            </Language>
+            <Language id="Arabic">
+               بعد هذا اللحن يقال الهوس الرابع بذكصولوجية العذراء
+            </Language>
+         </Comment>
+            
+         <InsertDocument path="include/praises/FourthHoos"/>
+         <InsertDocument path="include/psalies/Psalies"/>
+         <InsertDocument path="include/praises/theotokia/Theotokia"/>
+         
+         <Group>      
+            <InsertDocument path="include/praises/koiahk/Exposition"/>
+            <InsertDocument path="include/praises/lent/Exposition"/>
+            <InsertDocument path="include/praises/pentecost/Exposition"/>
+            <InsertDocument path="include/praises/expositions/Joyful29thOfTheMonth"/>
+            <InsertDocument path="include/praises/expositions/StMary"/>
+         </Group>
+         
+         <Group>
+            <Season id="DisplayNonCustomaryPrayers">
+               <InsertDocument path="antiphonary/AntiphonaryLink"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/praises/ConclusionTheotokia"/>
+         
+         <Role id="Deacon">
+            <InsertDocument path="include/SavedAmenShort"/>
+         </Role>
+         
+         <Role id="People">
+            <InsertDocument path="include/LordsPrayer"/>
+            <InsertDocument path="melodies/include/koiahk/ByWeek"/>
+         </Role>
+      </Season>
+   </Group>
+</Document>

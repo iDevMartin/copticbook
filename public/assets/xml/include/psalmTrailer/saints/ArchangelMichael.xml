@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Psalm Trailer</Language>
+            <Language id="Coptic">P~aggeloc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Michael (Psalm 33:7, 8):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               P~aggeloc m~P~[oic hikw] m~p~kw] n~ouon niben eterho] qatefh/: ouoh a~nau je ouhelje pe P~[oic: w~ouniatf m~pirwmi e~terelpic erof.
+            </Language>
+            <Language id="English">
+               The angel of the Lord will encamp round about them that fear him, and will deliver them. Taste and see that the Lord is good: blessed is the man who hopes in him.
+            </Language>
+            <Language id="Arabic">
+               مَلاَكُ الرَّبِّ حَالٌّ حَوْلَ خَائِفِيهِ وَيُنَجِّيهِمْ. ذُوقُوا وَانْظُرُوا مَا أَطْيَبَ الرَّبَّ! طُوبَى لِلرَّجُلِ الْمُتَوَكِّلِ عَلَيْهِ.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

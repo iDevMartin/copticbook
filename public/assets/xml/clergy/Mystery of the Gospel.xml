@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" PriestsOnly="true">      
+   <Title>
+      <Language id="English">Mystery of the Gospel</Language>
+      <Language id="Arabic">سر الإنجيل</Language>
+   </Title>
+   
+   <InsertDocument path="include/SilentPrayerGospel"/>   
+</Document>

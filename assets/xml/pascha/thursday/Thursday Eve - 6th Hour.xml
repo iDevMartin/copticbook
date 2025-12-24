@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ CovenantThursday ^ Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Thursdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Covenant Thursday Eve (The Sixth Hour)</Language>
+         <Language id="Arabic">ليلة خميس العهد (الساعة السادسة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Ptiou n~nis] (}ajp 6)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Sixth Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة السادسة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Amos 3:1-11</Language>
+               <Language id="Arabic">عاموس 3: 1-11</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Amos"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cwtem e~paicaji vai e~taicaji m~mof e~jen y/nou p~/i m~p~Iicra/l: nem qa vul/ niben e~taie~nou e~bolqen p~kahi n~,/mi eujwm~moc.
+               </Language>
+               <Language id="English">
+                  O house of Israel, hear this word the Lord has spoken against you, against the whole family which I brought up from the land of Egypt, saying,
+               </Language>
+               <Language id="Arabic">
+                  أسمعوا هذا القول الذى تكلمت به عليكم يا بيت اسرائيل وعلى كل القبائل التى أخرجتها من أرض مصر قائلاً:
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je t~l/n n~ywten aicouen y/nou e~bol qen nivul/ t/rou n~te p~kahi: eybe vai eie~[i m~psis e~jen y/nou t/rou n~netennobi t/rou. 
+               </Language>
+               <Language id="English">
+                  "Out of all the families of the. earth, I have especially known you. Therefore I shall exact vengeance upon you for all your sins.
+               </Language>
+               <Language id="Arabic">
+                  إياكم عرفت من بين جميع قبائل الأرض، فلذلك أنتقم منكم عن جميع خطاياكم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  An eue~mosi n~je c~nau eucop n~toustem couen noue~r/ou e~p~t/rf.
+               </Language>
+               <Language id="English">
+                  If two people walk together, will each one not come to know the other?
+               </Language>
+               <Language id="Arabic">
+                  أيسير اثنان معاً و لا يعرف بعضهما البعض قط؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  An efe~hemhem n~je oumoui~ e~bolqen ouiahss/n m~mon tefjorjf: an e~re oumac m~moui~ ]n~tefc~m/ ebolqen pefb/b e~p~t/rf afstemhwlem n~ouh~li. 
+               </Language>
+               <Language id="English">
+                  Will a lion roar from his lair in the forest if he has no prey? Will a lion's whelp cry out from his den if he has nothing?
+               </Language>
+               <Language id="Arabic">
+                  أيزمجر الأسد فى الغابة وليس له فريسة؟ أيطلق الشبل صوته من عرينه قط، إلا إذا خطف شيئا؟ 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  A~n efehei n~je ouhal/t hijen pikahi m~mon v/etjwrj e~rof: an e~re oujorjc swpi hijen pkahi n~ouesen tahe hli.
+               </Language>
+               <Language id="English">
+                  Will a bird fall to the earth without a fowler? Will a snare be sprung if it has caught nothing?
+               </Language>
+               <Language id="Arabic">
+                  أيسقط طير على الأرض من غير قانص؟ أيكون فخ على الأرض من غير أن يصيد شيئاً ؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  An e~re oucalpigx mou] qen oubaki ouoh n~te sten oulaoc nousp: an e~re oukakia~ swpi qen oubaki m~pe~P[oic yamioc.
+               </Language>
+               <Language id="English">
+                  If a trumpet is sounded in a city, will not the people be alarmed? If evil should be in a city, has not the Lord brought it?
+               </Language>
+               <Language id="Arabic">
+                  أيصوت بوق فى مدينة ولا يهلع الشعب؟ هل تحدث بلية فى مدينة والرب لم يصنعها ؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ou/i n~nefi~ri n~ouhwb n~je N~[oic Vnou] afstem [wrp e~bol n~tefc~bw nnefe~biaik m~p~rov/t/c: 
+               </Language>
+               <Language id="English">
+                  For the Lord God does nothing unless He reveals instruction to His servants the prophets.
+               </Language>
+               <Language id="Arabic">
+                  إن الرب الإله لا يصنع أمراً إلا ويعلن تأديبه لعبيده الآنبياء، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Oumoui~ afws e~bol nim pe etefnaerho] an: P[oic Vnou] afcaji nim pe e~tefnaer p~rov/teuin an:
+               </Language>
+               <Language id="English">
+                  A lion shall roar, and who will not fear? The Lord God speaks, and who will not prophesy?
+               </Language>
+               <Language id="Arabic">
+                  أسد قد زمجر فمن لا يخاف، الرب الإله تكلم فمن لا يتنبأ؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Matame ni,wra etqen Niaccurioc nem hijen ni,wra n~te,/mi ouoh a~joc: 
+               </Language>
+               <Language id="English">
+                  "Proclaim it in the regions among the Assyrians and to the lands of Egypt, and say, 
+               </Language>
+               <Language id="Arabic">
+                  أخبروا كور الآشوريين وكور مصر وقولوا: 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je ywou] hijen p~twou n~t~Camaria~: ouoh a~nau e~hans~v/ri euos qen tecm/]: nem ]metrefsepjwri e~te n~q/tc.
+               </Language>
+               <Language id="English">
+                  'Gather yourself to the mountains of Samaria, and behold the many remarkable things in her midst and the oppression that is within her.
+               </Language>
+               <Language id="Arabic">
+                  اجتمعوا على جبل السامرة وأنظروا الغرائب الكثيرة التى فى وسطها، والجور الذى فى داخلها،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh m~pece~mi e~n/eynaswpi m~pecm~yo peje P[oic: n/ethioui~ e~qoun n~ou[i n~jonc nem outalepwrea~ qen nou,wra:
+               </Language>
+               <Language id="English">
+                  She does not know the things that will come against her,' says the Lord, 'she stores up injustice and misery in her lands.'
+               </Language>
+               <Language id="Arabic">
+                  ولم تعلم ما يكون أمامها يقول الرب. بما أنهم يكنزون ظلماً وشقاء فى كورهم،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai naine n/e~tefjw mmwou n~je Poc Vnou]: je Turoc pekahi e~te mpekw] efeswf: ouoh efe~i~ni e~pec/t n~je tejom e~bol n~q/].
+               </Language>
+               <Language id="English">
+                  "Therefore thus says the Lord God: "O Tyre, your land round about you shall be made desolate, and your strength shall be sapped from you.
+               </Language>
+               <Language id="Arabic">
+                  فلذلك هذا ما يقوله الرب الإله لصور: إن أرضك التى حولك تخرب وقوتك تسقط منك.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Sixth Hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة السادسة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 139:1-2</Language>
+               <Language id="Arabic">مزمور 139: 1-2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nahmet P[oic cabol n~ourwmi efhwou: e~bolha ourwmi n~ref[in~jonc matoujoi. 
+               </Language>
+               <Language id="English">
+                  Deliver me, O Lord, from the evil man, Rescue me from the unjust man, 
+               </Language>
+               <Language id="Arabic">
+                  نجنى يارب من إنسان شرير ومن رجل ظالم أنقذنى. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  N/e~tauco[ni n~han [in~jonc qen pouh/t: m~pie~hoou t/rf aucob] n~hanbwtc: All/louia.
+               </Language>
+               <Language id="English">
+                  Who devised wrongdoing in their heart; They arrayed themselves for war all day long: Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  الذين تفكروا بالظلم فى قلبهم النهار كله كانوا يستعدون للقتال: الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 12:36-43</Language>
+            <Language id="Arabic">يوحنا 12: 36-43</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Nai e~taf jotou n~je I/couc afsenaf af,opf e~bol harwou. Naim/s de m~m/ni afaitou mpoumy~o e~bol m~pounah] e~rof: 
+               </Language>
+               <Language id="English">
+                  These things Jesus spoke, and departed, and was hidden from them. But although He had done so many signs before them, they did not believe in Him, 
+               </Language>
+               <Language id="Arabic">
+                  قال يسوع هذا ثم مضى وتوارى عنهم، ومع هذه الآيات الكثيرة التى صنعها أمامهم لم يؤمنوا به، 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hina n~tefjwk e~bol n~je p~caji n~/~cai~ac pip~rov/t/c v/e~tafjof je P[oic nim pe e~tafnah] e~tenc~m/: ouoh p~swbs m~P[oic e~taf[wrp e~nim. 
+               </Language>
+               <Language id="English">
+                  That the word of Isaiah the prophet might be fulfilled, which he spoke: “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
+               </Language>
+               <Language id="Arabic">
+                  ليتم كلام أشعياء النبى الذى قاله: يارب من صدق خبرنا. ولمن أعلنت ذراع الرب.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai ne m~mons~jom m~mwou e~nah]: je afjoc on n~je ?ca/~ac: Je afywm n~noubal: ouoh afywm m~pouh/t: hina n~tous~temnau n~noubal: ouoh n~toustem ka] qen pouh/t: ouoh n~toukotou haroi n~tatoujwou: 
+               </Language>
+               <Language id="English">
+                  Therefore they could not believe, because Isaiah said again: “He has blinded their eyes and hardened their hearts, Lest they should see with their eyes, Lest they should understand with their hearts and turn, So that I should heal them.”
+               </Language>
+               <Language id="Arabic">
+                  ومن أجل هذا لم يكونوا ليقدروا أن يؤمنوا لأن أشعياء قال أيضاً: قد طمس عيونهم وقفل قلوبهم لئلا يبصروا بعيونهم ويفهموا بقلوبهم ويرجعوا إلى فأشفيهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nai afjotou n~je ?ca/~ac je afnau e~p~w~ou m~V~nou] ouoh afcaji eyb/tf.
+               </Language>
+               <Language id="English">
+                  These things Isaiah said when he saw His glory and spoke of Him.
+               </Language>
+               <Language id="Arabic">
+                  قال أشعياء هذا لأنه رأى مجد الله وتكلم عنه،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  O~mwc men]oi oum/s e~bolqen nikear,wn aunah] e~rof: alla nauouwnh m~mof e~bolan pe eybe nivariceoc: je n~nouaitou n~a~pocunagwgoc: 
+               </Language>
+               <Language id="English">
+                  Nevertheless even among the rulers many believed in Him, but because of the Pharisees they did not confess Him, lest they should be put out of the synagogue; 
+               </Language>
+               <Language id="Arabic">
+                  ومع ذلك فإن كثيراً من الرؤساء أيضاً آمنوا به، ولكنهم لسبب الفريسيين لم يعترفوا به لئلا يصيروا خارج المجمع 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aumenre p~w~ou gar n~nirwmi mallon e~hote p~w~ou m~Vnou].
+               </Language>
+               <Language id="English">
+                  For they loved the praise of men more than the praise of God.
+               </Language>
+               <Language id="Arabic">
+                  لأنهم أحبوا مجد الناس أكثر من مجد الله.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Sixth Hour hour of the eve of Thursday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة السادسة، من ليلة الخميس من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Isaiah the prophet—by the spirit—chastizes the sons of Israel for their foolishness and rebukes them outright because of the vileness of their deeds and their sins. 
+               </Language>
+               <Language id="Arabic">
+                  أشعياء النبى يصرخ بالروح نحو الشعب الجاهل بنى اسرائيل، يبكتهم بغير محاباة من أجل دنس أعمالهم وآثامهم. 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They rejected the miracles that Emmanuel made, rejected his words full of grace and leaned towards myths, vagaries and rejected the glory of His divinity.
+               </Language>
+               <Language id="Arabic">
+                  لما ظهر عمانوئيل وصنع أعمالاً تبهر العقول، فتعدوا أقواله المملوءة نعمة ومالوا إلى الخرافات والأعمال الباطلة، وجحدوا مجد لاهوته،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  O great prophet (Isaiah) chastise these disobedient children and fruitless trees for they have emulated their fathers and followed on their heels: O Lord who believes our word?
+               </Language>
+               <Language id="Arabic">
+                  أعنى الأبناء المرذولين والزرع الغير مثمر، بكت رأيهم أيها النبى العظيم، لأنهم تشبهوا بآبائهم وكملوا مكاييلهم فقال: يارب من صدق خبرنا؟
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  And your arm, O Lord, to whom announced? The voice of the Lord is his only begotten Son who appeared in the flesh to the sons of Israel.
+               </Language>
+               <Language id="Arabic">
+                  وذراعك يارب لمن أعلنت؟ إن صوت الرب هو إبنه الوحيد الذى تراءى بالجسد لبنى اسرائيل 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He showed in them His mercy and His justice and nevertheless they did not obey Him and did not believe in him.
+               </Language>
+               <Language id="Arabic">
+                  وعدله ورحمته أظهرهما فيهم، ومع هذا لم يطيعوا ولم يؤمنوا به.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  How could they believe: Isaiah prophesized about them and said: I blind their eyes, harden their hearts, deafen their ears and their understanding altogether.
+               </Language>
+               <Language id="Arabic">
+                  كيف يؤمنون وأشعياء سبق فنطق من أجلهم هكذا قائلاً: إنه أطمس عيونهم وبلد قلوبهم وثقل آذانهم وأفهامهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Listen a Israel; no one else will save you from God's wrath but Jesus the Savior of the world, He who made the two into one by his incarnation.
+               </Language>
+               <Language id="Arabic">
+                  أسمع يا اسرائيل، ليس آخر يقوم يخلص شعبك من قبله إلا يسوع مخلص العالم الذى جعل الإثنين واحداً بتجسده.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  The light has come to His own and His own loved the darkness and the gentiles accepted his commandments and became His nation everywhere.
+               </Language>
+               <Language id="Arabic">
+                  جاء النور إلى خاصته وخاصته لم تقبله، بل أحبوا الظلمة والشعوب الغريبة قبلت وصاياه وصارت له شعباً مجتمعاً فى كل مكان،
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They experience His mercy and His immeasurable grace that He bestowed on them.
+               </Language>
+               <Language id="Arabic">
+                  وعرفوا رحمته وغزير نعمته التى أفاضها عليهم كصلاحه.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

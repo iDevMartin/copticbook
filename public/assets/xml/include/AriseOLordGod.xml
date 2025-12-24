@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="Coptic">
+         Twnk P[oic Vnou]: maroujwr e~bol n~je nekjaji t/rou: marouvwt e~bol qat~h/ m~pekho n~je ouon niben eymoc] m~pekran eyouab
+      </Language>            
+      <Language id="English">
+         Arise, O Lord God, let all Your enemies be scattered, and let all who hate Your holy name flee before Your face.
+      </Language>
+      <Language id="Arabic">
+         قمْ أيها الربُّ الإلهُ. ولتتفرق جميعُ أعدائِكَ. وليهرب من قدامِ وجهِكَ كلُّ مبغضي اسمِكَ القدوس.
+      </Language>
+   </Text>
+   
+   <Comment>
+      <Language id="English">
+         The priest turns to the west and censes the priests, the deacons, and the people three times, saying:
+      </Language>
+      <Language id="Arabic">
+         يلتفت إلى الغرب ويُعطي البخور للكهنة والشمامسة والشعب، ثلاث مرات، وهو يقول:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Peklaoc de marefswpi qen pic~mou e~hananso n~so nem hany~ba n~y~ba eui~ri m~pekouws.
+      </Language>            
+      <Language id="English">
+         But let Your people be in blessing, thousands of thousands and ten thousand times ten thousand, doing Your will.
+      </Language>
+      <Language id="Arabic">
+         وأما شعبُكَ فليكن بالبَركةِ، ألوفَ ألوفٍ وربواتَ ربواتٍ، يصنعونَ إرادتَكَ.
+      </Language>
+   </Text>
+</Document>

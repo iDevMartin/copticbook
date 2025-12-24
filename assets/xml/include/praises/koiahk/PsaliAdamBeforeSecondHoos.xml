@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason">
+      <Section expanded="true" antiphonePitch="2">
+         <Title>
+            <Language id="English">Psali Adam on the Second Canticle</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Apah/t nem palac: hwc e~]t~riac: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               My heart and my tongue, praise the Trinity. O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               قلبى ولسانى يسبحان الثالوث أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Bon niben cehwc nak: ouoh ceerbwk nak: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Everyone praises You, And worships You, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               كل أحد يسبحك: ويتعبد لك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ge gar n~yok Pennou]: Pencwt/r ouoh pinis]: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               For You are our God, And our great Savior, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               لأنك أنت إلهنا: ومخلصنا العظيم أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Decpoude kurion: afi~afcw] m~mon : a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               The Master Lord, He came and saved us, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               السيد الرب : أتى وخلصنا أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Eybe nekhap m~m/i: mat~caboi e~nekmeym/i: a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               For the sake of Your true judgments, Teach me Your justice, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               من أجل أحكامك: الحقيقية علمنى عدلك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Zeos pe peknai: jempensini qen pekoujai: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Many are Your mercies, Grant us Your salvation, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               كثيرة هى رحمتك: تعهدنا بخلاصك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/praises/koiahk/MyHeartAndMyTongueRefrain"/>
+          
+         <Text>
+            <Language id="Coptic">
+               ?c h/ppe a~nok: eie~vwt harok: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               I am here before You, I took refuge in You, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               هوذا أنا : التجأت إليك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ywk te ]jom nem piw~ou: w~ piouro n~te p~w~ou: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Yours is the power and glory, O King of glory, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               لك القوة والمجد: ياملك المجد أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               I/couc pe tenhelpic: qen neny~lu'ic : a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Jesus is our hope, In our tribulations, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يسوع هو رجاؤنا: في شدائدنا أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Kc~marwout Uioc Yeoc: nahmen qen nipiracmoc: a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               You are blessed O Son of God, Deliver us from temptations, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               تباركت ياابن الله: نجنا من التجارب أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Laoc niben cehwc nak: w~ p~ouro Pi,~rictoc: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               All nations praise You, O Christ the King, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               كل الشعوب تسبحك: أيها الملك المسيح أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Moi nan n~tekhir/n/: matal[o n~nenswni: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Grant us Your peace, Heal our sickness, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أعطينا سلامك : إشف أمراضنا أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/MyHeartAndMyTongueRefrain"/>
+          
+         <Text>
+            <Language id="Coptic">
+               Nyok ourefsenh/t: ouoh n~na/t: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               You are the compassionate, And You are the Merciful, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               انت المتحنن: وانت الرحوم أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Xmarwout n~yok: tenhwc nak c~mou e~rok : a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               You are blessed, We praise and bless You, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               تباركت أنت: نسبحك ونباركك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ounis] n~tavm/i: piref]hap m~m/i: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Truly great, Is the Just Judge, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               عظيم بالحقيقة : الديان العادل أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Pekran etc~marwout : w pilogoc n~tavm/i : a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Your Name is blessed, O the True Logos (Word), O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اسمك مبارك: أيها الكلمة الحقيقي أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Rwic e~ron w~ Pi,~rictoc: qen tekmeta~gayoc: a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Guard us O Christ, With Your Goodness, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               أحرسنا أيها المسيح: بصلاحك أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Cwtem e~nirefernobi : qen noua~nagk/: a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Hearken unto the sinners, In their tribulations, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               اسمع للخطاة: فى شدائدهم أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <InsertDocument path="include/praises/koiahk/MyHeartAndMyTongueRefrain"/>
+          
+         <Text>
+            <Language id="Coptic">
+               Ta'u,/ nem panoc: w~lou e~ouranoc: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               My soul and my mind, Lift them up to heaven, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               نفسي وعقلى : إرفعهما الى السماء أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Uioc Yeoc Pennou]: moi nan n~oucw]: a~gia~ t~riac : e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               O Son of our God, Grant us Your salvation, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               يا ابن الله إلهنا: أعطنا خلاصاً أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               V] pina/t: pirefwoun~h/t: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               God the Merciful, the Long-suffering, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الله الرحوم: طويل الآناة أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               &lt;~ouab ,~ouab ,~ouab: p~s/ri m~V/eyouab: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               Holy, Holy, Holy, O Son of the Holy, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس: يا ابن القدوس أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               "u,/ n~nenio]: mam~ton nwou w~ pirefcw]: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               The souls of our fathers, Give rest to them O Savior, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               آباؤنا الراقدون: نيحهم أيها المخلص أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               W penn/b a~ripenmeui~: qen tekmetouro n~naniv/oui: a~gia~ t~riac: e~le/~con /~mac.
+            </Language>
+            <Language id="English">
+               O our Master remember us, In Your heavenly kingdom, O Holy Trinity, have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               ياملكنا اذكرنا: فى ملكوتك السماوى أيها الثالوث القدوس أرحمنا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

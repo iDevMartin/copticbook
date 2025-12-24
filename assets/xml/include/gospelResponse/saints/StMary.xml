@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMary ^ Liturgy">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Gospel Response</Language>
+               <Language id="Arabic">مرد الإنجيل</Language>
+               <Language id="Coptic">Ten[ici m~mo...</Language>
+            </Title>
+            
+            <InsertDocument path="include/TenichiciEmo"/>
+         </Section>
+      </Season>
+      
+      <Season id="StMary ^ Matins">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Gospel Response</Language>
+               <Language id="Arabic">مرد الإنجيل</Language>
+               <Language id="Coptic">Niourwou...</Language>
+            </Title>
+            
+            <InsertDocument path="include/gospelResponse/saints/StMaryFeastMatins"/>
+         </Section>         
+      </Season>
+      
+      <Season id="StMary ^ Vespers">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Gospel Response</Language>
+               <Language id="Arabic">مرد الإنجيل</Language>
+               <Language id="Coptic">A oum/s...</Language>
+            </Title>
+            
+            <InsertDocument path="include/gospelResponse/saints/StMaryFeastVespers"/>         
+         </Section>         
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/gospelResponse/saints/StMaryStandard"/>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelRaphael:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Genea~ niben...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of Archangel Raphael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Genea~ niben e~tauswpi: icjen A~dam sa e~qoun m~voou: cejimi gar n~Rava/l: efoi n~cobt e~]metrwmi.
+            </Language>
+            <Language id="English">
+               Every generation that was: from Adam to this day: finds Raphael: a fortress for mankind.
+            </Language>
+            <Language id="Arabic">
+               كل الأجيال الذين كانوا ، من آدم الى اليوم ، يجدون رافائيل حصناً للبشريه.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/SeasonalConclusion"/>
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

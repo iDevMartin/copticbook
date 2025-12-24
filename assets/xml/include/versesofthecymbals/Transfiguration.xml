@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Transfiguration">
+      <Text>
+         <Language id="Coptic">
+            I/#c# P,#c# Pennou]: af[i n~nefmay/t/c: af[itou cap~swi: m~pitwou n~Yabwr.
+         </Language>
+         <Language id="English">
+            Jesus Christ our God, took His disciples, He brought them up, to Mount Tabor.
+         </Language>
+         <Language id="Arabic">
+            يسوع المسيح إلهنا أخذ تلاميذه وأصعدهم فوق جبل طابور.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            ?liac nem Mwuc/c petjwr: aunau e~nefh~bwc hi Yabwr: nimay/t/c euerjinior: n~][/pi ecerouwini.
+         </Language>
+         <Language id="English">
+            Elijah and Moses the strong ones, saw His clothes on Tabor, the disciples passed through, a bright cloud.
+         </Language>
+         <Language id="Arabic">
+            إيليا وموسى القويان نظرا ثيابه على طابور  التلاميذ عبروا فى سحابة منيرة.
+         </Language>
+      </Text>
+   </Season>
+</Document>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Wednesday Theotokia (7)</Language>
+         <Language id="Arabic">ثاؤطوكية يوم الأربعاء (7)</Language>
+         <Language id="Coptic">}galilea~ n~te nieynoc...</Language>
+      </Title>
+   
+      <Text>
+         <Language id="Coptic">
+            }galilea~ n~te nieynoc: n/ethemci qen p~,aki: nem t~q/ibi m~v~mou: ounis] n~ouwini afsai nwou.
+         </Language>
+         <Language id="English">
+            Galilee of the nations, those who were sitting in darkness, and the shadow of death, had great light shine upon them.
+         </Language>
+         <Language id="Arabic">
+            جليلوا الامم الجالسون فى الظلمة وظلال الموت اشرق عليهم النور العظيم.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            V] v/eymoten m~mof: qen n/e#y#u# n~taf: af[icarx qen ]paryenoc: eybe v/ete vwn n~oujai.
+         </Language>
+         <Language id="English">
+            God who rests, within His saints, became incarnate of the Virgin, for our salvation.
+         </Language>
+         <Language id="Arabic">
+            الله المستريح فى قديسيه تجسد من العذراء لاجل خلاصنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Amwini a~nau a~ris~v/ri: hwc yel/l qen ous~l/loui~: hijen paimuct/rion: e~tafouwnh nan e~bol.
+         </Language>
+         <Language id="English">
+            Come behold and be amazed, joyfully sing on account, of this mystery, which was revealed unto us.
+         </Language>
+         <Language id="Arabic">
+            تعالوا انظروا وتعجبوا وسبحوا وهللوا بابتهاج لهذا السر الذي ظهر لنا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je piatcarx af[icarx: ouoh pilogoc afq~yai: piatar,/ aferh/tc: piatc/ou afswpi qa ou,~ronoc.
+         </Language>
+         <Language id="English">
+            For the One without flesh was incarnate, and the Word took body, the One with no beginning began, and the Eternal One became temporal.
+         </Language>
+         <Language id="Arabic">
+            لأن غير المتجسد تجسد والكلمة تجسمت وغير المبتدئ ابتدأ وغير الزمني صار زمنياً.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Piats~tahof aujemjwmf: piaynau e~rof cenau e~rof: p~s/ri m~V] etonq: afswpi n~s/ri n~rwmi qen oumeym/i.
+         </Language>
+         <Language id="English">
+            The Incomprehensible has been touched, and the Unseen has been seen, and the Son of the Living God, truly became the Son of Man.
+         </Language>
+         <Language id="Arabic">
+            غير المدرك لمسوه وغير المرئي رأوه  أبن الله الحي صار بشريا بالحقيقة.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/JesusChristIsTheSame"/>         
+   
+      <Text>
+         <Language id="Coptic">
+            AViwt joust e~bol qen t~ve: m~pefjem v/eto~ni m~mo: afouwrp m~pefmonogen/c: i~ af[icarx e~bol n~q/].
+         </Language>
+         <Language id="English">
+            The Father looked from heaven, and found no one like you, He sent His Only Begotten, who came and took flesh from you.
+         </Language>
+         <Language id="Arabic">
+            تطلع الآب من السماء فلم يجد مَن يُشبهكِ أرسل وحيده أتى وتجسد منكِ.
+         </Language>
+      </Text>
+   </Section>
+</Document>

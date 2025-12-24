@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <InsertDocument path="readings/include/synaxarion/Thoout"/>
+      <InsertDocument path="readings/include/synaxarion/Paope"/>
+      <InsertDocument path="readings/include/synaxarion/Hathor"/> 
+      <InsertDocument path="readings/include/synaxarion/Koiahk"/>
+      <InsertDocument path="readings/include/synaxarion/Tobe"/>
+      <InsertDocument path="readings/include/synaxarion/Meshir"/>
+      <InsertDocument path="readings/include/synaxarion/Paremhotep"/>
+      <InsertDocument path="readings/include/synaxarion/Parmoute"/>
+      <InsertDocument path="readings/include/synaxarion/Pashons"/>
+      <InsertDocument path="readings/include/synaxarion/Paone"/>
+      <InsertDocument path="readings/include/synaxarion/Epep"/>
+      <InsertDocument path="readings/include/synaxarion/Mesore"/>
+      <InsertDocument path="readings/include/synaxarion/Nesi"/>
+   </Group>
+</Document>

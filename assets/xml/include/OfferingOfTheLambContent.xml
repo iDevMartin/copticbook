@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Offering of the Lamb</Language>
+      <Language id="Arabic">تقديم الحمل</Language>
+   </Title>
+   
+   <Group>
+      <Season id="CovenantThursday">
+         <Comment>
+            <Language id="English">
+               <ol>             
+                  <li>The lamb is presented without the Agpeya prayers of the hours.</li>
+                  <li><span class="Coptic">Kurie Ele/~con</span> (41 times) is not chanted, but rather the lamb is examined in silence as Christ who was silent when tried before Pilate and did not open his mouth (Isa 53:7).</li>                        
+               </ol>
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="Other">
+         <Role id="Priest" silent="true">
+            <Comment>
+               <Language id="English">
+                  The priest purifies his thoughts and actions, internally and externally, and, most important, he must be internally pure of all transgressions, lest he receive judgment onto himself according to the saying of St. Paul in 1 Corinthians 11:27-31, and he shall be at peace with all men (Matthew 5:23, 24; Mark 11:25-26). He must be externally clean in body and clothing, with his hands and feet washed (Exodus 30:17-21), and he must be careful not to taste anything at all.
+               </Language>
+               <Language id="Arabic">
+                  يجب أن يستبرئ الكاهن أفكاره وأحواله داخلاً وخارجاً. ففي الداخل وهو الأهم يجب أن يكون نقياً من كلِّ زلة، لئلا يأخذ دينونة لنفسه، كقول القديس بولس الرسول (كورنثوس الأولى 11: 27-31)، ويكون الكاهن مصطلحاً مع الجميع (راجع متى 5: 23، 24؛ مرقس 11: 25-26). وفي الخارج يجب أن يكون نظيف الجسم والملابس، ويغسل يديه ورجليه (راجع 30: 17-21)، ويكون محترساً، أي لم يذق شيئاً البتة.
+               </Language>
+            </Comment>
+            
+            <Comment>
+               <Language id="English">
+                  The priest then puts on the vestments of the priesthood after having them blessed with the sign of the cross, saying Psalm 29, “I will extol You, O Lord….” and after it, Psalm 92, “The Lord reigns; He is robed in majesty….” During this time, the deacons chant:
+               </Language>
+               <Language id="Arabic">
+                  ثم يلبس الكاهن بدلة الكهنوت بعد رشمها وهو يقول المزمور التاسع والعشرين (أعظمك ياربُّ) وبعده المزمور الثاني والتسعين (الربُّ قد ملك ولبس الجلال). وفي اثناء ذلك يرتل الشمامسة لحن:
+               </Language>
+            </Comment>
+         </Role>
+         
+         <Role id="People">
+            <Group>      
+               <Season id="Feasts">
+                  <Comment>
+                     <Language id="English">                             
+                        On feast days, the Hymn of Joy, <span class="Coptic">Pouro</span>, is chanted:      
+                     </Language>
+                  </Comment>
+                  
+                  <InsertDocument path="include/PouroSection"/>
+                  
+                  <Comment>
+                     <Language id="English">               
+                        Alternatively, the standard Hymn of Blessing, <span class="Coptic">Tenouwst m~Viwt</span>, may be chanted while the priests and deacons put on their service vestments:      
+                     </Language>
+                  </Comment>
+               </Season>
+                     
+               <Season id="Other">
+                  <Comment>
+                     <Language id="English">               
+                        On standard days, after the Offering of Morning Incense, the Hymn of Blessing, <span class="Coptic">Tenouwst m~Viwt</span>, is chanted while the priests and deacons put on their service vestments:      
+                     </Language>
+                  </Comment>
+               </Season>
+            </Group>
+            
+            <InsertDocument path="include/HymnOfBlessing"/>
+         </Role>
+         
+         <InsertDocument path="include/SilentPriestOfferingPreparation"/>
+         
+         <Role id="People">
+            <Group>
+               <Season id="MajorNightFeasts">
+                  <Comment>
+                     <Language id="English">
+                        On the three major feasts of Nativity, Theophany, and Resurrection, the oblations are offered and examined without chanting <span class="Coptic">Kurie e~Le/~con</span> (41 times).
+                     </Language>
+                  </Comment>
+               </Season>         
+                     
+               <Season id="Other">
+                  <Group>
+                     <Season id="Pentecost">
+                        <Comment>
+                           <Language id="English">
+                              On the Feast of Pentecost, only the psalms of the Third Hour and the Gospel are prayed. The litanies are prayed after the reading of the Praxis (Acts).
+                           </Language>
+                        </Comment>
+                        
+                        <InsertDocument path="include/agpeya/3rdHourLink"/>
+                     </Season>
+                     
+                     <Season id="(Weekdays ^ (JonahFast | GreatFast)) | ((NativityParamoun | TheophanyParamoun) ^ Weekdays)">                        
+                        <Comment>
+                           <Language id="English">
+                              On the weekdays of the Great Fast and Jonah’s Fast and the Paramoun of the Feasts of Nativity and Theophany, the prayers of the Third, Sixth, Ninth, Vespers and Compline hours (and Veil in the monasteries) are prayed.
+                           </Language>
+                        </Comment>
+                        
+                        <InsertDocument path="include/agpeya/3rdHourLink"/>
+                        <InsertDocument path="include/agpeya/6thHourLink"/>
+                        <InsertDocument path="include/agpeya/9thHourLink"/>
+                        <InsertDocument path="include/agpeya/11thHourLink"/>
+                        
+                        <InsertDocument path="include/agpeya/Trisagion"/>
+                        <InsertDocument path="include/agpeya/HailToYou"/>
+            
+                        <InsertDocument path="include/agpeya/12thHourLink"/>
+                        <InsertDocument path="include/agpeya/VeilLink"/>
+                     </Season>
+                     
+                     <Season id="!JoyousSaturday ^ (Weekend | !Fasts | Feasts)">                        
+                        <Comment>
+                           <Language id="English">
+                              On non-fasting days (including Saturdays and Sundays of fasting days, as well as Feasts of the Lord and Feasts of the Cross), the prayers of the Third and Sixth hours are prayed.      
+                           </Language>
+                        </Comment>
+                        
+                        <InsertDocument path="include/agpeya/3rdHourLink"/>
+                        
+                        <InsertDocument path="include/agpeya/Trisagion"/>
+                        <InsertDocument path="include/agpeya/HailToYou"/>
+                        
+                        <InsertDocument path="include/agpeya/6thHourLink"/>      
+                     </Season>   
+                     
+                     <Season id="Weekdays ^ Fasts">                        
+                        <Comment>
+                           <Language id="English">
+                              On fasting days (except the weekdays of the Great Fast and Jonah’s fast) the prayers of the Third, Sixth and Ninth hours are prayed.
+                           </Language>
+                        </Comment>
+                        
+                        <InsertDocument path="include/agpeya/3rdHourLink"/>
+                        <InsertDocument path="include/agpeya/6thHourLink"/>
+                        
+                        <InsertDocument path="include/agpeya/Trisagion"/>
+                        <InsertDocument path="include/agpeya/HailToYou"/>
+                        
+                        <InsertDocument path="include/agpeya/9thHourLink"/>
+                     </Season>
+                  </Group>
+                  
+                  <Group>
+                     <Season id="!JoyousSaturday">
+                        <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+                        <InsertDocument path="include/Creed"/>      
+                     </Season>
+                  </Group>
+                  
+                  <Section expanded="true" antiphonePitch="1">
+                     <Title>
+                        <Language id="English">Lord Have Mercy</Language>
+                        <Language id="Coptic">Kurie~ e~le/~con</Language>
+                        <Language id="Arabic">ارْحَمْ.</Language>
+                     </Title>
+                     
+                     <Comment>
+                        <Language id="English">
+                           The oblations are offered and examined while the congregation chants <span class="Coptic">Kurie e~Le/~con</span> (41 times).
+                        </Language>
+                     </Comment>
+                     
+                     <InsertDocument path="include/OfferingOfTheLamb_LordHaveMercy_3"/>
+                     <InsertDocument path="include/OfferingOfTheLamb_LordHaveMercy_3"/>
+                     <InsertDocument path="include/OfferingOfTheLamb_LordHaveMercy_3"/>
+                     <InsertDocument path="include/OfferingOfTheLamb_LordHaveMercy_3"/>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con
+                        </Language>
+                        <Language id="English">
+                           <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con</span>
+                        </Language>
+                        <Language id="Arabic">
+                            <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con: Kurie~ e~le/~con</span>
+                        </Language> 
+                     </Text>
+                     
+                     <Text>
+                        <Language id="Coptic">
+                           Kurie~ e~le/~con: Kurie~ e~le/~con
+                        </Language>
+                        <Language id="English">
+                           <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>
+                        </Language>
+                        <Language id="Arabic">
+                            <span class="Coptic">Kurie~ e~le/~con: Kurie~ e~le/~con</span>
+                        </Language> 
+                     </Text>
+                  </Section>
+                  
+                  <InsertDocument path="include/agpeya/HolyHolyHoly"/>
+                  <InsertDocument path="include/LordsPrayer"/>                
+               </Season>
+            </Group>
+         </Role>
+      </Season>
+   </Group>
+   
+   <Season id="!CovenantThursday ^ !JoyousSaturday">
+      <InsertDocument path="include/HymnOfTheOblations"/>
+   </Season>
+   
+   <InsertDocument path="include/ProcessionOfTheLambIntro"/>
+   <InsertDocument path="include/PostProcessionOfTheLambIntro"/>
+      
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest, having come around to the front of the altar, faces East, and uncovers the loaf and places it in his left hand. Then he inclines his head to his brethren the priests, asking them to bless. Then the priest brings the loaf close to the cruet of wine in the deacon’s right hand, which is covered with a silk veil, and three times he makes the sign of the cross over both, saying:
+         </Language>      
+         <Language id="Arabic">
+            وإذا أكمل الكاهن الدورة السابق ذكرها يقف مكانه أولاً غربي المذبح ووجهه إلى الشرق. ويضع الحمل (القربانة) على يده اليسرى. ويطامن برأسه لإخوته الكهنة ملتمساً منهم أن يباركوا. ثم يلتفت إلى القربانة ويقرب إليها وعاء الخمر الذي يكون بيد الشماس اليمنى ملفوفة بلفافة حرير ويرشم الكاهن الاثنين معاً ثلاثة رشوم بمثال الصليب كالعادة. فأول ذلك يبتدئ قائلاً:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/Offering.Priest.1"/>   
+   </Role>
+         
+   <Role id="Deacon">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Priest">
+      <InsertDocument path="include/Offering.Priest.2"/>
+   </Role>
+         
+   <Role id="Deacon">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Priest">
+	  <InsertDocument path="include/Offering.Priest.3"/>
+   </Role>
+         
+   <Role id="Deacon">
+      <InsertDocument path="include/OfferatoryChant"/>    
+   </Role>   
+   
+   <Role id="People">
+      <InsertDocument path="include/DoxaPatriAlleluia"/>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            During this time, the priest places the loaf on the paten, beneath which is a silk veil. and says the following inaudibly.
+         </Language>
+         <Language id="Arabic">
+            وفي أثناء ذلك يضع الكاهن القربانة في الصينية وتحتها لفافة حرير ويقول هكذا (سرا(ً:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/GloryAndHonor"/>
+      
+      <Comment>
+         <Language id="English">
+            After this, the priest pours wine into the chalice, completely emptying the cruet. Then he pours water into the empty wine cruet and from it he adds a little water to the wine in the chalice (the proportion of water to wine being not less than a tenth, normally a quarter, but not more than a third), wipes the mouth of the cruet with a white veil and removes it from the altar.
+         </Language>
+         <Language id="Arabic">
+            ثم يصب الخمر في الكأس ويصفِّى القارورة جيداً ويضيف إلى الخمر قليلاً من الماء نحو ثلثه أو ربعه، ولا يقلّ عن العُشر، ثم يمسح فم القارورة بلفافة بيضاء وينزلها من المذبح.
+         </Language>
+      </Comment>
+   </Role>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest then turns to his brethren the priests before turning to the west and making the sign of the cross over the people, saying:
+         </Language>
+         <Language id="Arabic">
+            ويلتفت الكاهن إلى إِخوته الكهنة، ثم إلى الغرب، ويرشم الشعب رشماً واحداً بمثال الصليب وهو يقول:
+         </Language>
+      </Comment>
+   </Role>
+   
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/OfferingOfTheLambPostThanksgivingPrayer"/>
+   <InsertDocument path="include/PrayerOfProthesis"/>   
+   
+   <Comment>
+      <Language id="English">         
+         Then the priest rises and kisses the altar, and proceeds to the north side of the altar, and the deacon who is serving prostrates before him, and the priest stretches forth his hand on the deacon and blesses him. Then both of them kiss the altar. Coming down from the altar, the priest and the rest of the deacons walk backward, their faces set to the East, and they put their left foot first. Then they prostrate themselves before the door of the sanctuary, and one of the priests who are present reads the Prayer of Absolution. If the Pope, a metropolitan, or a bishop is present, he reads this prayer. If only one priest is present, he reads it while standing behind the servants.
+      </Language>
+      <Language id="Arabic">         
+         ثم ينهض ويقبِّل المذبح ويتوجه إلى جانب المذبح البحري. فيضرب له الشماس الخديم مطانية، فيمد يده ويباركه. ويقبل كلٌّ منهما المذبح. وينزلان منه مع باقي الخدام وكلٌّ منهم وجهه إلى الشرقِ ويكون نزولهم برجلهم اليسرى ثم يسجدون أمام باب المذبح خاضعين. ويأتي أحد الكهنة الحاضرين ويقول التحليل. وإن كان الأب البابا أو المطران أو الأسقف حاضراً فهو الذي يقوله. وإن لم يتفق حضور كاهن آخر أو رئيس كهنة فيقف الكاهن الخديم خلف الخدام ووجهه إلى الشرق وظهره إلى الغرب ويقول:
+      </Language>
+   </Comment>      
+   
+   <Role id="Priest">
+      <InsertDocument path="include/AbsolutionOfTheServants"/>
+   </Role>
+</Document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstWeekOfKoiahk | ThirdWeekOfKoiahk">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere ne Maria...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the first and third weeks of the month of Koiahk:
+            </Language>
+         </Comment>
+   
+         <InsertDocument path="include/praxisResponse/saints/StMary.1"/>
+         <InsertDocument path="include/versesofthecymbals/saints/ArchangelGabriel"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

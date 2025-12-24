@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/"> 
+   <LinkDocument path="include/OfferingOfTheLambContent"/>
+   <LinkDocument path="include/LiturgyOfTheWordContent"/>
+   <LinkDocument path="liturgies/basil/LiturgyOfTheFaithfulContent"/>
+   <LinkDocument path="include/distribution/DistributionContent"/>
+</Document>

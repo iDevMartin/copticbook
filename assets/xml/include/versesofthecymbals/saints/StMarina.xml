@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMarina:VersesOfCymbals">      
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Marina:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere ]a~lou m~paryenoc : ]cemne m~pana~gia : ]selet n~kayaroc: ]a~gia m~m/i Marina.
+            </Language>
+            <Language id="English">
+               Hail to  the young virgin, the pure bride, the righteous Saint Marina.
+            </Language>
+            <Language id="Arabic">
+               السلام للفتاه العفيفه، الكليه القديسه العروس النقيه القديسه بالحقيقه مارينا.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

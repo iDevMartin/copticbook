@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" FuneralPrayer="true" FuneralBishops="true">
+   <Title>
+      <Language id="English">The Funeral for Patriarchs, Metropolitans, and Bishops</Language>
+      <Language id="Arabic">تجنيز البطاركة والمطارنة والأساقفة</Language>
+   </Title>
+   
+   <InsertDocument path="funeral/include/FuneralContent"/>
+</Document>

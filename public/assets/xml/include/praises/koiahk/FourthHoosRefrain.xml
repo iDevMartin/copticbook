@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Text type="Refrain">
+            <Language id="Coptic">
+               Efe~ranaf m~pennou] n~je piwou nem pic~mou. C~mou e~P[oic pennou] je nane ou'almoc.
+            </Language>
+            <Language id="English">
+               Unto our God is due glory and the Praise. Praise the Lord our God with a joyful psalm.
+            </Language>
+            <Language id="Arabic">
+               يليق لإلهنا المجد والتسبيح. سبحوا الرب الهنا بحسن المزمار.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

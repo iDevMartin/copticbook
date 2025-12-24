@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Watos Exposition For the Fourth Hoos</Language>
+            <Language id="Arabic">طرح واطس على الهوس الرابع</Language>
+         </Title>
+          
+         <Text>
+            <Language id="Coptic">
+               Pilogoc n~nou]: et qen kenf m~Pefiwt: a~ Maria macf: ecoi m~paryenoc.
+            </Language>
+            <Language id="English">
+               God the Logos who is in His Father’s bosom, Mary gave birth to Him and remained a Virgin.
+            </Language>
+            <Language id="Arabic">
+               الإله الكلمة الذي هو في حضن أبيه، ولدته مريم وبقيت عذراء.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               V/ethebcw hiwtou n~niv/oui~: Pireferhemi e~p~t/rf: aukoulolf qen hantwic.
+            </Language>
+            <Language id="English">
+               He who clothed the heavens, the Governor of all, was wrapped in swaddling cloths.
+            </Language>
+            <Language id="Arabic">
+               الذي ستر السموات، مدبر الكل لف بالخرق.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               God who sits upon the Cherubim, was placed in a manger of animals. He who sustains all through His goodness, turned his mouth and nursed milk while He is our King before all ages. Let us glorify Him for He has come and saved us. God, whom no one has seen, the only-begotten God who is in His Father’s bosom, came and took flesh from the Virgin without change; she gave birth to Him in Bethlehem. Therefore, the angels preached to us with great joy for all the world, saying, “A Savior was born to you this day in the city of David, who is Christ the Lord.” As for us, let us hurry with the star and be amazed with the shepherds. Let us worship with the Magi and praise with the angels, the heavenly praise, saying, “Glory to God in the highest, peace on earth and goodwill towards men.” He has come and saved us. Glory to Him forever and ever, amen.
+            </Language>
+            <Language id="Arabic">
+               الله الجالس على الشاروبيم أرقدوه في مذود البهائم. الذي يعول الكل بصلاحه، مد فاه ورضع اللبن وهو ملكنا قبل الدهر. فلنمجده لأنه أتى وخلصنا. الله الذي لم يره أحد قط، الإله الوحيد الجنس الذي في حضن أبيه، قد أتى وتجسد من العذراء بغير تغيير، ولدته في بيت لحم. من أجل هذا بشرنا الملائكة بفرح عظيم صار للمسكونة قائلين "قد وُلد لكم اليوم مخلص في مدينة داود هو هو المسيح الرب." أما نحن فلنسرع مع النجم ونتعجب مع الرعاة ونسجد مع المجوس ونسبح مع الملائكة تسبحة السماء ونقول: "المجد لله في الأعالي وعلى الأرض السلام وفي الناس المسرة" لأنه أتى وخلصنا. له المجد دائماً إلى الأبد. آمين.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Text>
+      <Language id="English">
+         <span class="Coptic">A~gioc a~gioc a~gioc.</span>         
+      </Language>
+      <Language id="Coptic">
+         A~gioc a~gioc a~gioc.
+      </Language>
+      <Language id="Arabic">
+         <span class="Coptic">A~gioc a~gioc a~gioc.</span>
+      </Language>
+   </Text>
+</Document>

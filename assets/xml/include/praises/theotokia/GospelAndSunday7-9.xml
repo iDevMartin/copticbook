@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>      
+            <Language id="English">Gospel</Language>
+            <Language id="Arabic">الانجيل</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Holy, Holy, Holy; a reading from the Gospel according to our teacher St. Luke [2:29-32] the Evangelist. May his blessings be with us all. Amen.
+            </Language>
+            <Language id="Arabic">
+               قدوس قدوس قدوس. فصل من الانجيل بحسب لوقا (2 :29-32) البشير. بركاته تكون معنا . آمين.
+            </Language>
+         </Text>
+         
+         <BibleReference reference="Luke 2:29-32"/>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/praises/theotokia/Sunday7"/>   
+   <InsertDocument path="include/praises/koiahk/SeventhExplanation"/>
+   
+   <Season id="KoiahkSeason ^ MidnightPraises">
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Part8"/>
+   </Season>
+   
+   <Group>
+      <InsertDocument path="include/praises/lent/PsaliWatosOnSundayTheotokia8"/>
+   </Group>
+   
+   <InsertDocument path="include/praises/theotokia/Sunday8"/>   
+   <InsertDocument path="include/praises/koiahk/OMary"/>
+   <InsertDocument path="include/praises/koiahk/DaughterOfDavid"/>   
+   <InsertDocument path="include/praises/theotokia/Sunday9"/>   
+   <InsertDocument path="include/praises/koiahk/RashiOMaria"/>
+</Document>

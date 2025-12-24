@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StJohnTheEvangelist:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. John the Evangelist: 
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/doxologies/conclusions/StJohnTheEvangelist"/>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PresentationInTemple">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Presentation of the Lord in the Temple:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="English">
+                     You were carried in the arms of Your servant Simeon /  In your grasp, are death and life / Simeon called “Let me depart according to Your Word / In peace”, he was released from the bonds of life. 
+                  </Language>
+                  <Language id="Arabic">
+                     حُملتَ على ذراعى سمعان عبدك:  والحياة والموت فى قبضة يدك:  ناداك سمعان (أطلقنى كوعدك : بسلام ) فأنحل من رباط الحياة.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V] afse e~qoun e~piervei.
+            </Language>
+            <Language id="English">
+               Alleluia (4) Jesus Christ, the Son of God, entered into the temple.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله دخل الى الهيكل.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

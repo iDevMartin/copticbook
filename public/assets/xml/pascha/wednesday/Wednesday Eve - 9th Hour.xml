@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekdays ^ Wednesdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Wednesday Eve (The Ninth Hour)</Language>
+         <Language id="Arabic">ليلة الأربعاء (الساعة التاسعة)</Language>
+         <Language id="Coptic">Pie~jwrh m~Pf~tou (}ajp 9)</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <InsertDocument path="include/KhenEfranAmen"/>
+         
+         <Text>
+            <Language id="English">
+               The prophecies of the Ninth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+            </Language>
+            <Language id="Arabic">
+               نبوآتٍ الساعة التاسعة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Hosea 9:14-10:2</Language>
+               <Language id="Arabic">هوشع 9: 14-10: 2</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/prophecyIntro/Hosea"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Moinwou P[oic oupe teknat/if nwou: moinwou n~hanio] nats/ri: nem hanm~no] eusouw~ou.
+               </Language>
+               <Language id="English">
+                  Give to them, O Lord! What will You give to them? A childless womb and dry breasts.
+               </Language>
+               <Language id="Arabic">
+                  أعطهم يارب. وماذا تعطيهم؟ أعطيهم آباء بلا بنين وأثداء يابسة,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Noukakia~ t/rou qen Galgala: je aimectwou qen pima etem~mau: eybe nikakia~ n~te nouh~b/oui~: ]nahitou e~bolqen pa/i: n~naouahtot e~menritou nouar,wn t/rou han atcwtem ne:
+               </Language>
+               <Language id="English">
+                  "All their evils are in Gilgal, for there I hated them. Because of their evil practices, I will cast them out of My house. I will not love them anymore. All their leaders are disobedient.
+               </Language>
+               <Language id="Arabic">
+                  لأن جميع شرورهم في الجلجال, لأن في ذلك المكان أبغضتهم من أجل سوء أعمالهم, سأطردهم من بيتي ولا أعود أحبهم, لأن جميع رؤسائهم متمردون.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Aferm~kah n~je Evrem: epefnouni afswoui~: n~nefouahtotf je e~en ou tah ebol: je ou/i ausan erpkemici ]naqwteb n~niepiyumia~ n~te touneji:
+               </Language>
+               <Language id="English">
+                  Ephraim underwent trouble; he is dried up at his roots; he shall bear fruit no more. Wherefore, even if they should beget children, I would kill the desired fruit of their womb."
+               </Language>
+               <Language id="Arabic">
+                  حزن أفرايم الذي أصله قد جف ولا يعود أن يأتٍي بثمرة. وإن ولدوا فإني اقتل شهوات بطونهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  F~na,au n~cwf n~je Vnou] je m~poucwtem n~cwf: ouoh eueswpi eucwrem qen nieynoc. Oubw n~a~loli e~nece neck~ladoc pe p~Icra/l: f~euyenin n~je pecoutah:
+               </Language>
+               <Language id="English">
+                  God shall reject them because they have not hearkened to Him. So they shall be wanderers among the nations. Israel is a luxuriant vine; her fruit is abundant.
+               </Language>
+               <Language id="Arabic">
+                  يرفضهم الله لأنهم لم يسمعوا له, فيكونون تائهين في الأمم. إن اسرائيل كرمة حسنة الأغصان وثمرتها شهية
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Kata p~a~sai n~te pefoutah afy~re hanmanerswousi a~sai: ouoh kata nia~gayon n~te pefkahi afkwt n~hanc~tul/: Auvwq n~nouh/t: ]nou cenatako: 
+               </Language>
+               <Language id="English">
+                  According to the multitude of her fruits she has multiplied her altars; according to the wealth of his land he has set up pillars. They have divided their hearts; now shall they be utterly destroyed. 
+               </Language>
+               <Language id="Arabic">
+                  وعلي حسب كثرة ثمره كثر المذابح وعلي حسب خصب أرضه بني الآنصاب, قد قسوا قلوبهم والآن سيهلكون, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nyof f~nasorser n~nou manerswousi cenaertalepwrin n~je nouc~tul/.
+               </Language>
+               <Language id="English">
+                  He shall raze their altars to the ground; their pillars shall experience distress.
+               </Language>
+               <Language id="Arabic">
+                  هو يحطم مذابحهم ويخرب انصابهم.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/ProphecyConclusion"/>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Paschal Praise</Language>
+            <Language id="Arabic">مقدمة تسبحة البصخة</Language>
+         </Title>
+      
+         <InsertDocument path="pascha/include/PropheciesConclusion"/>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The doxology of the Ninth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  تسبحة الساعة التاسعة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="include/LordsPrayerNoTitle"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/Doxology.2"/>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalm 22:20-21</Language>
+               <Language id="Arabic">مزمور 22: 20-21</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nohem n~ta'u,/ e~bol n~totc n~t~c/fi: nem tamets/ri m~mauatc e~bol n~totf n~ououhor. 
+               </Language>
+               <Language id="English">
+                  Deliver my soul from the sword and my Only-Begotten from the hand of the dog; 
+               </Language>
+               <Language id="Arabic">
+                  نج من السيف نفسي ومن الكلب بنوتى الوحيدة 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Nahmet e~bolqen rwf n~oumoui~: ouoh payebio~ e~bolha pitap n~te napitap n~ouwt: All/louia.
+               </Language>
+               <Language id="English">
+                  Save me from the lion's mouth, my humiliation from the horns of the unicorns. Alleluia.
+               </Language>
+               <Language id="Arabic">
+                  خلصني من فم الأسد وتواضعي من قرن ذى القرن الواحد. الليلويا.
+               </Language>
+            </Text>
+         </Section>
+      </Role>
+          
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Matthew 23:29-36</Language>
+            <Language id="Arabic">متى 23: 29-36</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroMatthew"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="Coptic">
+                  Ouoi nwten nicaq nem nivariceoc nisobi: je tetenkwt n~nim~hau nte nip~rov/t/c ouoh n~tetencolcel n~nib/b n~te niy~m/i: 
+               </Language>
+               <Language id="English">
+                  “Woe to you, scribes and Pharisees, hypocrites! Because you build the tombs of the prophets and adorn the monuments of the righteous, 
+               </Language>
+               <Language id="Arabic">
+                  الويل لكم ايها الكتبة والفريسيون المراؤون لانكم تبنون قبور الأنبياء وتزينون مدافن الصديقين 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh tetenjwm~moc je e~nan,/ pe qen nie~hoou n~te nenio] nan naswpi enoi n~s~v/r e~rwou an pe qen p~c~nof n~te nip~rov/t/c: 
+               </Language>
+               <Language id="English">
+                  And say, ‘If we had lived in the days of our fathers, we would not have been partakers with them in the blood of the prophets.’
+               </Language>
+               <Language id="Arabic">
+                  وتقولون : لو كنا فى ايام ابائنا لما كنا شاركناهم فى دم الآنبياء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hwcte tetenermeyre qarwten: je n~ywten nens/ri n~te n/e~tau qwteb n~nip~rov/t/c.
+               </Language>
+               <Language id="English">
+                  “Therefore you are witnesses against yourselves that you are sons of those who murdered the prophets.
+               </Language>
+               <Language id="Arabic">
+                  فانتم تشهدون إذاً على انفسكم انكم بنو قتلة الأنبياء
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh n~ywten hwten jek p~si n~netenio] e~bol: Nihof m~mici e~bolqen nia~jw: pwc tetennas~vwt ebolqen ]k~r/cic n~te ]geenna.
+               </Language>
+               <Language id="English">
+                  Fill up, then, the measure of your fathers’ guilt. Serpents, brood of vipers! How can you escape the condemnation of hell?
+               </Language>
+               <Language id="Arabic">
+                  فكملوا انتم مكاييل ابائكم ايها الحيات اولاد الافاعى. كيف تهربون من دينونة جهنم,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Eybe vai h/ppe a~nok ]naouwrp harwten n~han p~rov/t/c nem hancabeu n~caq ouoh e~reten e~qwteb e~bol n~q/tou ouoh e~retene~i~si ouoh eretene~ermactiggoin m~mwou qen netencunagwg/ ouoh e~retene~[ojincwou icjen baki e~baki. 
+               </Language>
+               <Language id="English">
+                  Therefore, indeed, I send you prophets, wise men, and scribes: some of them you will kill and crucify, and some of them you will scourge in your synagogues and persecute from city to city, 
+               </Language>
+               <Language id="Arabic">
+                  من اجل ذلك ها انا ارسل اليكم انبياء وحكماء وكتبة فمنهم من تقتلون وتصلبون ومنهم من تجلدون فى مجامعكم وتطرودنهم من مدينة الى مدينة 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Hopwc n~tefi~ e~jen y/nou n~je cnof niben n~y~m/i e~tavonf e~bol hijen pikahi: icjen p~c~nof nAbel piy~m/i sa p~c~nof n~Za,ariac p~s/ri m~Bara,iac: v/e~taretenqoybef oute piervei nem pimanerswousi:
+               </Language>
+               <Language id="English">
+                  That on you may come all the righteous bloodshed on the earth, from the blood of righteous Abel to the blood of Zechariah, son of Berechiah, whom you murdered between the temple and the altar.
+               </Language>
+               <Language id="Arabic">
+                  لكى يأتى عليكم كل دم بار سفك على الارض من دم هابيل الصديق الى دم زكريا بن برشيا الذى قتلتموه بين الهيكل المذبح.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Am/n ]jwm~moc nwten je e~re nai t/rou n/ou e~jen tai genea.
+               </Language>
+               <Language id="English">
+                  Assuredly, I say to you, all these things will come upon this generation.
+               </Language>
+               <Language id="Arabic">
+                  الحق اقول لكم ان هذه كلها ستأتى علي هذا الجيل.
+               </Language>
+            </Text>
+            
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/GospelConclusionEve"/>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Exposition</Language>
+            <Language id="Arabic">الطرح</Language>
+         </Title>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="English">
+                  The exposition of the Ninth Hour of the eve of Wednesday of Holy Pascha. May its blessings be with us. Amen.
+               </Language>
+               <Language id="Arabic">
+                  طرح الساعة التاسعة، من ليلة الأربعاء من البصخة المقدسة بركته علينا. آمين.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="English">
+                  Christ paints a sad picture of the conduct and the compartment of the Pharisees. 
+               </Language>
+               <Language id="Arabic">
+                  يا لهذه الأوصاف المحزنة التي قالها المسيح علي الفريسيين, 
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  He admonishes them in an unmistakable way for carrying on the same questionable traditions of their predecessors and even surpassed them.
+               </Language>
+               <Language id="Arabic">
+                  إذ يعطيهم الويل بغير محاباة, لأنهم تشبهوا بأبائهم وكملوا مكاييلهم.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Their predecessors slew the prophets and saints. Their successors built the tombs of these prophets. They were the snakes born of serpents.
+               </Language>
+               <Language id="Arabic">
+                  أولئك الذين قتلوا الأنبياء القديسين, وهؤلاء الآخرون بنوا مقابرهم, هؤلاء هم الحيات المولودون من الأفاعي
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  They will not escape their deeds. They will be charged with the blood of these saints; from the blood of Abel to the blood of Zachariah whom they slew between the sanctuary and the altar.
+               </Language>
+               <Language id="Arabic">
+                  الذين لم يهربوا من جهنم, فسينتقم منهم عن دم جميع الأبرار الذي سفك علي وجه الأرض , من دم هابيل إلي دم زكريا الذي قتلوه بين الهيكل والمذبح. كل هذه الضوائق
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  All these preceding tribulation will fall on this generation because they all had conspired to kill the Son of God.
+               </Language>
+               <Language id="Arabic">
+                  وهذه الشدائد تسبق وتأتي علي هذا الجيل لأنهم جميعهم تشاوروا مشورة واحدة علي إبن الله ليقتلوه,
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  That is why God scattered them all over the earth, their enemies dominated them their heritage was given to others and their dwellings became desolate.
+               </Language>
+               <Language id="Arabic">
+                  لذلك فرقهم الله في الأرض وأعداؤهم تسلطوا عليهم وميراثهم صار لقوم آخرين وصارت منازلهم خراباً.
+               </Language>
+            </Text>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/include/ExpositionConclusion"/>
+      <InsertDocument path="pascha/include/EveningLitaniesAndConclusionLink"/>
+   </ForceSeason>
+</Document>

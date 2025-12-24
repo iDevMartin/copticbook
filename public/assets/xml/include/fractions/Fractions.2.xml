@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/fractions/StMaryAndAngels"/>
+   <InsertDocument path="include/fractions/StJohnTheBaptist"/>
+</Document>

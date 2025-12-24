@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Conclusion of the Adam Psali</Language>         
+         <Language id="Arabic">ختاما للآبصالية فى أيام الآدام</Language>
+         <Language id="Coptic">Loipon ansanywou]...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Loipon ansanywou]: e~]p~roceu,/: marenc~mou e~piran: n~te Pao#c# I/#c#.
+         </Language>
+         <Language id="English">
+            And whenever we, gather for prayer, Let us bless the Name, Of my Lord Jesus.
+         </Language>
+         <Language id="Arabic">
+            وأيضاً إذا ما اجتمنا للصلاة فلنبارك اسم ربى يسوع.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je tennac~mou e~rok: w~ Pao#c# I/#c#: nahmen qen Pekran: je anerhelpic e~rok.
+         </Language>
+         <Language id="English">
+            We bless You, O my Lord Jesus. Deliver us through Your Name, For we have hope in You.
+         </Language>
+         <Language id="Arabic">
+            لأننا نباركك ياربى يسوع نجنا باسمك لأننا توكلنا عليك.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/EyrenhwcSeasonalResponseShort"/>
+      <InsertDocument path="include/DoxaPatri"/>      
+   </Section>
+</Document>

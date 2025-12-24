@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PreAscensionPentecostPeriod">
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">
+            <Comment>
+               <Language id="English">
+                  For the Entrance of the Holy Family into Egypt from the Resurrection of our Lord to the 39th day of the Pentecost Period:
+               </Language>
+            </Comment> 
+            
+            <Text>
+               <Language id="Coptic">
+                  P~ouro n~te p~w~ou aftwnf e~bol qen nieymwout qen pie~hoou m~mahsomt: afi~ e~qoun e~t,wra n~,/mi: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  The King of Glory, who rose from the dead, on the third day, entered into the land of Egypt.  Save us and have mercy on us. 
+               </Language>
+               <Language id="Arabic">
+                  ملك المجد الذي قام من بين الأموات في اليوم الثالث, دخل الي كورة مصر. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="PreAscensionPentecostPeriod">
+            <Comment>
+               <Language id="English">
+                  From the Resurrection of our Lord to the 39th day of the Pentecost Period:
+               </Language>
+            </Comment> 
+            
+            <Text>
+               <Language id="Coptic">
+                  Pouro n~te p~w~ou v/e~taftwnf e~bol qen n/eymwout qen pie~hoou m~mahsomt: Cw] m~mon ouoh nai nan.
+               </Language>
+               <Language id="English">
+                  The King of Glory who rose from the dead on the third day. Save us and have mercy on us. 
+               </Language>
+               <Language id="Arabic">
+                  ملك المجد الذي قام من بين الأموات في اليوم الثالث. خَلِّصْنا وارحَمْنا.
+               </Language>
+            </Text>
+         </Season>
+      </Group>   
+   </Season>
+</Document>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Vn/b P[oic I/couc Pi,rictoc  Pennou]: v/e~tafouwrp n~nefa~gioc ettai/out m~may/t/c ouoh n~a~poctoloc eyouab e~bol qen pikocmoc t/rf.
+         </Language>
+         <Language id="English">
+            O Master, Lord Jesus Christ our God, who sent His saintly, honored disciples and holy apostles into all the world
+         </Language>
+         <Language id="Arabic">
+            أيها السيدُ الربُّ يسوعُ المسيح إلَهُنا الذي أرسلَ تلاميذَه القديسين المكرمين، ورُسُلَه الأطهار في العالمِ كلِّه.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ehiwis m~pieuaggelion n~te tekmetouro: nem e~]c~bw n~nieynoc t/rou: e~qoun e~peke~mi m~m/i.
+         </Language>
+         <Language id="English">
+            that they may preach the Gospel of Your kingdom and teach all nations Your true knowledge.
+         </Language>
+         <Language id="Arabic">
+            ليكرزوا بإنجيلِ ملكوتِكَ ويُعَلِّموا كلَّ الأممِ معرفتَكَ الحقيقيةَ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ten]ho e~rok penn/b a~ouwn n~nimasj n~te nenh/t: e~p~jincwtem e~nekeuaggelion eyouab.
+         </Language>
+         <Language id="English">
+            We ask You, O our Master, open the ears of our hearts to hear Your Holy Gospels—
+         </Language>
+         <Language id="Arabic">
+            نسألك يا سيدَنا، افتح آذانَ قلوبِنا لسماعِ أناجيلك المقدسة.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proceuxacye u~per tou a~giou euaggeliou.
+         </Language>
+         <Language id="English">
+            Pray for the Holy Gospel.
+         </Language>
+         <Language id="Arabic">
+            صلوا من اجل الإنجيل المقدس.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Ouoh a~ouwn n~niecy/t/rion n~te nen'u,/: ouoh marenerp~emp~sa n~swpi oumonon n~refcwtem: alla n~refi~ri on n~nekouahcahni eyouab: kata p~]ma] m~Vnou] Pekiwt n~a~gayoc.
+         </Language>
+         <Language id="English">
+            and open the senses of our souls. And may we be worthy not only to be hearers but also to act according to Your holy commandments through the good will of God, Your good Father.
+         </Language>
+         <Language id="Arabic">
+            وافتح حواسَ نفوسِنا، ولنستحقَ أن نكونَ ليس فقط سامعينَ، بل عاملينَ أيضاً بأوامرِكَ المقدسةِ، كمسرةِ اللهِ أبيكَ الصالح.
+         </Language>
+      </Text>         
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Text>
+         <Language id="Coptic">
+            Vai etekc~marwout nemaf: nem Pip~neuma eyouab n~reftanqo ouoh n~omooucioc nemak: ]nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            Through whom You are blessed, with Him and the Holy Spirit, the Giver of Life, who is of one essence with You, now and at all times and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي أنتَ مباركٌ معه، مع الروحِ القدسِ المحيي المساوِي لكَ. الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+         </Language>
+      </Text>         
+   </Role>
+</Document>

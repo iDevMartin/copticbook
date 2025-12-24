@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Circumcision">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Circumcision:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy">
+               <Text>
+                  <Language id="English">
+                     O Who has accepted unto Him the circumcision / On the eighth day of Your birth, O Judge / Grant that we circumcise our hearts from transgression / Keeping the commandments and the laws.
+                  </Language>
+                  <Language id="Arabic">
+                     يا من قبل اليه الختان:  ثامن يوم ميلادك يا ديان:  إعطى أن نختن قلوبنا من العصيان:  محافظين على الوصايا والناموس.
+                  </Language>         
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V] afswp e~rof m~picebi.
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ, the Son of God, accepted unto Him the circumcision.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله قبل اليه الختان.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

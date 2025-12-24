@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+    <Role id="Deacon">       
+      <Group>
+         <Season id="FuneralTune">
+            <Comment>
+               <Language id="English">
+                  The Introduction to the Pauline Epistle is chanted in the Paschal tune (<span class="Coptic">Eybe ]a~nactacic</span>) in Coptic and then the Epistle is translated:
+               </Language>
+            </Comment>
+            
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+                  <Language id="Coptic">Eybe ]a~nactacic</Language>
+               </Title>
+               
+               <InsertDocument path="pascha/include/EthveTiAnastasisVerse"/>   
+               <InsertDocument path="include/PaulineEpistleIntroduction"/>
+               
+               <Comment>
+                  <Language id="English">
+                     The Pauline Epistle is chanted in Coptic.
+                  </Language>
+               </Comment>
+               
+               <InsertDocument path="include/PaulineEpistleConclusion"/>
+            </Section>
+         </Season>
+         
+         <Season id="Other">
+            <Group>
+               <Season id="Feasts">
+                  <Comment>
+                     <Language id="English">
+                        The Introduction to the Pauline Epistle is chanted in the festive tune in Coptic and then the Epistle is translated:
+                     </Language>
+                  </Comment>
+               </Season>
+                  
+               <Season id="Other">
+                  <Comment>
+                     <Language id="English">
+                        The Introduction to the Pauline Epistle is chanted in the standard tune in Coptic and then the Epistle is translated:
+                     </Language>
+                  </Comment>
+               </Season>
+            </Group>
+            
+            <Section expanded="true">
+               <Title>
+                  <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+                  <Language id="Coptic">Pauloc v~bwk...</Language>
+               </Title>
+            
+               <InsertDocument path="include/PaulineEpistleIntroduction"/>
+               
+               <Comment>
+                  <Language id="English">
+                     The Pauline Epistle is chanted in Coptic.
+                  </Language>
+               </Comment>
+
+               <InsertDocument path="include/PaulineEpistleConclusion"/>
+            </Section>
+         </Season>
+      </Group>
+         
+      <Group>
+         <Season id="FuneralMen">
+            <BibleReference reference="1 Corinthians 15:1-23" type="section"/>
+         </Season>   
+         
+         <Season id="FuneralWomen">
+            <BibleReference reference="1 Corinthians 15:39-50" type="section"/>
+         </Season>
+         
+         <Season id="FuneralWomenDelivery">
+            <BibleReference reference="Romans 5:1-16" type="section"/>
+         </Season>
+         
+         <Season id="FuneralBoys">
+            <BibleReference reference="1 Thessalonians 4:13-18" type="section"/>
+         </Season>
+         
+         <Season id="FuneralGirls">
+            <BibleReference reference="1 Corinthians 15:50-58" type="section"/>
+         </Season>
+         
+         <Season id="FuneralDeacons">
+            <BibleReference reference="1 Corinthians 15:23-38" type="section"/>
+         </Season>
+         
+         <Season id="FuneralPriests">
+            <BibleReference reference="2 Corinthians 4:10-5:1" type="section"/>
+         </Season>
+         
+         <Season id="FuneralBishops">
+            <BibleReference reference="Hebrews 13:7-21" type="section"/>
+         </Season>
+         
+         <Season id="FuneralMonks | FuneralMonkPriests">
+            <BibleReference reference="Romans 8:2-11" type="section"/>
+            <BibleReference reference="2 Corinthians 4:10-5:1" type="section"/>
+         </Season>
+         
+         <Season id="FuneralNuns">
+            <BibleReference reference="2 Corinthians 5:11-17" type="section"/>
+         </Season>
+         
+         <Season id="FuneralMemorial">
+            <BibleReference reference="Romans 5:6-17" type="section"/>
+         </Season>
+      </Group>      
+   </Role>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest makes the sign of the cross on the basin and the water vessel three times, while praying:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/BlessedBeTheLord"/>
+   </Role>
+</Document>

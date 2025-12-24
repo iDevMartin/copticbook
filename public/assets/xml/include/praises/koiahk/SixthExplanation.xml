@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="KoiahkSeason ^ MidnightPraises">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">The Sixth Explanation</Language>
+               <Language id="Arabic">التفسير السادس</Language>
+            </Title>
+             
+            <Text>
+               <Language id="English">
+                  You are Aaron's censer / Who carries the Amber / Its incense and aroma / Filled all the universe.
+               </Language>
+               <Language id="Arabic">
+                  ياشورية هرون / الحاملة جمر النار / وبخورها وعنبرها / ملأ كل الأقطار
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Your presence O Mary / Has saved us from hell's fire / The promise was fulfilled through you / As was prophesied.
+               </Language>
+               <Language id="Arabic">
+                  بوجودك يامريم / فزنا من حر النار / وبك تم الموعود / كما عنك تنبأون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are the censer / In it are the ointment and incense / You held the Son of God / Light of Light.
+               </Language>
+               <Language id="Arabic">
+                  أنت هى الشورية / فيها طيب وبخور / حملت إبن الله / إله نور من نور
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  He dwelt in your womb / For nine months / You gave birth to Him and He drank your milk / Like all humans.
+               </Language>
+               <Language id="Arabic">
+                  وحل فى بطنك / تسعة شهور / ولدتيه ورضع لبنك / كسائر المخلوقين
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are Aaron's censer / In it is the incense Amber / O daughter of David / O precious stone.
+               </Language>
+               <Language id="Arabic">
+                  ياشورية هارون / فيها بخور من عنبر / ياإبنة داود / ياحجر الجوهر
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You held the worshipped / And He appeared from you / He freed those in bondage / And trampled down Satan.
+               </Language>
+               <Language id="Arabic">
+                  حملت المعبود / وظهر منك أجهار / وفك كل وثاقات / وكثر فخ الاركون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You are the censer / The aroma of your incense spread / And filled all the earth / And through you we received joy,
+               </Language>
+               <Language id="Arabic">
+                  انت هى الشورية / بخور طيبك فاح / وملأ المسكونة / وبك نلنا الأفراح
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  We offer you praise / In the eve and in the morn / O pillar of faith / For the Orthodox people.
+               </Language>
+               <Language id="Arabic">
+                  نقرئك كل سلام / فى كل مساء وصباح / ياعمود دين / الأرثوذكســــــــــييـن
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Solomon spoke of you / In the Song of Songs / “My sister and my friend / The Lord favored her.
+               </Language>
+               <Language id="Arabic">
+                  سليمان قال عنك / فى نشيد الأنشاد / أختى وصديقتىواليك / الرب اراد
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Your sweet aroma spread / From the Amber and increased / He gave symbols of you / In many prophecies.
+               </Language>
+               <Language id="Arabic">
+                  روائح طيبك فاح / من عنبر وزاد / وقال عنك امثال / فى النبوات يشهدون
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Blessed are you, O Mary / O the mother of Jesus Christ / O pure sanctuary / And the shelter of the Holy.
+               </Language>
+               <Language id="Arabic">
+                  طوباك يامريم / أم ايسوس بى اخريستوس / ياهيكل طاهر / وحجاب للقدوس
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  Protect your Son's people / Deacons and presbyters / And all the lay people / And those gathered together.
+               </Language>
+               <Language id="Arabic">
+                  احفظى شعب ابنك / شمامسة وقسوس / وجميع من فى البيعة / الشعب المجتمعون
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="English">
+                  Hail to you O Mary / O sanctuary for protection / Your Light dawned upon us / And filled all the earth.
+               </Language>
+               <Language id="Arabic">
+                  السلام لك يامريم / ياهيكل منصان / نورك أشرق فينا / وملأ كل الأكوان
+               </Language>
+            </Text>
+             
+            <Text>
+               <Language id="English">
+                  You held the Creator / The Son of God, the Judge / You gave birth to His Humanity / With the united Divinity.
+               </Language>
+               <Language id="Arabic">
+                  وحملت الخالق / ابن الله الديان / وولدتيه انسان / باللاهوت متحدون
+               </Language>
+            </Text>
+         </Section>
+         
+         <InsertDocument path="include/praises/koiahk/ExplanationRefrain"/>
+      </Season>
+   </Group>
+</Document>

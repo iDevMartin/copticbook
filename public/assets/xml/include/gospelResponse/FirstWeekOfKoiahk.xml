@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstWeekOfKoiahk">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">APo#c# ouwrp...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the first week of the month of Koiahk
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="DisplayNonCustomaryPrayers">
+               <Comment>
+                  <Language id="English">
+                     Please note that the following response is not customary and is taken from newly discovered manuscripts as published in the "<span class="Arabic">ترتيب البيعة</span>":
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     APo#c# ouwrp n~Gabri/l: e~hiwis n~Za,ariac: m~p~jinmici n~te Iwann/c: afw~li m~p~sws n~E~licabet.
+                  </Language>
+                  <Language id="English">
+                     The Lord sent Gabriel, to preach to Zachariah, of the birth of John, He lifted the reproach of Elizabeth.
+                  </Language>
+                  <Language id="Arabic">
+                     الرب ارسل غبريال، ليبشر زكريا، بميلاد يوحنا ، لينزع عار اليصابات.  
+                  </Language>
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     K~[oci e~nipatriar,/c: k~tai/out e~nip~rov/t/c: je m~peouon twnf qen nijinmici: n~te nihio~mi efo~ni m~mok.
+                  </Language>
+                  <Language id="English">
+                     You are more exalted than the Patriarchs, and more honored than the Prophets, for no one has risen among those born of women, who is like you.
+                  </Language>
+                  <Language id="Arabic">
+                     أنت مرتفع أكثر من رؤساء الآباء،  ومكرم أكثر من الأنبياء ،  لأنه لم يقم في مواليد النساء ،  من يشبهك.  
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               Ten] ne m~pi,eretic~moc nem Gabri/l piaggeloc: je ,ere ke ,aritwmen/: o~ kurioc metacou.
+            </Language>
+            <Language id="English">
+               We send you greetings, with Gabriel the angel, “Hail, O full of grace, the Lord is with you.”
+            </Language>
+            <Language id="Arabic">
+               نعطيك السلام مع غبريال الملاك قائلين : السلام لك يا ممتلئة نعمة الرب معك.  
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/EthveFai"/>               
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

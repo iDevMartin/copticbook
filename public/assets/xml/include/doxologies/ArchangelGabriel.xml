@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Group>
+      <Season id="KoiahkSeason">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Koiahk Doxology for Archangel Gabriel</Language>
+               <Language id="Arabic">ذوكصولوجية لرئيس الملائكة غبريال</Language>
+               <Language id="Coptic">Nyok ounis] a~l/ywc...</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  For the month of Koiahk:
+               </Language>         
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Nyok ounis] a~l/ywc: w~ pifaisennoufi n~kalwc: qen nitaxic n~aggelikon: nem nitagma n~e~pouranion.
+               </Language>
+               <Language id="English">
+                  O herald of beautiful glad tidings, / you are truly great / among the angelic ranks / and the heavenly orders. 
+               </Language>
+               <Language id="Arabic">
+                  أنت عظيم حقاً ايها المبشر الحسن في الطقوس الملائكية والطغمات السمائية.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Gabri/l pifaisenoufi: pinis] qen niaggeloc: nem nitagma eyouab et[oci: etfai qa t~c/fi n~sah n~,~rwm.
+               </Language>
+               <Language id="English">
+                  O Gabriel, the herald of the glad tidings, /  the great among the angels / and the exalted holy orders, /  who carry fiery flaming  swords.  
+               </Language>
+               <Language id="Arabic">
+                  يا غبريال المبشر العظيم في الملائكة والطغمات المقدسة العلوية حامل السيف الملتهب ناراً .
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afnau gar e~pektaio~: n~je Dani/l pip~rov/t/c: ouoh aktamof e~pimuct/rion: n~}t~riac n~reftanqo.
+               </Language>
+               <Language id="English">
+                  For Daniel the prophet / beheld your honor, / and you revealed to him the mystery / of the Life-Giving Trinity.   
+               </Language>
+               <Language id="Arabic">
+                  قد نظر كرامتك دانيال النبي واعلمته سر الثالوث المحيي.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Ouoh Za,ariac piou/b: n~yok akhisennoufi naf: qen p~jinmici m~pip~rodromoc: Iwann/c piref]wmc.
+               </Language>
+               <Language id="English">
+                  To Zacharias the priest, / you announced the glad tidings / of the birth of the forerunner, / John the Baptizer.  
+               </Language>
+               <Language id="Arabic">
+                  وزكريا الكاهن أنتَ بشرته بميلاد السابق يوحنا المعمدان.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Akhisennoufi on n~]paryenoc: je ,ere y/eymeh n~h~mot: Po#c# neme teramici: m~Pcwt/r m~pikocmoc t/rf.
+               </Language>
+               <Language id="English">
+                  Likewise, you  announced / glad tidings to the Virgin, /  “Hail, O full of grace,  the Lord is with you. / You shall bring forth the Savior of the whole world.”  
+               </Language>
+               <Language id="Arabic">
+                  وبشرت أيضاً العذراء قائلا السلام لك يا ممتلئة نعمة  الرب معكِ  ستلدين مخلص العالم كله.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Arip~recbeuin e~h~r/i ejwn: w~ piar,/ aggeloc eyouab: Gabri/l pifaisen-novfi: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Intercede on our behalf, / O holy archangel, / Gabriel, the herald of glad tidings, / that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  اشفع فينا يا رئيس الملائكة الطاهر غبريال المبشر ليغفر لنا خطايانا.
+               </Language>
+            </Text>         
+         </Section>
+      </Season>
+         
+      <Season id="ArchangelGabriel:Doxology">
+         <Section expanded="true" antiphonePitch="1">
+            <Title>
+               <Language id="English">Doxology for Archangel Gabriel</Language>
+               <Language id="Arabic">ذوكصولوجية لرئيس الملائكة غبريال</Language>
+               <Language id="Coptic">Gabri/l piaggeloc...</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">
+                  For the Commemoration of Archangel Gabriel:
+               </Language>         
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Gabri/l piaggeloc: afnau e~rof n~je Dani/l: efohi~ e~ratf hijen nefvat: hijen nenc~votou m~v~iaro.
+               </Language>
+               <Language id="English">
+                  Gabriel the angel: was seen by Daniel: standing on his feet: on the shore of the river.
+               </Language>
+               <Language id="Arabic">
+                  غبريال الملاك رآه دانيال واقفا على قدميه على شاطىء النهر.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Afcouten tefjij e~bol: n~oui~nam sa e~h~r/i e~t~ve: e~tafwrk m~v/et[oci: v/etsop sa e~neh.
+               </Language>
+               <Language id="English">
+                  He stretched out, his right hand to heaven, and he swore to the High One, who endures forever.
+               </Language>
+               <Language id="Arabic">
+                  ومد يده اليمنى إلى السماء وحلف بالعلى الدائم إلى الأبد.
+               </Language>
+            </Text>
+         
+            <Text>
+               <Language id="Coptic">
+                  Je icjen ouc/ou sa ouc/ou: sa t~kevasi n~te ouc/ou: sa p~jwk e~bol n~te nihoracic: anok ]natamok e~rwou.
+               </Language>
+               <Language id="English">
+                  Saying “From a time, and times to half a time, until the completion of the visions, I will show to you.”
+               </Language>
+               <Language id="Arabic">
+                  قائلا من زمان الى زمان والى نصف زمان الى تمام الرؤيا أنا أخبرك بها.
+               </Language>
+            </Text>
+         
+            <InsertDocument path="include/doxologies/conclusions/ArchangelGabriel"/>
+         </Section>
+      </Season>
+   </Group>
+</Document>

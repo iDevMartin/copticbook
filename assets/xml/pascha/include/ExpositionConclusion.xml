@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Exposition Conclusion</Language>
+         <Language id="Arabic">ختام الطرح</Language>
+      </Title>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Pi,~rictoc Pencwt/r:
+            </Language>
+            <Language id="English">
+               Christ our Savior
+            </Language>
+            <Language id="Arabic">
+               المسيح مخلصنا،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               afi~ afsepm~kah:
+            </Language>
+            <Language id="English">
+               Has come and has borne suffering
+            </Language>
+            <Language id="Arabic">
+               جاء وتألم عنا،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               hina qen nefm~kauh:
+            </Language>
+            <Language id="English">
+               That through His Passion
+            </Language>
+            <Language id="Arabic">
+               لكى بألامه،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               n~tefcw] m~mon.
+            </Language>
+            <Language id="English">
+               He may save us.
+            </Language>
+            <Language id="Arabic">
+               يخلصنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Maren ]w~ounaf:
+            </Language>
+            <Language id="English">
+               Let us glorify Him
+            </Language>
+            <Language id="Arabic">
+               فلنمجده،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               ten[ici m~pefran:
+            </Language>
+            <Language id="English">
+               And exalt His name
+            </Language>
+            <Language id="Arabic">
+               و نرفع إسمه،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               je aferounai neman:
+            </Language>
+            <Language id="English">
+               For He has done us mercy
+            </Language>
+            <Language id="Arabic">
+               لأنه صنع معنا رحمة،
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="People">
+         <Text>
+            <Language id="Coptic">
+               kata pefnis] n~nai.
+            </Language>
+            <Language id="English">
+               According to His great mercy.
+            </Language>
+            <Language id="Arabic">
+               كعظيم رحمته.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+</Document>

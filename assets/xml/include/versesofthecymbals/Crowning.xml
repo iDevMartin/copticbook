@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Crowning">
+         <Comment>
+            <Language id="English">         
+               For the Crowning Ceremony:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/HailToTheBridalChamber"/>
+      </Season>
+   </Group>
+</Document>

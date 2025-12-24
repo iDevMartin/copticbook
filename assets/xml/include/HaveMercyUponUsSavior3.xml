@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Ele/~con /~mac o~ Yeoc o~ cwt/r /~mwn.
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God, our Savior. 
+         </Language>
+         <Language id="Arabic">
+            ارحَمْنا يا اللهُ مخلِّصَنا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ele/~con /~mac o~ Yeoc o~ cwt/r /~mwn.
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God, our Savior. 
+         </Language>
+         <Language id="Arabic">
+            ارحَمْنا يا اللهُ مخلِّصَنا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ele/~con /~mac o~ Yeoc o~ cwt/r /~mwn.
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God, our Savior. 
+         </Language>
+         <Language id="Arabic">
+            ارحَمْنا يا اللهُ مخلِّصَنا.
+         </Language>
+      </Text>        
+   </Role>
+</Document>

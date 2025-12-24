@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StRoweis:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Roweis (Teji):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt e#y#u# n~dikeoc: pinis] qen niack/t/c: abba Teji Yeouvanioc: pimenrit n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to our righteous holy father, the great among the ascetics, Abba Teji (Roweis) the Beholder of God, the Beloved of Christ. 
+            </Language>
+            <Language id="Arabic">
+               السلام لأبينا القديس البار: العظيم بين النساك: أنبا فريج ناظر الاله: حبيب المسيح. 
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

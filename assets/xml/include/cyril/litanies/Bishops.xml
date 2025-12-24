@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <InsertDocument path="include/cyril/litanies/BishopsPresentContents"/>
+   </Section>
+   
+   <Section>
+      <Title>
+         <Language id="English">Litany of the Bishops in the Absence of a Bishop</Language>
+         <Language id="Arabic">أوشية الأساقفة</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            In the absence of a metropolitan or bishop.
+         </Language>         
+         <Language id="Arabic">
+            في عدم وجود الأب المطران أو الأسقف.
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~nikee~pickopoc n~oryodoxoc etqen mai niben.
+            </Language>
+            <Language id="English">
+               Remember, O Lord, the other orthodox bishops in all places—
+            </Language>         
+            <Language id="Arabic">
+               أذكر ياربُّ سائِرَ الأساقفةِ الأرثوذكسيينَ الذينَ في كلِّ موضعٍ.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Deacon">
+         <Text>
+            <Language id="Coptic">
+               Twbh e~jen nenio] n~e~pickopoc n~oryodoxoc etqen mai niben n~te ]oikoumen/ t/rc: nem nih/goumenoc nem nip~recbuteroc nem nidiakwn: nem p~tagma t/rf n~te ]ekk~l/cia~: hina n~te Pi,rictoc Pennou] a~reh e~rwou e~bolha pethwou niben: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray for our fathers the orthodox bishops in every place of the whole world, and the hegumens, the priests, the deacons, and every order of the Church, that Christ our God may keep them from every evil, and forgive us our sins.
+            </Language>         
+            <Language id="Arabic">
+               اطلبوا عن آبائِنا الأساقفةِ الأرثوذكسيينَ الذينَ في كلِّ مواضعِ المسكونَةِ، والقمامصةِ، والقسوسِ، والشمامسةِ، وكلِّ طغماتِ الكنيسةِ، لكي يحفظَهُم المسيحُ إلَهُنا من كلِّ شرٍ، ويغفرَ لنا خطايانا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      <InsertDocument path="include/cyril/litanies/BishopsAbsentConclusion"/>
+      <InsertDocument path="include/LordHaveMercy"/>   
+   </Section>
+</Document>

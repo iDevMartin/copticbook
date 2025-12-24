@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Circumcision">
+      <Comment>
+         <Language id="English">
+            For the Feast of the Circumcision:
+         </Language>            
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Qen pimah 8 (s~m/n) n~e~hoou: n~te pefjinmici m~paradoxon: afswp e~rof m~picebi: kata petc~se m~pinomoc.
+         </Language>
+         <Language id="English">
+            On the eighth day: of His wonderful birth: He accepted to Himself the circumcision: according to the manner of the Law.
+         </Language>
+         <Language id="Arabic">
+            فى اليوم الثامن لميلاده العجيب قبل اليه الختان كعادة الناموس.
+         </Language>
+      </Text>
+   </Season>
+</Document>

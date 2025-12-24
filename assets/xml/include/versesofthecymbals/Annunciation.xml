@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Annunciation">         
+      <Comment>
+         <Language id="English">
+            For the Feast of the Annunciation:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            &lt;ere Gabri/l: pinis] n~ar,/aggeloc: ,ere v/etafhisennoufi: m~Maria ]paryenoc.
+         </Language>
+         <Language id="English">
+            Hail to Gabriel, the great archangel, hail to him who announced, to Mary the Virgin.
+         </Language>
+         <Language id="Arabic">
+            السلام لغبريال رئيس الملائكة العظيم السلام للذى بشر مريم العذراء.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/versesofthecymbals/Annunciation.2"/>
+   
+      <Text>
+         <Language id="Coptic">
+            Afrek niv/oui~ n~te niv/oui~: afi~ e~y~m/tra n~]paryenoc: aferrwmi m~penr/]: saten v~nobi m~mauatf.
+         </Language>
+         <Language id="English">
+            He bowed the heaven of heavens: He came to the womb of the Virgin: He became man like us: except only for sin.
+         </Language>
+         <Language id="Arabic">
+            طأطأ سماء السموات وجاء إلى بطن العذراء وصار إنساناً مثلنا ما خلا الخطية وحدها.
+         </Language>
+      </Text>  
+   </Season>
+</Document>

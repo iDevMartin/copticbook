@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <Section expanded="true" antiphonePitch="1">         
+         <Title>
+            <Language id="English">Doxology for Joyous Saturday</Language>
+            <Language id="Arabic">ذوكصولوجية سبت الفرح</Language>
+            <Language id="Coptic">V/e~tafsans m~Pic~ra/l...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Joyous Saturday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafsans m~Pic~ra/l: n~h~me n~rompi hi p~safe: af] m~pimanna nwou e~ouomf: p~wik n~te niaggeloc.
+            </Language>
+            <Language id="English">
+               He who took care of Israel, forty years in the desert, gave them the manna to eat, the bread of the angels.
+            </Language>
+            <Language id="Arabic">
+               الذي عالّ إسرائيل أربعين سنة في البرية وأعطاهم المنّ خبز الملائكة ليأكلوا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nt~sebiw gar m~pimanna: au] n~ouhemj efensasi naf: n~t~sebiw~ n~niagayon: au] ,~lom n~couri e~jwf.
+            </Language>
+            <Language id="English">
+               In place of the manna, they gave Him bitter vinegar, in place of the goodness, they placed a crown of thorns on Him.
+            </Language>
+            <Language id="Arabic">
+               عوض المنّ أعطوه خلا مراً وبدل الخيرات جعلوا إكليل شوك على رأسه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aukocf au,af qen pim~hau: v/et,/ cabol n~]baki: e~taujoc qen toumetath/t: je vai f~nas~twnf an je.
+            </Language>
+            <Language id="English">
+               They wrapped and placed Him in the tomb, which was outside the city, in their ignorance they said, it is impossible for Him to rise.
+            </Language>
+            <Language id="Arabic">
+               كُفن ووضع فى القبر الكائن خارج المدينة وقالوا بجهلهم أن هذا لا يستطيع أن يقوم بعد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Swrp m~v~ouai n~te nicabbaton: a~P,#c# twnf e~bolqen n/eymwout: aftacyo n~nefjaji e~vahou: af] nwou n~ous~vit n~e~neh.
+            </Language>
+            <Language id="English">
+               Early on one of the Sabbath days, Christ arose from the dead, He placed His enemies behind Him, He put them in eternal shame.
+            </Language>
+            <Language id="Arabic">
+               باكر أحد السبوت قام المسيح من بين الأموات ورد اعداءه إلى خلف وأعطاهم عاراً أبدياً.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai tener,wreuin: nem pihumnodoc Dauid: je aftwnf n~je V]: m~v~r/] m~v/e~tenkot.
+            </Language>
+            <Language id="English">
+               Therefore we praise, with David the Psalmist, saying "God has risen, like one who sleeps."
+            </Language>
+            <Language id="Arabic">
+               من أجل هذا نمدح مع المرتل داود قائلين قد قام الله مثل النائم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia: All/louia. I/#c# P,#c# p~ouro n~te p~wou: aftwnf e~bol qen n/eymwout.
+            </Language>
+            <Language id="English">
+               Alleluia Alleluia, Alleluia Alleluia, Jesus Christ the King of glory, has risen from the dead.
+            </Language>
+            <Language id="Arabic">
+               الليلوا الليلويا الليلويا الليلويا يسوع المسيح ملك المجد قام من بين الأموات.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Conclusion of the Adam Theotokia</Language>
+         <Language id="Arabic">ختام الثاؤطوكيات الآدام</Language>
+         <Language id="Coptic">Neknai  w~ Panou]...</Language>
+      </Title>
+      
+      <Group>
+         <Season id="HosannaSunday ^ !MorningPraises">
+            <Comment>
+               <Language id="English">
+                  The Conclusion of the Theotokia is chanted in the Hosanna tune:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/praises/ConclusionAdamTheotokia.1"/>
+   
+      <Text>
+         <Language id="Coptic">
+            Niteltil/ m~mounhwou: ce/~p n~totk t/rou: pikesw n~te v~iom: ce,/ nahren nekbal.
+         </Language>
+         <Language id="English">
+            All the raindrops: Are counted by You: And the sand of the Sea: Is before Your eyes. 
+         </Language>
+         <Language id="Arabic">
+            قطرات المطر محصاة عندك جميعها ورمل البحر كائن أمام عينيك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ie au/r mallon: ninobi n~te ta'u,/: nai ey~o~uwnh e~bol: m~pekmyo~ Pa[oic.
+         </Language>
+         <Language id="English">
+            How much more are: The sins of my soul: Manifest before You: O my Lord. 
+         </Language>
+         <Language id="Arabic">
+            فكم بالحرى خطايا نفسى هذه الظاهرة أمامك ياربى.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Ninobi etaiatou: Pao#c# n~nekerpoumeui~: oude m~per]h~y~/k: e~naa~nomia~.
+         </Language>
+         <Language id="English">
+            The sins that I have committed: Do not Remember my Lord: and do not count: my iniquities. 
+         </Language>
+         <Language id="Arabic">
+            الخطايا التى صنعتها ياربى لا تذكرها ولا تحسب آثامى.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je pitelwn/c akcotpf: ]porn/akcw] m~moc: piconi etcaoui~nam: Pao#c# akerpefmeui~.
+         </Language>
+         <Language id="English">
+            For You have chosen the publican: and the adulteress You have saved: And the right hand thief: My Lord You have remembered.
+         </Language>
+         <Language id="Arabic">
+            فان العشار اخترته والزانية خلصتها واللص اليمين ياسيدى ذكرته.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            A~nok hw Pao#c#: qa pirefernobi: mat~caboi n~tai~ri: n~oumeta~naoia~.
+         </Language>
+         <Language id="English">
+            And I too: the sinner: teach me O my Lord: to offer repentance.
+         </Language>
+         <Language id="Arabic">
+            وأنا أيضاً الخاطئ ياسيدى علمنى أن أصنع توبة.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je ,~ouws m~v~mou an: m~pirefernobi m~v~r/] n~teftacyof: n~tecwnq n~je tef'u,/.
+         </Language>
+         <Language id="English">
+            For You do not desire: the death of a sinner: but rather that he returns: and that his soul may live.
+         </Language>
+         <Language id="Arabic">
+            لأنك لا تشأ موت الخاطئ مثل أن يرجع وتحيا نفسه.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Matacyon V]: e~qoun e~pekoujai: a~rioui~ neman: kata  tekmeta~gayoc.
+         </Language>
+         <Language id="English">
+            Restore us O God: To Your salvation: and deal with us: According to Your goodness.
+         </Language>
+         <Language id="Arabic">
+            رُدنا ياالله إلى خلاصك وعاملنا كصلاحك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je n~yok oua~gayoc: ouoh n~na/~t: maroutahon n~,wlem: n~je nekmetsenh/t.
+         </Language>
+         <Language id="English">
+            For You are good: and merciful: Let Your compassions : speedily come to us.
+         </Language>
+         <Language id="Arabic">
+            لأنك أنت صالح ورحوم فلتدركنا رأفاتك سريعاً.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Senh/t qaroun t/ren: Po#c# V] Pencwt/r: ouoh nai nan: kata peknis] n~nai. \
+         </Language>
+         <Language id="English">
+            Have compassion upon us all: O Lord God our Savior: And have mercy upon us: According to Your great mercy.
+         </Language>
+         <Language id="Arabic">
+            ترأف علينا كلنا أيها الرب الإله مخلصنا وارحمنا كعظيم رحمتك.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Nai k~i~ri m~poumeui~: w~ penn/b P,#c#: eke~swpi qen tenm/]: ekws e~bol ekjw m~moc.
+         </Language>
+         <Language id="English">
+            Remember those: O Christ our Master: Be among us: And proclaim and say.
+         </Language>
+         <Language id="Arabic">
+            هؤلاء أذكرهم ياسيدنا المسيح كن فى وسطنا صارخاً قائلا.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Je tahir/n/ a~nok: ]] m~moc nwten: t~hir/n/ m~Paiwt: ],w m~moc nemwten.
+         </Language>
+         <Language id="English">
+            My peace I: Give to You: The peace of my Father: I Leave with you. 
+         </Language>
+         <Language id="Arabic">
+            سلامى أنا أعطيكم سلام أبى أتركه معكم.
+         </Language>
+      </Text>
+      
+      <Group>
+         <Season id="Resurrection ^ Matins">
+            <Comment>
+               <Language id="English">
+                  The hymn is concluded with the hymn of joy, <span class="Coptic">P~ouro</span>, in its festive tune:
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/Pouro"/>
+   </Section>
+</Document>

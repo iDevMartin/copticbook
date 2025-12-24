@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Section expanded="true">
+      <Title>
+         <Language id="Coptic">Vnou] nai nan</Language>
+      </Title>
+      
+      <Group>
+         <Season id="ChurchConsecration">
+            <Comment>
+               <Language id="English">
+                  The bishop takes from the deacon the cross, upon which are three candles, and signs the congregation, saying:
+               </Language>
+               <Language id="Arabic">
+                  يأخذ الأسقف الصليب من الشماس وعليه ثلاث شمعات ويرشم الشعب ويقول:
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="ReceptionNewPriest">
+            <Comment>
+               <Language id="English">
+                  The new priest then prays <span class="Coptic">V] nai nan</span> (God have mercy…) in the great tune after which the deacons chant <span class="Coptic">Kurie e~le/~con</span> (Lord have mercy) in the great tune.
+               </Language>
+               <Language id="Arabic">
+                  يصلي الكاهن الجديد <span class="Coptic">V] nai nan</span> باللحن الكبير ويرتل الشمامسة كيرياليسون باللحن الكبير ثم:
+               </Language>
+            </Comment>   
+         </Season>
+         
+         <Season id="Other">
+            <Comment>
+               <Language id="English">
+                  The priest takes from the deacon the cross, upon which are three candles, and signs the congregation, saying:
+               </Language>
+               <Language id="Arabic">
+                  يأخذ الكاهن الصليب من الشماس وعليه ثلاث شمعات ويرشم الشعب ويقول:
+               </Language>
+            </Comment>   
+         </Season>
+      </Group>
+               
+      <Group>
+         <Season id="ChurchConsecration">             
+            <Role id="Bishop">
+               <InsertDocument path="include/EvnotiNaiNan.1"/>         
+            </Role>
+         </Season>
+         
+         <Season id="Other">             
+            <Role id="Priest">
+               <InsertDocument path="include/EvnotiNaiNan.1"/>         
+            </Role>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/AmenPeople"/>
+         
+      <Group>
+         <Season id="ChurchConsecration">             
+            <Role id="Bishop">
+               <InsertDocument path="include/EvnotiNaiNan.2"/>         
+            </Role>
+         </Season>
+         
+         <Season id="Other">             
+            <Role id="Priest">
+               <InsertDocument path="include/EvnotiNaiNan.2"/>         
+            </Role>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Group>
+         <Season id="ChurchConsecration">             
+            <Role id="Bishop">
+               <InsertDocument path="include/EvnotiNaiNan.3"/>         
+            </Role>
+         </Season>
+         
+         <Season id="Other">             
+            <Role id="Priest">
+               <InsertDocument path="include/EvnotiNaiNan.3"/>         
+            </Role>
+         </Season>
+      </Group>
+      
+      <InsertDocument path="include/AmenPeople"/>
+      
+      <Group>
+         <Season id="ChurchConsecration">             
+            <Role id="Bishop">
+               <InsertDocument path="include/EvnotiNaiNan.4"/>         
+            </Role>
+         </Season>
+         
+         <Season id="Other">             
+            <Role id="Priest">
+               <InsertDocument path="include/EvnotiNaiNan.4"/>         
+            </Role>
+         </Season>
+      </Group>
+      
+      <Group>
+         <Season id="ChurchConsecration | LiturgyOfTheWaters | Baptistery">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted ten times in the melismatic tune:
+               </Language>
+               <Language id="Arabic">
+                  وكيرياليصون عشرة دفوع بالكبير (باللحن)
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy10"/>
+         </Season>
+         
+         <Season id="Pentecost ^ Vespers">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted three times in the standard tune:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy3"/>
+         </Season>
+         
+         <Season id="Feasts | ReceptionNewPriest">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted three times in the great tune:
+               </Language>               
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy3"/>
+         </Season>
+         
+         <Season id="JoyousSaturday">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted three times in the great tune while the deacons proceed around the sanctuary three times, and around the church three times, and once around the sanctuary:
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy3"/>
+         </Season>
+      
+         <Season id="FeastOfTheCross ^ Matins">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted three times in the great tune while going around the altar three times, carrying crosses adorned with flowers and palm branches.
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy3"/>            
+         </Season>
+         
+         <Season id="JonahFast | (GreatFast ^ Weekdays)">
+            <Comment>
+               <Language id="English"> 
+                  <span class="Coptic">Kurie Ele/~con</span> is chanted three times in the quick tune.
+               </Language>
+            </Comment>
+            
+            <InsertDocument path="include/AmenLordHaveMercy3"/>
+         </Season>
+         
+         <Season id="Other">
+            <InsertDocument path="include/AmenLordHaveMercy3"/>
+         </Season>      
+      </Group>
+   </Section>
+   
+   <Group>
+      <Season id="(FeastOfTheCross ^ Matins) | JoyousSaturday | Feasts | ReceptionNewPriest | ChurchConsecration | LiturgyOfTheWaters | Baptistery">
+         <Comment>
+            <Language id="English">
+               The priest prays "Healing to the Sick" silently as <span class="Coptic">Kurie Ele/~con</span> is chanted in the great tune.
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/HealingToTheSickSilent"/>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Praxis</Language>
+      <Language id="Arabic">الابركسيس</Language>
+   </Title>
+   
+   <Group>
+      <Season id="CovenantThursday ^ Matins">
+         <Section expanded="true">           
+            <Title>
+               <Language id="English">Introduction to the Coptic Praxis</Language>
+               <Language id="Coptic">Praxewn twn...</Language>
+            </Title>         
+            
+            <Text>
+               <Language id="Coptic">
+                  Praxewn twn a~giwn n~a~poctolwn toa~nagnwc~ma: Praxic: p~raxic n~te nenio] n~a~poctoloc e~re pouc~mou eyouab: swpi neman am/n.
+               </Language>
+               <Language id="English">
+                  The acts of our holy fathers, the apostles, may their holy blessings be with us. Amen
+               </Language>
+               <Language id="Arabic">
+                  الفصل من أعمال الرسل القديسين. قصص آبائنا الرسل بركتهم المقدسة تكون معنا آمين. 
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English"> 
+                  The Praxis is chanted in Coptic in the Paschal tune, and then translated:
+               </Language>
+            </Comment>
+         </Section>
+      </Season> 
+      
+      <Season id="Other">
+         <Section>           
+            <Title>
+               <Language id="English">Introduction to the Coptic Praxis</Language>
+               <Language id="Coptic">Praxic...</Language>
+            </Title>         
+            
+            <Comment>
+               <Language id="English">         
+                  If the Acts is read in Coptic, the following introduction is chanted.
+               </Language>
+               <Language id="Arabic">         
+                  وإذا قُرِئَ الابركسيس قبطياً تُقال مقدمته وهي:
+               </Language>            
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Praxic n~te nenio] n~a~poctoloc: e~re pouc~mou eyouab swpi neman.
+               </Language>
+               <Language id="English">
+                  The Acts of our fathers the apostles, may their blessings be with us.
+               </Language>
+               <Language id="Arabic">
+                  أعمال آبائنا الرسل بركتهم المقدسة تكون معنا
+               </Language>         
+            </Text>
+            
+            <Comment>
+               <Language id="English">         
+                  The Praxis is chanted in Coptic.
+               </Language>            
+            </Comment>            
+         </Section>
+      </Season> 
+   </Group>
+         
+   <Group>
+      <Season id="CovenantThursday ^ Matins">
+         <BibleReference reference="Acts 1:15-20" type="section"/>
+      </Season>
+      
+      <Season id="Other">
+         <Group>
+            <InsertDocument path="readings/include/Acts"/>
+         </Group>
+      </Season>
+   </Group>
+   
+   <Section>           
+      <Title>
+         <Language id="English">Conclusion to the Coptic Praxis</Language>
+         <Language id="Coptic">Picaji...</Language>
+      </Title>         
+      
+      <Comment>
+         <Language id="English">         
+            After the reading, the following conclusion is chanted:
+         </Language>
+         <Language id="Arabic">         
+            وفي ختامه يقول:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            Picaji de n~te P[oic efe~aiai ouoh efe~a~sai ouoh efe~a~mahi ouoh efe~tajro qen ]a~gia n~ekk~l/cia n~te V]: a~m/n.
+         </Language>
+         <Language id="English">
+            The word of the Lord shall grow, multiply, be mighty, and be confirmed in the holy Church of God. Amen.
+         </Language>
+         <Language id="Arabic">
+            وكلمة الرب تنمو وتزداد وتعتز وتثبت في كنيسة الله المقدسة، آمين.
+         </Language>         
+      </Text>
+   </Section>
+</Document>

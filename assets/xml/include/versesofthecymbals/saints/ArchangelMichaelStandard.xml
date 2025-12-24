@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="ArchangelMichael:VersesOfCymbals">
+      <Text>
+         <Language id="Coptic">
+            &lt;ere Mi,a/l: pinis] n~a~r,/aggeloc: ,ere Gabri/l: picwtp m~pifaisennoufi.
+         </Language>
+         <Language id="English">
+            Hail to Michael, the great archangel, Hail to Gabriel  The chosen announcer.
+         </Language>
+         <Language id="Arabic">
+            السلام لميخائيل رئيس الملائكة العظيم. السلام لغبريال المبشر المختار.
+         </Language>
+      </Text>
+   </Season>
+</Document>

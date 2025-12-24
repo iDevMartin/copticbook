@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPhilopaterMercurius:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Philopater Mercurius</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيد مرقوريوس ذى السيفين</Language>
+            <Language id="Coptic">Vilopat/r Merkourioc...</Language>
+         </Title>
+            
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Philopater Mercurius:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Vilopat/r Merkourioc: piremn~jom n~te P,#c#: af]hiwtf n~]panoplia~: nem piqwk t/rf n~te pinah].
+            </Language>
+            <Language id="English">
+               Philopateer Mercurius: the mighty one of Christ: put on the full battle gear: the whole armor of the faith.
+            </Language>
+            <Language id="Arabic">
+               محب الآب مرقوريوس القوى بالمسيح لبس الخوذة وكل سلاح الإيمان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh af[i qen tefjij: n~]c/fi n~ro c~nau: y/e~ta piaggeloc n~te Po#c# tajroc: qen tefjij n~oui~nam.
+            </Language>
+            <Language id="English">
+               He took in his hand: the two-edged sword: that an angel of the Lord: placed in his right hand.
+            </Language>
+            <Language id="Arabic">
+               وأخذ بيده السيف ذا الحدين الذي ثبته ملاك الرب في يده اليمنى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afsenaf e~pipolemoc: qen ]jom n~te P,#c#: afsari e~nibarbaroc: qen ounis] n~erqot.
+            </Language>
+            <Language id="English">
+               He went to war: in the power of Christ. He smote the barbarians: with severe wounds.
+            </Language>
+            <Language id="Arabic">
+               مضى إلي الحرب بقوة المسيح وقتل البربر بجراحات عظيمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afernumvin e~bolha na p~kahi: ouoh afkw] e~na niv/oui~: af[oji qen pic~tadion: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               He refused the earthly: and sought the heavenly. He fought in the stadium: of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               تيقظ عن الأرضيات وطلب السمائيات وتشجع في ميدان الشهادة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af]sipi n~Dekioc: piouro n~a~ceb/c: hiten tefnis] n~hupomon/: nem p~qici n~te nibacanoc.
+            </Language>
+            <Language id="English">
+               He embarrassed Decius: the ungodly emperor: through his great patience: in the travails of his torments.
+            </Language>
+            <Language id="Arabic">
+               أفضح داكيوس الملك المنافق بصبره العظيم وتعب العذابات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Qen nai afervorin m~pi,~lom n~atlwm n~te ]metmarturoc: afersai nem n/e#y#u# t/rou: qen t~,wra n~te n/etonq.
+            </Language>
+            <Language id="English">
+               In this he wore the unfading crown: of martyrdom: he celebrated with all the saints: in the region of the living.
+            </Language>
+            <Language id="Arabic">
+               وبهذا لبس اكليل الشهادة غير المضمحل وعيد مع جميع القديسين في كورة الأحياء.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere piaylovoroc: Vilopat/r Merkourioc.
+            </Language>
+            <Language id="English">
+               Hail to you O martyr: hail to the noble hero: hail to the prize-bearer: Philopateer Mercurius. 
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع البطل السلام للمجاهد محب ألآب مرقوريوس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StPhilopaterMercurius"/>
+      </Section>
+   </Season>
+</Document>   

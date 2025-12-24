@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StApanoub:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Apa-Noub of Nehis</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيد أبانوب النهيسي</Language>
+            <Language id="Coptic">Nyok oua~lou n~cabe...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Apanoub:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Nyok oua~lou n~cabe: w~ Apanoub piremneh/c: eybe pektoubo nem pekcemnoc: akswpi m~menrit m~pidecpout/c.
+            </Language>
+            <Language id="English">
+               You are a wise child: O Apa-Noub of Nehis: because you are pure and chaste: you are loved by the Master.
+            </Language>
+            <Language id="Arabic">
+               أنت صبي حكيم يا أبانوب النهيسي من أجل طهارتك وعفتك صرت حبيباً للسيد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af,w m~pikocmoc t/rf: efkw] n~ca na niv/oui~: afwl m~pefc~tauroc e~jwf: afjemh/ou n~tef'u,/.
+            </Language>
+            <Language id="English">
+               He abandoned the whole world: in order to seek the heavens: he carried his cross: and he gained his soul.
+            </Language>
+            <Language id="Arabic">
+               ترك عنه العالم كله طالبا السمائيات وحمل صليبه وربح نفسه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Etafes e~bol qen nef[alauj: ouoh tefa~ve e~pec/t: e~h~r/i e~jen piywk n~joi: m~pefkim afertajro n~h/t.
+            </Language>
+            <Language id="English">
+               When he was hung by his feet: his head was down on the ship’s pole: he did not move: his heart was full of strength.
+            </Language>
+            <Language id="Arabic">
+               لما علقوه من قدمية ورأسه إلي أسفل علي صاري المركب لم يتزعزع وثبت قلبه.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Afswpi n~oulu,nia~ n~noub: qen nitopoc n~te nipictoc: pijwri eyouab Apanoub: v/e~tafsep n~nibacanoc.
+            </Language>
+            <Language id="English">
+               He became a golden lampstand: in the places of the faithful: the strong saint Apa-Noub: who received tortures.
+            </Language>
+            <Language id="Arabic">
+               صار منارة ذهبية في ديار المؤمنين القوي القديس أبانوب الذي تحمل العذاب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Hanm/s e~taunau e~pefagwn: nem pefnah] ettajr/out: auero~mologin qen ouq~rwou: Pennou] pe I/couc v/e~tc~marwout.
+            </Language>
+            <Language id="English">
+               The people who saw his struggle: and his firm faith: voiced their confessions: “Our God is Jesus the Blessed”.
+            </Language>
+            <Language id="Arabic">
+               كثيرون لما رأوا جهاده وأيمانه الثابت اعترفوا باعلان إلهنا هو يسوع المبارك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Au[i nemaf m~pi,~lom n~atlwm: n~te ]metmarturoc: hiten pounah] etcoutwn: e~qoun e~Pen[oic I/couc Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               They took with him the unfading crown: of martyrdom: through their upright faith: in our Lord Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               ونالوا معه اكليل الشهادة الغير المضمحل من قبل إيمانهم المستقيم بربنا يسوع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: n~te Peno#c# I/#c# P,#c#: ,ere piswij n~genneoc: Apanoub piremneh/c.
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: of our Lord Jesus Christ: Hail to the courageous hero: Apa-Noub of Nehis.
+            </Language>
+            <Language id="Arabic">
+               السلام لك يا شهيد ربنا يسوع المسيح السلام للشجاع البطل أبانوب النهيسي.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StApanoub"/>
+      </Section>
+   </Season>
+</Document>

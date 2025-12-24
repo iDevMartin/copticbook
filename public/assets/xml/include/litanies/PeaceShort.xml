@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Role id="Priest">
+      <InsertDocument path="include/AgainLetUsAsk"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi: ariv~meui~ P[oic n~]hir/n/ n~te tekoui~ m~mauatc eyouab n~kayolik/ n~a~poctolik/ n~ekk~l/cia.
+         </Language>
+         <Language id="English">
+            We ask and entreat Your goodness, O Lover of Mankind, remember, O Lord, the peace of Your one, only, holy, catholic, and apostolic Church—
+         </Language>
+         <Language id="Arabic">
+            نسأَلُ ونطلُبُ من صلاحِك يا محبَّ البشرِ، أذكر ياربُّ سلامَ كنيستِك الواحدةِ الوحيدةِ المقدسةِ الجامعةِ الرسوليةِ.
+         </Language>         
+      </Text>
+   </Role>
+   
+   <Group>
+      <Season id="GladnessConsecration">
+         <InsertDocument path="include/cyril/litanies/PeaceDeacon"/>
+      </Season>
+      
+      <Season id="Other">
+         <InsertDocument path="include/litanies/PeaceDeacon"/>      
+      </Season>
+   </Group>
+      
+   <InsertDocument path="include/LordHaveMercy"/>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Yai etsop icjen aur/jc n~]oikoumen/ sa aur/jc.
+         </Language>
+         <Language id="English">
+            this which exists from one end of the world to the other.
+         </Language>
+         <Language id="Arabic">
+            هذه الكائنةِ من أقصي المسكونةِ إلى أقصاها.
+         </Language>         
+      </Text>      
+      
+      <Group>
+         <Season id="Baptism">
+            <InsertDocument path="include/AndThoseWhoRightly"/>
+         </Season>
+      </Group>
+   </Role>   
+</Document>

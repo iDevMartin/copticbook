@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Metropolitan">
+      <Text>
+         <Language id="Coptic">
+            Sl/l.
+         </Language>
+         <Language id="English">
+            Pray.
+         </Language>
+         <Language id="Arabic">
+            صلوا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Epi p~roceu,/ c~tay/te.
+         </Language>
+         <Language id="English">
+            Stand up for prayer.
+         </Language>
+         <Language id="Arabic">
+            للصلاة قفوا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Metropolitan">               
+      <Comment>
+         <Language id="English">
+            The priest bows his head toward his fellow priests, and, while turning toward the west, he makes the sign of the cross over the people with his right hand, and says:
+         </Language>            
+         <Language id="Arabic">
+            ثم يطامن الكاهن رأسه نحو إخوته الكهنة، ويلتفت إلى الغرب ويرشم الشعب بيده اليمنى بمثال الصليب وهو يقول:
+         </Language>
+      </Comment>         
+            
+      <Text>
+         <Language id="Coptic">
+            Ir/n/ paci.
+         </Language>
+         <Language id="English">
+            Peace be with all. 
+         </Language>
+         <Language id="Arabic">
+            السلام للكل.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/AndWithYourSpirit"/>
+</Document>

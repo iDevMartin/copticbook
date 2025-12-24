@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Season id="Annunciation">
+      <Group>
+         <InsertDocument path="include/psalies/AnnunciationContent"/>
+      </Group>
+   </Season>
+</Document>

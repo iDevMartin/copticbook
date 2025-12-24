@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMena:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Mena</Language>
+            <Language id="Arabic">ذوكصولوجية للشهيد مار مينا العجايبى</Language>
+            <Language id="Coptic">Eswp oun n~te pirwmi...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mena:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Eswp oun n~te pirwmi: jemh/ou m~pikocmoc t/rf: n~tef]o~ci n~tef'u,/: ou pe pai wnq n~e~v~l/ou.
+            </Language>
+            <Language id="English">
+               What will it profit a man, if he gains the whole world and loses his soul? O the futility of this life!
+            </Language>
+            <Language id="Arabic">
+               إذا ربح الإنسان العالم كله وخسر نفسه فما هي هذه الحياة الباطلة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pia~gioc a~pa M/na: afcwtem n~ca ]cm/ n~nou]: af,w m~pikocmoc t/rf n~cwf: nem pefw~ou eynatako.
+            </Language>
+            <Language id="English">
+               The saint Abba Mina heard the voice of God, and forsook the whole world And its corrupt glory.
+            </Language>
+            <Language id="Arabic">
+               القديس أبا مينا سمع الصوت الالهى وترك عنه العالم كله ومجده الفاسد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Af] n~tef'~u,/ e~v~mou: nem pefcwma e~pi,~rwm: afsep hannis] m~bacanoc: eybe Ps/ri m~V] etonq.
+            </Language>
+            <Language id="English">
+               He gave his soul up to death, and his flesh to the fire, and accepted great torment, For the Son of the living God.
+            </Language>
+            <Language id="Arabic">
+               وبذل نفسه للموت وجسده للنار وقبل عذابات عظيمة لأجل ابن الله الحي.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai a~Pencwt/r: olf e~qoun e~tefmetouro: af] naf n~nia~gayon: n/ete m~pebal nau e~rwou.
+            </Language>
+            <Language id="English">
+               Therefore, our Savior lifted him up to His kingdom, And granted him the good things that no eye has seen.
+            </Language>
+            <Language id="Arabic">
+               فلهذا رفعه مخلصنا إلي ملكوته وأعطاه الخيرات التي لم ترها عين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere piaylovoroc: pia~gioc a~pa M/na. (apa M/na n~te nivaiat)
+            </Language>
+            <Language id="English">
+               Hail to you, O martyr: Hail to the noble hero: Hail to the prize-bearer: Saint Abba Mina.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد السلام للشجاع البطل السلام للمجاهد القديس أبا مينا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMena"/>
+      </Section>
+   </Season>
+</Document>

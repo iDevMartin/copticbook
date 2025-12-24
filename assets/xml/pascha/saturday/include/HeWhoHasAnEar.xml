@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            V/e~teouon masj m~mof e~cwtem marefcwtem: je oupe e~te pip~neuma jw m~mof n~niekk~l/cia~.
+         </Language>
+         <Language id="English">
+            He who has an ear to hear let him hear, what the spirit says to the churches.
+         </Language>
+         <Language id="Arabic">
+            من له أذنان للسمع فليسمع ما يقوله الروح للكنائس
+         </Language>         
+      </Text>
+   </Role>
+</Document>

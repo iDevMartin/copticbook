@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="DisplayNonCustomaryPrayers ^ ((Matins ^ Pentecost) | ThirdProstration)">            
+      <Text>
+         <Language id="Coptic">
+            Am/n A#l#:
+         </Language>
+         <Language id="English">
+            Amen, Alleluia.  
+         </Language>
+         <Language id="Arabic">
+            امين هلليلويا 
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Pip~neuma m~parakl/ton: e~tafi~ e~pec/t e~bol qen t~ve: afouwnh e~jen niapoctoloc: qen p~sai n~]pent/koct/.
+         </Language>
+         <Language id="English">
+            The Holy Spirit Who came down from heaven, appeared on the Apostles, on the feast of Pentecost.
+         </Language>
+         <Language id="Arabic">
+            الروح المعزى الذى نزل من السماء، ظهر على الرسل فى عيد البنطيتقسطى.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Afmahou e~bolqen ka] niben: nem covia~ niben: qen ] e~xoucia~ n~te tefjom.
+         </Language>
+         <Language id="English">
+            He Filled them with every understanding and every wisdom in the authority of His power.
+         </Language>
+         <Language id="Arabic">
+            ملأهم من كل فهم وكل حكمة بسلطان قوته.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/DoxaPatriNoRole"/>
+      <InsertDocument path="include/agpeya/KeNinNoRole"/>
+      
+      <Text>
+         <Language id="Coptic">
+            Enws e~bol enjw m~moc: je w~ Pen[oic I/#c# P,#c#.
+         </Language>
+         <Language id="English">
+            We cry out saying, O our Lord Jesus Christ. 
+         </Language>
+         <Language id="Arabic">
+            نصرخ قائلين يا ربنا يسوع المسيح
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            V/etafsenaf e~p~swi e~niv/oui~ : afhemci caoui nam m~pefiwt: afouwrp nan m~piparakl/ton:  pip~neuma n~te ]meym/i:
+         </Language>
+         <Language id="English">
+            Who ascended into the heavens, sat at the right of His Father, sent to us the Paraclete, the Spirit of truth. 
+         </Language>
+         <Language id="Arabic">
+            الذي صعد الى السموات وجلس عن يمين ابيه و أرسل البارقليط روح الحق.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>               
+   </Season>
+</Document>

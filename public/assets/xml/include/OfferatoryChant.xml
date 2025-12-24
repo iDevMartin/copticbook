@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/OfferatoryChantIntro"/>
+   
+   <Section>
+      <Title>
+         <Language id="English">Offeratory Chant in the Presence of the Pope or a Bishop</Language>
+         <Language id="Coptic">C~sop nemak...</Language>
+      </Title>
+      
+      <InsertDocument path="include/OfferatoryChant_Bishop"/>
+   </Section>
+   
+   <InsertDocument path="include/OfferatoryChantConclusion"/>
+</Document>

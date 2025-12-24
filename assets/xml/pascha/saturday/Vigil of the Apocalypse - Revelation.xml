@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Pascha="true" FixedDateDocument="true">
+   <ForceSeason id="Fasts ^ PaschaWeek ^ WatosDays ^ Weekend ^ JoyousSaturday ^ Saturdays ^ FuneralTune ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">Revelation</Language>      
+         <Language id="Arabic">رؤيا</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            Seven oil lamps and seven candles are lit, and a cross is placed in the midst, to resemble Christ who walks among the seven lampstands (Rev 1).         
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            Seven censors are lit.         
+         </Language>
+      </Comment>
+      
+      <Comment>
+         <Language id="English">
+            The priest raises incense while the deacons chant the hymn of the Blessing “<span class="Coptic">Tenouwst m~V~iwt</span>” (We worship the Father…) followed by the Hymn for St. John the Beloved “<span class="Coptic">E~re pic~mou</span>” in the tune of “<span class="Coptic">A~pinau swpi</span>”:         
+         </Language>
+      </Comment>
+       
+      <Role id="People">
+         <InsertDocument path="include/HymnOfBlessing"/>
+         
+         <Text>
+            <Language id="Coptic">
+               E~re pic~mou n~te piyeologoc n~euaggelict/c Iwannic piparyenoc : efe~i~ e~h~r/i ejen pailaoc ajoc t/rou : je a~m/n ece~swpi
+            </Language>
+            <Language id="English">
+               The blessings of the Evangelic Theologian: John the virgin: shall come upon this congregation: All say Amen so be it.
+            </Language>
+            <Language id="Arabic">
+               بركة اللاهوتي الإنجيلي يوحنا البتول تأتي وتحل على هذا الشعب كله ، قولوا كلكم آمين يكون
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+          <Comment>
+            <Language id="English">
+               Then the priests start reading the Book of Revelation. Every time the word “Incense” is mentioned, the priest offers incense.         
+            </Language>
+            <Language id="Arabic">
+               ثم تبتدئ الكهنة بقراءة سفر الرؤيا. وكل ما وصل القارئ إلى ذكر لفظة "بخور" يرفع الكاهن البخور.
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 1" type="section"/>      
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               When the reader mentions the churches, at the verse “He who has an ear let him hear…” the deacons respond with “<span class="Coptic">V/e~teouon masj</span>” (He who has an ear...) in the tune of the hymn of the Virtues “<span class="Coptic">}m/] c~nou]</span>” (Chapters 2,3)         
+            </Language>
+         </Comment>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Revelation 2</Language>
+            <Language id="Arabic">رؤيا 2</Language>
+         </Title>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 2:1-6"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  V/ete ouon masj m~mof e~cwtem marefcwtem je ou pe ete pipn#a# jw m~mof n~niekk~l/cia
+               </Language>
+               <Language id="English">
+                  “He who has an ear, let him hear what the Spirit says to the churches.
+               </Language>
+               <Language id="Arabic">
+                  مَنْ لَهُ أُذُنٌ فَلْيَسْمَعْ مَا يَقُولُهُ الرُّوحُ لِلْكَنَائِسِ
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  v/eyna[ro eie~] naf n~tefouwm e~bol qen pis~s/n n~te p~wnq v/etqen y~m/] m~piparadicoc n~te panou].
+               </Language>
+               <Language id="English">
+                  To him who overcomes I will give to eat from the tree of life, which is in the midst of the Paradise of God.”’
+               </Language>
+               <Language id="Arabic">
+                  مَنْ لَهُ أُذُنٌ فَلْيَسْمَعْ مَا يَقُولُهُ الرُّوحُ لِلْكَنَائِسِ.
+               </Language>
+            </Text>
+            
+            <BibleReference reference="Revelation 2:8-10"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  V/ete ouon masj m~mof e~cwtem marefcwtem je ou pe ete pipn#a# jw m~mof n~niekk~l/cia
+               </Language>
+               <Language id="English">
+                  “He who has an ear, let him hear what the Spirit says to the churches.
+               </Language>
+               <Language id="Arabic">
+                  مَنْ لَهُ أُذُنٌ فَلْيَسْمَعْ مَا يَقُولُهُ الرُّوحُ لِلْكَنَائِسِ
+               </Language>
+            </Text>
+         </Role>
+   
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  v/ gar eyna[ro n~nou[itf n~jonc n~je pimou m~mahb#.
+               </Language>
+               <Language id="English">
+                  He who overcomes shall not be hurt by the second death.”’
+               </Language>
+               <Language id="Arabic">
+                  مَنْ يَغْلِبُ فَلاَ يُؤْذِيهِ الْمَوْتُ الثَّانِي».
+               </Language>
+            </Text>
+            
+            <BibleReference reference="Revelation 2:12-16"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  V/ete ouon masj m~mof e~cwtem marefcwtem je ou pe ete pipn#a# jw m~mof n~niekk~l/cia
+               </Language>
+               <Language id="English">
+                  “He who has an ear, let him hear what the Spirit says to the churches.
+               </Language>
+               <Language id="Arabic">
+                  مَنْ لَهُ أُذُنٌ فَلْيَسْمَعْ مَا يَقُولُهُ الرُّوحُ لِلْكَنَائِسِ
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  v/ gar eyna[ro eie~] naf e~bol qen pimanna eth/p ouoh eie~] naf n~oual n~ouwbs ouoh n~h~r/i qen pial e~ouon ouran m~beri c~q/out hiwtf m~pe h~li nau e~rof e~b/l e~v/etaf[itf.
+               </Language>
+               <Language id="English">
+                  To him who overcomes I will give some of the hidden manna to eat. And I will give him a white stone, and on the stone a new name written which no one knows except him who receives it.”’
+               </Language>
+               <Language id="Arabic">
+                  مَنْ يَغْلِبُ فَسَأُعْطِيهِ أَنْ يَأْكُلَ مِنَ الْمَنِّ الْمُخْفَى، وَأُعْطِيهِ حَصَاةً بَيْضَاءَ، وَعَلَى الْحَصَاةِ اسْمٌ جَدِيدٌ مَكْتُوبٌ لاَ يَعْرِفُهُ أَحَدٌ غَيْرُ الَّذِي يَأْخُذُ».
+               </Language>
+            </Text>
+            
+            <BibleReference reference="Revelation 2:18-29"/>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+      </Section>
+         
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Revelation 3</Language>
+            <Language id="Arabic">رؤيا 3</Language>
+         </Title>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 3:1-6"/>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 3:7-13"/>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 3:14-22"/>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/HeWhoHasAnEar"/>   
+      </Section>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 4" type="section"/>
+      </Role>
+      
+      <InsertDocument path="pascha/saturday/include/IncenseComment"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 5" type="section"/>
+         <BibleReference reference="Revelation 6" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               At the mentioning of the names of each tribe, the deacons respond with “<span class="Coptic">E~bol qen t~vul/i</span>...” (Chapter 7)         
+            </Language>
+         </Comment>      
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Revelation 7</Language>
+            <Language id="Arabic">رؤيا 7</Language>
+         </Title>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 7:1-4"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  Ebol qen t~vul/ n~iouda i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Judah twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ يَهُوذَا اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~roub/n i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Reuben twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ رَأُوبِينَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~gad i#b# n~so.
+               </Language>
+               <Language id="English">
+                  of the tribe of Gad twelve thousand were sealed;
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ جَادَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+         </Role>
+   
+         <InsertDocument path="pascha/saturday/include/JudahSealed"/>
+         <InsertDocument path="pascha/saturday/include/ReubenSealed"/>
+         <InsertDocument path="pascha/saturday/include/GadSealed"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  E~bol qen t~vul/ n~acc/r i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Asher twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ أَشِيرَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~evyalim i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Naphtali twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ نَفْتَالِي اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~Manacc/ i#b# n~so.
+               </Language>
+               <Language id="English">
+                  of the tribe of Manasseh twelve thousand were sealed;
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ مَنَسَّى اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/AsherSealed"/>
+         <InsertDocument path="pascha/saturday/include/NaphtaliSealed"/>
+         <InsertDocument path="pascha/saturday/include/ManassehSealed"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  E~bol qen t~vul/ n~cumewn i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Simeon twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ شَمْعُونَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~leui i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Levi twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ لاَوِي اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~ica,ar i#b# n~so.
+               </Language>
+               <Language id="English">
+                  of the tribe of Issachar twelve thousand were sealed;
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ يَسَّاكَرَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/SimeonSealed"/>
+         <InsertDocument path="pascha/saturday/include/LeviSealed"/>
+         <InsertDocument path="pascha/saturday/include/IssacharSealed"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  E~bol qen t~vul/ n~zaboulwn i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Zebulun twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ زَبُولُونَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ n~iwc/v i#b# n~so 
+               </Language>
+               <Language id="English">
+                  of the tribe of Joseph twelve thousand were sealed; 
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ يُوسُفَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="CopticReading">
+                  e~bol qen t~vul/ m~beniamin i#b# n~so etauerc~v~ragizin m~mwou.
+               </Language>
+               <Language id="English">
+                  of the tribe of Benjamin twelve thousand were sealed.
+               </Language>
+               <Language id="Arabic">
+                  مِنْ سِبْطِ بِنْيَامِينَ اثْنَا عَشَرَ أَلْفَ مَخْتُومٍ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/ZebulunSealed"/>
+         <InsertDocument path="pascha/saturday/include/JosephSealed"/>
+         <InsertDocument path="pascha/saturday/include/BenjaminSealed"/>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 7:9-17"/>
+         </Role>
+      </Section>
+      
+      <InsertDocument path="pascha/saturday/include/IncenseComment"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 8" type="section"/>
+         <BibleReference reference="Revelation 9" type="section"/>
+         <BibleReference reference="Revelation 10" type="section"/>
+         <BibleReference reference="Revelation 11" type="section"/>
+         <BibleReference reference="Revelation 12" type="section"/>
+         <BibleReference reference="Revelation 13" type="section"/>
+         <BibleReference reference="Revelation 14" type="section"/>
+         <BibleReference reference="Revelation 15" type="section"/>
+         <BibleReference reference="Revelation 16" type="section"/>
+         <BibleReference reference="Revelation 17" type="section"/>
+      </Role>
+      
+      <InsertDocument path="pascha/saturday/include/IncenseComment"/>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 18" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               At the mentioning of the word “Alleluia,” the deacons respond with “Alleluia” (three times) as in Psalm 151 or “<span class="Coptic">Eulogimenoc</span>” (Chapter 19)         
+            </Language>
+         </Comment>   
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Revelation 19</Language>
+            <Language id="Arabic">رؤيا 19</Language>
+         </Title>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  Menenca nai aicwtem m~v~r/] n~ounis] n~q~rwou n~te oum/s efos qen t~ve eujw m~moc je All/louia
+               </Language>
+               <Language id="English">
+                  After these things I heard a loud voice of a great multitude in heaven, saying, “Alleluia!
+               </Language>
+               <Language id="Arabic">
+                  وَبَعْدَ هَذَا سَمِعْتُ صَوْتاً عَظِيماً مِنْ جَمْعٍ كَثِيرٍ فِي السَّمَاءِ قَائِلاً: «هَلِّلُويَا!
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="People">
+            <InsertDocument path="include/Alleluia3"/>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  pioujai nem piwou nem pitaio~ nem ]jom na pennou] ne je nefhap hanmeym/i ne.
+               </Language>
+               <Language id="English">
+                  Salvation and glory and honor and power belong to the Lord our God!
+               </Language>
+               <Language id="Arabic">
+                  الْخَلاَصُ وَالْمَجْدُ وَالْكَرَامَةُ وَالْقُدْرَةُ لِلرَّبِّ إِلَهِنَا،
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 19:2"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  Ouoh v~mah afjoc je all/ louia 
+               </Language>
+               <Language id="English">
+                  Again they said, “Alleluia!
+               </Language>
+               <Language id="Arabic">
+                  وَقَالُوا ثَانِيَةً: «هَلِّلُويَا!
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="People">
+            <InsertDocument path="include/Alleluia3"/>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  ouoh pec,~remtc efe~se e~p~swi sa eneh n~te pieneh.
+               </Language>
+               <Language id="English">
+                  Her smoke rises up forever and ever!”
+               </Language>
+               <Language id="Arabic">
+                  وَدُخَانُهَا يَصْعَدُ إِلَى أَبَدِ الآبِدِينَ».
+               </Language>
+            </Text>
+            
+            <BibleReference reference="Revelation 19:4"/>
+         </Role>
+         
+         <Role id="People">
+            <InsertDocument path="include/Alleluia3"/>
+         </Role>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 19:5"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  Ouoh aicwtem m~v~r/] n~ounis] n~c~m/ n~te ounis] m~m/s nem m~v~r/] n~t~c~m/ n~oum/s m~mwou nem t~c~m/ n~te hanqarabai eujor eujw m~moc je all/ louia
+               </Language>
+               <Language id="English">
+                  And I heard, as it were, the voice of a great multitude, as the sound of many waters and as the sound of mighty thunderings, saying, “Alleluia!
+               </Language>
+               <Language id="Arabic">
+                  وَسَمِعْتُ كَصَوْتِ جَمْعٍ كَثِيرٍ، وَكَصَوْتِ مِيَاهٍ كَثِيرَةٍ، وَكَصَوْتِ رُعُودٍ شَدِيدَةٍ قَائِلَةً: «هَلِّلُويَا!
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="People">
+            <InsertDocument path="include/Alleluia3"/>
+         </Role>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  aferouro n~je Po#c# v] pipantokratwr.
+               </Language>
+               <Language id="English">
+                  For the Lord God Omnipotent reigns!
+               </Language>
+               <Language id="Arabic">
+                  فَإِنَّهُ قَدْ مَلَكَ الرَّبُّ الْإِلَهُ الْقَادِرُ عَلَى كُلِّ شَيْءٍ.
+               </Language>
+            </Text>
+            
+            <BibleReference reference="Revelation 19:7-21"/>
+         </Role>
+      </Section>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 20" type="section"/>
+      </Role>   
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               At the mentioning of the foundation of the new Jerusalem (Chapter 21), the priest chants, “<span class="Coptic">A~nok ainau...</span>” and the people respond with, “<span class="Coptic">Ere Pencwt/r...</span>.”
+            </Language>
+         </Comment>   
+      </Role>
+     
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Revelation 21</Language>
+            <Language id="Arabic">رؤيا 21</Language>
+         </Title>
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 21:1-18"/>
+            
+            <Text>
+               <Language id="CopticReading">
+                  Ouoh nicen] n~te picobt n~te ]baki euk/t e~bol qen wni niben ettai/ out
+               </Language>
+               <Language id="English">
+                  The foundations of the wall of the city were adorned with all kinds of precious stones: 
+               </Language>
+               <Language id="Arabic">
+                  وَأَسَاسَاتُ سُورِ الْمَدِينَةِ مُزَيَّنَةٌ بِكُلِّ حَجَرٍ كَرِيمٍ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <Role id="Priest">
+            <Text>
+               <Language id="Coptic">
+                  A~nok ainau e~p~kwt n~oupolic ecosj n~noub hiw~ni m~m/i pimargarit/c eynecwc
+               </Language>
+               <Language id="English">
+                  I saw the walls+ of a city covered with gold, and precious stones++ and the beautiful jewels.
+               </Language>
+               <Language id="Arabic">
+                  أنا نظرت إلى بناء المدينة المصفحة بالذهب  ، والحجارة الكريمة والجواهر الحسنة.
+               </Language>
+            </Text>
+            
+            <Comment>
+               <Language id="English">
+                  + Lit. “the built thing”<br/>
+                  ++ Lit. “true stones”
+               </Language>
+            </Comment>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/OurSavior"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  }cen] n~houi~] ne ouiacpic te. }mah c~nou] oucapviroc te. }mah som] ou,ark/dwn te.
+               </Language>
+               <Language id="English">
+                  the first foundation was jasper, the second sapphire, the third chalcedony, 
+               </Language>
+               <Language id="Arabic">
+                  الأَسَاسُ الأَوَّلُ يَشْبٌ. الثَّانِي يَاقُوتٌ أَزْرَقُ. الثَّالِثُ عَقِيقٌ أَبْيَضُ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/OurSavior"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  }mah f~tou ouc~maragaoc te. }mah e# oucardonix te. }mah 6 oucardinon te. 
+               </Language>
+               <Language id="English">
+                  the fourth emerald, the fifth sardonyx, the sixth sardius, 
+               </Language>
+               <Language id="Arabic">
+                  الرَّابِعُ زُمُرُّدٌ ذُبَابِيٌّ. الْخَامِسُ جَزَعٌ عَقِيقِيٌّ. السَّادِسُ عَقِيقٌ أَحْمَرُ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/OurSavior"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  }mah sasfi ou,~rucoliyoc te. }mah s~m/in ouburilloc te. }mah 'i] outopadion te. 
+               </Language>
+               <Language id="English">
+                  the seventh chrysolite, the eighth beryl, the ninth topaz, 
+               </Language>
+               <Language id="Arabic">
+                  السَّابِعُ زَبَرْجَدٌ. الثَّامِنُ زُمُرُّدٌ سِلْقِيٌّ. التَّاسِعُ يَاقُوتٌ أَصْفَرُ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/OurSavior"/>
+         
+         <Role id="Reader">
+            <Text>
+               <Language id="CopticReading">
+                  }mah m/] ouhua~kunyinon te. }mah m/] oui~ ou,~rucoparacoc te. }mah m/] c~nou] oua~meyictoc te. 
+               </Language>
+               <Language id="English">
+                  the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.
+               </Language>
+               <Language id="Arabic">
+                  الْعَاشِرُ عَقِيقٌ أَخْضَرُ. الْحَادِي عَشَرَ أَسْمَانْجُونِيٌّ. الثَّانِي عَشَرَ جَمَشْتٌ.
+               </Language>
+            </Text>
+         </Role>
+         
+         <InsertDocument path="pascha/saturday/include/OurSavior"/>   
+         
+         <Role id="Reader">
+            <BibleReference reference="Revelation 21:21-27"/>
+         </Role>
+      </Section>
+      
+      <Role id="Reader">
+         <BibleReference reference="Revelation 22" type="section"/>
+      </Role>
+      
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               At the end of the reading of the Apocalypse, the deacons chant “<span class="Coptic">K#e#</span>” three times in the great tune, while the priest anoints all the congregation with the oil of the Apocalypse.         
+            </Language>
+         </Comment>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy3"/>
+   </ForceSeason>
+</Document>

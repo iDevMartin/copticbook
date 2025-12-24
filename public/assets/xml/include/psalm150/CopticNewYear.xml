@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Text>
+         <Language id="Coptic">
+            Cmou e~pi,lom n~te ]rompi: hiten tekmet,~rictoc P[oic
+         </Language>
+         <Language id="English">
+            Bless the crown of the year, with Your goodness, O Lord
+         </Language>
+         <Language id="Arabic">
+            بارك اكليل السنه بصلاحك يارب
+         </Language>
+      </Text>         
+   </Season>
+</Document>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" GeneralFuneralPrayer="true" FixedDateDocument="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MajorFeastsOfTheLordPeriods ^ MajorFeastsOfTheLord ^ HosannaSunday ^ AdamDays ^ Weekend ^ Sundays ^ SeasonOfAirAndFruits">
+      <Title>
+         <Language id="English">General Funeral Prayer</Language>
+         <Language id="Arabic">صلاة الجناز العام</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The priest closes the veil of the sanctuary and begins the General Funeral Prayer.
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/StartOfService"/>
+      <InsertDocument path="include/ThanksgivingPrayer"/>
+      
+      <Comment>
+         <Language id="English">
+            The priest raises incense while the congregation chants the verses of the cymbals:
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+      <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+      
+      <Role id="Deacon">
+         <BibleReference reference="Ezekiel 37:1-14" type="section"/>      
+      </Role>
+      
+      <InsertDocument path="include/EveryNight"/>
+      
+      <Role id="People">   
+         <InsertDocument path="include/DoxaPatriAlleluia"/>         
+         <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      </Role>
+      
+      <Comment>
+         <Language id="English">
+            The Introduction to the Pauline Epistle is chanted in the Paschal tune (<span class="Coptic">Eybe ]a~nactacic</span>) in Coptic and then the Epistle is translated:
+         </Language>
+      </Comment>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Introduction to the Coptic Pauline Epistle</Language>
+            <Language id="Coptic">Eybe ]a~nactacic</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/EthveTiAnastasisVerse"/>   
+         <InsertDocument path="include/PaulineEpistleIntroduction"/>
+         
+         <Text>
+            <Language id="Coptic">
+               }tamou de m~mwten nac~n/ou e~pieuagglion...
+            </Language>
+            <Language id="English">
+               Moreover, brethren, I declare to you the Gospel...
+            </Language>
+            <Language id="Arabic">
+               وأنا اعلمكم يا اخوتى ان الأنجيل...
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/PaulineEpistleConclusion"/>
+      </Section>
+      
+      <BibleReference reference="1 Corinthians 15:1-23" type="section"/>
+            
+      <InsertDocument path="include/trisagion/Seasonal"/>    
+      <InsertDocument path="include/LitanyOfTheGospelIntro"/>
+   
+      <Comment>
+         <Language id="English">
+            Then deacon chants the psalm in the (Adribi) tune. 
+         </Language>
+         <Language id="Arabic">
+            ثم يرتل الشماس المزمور بالطريقه الادريبي.
+         </Language>
+      </Comment>
+      
+      <Role id="Reader">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Psalms 64:5</Language>
+               <Language id="Arabic">مزمور 64: 5</Language>
+            </Title>
+            
+            <InsertDocument path="pascha/include/PsalmOfDavid"/>
+            <InsertDocument path="readings/include/other/Psalm 64.5"/>    
+            
+            <Comment>
+               <Language id="English">
+                  Then they say the following hymn with its known (Adribi) tune or the fast one.
+               </Language>
+               <Language id="Arabic">
+                  ثم يقولون مقدمة الانجيل بالطريقه الادريبي أو دمجاً.
+               </Language>
+            </Comment>
+         </Section>
+      </Role>
+      
+      <Section expanded="true">
+         <Title>
+            <Language id="English">John 5:19-29</Language>
+            <Language id="Arabic">متى 5: 19-29</Language>
+         </Title>
+         
+         <InsertDocument path="pascha/include/KeEperto"/>
+         <InsertDocument path="pascha/include/GospelIntroJohn"/>
+         <InsertDocument path="include/GloryBeToGodForever"/>
+         
+         <Role id="Reader">
+            <BibleReference reference="John 5:19-29" hideIntroConclusion="true"/>
+            <InsertDocument path="pascha/include/BowDownBeforeTheHolyGospel"/>
+         </Role>
+      </Section>
+            
+      <InsertDocument path="include/gospelResponse/GospelResponse"/>
+      <InsertDocument path="include/ThreeGreatLitanies"/>   
+      <InsertDocument path="include/Ensofia"/>
+      <InsertDocument path="include/CreedPeople"/>
+      <InsertDocument path="include/StandardPrayerIntro"/>
+      <InsertDocument path="include/litanies/Departed"/>
+         
+      <Role id="People">
+         <InsertDocument path="include/LordsPrayer"/>            
+      </Role>
+      
+      <InsertDocument path="include/YeaOLord"/>
+      
+      <Role id="Priest" silent="true">      
+         <InsertDocument path="include/PrayerOfSubmissionToTheSon"/>
+         
+         <Section>
+            <InsertDocument path="include/PrayerOfAbsolutionToTheSonContent"/>
+         </Section>
+      </Role>
+      
+      <InsertDocument path="pascha/include/Conclusion"/>
+   </ForceSeason>
+</Document>

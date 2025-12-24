@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="NativityPeriod | NativityParamoun | Circumcision">
+         <Comment>
+            <Language id="English">         
+               From the Paramoun of the Nativity to the Feast of the Circumcision:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~mok w~ Pi,~rictoc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aumack akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               We worship You O Christ, with Your good Father, and the Holy Spirit, for You were born and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس، لأنك ولدت وخلصتنا. [إرحَمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="TheophanyPeriod | TheophanyParamoun">
+         <Comment>
+            <Language id="English">         
+               From Paramoun of the Theophany until the 12th of Tobe:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~mok w~ Pi,~rictoc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je ak~[iwmc akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               We worship You O Christ, with Your good Father, and the Holy Spirit, for You were baptized and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس، لأنك أعتمدت وخلصتنا. [إرحَمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="PaschaWeek | Pascha | FeastOfTheCross | (FuneralTune ^ FuneralPrayer) | GeneralFuneralPrayer">
+         <Comment>
+            <Language id="English">         
+               On the two Feasts of the Cross, during Holy Pascha Week, and during funerals:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~mok w~ Pi,~rictoc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je auask akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               We worship You O Christ, with Your good Father, and the Holy Spirit, for You were crucified and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس، لأنك صلبت وخلصتنا. [إرحَمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="!ThirdProstration ^ (Joyful29thOfTheMonthRaw | PentecostPeriod | (Sundays ^ ApostlesFastToLastDayOfHathor))">
+         <Comment>
+            <Language id="English">         
+               From the eve of the Resurrection to the last day of the Pentecost Period, as well as Sundays from the Apostles’ Fast to the fourth Sunday of Hathor and on the commemorations of the Annunciation, Nativity and the Resurrection (i.e., twenty-ninth of every Coptic month) and from the twenty-ninth of Paone to twenty-ninth of Paope:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~mok w~ Pi,~rictoc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aktwnk akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               We worship You O Christ, with Your good Father, and the Holy Spirit, for You have risen and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس، لأنك قمت وخلصتنا. [إرحَمنا]
+            </Language>         
+         </Text>
+      </Season>
+      
+      <Season id="Other">
+         <Comment>
+            <Language id="English">         
+               On standard days of the year and on fasting days:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Tenouwst m~mok w~ Pi,~rictoc: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: je aki akcw] m~mon nai nan.
+            </Language>
+            <Language id="English">
+               We worship You O Christ, with Your good Father, and the Holy Spirit, for You have come and saved us. Have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسجد لكَ أيها المسيح، مع أبيكَ الصالح والروح القدس، لأنك أتيتَ وخلصتنا. [إرحَمنا]
+            </Language>         
+         </Text>
+      </Season>
+   </Group> 
+</Document>

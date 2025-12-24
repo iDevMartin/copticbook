@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="StAthanasius:All">
+      <Title>
+         <Language id="English">St. Athanasius the Apostolic</Language>
+         <Language id="Arabic">القديس الأنبا أثناسيوس البطريرك</Language>
+      </Title>
+      
+      <InsertDocument path="liturgies/index/saints/include/Template"/>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FeastOfTheCross">
+         <Comment>
+            <Language id="English">
+               <span class="Coptic">Etauen Nic~qai</span> (Hymn of Constantine) may be chanted:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/HymnOfConstantine"/>            
+      </Season>
+   </Group>
+</Document>

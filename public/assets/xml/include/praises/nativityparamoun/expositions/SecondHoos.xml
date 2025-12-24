@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="NativityParamoun">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Adam Exposition For the Second Hoos</Language>
+            <Language id="Arabic">طرح أدام على الهوس الثاني</Language>
+         </Title>
+               
+         <Text>
+            <Language id="Coptic">
+               Aumici n~Emmanou/l: e~bol qen }paryenoc: kata ]p~rov/tia: n~?~ca/~ac.
+            </Language>
+            <Language id="English">
+               Emmanuel was born from the Virgin according to the prophecy of Isaiah.
+            </Language>
+            <Language id="Arabic">
+               وُلد عمانوئيل من العذراء كنبوة أشعياء.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Afjoc n~je ?~rwd/c: e~nimagoc qen ou,~rof: e~re tenjem Pia~lou: matamoi n~taouwst m~mof.
+            </Language>
+            <Language id="English">
+               Herod spoke to the Magi craftily, “When you have found the Child, bring back word to me, that I may worship Him.”
+            </Language>
+            <Language id="Arabic">
+               فقال هيرودس للمجوس بمكر: "إن وجدتم الطفل فأعلموني لأسجد له."
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="English">
+               The star that shone from the East to the Magi, guided them to the Child. When they saw Him, the knelt before Him worshipping. The Magi came to Bethlehem and saw the Child with Mary His Mother. They opened their treasures and offered Him gifts: gold, frankincense and myrrh. Then, being warned in a dream not to return to Herod, they took another road to their country while believing in Christ, becoming preachers of the Gospel in that country, telling everyone: “We saw the Christ who was born in Bethlehem, the city of David. Therefore, we testify that He is the true Son of God who came to the world to save us.” Glory to Him forever and ever.
+            </Language>
+            <Language id="Arabic">
+               وإذ النجم الذي ظهر في المشرق للمجوس مرشداً لهم حتى أصعدهم إلى حيث الطفل، وإذ رأوه خروا له ساجدين. أتي المجوس إلى بيت لحم فأبصروا الطفل مع مريم أمه. ففتحوا أوعيتهم وقدموا له قرابين ذهباً ولباناً ومراً. وأوحى إليهم في الحلم أن لا يرجعوا إلى هيرودس فذهبوا من طريق أخرى إلى كورتهم، مؤمنين بالمسيح، وأصبحوا مبشرين بالإنجيل في جميع الكورة. يعلمون كل الناس "أن قد أبصرنا المسيح وُلد في بيت لحم مدينة الملك داود. من أجل هذا نشهد أن هذا هو إبن الله الحقيقي الذي أتي إلى العالم لكي يخلصنا." له المجد دائماً إلى الأبد.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.1"/>
+   <InsertDocument path="include/versesofthecymbals/saints/StMary"/>
+   <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.2"/>
+   
+   <Text>
+      <Language id="Coptic">
+         &lt;ere ni&lt;eroubim: ,ere niCeravim: ,ere nitagma t/rou: n~e~pouranion.
+      </Language>
+      <Language id="English">         
+         Hail to the Cherubim: hail to the Seraphim, hail to all: the heavenly orders. 
+      </Language>
+      <Language id="Arabic">
+         السلام للشاروبيم السلام للسيرافيم السلام لجميع الطغمات السمائية.
+      </Language>
+   </Text>
+
+   <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.3"/>
+   
+   <Text>
+      <Language id="Coptic">
+         &lt;ere nao#c# n~io]: n~a~poctoloc: ,ere nimay/t/c: n~te Peno#c# I/#c#  P,#c#.
+      </Language>
+      <Language id="English">
+         Hail to my masters, and fathers the Apostles, Hail to the disciples, of our Lord Jesus Christ.
+      </Language>
+      <Language id="Arabic">
+         السلام لساداتي الاباء الرسل. السلام لتلاميذ ربنا يسوع المسيح.
+      </Language>
+   </Text>
+   
+   <InsertDocument path="include/versesofthecymbals/NonFeastsOfTheLord.4"/>
+</Document>

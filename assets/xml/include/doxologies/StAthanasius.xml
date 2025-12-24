@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StAthanasius:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Athanasius the Apostolic</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس الأنبا أثناسيوس البطريرك</Language>
+            <Language id="Coptic">Pikebernit/c...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Athanasius:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Pikebernit/c ettajr/out: pirefmisi n~kalwc: piref[ro qen nibwtc: piq/bc e~tafe~rouwini.
+            </Language>
+            <Language id="English">
+               O you who are strong in managing the ship, O you the distinguished fighter, who is victorious in the wars, the luminous lamp.
+            </Language>
+            <Language id="Arabic">
+               أيها المدبر القوي لدفة السفينة أيها المقاتل البارع أيها الظافر في المعارك أيها المصباح المنير.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pikurix n~te ]oryodoxia: pe Ayancioc pia~poctolikoc: piref]c~bw n~te pio~hi: n~logikon n~te P,#c#.
+            </Language>
+            <Language id="English">
+               The leader of Orthodoxy, is Athanasius the apostolic, the instructor of the eloquent sheep, That is for Christ.
+            </Language>
+            <Language id="Arabic">
+               رائد الأرثوذكسية هو أثناسيوس الرسولي ومعلم القطيع الناطق الذي للمسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anekdogma etcoutwn: misi m~p~h/t n~niheretikoc: m~v~r/] n~ouc/fi n~ro2: hiten t~jom n~}t~riac.
+            </Language>
+            <Language id="English">
+               Your truthful teachings, pierced the hearts of the heretics, like a double-edged sword, by the power of the Trinity.
+            </Language>
+            <Language id="Arabic">
+               تعاليمك القويمة نفذت في قلوب الهراطقة مثل سيف ذي حدين بقوة الثالوث.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Akeli niben kwlj m~Po#c#: a~lac niben c~mou e~rof: a~p~w~ou m~V] ouwsc e~bol: afmoh m~p~ho n~]oikoumen/.
+            </Language>
+            <Language id="English">
+               Every knee worshiped the Lord, and every tongue praised Him, The Glory of God was announced, and filled the entire universe.
+            </Language>
+            <Language id="Arabic">
+               كل ركبة جثت للرب و كل لسان سبحه و مجد الله ذاع وملأ وجه المسكونة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wcautwc ten[ici m~mok: nem pihumnodoc Dauid: je n~yok pe piou/b sa e~neh: kata t~taxic m~Mel,icedek.
+            </Language>
+            <Language id="English">
+               We therefore magnify You, along with David the prophet, For You are the priest forever, on the order of Melchizedek.
+            </Language>
+            <Language id="Arabic">
+               إننا هكذا نعظمك مع المرتل داود فإنك أنت الكاهن إلى الأبد على طقس ملكي صادق.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pinis] m~patriar,/c: peniwt eyouab Abba Ayanacioc: v/e~ta nefc~bwoui~ eyouab: erouwini m~pennouc.
+            </Language>
+            <Language id="English">
+               Hail to the great patriarch, our father the saint abba Athanasius, whose holy teachings, enlightened our minds.
+            </Language>
+            <Language id="Arabic">
+               السلام للبطريرك العظيم أبينا القديس الأنبا أثناسيوس يا من تعاليمه المقدسة أنارت عقولنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wouniatk qen oumeym/i: peniwt eyouab m~patriar,/c:  Abba Ayanacioc pia~poctolikoc: pimenrit n~te Pi,~rictoc.
+            </Language>
+            <Language id="English">
+               Blessed are you indeed, Our saintly father the patriarch, Saint Athanasius the apostolic, beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               مبارك أنت بالحقيقة أيها الاب القديس البطريرك القديس أثناسيوس الرسولي حبيب المسيح.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StAthanasius"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Athanasius the Apostolic</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس الأنبا أثناسيوس البطريرك</Language>
+            <Language id="Coptic">Ayanacioc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Athanasius:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ayanacioc piapoctolikoc: picaq n~te ]ekkl/cia: e~tafswpi m~piaylovoroc: eybe teforyodoxia~.
+            </Language>
+            <Language id="English">
+               Athanasius the Apostolic, the teacher of the Church, who became a champion, because of his Orthodoxy.
+            </Language>
+            <Language id="Arabic">
+               أثناسيوس الرسولي: مُعلِّم الكنيسة: الذي صارَ بطلاً: لأجل أرثوذكسيته.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Je afswpi n~ouq/bc: eferouwini m~pikocmoc t/rf: etaf[ro n~Arioc: nefmetkakia~ afjorou e~bol.
+            </Language>
+            <Language id="English">
+               For he became a lamp, illuminating the entire world, when he defeated Arius, purging his darkness.
+            </Language>
+            <Language id="Arabic">
+               لأنه صار سراجاً: منيراً للعالم كله: لمَّا هَزَمَ أريوس: مبدِّداً ظلماتِه.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Ouoh aft~cabon je Pilogoc: n~o~mooucioc nem V~iwt: efj/k e~bolqen tefmeynou]: qen ouvucic n~ouwt.
+            </Language>
+            <Language id="English">
+               And he taught us that the Logos, is consubstantial with the Father, whole in His divinity, with one nature.
+            </Language>
+            <Language id="Arabic">
+               وعلَّمنا أن الكلمة: مساوياً للآب: كاملاً في ألوهيَّتِه: بطبيعة واحدة.
+            </Language>
+         </Text>
+          
+         <Text>
+            <Language id="Coptic">
+               Af] oube niremn~i~dolon: ke on niheretukoc: afcek erwou e~pinah]: ef] tajro m~peflaoc.
+            </Language>
+            <Language id="English">
+               He fought the pagans, and the heretics, drew them to the faith, fortifying his people in the faith.
+            </Language>
+            <Language id="Arabic">
+               قاوَم الوثنيين: وأيضاً الهراطقة: جذبهُم إلى الإيمان: مُثَبِّتاً شعبَه.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Ava]meynou] jeke~bol: pefc/ou t/rf qen piagwn: ouoh afswpi oube pikocmoc: je nafoi nem P,#c#.
+            </Language>
+            <Language id="English">
+               The father of theology spent, all his life in struggles, and became against the world, for he was with Christ.
+            </Language>
+            <Language id="Arabic">
+               وقضى أبو اللاهوت: كلَّ زمانه في الجهاد: وصارَ ضِدَّ العالم: لأنه كان مع المسيح.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               V/etafswpi nem niapoctoloc: pinis] qen nipatriar,/c: afhicen] n~]metmona,oc: qen nemh/t enafoi n~,aki .
+            </Language>
+            <Language id="English">
+               He who was like the apostles, great among the patriarchs, who established monasticism, in the dark West.
+            </Language>
+            <Language id="Arabic">
+               الذي صار مع الرسل: العظيم في البطاركة: الذي أرسى الرهبنة: في الغرب المُظلِم.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Afhicen] on n~]ekkl/cia: qen t~polic n~nie~yaus: akouwrpnwou n~apouncalama: e~te pihiwis n~te piouwini.
+            </Language>
+            <Language id="English">
+               He also established the Church, in the land of Ethiopia, and sent to them Father Salama, who is the preacher of light.
+            </Language>
+            <Language id="Arabic">
+               أرسى أيضاً الكنيسة: في بلدة الحبشة: أرسل لهم أبونا سلامه: الذي هو مُعلِن النور.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn: w~pinis] m~patriar,/c: abba Ayanacioc piapoctolikoc: n~t#e#f# ...
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf, O great Patriarch, Abba Athanasius the Apostolic, that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               أطلب من الرب عنَّا: أيها البطريرك العظيم: أنبا أثناسيوس الرسولي: ليغفر لنا خطايانا.
+            </Language>
+         </Text>
+      </Section>
+   </Season>
+</Document>

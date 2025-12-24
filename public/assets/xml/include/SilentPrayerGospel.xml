@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Title>
+         <Language id="English">O You who are longsuffering...</Language>
+         <Language id="Arabic">أيها الطويلُ الأناةِ...</Language>
+         <Language id="Coptic">Pirefw~oun~h/t...</Language>
+      </Title>
+      
+      <Role id="Priest" silent="true">
+         <Comment>
+            <Language id="English">
+               During the reading of the Gospel’s interpretation, the fellow priest or serving priest says the following prayer to the Father inaudibly while holding the censer in his hand.
+            </Language>
+            <Language id="Arabic">
+               وفي أثناء تفسير الإنجيل يقول الكاهن الشريك أو الخديم هذه الصلاة للآب سراً والمجمرة في يده:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/SilentPrayerGospel.1"/>
+         <InsertDocument path="include/SilentPrayerGospel.2"/>                  
+         <InsertDocument path="include/SilentPrayerGospel.3"/>
+         <InsertDocument path="include/SilentPrayerGospel.4"/>
+         <InsertDocument path="include/SilentPrayerGospel.5"/>
+         <InsertDocument path="include/SilentPrayerGospel.6"/>
+         <InsertDocument path="include/SilentPrayerGospel.7"/>
+         <InsertDocument path="include/litanies/PlaceShortPriest"/>
+         <InsertDocument path="include/SilentPrayerGospel.8"/>
+         <InsertDocument path="include/SilentPrayerGospel.9"/>
+         <InsertDocument path="include/SilentPrayerGospel.10"/>
+         <InsertDocument path="include/litanies/OblationsShortPriest"/>
+         <InsertDocument path="include/SilentPrayerGospel.11"/>
+         <InsertDocument path="include/SilentPrayerGospel.12"/>
+         <InsertDocument path="include/SilentPrayerGospel.13"/>
+         
+         <InsertDocument path="include/SilentPriestConclusion"/>
+      </Role>
+   </Section>
+</Document>

@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" GladnessConsecration="true">
+   <Title>
+      <Language id="English">Sanctification of Oil of Gladness</Language>
+      <Language id="Arabic">صلاة تقديس الغاليلاون</Language>
+   </Title>
+      
+   <Comment>
+      <Language id="English">
+         The oil of gladness (Hagelion) is placed on the altar of offering 
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/StartOfService"/>
+   
+   <Role id="Patriarch" silent="true">
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      <InsertDocument path="include/BlessMeLo"/>
+   </Role>
+   
+   <Comment>
+      <Language id="English">
+          His Holiness the Pope begins by the Prayer of Thanksgiving: 
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/ThanksgivingPrayer"/>   
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   <InsertDocument path="include/ProcessionOfIncense"/>
+   
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   
+   <InsertDocument path="include/litanies/Sick"/>
+   <InsertDocument path="include/litanies/Travelers"/>
+   <InsertDocument path="include/litanies/Seasons"/>
+   <InsertDocument path="include/litanies/LeaderLong"/>
+   <InsertDocument path="include/litanies/Departed"/>
+   <InsertDocument path="include/litanies/Oblations"/>
+   <InsertDocument path="include/cyril/litanies/Standing"/>
+   <InsertDocument path="include/litanies/PlaceShort"/>
+   <InsertDocument path="include/litanies/Catechumens"/>
+   <InsertDocument path="include/litanies/Peace"/>
+   <InsertDocument path="include/litanies/Fathers"/>
+   <InsertDocument path="include/litanies/Assemblies"/>
+   <InsertDocument path="include/Ensofia"/>
+   <InsertDocument path="include/Creed"/>
+   
+   <Comment>
+      <Language id="English">
+         One of the fathers the bishops prays the following Litany and the people respond Lord have mercy following each petition:
+      </Language>
+   </Comment>   
+   
+   <Role id="Bishop">
+      <Text>
+         <Language id="English">
+            Pray for those afflicted in prisons or dungeons, those in exile or captivity, and those held by the bonds of demons, that the Lord set them free, have mercy upon them and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            أطلبوا عن المتضايقين في السجون والمطابق والذين في السبي والنفي والموثوقين برباط الشياطين لكي يعتقهم الرب ويرحمهم ويغفر لنا خطايانا.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Pray for the management of the holy Church, the people and the cattle, that the Lord may bless them, strengthen them, and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن تدبير الكنيسة المقدسة والناس والدواب ليباركهم الرب ويُقَوِّيهم ويغفر لنا خطايانا.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Pray for the Christ loving rulers who have bidden us to remember them, each one according to his name. That the Lord bless them, grant them grace before the mighty sovereigns, and forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            اطلبوا عن الأراخنة محبي المسيح الذين أمرونا أن نذكرهم كل واحد وواحد باسمه لكي الرب يباركهم ويمنحهم نعمة أمام القادة الأعزاء ويغفر لنا خطايانا.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch">   
+      <Text>
+         <Language id="English">
+            O God, the Holy, Who rests in His saints, and who works in the saints, bless and purify our souls and our bodies, through the prayers of all Your saints. 
+         </Language>
+         <Language id="Arabic">
+            يا الله القدوس والمستريح في قديسيه، الفاعل في القديسين. بارك وطهر نفوسنا وأجسادنا بطلبات جميع قديسيك.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Deacon">
+      <Text>
+         <Language id="English">
+            Attend in the fear of God.
+         </Language>
+         <Language id="Arabic">
+            أجيبوا بخوفِ الله.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            O Master, Lord, God, Who by the law and prophets has given His priests when they were anointed with this oil grace through Christ Jesus, 
+         </Language>
+         <Language id="Arabic">
+            السيد الرب الله الذي بالناموس والأنبياء أعطى كهنته عندما مُسِحوا بهذا الزيت النعمة من جهة المسيح يسوع،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            grant all Your people to be anointed with this holy oil, having prepared them to be unto Yourself a kingdom, a priesthood and a purified people.
+         </Language>
+         <Language id="Arabic">
+            هَب شعبك كله أن يُمسَحوا بهذا الزيت المقدس إذ أعددتهم لك مملكة وكهنوتاً وأُمة مطهرة،
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Bless now also this oil set forth before us by Your power and the grace of Your Only-begotten son and the working of Your Holy Spirit, the Giver-of-life and Co-essential with You, now and at all times and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            بارك الآن أيضاً هذا الزيت الموضوع أمامنا بقوتك والنعمة التى لابنك الوحيد وفعل روحك القدوس المحيي والمساوي لك الآن وكل أوان...
+         </Language>
+      </Text>
+   </Role>
+      
+      
+   <Role id="People">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Ntefc~mou e~ron...</Language>
+         </Title>
+         
+         <InsertDocument path="include/PouroConclusion"/>
+      </Section>
+   </Role>
+      
+   <Role id="Deacon">
+      <InsertDocument path="include/OfferInOrder"/>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/hiten/StMary"/>
+      <InsertDocument path="include/TenouwstSeasonalResponse"/>
+      
+      <Text>
+         <Language id="English">
+            A mercy of peace: a holy Hagelion.
+         </Language>
+         <Language id="Arabic">
+            رحمةُ السلام، غاليلاون كامل.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Title>
+      <Language id="English">Anaphora</Language>      
+      <Language id="Arabic">الانافورا</Language>
+   </Title>
+   
+   <InsertDocument path="include/AnaphoraIntro"/>
+   
+   <Role id="Patriarch">      
+      <Text>
+         <Language id="English">
+            Meet and right, Meet and right, Meet and right.
+         </Language>
+         <Language id="Arabic">
+            مستحق ومستوجب، مستحق ومستوجب، مستحق ومستوجب.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask you, O Lord to impart us before Your glory, for our eyes are looking upwards towards You. 
+         </Language>
+         <Language id="Arabic">
+            نسألك يا رب أن تُقرِّبنا أمام مجدِك لأن أعيننا تنظر إلى فوق إليكَ 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We ask of Your goodness, O compassionate One and we bow our weak souls within our bodies.
+         </Language>
+         <Language id="Arabic">
+            ونسأل صلاحك أيها المتعطف ونحني نفوسنا الضعيفة في أجسادنا. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            You are the One, Only True God, we ask mercy from You and the greatness of your help. 
+         </Language>
+         <Language id="Arabic">
+            أنتَ هو الإله الحقيقي الواحد وحده نسأل الرحمة من جهتك وعظم معونتك. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            We acknowledge You, O Beneficent, the innovative Creator, the Prelate, Creator of all things, the Giver of life, Who is able to correct, the Most High Lord, who gives richly, the possessor of all. 
+         </Language>
+         <Language id="Arabic">
+            نعرفك أيها المحسن والخالق المبدع المدبر خالق كل الأشياء المعطي الحياة الذي يقدر على التقويم، الرب العلي المعطي بغنى، مالك الكل
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/YouWhoAreSeated"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            You are the One, O Lord, Who we ask. Look, see, and illuminate the eyes of Your servant. Be a true support during all of our troubles.
+         </Language>
+         <Language id="Arabic">
+            أنتَ هو الذي نطلب إليك أيها الرب اطلع وانظر وأنر عيني عبدك. كُن لنا عوناً حقيقياً في جميع شدائدنا. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant us our needs. Be for us a physician, heal our sicknesses, save us from all bad and crooked ways, guide us to straight places, 
+         </Language>
+         <Language id="Arabic">
+            أنعم لنا بحاجاتنا. كُن لنا طبيباً، إشف أمراضنا، خلِّصنا من كل طرق ردية معوجة، إهدنا إلى أماكن مستقيمة. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            fill us with every joy, and rescue us from death, earthquakes, drownings, burns, fires, exiles, rising up of the enemies, and  every vain liar.
+         </Language>
+         <Language id="Arabic">
+            إملأنا من كلِّ فرحٍ ونجنا من الموت والزلازل والغرق والحريق والنار والسبي ومن قيام الأعداء ومن كل يمين كاذب. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Release us from the bondage of unjust and pain of the heart. O Lord gladden the locked-in and free them. Those who are in hardships help them quickly.
+         </Language>
+         <Language id="Arabic">
+            حلِّنا من رباطات الظلم ووجع القلب. يا رب فرِّح المحبوسين وأطلقهم والذين في الشدائد أعنهم سريعاً.
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LookTowardsTheEast"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            Grant us, O our King, now, and at all times, a conduct pleasing to you, we who are sustained by your true Law, and recite Your holy scriptures.
+         </Language>
+         <Language id="Arabic">
+            أعطنا يا ملكنا الآن وفي كلِّ حينٍ سيرة ترضيك نحن الذين نقتات بناموسك الحقيقي ونتلو أسفارك المقدسة.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Cast away from us all evil so that we may long for the heavenly instead of the earthly things.
+         </Language>
+         <Language id="Arabic">
+            انزع عنا كل شر حتى نشتاق إلى السمائيات لا إلى الأرضيات.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            The Lord, God of the powers, Salvation of our souls and our bodies.
+         </Language>
+         <Language id="Arabic">
+            الرب إله القوات خلاص نفوسنا وأجسادنا
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Who forgives our sins, our protector in all our afflictions, the giver of strength in our sickness, whose kingdom shall have no end, forever.
+         </Language>
+         <Language id="Arabic">
+            الذي يغفر خطايانا ناصرنا في كلِّ شدائدنا مُعطي القوة في أمراضنا الذي لا إنقضاء لملكه إلى الأبد.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            At all times and in every place we hallow You. Rather with all who hallow You, receive from us we too our hallowing, O Lord, our King, that we may praise You with them saying:
+         </Language>
+         <Language id="Arabic">
+            كل حين وفي كل مكان نقدِّسك بل ومع كل من يُقدِّسك إقبل مِنَّا نحن أيضاً يا ملكنا تقديسنا يا رب لنسبحك معهم قائلين:
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LetUsAttend"/>
+   <InsertDocument path="include/AnaphoraTheCherubim"/>
+   
+   <Role id="Patriarch">      
+      <Text>
+         <Language id="English">
+            Holy, holy, holy are You, O Lord our God. Send down the fullness of Your great mercy upon the fruit of the root of the rich olive and upon this holy Hagelion set forth before us.
+         </Language>
+         <Language id="Arabic">
+            قدوس قدوس قدوس أنتَ أيها الرب إلهنا. ارسل دسم عظيم رحمتك على ثمرة أصل الزيتون الدسم وعلى هذا الغاليلاون المقدس الموضوع أمامنا 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            By which are anointed priests and prophets and kings. Purify it, O Lord, through the coming down of Your Holy Spirit upon it, so that all idolatry and all magic and all sorcery may be loosed. 
+         </Language>
+         <Language id="Arabic">
+           الذي به تدهن الكهنة والأنبياء والملوك. طهره يارب من قبل حلول روح قدسك عليه لكي تنحل كل عبادة الأوثان وكل سحر وكل عزيمة
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Make it a salvation and healing to all the faithful and a light unto every soul that partakes of it, redemption for all who are anointed with it, profitable to their souls and bodies and unto the forgiveness of their sins.
+         </Language>
+         <Language id="Arabic">
+            اجعله خلاص وشفاء لكل المؤمنين ونوراً لكل نفس تنال منه وخلاصاً لكل المدهونين منه نفعاً لنفوسهم وأجسادهم وأرواحهم وغفراناً لخطاياهم.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Deacon">
+      <Text>
+         <Language id="English">
+            Worship in the fear of God. Amen.
+         </Language>
+         <Language id="Arabic">
+            اسجدوا بخوف الله آمين 
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Patriarch" silent="true">
+      <Text>
+         <Language id="English">
+            We ask You, O Lord our God, the Lover of Mankind, hearken to us, we Your servants as we call upon your goodness that when we invoke Your Holy Name upon this ointment,
+         </Language>
+         <Language id="Arabic">
+            نسألك أيها الرب إلهنا محب البشر اسمعنا نحن عبيدك إذ ندعو صلاحك لكي يصير هذا الدهن عندما يُدعى اسمك القدوس عليه 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            it may become an anointing of salvation to every one in every way against all the workings of the adversary and all idolatry. 
+         </Language>
+         <Language id="Arabic">
+            مسحة خلاص لكل أحد بكلِّ نوعٍ قبالة كل فعل المضاد وكل عبادة الأوثان.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Raise us, O Lord through Your power and Your fear.
+         </Language>
+         <Language id="Arabic">
+            أقمنا يا رب بقوتك وخوفك.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Keep us and deliver us from every evil that rises up against us. 
+         </Language>
+         <Language id="Arabic">
+            احفظنا ونجنا من كلِّ شرٍّ يقوم علينا، 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Save us from every outward plague and from every present temptation and from the wrath to come, and from all evil, and from the face of the bow,
+         </Language>
+         <Language id="Arabic">
+            خلِّصنا من كلِّ ضربةٍ خارجةٍ ومن كلِّ تجربة حاضرة ومِن الغضب الآتي ومن كلِّ شرٍّ 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            and the arrows and the sword of war and from every evil spirit  and from all the authorities of darkness and from this age.
+         </Language>
+         <Language id="Arabic">
+            ومن وجه القوس والسهام ومن سيفِ الحرب ومن كلِّ روحٍ رديء ومن كلِّ سلطان الظلمة ومِن هذا الدهر.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Make us worthy of the light that cannot be extinguished and the hope of the repose of the eternal good things.
+         </Language>
+         <Language id="Arabic">
+            اجعلنا أهلاً للنور الذي لا يغرب والرجاء ونياح الخيرات الدهرية 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            In Christ Jesus our Lord, through Whom all glory and all honor and all worship are due to the Father together with Him and the Holy Spirit, now and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            بربنا يسوع المسيح هذا الذي من قبله كل مجد وكل كرامة وكل سجود يليق بالآب معه والروح القدس الآن وكل...
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/ForYourPeople"/>   
+      
+   <Role id="Patriarch">      
+      <Text>
+         <Language id="English">
+            So that with a pure heart and clean lips we dare to pray to You, our Holy Father Who is in the heavens saying: Our Father…
+         </Language>
+         <Language id="Arabic">
+            لكي بقلبٍ طاهرٍ وشفاهٍ نقية نجسر أن نطلب منكَ يا أبانا القدوس الذي في السموات ونقول أبانا الذي في السموات...
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/LordsPrayer"/>
+   </Role>
+      
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            One of the fathers the bishops says:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            We ask You, O our master, the Lover of Mankind to send down the Holy Spirit upon this oil and to bless it according to the multitude of Your compassion.
+         </Language>
+         <Language id="Arabic">
+            نسألك يا سيدنا محب البشر أن تُرسل الروح القدس على هذا الزيت وتُباركه ككثرة تحننك.
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Grant it the healing power from on high. That it may be to every one who partakes of it among Your servants the orthodox believers a safeguard for their souls, 
+         </Language>
+         <Language id="Arabic">
+            هَب له العمل العُلوي المشفي لكي يكون لك من ينال منه من عبيدك المؤمنين الأورثوذكسيين حرزاً لنفوسهم 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            bodies and spirits and a brightness unto their hearts, unto the glory and honor of Your Holy Name and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            وأجسادهم وأرواحهم وضياءً لقلوبهم. مجداً وإكراماً لاسمكَ القدوس...
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/BowYourHeads"/>
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            For this holy Hagelion, the oil of gladness, the garment of light, the spiritual covering, the royal ointment, we ask You, O Lord, hear us and have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            من أجل هذا الغاليلاون المقدس، زيت الفرح، لباس النور، الغطاء الروحاني، الدهن الملوكي نسألك يا رب اسمعنا وارحمنا. 
+         </Language>
+      </Text>
+   </Role>
+      
+   <InsertDocument path="include/LordHaveMercy"/>   
+      
+   <Role id="Patriarch">
+      <Text>
+         <Language id="English">
+            For Yours is the glory and the blessing and the great majesty.
+         </Language>
+         <Language id="Arabic">
+            لأن لك المجد والبركة وعظم البهاء 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            In Your hands are the happy life together with Your Only-begotten Son Jesus Christ our Lord and King of us all.
+         </Language>
+         <Language id="Arabic">
+            وبيدك الحياة السعيدة وابنك الوحيد يسوع المسيح ربنا ملك الكل. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            Through Whom, together with all the rational natures we send up unto You, worthily, 
+         </Language>
+         <Language id="Arabic">
+            هذا الذي من قبلك معه مع كل الطبائع الناطقة نرسل لك إلى فوق باستحقاقٍ 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            the glory and the thanksgiving together with Him and the Holy Spirit the Giver of life who is Co-essential with You, now and at all times and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            المجد والشكر مع الروح القدس المحيي المساوي لك الآن وكل آوان...
+         </Language>
+      </Text>
+   </Role>
+      
+   <Role id="Bishop">
+      <Comment>
+         <Language id="English">
+            The senior bishop prays:
+         </Language>
+      </Comment>
+         
+      <Text>
+         <Language id="English">
+            Grant unto these which we have now started to sanctify the holies for the holy. Holy is the Father, Holy is the Son, Holy is the Holy Spirit. Amen. 
+         </Language>
+         <Language id="Arabic">
+            هؤلاء الذين ابتدأنا بتطهيرهم الآن أعطِ قدس القديسين قدوس الآب، قدوس الابن، قدوس الروح القدس آمين. 
+         </Language>
+      </Text>
+         
+      <Text>
+         <Language id="English">
+            An oil of rejoicing against all the powers of the adversary, that it may be grafted into the root of the rich olive (tree) in the holy, catholic and apostolic church of God. Amen. 
+         </Language>
+         <Language id="Arabic">
+            زيت التهليل مقاتلاً كل قوات المضاد لينغرس في أصل الزيتون الدسم في المقدسة الجامعة الرسولية كنيسة الله آمين.
+         </Language>
+      </Text>
+   </Role>
+      
+   <Comment>
+      <Language id="English">
+         The people sing Psalm 150 in the standard tune while His Holiness the Pope signs the vessels of the Hagelion with the Mystagogy and then the vessels are brought into the synthronos and are covered with a white veil. 
+      </Language>
+   </Comment>
+
+   <InsertDocument path="include/psalm150/Psalm150"/>
+   
+   <Comment>
+      <Language id="English">
+         They conclude the liturgy with the end-of service-hymn peculiar to the fathers.
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/conclusion/ConclusionOfService"/>
+   
+   <Comment>
+      <Language id="English">
+         Thus ends the order of the Liturgy of the holy Hagelion.
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         After this the Psalms of Vespers and Compline are prayed:
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/agpeya/11thHourLink"/>
+   <InsertDocument path="include/agpeya/12thHourLink"/>
+      
+   <Comment>
+      <Language id="English">
+         The Lamb is offered and the holy liturgy is completed as customary. It is to be noted that the liturgy on the day of the sanctification of the holy Myron has special readings:
+      </Language>
+   </Comment>
+   
+   <Title>
+      <Language id="English">Offering of Evening Incense</Language>
+      <Language id="Arabic">رفع بخور عشية</Language>      
+      <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~rouhi</Language>
+   </Title>
+   
+   <BibleReference reference="Psalms 23:5-6" type="section"/>
+   <BibleReference reference="Luke 23:50-24:12" type="section" hideIntroConclusion="true"/>      
+      
+   <Title>
+      <Language id="English">Offering of Morning Incense</Language>
+      <Language id="Arabic">رفع بخور باكر</Language>      
+      <Language id="Coptic">Ptalo Mpicyoinoufi n~te Hana~toui</Language>
+   </Title>
+      
+   <BibleReference reference="Psalms 51:12-13" type="section"/>
+   <BibleReference reference="Mark 16:1-20" type="section" hideIntroConclusion="true"/> 
+      
+   <Title>
+      <Language id="English">Liturgy of the Word</Language>
+      <Language id="Arabic">قداسُ الكلمة</Language>
+   </Title>
+      
+   <BibleReference reference="Hebrews 9:11-10:24" type="section"/>
+   <BibleReference reference="1 John 4:7-5:21" type="section"/>
+   <BibleReference reference="Acts 13:13-49" type="section"/>
+   <BibleReference reference="Psalms 45:7-8" type="section"/>
+   <BibleReference reference="John 19:38-20:18" type="section" hideIntroConclusion="true"/>
+</Document>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Season id="Pentecost">         
+      <Comment>
+         <Language id="English">
+            For the Feast of the Pentecost:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            AP,#c# pennou]: twnf e~bol qen n/eymwout: ouoh afsenaf e~p~swi e~niv/oui~: afouwrp nan m~piparakl/ton.
+         </Language>
+         <Language id="English">
+            Christ our God, has risen from the dead, He ascended to heaven, and sent the Comforter.
+         </Language>
+         <Language id="Arabic">
+            المسيح إلهنا قام من بين الأموات وصعد إلى السماء وأرسل لنا المعزى.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere tefanalum'ic: e~tafsenaf e~p~swi e~niv/oui~: afouwrp nan m~piparakl/ton: Pip#n#a# n~te ]meym/i.
+         </Language>
+         <Language id="English">
+            Hail to His Ascension, when He ascended to heaven, He sent the Comforter, the Spirit of Truth.
+         </Language>
+         <Language id="Arabic">
+            السلام لصعوده لما صعد إلى السماء وأرسل لنا المعزى روح الحق.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            Pip#n#a# m~parakl/ton: e~tafi~ e~pec/t e~bol qen t~ve: afvwrs e~jen v~ouai v~ouai: aucaji qen hanm/s n~lac.
+         </Language>
+         <Language id="English">
+            The Spirit of Comfort, which came down from heaven, laid on each one of them, and they spoke in many tongues.
+         </Language>
+         <Language id="Arabic">
+            الروح المعزى لما نزل من السماء انبسط على كل واحد فواحد فنطقوا بألسنة كثيرة.
+         </Language>
+      </Text>      
+      
+      <Group>
+         <Season id="EntranceOfTheHolyFamily">         
+            <InsertDocument path="include/versesofthecymbals/EntranceOfTheHolyFamilyContents"/>
+         </Season>
+      </Group>
+   </Season>
+</Document>

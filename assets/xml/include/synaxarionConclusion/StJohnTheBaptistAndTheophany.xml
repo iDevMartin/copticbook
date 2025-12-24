@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StJohnTheBaptist:Feast | TheophanyPeriod | TheophanyLiturgyOfTheWaters">
+      <Role id="People">
+         <Section>
+            <Title>
+               <Language id="English">A Proud Name</Language>
+               <Language id="Coptic">Ouran n~sousou</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">         
+                  For the Commemoration of St. John the Baptist:
+               </Language>
+            </Comment>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ouran n~sousou pe pekran: w~ picunggen/c nE~mmanou/l: n~yok ounis] qen n/eyouab t/rou Iwan/c piref]wmc.
+               </Language>
+               <Language id="English">
+                  A proud name is your name, O kinsman of Immanuel. You are great among all saints , O John the Baptist.
+               </Language>
+               <Language id="Arabic">
+                  اسم فخر هو اسمك يا نسيب عمانوئيل أنت عظيم في جميع القديسين يا يوحنا المعمدان.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  K~[oci e~nipatriar,/c k~tai/out e~nip~rov/t/c je m~pe ouon twnf qen nijinmici n~te nihiomi efo~ni m~mok.
+               </Language>
+               <Language id="English">
+                  You are more exalted than the Patriarchs, and more honored than the Prophets, for no one has risen among those born of women, who is like you.
+               </Language>
+               <Language id="Arabic">
+                  أنت مرتفع أكثر من رؤساء الآباء ومكرم أكثر من الأنبياء لأنه لم يقم في مواليد النساء من يشبهك.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Amwini cwtem e~picovoc pilac n~noub Yeo~docioc efjw m~p~taio m~pibaptict/c Iwann/c piref]wmc.
+               </Language>
+               <Language id="English">
+                  Come and hear the wise, the golden-tongued Theodosius, speaking of the honor of the baptizer, John the Baptist.
+               </Language>
+               <Language id="Arabic">
+                  تعالوا اسمعوا الحكيم لسان الذهب تاؤدوسيوس ينطق بكرامة السابق يوحنا المعمدان.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Je ainamou] e~rok je nim ainataiok n~as n~r/] aina,ak n~as n~c~mot w~v/ete m~p~sa n~taio~ niben.
+               </Language>
+               <Language id="English">
+                  What will I call you? How will I honor you? What will I compare you to?  O you who are worthy of all honor.
+               </Language>
+               <Language id="Arabic">
+                  ماذا أدعوك وبأى نوع أكرمك وبأى شبه أشبهك يا مستحق كل كرامة.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  N~yok pe p~holj n~nikarpoc: n~yok pe n~kim n~te pik~ladoc: n~yok pe piviri e~bol n~te nis~s/n: etr/t qen p~kahi n~te pi,~rinon.
+               </Language>
+               <Language id="English">
+                  You are the sweetness of fruits, you are the movement of branches, you are the blossom on the trees planted in the land of the lilies.
+               </Language>
+               <Language id="Arabic">
+                  أنتَ هو حلاوة الثمرات ، أنتَ هو حركة الأغصان ،أنتَ هو زهرة الأشجارالنابته فى أرض السوسن.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Arip~recbeuin e~h~r/i ejwn w~pip~rodromoc m~baptict/c Iwann/c piref]wmc n~tef ,a nennobi nan ebol
+               </Language>
+               <Language id="English">
+                  Intercede on our behalf, O forerunner and baptizer, John the Baptist, that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  اشفع فينا ايها السابق الصابغ يوحنا المعمدان ليغفر لنا خطايانا.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Twbh m~P[oic e~h~r/i ejwn w piyew~rimoc n~euaggelict/c abba Markoc piapoctoloc ntef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Pray to the Lord on our behalf, O beholder of God, the evangelist Mark the Apostle, that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  أطلب من الرب عنا يا ناظر الإله الأنجيلي مرقس الرسول ليغفر لنا خطايانا.
+               </Language>         
+            </Text>            
+         </Section>
+         
+         <Group>
+            <Season id="DisplayNonCustomaryPrayers ^ (TheophanyPeriod | TheophanyLiturgyOfTheWaters)">
+               <Section expanded="true">
+                  <Title>
+                     <Language id="English">Paralex Hymn</Language>
+                     <Language id="Coptic">Pa[oic</Language>
+                  </Title>
+                  
+                  <Text>
+                     <Language id="Coptic">
+                        Pa[oic I/#c# P,#c#: V/e~taf[iwmc qen piiordan/c: eke~toubo n~nen'u,/: e~bolha p~ywleb n~te v~nobi.
+                     </Language>
+                     <Language id="English">
+                        O My Lord Jesus Christ: Who was baptized in the Jordan: purify our souls: From the blemish of sin.
+                     </Language>
+                     <Language id="Arabic">
+                        يا ربي يسوع المسيح الذي اعمتد في الاردن طهر قلوبنا من دَنس الخطية 
+                     </Language>         
+                  </Text>
+                  
+                  <InsertDocument path="include/StandardPachoicConclusion"/>
+               </Section>
+            </Season>
+         </Group>
+      </Role>
+   </Season>
+</Document>

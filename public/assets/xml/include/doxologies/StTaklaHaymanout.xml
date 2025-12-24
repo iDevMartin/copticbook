@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StTaklaHaymanout:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Takla Haymanout</Language>
+            <Language id="Arabic">ذوكصولوجية أنبا تكلا هيمانوت</Language>
+            <Language id="Coptic">PiP~neuma m~Parakl/ton...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Takla Haymanout:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               PiP~neuma m~Parakl/ton: e~tafi~ e~pec/t e~bol qen t~ve: e~jen v~iwt pimakarioc: pia~gioc Yekla Humanoc.
+            </Language>
+            <Language id="English">
+               The Spirit of comfort, came down from heaven, upon the blessed father, Saint Takla Haymanout.
+            </Language>
+            <Language id="Arabic">
+               الروح المعزى لما نزل من السماء على الطوباوى القديس تكلا هيمانوت.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Qen pie~hoou m~mah somt (g#): n~te pefjinmici etc~marwout: efws e~bol je ouai pe: V~iwt nem p~S/ri nem piP~neuma e#y#u#.
+            </Language>
+            <Language id="English">
+               On the third day, of his blessed birth, he proclaimed "One is the Father, the Son and the Holy Spirit."
+            </Language>
+            <Language id="Arabic">
+               فى اليوم الثالث لميلاده المبارك. صرخ قائلا واحد هو الآب والابن والروح القدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ouoh icjen tefmeta~lou: afmoh e~bol qen piP~neuma e#y#u#: ouoh nia~geloc n~te t~ve: nau erq/ibi e~h~r/i e~jwf.
+            </Language>
+            <Language id="English">
+               And from his childhood, he was filled with the Holy Spirit, and the angels of heaven, overshadowed him.
+            </Language>
+            <Language id="Arabic">
+               ومنذ طفوليته امتلأ من الروح القدس وملائكة السماء كانت تظلل عليه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Mi,a/l p~ar,wn n~na niv/oui~: ef,/ nemaf n~c/ou niben: kata v~r~/] e~tafjoc: n~je Dauid qen pi'almoc.
+            </Language>
+            <Language id="English">
+               Michael the head of the heavenly, was always with him, as was said by, David in the Psalms.
+            </Language>
+            <Language id="Arabic">
+               ميخائيل رئيس السمائيين كائن معه كل حين. كما قال داود فى المزمور.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               AP,#c# ouwnh nak e~bol: ouoh af] nak m~pie~rsisi: piconh nem pibwl e~bol: m~v~r/] n~nefa~poctoloc.
+            </Language>
+            <Language id="English">
+               Christ was revealed to you, and He gave you the authority, to loosen and to bind, like the Apostles.
+            </Language>
+            <Language id="Arabic">
+               والمسيح ظهر لك وأعطاك سلطان الربط والحل كمثل رسله.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Akswpi n~oua~poctoloc: f~cwtp n~I/#c# P,#c#: ar,/e~reuc n~niE~yafs: v~iwt n~te nimona,oc.
+            </Language>
+            <Language id="English">
+               You became an apostle, chosen by Jesus Christ, the Patriarch of the Ethiopians, the father of the monks.
+            </Language>
+            <Language id="Arabic">
+               وصرت رسولا مختارا ليسوع المسيح رئيس كهنة للأحباش وأبا للرهبان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               F~holj n~je pekran afswpi: qen nenrwn nem niremEyaus: je V] m~pia~gioc: Yekla Humanoc senh/t qaron.
+            </Language>
+            <Language id="English">
+               Your name became sweet, on our lips and the Ethiopians, O God of Saint Takla, the Ethiopian have pity upon us.
+            </Language>
+            <Language id="Arabic">
+               صار اسمك حلو فى أفواهنا وأفواه الأحباش بقولنا يااله القديس تكلا هيمانوت تراءف علينا.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StTaklaHaymanout"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPachomAndStTheodore:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Pachom and St. Theodore</Language>
+            <Language id="Arabic">ذوكصولوجية الأنبا باخوميوس والقديس تادرس تلميذه</Language>
+            <Language id="Coptic">Nyok oumakarioc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Pachom and St. Theodore:
+            </Language>
+         </Comment>
+                  
+         <Text>
+            <Language id="Coptic">
+               Nyok oumakarioc: peniwt e#y#u# abba Paqwm: akerk~l/ronomin m~pic~mou: e~bol hiten Po#c# V].
+            </Language>
+            <Language id="English">
+               You are blessed, O our holy father Abba Pachom, you inherited the blessing, from the Lord God.
+            </Language>
+            <Language id="Arabic">
+               أنت طوباوى ياأبانا القديس باخوم. ورثت البركة من قبل الرب.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Peniwt e#y#u# abba Paqwm: akerm~p~sa n~oum/s n~cop: akeryeorin m~Po#c#: nem nefa~ggeloc e#y#u#.
+            </Language>
+            <Language id="English">
+               Our holy father Pachom, was worthy many times, to see the Lord, and His holy angels.
+            </Language>
+            <Language id="Arabic">
+               ياأبانا القديس أنبا باخوم استحققت مرارا كثيرة أن تنظر الرب مع ملائكته القديسين.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Peniwt e#y#u# abba Paqwm: ake~roua~hem nientol/ n~te V]: akjwk n~nia~ret/ t/rou: ouoh akrana m~Po#c#.
+            </Language>
+            <Language id="English">
+               Our holy father Pachom, you have explained the commandments of God, and you perfected all virtues, and pleased Christ.
+            </Language>
+            <Language id="Arabic">
+               ياأبانا القديس أنبا باخوم. فسرت وصايا الله وأكملت كل الفضائل وأرضيت المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               "olcel n~nia~ck/t/c: peniwt e#y#u# yeodwroc: je akswpi n~t~sebiw: m~pekiwt Paqwmioc.
+            </Language>
+            <Language id="English">
+               The adornment of the ascetics, is our holy father Theodore, for you became the replacement, of your father Pachom.
+            </Language>
+            <Language id="Arabic">
+               زينة النساك ياأبانا القديس ثيؤدوروس لأنك صرت عوضا عن أبيك باخوميوس.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ak,ohkah n~nic~n/ou: e~h~r/i e~]meteuceb/c: akerkayi,in m~mwou: qen pekcaji gar etholj.
+            </Language>
+            <Language id="English">
+               You directed the needs, of the brothers to piety, and you preached to them, with your precious word.
+            </Language>
+            <Language id="Arabic">
+               ووجهت طلب الأخوة الى التقوى ووعظتهم بكلامك الحلو.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ak]nom] n~n/ethas: nem n/e~toi n~kouji n~h/t: qen ]a~gap/ etj/k e~bol: hiten peno#c# I/#c# P,#c#.
+            </Language>
+            <Language id="English">
+               You comforted the weak, and those of faint-heartedness, with perfect love, through our Lord Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               وقويت الضعفاء وصغيرى القلوب بالمحبة الكاملة من قبل يسوع المسيح.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nao#c# n~io] e#y#u#: abba Paqwm va ]koinwnia: nem yeodwroc pefmay/t/c: nimenra] n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to my masters and holy fathers, Abba Pachom of the Koinonia, and Theodore his disciple, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لأبائنا القديسين أنبا باخوم صاحب الشركة وثيؤدوروس تلميذه محبى المسيح.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StPachomAndStTheodore"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,31 @@
+{
+  "fonts": [
+    "Coptic.ttf",
+    "CS New Athanasius.ttf"
+  ],
+  "databases": [
+    "bible_psalms.db",
+    "agpeya.db"
+  ],
+  "xmlSections": [
+    "agpeya",
+    "antiphonary", 
+    "baptism",
+    "clergy",
+    "consecrations",
+    "crowning",
+    "funeral",
+    "include",
+    "lakkan",
+    "liturgies",
+    "melodies",
+    "papal",
+    "pascha",
+    "praises",
+    "prostration",
+    "raisingOfIncense",
+    "readings",
+    "unction",
+    "veneration"
+  ]
+}

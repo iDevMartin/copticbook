@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>               
+         <Language id="English">Hymn of Blessing</Language>
+         <Language id="Coptic">Tenouwst...</Language>                        
+      </Title>
+                     
+      <Text>
+         <Language id="Coptic">
+            Tenouwst m~Viwt n~te piouwini: nem Pefs/ri m~monogen/c: nem Pip~neuma m~Parakl/ton: }t~riac n~o~mooucioc.
+         </Language>
+         <Language id="English">
+            We worship the Father of Light, and His only-begotten Son, and the Holy Spirit, the Trinity, one in essence.
+         </Language>
+         <Language id="Arabic">
+            نسجدُ لآب النور، وإبنِه الوحيد، والروحِ المعزي الثالوث المساوي.
+         </Language>
+      </Text>
+      
+      <Comment>
+         <Language id="English">
+            The deacons then continue with the following:         
+         </Language>
+      </Comment>
+      
+      <InsertDocument path="include/ShereMaria"/>
+   </Section>
+</Document>

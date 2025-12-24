@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="English">
+            From the Lord we ask...  
+         </Language>
+         <Language id="Arabic">
+            من الرب نطلب...
+         </Language>
+      </Text>
+   </Role>
+</Document>

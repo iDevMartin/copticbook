@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StAnthony:Doxology | StPaulTheHermit:Doxology">
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Anthony and St. Paul</Language>
+            <Language id="Arabic">ذوكصولوجية القديسين أنبا أنطونيوس وأنبا بولا</Language>
+            <Language id="Coptic">W nictulloc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               The following doxology is said at anytime, during the placing of the monk’s schema and the prayer of the monk’s funeral
+            </Language>
+            <Language id="Arabic">
+               تقال فى أي وقت وفي صلاة لبس الاسكيم وفي صلاة تجنيز الرهبان
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               W nictulloc n~referouwini: nivwct/r n~al/yinon: e~terouwini n~nen'/,/: hiten noua~r/t/ e#y#u#.
+            </Language>
+            <Language id="English">
+               O the pillars of light: the stars in truth: that enlighten our souls: through their holy virtues,
+            </Language>
+            <Language id="Arabic">
+               أيها العمودان النيران الكوكبان الحقيقان المضيئان لنفوسنا بفضائلهما المقدسة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Abba Antwni nem Abba Paule: nai e~taucolcel m~poubioc: qen hann/ctia~ nem hans~l/l: nem ounis] n~toubo.
+            </Language>
+            <Language id="English">
+               Abba Antony and Abba Paul: who decorated their lives: with fastings and prayers: and great purity,
+            </Language>
+            <Language id="Arabic">
+               انبا أنطونيوس وأنبا بولا اللذان زينا سيرتهما بأصوام وصلوات وطهارة عظيمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eusop n~q~r/i qen nisafeu: euhwc V] qen oumetatmounk: m~pie~hoou nem pie~jwrh: m~v~r/] n~niaggeloc.
+            </Language>
+            <Language id="English">
+               Dwelling in the wilderness: and praising God incessantly: by day and by night: in the likeness of angels,
+            </Language>
+            <Language id="Arabic">
+               ساكنان في البراري مسبحان الله بلا فتور نهاراً وليلاً مثل الملائكة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               San~toujwk m~poubioc e~bol: qen ouounof nem ouyel/l: au[i m~pi,~lom n~attako: qen Ieroucal/m n~te t~ve.
+            </Language>
+            <Language id="English">
+               Until they completed their lives: in joy and happiness: they received everlasting crowns: in the heavenly Jerusalem;
+            </Language>
+            <Language id="Arabic">
+               حتي أكملا عمرهما بفرح وتهليل ونالا الاكليل غير الفاسد في أورشليم السمائية.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Euhwc nem niaggeloc: nem nitagma n~e~pouranion: nem p~,oroc n~te n/e#y#u#: qen oucumvwnia~ n~ouwt.
+            </Language>
+            <Language id="English">
+               Singing with the angels: and the heavenly orders: and the chorus of the saints: in a single symphony,
+            </Language>
+            <Language id="Arabic">
+               مسبحين مع الملائكة والطغمات السمائية ومصاف القديسين بصوت واحد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eu]w~ou n~}t~riac: e#y#u# n~o~mooucioc: e~te n~yoc te ]ar,/: nem p~jwk e~bol n~agayon niben.
+            </Language>
+            <Language id="English">
+               Glorifying the Holy Trinity: who is of one essence: who is the beginning and the end: of all good things.
+            </Language>
+            <Language id="Arabic">
+               يمجدان الثالوت الأقدس المساوي في الجوهر الذي هو بداية ونهاية كل الخيرات.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Wouniatou qen oumeym/i: nenio] e#y#u# n~dikeoc: Abba Antwnioc nem Abba Paule: nimenra] n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Truly blessed are you: our holy and righteous fathers: Abba Antony and Abba Paul: the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباهم بالحقيقة أبوينا القديسين البارين أنبا أنطونيوس وأنبا بولا محبي المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Twbh m~Po#c# e~h~r/i e~jwn:  nao#c# n~io] m~mainous/ri: abba Antwnioc nem abba Paule: n~tef,a nennobi nan e~bol.
+            </Language>
+            <Language id="English">
+               Pray to the Lord on our behalf: my lordly fathers who loved their children: Abba Antony and Abba Paul: that He may forgive us our sins.
+            </Language>
+            <Language id="Arabic">
+               إطلبا من الرب عنا ياسيدى الأبوين محبى أولادهما أنبا انطونيوس وأنبا بولا ليغفر لنا خطايانا.
+            </Language>
+         </Text>
+               
+      </Section>
+   </Season>
+</Document>

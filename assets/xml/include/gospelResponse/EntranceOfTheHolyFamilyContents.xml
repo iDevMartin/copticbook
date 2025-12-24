@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">         
+         For the Feast of the Entrance of the Holy Family into Egypt:
+      </Language>
+   </Comment>
+
+   <Group>
+      <Season id="Liturgy | FirstProstration">
+         <Text>
+            <Language id="English">
+               Egypt, land of the pharaoh, rejoiced / By the entry of her true King / Jesus Christ Who granted her promise / By destroying her idols and removing defiance. 
+            </Language>
+            <Language id="Arabic">
+               فرحت مصر بلد فرعون:   بدخول ملكها الحقيقى المكنون:  يسوع المسيح حيث أعطاها العربون:   بكسر أصنامها وزوال العصيان.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+   
+   <Group>
+      <Season id="!FirstProstration">
+         <Text>
+            <Language id="Coptic">
+               All/louia (4) I/couc Pi,~rictoc p~s/ri m~V] afi~ e~qoun e~p~kahi n~,/mi
+            </Language>
+            <Language id="English">
+               Alleluia (4) Jesus Christ, the Son of God, entered into the land of Egypt.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن اللـه دخل إلي أرض مصر
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

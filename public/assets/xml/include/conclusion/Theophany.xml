@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod | TheophanyParamoun">
+      <Comment>
+         <Language id="English">
+            During the Feast of Baptism of our Lord until Tobe 12:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            V/e~taf[iwmc qen Piiordan/c: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            who was baptized in the Jordan. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            الذي اعتمد في الأردن. خَلِّصْنا وارحَمْنا.
+         </Language>
+      </Text>
+   </Season>
+</Document>

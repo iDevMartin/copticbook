@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StPachomAndStTheodore:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Pachom and St. Theodore:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere peniwt abba Paqwm: va ]koinwnia~: nem Yeo~dwroc pefmay/t/c: nem nefs/ri m~mona,oc.
+            </Language>
+            <Language id="English">
+               Hail to my masters and holy fathers, Abba Pachom of the Koinonia, and Theodore his disciple, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام لابينا باخوم صاحب الشركة وتادرس تلميذه واولاده الرهبان.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

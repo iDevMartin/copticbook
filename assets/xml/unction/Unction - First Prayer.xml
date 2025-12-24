@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Unction="true" Unction1="true">
+   <Title>
+      <Language id="English">Unction of the Sick (First Prayer)</Language>
+      <Language id="Arabic">المسحة المقدسة (الصلاة الاولى)</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         There shall be set in the midst a lamp-stand holding seven lamps unlit. And as often as the priest shall begin a prayer, a lamp shall be lit till the end of the seven prayers.   
+      </Language>      
+      <Language id="Arabic">
+         يوضع في الوسط قنديل به سبع فتايل وفي بداية كل صلاة يوقد الكاهن فتيلة الى الصلاة السابعة.
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         And the sick man, before his reception of this anointing, must make confession of his sins as is required (James 5:14-16).   
+      </Language>      
+      <Language id="Arabic">
+         ينبغي للمريض لكي يستفيد من سر مسحة المرضى أن يعترف على الكاهن قبل ممارسة السر. (يعقوب 5: 14-16)
+      </Language>
+   </Comment>
+   
+   <Comment>
+      <Language id="English">
+         Then, let the first priest light the first lamp and say the first prayer:   
+      </Language>      
+      <Language id="Arabic">
+         يوقد الكاهن الفتيلة الاولى ويقول:
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/StartOfService"/>
+   <InsertDocument path="include/ThanksgivingPrayer"/>   
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>      
+   <InsertDocument path="include/Psalm50AndGloryBeToOurGod"/>
+   <InsertDocument path="include/litanies/Sick"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               You gave grace, O Merciful One, into the hands of Your pure apostles, O Lover of Mankind, that they might heal by Your holy anointing all afflictions and all diseases of all that come to You and to Your gift in faith.
+            </Language>      
+            <Language id="Arabic">
+               أعطيتَ نعمتَكَ أيها المتأنى على أيدى رسلك الأطهار يا محبَ البشرِ، لكى يشفوا بمسحتِكَ المقدسةِ كلَّ ضرباتِ وكلَّ أسقامِ الآتين اليكَ، وإلى مواهبك بأمانهٍ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Now therefore cleanse us with Your right hand from all sickness, and of Your Goodness make us worthy of Your unending joy. And sign those who come to You in faith, that there may be to them deliverance and recovery from diseases of the soul and the body, after Your priests have anointed them, as You have commanded by the mouth of James Your disciple.
+            </Language>      
+            <Language id="Arabic">
+               فالآن أيضاً طهرنا بيمينِكَ من كلِّ مرضٍ، واجعلنا مستحقين بصلاحِكَ، لفرحِكَ غير الفانى، وارشم الآتين اليكَ بأمانةٍ، ليكون لهم خلاص ونجاة من أمراضِ النفسِ والجسدِ، عندما يدهنُهم كهنتُكَ، كما قلت على فمِ يعقوب تلميذِكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               You, O Lord, from the beginning declared by the branch of olive that the flood was passed; so by Your holy anointing and by Your Name, O Compassionate and Merciful One, heal this, Your servant (...) who believes in Your Name. Through the intercession of the Virgin, Mother of Salvation.
+            </Language>      
+            <Language id="Arabic">
+               أنتَ ياربُ من البدءِ، بغصنِ الزيتونِ، قد أظهرتَ أنه قد مضى الطوفان وبمسحتِكَ المقدسةِ وباسمك أيها الرؤوف الرحيم، خَلِّص عبدَكَ (...) المؤمن باسمِكَ، بشفاعة العذراء أم الخلاص.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who bid the sick to call for the priests of the church, the ministers of Your Godhead, and that they should anoint them with holy oil, that they should be healed. Save, O Good One, Your servant (...) by this holy anointing. Through the intercession of the Virgin, Mother of Salvation.
+            </Language>      
+            <Language id="Arabic">
+               يا من أمَرَ المرضى أن يدعوا قسوسَ الكنيسةِ، الذين هم خُدام لاهوتِكَ، ويدهنوهم بالزيتِ المقدسِ ليخلصوا. نج أيها الصالحُ عبدَكَ (...) من قِبَلِ هذه المسحة المقدسة، بشفاعه العذراء أم الخلاص.
+            </Language>
+         </Text>      
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Heal, O Lord, our souls and our bodies by Your divine signing and Your exalted hand, for You are the Lord of us all. Through the intercession of the Virgin, Mother of Salvation.
+            </Language>      
+            <Language id="Arabic">
+               اشف يارب أنفسَنا وأجسادَنا برشمِكَ الإلهى ويدِكَ العالية، لأنك أنتَ هو ربنُا كلُنا. بشفاعة العذراء أم الخلاص.
+            </Language>
+         </Text>      
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Saviour and Lover of Mankind, You gave grace to prophets and kings and archpriests. So effect by this divine oil healing to them that are anointed therefrom. And protect them from all assaults of the devil, and look upon them with the countenance of Your mercy. 
+            </Language>      
+            <Language id="Arabic">
+               أيها المخلص محب البشر، يا من أعطيت النعمةَ للأنبياءِ والملوكِ ورؤساءِ الآباءِ، إجعل فى هذا الزيتِ الشفاءَ للذين يدهنون منه. واسترهُم من جميعِ المحارباتِ الشيطانيةِ، وامل إليهم بوجِه رحمتِكَ.
+            </Language>
+         </Text>      
+         
+         <Text>
+            <Language id="English">
+               Bless them with the eye of Your Goodness, and stretch out the hand of Your power; and grant Your servant (...) and those who are present with him, healing of soul and body. Through the intercession of the Virgin, Mother of Salvation. 
+            </Language>      
+            <Language id="Arabic">
+               وباركهم بعينِ صلاحِكَ. وابسط يد قوتِكَ وامنح عبدَكَ (...) والحاضرين معنا الشفاءَ النفسانى والجسدانى، بشفاعة العذراء أم الخلاص.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Physician of the sick and forgiver of sins, who deliver from distress all those that come to You; O safe harbour from the tossing of the waves and their turmoil; show mercy upon them that are oppressed by diseases and preserve them from evil death.  Fulfil the prayer of Your priests for Your servant (...) and send upon him from on high the rain of Your mercy. 
+            </Language>      
+            <Language id="Arabic">
+               يا طبيبَ المرضى وغافرَ الخطايا، المنقذ من الشدائد كلَّ الآتين اليكَ. يا ميناءَ الخلاصِ من حركات الأمواج وهياجها. اصنع رحمةً مع المتضايقين بالأمراضِ، ونجهم من الموتِ الردىءِ. وكَمِل طلبةَ كهنتِكَ لعبدِكَ (...). وارسل عليه من العلوِ غيثَ رحمتِكَ.
+            </Language>
+         </Text>      
+         
+         <Text>
+            <Language id="English">
+               Wash away his impurities, and sprinkle the oil and wine of Your healing upon his wounds. That we may praise You, O Only, Excellent, saying, Bless ye the Lord all ye works of the Lord. Through the intercession of the Virgin, Mother of Salvation, her whom we praise saying, Blessed are you among women and blessed is the fruit of your womb. Now and forever and to the age of all ages.  Amen. 
+            </Language>      
+            <Language id="Arabic">
+               واغسك ادناسة، وانضح من زيت وخمر شفائك على جراحاته. لنسبحك باتفاقٍ واحدٍ قائلين: ”باركى الرب ياجميع أعمال الرب.“ بشفاعة العذراء أم الخلاص، تلك التى نسبحها قائلين: ”مباركةٌ أنتِ فى النساء، ومباركةٌ هى ثمرة بطنك.“ الآن وكلِّ أوان وإلى دهرِ الدهورِ كلِّها. آمين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+      
+   <Role id="Priest">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology</Language>
+            <Language id="Arabic">الذوكصولوجية</Language>
+         </Title>
+         
+         <InsertDocument path="include/praises/theotokia/Monday9.1"/>
+         <InsertDocument path="include/praises/theotokia/Monday9.2"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponseNoComment"/>
+      </Section>
+      
+      <Comment>
+         <Language id="English">
+            The priest shall sign the lamp with the sign of the cross and saying the following. The people respond to each verse with “Lord have mercy.”   
+         </Language>      
+         <Language id="Arabic">
+            يقول الكاهن وهو يرشم القنديل بمثال الصليب وفى كل مرة يرد الشعب ”يارب ارحم.“
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            For the peace which is from above, let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجلِ السلام السمائى من الربِ نطلب.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            For the sanctification of this oil, let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجلِ تقديسِ هذا الزيت من الربِ نطلب.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            For the sanctification of this house and all the inhabitants thereof, let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجلِ تقديسِ هذا البيت والسكان فيه من الربِ نطلب.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            For the sanctification of our fathers and brethren, the Christians, let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجل تقديسِ آبائِنا وأخوتِنا المسيحيين من الربِ نطلب.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            For the blessing of this oil and its sanctification, let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجلِ بركةِ هذا الزيت وتقديسِه من الربِ نطلب.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            For Your servant (...), let us entreat the Lord.
+         </Language>      
+         <Language id="Arabic">
+            من أجل عبدِك (...) من الربِ نطلب
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            O Lord the Merciful and Compassionate, show forth Your mercy upon every one and manifest Your power in the deliverance of them that come in faith to the anointing of Your priests and heal them by Your grace.
+         </Language>      
+         <Language id="Arabic">
+            أيها الربُ الرؤوف المتحنن، أعلن رحمتَكَ لكلِّ أحدٍ واظهر قوتَكَ فى خلاصِ الآتين الى مسحةِ كهنتِكَ بأمانةٍ واشفهم بنعمتِكَ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            And all them that fall into pain, deliver them from the darts of the adversary and from the afflictions of mind and suffering of body, and all other hateful things, hidden and manifest.
+         </Language>      
+         <Language id="Arabic">
+            وكل الذين سقطوا فى سهامِ الأوجاعِ انقذهم من سهامِ العدوِ، ومضايقة الافكار، وآلام الجسد، وسائر المكروهات الخفية والظاهرة.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Through the intercession of the Mother of God and the supplications of the angels, and the blood of the martyrs, and the prayers of the saints and the patriarchs, and the army of the martyrs, we entreat You O Lord, for Your servant (...) that You bestow on him the grace of Your Holy Spirit, and cleanse him from all his sins, and forgive him all his transgressions, and deliver him and save him from all adversity; and deliver us all from evil. Amen.
+         </Language>      
+         <Language id="Arabic">
+            بشفاعه والدة الاله، وسؤال الملائكة، ودم الشهداء وطلبات القديسين ورؤساء الآباء ومصاف الشهداء نسألك يارب من أجل عبدك (...) لتحل عليه نعمةُ روحِ قدسِكَ، وطهره من جميعِ خطاياه، واغفر له جميعَ زلاتِه، ونجه من كلِّ شدةٍ، وخلصنا كلُنا من الشرِ والشريرِ. آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            Then shall he say this prayer inaudibly over the oil.   
+         </Language>      
+         <Language id="Arabic">
+            يقول الكاهن هذه الصلاة سرا على الزيت
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            P[oic pirefsenh/t: v~reftal[o m~p~qomqem n~te nen'u,/ nem nencwma: aria~gia~zin m~paineh eyrefswpi n~outal[o n~ouon niben e~touywhc m~mwou e~bol n~q/tf: e~bol qen nicwf n~te Pip~neuma nem nipayoc n~te picwma:  hina nem qen vai n~tef[iw~ou n~je pekran eyouab.
+         </Language>
+         <Language id="English">
+            O Lord the Merciful, the Healer of affliction of our souls and bodies; sanctify this oil that it may become a means of healing to all those who are anointed therewith from the pollutions of the soul and the sufferings of the body, that in this also Your Name may be glorified.
+         </Language>
+         <Language id="Arabic">
+            أيها الربُ الرؤوف الشافى أنفسنا وأجسادنا، قدس هذا الزيت ليكون لكلِّ الذين يمسحون به شفاءً لهم من أدناسِ الروحِ وآلام الجسد، لكى بهذا يتمجد أسمُكَ القدوس.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je vwk pe piw~ou nem picw]: ouoh tenouwrp nak e~p~swi: m~piw~ou: Viwt nem P~s/ri: nem Pip~neuma e~youab: ]nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+         </Language>
+         <Language id="English">
+            For to You belongs glory and salvation; and to You we offer up glory, O Father, Son and Holy Spirit, now and forever and unto the age of all ages. Amen.
+         </Language>
+         <Language id="Arabic">
+            لان لك المجدُ والخلاصُ. ونرسلُ لكَ إلى فوق التمجيدَ أيها الآب والابن والروح القدس الآن وكل اوان وإلى دهر الدهور آمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="James 5:10-20" type="section"/>      
+   </Role>
+   
+   <InsertDocument path="include/SilentPrayerCatholicEpistle"/>
+   <InsertDocument path="include/trisagion/Seasonal"/>
+   <InsertDocument path="include/LitanyOfTheGospel"/>      
+   <InsertDocument path="include/litanies/ThreeShort"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">The Litany</Language>
+         <Language id="Arabic">الطلبة</Language>
+      </Title>
+   
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Vn/b P[oic I/couc Pi,~rictoc p~ouro n~te nie~neh: v/eti~ni e~bol n~n/etsop t/rou m~pantouswpi: n/e~tencenau e~rwou nem n/e~tencenau e~rwou an.
+            </Language>
+            <Language id="English">
+               Master, Lord Jesus Christ, King of the ages, Who brought all things into existence out of nothing, both the visible and the invisible. 
+            </Language>      
+            <Language id="Arabic">
+               أيها السيدُ الربُ يسوع المسيح ملك الدهور، مخرجُ كل الموجودات من العدم إلى الوجود، ما يرى وما لا يرى.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~tafi~ qen pefouws nem pefnai etos: afsouwf e~bol kata ouoikonomia~: eyrefcw] m~mon e~bol qen v~mou n~te v~nobi: nem ni[~ro n~te piantikimenoc.
+            </Language>
+            <Language id="English">
+               Who came of His own will and His great mercy according to the economy, to save us from the death of sin and the victories of the adversary; 
+            </Language>      
+            <Language id="Arabic">
+               الذى جاء بارادتِه، وبكثرةِ رحمتِه قد تنازل بالتدبيرِ، ليخلصَنا من موتِ الخطيةِ وغلبةِ المضادِ. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Pireferpeynanef qen i/c: pirefw~oun~h/t qen nibacanoc: v/et]ho] n~oum/s n~cop eybe nia~gayon.
+            </Language>
+            <Language id="English">
+               You, Doer of good with alacrity, longsuffering, Who shows much care for the good;
+            </Language>      
+            <Language id="Arabic">
+               السريعُ الاحسان، المتأنى فى العقابِ المخيفِ مراراً كثيرةً، من أجل الخيرات العتيدة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ariv~meui~ P[oic n~neknai: ouoh m~perriki cabol m~mon m~p~ho n~te nekmetsenh/t: a~non qa n/e~tauyahmou qen tekmet,~r/ctoc: alla ,amasj e~pen]ho: nem ]meth/ki n~te pentwbh: a~non qa neke~biaik n~refernobi.
+            </Language>
+            <Language id="English">
+               remember O Lord Your mercies, and turn not away Your gracious countenance from us, who have been called by Your Goodness; but give ear to our prayer and to the poor supplication of us, Your sinful servants, 
+            </Language>      
+            <Language id="Arabic">
+               اذكر ياربُ مراحمَكَ، ولا تملْ عنا بوجه تحننِكَ نحن الذين دعينا إلى صلاحِكَ. بل اسمع طلباتَنا ومسكنةَ دعائنا، نحن عبيدُكَ الخطاة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh moi pital[o m~pekbwk (nim): e~tafvwt qa t~q/ibi n~te nektenh: je n~yok oumairwmi:
+            </Language>
+            <Language id="English">
+               and give healing to Your servant (...) who has fled under the shaddow of Your wings, for You are a Lover of Mankind,
+            </Language>      
+            <Language id="Arabic">
+               وامنح الشفاءَ لعبدِكَ (...) هذا الذى التجأ تحت ظلالِ كنفِكَ لأنكَ أنتَ محبُ البشرَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh ,w naf e~bol n~n/et hijwf: n~n/e~tafaitou qen pefbioc t/rf.
+            </Language>
+            <Language id="English">
+               and forgive him those things which are against him, which he has committed during all his life;
+            </Language>      
+            <Language id="Arabic">
+               أغفر له ما عليه، وما صنعه فى سائرِ عمرِه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh ,w naf e~bol n~nefparap~twma: n/e~tafaitou qen pefouws: nem pefouws an.
+            </Language>
+            <Language id="English">
+               and forgive him his transgressions which he has committed willingly or unwillingly, 
+            </Language>      
+            <Language id="Arabic">
+               واترك له جميعَ زلاتِه التى صنعها بارادتِه وبغيرِ ارادتِه. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ite e~bol hiten nefjinkim m~mauatf: ie e~bol hiten ke ouai n~semmo: ite qen v~meui~: ie qen p~hwb eybe n/e~tauranak.
+            </Language>
+            <Language id="English">
+               whether of his own motion, or that of any other; whether in thought or in deed against Your good pleasure.
+            </Language>      
+            <Language id="Arabic">
+               إن كان من حركاتِه وحده أو من جهةِ آخر غريبٍ. إن كان بالفكرِ أو الفعلِ، من أجل الذين أرضوكَ.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Mv~r/] e~tak,w e~bol w~ penn/b m~piden/ct/c n~nijin[wr e~te ouontak e~rof: ,w e~bol m~pekbwk vai n~n/et hijwf: ouoh a~ricun,wrin naf n~nefparap~twma t/rou.
+            </Language>
+            <Language id="English">
+               As You have forgiven, O Master, the debtor the talents which he owed You, forgive this, Your servant the things which are against him and pardon him all his transgressions.
+            </Language>      
+            <Language id="Arabic">
+               وكما تركت للغريمِ أيها السيدُ الدينَ الذى لكَ عليه، هكذا أيضاً اترك لعبدِكَ ما عليه وسامحه من جميع زلاته.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh m~v~r/] e~taktoubo m~pikakceht qen pekcaji: ouoh akw~li m~piceht e~bol qen pefcwma kata pekouws: pair/] on a~lioui~ m~piswni e~bol qen picwma n~te pekbwk vai: ouoh a~ria~gia~zin m~mof.
+            </Language>
+            <Language id="English">
+               And as You cleansed the leper by Your word, and took away the leprosy from his body according to Your will; so again take away the sickness from the body of this Your servant (...) and sanctify him.
+            </Language>      
+            <Language id="Arabic">
+               وكما طهرتَ الابرصَ بكلمتِكَ ونزعتَ البرصَ من جسمِه بارادتِك، هكذا انزع كلَّ مرضٍ من جسمِ عبدِكَِ (...) وقدسه.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~taftal[o n~t~seri n~],ananea~ icjen sorp qen ni]ho n~te tecmau.
+            </Language>
+            <Language id="English">
+               You Who healed the daughter of the woman from Canaan at once at her mother’s prayer, 
+            </Language>      
+            <Language id="Arabic">
+               يا من ابرأ ابنةَ الكنعانيةِ بسؤالِ أمِها.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }nou on qen ni]ho n~te nekou/b: a~non qa n/e~tertolman m~montan n~ouparr/cia~: e~bol hiten nen'u,/: alla qen pekh~mot e~h~r/i e~jwn.
+            </Language>
+            <Language id="English">
+               so again at the prayers of Your priests, even us who do not presume to have confidence in ourselves, but in Your grace towards us,
+            </Language>      
+            <Language id="Arabic">
+               الآن ايضاً بسؤالِ كهنتِكَ الذين هم نحن المتجاسرون، إذ ليس لنا دالة من قِبَلِ أنفسنا، بل من جهةِ نعمتِكَ علينا. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ari pekbwk vai n~remhe e~bolha e~pibol/ niben nem nih~b/oui~ t/rou n~dia~bolikon.
+            </Language>
+            <Language id="English">
+               deliver this Your servant from all assaults and all the works of the devil. 
+            </Language>      
+            <Language id="Arabic">
+               اعتق عبدَكَ هذا من كلَّ المؤامراتِ وجميع المحاربات الشيطانية.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               V/e~taftounoc p~s/ri n~],/ra nem t~seri m~piar,wn e~bol qen v~mou: e~tafouahcahni nwou m~pijintwounou: ouoh aftounoc n~Lazaroc menenca y~refmou n~f~tou n~e~hoou e~bol qen a~men]: qen piersisi n~te tefmeynou].
+            </Language>
+            <Language id="English">
+               You raised up the son of the widow, and the daughter of the ruler from death; and commanded them to rise up; and raised up Lazarus after he had been dead four days from Hades by the authority of Your Godhead; 
+            </Language>      
+            <Language id="Arabic">
+               يا من أقام ابنَ الارملةِ وابنةَ الرئيسِ من الموتِ لما امرهما بالقيامِ. واقام لعازر، من بعد موتِه باربعة أيام، من الجحيم بسلطان لاهوته. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Matounoc pekbwk vai e~bol qen v~mou n~te v~nobi: ouoh e~swp aksanouahcahni n~teftwoun n~kec/ou moi naf n~ou]totf nem oubo/~yia~: eyrefswpi efranak qen pefbioc: n~nie~hoou t/rou n~te pefwnq.
+            </Language>
+            <Language id="English">
+               raise up this Your servant from the death of sin, and if You bid him to rise again, give unto him help and assistance that he may please You in his living all the days of his life.
+            </Language>      
+            <Language id="Arabic">
+               اقم عبدَكَ هذا من موتَ الخطيةَ. وان أمرتَ بإقامتَه الى زمان آخر، فامنحه مساعدة ومعونة لكى يرضيكَ فى كلَّ ايامِ حياتِه.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest" silent="true">
+         <Comment>            
+            <Language id="English">
+               It is prefereable to say the following inaudibly:
+            </Language>      
+            <Language id="Arabic">
+               يحسن أن يقال هذاالجزء سراً.
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ouoh aksanhonhen e~[in~tef'u,/ mare vai swpi e~bol hiten hanjij n~te hanaggeloc n~ouwini qen oujom ecnanahmef: e~bol qen nidemwn n~te p~,aki: ouoybef e~bol e~piparadicoc n~te p~ounof: eyrefswpi nem n/eyouab t/rou.
+            </Language>
+            <Language id="English">
+               And if You bid his soul be taken, grant that by the hands of angels of light he may have power that will save him from the demons of darkness. Translate him into the paradise of joy, that he may be with all the saints;
+            </Language>      
+            <Language id="Arabic">
+               وأن أمرتَ أن تأخذ نفسَه فليكن هذا بيدِ ملائكةٍ نورانيين يخلصونه من شياطين الظلمةِ. انقله إلى فردوسِ الفرحِ، ليكون مع جميعِ القديسين
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="Coptic">
+               Hiten pekc~nof e~tauvonf e~bol eybe pekoujai: e~taksopten e~bol n~q/tf: je n~yok pe tenhelpic a~non qa neke~biaik.
+            </Language>
+            <Language id="English">
+               through Your blood which was shed for our salvation, and with which You  purchased us; for You are the hope of Your servants.
+            </Language>      
+            <Language id="Arabic">
+               بدمك الذى سفك من أجل خلاصِنا الذى به اشتريتنا لانكَ أنتَ رجاؤنا نحنُ عبيدُكَ 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nip~recbua~ n~te ]paryenoc: ]yeo~tokoc nem pi]ho n~te n/e~youab t/rou.
+            </Language>
+            <Language id="English">
+               Through the intercessions of the Virgin the Theotokos, and the prayers of all the saints; 
+            </Language>      
+            <Language id="Arabic">
+               بشفاعه العذراء والدة الاله وسؤال جميع القديسين. 
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Je e~re piw~ou nem pitaio~: nem  ]p~rockun/cic: erp~repi m~Viwt nem p~s/ri nem Pip~neuma eyouab.
+            </Language>
+            <Language id="English">
+               for glory and honour and worship are due to the Father and the Son and the Holy Spirit,
+            </Language>      
+            <Language id="Arabic">
+               لان المجدُ والكرامةُ والسجودُ يليق بالآب والابن والروح القدس.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               }nou nem n~c/ou niben: nem sa e~neh n~te nie~neh t/rou a~m/n.
+            </Language>
+            <Language id="English">
+               now and ever, and unto the age of all the ages.  Amen.
+            </Language>      
+            <Language id="Arabic">
+               الآن وكل أوان وإلى دهر الدهور. آمين.
+            </Language>
+         </Text>
+      </Role>
+   </Section>
+</Document>

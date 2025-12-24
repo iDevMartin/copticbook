@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <InsertDocument path="include/LordHaveMercy3"/>
+   
+   <Role id="Priest">
+      <Comment>
+         <Language id="English">
+            The priest continues with the following:
+         </Language>
+         <Language id="Arabic">
+            يكمل الكاهن قائلاً:
+         </Language>
+      </Comment>
+   
+      <Text>
+         <Language id="Coptic">
+            Anitou e~p~swi kata nousi: kata v/e~te vwk n~h~mot: ma p~ounof m~p~ho m~p~kahi: marouyiqi n~je nefy~lwm: maroua~sai n~je nefoutah.
+         </Language>            
+         <Language id="English">
+            Raise them to their measure according to Your grace. Give joy to the face of the earth. May its furrows be abundantly watered and its fruits be plentiful. 
+         </Language>
+         <Language id="Arabic">
+            اصعِدْها كمقدارِها كنعمَتِكَ، فَرِّحْ وجهَ الأرضِ، ليُرْوَ حرثُها ولتكثرَ أثمارُها.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Cebtwtf e~ouj~roj nem ouwcq: ouoh a~rioikonomin m~penjinwnq kata peternofri.
+         </Language>            
+         <Language id="English">
+            Prepare it for sowing and harvesting. Manage our life as deemed fit. 
+         </Language>
+         <Language id="Arabic">
+            أعِدَّها للزرعِ والحصادِ، ودبِّر حياتَنا كما يليق.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Cmou e~pi,~lom n~te ]rompi hiten tekmet,r/ctoc: eybe nih/ki n~te peklaoc: eybe ],/ra nem piorvanoc nem pisemmo nem piremn~jwili: nem eyb/ten t/ren qa n/eterhelpic e~rok: ouoh ettwbh m~pekran eyouab.
+         </Language>            
+         <Language id="English">
+            Bless the crown of the year with Your goodness for the sake of the poor of Your people, the widow, the orphan, the traveler, the stranger, and for the sake of all of us who entreat You and seek Your holy name. 
+         </Language>
+         <Language id="Arabic">
+            بَارِكْ إكليلَ السنةِ بصلاحِكَ، من أجلِ فقراءِ شعبِكَ، من أجلِ الأرملةِ واليتيمِ والغريبِ والضيفِ، ومن أجلِنا كُلِّنا نحنُ الذين نرجوكَ ونطلبُ اسمَكَ القدوس.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Je nenbal n~ouon niben ceerhelpic e~rok: je n~yok et] n~touq~re nwou qen ouc/ou e~nanef.
+         </Language>            
+         <Language id="English">
+            For the eyes of everyone wait upon You, for You give them their food in due season. 
+         </Language>
+         <Language id="Arabic">
+            لأن أعينَ الكلِّ تترجاكَ، لأنَّكَ أنتَ الذي تُعطِيهم طعامَهم في حينٍ حسنٍ.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Arioui~ neman kata tekmeta~gayoc: v/et] q~re n~carx niben: moh n~nenh/t n~rasi nem ouounof: hina a~non hwn e~re v~rwsi n~toten qen hwb niben n~c/ou niben: n~tenerhouo~ qen hwb niben n~a~gayon.
+         </Language>            
+         <Language id="English">
+            Deal with us according to Your goodness, O You who give food to all flesh. Fill our hearts with joy and gladness, that we, too, having sufficiency in everything always, may abound in every good deed. 
+         </Language>
+         <Language id="Arabic">
+            اصنع معنا حَسَبَ صلاحِكَ، يا مُعطِياً طعاماً لكلِّ جسدٍ. املأ قلوبَنا فرحاً ونعيماً، لكي نحنُ أيضاً إذ تكونَ لنا الكفايةُ في كلِّ شيءٍ، كلَّ حينٍِ، نزدادَ في كلِّ عملٍ صالحٍ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <InsertDocument path="include/LordHaveMercy"/>
+</Document>

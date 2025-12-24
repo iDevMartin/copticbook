@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMena:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Piagioc apa M/na...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mena:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Piagioc apa M/na: afcwtem n~ca ]c~m/ n~nou]: af,w m~pikocmoc t/rf n~cwf: nem pefw~ou eynatako: All/louia (3)
+            </Language>
+            <Language id="English">
+               The holy Abba Mina: heard the divine voice: He left the whole world behind him: and its glory which will be perish. Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               القديس أفا مينا سمع الصوت الإلهي فترك عنه العالم كله ومجده الفاسد. الليلويا   (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Group>
+         <InsertDocument path="include/adamAspasmos/Index"/>
+      </Group>
+      
+      <Group>
+         <Season id="!ThirdWeekOfKoiahk">
+            <InsertDocument path="include/adamAspasmos/saints/StMaryStandard"/>
+         </Season>
+      </Group>
+   </Role>
+</Document>

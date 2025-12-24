@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="ApostlesFeast">
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te na[oic n~io] n~a~poctoloc peniwt Petroc nem pencaq Pauloc P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of my lords and fathers the Apostles, our father Peter and our teacher Paul; O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات سيدىّ الأبوين الرسولين أبينا بطرس ومعلمنا بولس ، ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

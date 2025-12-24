@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="HosannaSunday">
+      <Role id="People">
+         <Comment>
+            <Language id="English">
+               Following the reading of the Praxis, the hymn <span class="Coptic">Eulogimenoc</span> is chanted:
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="include/Eulogimenoc"/>
+         
+         <Comment>
+            <Language id="English">
+               Then continued by the following Paralex:
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>               
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">V/ethemci</Language>
+            </Title>
+            
+            <InsertDocument path="include/FeeEthemsi"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Cehwc e~rof qen ounehci: auje vai pe Emmanou/l: w~canna qen n/et[oci: vai pe p~ouro m~piIcra/l.
+               </Language>
+               <Language id="English">
+                  They praise Him with alertness: saying, “This is Immanuel: Hosanna in the Highest: this is the King of Israel.”
+               </Language>
+               <Language id="Arabic">
+                  يسبحونه بتيقظ قائلين هذا هو عمانوئيل أوصنا في الأعالي هذا هو ملك إسرائيل.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Marenjoc nem Dauid pihumnodoc: je f~c~marwout n~je v/eyn/ou: qen v~ran m~P[oic pia~gayoc: icjen ]nou sa t~qae~ n~nic/ou.
+               </Language>
+               <Language id="English">
+                  Let us say with David the chanter, “Blessed is He who comes, in the Name of the Good Lord, from now and till the end of the times.”
+               </Language>
+               <Language id="Arabic">
+                  فلنقل مع داود المرتل مبارك الآتي باسم الرب الصالح منذ الآن وإلي آخر الأزمنة.
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ni,eroubim nem niCeravim: niaggeloc nem niar,/ aggeloc: nictratia nem niexoucia: niy~ronoc nimet[oic nijom
+               </Language>
+               <Language id="English">
+                  The Cherubim and the Seraphim, the angels and the archangels, the principalities and the authorities, the thrones and the powers.
+               </Language>
+               <Language id="Arabic">
+                  الشيروبيم والسيرافيم الملائكة ورؤساء الملائكة العساكر والسلاطين والكراسي والربوبيات والقوات، 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Euws e~bol eujw m~moc: je ouw~ou m~V] qen n/et[oci: nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi
+               </Language>
+               <Language id="English">
+                  Crying out saying: “Glory to God in the highest, peace on Earth and goodwill toward men.”
+               </Language>
+               <Language id="Arabic">
+                  صارخين قائلين المجد لله في الأعالي وعلي الأرض السلام وفي الناس المسرة.
+               </Language>         
+            </Text>            
+         </Section>
+      </Role>
+   </Season>
+</Document>

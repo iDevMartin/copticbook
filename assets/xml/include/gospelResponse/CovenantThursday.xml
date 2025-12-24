@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CovenantThursday ^ RaisingOfIncense">
+      <Comment>
+         <Language id="English">
+            The Gospel response is not chanted.
+         </Language>
+      </Comment>                  
+   </Season>
+         
+   <Season id="CovenantThursday ^ Liturgy">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>         
+            <Language id="Arabic">مرد الإنجيل</Language>   
+            <Language id="Coptic">Picwma nem pic~nof...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For Covenant Thursday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Picwma nem pic~nof n~tak: pe p~,w e~bol n~te nennobi: nem ]dia~y/k/ m~beri: etakt/ic n~nekmay/t/c.
+            </Language>
+            <Language id="English">
+               Your Body and Your Blood, are the forgiveness of our sins, and the new covenant, that You gave to Your disciples.
+            </Language>
+            <Language id="Arabic">
+               جسدك ودمك : هما لغفران خطايانا : وللعهد الجديد :  الذى أعطيته لتلاميذك
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Anerp~emp~sa m~pis~s/n n~te n~wnq: eyrenouwm e~bol n~q/tf: e~te vai pe p~cwma m~v]: nem pefc~nof n~a~l/yinoc.
+            </Language>
+            <Language id="English">
+               We are made worthy to eat, of the Tree of Life, which is the Body of God, and His true Blood.
+            </Language>
+            <Language id="Arabic">
+               فاستحققنا شجرة الحياه : لنأكل منها : الذى هو جسد الله : ودمه الحقيقى.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>            
+      </Section>      
+   </Season>
+</Document>

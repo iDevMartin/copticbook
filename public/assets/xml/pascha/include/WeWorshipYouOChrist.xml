@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document>
+   <Role id="Priest" silent="true">
+      <Comment>
+         <Language id="English">
+            The priest offers incense before the icon of the crucifiction, saying:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            Tenouwst m~mok w~ Pi,~rictoc: nem pekc~tauroc n~reftanqo: v/etauask e~h~r/i e~jwf sa n~tekcotten qen nennobi.
+         </Language>
+         <Language id="English">
+            We worship You, O Christ, and Your life-giving cross, upon which You were crucified to deliver us from our sins.
+         </Language>
+         <Language id="Arabic">
+            نسجد لكَ أيها المسيح ولصليبك المحيي الذى صلبت عليه حتى خلصتنا من خطايانا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Pa[oic I/couc Pi,~rictoc: v/etauask epic~tauroc: eke~qomqen m~p~catanac: capec/t n~nen[alauj.                                                 
+         </Language>
+         <Language id="English">
+            My Lord Jesus Christ, who was crucified upon the Cross trampling Satan under our feet.
+         </Language>
+         <Language id="Arabic">
+            يا ربى يسوع المسيح يا من صلبت علی الصليب اسحق الشيطان تحت أقدامنا.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            &lt;ere pic~tauroc: e~taues p~ouro Pi,~rictoc: sa n~tefcw] m~mon: e~bolqen nennobi.
+         </Language>
+         <Language id="English">
+            Hail to the Cross, upon which Christ the King was crucified, to save us from our sins.
+         </Language>
+         <Language id="Arabic">
+            السلام للصليب الذى صلب عليه الملك المسيح حتى خلصنا من خطايانا.
+         </Language>
+      </Text>
+   </Role>
+</Document>

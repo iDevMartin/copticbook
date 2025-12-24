@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Group>
+         <Season id="FuneralWomen | FuneralWomenDelivery | FuneralGirls | FuneralNuns">
+            <Text>        
+               <Language id="Coptic">            
+                  Po#c# mam~ton nac.
+               </Language> 
+               <Language id="English">            
+                  O Lord repose her.
+               </Language>
+               <Language id="Arabic">
+                  يا رب نيحها
+               </Language>
+            </Text>
+         </Season>
+         
+         <Season id="Other">
+            <Text>        
+               <Language id="Coptic">            
+                  Po#c# mam~ton nac.
+               </Language> 
+               <Language id="English">            
+                  O Lord repose him.
+               </Language>
+               <Language id="Arabic">
+                  يا رب نيحها
+               </Language>
+            </Text>
+         </Season>
+      </Group>
+   </Role>
+</Document>

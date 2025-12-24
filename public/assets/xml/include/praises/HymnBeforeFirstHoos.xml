@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Group>
+      <InsertDocument path="include/praises/koiahk/AmenAlleluia"/>
+      
+      <Season id="NativityParamoun">
+         <Group>
+            <Season id="Mondays">               
+               <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnTuesdayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/nativityparamoun/AdamPsaliOnMondayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <Season id="Nativity">
+         <Group>
+            <Season id="Mondays">               
+               <InsertDocument path="include/praises/nativity/AdamPsaliOnTuesdayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/nativity/AdamPsaliOnMondayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <Season id="Theophany">
+         <Group>
+            <Season id="Mondays">               
+               <InsertDocument path="include/praises/theophany/AdamPsaliOnTuesdayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/theophany/AdamPsaliOnMondayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <InsertDocument path="include/praises/lent/PsaliAdamOnFirstHoos"/>
+      <InsertDocument path="include/praises/hosannasunday/PsaliAdamOnFirstHoos"/>
+      <InsertDocument path="include/praises/pentecost/PsaliAdamOnFirstHoos"/>
+   </Group>
+</Document>

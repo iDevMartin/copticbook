@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">A Pi,~rictoc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               From the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               A Pi,~rictoc Pennou] twnf ebolqen n/eymwout: ouoh afsenaf e~p~swi e~niv/oui: afhemci caouinam m~pefiwt:
+            </Language>
+            <Language id="English">
+               Christ our God is risen from the dead and  has ascended into the heavens, He is seated at the right hand of His Father.
+            </Language>
+            <Language id="Arabic">
+               المسيح الهنا قام من الأموات، وصعد إلي السموات وجلس عن يمين ابيه. 
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>  
+</Document>

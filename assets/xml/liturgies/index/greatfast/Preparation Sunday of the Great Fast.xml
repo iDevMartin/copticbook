@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="GreatFastSunday0 ^ AdamDays ^ Weekend ^ Sundays">
+      <Title>
+         <Language id="English">Preparation Sunday of the Great Fast</Language>
+         <Language id="Arabic">الأحد الإستعداد من الصوم الكبير</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="include/gospelResponse/Index"/>
+         <InsertDocument path="include/fractions/Index"/>
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/psalm150/Index"/>
+         <InsertDocument path="include/distribution/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/greatfast/First Week of Great Fast">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Klinwmen ta gonata.
+         </Language>
+         <Language id="English">
+            Let us bow our knees.
+         </Language>
+         <Language id="Arabic">
+            نحني ركبنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Nai nan Vnou] Viwt pipantokratwr.
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God, the Father, the Pantocrator.
+         </Language>
+         <Language id="Arabic">
+            إرحَمنا يا الله الآبُ، ضابطَ الكلِّ.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Anactwmen: k~linwmen ta gonata.
+         </Language>
+         <Language id="English">
+            Let us stand. Let us bow our knees.
+         </Language>
+         <Language id="Arabic">
+            نقف، نحني ركبنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Nai nan Vnou] pencwt/r
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God, our Savior.
+         </Language>
+         <Language id="Arabic">
+            إرحَمنا يا الله مخلصنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Ke a~nactwmen: k~linwmen ta gonata.
+         </Language>
+         <Language id="English">
+            And let us  stand. Let us bow  our knees.
+         </Language>
+         <Language id="Arabic">
+            ثم نقف، نحني ركبنا.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            Nai nan Vnou] ouoh nai nan.
+         </Language>
+         <Language id="English">
+            Have mercy upon us, O God,have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            إرحَمنا يا الله ثم إرحَمنا.
+         </Language>
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Priest">
+      <Text>
+         <Language id="Coptic">
+            Aki~ e~p~qolqel m~v~r/] n~oue~cwou sa e~q~r/i e~ouc~tauroc.
+         </Language>
+         <Language id="English">
+            You have come to the slaughter as a sheep, even to the Cross.            
+         </Language>
+         <Language id="Arabic">
+            أتيتَ إلى الذبحِ مثل حملٍ، حتى إلى الصليبِ.
+         </Language>         
+      </Text>      
+      
+      <Text>
+         <Language id="Coptic">
+            Akouwnh e~bol n~teknis] m~metfairwous qaroi.
+         </Language>
+         <Language id="English">
+            You have manifested the greatness of Your care for me.
+         </Language>
+         <Language id="Arabic">
+            أظهرتَ عِظَمَ اهتمامِكَ بي.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Akqwteb m~panobi qen pekm~hau.
+         </Language>
+         <Language id="English">
+            You have slain my sin in Your tomb.
+         </Language>
+         <Language id="Arabic">
+            قتلتَ خطيتي بقبرِكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Akw~li n~taa~par,/ e~p~swi e~t~ve.
+         </Language>
+         <Language id="English">
+            You have brought my first fruit up to heaven.
+         </Language>
+         <Language id="Arabic">
+            أصعدتَ باكورتي إلى السماءِ. 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Akouwnh n/i e~bol n~t~paroucia n~te pekjini~.
+         </Language>
+         <Language id="English">
+            You have shown me the manifestation of Your Coming
+         </Language>
+         <Language id="Arabic">
+            أظهَرتَ لي إعلانَ مجيئِكَ.
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Yai e~tekn/ou n~q/tc e~]hap e~n/etonq nem n/eymwout: ouoh e~] m~piouai piouai kata nefh~b/oui~.
+         </Language>
+         <Language id="English">
+            wherein You shall come to judge the living and the dead, and give each one according to his deeds.
+         </Language>
+         <Language id="Arabic">
+            هذا الذي تأتي فيه لتدينَ الأحياءَ والأمواتَ، وتُعطِي كلَّ واحدٍ كأعمالِهِ.
+         </Language>         
+      </Text>
+   </Role>
+</Document>

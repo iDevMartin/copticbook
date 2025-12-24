@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Pentecost ^ !SecondProstration ^ !ThirdProstration">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Pentecost:
+            </Language>
+         </Comment>
+         
+         <Group>
+            <Season id="Liturgy | FirstProstration">                
+               <Text>
+                  <Language id="Coptic">
+                     Afsenaf e~p~swi e~t~ve: n~te t~ve caniman~sai: hina n~tefouwrp nan m~piparakl/ton: pip~meuma n~te ]meym/.
+                  </Language>
+                  <Language id="English">
+                     He ascended into the heaven of heavens towards the east, to send to us the Paraclete, the Spirit of truth.
+                  </Language>
+                  <Language id="Arabic">
+                     صعد إلى سماء السماء، ناحية المشارق، لكى يرسل لنا المعزى،روح الحق. 
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="!FirstProstration">
+               <Text>
+                  <Language id="Coptic">
+                     All/louia (4) Pi,~rictoc aftwnf  ouoh afsenaf: afouwrp nan m~piparakl/ton.
+                  </Language>
+                  <Language id="English">
+                     Alleluia. (4) Christ is risen and has ascended; He sent to us the Paraclete.
+                  </Language>
+                  <Language id="Arabic">
+                     الليلويا  (4) المسيح قام ثم صعد، وارسل لنا البارقليط.  
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/gospelResponse/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+</Document>

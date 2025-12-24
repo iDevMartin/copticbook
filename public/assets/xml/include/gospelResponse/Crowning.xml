@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Crowning">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>   
+            <Language id="Coptic">Nai e~tafhotpou eucop...</Language>
+         </Title>
+         
+         <InsertDocument path="include/praises/morningdoxology/6"/>
+      </Section>
+   </Season>
+</Document>

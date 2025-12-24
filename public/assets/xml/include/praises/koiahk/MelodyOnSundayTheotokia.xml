@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="2">
+      <Title>
+         <Language id="English">
+            I Praise The Virgin (Koiahk Melody on the Sunday Theotokia)
+         </Language>
+         <Language id="Arabic">
+            أمـدح في البتـول (مـديح كيهكي علي ثيؤطوكية الأحد)
+         </Language>
+      </Title>
+   
+      <Text>
+         <Language id="English">
+            I praise the Virgin / 
+            And explain and say: / 
+            O, the origin / 
+            And the hidden pearl
+         </Language>
+         <Language id="Arabic">
+            أمدح فى البتول /
+            وأشرح فيها وأقول /
+            ياأصل الأصول /
+            ياجوهر مكنون
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            The salvation of our race / 
+            Was through your Son, our Lady / 
+            We reached the goal / 
+            And you brought us joy
+         </Language>
+         <Language id="Arabic">
+            بأبنك ياستنا /
+            خلاص جنسنا /
+            وبلغنا المنى /
+            وبك صرنا فرحون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Was truly Incarnate / 
+            From a virgin girl / 
+            Crucified and died / 
+            For us at Golgotha
+         </Language>
+         <Language id="Arabic">
+            تجسد بثبات /
+            من ست البنات /
+            صلب عنا ومات /
+            عند الاقرانيون
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The fruit of my pledge, / 
+            O daughter of Zion, / 
+            Is to love my God / 
+            And proclaim and say:
+         </Language>
+         <Language id="Arabic">
+            ثمرة عربونى /
+            ياأبنة صهيون /
+            أحب الهي /
+            وأصيح وأقول
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Gabriel came / 
+            With tidings and sayings / 
+            You accepted his word / 
+            In calmness and wisdom
+         </Language>
+         <Language id="Arabic">
+            جاك غبريال /
+            ببشائر وأقوال /
+            وقبلت ماقال /
+            بسر خفي مكنون
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            He dwelt by His Word / 
+            In strength and power / 
+            You became like heaven / 
+            O daughter of Zion
+         </Language>
+         <Language id="Arabic">
+            حل بكلمته /
+            وشرح قدرته /
+            صرت كسمائه /
+            ياإبنة صهيون
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            He saved Adam /
+            After his sorrow /
+            And has freed the world /
+            We rejoice in you
+         </Language>
+         <Language id="Arabic">
+            خلص آدم /
+            بعد أن كان نادم /
+            وعتق العالم /
+            ونحن بك فرحون
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            He is glorified /
+            And promised His Apostles /
+            To save His people /
+            From Satan's bondage
+         </Language>
+         <Language id="Arabic">
+            دائم تمجيده /
+            وعاهد تلاميذه /
+            يخلص عبيده /
+            من كيد الأركون
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Concerning you, David said, /
+            “The King rejoiced in you /
+            And took flesh from you /
+            The Lord on His throne.”
+         </Language>
+         <Language id="Arabic">
+            داود قال عنك /
+            الملك إشتهى حسنك /
+            وتجسد منك /
+            رب العرش المكنون
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Myriads and thousands /
+            Standing around the throne /
+            Ranks and orders /
+            Saints and martyrs      
+         </Language>
+         <Language id="Arabic">
+            ربوات وألوف /
+            حول العرش وقوف /
+            وطغمات وصفوف /
+            وشهداء متصلون
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Sorrow was taken away /
+            And we are comforted /
+            Through you, O Mary /
+            The pride of the human race    
+         </Language>
+         <Language id="Arabic">
+            زالت عنا الأحزان /
+            وصرنا فى أطمئنان /
+            بك يامريم /
+            يافخر البشريون 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Salome witnessed /
+            That the Virgin gave birth /
+            She believed and confirmed /
+            The mystery of mysteries     
+         </Language>
+         <Language id="Arabic">
+            سالومي شهدت /
+            إن العذراء ولدت /
+            آمنت وأعتقدت /
+            بالسر المكنون
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            Solomon, your father, /
+            Praised in hymns and songs /
+            And Jacob saw you /
+            An upright ladder   
+         </Language>
+         <Language id="Arabic">
+            سليمان أباك /
+            صار ينشد بفنون /
+            ويعقوب رآك /
+            سلم مرتفعون    
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The leaders had proclaimed /
+            O fruitful vine /
+            You are a virgin and a bride /
+            As they prophesied      
+         </Language>
+         <Language id="Arabic">
+            شهد عنك الرؤساء /
+            ياكرمة مغروسة /
+            يابكرة وعروسة /
+            كما عنك تنبأون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Zephaniah proclaimed /
+            That Jesus will appear /
+            As rain and dew /
+            While her virginity is sealed   
+         </Language>
+         <Language id="Arabic">
+            صوفونيوس خبر /
+            بأن يسوع يظهر /
+            شبه ندي ومطر /
+            والختم حصن مصون 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Eve caused Adam to stray, /
+            In tears, he cried /
+            Naked, he was exiled /
+            Without you they would not return  
+         </Language>
+         <Language id="Arabic">
+            ضللت حواء آدم /
+            وصار يبكى نادم /
+            خرج عريان عادم /
+            لولاك مارجعون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Your rank is up high /
+            And great is your glory /
+            The Lord honored you /
+            O Aaron's censer     
+         </Language>
+         <Language id="Arabic">
+            عال هو قدرك /
+            وعظيم هو مجدك /
+            والله شرف ذكرك /
+            يا شورية هرون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Many praised you /
+            You  are the cause of all joy /
+            You comfort everyone /
+            Who is sorrowful and humble  
+         </Language>
+         <Language id="Arabic">
+            غلب فيك المداح /
+            يابدء الأفراح /
+            بمديحك يرتاح /
+            كل ذليل محزون 
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Refrain"/>
+      
+      <Text>
+         <Language id="English">
+            My heart rejoices in you /
+            O Virgin Mary /
+            Ask your Son Jesus /
+            To protect me by His might  
+         </Language>
+         <Language id="Arabic">
+            فيك رضا قلبى /
+            يامريم طلبى /
+            يسوع إبنك حسبى /
+            بقوته أكون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Existent before the ages /
+            Suffered and was crucified /
+            He rose from His sleep /
+            And the Disciples preached    
+         </Language>
+         <Language id="Arabic">
+            قديم أذلي دائم /
+            صلب عنا وتألم /
+            استيقظ كالنائم /
+            والتلاميذ يكرزون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            The righteous Apostles /
+            And the four Evangelists /
+            Preached in all nations /
+            The tidings with joy    
+         </Language>
+         <Language id="Arabic">
+            كرزوا في الأقطار /
+            الرسل الأبرار /
+            ونادوا باستبشار /
+            الأباء الإنجيليون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Glory is due to you /
+            O daughter of Joachim /
+            You bore a great mystery /
+            And gave birth to the Most High
+         </Language>
+         <Language id="Arabic">
+            لك كل التعظيم /
+            ياإبنة يواقيم /
+            حملت سر عظيم /
+            ووضعت المكنون   
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Moses and Daniel /
+            Said many parables /
+            And you fit all that /
+            Mysteriously and more      
+         </Language>
+         <Language id="Arabic">
+            موسي ودانيال /
+            ضربوا عنك أمثال /
+            وقبلت ماقال /
+            بسر خفي مكنون  
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            You caused the world to shine /
+            O the pride of faith /
+            All the creatures were free /
+            Because of you Mary     
+         </Language>
+         <Language id="Arabic">
+            نورت الأكوان /
+            يافخر الإيمان /
+            لولاك ماكان /
+            كل الخلائق يعتقون 
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Refrain"/>
+   
+      <Text>
+         <Language id="English">
+            Gifts were offered in faith /
+            To the King of kings /
+            By the great Magi /
+            Myrrh, gold and frankincense     
+         </Language>
+         <Language id="Arabic">
+            هدايا بإيمان /
+            أتوا بهم الأعيان /
+            مرا وذهباً ولبان /
+            بها المجوس حاملون 
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            They worshipped the born King /
+            The Lord of lords /
+            And Herod was terrified /
+            And his soldiers marveled     
+         </Language>
+         <Language id="Arabic">
+            وسجدوا للمولود /
+            الرب المعبود /
+            وهيرودس صار مرعوب /
+            وجنده محتارون   
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            Do not forsake at that time /
+            A poor and humble sinner /
+            Intercede on Judgment Day /
+            For all the Christians    
+         </Language>
+         <Language id="Arabic">
+            لاتنسى في ذلك الحين /
+            عبداً خاطئ  مسكين /
+            شفاعتك يوم الدين /
+            لشعب إبنك أجمعين    
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="English">
+            We ask of Him forgiveness /
+            Faith and repentance /
+            To be in calmness /
+            We the believers  
+         </Language>
+         <Language id="Arabic">
+            ونسأل من جوده الغفران /
+            وتوبة مع إيمان /
+            لنصبر في أطمئنان /
+            نحن المؤمنون     
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/praises/koiahk/MelodyOnSundayTheotokia_Refrain"/>
+   </Section>
+</Document>

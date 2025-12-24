@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" MorningPraises="true">   
+   <Title>
+      <Language id="English">Morning Praises</Language>
+      <Language id="Arabic">ذكصولوجية باكر</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         The Morning Doxology is prayed after the First hour of the Agpeya every day. As for any of the Lord’s Feasts and Apocalypse Saturday, it is prayed after the Thanksgiving prayer of the Morning Raising of Incense, from “<span class="Coptic">Tenouwst</span>” to “<span class="Coptic">Hiten noueu,/</span>.” The remaining part is prayed after the Prayer of the Sick in the Morning Raising of Incense.
+      </Language>
+   </Comment>
+   
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Morning Doxology</Language>
+         <Language id="Arabic">ذكصولوجية باكر</Language>
+      </Title>
+   
+      <InsertDocument path="include/praises/morningdoxology/Introduction"/>
+      <InsertDocument path="include/praises/morningdoxology/Body"/>
+      <InsertDocument path="include/praises/morningdoxology/Conclusion"/>
+   </Section>
+   
+   <InsertDocument path="include/praises/ConclusionAdamTheotokia"/>
+</Document>

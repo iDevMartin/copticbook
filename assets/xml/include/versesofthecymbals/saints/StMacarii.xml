@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StMacariusTheGreat:VersesOfCymbals | StMacariusOfAlexandria:VersesOfCymbals | StMacariusOfEdkow:VersesOfCymbals">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of the three Sts. Macarii:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pinis] abba Makari: piq/bc n~te ]metmona,oc: nem nefs~/ri n~c~taurovoroc: nimenra] n~te P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to the great Abba Macarius, the lamp of monasticism and his children, the cross-bearers, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               السلام للعظيم انبا مقارة سراج الرهبنة. واولاده لباس الصليب احباء المسيح.
+            </Language>
+         </Text>
+      </Season>
+   </Group>
+</Document>

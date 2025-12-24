@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPhilopaterMercurius:Feast">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Vilopat/r Merkourioc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Philopater Mercurius:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Vilopat/r Merkourioc: piremn~jom n~te pi,~rictoc: af]hiwtf n~]panoplia: nem piqwk t/rf n~te pinah]: All/louia (3)
+            </Language>
+            <Language id="English">
+               Philopateer Mercurius: the strong man of Christ: He wore the helmet:  and the entire armor of the faith: Alleluia (3)
+            </Language>
+            <Language id="Arabic">
+               محب الآب مرقوريوس القوى بالمسيح ، لبس الخوذة وجميع سلاح الإيمان ، الليلويا (3)
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season> 
+</Document>

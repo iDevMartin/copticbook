@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMacariusTheGreat:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Macarius the Great</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس الأنبا مقار الكبير</Language>
+            <Language id="Coptic">&lt;ere pinis]...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Macarius the Great:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pinis] abba Makari: piq/bc n~te ]metmona,oc: v/etafswpi n~oulu,nia~ n~noub: ecerlampin e~hote v~r/.
+            </Language>
+            <Language id="English">
+               Hail to the great Abba Makari, the light of monasticism, who became the golden lamp, shining more than the sun.
+            </Language>
+            <Language id="Arabic">
+               السلام للعظيم أنبا مقار مصباح الرهبنة الذى صار منارة ذهبية تُضئ أكثر من الشمس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Cerouwini gar n~je tek'u,/: qen Ieroucal/m n~te t~ve: f~]moue~ n~je pekcwma: qen y/ete ywk n~ekk~l/cia~.
+            </Language>
+            <Language id="English">
+               For your soul is enlightened, in the heavenly Jerusalem, and your body is shining, in your church.
+            </Language>
+            <Language id="Arabic">
+               لأن نفسك مضيئة فى أورشليم السمائية وجسدك لامع فى كنيستك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ce tennah] je k~,/ neman: 'u,/ nem cwma nem p#n#a#: k~sop nan m~parakl/cic: ouoh n~colcel n~nen'u,/.
+            </Language>
+            <Language id="English">
+               Yes we believe that you are with us, in soul and body and spirit, you became a comfort for us, and adornment of our souls.
+            </Language>
+            <Language id="Arabic">
+               نعم نؤمن أنك كائن معنا نفساً وجسداً وروحاً وصائر لنا معزياً ومزيناً لنفوسنا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Fhwc ouoh f~c~mou e~V]: n~je pis~lol t/rf n~te nimona,oc: e~h~r/i e~jen pekjini~ saron: peniwt e#y#u# abba Makari.
+            </Language>
+            <Language id="English">
+               The congregation of the monks, praise and bless God, for your coming unto us, O our holy father Abba Makari.
+            </Language>
+            <Language id="Arabic">
+               كل طائفة الرهبان تسبح وتبارك الله لأجل مجيئك إلينا يا أبانا القديس أنبا مقار.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Oyen ten]ho e~rok: hwc s/ri n~te nekeu,/: ma]ho e~Po#c# e~h~r/i e~jwn: n~teferounai nem nen'u,/.
+            </Language>
+            <Language id="English">
+               With this we entreat you, as sons of your prayers, ask the Lord on our behalf, that He may have mercy on our souls.
+            </Language>
+            <Language id="Arabic">
+               فلهذا نسألك كأبناء لك فى الصلاة إسأل الرب عنا لكى يصنع رحمة مع نفوسنا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMacariusTheGreat"/>
+      </Section>
+      
+      <Section antiphonePitch="1">
+         <Title>
+            <Language id="English">Another Doxology for St. Macarius the Great</Language>
+            <Language id="Arabic">ذوكصولوجية أخري للقديس الأنبا مقار الكبير</Language>
+            <Language id="Coptic">Lac niben...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Macarius the Great:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Lac niben nas~jw an: n~nim/ini nem nis~v/ri: nai e~tauswpi e~bolhitotk: pao#c# n~iwt abba Makari.
+            </Language>
+            <Language id="English">
+               Every tongue cannot speak: of the signs and wonders: those which happened through you: my lordly father Abba Macari.
+            </Language>
+            <Language id="Arabic">
+               كل الالسن لا تستطيع أن تنطق بالآيات والعجائب التي اجريت بواسطتك يا سيدي الآب أنبا مقار.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Nirefmwout aktounocou: nidemwn akhitou e~bol: n/etswni qen oum/s n~c~mot: aktal[wou qen v~ran m~Po#c#.
+            </Language>
+            <Language id="English">
+               You raised the dead: you cast out demons: the sick that were in many forms: you healed in the name of the Lord.
+            </Language>
+            <Language id="Arabic">
+               اقمت الموتي أخرجت الشاطين شفيت المرضي بانواع كثيرة باسم الرب.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Eybe vai cen/ou harok: e~bol qen neat m~p~kahi: ]Rwmania~ nem ]Curia~: ]Anatol/ nem ]Cpania~.
+            </Language>
+            <Language id="English">
+               Therefore, many come to you: from the ends of the earth: from Romania to Syria: and from Anatoli to Spain.
+            </Language>
+            <Language id="Arabic">
+               فلهذا يفدون إليك من اقاصي الارض من رومانيا وسوريا والمشرق واسبانيا.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ou monon m~pic/ou e~tafcini: alla h/ppe on ]nou: cen/ou e~bolqen mai niben: ceouwst e~jen peklum'anon eyouab.
+            </Language>
+            <Language id="English">
+               Not only from the time that passed: but many also come now: from everywhere: and venerate your holy relics.
+            </Language>
+            <Language id="Arabic">
+               ليس فقط في الزمن الغابر بل هوذا الآن أيضاً يفدون من كل مكان يسجدون علي جسدك المقدس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Oyen ten]ho e~rok: hwc s/ri n~te nekeu,/: ma]ho e~Po#c# e~h~r/i e~jwn: n~teferounai nem nen'u,/.
+            </Language>
+            <Language id="English">
+               Therefore, we entreat you: as sons of your prayers: ask the Lord on our behalf: that He have mercy on our souls.
+            </Language>
+            <Language id="Arabic">
+               فلهذا نسألك كابناء لك فى الصلاة إسأل الرب عنا لكى يصنع رحمة مع نفوسنا.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StMacariusTheGreat"/>
+      </Section>
+   </Season>
+</Document>

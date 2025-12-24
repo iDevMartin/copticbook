@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PentecostPeriod">
+      <Group>
+         <Season id="PreAscensionPentecostPeriod">
+            <InsertDocument path="include/fractions/PreAscensionPentecostPeriod"/>
+         </Season>
+      </Group>
+      
+      <Section>
+         <InsertDocument path="include/fractions/PentecostPeriod.1"/>
+         
+         <Group>
+            <Season id="PostAscensionPentecostPeriod | Pentecost">
+               <InsertDocument path="include/fractions/PentecostPeriod.2"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/fractions/PentecostPeriod.3"/>
+      </Section>
+   </Season>
+</Document>

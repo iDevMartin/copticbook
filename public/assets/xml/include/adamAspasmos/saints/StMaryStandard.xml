@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Adam Aspasmos</Language>
+         <Language id="Arabic">الاسبسمس الادام</Language>
+         <Language id="Coptic">Ounof m~mo...</Language>
+      </Title>
+      
+      <Group>
+         <Season id="ThirdWeekOfKoiahk">
+            <Comment>
+               <Language id="English">         
+                  For the third week of the month of Koiahk:
+               </Language>
+            </Comment>
+         </Season>
+         
+         <Season id="Other">
+            <Comment>
+               <Language id="English">         
+                  To the accompaniment of cymbals, the people may chant the following Aspasmos Adam hymn on standard days and on the Feasts of the Virgin. (Aspasmos means greeting or salutation.)
+               </Language>
+               <Language id="Arabic">         
+                  يقول الشعب هذا الأَسبسمس الآدام السنوي بالناقوس (إذا أرادوا)، ويقال في أعياد العذراء أيضاً. (أسبسمس كلمة يونانية معناها تحية أو معانقة.)
+               </Language>
+            </Comment>
+         </Season>
+      </Group>
+               
+      <Text>
+         <Language id="Coptic">
+            Ounof m~mo Maria: ]bwki ouoh ]mau: je v/et qen pea~m/r: niaggeloc cehwc e~rof.
+         </Language>
+         <Language id="English">
+            Rejoice, O Mary, handmaiden and mother, for the angels praise Him who is in your arms,
+         </Language>
+         <Language id="Arabic">
+            افرحي يا مريم، العبدة والأم، لأن الذي في حجرك، الملائكة تسبحه
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouoh ni,eroubim: ceouwst m~mof axioc: nem niceravim: qen oumetaumounk.
+         </Language>
+         <Language id="English">
+            and the cherubim worthily worship Him; the seraphim too, without ceasing.
+         </Language>
+         <Language id="Arabic">
+            والشيروبيم يسجدون له بإستحقاق والسيرافيم ، بغير فتور
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Mmon n~tan n~ouparr/cia: qaten Pen[oic I/couc Pi,~rictoc: ,wric netwbh nem nep~recbia: w~ ten[oic n~n/b t/ren ]yeo~tokoc.
+         </Language>
+         <Language id="English">
+            We have no boldness before our Lord Jesus Christ apart from your prayers and intercessions, O our Lady, the Lady of us all, the Theotokos.
+         </Language>
+         <Language id="Arabic">
+            ليس لنا دالة، عند ربنا يسوع المسيح سوى طلباتك وشفاعاتك يا سيدتنا كلنا السيدة والدة الإله
+         </Language>         
+      </Text>
+      
+      <InsertDocument path="include/adamAspasmos/Conclusion"/>
+   </Section>
+</Document>

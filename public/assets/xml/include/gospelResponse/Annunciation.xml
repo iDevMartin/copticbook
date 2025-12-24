@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Annunciation">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Annunciation:
+            </Language>
+         </Comment>
+
+         <Group>
+            <Season id="Liturgy ^ DisplayNonCustomaryPrayers">
+               <Text>
+                  <Language id="English">
+                     Gabriel came to you: O Virgin Mary:  With birth of the eternal Logos, he preached you: And the Son dwelt in you fully. 
+                  </Language>
+                  <Language id="Arabic">
+                     غبريال جاء إليك: أيتها العذراء مريم: وبميلاد الكلمة الأذلى بشرك: حيث حل فيك الأبن بتمام.
+                  </Language>
+               </Text>
+            </Season>
+         </Group>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia  (4) I/couc Pi,~rictoc p~s/ri m~V]: af[icarx e~bolqen ]paryenoc
+            </Language>
+            <Language id="English">
+               Alleluia (4). Jesus Christ, the Son of God, was incarnate of the Virgin.
+            </Language>
+            <Language id="Arabic">
+               الليلويا (4) يسوع المسيح ابن الله تجسد من العذراء.
+            </Language>         
+         </Text>
+                        
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

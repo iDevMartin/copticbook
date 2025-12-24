@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>     
+         <Language id="English">Hymn of the Intercessions</Language>
+         <Language id="Coptic">Hiten nip~recbia...</Language>         
+      </Title>
+      
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.1"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.2"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.3"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.4"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.5"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.6"/>
+      <InsertDocument path="include/hiten/HymnOfTheIntercessions.7"/>
+   </Section>
+</Document>

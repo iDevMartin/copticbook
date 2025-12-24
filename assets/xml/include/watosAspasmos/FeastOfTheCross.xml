@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Pic~tauroc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Feast of the Cross:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Pic~tauroc pe penhoplon: pic~tauroc pe tenhelpic: pic~tauroc pe penoujai: pic~tauroc pe pensousou. All/louia All/louia All/louia
+            </Language>
+            <Language id="English">
+               The Cross is our weapon, the Cross is our hope, the Cross is our salvation, the Cross is our pride. Alleluia, Alleluia, Alleluia.
+            </Language>
+            <Language id="Arabic">
+               الصليبُ سلاحنا. الصليبُ رجاؤنا. الصليبُ خلاصنا. الصليبُ فخرنا. الليلويا الليلويا اليللويا
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               Pa[oic I/couc Pi,~rictoc v/e~taues e~pic~tauroc eke~qomqem m~p~catanac capec/t n~nen[alauj: cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               My Lord Jesus Christ, who was crucified on the Cross, trample satan under our feet, save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               ياربي يسوع المسيح الذي صلب علي الصليب اسحق الشيطان تحت ارجلنا. خلصنا وارحمنا.
+            </Language>         
+         </Text>               
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

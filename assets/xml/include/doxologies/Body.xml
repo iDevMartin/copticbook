@@ -1,0 +1,17 @@
+<xml version="1.0" encoding="UTF-8">
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="Vespers | Matins | ThirdProstration | FuneralPrayer">
+      <div w3-include-html="Introduction.html"></div>
+   </Season>
+   
+   <InsertDocument path="include/doxologies/Doxologies.1"/>   
+   <InsertDocument path="include/doxologies/StMary"/>
+   <InsertDocument path="include/doxologies/Doxologies.2"/>
+   <InsertDocument path="include/doxologies/HeavenlyHost"/>
+   <InsertDocument path="include/doxologies/Doxologies.3"/>
+   <InsertDocument path="include/doxologies/Apostles"/>
+   <InsertDocument path="include/doxologies/Doxologies.4"/>   
+   <InsertDocument path="include/doxologies/Conclusion"/>
+</Document>
+</xml>

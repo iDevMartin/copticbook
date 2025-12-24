@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Metropolitan">
+      <InsertDocument path="include/Offering.Priest.1"/>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Metropolitan">
+      <InsertDocument path="include/Offering.Priest.2"/>
+   </Role>
+         
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+   
+   <Role id="Metropolitan">
+     <InsertDocument path="include/Offering.Priest.3"/>
+   </Role>
+   
+   <Role id="Chanters">
+      <InsertDocument path="include/Amen"/>
+   </Role>
+</Document>

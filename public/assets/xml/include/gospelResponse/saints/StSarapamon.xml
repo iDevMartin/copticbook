@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>            
+      <Season id="StSarapamon:GospelResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Sarapamon: 
+            </Language>
+         </Comment>
+      
+         <InsertDocument path="include/doxologies/conclusions/StSarapamon"/>
+      </Season>
+   </Group>
+</Document>

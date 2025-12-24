@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">
+      <Text>
+         <Language id="Coptic">
+            Proc,wmen.
+         </Language>
+         <Language id="English">
+            Let us attend.
+         </Language>
+         <Language id="Arabic">
+            ننصت
+         </Language>         
+      </Text>
+   </Role>
+</Document>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StStephen:Doxology | FuneralDeacons">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Stephen</Language>
+            <Language id="Arabic">ذوكصولوجية للقديس اسطفانوس</Language>
+            <Language id="Coptic">V/ettai/out m~marturoc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Stephen:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               V/ettai/out m~marturoc: n~te Peno#c# I/#c# P,#c#: v/e#y#u# Ctevanoc: e~te pefouw~hem pe pi,~lom.
+            </Language>
+            <Language id="English">
+               The honored martyr: of our Lord Jesus Christ: Saint Stephen: which means “the crown.”
+            </Language>
+            <Language id="Arabic">
+               الشهيد المكرم الذي لربنا يسوع المسيح القديس استفانوس الذي تأويله الإكليل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/eta~ V] [wrp e~rof: n~hannis] m~muct/rion: af[iouwini n~je pefho: m~v~r/] m~p~ho n~ouaggeloc.
+            </Language>
+            <Language id="English">
+               To whom God revealed: great mysteries: and his face did shine: like the face of an angel.
+            </Language>
+            <Language id="Arabic">
+               الذي كشف له الله أسرارا عظيمة واستنار وجهه مثل وجه ملاك.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               V/etafnau e~niv/oui~ euou/n: ouoh Pao#c# I/#c# caouinam m~Pefiwt: n/e~tauhiw~ni e~jwf: naftwbh n~ca pououjai.
+            </Language>
+            <Language id="English">
+               Who saw the heavens open: and our Lord Jesus at the right hand of His Father: And those who were stoning him: he was praying for their salvation.
+            </Language>
+            <Language id="Arabic">
+               الذي رأى السماوات مفتوحة وربنا يسوع عن يمين أبيه والذين يرجمونه كان يطلب عن خلاصهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Efws e~bol efjw m~moc: je Pao#c# I/#c# P,#c#: sep pap#n#a# e~rok: m~perep painobi e~nairwmi.
+            </Language>
+            <Language id="English">
+               Crying out saying: “My Lord Jesus Christ: receive my spirit: and count not my sin against these men.”
+            </Language>
+            <Language id="Arabic">
+               صارخا قائلا ياربى يسوع المسيح اقبل روحي إليك ولا تحسب هذه الخطية على هؤلاء الناس.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Je n~cecwoun n~h~li an: qen n/e~toui~ri m~mwou: eybe piywm n~te pouh/t: Po#c# m~percohi m~mwou.
+            </Language>
+            <Language id="English">
+                “For they do not know: what they are doing: Because of the hardness of their heart: O Lord, do not rebuke them.”
+            </Language>
+            <Language id="Arabic">
+               لأنهم لا يدرون ماذا يصنعون من أجل عمى قلوبهم يارب لا تبكتهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pefd~romoc afjokf e~bol: ouoh afmou e~jen ]meym/i: afervorin m~pi,~lom n~atlwm: n~te ]metmarturoc.
+            </Language>
+            <Language id="English">
+               He finished his course: and died for the Truth: and put on the everlasting crown: of martyrdom.
+            </Language>
+            <Language id="Arabic">
+               أكمل سعيه ومات على الحق ولبس إكليل الشهادة غير المضمحل.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ piayl/t/c: n~te Peno#c# I/#c# P,#c#: v/e#y#u# Ctevanoc: e~te pefouw~hem pe pi,~lom.
+            </Language>
+            <Language id="English">
+               Hail to you. O fighter: of our Lord Jesus Christ: Saint Stephen: which means “the crown.”
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها المجاهد الذي لربنا يسوع المسيح القديس استفانوس الذي تأويله الإكليل.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StStephen"/>
+      </Section>
+   </Season>  
+</Document>

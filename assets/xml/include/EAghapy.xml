@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section>
+      <Title>
+         <Language id="English">Alternate Response to the Pauline Epistle</Language>
+         <Language id="Coptic">?~ a~gap/...</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">         
+            The following hymn may said in place of <span class="Coptic">Pih~mot gar</span>:
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="Coptic">
+            ?~ a~gap/ tou Yeou Patroc: ke /~ ,aric tou Monogenouc 
+         </Language>
+         <Language id="English">
+            The love of God the Father, and the grace of the only-begotten Son, 
+         </Language>
+         <Language id="Arabic">
+            محبةُ الله الآبِ، ونعمةُ الابنِ الوحيدِ
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            U~iou Kuriou de ke Yeou ke Cwt/roc /~mwn I/cou &lt;~rictou:
+         </Language>
+         <Language id="English">
+            Our Lord, God and Savior Jesus Christ,
+         </Language>
+         <Language id="Arabic">
+            ربنا وإلهنا ومخلصِّنا يسوع المسيح
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ke /~ koinwnia~ ke /~ dwrea~ tou a~giou P~neumatoc: 
+         </Language>
+         <Language id="English">
+            And the communion and gift of the Holy Spirit 
+         </Language>
+         <Language id="Arabic">
+            وشركةُ وموهبةُ الروحِ القدس
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            I~ /~meta tou a~giwtatou ke makariw tatou patroc /~mwn papa abba (nim).
+         </Language>
+         <Language id="English">
+            Be with the most holy and most blessed father, Pope Abba (…).
+         </Language>
+         <Language id="Arabic">
+            القديس تكون مع الأقدس الطوباوى أبينا البابا أنبا (...)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Papa ke patriar,ou t/c megalo polewc A~lexand~riac: 
+         </Language>
+         <Language id="English">
+            Pope and Patriarch of the great city of Alexandria 
+         </Language>
+         <Language id="Arabic">
+            بابا وبطريرك المدينة العظمى الاسكندرية
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem t~,wra t/rc n~&lt;/mi: nem t~polic m~pennou] Ieroucal/m: 
+         </Language>
+         <Language id="English">
+            And the whole country of Egypt, the city of our God, Jerusalem, 
+         </Language>
+         <Language id="Arabic">
+            وكل كورة مصر ومدينة إلهنا اورشليم
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Nem ]t~iou m~baki m~pement: nem ]Lubia nem Noubia nem Nie~yaus nem Afrikia. 
+         </Language>
+         <Language id="English">
+            the Pentapolis, Libya, Nubia, Ethiopia, and Africa. 
+         </Language>
+         <Language id="Arabic">
+            والخمس مدن الغربية وليبيا والنوبة والحبشة وأفريقية 
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ke tou a~gioc ke makariou e~decimwtatou tou patroc /~mwn abba (nim) 
+         </Language>
+         <Language id="English">
+            and our holy, blessed, most honorable father, Abba (…), 
+         </Language>
+         <Language id="Arabic">
+            القديس المغبوط الكلى الاكرام ابينا (...)
+         </Language>         
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Oryodoxou /~mwn e~pickopou t/c polewc taut/c ke twn o~riwnaut/c.
+         </Language>
+         <Language id="English">
+            Our Orthodox bishop of this city and its surroundings.
+         </Language>
+         <Language id="Arabic">
+            اسقفنا الارثوذكسى الذى لهذه المدينة وتخومها
+         </Language>         
+      </Text>
+   
+      <InsertDocument path="include/MayTheClergy"/>
+   </Section>
+</Document>

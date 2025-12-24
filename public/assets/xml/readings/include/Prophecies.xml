@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JoyousSaturday">
+      <BibleReference reference="Isaiah 45:15-20" type="section"/>
+      <BibleReference reference="Jeremiah 31:31-34" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.1">
+      <BibleReference reference="Jonah 1:1-17" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.2">
+      <BibleReference reference="Jonah 2:2-10" type="section"/>
+   </Season>
+
+   <Season id="JonahFast.3">
+      <BibleReference reference="Jonah 3:1-4:11" type="section"/>
+   </Season>
+
+   <Season id="FirstMondayOfGreatFast">
+      <BibleReference reference="Exodus 2:23-3:5" type="section"/>
+      <BibleReference reference="Isaiah 1:2-18" type="section"/>
+   </Season>
+
+   <Season id="LastFridayOfGreatFast">
+      <BibleReference reference="Genesis 49:33-50:26" type="section"/>
+      <BibleReference reference="Proverbs 11:27-12:22" type="section"/>
+      <BibleReference reference="Isaiah 66:10-24" type="section"/>
+      <BibleReference reference="Job 42:7-17" type="section"/>
+   </Season>
+
+   <Season id="LazarusSaturday">
+      <BibleReference reference="Genesis 49:1-28" type="section"/>
+      <BibleReference reference="Isaiah 40:9-31" type="section"/>
+      <BibleReference reference="Zephaniah 3:14-20" type="section"/>
+      <BibleReference reference="Zechariah 9:9-15" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.2">
+      <BibleReference reference="Isaiah 1:19-2:3" type="section"/>
+      <BibleReference reference="Zechariah 8:7-13" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.3">
+      <BibleReference reference="Isaiah 2:3-11" type="section"/>
+      <BibleReference reference="Joel 2:12-27" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.4">
+      <BibleReference reference="Isaiah 2:11-19" type="section"/>
+      <BibleReference reference="Zechariah 8:18-23" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.5">
+      <BibleReference reference="Deuteronomy 6:3-7:26" type="section"/>
+      <BibleReference reference="Isaiah 3:1-14" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.8">
+      <BibleReference reference="Exodus 3:6-14" type="section"/>
+      <BibleReference reference="Isaiah 4:2-5:7" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.9">
+      <BibleReference reference="Job 19:1-27" type="section"/>
+      <BibleReference reference="Isaiah 5:7-16" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.10">
+      <BibleReference reference="Exodus 2:11-20" type="section"/>
+      <BibleReference reference="Isaiah 5:17-25" type="section"/>
+      <BibleReference reference="Malachi 1:6-3:6" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.11">
+      <BibleReference reference="Deuteronomy 5:15-22" type="section"/>
+      <BibleReference reference="Isaiah 6:1-12" type="section"/>
+      <BibleReference reference="Joshua 2:1-6:27" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.12">
+      <BibleReference reference="Deuteronomy 8:1-9:4" type="section"/>
+      <BibleReference reference="1 Samuel 17:1-18:4" type="section"/>
+      <BibleReference reference="Isaiah 7:1-14" type="section"/>
+      <BibleReference reference="Job 11:1-20" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.15">
+      <BibleReference reference="Proverbs 1:20-33" type="section"/>
+      <BibleReference reference="Isaiah 8:13-9:7" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.16">
+      <BibleReference reference="Proverbs 2:1-15" type="section"/>
+      <BibleReference reference="Isaiah 10:12-20" type="section"/>
+      <BibleReference reference="Joshua 7:1-26" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.17">
+      <BibleReference reference="Exodus 4:19-6:13" type="section"/>
+      <BibleReference reference="Joel 2:21-26" type="section"/>
+      <BibleReference reference="Isaiah 9:9-10:4" type="section"/>
+      <BibleReference reference="Job 12:1-14:22" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.18">
+      <BibleReference reference="Genesis 18:17-19:29" type="section"/>
+      <BibleReference reference="Proverbs 2:16-3:4" type="section"/>
+      <BibleReference reference="Isaiah 11:10-12:2" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.19">
+      <BibleReference reference="Deuteronomy 9:7-10:11" type="section"/>
+      <BibleReference reference="1 Samuel 23:26-24:22" type="section"/>
+      <BibleReference reference="Job 15:1-35" type="section"/>
+      <BibleReference reference="Isaiah 13:2-13" type="section"/>
+      <BibleReference reference="Sirach 2:1-3:4" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.22">
+      <BibleReference reference="Genesis 27:1-41" type="section"/>
+      <BibleReference reference="Isaiah 14:24-32" type="section"/>
+      <BibleReference reference="Job 16:1-17:16" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.23">
+      <BibleReference reference="Genesis 28:10-22" type="section"/>
+      <BibleReference reference="Isaiah 25:1-26:8" type="section"/>
+      <BibleReference reference="Job 18:1-21" type="section"/>
+      <BibleReference reference="Sirach 8:1-10:1" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.24">
+      <BibleReference reference="Exodus 7:14-8:18" type="section"/>
+      <BibleReference reference="Joel 2:28-32" type="section"/>
+      <BibleReference reference="Job 1:1-22" type="section"/>
+      <BibleReference reference="Isaiah 26:21-27:9" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.25">
+      <BibleReference reference="Genesis 32:1-30" type="section"/>
+      <BibleReference reference="Isaiah 28:14-22" type="section"/>
+      <BibleReference reference="Job 20:1-29" type="section"/>
+      <BibleReference reference="Daniel 6:1-27" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.26">
+      <BibleReference reference="Deuteronomy 10:12-11:28" type="section"/>
+      <BibleReference reference="Isaiah 29:13-23" type="section"/>
+      <BibleReference reference="Job 21:1-34" type="section"/>
+      <BibleReference reference="Daniel 14:2-42" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.29">
+      <BibleReference reference="Proverbs 3:5-18" type="section"/>
+      <BibleReference reference="Isaiah 37:33-38:6" type="section"/>
+      <BibleReference reference="Job 22:1-30" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.30">
+      <BibleReference reference="Numbers 10:35-11:34" type="section"/>
+      <BibleReference reference="Proverbs 3:19-4:9" type="section"/>
+      <BibleReference reference="Isaiah 40:1-8" type="section"/>
+      <BibleReference reference="Job 25:1-6" type="section"/>
+      <BibleReference reference="Job 26:1-14" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.31">
+      <BibleReference reference="Exodus 8:20-9:35" type="section"/>
+      <BibleReference reference="Isaiah 41:4-14" type="section"/>
+      <BibleReference reference="Joel 3:9-21" type="section"/>
+      <BibleReference reference="Job 28:12-28" type="section"/>
+      <BibleReference reference="Proverbs 4:10-19" type="section"/>
+      <BibleReference reference="1 Samuel 1:1-2:21" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.32">
+      <BibleReference reference="Isaiah 42:5-16" type="section"/>
+      <BibleReference reference="Proverbs 4:20-27" type="section"/>
+      <BibleReference reference="Job 29:2-20" type="section"/>
+      <BibleReference reference="1 Samuel 3:1-20" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.33">
+      <BibleReference reference="Deuteronomy 11:29-12:27" type="section"/>
+      <BibleReference reference="1 Kings 17:2-24" type="section"/>
+      <BibleReference reference="Proverbs 5:1-12" type="section"/>
+      <BibleReference reference="Isaiah 43:1-9" type="section"/>
+      <BibleReference reference="Job 30:9-32:5" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.36">
+      <BibleReference reference="Proverbs 8:1-11" type="section"/>
+      <BibleReference reference="Isaiah 43:10-28" type="section"/>
+      <BibleReference reference="Job 32:6-16" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.37">
+      <BibleReference reference="Proverbs 8:12-21" type="section"/>
+      <BibleReference reference="Isaiah 44:1-8" type="section"/>
+      <BibleReference reference="Job 32:17-33:33" type="section"/>
+      <BibleReference reference="2 Kings 5:1-27" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.38">
+      <BibleReference reference="Exodus 10:1-11:10" type="section"/>
+      <BibleReference reference="Isaiah 44:21-28" type="section"/>
+      <BibleReference reference="Proverbs 8:22-36" type="section"/>
+      <BibleReference reference="Job 34:1-37" type="section"/>
+      <BibleReference reference="Sirach 10:1-31" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.39">
+      <BibleReference reference="2 Kings 4:8-41" type="section"/>
+      <BibleReference reference="Isaiah 45:1-10" type="section"/>
+      <BibleReference reference="Proverbs 9:1-11" type="section"/>
+      <BibleReference reference="Job 35:1-16" type="section"/>
+      <BibleReference reference="Sirach 11:1-10" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.40">
+      <BibleReference reference="Genesis 22:1-18" type="section"/>
+      <BibleReference reference="Isaiah 45:11-17" type="section"/>
+      <BibleReference reference="Proverbs 9:12-18" type="section"/>
+      <BibleReference reference="Tobit 1:1-14:15" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.43">
+      <BibleReference reference="Proverbs 10:1-16" type="section"/>
+      <BibleReference reference="Isaiah 48:17-49:4" type="section"/>
+      <BibleReference reference="Job 38:1-38" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.44">
+      <BibleReference reference="Proverbs 10:17-32" type="section"/>
+      <BibleReference reference="Isaiah 49:6-10" type="section"/>
+      <BibleReference reference="Job 38:37-39:30" type="section"/>
+      <BibleReference reference="Sirach 5:1-15" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.45">
+      <BibleReference reference="Proverbs 10:32-11:13" type="section"/>
+      <BibleReference reference="Isaiah 58:1-11" type="section"/>
+      <BibleReference reference="Job 40:1-41:34" type="section"/>
+   </Season>
+
+   <Season id="GreatFast.46">
+      <BibleReference reference="Proverbs 11:13-26" type="section"/>
+      <BibleReference reference="Isaiah 65:8-16" type="section"/>
+      <BibleReference reference="Job 42:1-6" type="section"/>
+      <BibleReference reference="2 Kings 6:8-7:20" type="section"/>
+   </Season>
+</Document>

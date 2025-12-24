@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FirstWeekOfKoiahk">
+      <Section>
+         <Title>
+            <Language id="English">Adam Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الادام</Language>
+            <Language id="Coptic">Za,ariac...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the first week of the month of Koiahk:
+            </Language>
+         </Comment>
+
+         <Text>
+            <Language id="Coptic">
+               Za,ariac piou/b p~s/ri m~Bara,iac ef,/ qen piervei: eftale ouc~yoinoufi e~p~swi.
+            </Language>
+            <Language id="English">
+               Zachariah the priest, son of Barachiah, was in the temple offering incense.
+            </Language>
+            <Language id="Arabic">
+               زكريا الكاهن ابن براخيا فيما هو في الهيكل يرفع البخور.
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Etafnau e~piouwini: et,/ qen pefho: aferho] ouoh afhei: qaratou n~nef[alauj.
+            </Language>
+            <Language id="English">
+               When he saw the light, which was in his face; he was terrified and fell down to his feet.
+            </Language>
+            <Language id="Arabic">
+               لما رأي النور الكائن في وجهه خاف وسقط تحت رجليه.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/adamAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

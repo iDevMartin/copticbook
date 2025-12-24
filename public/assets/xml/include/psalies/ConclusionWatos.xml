@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">Conclusion of the Watos Psali</Language>
+         <Language id="Arabic">ختاما للآبصالية فى أيام الواطس</Language>
+         <Language id="Coptic">Eswp ansaner'alin...</Language>
+      </Title>
+      
+      <Text>
+         <Language id="Coptic">
+            Eswp ansaner'alin: marenjoc qen ouh~loj: je Peno#c# I/#c# P,#c#: ariounai~ nem nen'u,/.
+         </Language>
+         <Language id="English">
+            And whenever we sing, let us say tenderly, Our Lord Jesus Christ, have mercy upon our souls.
+         </Language>
+         <Language id="Arabic">
+            وإذا ما رتلنا فلنقل بعذوبة يا ربنا يسوع المسيح إصنع رحمة مع نفوسنا.
+         </Language>
+      </Text>
+   
+      <InsertDocument path="include/DoxaPatri"/>
+   </Section>
+</Document>

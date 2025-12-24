@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="FuneralDeacons">
+         <Text>        
+            <Language id="Coptic">            
+               Wouniatk qen oumeym/i: pencon e#y#u# etc~marwout: pidia~kwn (nim): pimenrit n~te P,#c#.
+            </Language> 
+            <Language id="English">            
+               You are blessed in truth, our blessed holy brother, (…) the deacon, the beloved of Christ.
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة ، يا أخانا المبارك القديس ، الشماس (...) ، حبيب المسيح.
+            </Language>
+         </Text>      
+      </Season>
+      
+      <Season id="FuneralPriests | FuneralMonkPriests">
+         <Text>        
+            <Language id="Coptic">            
+               Wouniatk qen oumeym/i: peniwt e#y#u# n~dikeoc: peniwt (nim) piou/b : pimenrit n~te P,#c#.
+            </Language> 
+            <Language id="English">            
+               You are blessed in truth, our holy righteous father, our father (…) the priest , the beloved of Christ. 
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة ، يا أبانا القديس البار، أبينا (...) الكاهن ، حبيب المسيح.
+            </Language>
+         </Text>      
+      </Season>
+      
+      <Season id="FuneralBishops">
+         <Text>        
+            <Language id="Coptic">            
+               Wouniatk qen oumeym/i: peniwt e#y#u# n~dikeoc : (papa) abba (nim) pie~pickopoc (ie pim/tropol/t/c ie pipatriar,/c ): pimenrit n~te P,#c#.
+            </Language> 
+            <Language id="English">            
+               You are blessed in truth, our holy father the patriarch, (Papa) Abba (…) the bishop (or metropolitan or high priest), the beloved of Christ. 
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة ، يا أبانا القديس البار ، أنبا (...) الأسقف  (أو المطران أو البطريرك) ، حبيب المسيح.
+            </Language>
+         </Text>      
+      </Season>
+      
+      <Season id="FuneralNuns">
+         <Text>        
+            <Language id="Coptic">            
+               Wounia] qen oumeym/i: ]cwtp n~kuria m~m/i: tenmau (nim) ]mona,/: ]selet n~te P,#c#.
+            </Language> 
+            <Language id="English">            
+               You are blessed in truth, the chosen true lady, our mother (…) the nun, the bride of Christ 
+            </Language>
+            <Language id="Arabic">
+               طوباك بالحقيقة ، ايتها المختارة البارة، أمنا (...) الراهبة ، عروس المسيح. (أو الكاهن)، حبيب المسيح.
+            </Language>
+         </Text>      
+      </Season>
+   </Group>
+</Document>

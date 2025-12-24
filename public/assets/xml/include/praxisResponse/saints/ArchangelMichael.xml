@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>       
+      <Season id="ArchangelMichael:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of Archangel Michael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Mi,a/l: pinis] n~ar,/aggeloc: &lt;ere Arictar,oc: nem Euvomia~
+            </Language>
+            <Language id="English">
+               Hail to Michael: The great Archangel: Hail to Aristarchus: and Eufemia
+            </Language>
+            <Language id="Arabic">
+               السلام لميخائيل : رئيس الملائكة العظيم: السلام لأرسطورخوس وأفومية.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">         
+               Another response for Archangel Michael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Mi,a/l: pinis] n~ar,/aggeloc: pilitorgoc n~jwri: nahren Pouro P,#c#.
+            </Language>
+            <Language id="English">
+               Hail to Michael: The great Archangel: The strong servant: before Christ the King.
+            </Language>
+            <Language id="Arabic">
+               السلام لميخائيل : رئيس الملائكة العظيم: الخادم القوى: أمام الملك المسيح.
+            </Language>         
+         </Text>
+         
+         <Comment>
+            <Language id="English">         
+               Another response for Archangel Michael:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere Mi,a/l: pinis] n~ar,/aggeloc: &lt;ere Dwroyeoc: nem Yeo~picte
+            </Language>
+            <Language id="English">
+               Hail to Michael: The great Archangel: Hail to Dorotheos: and Theopista
+            </Language>
+            <Language id="Arabic">
+               السلام لميخائيل : رئيس الملائكة العظيم: السلام لدوروتاؤس وتاؤبسته.
+            </Language>         
+         </Text>            
+      </Season>
+   </Group>
+</Document>

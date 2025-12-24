@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/psalm150/CopticNewYear"/>
+   <InsertDocument path="include/psalm150/FeastOfTheCross"/>
+   <InsertDocument path="include/psalm150/KoiahkSeason"/>
+   <InsertDocument path="include/psalm150/Nativity"/>
+   <InsertDocument path="include/psalm150/Circumcision"/>
+   <InsertDocument path="include/psalm150/Theophany"/>
+   <InsertDocument path="include/psalm150/WeddingCana"/>
+   <InsertDocument path="include/psalm150/PresentationInTemple"/>
+   <InsertDocument path="include/psalm150/Annunciation"/>
+   <InsertDocument path="include/psalm150/JonahFast"/>
+   <InsertDocument path="include/psalm150/GreatFast"/>
+   <InsertDocument path="include/psalm150/HosannaSunday"/>
+   <InsertDocument path="include/psalm150/PreAscensionPentecostPeriod"/>
+   <InsertDocument path="include/psalm150/PostAscensionPentecostPeriod"/>
+   <InsertDocument path="include/psalm150/Pentecost"/>
+   <InsertDocument path="include/psalm150/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/psalm150/Transfiguration"/>
+</Document>

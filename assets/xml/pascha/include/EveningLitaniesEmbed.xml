@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Evening Litanies</Language>
+         <Language id="Arabic">طلبة المساء</Language>
+      </Title>
+      
+      <Comment>
+         <Language id="English">
+            The Litanies are prayed without prostration in the evening because the congregation is not fasting.      
+         </Language>
+      </Comment>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               We ask and entreat You, O Lord God the Father, the Pantocrator, and the holy only-begotten Son, who created and ordered all things, and the Holy Spirit, the Giver of life, the Holy Trinity, before whom every knee bows in heaven and on earth. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نسأل و نتضرع إليك أيها السيد الله الآب ضابط الكل والإبن الوحيد القدوس، خالق الكل ومدبرهم والروح القدس المحيى الثالوث القدوس الذى تجثوا له كل ركبة ما فى السموآتٍ و ما فى الأرض. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the heavenly peace and unity of all churches in the world, monasteries, and for those dwelling in and caring for all holy places, O God, have compassion on Your creation and deliver it from all evil. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               من أجل السلامة العالية وتآلف سائر البيع التى فى العالم و الأديرة والمجامع المقدسة والسكان فيها والقيام بأحوالها: يا الله تحنن على خليقتك ونجها من كل سوء. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who by Your power planned the life of man before his creation, and created all that exists by Your wisdom, and adorned the heavens with stars, and the earth with plants, trees, and vineyards, and the valleys with meadows and flowers. O our King, accept now the supplication of Your servants who place themselves in Your hands and say, “We ask You, O Lord, hear us and have mercy on us.”
+            </Language>
+            <Language id="Arabic">
+               يا من بقدرته دبر حياة الآنسان قبل خلقته وصنع له الموجودآتٍ بحكمته وزين السماء بالنجوم والأرض بالنبآتٍآتٍ والأشجار والكروم والأودية، أنت الآن يا ملكنا أقبل طلبآتٍ عبيدك الواقفين بين يديك القائلين نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O great and holy God, who created man in His image and likeness, and gave him a living and reasoning soul, have mercy, O Lord, on Your creation which You have made, show us  compassion, and send down upon us Your mercy from the height of Your holiness and Your prepared dwelling. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا الله العظيم القدوس الذى خلق الآنسان على صورته ومثاله و جعل فيه نفساً حية عاقلة ناطقة. أرحم يارب جبلتك التى خلقتها وتحنن عليها وأرسل علينا رحمتك من علو قدسك ومسكنك المستعد نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who saved Your servant Noah the righteous, and delivered him from the flood, with his sons and their wives, and also the clean and unclean animals, for the sake of the earth’s renewal. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من خلصت عبدك نوح البار ونجيته من الطوفان هو وبنيه ونساءهم وأيضاً الحيوانآتٍ الطاهرة والغير الطاهرة لأجل تجديد الأرض مرة أخرى نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Maker and Provider of all, deliver Your people from the flood of the sea of this passing world, and protect them and all animals from harm, and provide for the needs of the birds, for You give to all birds, animals, and ravens their sustenance. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها البارى رازق الـكل. نج شعبك من طوفان بحر العالم الزائل وأرفع عنهم كل مكروه. وكل الحيوانآتٍ أيضاً وسائر الطيور أعطها قوتها لأنك تعطى للبهائم رزقاً ولفراخ الغربان قوتاً. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who were received as a guest by Your servant Abraham the patriarch, and ate at his table and blessed his Seed, O our King, accept now the supplications of Your servants and priests who place themselves in Your hands, have compassion on the world and save Your people from every hardship, abide in them and accompany them. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من ضيف عند عبده إبراهيم رئيس الآباء وآتٍكأ على مائدته و بارك فى زرعه أنت الآن يا ملكنا أقبل طلبة عبيدك وكهنتك الواقفين بين يديك وتراءف على العالم وخلص شعبك من كل شدة و حل فيهم وسر بينهم. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               We ask You, O Lord, to guard us from all evil, to have compassion on Your creation and all Your people, for the eyes of everyone wait upon You, for You give them their food in due season. O sustainer of all flesh, the help of the helpless, and the hope of the hopeless. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               نطلب إليك يارب لكى تحرسنا من جميع الشرور. وتراءف على خليقتك وجميع شعبك لأن أعين الكل تترجاك وتعطيهم طعامهم فى حينه. المغذى كل ذى جسد. يا عون من لا عون له. يا رجاء من لا رجاء له نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who look to the humble with watchful eyes of protection, who saved Joseph from his master’s wife, set him as a ruler over Egypt, and spared him in the days of hardship, so that his brothers and father Jacob came and knelt before him, and took from him wheat for the sustenance of their children and animals, we also bow our heads and kneel before You, O our Creator and Provider, and we thank You for everything, concerning everything, and in everything. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها الناظر إلى المتواضعين بعين عنايتك التى لا تغفل وخلصت يوسف من إمرأة سيده وجعلته ملكاً على مصر وأحوالها و أجزت عليه أيام الشدة. فآتٍى إليه أخوته وأبوه يعقوب وسجدوا بين يديه وأخذوا منه حنطة لقوت بنيهم ومواشيهم. نحن الجميع أيضاً نخضع لك برؤوسنا ونسجد ما بين يديك و نشكرك يا خالقنا ورازقنا على هذا الحال وفى كل حال ومن أجل سائر الأحوال ونجنا يا الله من كل شدة نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O God, Logos of the Father, who works in the law, the prophets, and the Old Testament, and fulfills them, save Your people from every hardship, manage their lives according to Your goodwill, and spare them from famines and calamities. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها الإله كلمة الآب الـفاعل فى الناموس والآنبياء والعهد القديم ومكملهم خلص شعبك من كل ضيقة ودبـر حـيآتٍهم كحسب إرادتك الصالحة وأرفع عنا كل القحط والبلية. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who supported the people of Israel forty years in the desert of Sinai, though they had no houses or storehouses, O my Lord, keep now Your people, and bless their houses and storehouses with Your heavenly blessings. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من عال الشعب الإسرائيلى أربعين سنة فى طور سيناء ولم يكن لهم بيوت ولا مخازن. أنت يا سيدى أحفظ شعبك وعلهم وبارك فى منازلهم ومخازنهم بالبركآتٍ السمائية. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who accepted the prayer of Elijah the Tishbite when the sky rained and the earth produced vegetation, and blessed the barrel of wheat and the vessel of oil in the widow’s house, accept the prayers of Your people through the intercessions of Your holy saints and prophets. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من قبلت طـلبة إيليا التسبيتى عندما أمطرت السموآتٍ وأنبتت الأرض وباركت فى كيلة الدقيق وقسـط الزيت فى بيت الأرملة. أقـبل طلبة شعبك بصلوآتٍ قديسيك وأنبيائك الأطهار. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O God, have compassion on the world with kind and merciful eyes, bless their crops and storehouses and the little they may have, raise the waters of the rivers according to their measure, grant moderation to the winds, bless the Nile of Egypt this year and every year, give joy to the face of the earth and to us men.  We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا الله تراءف على العالم بعين الرحمة والرأفة وبارك فى كيل غلآتٍهم ومخازنهم وفى القليل الذى عندهم وأصعد مياه الآنهار كمقدارها وهب أعتدالا للأهوية، و نيل مصر باركه فى هذا العام وكل عام وفرح وجه الأرض وعلنا نحن البشر. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who accepted the repentance of the Ninevites when they fasted together, and received the confession of the right-hand thief upon the cross, make us also worthy of pleasing You and receiving Your compassion, crying and saying, “Remember us, O Lord, when You come into Your kingdom; and receive from Your servants their repentance, their confessions, their fasting, and their offerings which are offered upon Your holy altar as acceptable incense, and have mercy on them. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا من قبلت توبة أهل نينوى عندما صام الجميع. وقبلت إليك أعتراف اللص اليمين على الصليب هكذا نحن أجعلنا مستحقين لرضاك وتحننك لندعوك قائلين أذكرنا يارب متى جئت فى ملكوتك. وأقبل توبة عبيدك و صومهم وصلوآتٍهم وقرابينهم المرفوعة على مذابحك المقدسة بخوراً طيباً وأرحمهم نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You, the mighty Provider, Chastiser, Healer, and Physician of our souls and bodies, who tested His servant Job and healed him of his calamities, and recompensed him for his losses with more than what he had, have mercy on Your people and save them all from calamities, tribulations, trials, and hardships, O upholder of those who trust in You. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها المدبر القوى المؤدب الشافى طبيب الأرواح والأجساد الذى أمتحن عبده أيوب وشفاه من بلاياه ورد عليه ما فقد منه أزيد مما كان. أرحم شعبك وخلصه من جميع البلايا والمحن والتجارب والشدائد. يا ناصر جميع المتوكلين عليك نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Christ our God, Logos of the Father, who sanctified His pure disciples, washed their feet, and made them leaders of the believers and a light for the faith, who by them satisfied hungry souls, and taught them to pray, saying, "Our Father who art in heaven…. Lead us not into temptation, but deliver us from the evil one." We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح إلهنا كلمة الآب الذى عاهد تلاميذه الأطهار وغسل أقدامهم وجعلهم أئمة للمؤمنين ومناراً للدين وأشبع بهم النفوس الجائعة وعلمهم الصلاة قائلين: أبانا الذى فى السموآتٍ لا تدخلنا التجارب لكن نجنا من الشرير نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O worker of wonders and miracles, who fed the thousands with five loaves, raised the dead, blessed the wedding in Cana of Galilee, O Lord, bless now the bread, oil, plants, beehives, trades, products, and all the works of Your servants. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا صانع العجائب والمعجزآتٍ و أشبع الألوف من الخمس خبزآتٍ وأقام الأموآتٍ وبارك فى العرس بقانا الجليل الآن أيها السيد بارك لعبيدك فى خبزهم وزيتهم و زرعهم ونحلهم وفى متاجرهم وصنائعهم ومباشرآتٍهم. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Lord, save Your people, and surround them on every side by the sign of Your life-giving Cross, raise the state of Christians in all the world, and fill the hearts of their rulers with kindness toward them, soften their hearts toward our poor and needy brethren, and keep every evil thing far from them. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يارب خلص شعبك وحوط بهم من كل ناحية بإشارة صليبك المحيى وأرفع شأن المسيحيين فى المسكونة كلها وحنن عليهم قلوب المتولين عليهم وعطف قلوبهم على أخوتنا المساكين والمعوزين بالإحسان وأبعد عنهم كل مكروه. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O You who entrusted us with Your holy covenant, Your Body and Blood present with us every day upon the altar, through the descending of Your Holy Spirit on the bread and wine, and commanded us saying, "This do in remembrance of me." We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يارب يا من ترك لنا عهده المقدس٬ جسده ودمه حاضراً عندنا كل يوم على المذبح خبزاً وخمراً بحلول روح قدسه وأوصانا قائلاً أصنعوه لذكرى. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Christ our God, have mercy on Your people and the successors of Your Apostles, bless the fruits of the earth, and give gladness to the heart of man through the abundance of fruits and blessings. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح إلهنا أرحم شعبك وخليفة رسلك وأعط بركة لثمرآتٍ الأرض وأبهج قلب الآنسان بكثرة ثمرآتٍ القمح والخمر والزيت نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O begotten of the Father, who was incarnate of the blessed Virgin Saint Mary in the fullness of time, who said to His saintly disciples, "Go and make disciples of all the nations, and baptize them, teaching them all that I have commanded you; and behold, I am with you always, even unto the end of the world." Be also with Your people who cry out to You saying, “We ask You, O Lord, hear us and have mercy on us.”
+            </Language>
+            <Language id="Arabic">
+               أيها المولود من الآب الذى تجسد من البكر البتول العذراء القديسة مريم فى آخر الأيام الذى قال لتلاميذه الـقديسين أمضوا وتلمذوا كل الأمم وعمدوهم وعلموهم جميع ما أوصيتكم به. هوذا أنا معكم كل الأيام وإلى أنقضاء العالم. كن أيضاً مع شعبك الصارخين إليك قائلين نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O forgiver of sins and giver of all things, forgive the sins of Your people, purify them from every blemish, and cleanse them from every deceit, and keep them from bearing false witness and from all envy and slander, and uproot from their hearts every evil thought, murmuring, doubts and hardness of heart arising from pride. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا غافر الخطايا ومانح العطايا أغفر خطايا شعبك وطهرهم من كل دنس وأغسلهم من كل غش أبعد عنهم اليمين الحانثة وكل حسد وكل نميمة وأنزع من قلوبهم الفكر الردئ والوسواس و كل الشكوك والكبرياء وكل قساوة وتجبر نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               You are the rampart of our salvation, O Mother of God, the invincible fortress; bring to naught the counsels of the adversaries, turn the mourning of your servants into joy, defend our cities, fight for the orthodox kings and leaders, and intercede for the peace of the world and the churches. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أنت هى سور خلاصنا يا والدة الإله الحصن المنيع, إليك نسأل مشورة المعاندين لنا أبطلى. وحزن عبيدك إلى فرح ردى ولمدينتنا صونى وعن الملوك والرؤساء الأرثوذكسيين حاربى وعن سلام العالم والكنائس أشفعى نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O God of mercy and compassion, Lord of all comfort, do not be angry with us, nor rebuke us for our wicked deeds nor for our many sins. Do not be wrathful with us, nor let Your wrath endure forever. Hear us, O God of Jacob, and look on us, O God our Helper. Spare the world from death, scarcity, plagues, devastation, the sword of enemies, earthquakes, horror, and all fearsome events. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا إله الرحمة والرأفة ورب كل عزاء لا تسخط علينا ولا تؤاخذنا بسوء أعمالنا ولا بكثرة خطايانا ولا تغضب علينا ولا يدوم غضبك إلى الأبد. أنصت يا إله يعقوب وأنظر يا إله عوننا وأرفع عن العالم الموت والغلاء والوباء والجلاء وسيف الأعداء والزلازل والأهوال وكل أمر مخيف نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               For the sake of our protection under Your high and mighty hand, O God, we ask You to keep for us the life of our honored father and patriarch, Pope Abba (...), [and his partner in the apostolic liturgy, our father the bishop (metropolitan) Abba (...),] and to confirm him (them) upon his (their) throne for many years and quiet and peaceful times. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               من أجل حفظنا تحت اليد العالية المقدسة التى لك يا الله نطلب إليك أن تبقى لنا وعلينا حياة الأب المكرم البطريرك أنبا (...)،] وشريكه في الخدمة أبينا الأسقف (المطران) المكرم الآنبا (...)  [ وأن تحفظ لنا حيآتٍه وتثبته على كرسيه سنين عديدة وأزمنه  سلامية هادئة مديدة. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O Christ our God, we ask of Your graciousness and Your great mercy to keep for us the life of our fathers: the metropolitans, the bishops, and all the leaders of the flock. Confirm the sheep of Your flock; grant protection to the priests, purity to the deacons, strength to the elders, understanding to the young, chastity to the virgins, asceticism to the monks, purity to the married, and protection for women. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               أيها المسيح إلهنا نطلب من جودك ومراحمك العالية أن تبقى لنا وعلينا حياة آبائنا المطارنة والأساقفة و كل الرؤساء والرعاة أحفظهم وغنم رعيتهم ثبتهم. أعط حفظاً للكهنة طهارة للشمامسة، قوة للشيوخ، فهماً للأطفال، عفة للأبكار، نسكاً للرهبان والراهبات نقاوة للمتزوجين صوناً للنساء. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               Again we ask for the safe return of travelers; support for widows and orphans; abundance for the poor; and those who are in debt, pay their debts and forgive them; and those who are in prisons and dis¬tress, give them release. Heal the sick and repose the departed. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               وأيضاً الضالين والمسافرين ردهم، والأرامل والأيتام علهم والجياع والعطاش أشبعهم والذين عليهم دين أوف عنهم وسامحهم٬ والمحبوسين والذين فى الشدائد أفرج عنهم، والمرضي والمطروحين أشفهم. والراقدين نيحهم. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+      
+      <Role id="Priest">
+         <Text>
+            <Language id="English">
+               O God of our holy fathers, do not forsake those whom You have created with Your holy hands, You who manifested Your love for mankind, O Merciful One, accept from Your mother intercession on our behalf, and save, O Savior, a humble people. Do not leave us to the end, nor forsake us forever. For the sake of Your holy name, do not break Your covenant nor take away from us Your mercy, for the sake of Abraham Your beloved, Isaac Your servant, and Jacob Your saint. We ask You, O Lord, hear us and have mercy on us.
+            </Language>
+            <Language id="Arabic">
+               يا إله آبائنا القديسين لا تتخل عنا ولا تخيب الذين خلقتهم بيدك الطاهرة وأظهرت حبك للبشرية. أيها الرحوم أقبل من والدتك شفاعة من أجلنا وخلصنا يا مخلص شعباً متواضعاً لا تغفل عنا إلى الغاية ولا تسلمنا إلى الآنقضاء من أجل أسمك القدوس لا تنقض عهدك ولا تبعد عنا رحمتك من أجل إبراهيم حبيبك وأسحق عبدك ويعقوب إسرائيل قديسك. نسألك يارب أسمعنا وأرحمنا.
+            </Language>
+         </Text>
+      </Role>
+      
+      <InsertDocument path="include/LordHaveMercy"/>
+   </Section>
+</Document>

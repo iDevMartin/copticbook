@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Comment>
+      <Language id="English">
+         Then the introduction to the Gospel is read.
+      </Language>
+      <Language id="Arabic">
+         ثم تقال مقدمة الأنجيل وهي:
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="English">
+         Blessed is He who comes in the name of the Lord. Our Lord, God, and Savior Jesus Christ, the Son of the living God to whom is glory forever. Amen.
+      </Language>
+      <Language id="Arabic">
+         مبارك الآتي بأسم الرب إله القوات ربنا وإلهنا ومخلصنا وملكنا كلنا يسوع المسيح، ابن الله الحي، الذي له المجد للأبد. آمين.
+      </Language>
+   </Text>
+</Document>

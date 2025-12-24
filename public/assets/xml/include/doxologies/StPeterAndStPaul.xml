@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StPeterAndStPaul:Doxology | ApostlesFeast">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Peter and St. Paul</Language>
+            <Language id="Arabic">ذوكصولوجية للقديسين بطرس وبولس</Language>
+            <Language id="Coptic">Petroc pia~poctoloc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Peter and St. Paul:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Petroc pia~poctoloc: nem Pauloc picovoc: niar,/ m~may/t/c: n~te Peno#c# I/#c# P,#c#.
+            </Language>
+            <Language id="English">
+               Peter the Apostle, and Paul the wise, the heads of the disciples, of our Lord Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               بطرس الرسول وبولس ذو الحكمة رؤساء تلاميذ ربنا يسوع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Petroc nem Pauloc: aukwrf n~t~jom n~te p~catanac: ouoh autacyo n~nieynoc: e~qoun e~v~nah] n~}t~riac.
+            </Language>
+            <Language id="English">
+               Peter and Paul, trampled the power of Satan, and restored the nations, to the faith of the Trinity.
+            </Language>
+            <Language id="Arabic">
+               بطرس وبولس سحقا قوة الشيطان وردوا الأمم للأيمان بالثالوث.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Petroc nem Pauloc: de on niou/b m~p#n#a#tikon: ausorser n~nierv/oui~: nem p~semsi n~nii~dwlon.
+            </Language>
+            <Language id="English">
+               Peter and Paul, are the spiritual priests, they demolished the temples, and the worship of idols.
+            </Language>
+            <Language id="Arabic">
+               بطرس وبولس هما الكاهنان الروحيان هدما هياكل وعبادة الأوثان.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Petroc nem Pauloc: eucop niergat/c n~referhwb: autacyo n~nieynoc t/rou: e~pirefyamio n~kecop.
+            </Language>
+            <Language id="English">
+               Peter and Paul, together are the workers and craftsmen, they restored all the nations, once more to the Creator.
+            </Language>
+            <Language id="Arabic">
+               بطرس وبولس معا الفاعلين العاملين ردا جميع الأمم إلى الخالق دفعة أخرى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Petroc nem pencaq Pauloc: auswpi qen pic~tadion: n~te ]meta~poctoloc: qen ounis] n~agwn.
+            </Language>
+            <Language id="English">
+               Peter and our teacher Paul, with great struggle, were in the stadium, of the apostles.
+            </Language>
+            <Language id="Arabic">
+               بطرس ومعلمنا بولس كانا في ميدان الرسولية فى جهاد عظيم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Peniwt Petroc jwk e~bol: qen oumou n~te pic~tauroc: qen ]nis] m~polic Rwme: eybe v~ran n~I/#c# P,#c#.
+            </Language>
+            <Language id="English">
+               Our father Peter completed, his struggle with death on the cross, in the great city of Rome, for the name of Jesus Christ.
+            </Language>
+            <Language id="Arabic">
+               أبونا بطرس أكمل بموت الصليب في مدينة روما العظمى لأجل اسم ربنا يسوع المسيح.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Pauloc de on m~pair/]: auw~li n~tefa~ve m~mau: e~bolhiten p~ouro Niron: qen pie~hoou n~ouwt.
+            </Language>
+            <Language id="English">
+               Paul also likewise, was beheaded in that place, by Emperor Nero, all in one day.
+            </Language>
+            <Language id="Arabic">
+               وهكذا أيضا بولس نزعت رأسه هناك من قبل الملك نيرون في يوم واحد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Ausep w~ou ha p~ouro P,#c#: ouoh aum~ton m~mwou nemaf: qen tefmetouro n~e~neh: nem piwnq efm/n e~bol.
+            </Language>
+            <Language id="English">
+               They received glory form Christ, the King and they rested with Him, in His eternal kingdom, in the everlasting life.
+            </Language>
+            <Language id="Arabic">
+               ونالا المجد من الملك المسيح واستراحا معه في ملكوته الأبدي والحياة الدائمة.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Anon de hwn tentaio~ m~mwou: nem Dauid p~ouro pihumnodoc: je a~pouq~rwou senaf e~bol: hijen p~ho m~p~kahi t/rf.
+            </Language>
+            <Language id="English">
+               We also honor them, with David the psalmist, saying "Their voices went forth, onto the face of the whole world.
+            </Language>
+            <Language id="Arabic">
+               ونحن أيضا نكرمهم مع داود الملك المرتل أن أصواتهم خرجت إلى وجه الأرض كلها.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StPeterAndStPaul"/>
+      </Section>
+   </Season>
+</Document>

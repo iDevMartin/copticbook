@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StStephen:PraxisResponse">
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Stephen:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere c~tevanoc: Pisorp m~marturoc: &lt;ere piar,/dia~kwn eyouab: ouoh etc~marwout
+            </Language>
+            <Language id="English">
+               Hail to Stephen: The first Martyr: Hail to the holy and blessed: Archdeacon
+            </Language>
+            <Language id="Arabic">
+               السلام لإسطفانوس أول الشهداء ، السلام لرئيس الشمامسة القديس المبارك.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

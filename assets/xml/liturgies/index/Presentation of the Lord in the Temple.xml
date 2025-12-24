@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" IgnoreRoles="true" IgnoreCurrentSeason="true" ExpandSections="true">
+   <ForceSeason id="Feasts ^ FeastsOfTheLordPeriods ^ MinorFeastsOfTheLord ^ PresentationInTemple ^ WatosDays ^ AdamDays">
+      <Title>
+         <Language id="English">Feast of the Presentation of the Lord in the Temple</Language>
+         <Language id="Arabic">عيد دخول المسيح الهيكل</Language>
+      </Title>
+      
+      <Title>
+         <Language id="English">Offering of Incense</Language>
+         <Language id="Arabic">رفع بخور</Language>      
+      </Title>
+      
+      <ForceSeason id="RaisingOfIncense ^ Matins ^ Vespers">
+         <InsertDocument path="include/versesofthecymbals/Index"/>
+         <InsertDocument path="include/doxologies/Index"/>         
+         <InsertDocument path="include/psalmResponse/Index"/>         
+         <InsertDocument path="include/gospelResponse/Index"/>         
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Midnight Praises</Language>      
+         <Language id="Arabic">تسبحة نصف الليل</Language>
+      </Title>
+      
+      <ForceSeason id="MidnightPraises">
+         <InsertDocument path="include/psalies/OccasionPsalies"/>
+      </ForceSeason>
+      
+      <Title>
+         <Language id="English">Divine Liturgy</Language>
+         <Language id="Arabic">القداس</Language>
+      </Title>
+      
+      <ForceSeason id="Liturgy">
+         <InsertDocument path="readings/include/LiturgyPsalm"/>
+         <InsertDocument path="include/psalmResponse/Index"/>         
+         <InsertDocument path="include/PostLitanyOfTheGospel"/>
+         <InsertDocument path="include/gospelResponse/Index"/>      
+         <InsertDocument path="include/fractions/Index"/>   
+         
+         <Title>
+            <Language id="English">Distribution of the Holy Mysteries</Language>
+            <Language id="Arabic">توزيع الأسرار</Language>
+         </Title>
+         
+         <InsertDocument path="include/psalm150/Index"/>
+         <InsertDocument path="include/conclusion/Index"/>
+      </ForceSeason>
+         
+      <LinkDocument path="melodies/include/Presentation of the Lord in the Temple">
+         <Language id="English">Melodies</Language>
+         <Language id="Arabic">مدائح</Language>
+      </LinkDocument>
+   </ForceSeason>
+</Document>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="CopticNewYearPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Oup~neuma...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Coptic New Year:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Oup~neuma n~te P[oic pet,/ hijwi: eybe vai afyahct afouwrp m~moi: e~hisennoufi n~nih/ki: e~hiwis n~ourompi ecs/p m~P[oic
+            </Language>
+            <Language id="English">
+               A spirit of the Lord is upon me, for this He anointed me and sent me to give the good news to the poor: to preach an acceptable year to the Lord.
+            </Language>
+            <Language id="Arabic">
+               روح الرب على من أجل هذا مسحني وأرسلني لأبشر المساكين وأكرز بسنة مقبولة للرب.
+            </Language>         
+         </Text>               
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia All/louia All/louia C~mou e~pi,~lom n~te ]rompi hiten tekmet,~r/ctoc P[oic: cw] m~mon ouoh nai nan
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Bless the crown of the year with Your goodness, O Lord, and save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا بارك اكليل السنة بصلاحك يارب خلصنا وأرحمنا.
+            </Language>         
+         </Text>  
+                                  
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>
+      </Section>
+   </Season>
+</Document>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Role id="People">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">All the cities</Language>
+               <Language id="Coptic">Ni,wra t/rou...</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Ni,wra t/rou n~te Ieri,w: nem p~twou n~te nijwit nem Il#/#m#: a~mwini a~nau e~tainis] n~s~v/ri: y/e~tacswpi qen p~hop n~t~Kana n~te ]Galilea~
+               </Language>
+               <Language id="English">
+                  All the cities of Jericho, and the mount of Olives and Jerusalem: Come! See! this great wonder: which happened at the Wedding at Cana of Galilee.
+               </Language>
+               <Language id="Arabic">
+                  يا كل كور أريحا وجبل الزيتون  وأورشليم تعالوا انظروا هذه الأعجوبة العظيمة التي صارت في عرس قانا الجليل. 
+               </Language>         
+            </Text>
+         </Section>
+         
+         <Comment>
+            <Language id="English">
+               Then continued by the following Paralex:
+            </Language>
+         </Comment>
+         
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Paralex Hymn</Language>
+               <Language id="Coptic">Vai pe pihouit...</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Vai pe pihouit m~m/ini e~ta pencwt/r n~a~gayoc: aif m~pem~yo n~nefmay/t/c aunah] e~rof je Pi,~rictoc
+               </Language>
+               <Language id="English">
+                  This is the first miracle: which our good Savior performed: before His disciples: they believed in Him, that He is the Christ.
+               </Language>
+               <Language id="Arabic">
+                  هذه هي الآية الأولي التي صنعها مخلصنا الصالح أمام تلاميذه وآمنوا به أنه المسيح. 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  I/couc piremnazarey afc~mou e~nimwou afaitou n~/rp: m~pe h~li nau e~ous~v/ri eco~ni n~yai: icjen Adam sa e~qoun m~voou
+               </Language>
+               <Language id="English">
+                  Jesus the Nazarene: blessed the waters,  and made them wine. Nobody saw a wonder like this: from Adam until today.
+               </Language>
+               <Language id="Arabic">
+                  يسوع الناصري بارك المياه فصيرها خمرا ما نظر أحد أعجوبة مثل هذه منذ آدم إلي اليوم. 
+               </Language>         
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Coou n~hudria m~mwou ou/rp efcwtp akouw~teb m~mwou: e~bolqen peknis] n~wou: qen p~hop n~t~Kana n~te ]Galilea
+               </Language>
+               <Language id="English">
+                  Six jars of water: You turned into select wine: from Your great glory: in the wedding of Cana of Galilee.
+               </Language>
+               <Language id="Arabic">
+                  ستة أجران ماء نقلتها إلي خمر مختار من قبل مجدك العظيم في عرس قانا الجليل. 
+               </Language>         
+            </Text>
+      
+            <InsertDocument path="include/JesusChristIsTheSame"/>
+            
+            <Text>
+               <Language id="Coptic">
+                  Arip~recbeuin e~h~r/i e~jwn: w~ ten[oic n~n/b t/ren ]yeo~tokoc: Maria y~mau n~I/couc Pi,~rictoc: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  Intercede on our behalf, O Lady  of us all the Theotokos, Mary the Mother of Jesus Christ, that He may forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  أشفعي فينا يا سيدتَنا كلِنا، السيدة والدة الإله مريم أم مخلصنا، ليغفرَ لنا خطايانا. 
+               </Language>         
+            </Text>
+         </Section>
+      </Role>         
+   </Season>
+</Document>

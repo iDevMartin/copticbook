@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod | TheophanyLiturgyOfTheWaters">         
+      <Comment>
+         <Language id="English">
+            For the Feast of the Theophany:
+         </Language>            
+      </Comment>
+      
+      <InsertDocument path="include/versesofthecymbals/Theophany.1"/>
+   
+      <Text>
+         <Language id="Coptic">
+            Yel/l m~vr/] n~hanhi/b: w piIordan/c nem pefd~rumoc: je afi~ sarok n~je pihi/b: v/e~twli m~v~nobi m~pikocmoc.
+         </Language>
+         <Language id="English">
+            Rejoice as lambs, O Jordan and your wilderness, for unto you has come the lamb who takes away the sin of the world.
+         </Language>
+         <Language id="Arabic">
+            تهلل مثل الحملان أيها الاردن وبريته لأنه جاءك الحَمل الذى يرفع خطيئة العالم.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="Coptic">
+            Ouran n~sousou pe pekran: w~ picuggen/c n~Emmanou/l: n~yok ounis] qen n/eyouab t/rou: Iwann/c piref]wmc.
+         </Language>
+         <Language id="English">
+            A proud name is your name, O kinsman of Immanuel. You are great among all the saints, O John the Baptist.
+         </Language>
+         <Language id="Arabic">
+            إسم فخر هو إسمك يانسيب عمانوئيل أنت عظيم فى جميع القديسين يايوحنا المعمدان.
+         </Language>
+      </Text>
+   
+      <Text>
+         <Language id="Coptic">
+            &lt;ere Iwann/c: pinis] m~p~rodromoc: ,ere piou/b: p~cuggen/c n~Emmanou/l.
+         </Language>
+         <Language id="English">
+            Hail to John, the great forerunner. Hail to the priest, the kinsman of Immanuel. 
+         </Language>
+         <Language id="Arabic">
+            السلام ليوحنا السابق العظيم السلام للكاهن نسيب عمانوئيل.
+         </Language>
+      </Text>
+   </Season>
+</Document>

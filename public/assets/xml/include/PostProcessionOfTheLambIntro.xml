@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="CovenantThursday | JoyousSaturday">
+         <Comment>
+            <Language id="English">
+               The hymn <span class="Coptic">All/louia vai pe pi</span> is not chanted because this is the psalm of the resurrection; the first time it is chanted is during the Feast of the Resurrection.
+            </Language>
+         </Comment>
+      </Season>
+      
+      <Season id="!Feasts ^ Weekdays ^ (JonahFast | GreatFast) ^ !(FirstMondayOfGreatFast | LastFridayOfGreatFast)">
+         <Section expanded="true">
+            <Title>
+               <Language id="Coptic">All/louia eie~i~</Language>
+            </Title>
+            
+            <Role id="People">
+               <Comment>
+                  <Language id="English">
+                     On the days of Jonah’s Fast and the days of the Great Fast, not including Saturdays and Sundays, the people chant the following from Psalms 42 and 131.
+                  </Language>
+                  <Language id="Arabic">
+                     وفي أيام صوم نينوى وأيام الصوم الكبير، دون سبوته وآحاده يقال ما يلي: (مز 42: 4، مز 131: 1)
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     All/louia: eie~i~ e~qoun sa piman~erswousi n~te Vnou]: nahren p~ho m~Vnou] v/e~taf] m~p~ounof n~te tameta~lou: ]naouwnh nak e~bol V] panou] qen oukuyara: a~riv~meui~ e~P[oic n~Dauid nem tefmetremraus t/rc: All/louia.
+                  </Language>
+                  <Language id="English">
+                     Alleluia. I shall go in, unto the altar of God, before the face of God, who gives gladness to my youth. I will confess to You, O God, my God, with a harp. Remember O Lord, David and all his meekness. Alleluia.
+                  </Language>
+                  <Language id="Arabic">
+                     هلليلويا. ادخل إلى مذبح الله تجاه وجه الله الذي يفرح شبابي، اعترف لكَ يا الله إلهي بقيثارة أذكر ياربُ داود وكل دعته. هلليلويا.
+                  </Language>
+               </Text>         
+            </Role>
+         </Section>
+      </Season>   
+      
+      <Season id="!Feasts ^ ((Weekdays ^ Fasts) | (GreatFast ^ Weekend) | FirstMondayOfGreatFast | LastFridayOfGreatFast)">
+         <Section expanded="true">
+            <Title>
+               <Language id="Coptic">All/louia je v~meui~</Language>
+            </Title>
+            
+            <Role id="People">
+               <Comment>
+                  <Language id="English">
+                     On days of fasting (except the weekdays of the Great Fast and Jonah’s Fast) and on Saturdays and Sundays during the Great Fast, the people chant the following.
+                  </Language>
+                  <Language id="Arabic">
+                     وفي أيام الأصوام (ما عدا أيام الصوم الكبير وصوم نينوى) وفي سبوت وأحاد الصوم الكبير يقال ما يلي: 
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     All/louia: je v~meui~ n~ourwmi efe~ouwnh nak e~bol P[oic: ouoh p~cwjp n~te oumeui~ efe~ersai nak. niyucia nip~rocvora sopou e~rok: All/louia.
+                  </Language>
+                  <Language id="English">
+                     Alleluia. The thought of man shall confess to You, O Lord, and the rest of man shall keep a feast to You. The sacrifices and the offerings, receive them to Yourself. Alleluia.
+                  </Language>
+                  <Language id="Arabic">
+                     هلليلويا. إن فِكْرَ الإنسانِ يعترفُ لكَ ياربُ. وبقية الفكرِ تُعيّدُ لكَ. الذبائح والقرابين اقبلها إليك. هلليلويا.
+                  </Language>
+               </Text>
+            </Role>
+         </Section>         
+      </Season>
+      
+      <Season id="Other">
+         <Section expanded="true">
+            <Title>
+               <Language id="Coptic">All/louia vai pe pi</Language>
+            </Title>
+            
+            <Role id="People">
+               <Comment>
+                  <Language id="English">
+                     On Saturdays and Sundays (except during the Great Fast), on feasts of our Lord, on Eastertide, and on all days of non-fasting, the people chant from Psalm 117:24-26.
+                  </Language>
+                  <Language id="Arabic">
+                     يقول الشعب في أيام السبوت والآحاد (ما عدا في سبوت وأحاد الصوم المقدس)، وفي الأعياد السيدية والخمسين وكل أيام الإفطار (مز 24:117 –26).
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     All/louia: vai pe pie~hoou e~ta P[oic yamiof: marenyel/l  n~tenounof m~mon n~q/tf: w~ P[oic eke~nahmen w~ P[oic eke~couten nenmwit: f~c~marwout n~je v/eyn/ou qen v~ran m~P[oic: All/louia.
+                  </Language>
+                  <Language id="English">
+                     Alleluia. This is the day which the Lord has made, let us rejoice and be glad in it. O Lord save us, O Lord straighten our ways. Blessed is He who comes in the name of the Lord. Alleluia.
+                  </Language>
+                  <Language id="Arabic">
+                     هلليلويا. هذا هو اليومُ الذي صنعَه الرب. فلنفرح ونبتهج فيه. ياربُ خلصنا. ياربُ سهل سبلنا. مبارك الآتي بإسمِ الربِ. هلليلويا.
+                  </Language>
+               </Text>         
+            </Role>
+         </Section>
+      </Season>      
+   </Group>
+</Document>

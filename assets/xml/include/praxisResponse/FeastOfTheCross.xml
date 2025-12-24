@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="FeastOfTheCross">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">&lt;ere pic~tauroc...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Cross:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere pic~tauroc: v/etaues Pa[oic erof: sa n~tefcw] m~mon: ebolqen nennobi.
+            </Language>
+            <Language id="English">
+               Hail to the Cross / upon which my Lord was crucified  upon / to save us  / from our sins.
+            </Language>
+            <Language id="Arabic">
+               السلام للصليب الذي صلب ربي عليه حتى خلصنا من خطايانا.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

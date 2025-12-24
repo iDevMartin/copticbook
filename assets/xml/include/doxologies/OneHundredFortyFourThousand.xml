@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="OneHundredFortyFourThousand:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for the One Hundred and Forty Four Thousand Children</Language>
+            <Language id="Arabic">ذوكصولوجية الأطفال المائة ولأربعة ولأربعين الفا</Language>
+            <Language id="Coptic">Ainau e~ouaggeloc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of the One Hundred and Forty Four Thousand Children:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ainau e~ouaggeloc n~ouwini: e~tafi~ e~pec/t e~bol qen t~ve: e~re oucvragic n~noub: qen tefjij n~oui~nam.
+            </Language>
+            <Language id="English">
+               I saw an angel of light, come down from heaven, and in his right hand, was a golden seal.
+            </Language>
+            <Language id="Arabic">
+               رأيت ملاكا نورانيا قد نزل من السماء وختم ذهبى في يده اليمنى.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Efws e~bol efjw m~moc: je a~nau m~pertako m~pikahi: san~toutob n~nie~biaik: n~te V] hi toutehni.
+            </Language>
+            <Language id="English">
+               Proclaiming and saying, "Look do not harm the earth, until the servants of God, are sealed on their foreheads."
+            </Language>
+            <Language id="Arabic">
+               صارخا قائلا انظروا ألا تهلكوا الأرض حتى يختم عبيد الله على جباههم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Aicwtem e~t~/~pi n~n/e~tautobou: qen nens/ri m~Pic~ra/l: icjen Roub/n sa Benia~min: m/t c~nau n~so kata vul/.
+            </Language>
+            <Language id="English">
+               And I heard the number of those who were sealed, from the children of Israel, from Reuben to Benjamin, twelve thousand from each tribe.
+            </Language>
+            <Language id="Arabic">
+               وسمعت عدد الذين ختموا من بنى إسرائيل من راؤبين إلى بنيامين اثني عشر ألفا من كل سبط.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/OneHundredFortyFourThousand"/>
+      </Section>
+   </Season>
+</Document>

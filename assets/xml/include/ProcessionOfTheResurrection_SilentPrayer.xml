@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section silent="true">
+      <Role id="Priest">
+         <Title>
+            <Language id="English">Prayer Before the Icon</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               After the procession a deacon holds the icon at the door of the sanctuary facing west and the priest censes it three times saying:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We worship You, O Christ our God, and Your Life-Giving Resurrection, for You have risen and saved us from our sins.
+            </Language>
+            <Language id="Arabic">
+               نسجد لك أيها المسيح إلهنا ولقيامتك المعطية الحياة لأنك قمت وخلصتنا من خطايانا
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               O my Lord Jesus Christ, O You who rose from the dead, crush Satan down under our feet speedily.
+            </Language>
+            <Language id="Arabic">
+               يا إلهى يسوع المسيح يا من قمت من الأموات إسحق الشيطان تحت أقدامنا سريعاً
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="English">
+               Hail to the Resurrection of Christ, who rose from the dead and saved us from our sins.
+            </Language>
+            <Language id="Arabic">
+               السلام لقيامة المسيح يا من قمت من الأموات وخلصتنا من خطايانا.
+            </Language>         
+         </Text>
+      </Role>
+   </Section>
+</Document>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Section expanded="true" antiphonePitch="1">
+      <Title>
+         <Language id="English">The Sunday Theotokia (10)</Language>
+         <Language id="Arabic">ثاوطوكية يوم الأحد (10)</Language>
+         <Language id="Coptic">Teoi n~hikanoc...</Language>
+      </Title>
+   
+      <InsertDocument path="include/praises/theotokia/Sunday10Contents"/>
+   </Section>   
+</Document>

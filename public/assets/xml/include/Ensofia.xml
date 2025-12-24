@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="Deacon">      
+      <Text>
+         <Language id="Coptic">
+            En covia Yeou p~roc,wmen: Kurie e~le/~con: Kurie e~le/~con: qen oumeym/i...
+         </Language>
+         <Language id="English">
+            In the wisdom of God, let us attend. Lord have mercy. Lord have mercy. Truly…
+         </Language>
+         <Language id="Arabic">
+            أنصتوا بحكمة الله، يارب ارحم، يارب ارحم. بالحقيقة...
+         </Language>         
+      </Text>
+   </Role>
+</Document>

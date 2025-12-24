@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/doxologies/JoyousSaturday"/>
+   <InsertDocument path="include/doxologies/CopticNewYear"/>
+   <InsertDocument path="include/doxologies/FeastOfTheCross"/>
+   <InsertDocument path="include/doxologies/Annunciation"/>
+   <InsertDocument path="include/doxologies/NativityParamoun"/>
+   <InsertDocument path="include/doxologies/Nativity"/>
+   <InsertDocument path="include/doxologies/Circumcision"/>
+   <InsertDocument path="include/doxologies/TheophanyParamoun"/>
+   <InsertDocument path="include/doxologies/Theophany"/>
+   <InsertDocument path="include/doxologies/WeddingCana"/>
+   <InsertDocument path="include/doxologies/PresentationInTemple"/>   
+   <InsertDocument path="include/doxologies/JonahFast"/>      
+   <InsertDocument path="include/doxologies/GreatFastWeekend"/>
+   <InsertDocument path="include/doxologies/GreatFastWeekdays"/>
+   <InsertDocument path="include/doxologies/GreatFastExtra"/>
+   <InsertDocument path="include/doxologies/HosannaSunday"/>   
+   <InsertDocument path="include/doxologies/Resurrection"/>
+   <InsertDocument path="include/doxologies/ThomasSunday"/>
+   <InsertDocument path="include/doxologies/Ascension"/>
+   <InsertDocument path="include/doxologies/Pentecost"/>
+   <InsertDocument path="include/doxologies/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/doxologies/Transfiguration"/>
+</Document>

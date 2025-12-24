@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/LordHaveMercy3"/>
+      
+   <Role id="People">
+      <Comment> 
+         <Language id="English">
+            Or they say:
+         </Language>
+         <Language id="Arabic">
+            أو يقولون:
+         </Language>
+      </Comment>
+      
+      <Text> 
+         <Language id="English">
+            O Lord hear us. O Lord have mercy upon us. O Lord bless us.
+         </Language>
+         <Language id="Arabic">
+            ياربُ إسمعنا. ياربُ إرحَمنا. ياربُ باركنا.
+         </Language>
+      </Text>
+   </Role>
+</Document>

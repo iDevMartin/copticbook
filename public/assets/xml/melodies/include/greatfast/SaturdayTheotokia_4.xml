@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="VesperPraises ^ GreatFast">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Melody for the Saturday Theotokia By Bishop Youannis (Fourth Passage)
+            </Language>
+            <Language id="Arabic">
+               مديح على قطع ثيؤطوكية السبت (القطعـة الرابعـة)
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               The Lord of the highest armies / 
+               Was humble and took the image of man / 
+               He spoke with the Samaritan woman / 
+               Saying, “I am thirsty, give Me a drink”
+            </Language>
+            <Language id="Arabic">
+               رب الجيوش العلوية / 
+               إتضع ولبس صورة إنسان / 
+               وتكلم مع إمرأة سامرية / 
+               قال لها إسقينى فإنى عطشان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               The ignorant replied to him, / 
+               “You have no water pot, O Man” / 
+               Come and behold the Creator / 
+               How He thirsts while He is the Judge
+            </Language>
+            <Language id="Arabic">
+               قالت له فارغة الهدرية / 
+               وليس لك دلوا يا إنسان / 
+               تعالوا أنظروا خالق كل برية / 
+               كيف يعطش وهو الديان
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               A great profit, comfort, and grace / 
+               For him who performs charity / 
+               Truly becomes a son of Abraham / 
+               According to his faith and intentions
+            </Language>
+            <Language id="Arabic">
+               ربح جزيل وعزاء ونعيم / 
+               مهيأ لمن يعمل صدقات / 
+               حقاً يصير إبن إبراهيم / 
+               بحسب الإيمان والنيات
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               He will inherit the Paradise of Joy / 
+               And be filled with all good things / 
+               This is the reward to him who helps the sick / 
+               And covers the naked in secret
+            </Language>
+            <Language id="Arabic">
+               ويصير وارث فردوس النعيم / 
+               ويشبع من كل الخيرات / 
+               هذا جزاء من يأوى سقيم / 
+               ويكسـى العرايـا فـى خفيـات
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="English">
+               Love is a strong tower / 
+               It completes all virtues / 
+               All those who seek it / 
+               Its light shines in them
+            </Language>
+            <Language id="Arabic">
+               المحبة هى برج حصين / 
+               وكل الفضائل تُنَميهم / 
+               وسراج مضئ لكل الطالبين / 
+               وهو نور يشرق فيهم
+            </Language>
+         </Text>
+         
+         <InsertDocument path="melodies/include/greatfast/Refrain"/>
+      </Section>
+   </Season>
+</Document>

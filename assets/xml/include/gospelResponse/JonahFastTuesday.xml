@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="JonahFast ^ Matins ^ Tuesdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Moi n/i P[oic...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Tuesday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Moi n/i P[oic n~oumetanoia: ep~jintaermetanion: m~pate v~mou mas~yam n~rwi: qen nipul/ n~te a~men].
+            </Language>
+            <Language id="English">
+               Teach me  repentance Lord, so that I repent, before death shuts my mouth, inside the gates of Hades.
+            </Language>
+            <Language id="Arabic">
+               اعطني يارب توبة لكي أتوب قبل أن يغلق الموت فمي في أبواب الجحيم.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+   
+   <Season id="JonahFast ^ Liturgy ^ Tuesdays">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Alla bwl e~bol...</Language>            
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               On Tuesday for the Fast of Jonah (in the “sorrowful” tune):
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Alla bwl e~bol ,w n/i e~bol: n~naparap~twma etos: hwc a~gayoc ouoh m~mairwmi: nai nan kata peknis] n~nai.
+            </Language>
+            <Language id="English">
+               But loose and forgive me: my many trespasses. As a Good (One) and Lover of Mankind: have mercy on us according to Your great mercy.
+            </Language>
+            <Language id="Arabic">
+               لكن حل واغفر لي زلاتي الكثيرة كصالح ومحب البشر ارحمنا كعظيم رحمتك.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/Jefcmarwout"/>
+      </Section>
+   </Season>
+</Document>

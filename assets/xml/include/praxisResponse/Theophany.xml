@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="TheophanyPeriod">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Praxis Response</Language>
+            <Language id="Arabic">مرد الابركسيس</Language>
+            <Language id="Coptic">Je vai pe...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Theophany:
+            </Language>
+         </Comment>
+   
+         <Text>
+            <Language id="Coptic">
+               Je vai pe Pas/ri Pamenrit e~ta Ta'u,/ ]ma] n~q/tf aferpaouws cwtem n~cwf je N~ywf pe Pireftanqo.
+            </Language>
+            <Language id="English">
+               “This is My beloved Son, in Whom My soul is pleased. He did My will. Obey  Him for He is the Giver of Life.”
+            </Language>
+            <Language id="Arabic">
+               هذا هو ابني الحبيب الذي به سرت نفسي وصنع مشيئتي اسمعوا له لأنه هو المحيي.
+            </Language>         
+         </Text>
+         
+         <InsertDocument path="include/praxisResponse/saints/StJohnTheBaptistContents"/>
+         <InsertDocument path="include/KcmarwoutSeasonalResponse"/>
+      </Section>
+   </Season>
+</Document>

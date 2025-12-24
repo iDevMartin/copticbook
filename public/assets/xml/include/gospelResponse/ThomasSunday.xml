@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="(Liturgy | Crowning | FuneralPrayer) ^ ThomasSunday">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Ywmac pacwtp...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               From Thomas Sunday:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Ywmac pacwtp amousaron : teknau eroi tekcwoun m~moi : je anok pe I/couc Pi,~rictouc : aitwnt ebolqen n/eymwout.
+            </Language>
+            <Language id="English">
+               Thomas My chosen come unto Me: to see Me, to know Me: For I am Jesus Christ: I rose from the dead.
+            </Language>
+            <Language id="Arabic">
+               تعال الي يا توما المختار: لكي تنظرني وتعرفني. انني يسوع المسيح قد قمت من الأموات.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/ResurrectionConclusion"/>               
+         <InsertDocument path="include/gospelResponse/Conclusion"/>            
+      </Section>      
+   </Season>
+</Document>

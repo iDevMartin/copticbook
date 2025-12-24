@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/praxisResponse/CovenantThursdayMatins"/>
+   <InsertDocument path="include/praxisResponse/Nativity"/>
+   <InsertDocument path="include/praxisResponse/TheophanyParamoun"/>
+   <InsertDocument path="include/praxisResponse/Theophany"/>
+   <InsertDocument path="include/praxisResponse/HosannaSunday"/>
+   <InsertDocument path="include/praxisResponse/JoyousSaturday"/>
+   <InsertDocument path="include/praxisResponse/Annunciation"/>
+   <InsertDocument path="include/praxisResponse/Pentecost"/>
+   <InsertDocument path="include/praxisResponse/PentecostPeriod"/>
+   <InsertDocument path="include/praxisResponse/EntranceOfTheHolyFamily"/>
+   <InsertDocument path="include/praxisResponse/WeddingCana"/>
+   <InsertDocument path="include/praxisResponse/Circumcision"/>
+   <InsertDocument path="include/praxisResponse/Transfiguration"/>
+   <InsertDocument path="include/praxisResponse/ApostlesFeast"/>
+   <InsertDocument path="include/praxisResponse/CopticNewYear"/>
+   <InsertDocument path="include/praxisResponse/FeastOfTheCross"/>
+   <InsertDocument path="include/praxisResponse/NativityParamoun"/>
+   <InsertDocument path="include/praxisResponse/Joyful29thOfTheMonth"/>
+   <InsertDocument path="include/praxisResponse/GreatFastWeekend"/>
+   <InsertDocument path="include/praxisResponse/JonahAndGreatFastWeekdays"/>
+   <InsertDocument path="include/praxisResponse/LazarusSaturday"/>
+</Document>

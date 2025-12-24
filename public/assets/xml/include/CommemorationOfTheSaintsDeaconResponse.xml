@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>         
+      <Season id="!Feasts ^ !Sundays">
+         <Role id="Deacon">
+            <Text>
+               <Language id="Coptic">
+                  Twbh e~jen nenio] nem nenc~n/ou e~taue~nkot aum~ton m~mwou qen v~nah] m~Pi,~rictoc icjen p~e~neh: 
+               </Language>
+               <Language id="English">
+                  Pray for our fathers and brethren who have fallen asleep and reposed in the faith of Christ since the beginning: 
+               </Language>
+               <Language id="Arabic">
+                  اطلبوا عن آبائنا وإخوتِنا الذينَ رقدوا، وتنيحوا في الإيمانِ بالمسيحِ منذُ البدءِ.
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  nenio] eyouab n~ar,ie~pickopoc ke nenio] n~e~pickopoc: nenio] n~h/goumenoc ke nenio] m~p~recbuteroc nem nenc~n/ou n~diakwn: nenio] m~mona,oc: ke nenio] n~laikoc: nem e~h~r/i e~jen ]a~napaucic t/rc n~te ni,~rictianoc:
+               </Language>
+               <Language id="English">
+                  our holy fathers the archbishops, our fathers the bishops, our fathers the hegumens, our fathers the priests, our brethren the deacons, our fathers the monks, and our fathers the laymen, and for the full repose of Christians
+               </Language>
+               <Language id="Arabic">
+                  آبائنا القديسين رؤساءِ الأساقفةِ، وآبائنا الأساقفةِ، وآبائنا القمامصةِ، وآبائنا القسوسِ وإخوتِنا الشمامسةِ، وآبائنا الرهبانِ، وآبائنا العلمانيينَ، وعن نياحِ كلِّ المسيحيين،
+               </Language>
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hina n~te Pi,~rictoc Pennou] ]m~ton n~nou'u,/ t/rou qen piparadicoc n~te p~ounof: a~non de hwn n~teferpinai neman: n~tef,a nennobi nan e~bol.
+               </Language>
+               <Language id="English">
+                  that Christ our God may repose all their souls in the paradise of joy, and we too, accord mercy unto us and forgive us our sins.
+               </Language>
+               <Language id="Arabic">
+                  لكي المسيحُ إلهنا ينيحَ نفوسَهم أجمعين في فردوسِ النعيمِ، ونحنُ أيضاً يصنعَ معنا رحمةً، ويغفرَ لنا خطايانا.
+               </Language>
+            </Text>
+         </Role>
+   
+         <InsertDocument path="include/LordHaveMercy"/>
+      </Season>
+   </Group>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Role id="People">
+      <Text>
+         <Language id="Coptic">
+            E~bol qen t~vul/ n~Leui m/t c~nau n~so.
+         </Language>
+         <Language id="English">
+            From the tribe of Levi twelve thousand.
+         </Language>
+         <Language id="Arabic">
+            من سبط لاوي   اثنا عشر الفاً 
+         </Language>
+      </Text>
+   </Role>
+</Document>

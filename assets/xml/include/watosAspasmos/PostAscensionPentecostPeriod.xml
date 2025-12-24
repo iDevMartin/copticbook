@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="PostAscensionPentecostPeriod">
+      <Section>
+         <Title>
+            <Language id="English">Watos Aspasmos</Language>
+            <Language id="Arabic">الاسبسمس الواطس</Language>
+            <Language id="Coptic">Afsenaf e~p~swi...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               From the Feast of the Ascension of our Lord to the 49th day of the Pentecost Period:
+            </Language>
+         </Comment>
+               
+         <Text>
+            <Language id="Coptic">
+               Afsenaf e~p~swi e~niv/oui au[nejwou naf n~je hanaggeloc nem hanjom nem hanexoucia kata p~caji m~pia~poctoloc
+            </Language>
+            <Language id="English">
+               He ascended to the Heavens. Angels, and Powers and the authorities submitted to Him according to the word of the Apostle.
+            </Language>
+            <Language id="Arabic">
+               صعد إلي السموات وخضعت له الملائكة والقوات والسلاطين حسب قول الرسول  
+            </Language>         
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               All/louia: All/louia: All/louia. Pi,~rictoc aftwnf ebolqen n/eymwout: ouoh afsenaf e~p~swi e~niv/oui: Cw] m~mon ouoh nai nan.
+            </Language>
+            <Language id="English">
+               Alleluia, Alleluia, Alleluia. Christ is risen from the dead and  has ascended into the heavens. Save us and have mercy upon us.
+            </Language>
+            <Language id="Arabic">
+               الليلويا الليلويا الليلويا: المسيح قام من الأموات وصعد إلي السموات وجلس عن يمين أبيه: خلصنا وارحمنا  
+            </Language>         
+         </Text>                
+         
+         <Group>
+            <Season id="EntranceOfTheHolyFamily">
+               <InsertDocument path="include/watosAspasmos/EntranceOfTheHolyFamilyContents"/>
+            </Season>
+         </Group>
+         
+         <InsertDocument path="include/watosAspasmos/Conclusion"/>      
+      </Section>
+   </Season>   
+</Document>

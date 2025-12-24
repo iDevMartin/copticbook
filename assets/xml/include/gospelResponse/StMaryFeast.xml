@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMary ^ Liturgy">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Ten[ici m~mo...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">         
+               For the Commemoration of St. Mary:
+            </Language>
+         </Comment>
+
+         <InsertDocument path="include/TenichiciEmo"/>                              
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>
+   </Season>
+   
+   <Season id="StMary ^ Matins">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">Niourwou...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mary during the Raising of Morning Incense:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Niourwou t/rou n~te p~kahi: cemosi qen peouwini: ouoh nieynoc qen peviri: w~ Maria y~mau m~V~]
+            </Language>
+            <Language id="English">
+               All the kings of the earth / walk in your light / and all nations in your illumination / O Mary, Mother of God. 
+            </Language>
+            <Language id="Arabic">
+               كل ملوك الأرض يسيرون في نورك والأمم في ضيائك يا مريم أم الله.
+            </Language>
+         </Text>
+            
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>         
+   </Season>
+   
+   <Season id="StMary ^ Vespers">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Gospel Response</Language>
+            <Language id="Arabic">مرد الإنجيل</Language>
+            <Language id="Coptic">A oum/s...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Mary during the Raising of Evening Incense:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               A oum/s n~c~himi [itaio: a~re[ici n~yo e~hoterwou t/rou: je n~yo pe p~sousou n~niparyenoc: ]yeo~tokoc Maria.
+            </Language>
+            <Language id="English">
+               Many women received  honor, you are exalted more than all of them, for you are the pride of the virgins, Mother of God Mary. 
+            </Language>
+            <Language id="Arabic">
+               نساء كثيرات نلن كرامات تعاليت أنت اكثر من جميعهن لأنك انت فخر العذارى يا مريم والدة الإله.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/gospelResponse/Conclusion"/>
+      </Section>         
+   </Season>
+</Document>

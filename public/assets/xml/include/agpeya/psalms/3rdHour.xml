@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <InsertDocument path="include/agpeya/psalms/19"/>
+   <InsertDocument path="include/agpeya/psalms/22"/>
+   <InsertDocument path="include/agpeya/psalms/23"/>
+   <InsertDocument path="include/agpeya/psalms/25"/>
+   <InsertDocument path="include/agpeya/psalms/28"/>
+   <InsertDocument path="include/agpeya/psalms/29"/>
+   <InsertDocument path="include/agpeya/psalms/33"/>
+   <InsertDocument path="include/agpeya/psalms/40"/>
+   <InsertDocument path="include/agpeya/psalms/42"/>
+   <InsertDocument path="include/agpeya/psalms/44"/>
+   <InsertDocument path="include/agpeya/psalms/45"/>
+   <InsertDocument path="include/agpeya/psalms/46"/>
+</Document>

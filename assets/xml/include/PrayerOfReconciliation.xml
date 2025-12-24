@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="StBasilLiturgy">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Prayer of Reconciliation</Language>
+               <Language id="Arabic">صلاة الصلح</Language>
+            </Title>
+            
+            <Role id="Priest">      
+               <Text>
+                  <Language id="Coptic">
+                     Vnou] pinis] pisae~neh: v/e~tafkwt m~pirwmi e~h~r/i e~jen ]metattako.
+                  </Language>
+                  <Language id="English">
+                     O God, the Great, the Eternal, who formed man in incorruption;
+                  </Language>
+                  <Language id="Arabic">
+                     يا اللهُ العظيمُ الأبدي، الذي جَبَلَ الإنسانَ على غيرِ فسادٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh v~mou e~tafi~ e~qoun e~pikocmoc: hiten piv~yonoc n~te pidiaboloc: akserswrf hiten piouwnh e~bol n~reftanqo: n~te pekmonogen/c n~S/ri: Pen[oic ouoh Pennou] ouoh pencwt/r I/couc Pi,rictoc.
+                  </Language>
+                  <Language id="English">
+                     and death, which entered into the world through the envy of the devil, You have destroyed by the life-giving manifestation of Your only-begotten Son, our Lord, God, and Savior Jesus Christ.
+                  </Language>
+                  <Language id="Arabic">
+                     والموتُ الذي دخلَ إلى العالمِ بحسَدِ إبليسَ هَدَمْتَهُ، بالظهورِ المحيِي الذي لابنِكَ الوحيدِ ربِّنا وإلهِنا ومخلِّصنا يسوعَ المسيحِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh akmoh m~pikahi e~bolqen ]hir/n/ ]e~bol qen niv/oui~.
+                  </Language>
+                  <Language id="English">
+                     You have filled the earth with the heavenly peace
+                  </Language>
+                  <Language id="Arabic">
+                     وملأتَ الأرضَ من السلامِ الذي من السمواتِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Yai ete~re ]c~tratia n~te niaggeloc ]w~ou nak n~q/tc eujw m~moc.
+                  </Language>
+                  <Language id="English">
+                     by which the host of angels glorify You, saying,
+                  </Language>
+                  <Language id="Arabic">
+                     هذا الذي أجنادُ الملائكةِ يمجدونَكَ به قائلين:
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je ouw~ou m~Vnou] qen n/et[oci: nem ouhir/n/ hijen pikahi: nem ou]ma] qen nirwmi.
+                  </Language>
+                  <Language id="English">
+                     “Glory to God in the highest, peace on earth, and good will toward men.”
+                  </Language>
+                  <Language id="Arabic">
+                     ”المجدُ للهِ في الأعالي، وعلى الأرضِ السلامُ، وفي الناسِ المسرةُ.“
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/PrayerOfReconciliationResponse"/>
+            
+            <Role id="Priest">      
+               <Text>
+                  <Language id="Coptic">
+                     Qen pek]ma] Vnou] moh n~nenh/t qen tekhir/n/.
+                  </Language>
+                  <Language id="English">
+                     According to Your good will, O God, fill our hearts with Your peace.
+                  </Language>
+                  <Language id="Arabic">
+                     بمسرَّتِكَ يا الله، املأ قلوبَنا من سلامِكَ
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh matoubon e~bol ha ywleb niben: nem ,~rof niben: nem metsobi niben: nem panourgia niben: nem ]metreferv~meui~ n~te ]kakia etervorin m~v~mou.
+                  </Language>
+                  <Language id="English">
+                     Cleanse us from all blemish, all guile, all hypocrisy, all craftiness, and the remembrance of vice bearing death.
+                  </Language>
+                  <Language id="Arabic">
+                     وطهِّرْنا من كلِّ دنسٍ، ومن كلِّ غشٍّ، ومن كلِّ رياءٍ، ومن كلِّ فعلٍ خبيثٍ، ومن تذكارِ الشرِّ اللابِس الموت.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh a~riten n~emp~sa t/ren penn/b: eyren eracpazecye n~nene~r/ou qen ouvi ecouab.
+                  </Language>
+                  <Language id="English">
+                     And make us all worthy, O our Master, to greet one another with a holy kiss,
+                  </Language>
+                  <Language id="Arabic">
+                     واجعلنا مستحقين كُلَّنا يا سيدَنا، أن نُقَبِّلَ بعضُنا بعضاً بقبلةٍ مقدسةٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ep~jinten[i qen oumetathitten e~p~hap: e~bolqen tekdwrea~ n~aymou ouoh n~epouranion: qen Pi,rictoc I/couc Pen[oic.
+                  </Language>
+                  <Language id="English">
+                     that, without casting us into condemnation, we may partake of Your immortal and heavenly gift in Christ Jesus our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     لكي ننالَ بغيِر طَرْحِنا في دينونةٍ، من موهِبَتِكَ غيرِ المائتةِ السمائيةِ، بالمسيحِ يسوعَ ربِّنا.
+                  </Language>         
+               </Text>
+            </Role>
+         </Section>
+         
+         <Section>
+            <Title>
+               <Language id="English">Another Prayer of Reconciliation to the Father</Language>
+               <Language id="Arabic">صلاة صلح أخرى للآب</Language>
+            </Title>
+            
+            <Role id="Priest">
+               <Comment>
+                  <Language id="English">                             
+                     The following prayer is by the thrice-blessed John.
+                  </Language>      
+                  <Language id="Arabic">                             
+                     ليوحنا المثلث الطوبى.
+                  </Language>
+               </Comment>
+               
+               <Text>
+                  <Language id="Coptic">
+                     C[oci cap~swi n~jom niben n~te oucaji nem jinmokmek niben n~te ounouc: n~je y~metramao~ n~te nekdwrea w~ penn/b.
+                  </Language>
+                  <Language id="English">
+                     Exalted above all power of speech and all thoughts of the mind is the richness of Your gifts, O our Master.
+                  </Language>
+                  <Language id="Arabic">
+                     عالٍ فوقَ كلِّ قوةِ النطقِ، وكلِّ فكرِ العقلِ، غِنى مواهِبِكَ ياسيدَنا.
+                  </Language>         
+               </Text>     
+               
+               <Text>
+                  <Language id="Coptic">
+                     N/ gar e~takhopou e~bolha hancabeu nem hankath/t: nai ak[orpou nan e~bol a~non qa nikouji n~a~lwoui~.
+                  </Language>
+                  <Language id="English">
+                     For that which You have hidden from the wise and knowledgeable, You have revealed to us little children.
+                  </Language>
+                  <Language id="Arabic">
+                     لأن ما أخفيتَه عن الحكماءِ والفُهماءِ، هذا أعلنتَهُ لنا، نحنُ الأطفالَ الصغارَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh n/eta~ hanp~rov/t/c: nem hanourwou ere~piyumin e~nau e~rwou ouoh m~pounau.
+                  </Language>
+                  <Language id="English">
+                     And those things which prophets and kings have desired to see and have not,
+                  </Language>
+                  <Language id="Arabic">
+                     وما اشتهى الأنبياءُ والملوكُ أن يَرَوْهُ ولم يَرَوْا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nai aker,arizecye m~mwou nan a~non qa nirefernobi: hina n~tensemsi m~mwou ouoh n~tentoubo e~bolhitotou.
+                  </Language>
+                  <Language id="English">
+                     You have granted them to us, who are sinners, that we may serve them and be purified thereby,
+                  </Language>
+                  <Language id="Arabic">
+                     هذا أنعمتَ به لنا نحنُ الخطاةَ، لكي نخدِمَه ونتطهرَ من قِبَلِه.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Qen p~jiny~rektaho nan e~ratc n~]oikonomia n~te pekmonogen/c n~S/ri: nem ]muctagwgia~ n~te taiyucia.
+                  </Language>
+                  <Language id="English">
+                     when You established for us the economy of Your only-begotten Son and the mystagogy of this sacrifice,
+                  </Language>
+                  <Language id="Arabic">
+                     عندما أقمتَ لنا تدبيرَ ابنِكَ الوحيد، والسرَّ الخفيَّ الذي لهذه الذبيحةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Yai e~te m~mon c~nof m~pinomoc m~peckw]: oude oumeym/i n~te ]carx.
+                  </Language>
+                  <Language id="English">
+                     which has neither the blood of the Law nor the righteousness of the flesh round about It.
+                  </Language>
+                  <Language id="Arabic">
+                     هذه التي ليس دمُ الناموسِ حولَها، ولا برُّ الجسدِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla pie~cwou men oup~neumatikon pe: ]c/ifi de oulogik/ te ouoh n~atcwma: taiyucia oun yai e~teni~ri m~moc nak e~qoun.
+                  </Language>
+                  <Language id="English">
+                     Rather, the sheep is spiritual, and the knife is verbal and intangible. This, then, is the sacrifice that we offer unto You.
+                  </Language>
+                  <Language id="Arabic">
+                     أما الخروفُ فروحيٌ، والسكينُ فنُطقيةٌ غيرُ جسميةٍ، هذه إذن هي الذبيحة التي نقدمُها لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ten]ho ouoh tentwbh n~tekmeta~gayoc pimairwmi.
+                  </Language>
+                  <Language id="English">
+                     We ask and entreat Your goodness, O Lover of Mankind,
+                  </Language>
+                  <Language id="Arabic">
+                     نسألُ ونطلبُ من صَلاحِكَ يا محبَّ البشرِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Matoubo n~nenc~votou ouoh e~ aker pennouc n~remhe: e~bolha jinmoujt niben n~te ]hul/.
+                  </Language>
+                  <Language id="English">
+                     cleanse our lips and free our minds from all carnal pollution,
+                  </Language>
+                  <Language id="Arabic">
+                     طهرْ شفاهَنا وأَعتِقْ عقولَنا من كلِّ اخلاطِ الهيولي.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh ouwrp nan e~q~r/i m~pih~mot n~te pekp~neuma eyouab: ouoh a~riten n~emp~sa eyreneracpazecye n~nene~r/ou qen ouvi eyouab.
+                  </Language>
+                  <Language id="English">
+                     and send to us the grace of Your Holy Spirit, and make us worthy to greet one another with a holy kiss, 
+                  </Language>
+                  <Language id="Arabic">
+                     وأَرسِلْ لنا نعمةَ روحِكَ القدوس. واجعلنا أهلاً أن نُقَبِّلَ بعضُنا بعضاً بقُبلَةٍ مقدسةٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ep~jinten[i qen oumetathitten e~p~hap: e~bolqen tekdwrea~ n~aymou ouoh n~epouranion: qen Pi,rictoc I/couc Pen[oic.
+                  </Language>
+                  <Language id="English">
+                     that, without casting us into condemnation, we may partake of Your immortal and heavenly gift in Christ Jesus our Lord.
+                  </Language>
+                  <Language id="Arabic">
+                     لكى ننالَ بغيرِ طَرْحِنا في دينونةٍ، من موهِبَتِكَ غيرِ المائتةِ السمائية، بالمسيحِ يسوع ربِّنا.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <Role id="Priest" silent="true">
+               <InsertDocument path="include/SilentPriestConclusionEnding"/>
+            </Role>            
+         </Section> 
+         
+         <Section>
+            <Title>
+               <Language id="English">St. Cyril - Prayer of Reconciliation</Language>
+               <Language id="Arabic">صلاة الصلح</Language>
+            </Title>
+            
+            <InsertDocument path="include/PrayerOfReconciliationStCyril1"/>
+         </Section>
+         
+         <Section>
+            <Title>
+               <Language id="English">St. Cyril - Another Prayer of Reconciliation to the Father</Language>
+               <Language id="Arabic">صلاة صلح أخرى للآب</Language>
+            </Title>
+            
+            <InsertDocument path="include/PrayerOfReconciliationStCyril2"/>
+         </Section>
+      </Season>
+      
+      <Season id="StGregoryLiturgy">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Prayer of Reconciliation to the Son</Language>
+               <Language id="Arabic">صلاة الصلح للابن</Language>
+            </Title>
+            
+            <Role id="Priest">      
+               <Text>
+                  <Language id="Coptic">
+                     V/etsop v/e~nafsop v/eym/n e~bol sa e~neh: piaidioc: ouoh n~o~mooucioc ouoh n~cuny~ronoc ouoh n~s~v/r n~d/miourgoc nem V~iwt.
+                  </Language>
+                  <Language id="English">
+                     O You, THE BEING, who was and who abides for ever, the Eternal, co-essential, co enthroned, co creator with the Father,
+                  </Language>
+                  <Language id="Arabic">
+                     أيها الكائنُ الذي كانَ، الدائمُ إلى الأبدِ، الذاتيُّ، والمساوي، والجليسُ، والخالقُ الشريكُ مع الآبِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/e~te eybe oumeta~gayoc m~mauatc: e~bolqen v/e~te nafsop an aky~refswpi n~je v~rwmi: ouoh ak,af qen piparadicoc n~te p~ounof.
+                  </Language>
+                  <Language id="English">
+                     who for the sake of goodness only brought man into existence out of nonexistence, and put him in the Paradise of joy.
+                  </Language>
+                  <Language id="Arabic">
+                     الذي من أجلِ الصلاحِ وحدَهُ، مما لم يَكُنْ كوَّنْتَ الإنسانَ، وجَعَلتَهُ في فِردَوسِ النعيمِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Qen p~jiny~refhei de e~bol hiten ]a~pat/ n~te pijaji: nem ]metatcwtem n~ca tekentol/ eyouab ouoh e~akouws e~aif m~beri ouoh e~enf e~qoun e~piaxiwma n~te sorp.
+                  </Language>
+                  <Language id="English">
+                     And when he fell through the deception of the enemy and the disobedience of Your holy commandment, You desired to renew him and to restore him to his first estate.
+                  </Language>
+                  <Language id="Arabic">
+                     وعندما سَقَطَ بغوايةِ العدوِّ ومخالفةِ وصيَّتِكَ المقدسةِ، وأَردتَ أن تجدِّدَهُ، وتردَّهُ إلى رتبتِهِ الأُولى.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Aggeloc an: oude ar,iaggeloc: oude patriar,/c: oude p~rov/t/c m~pektenhoutou e~penoujai.
+                  </Language>
+                  <Language id="English">
+                     Neither an angel nor an archangel, neither a patriarch nor a prophet, have You entrusted with our salvation,
+                  </Language>
+                  <Language id="Arabic">
+                     لا ملاكَ ولا رئيسَ ملائكةٍ ولا رئيسَ آباءٍ ولا نبياً اِئْتَمَنْتَهُ على خلاصِنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla n~yok qen oumetatvwnh ak[icarx: ouoh akswpi n~rwmi: ouoh aki~ni m~mon qen hwb niben saten v~nobi m~mauatf.
+                  </Language>
+                  <Language id="English">
+                     but You, without change, were incarnate and became man, and resembled us in everything, except for sin alone,
+                  </Language>
+                  <Language id="Arabic">
+                     بل أنتَ بغيرِ استحالةٍ،  تجسدْتَ وتأنسْتَ، وشابَهتَنا في كلِّ شيءٍ ما خلا الخطيةَ وحدَها.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Akswpi nan m~mecit/c nem Viwt ouoh ]jiny~m/] n~te piywm akbolc e~bol: ouoh ]metjaji n~a~pac akserswrc.
+                  </Language>
+                  <Language id="English">
+                     and became for us a mediator with the Father, and the middle wall You have broken down and the old enmity You have abolished.
+                  </Language>
+                  <Language id="Arabic">
+                     وصرتَ لنا وسيطاً لدى الآبِ، والحاجزَ المتوسطَ نقضتَهُ، والعداوةَ القديمة هدمْتَها.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Akhwtp n~nap~kahi e~naniv/oui~ ouoh aker pic~nau n~ouai: e~akjwk e~bol n~]oikonomia qen t~carx.
+                  </Language>
+                  <Language id="English">
+                     You have reconciled the earthly with the heavenly and made the two into one, and fulfilled the economy in the flesh.
+                  </Language>
+                  <Language id="Arabic">
+                     وصالحتَ الأرضيينَ مع السمائيين، وجعلتَ الاثنينِ واحداً، وأكملتَ التدبيرَ بالجسدِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh eknasenak e~p~swi e~niv/oui cwmatikwc: e~akmoh m~p~t/rf qen tekmeynou].
+                  </Language>
+                  <Language id="English">
+                     And at Your Ascension into the heavens in the body, having filled all with Your divinity,
+                  </Language>
+                  <Language id="Arabic">
+                     وعند صُعودِكَ إلى السمواتِ جَسَدياً، إذ ملأتَ الكلَّ بلاهوتِكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Nakjw m~moc pe n~nekmay/t/c eyouab ouoh n~a~poctoloc.
+                  </Language>
+                  <Language id="English">
+                     You said to Your holy disciples and apostles,
+                  </Language>
+                  <Language id="Arabic">
+                     قلتَ لتلاميذِكَ ورُسُلِكَ القديسين:
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Je tahir/n/ ]] m~moc nwten: tahir/n/ a~nok ],w m~moc nemwten.
+                  </Language>
+                  <Language id="English">
+                     “My peace I give to you; My peace I leave with you.”
+                  </Language>
+                  <Language id="Arabic">
+                     ”سلامي أعطيكُم، سلامي أنا أتركُهُ لكم.“
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Yai on ]nou a~rih~mot m~moc nan penn/b.
+                  </Language>
+                  <Language id="English">
+                     The same also, now grant to us, O our Master,
+                  </Language>
+                  <Language id="Arabic">
+                     هذا أيضاً الآنَ، أَنعِم به لنا يا سيِّدَنا.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eaktoubon e~bolha ywleb niben: nem ,~rof niben: nem metsobi niben: nem kakia niben: nem panourgia niben: nem ]metreferv~meui~ n~te ]kakia etervorin m~v~mou.
+                  </Language>
+                  <Language id="English">
+                     and cleanse us from all blemish, all guile, all hypocrisy, all vice, all craftiness, and the remembrance of vice bearing death.
+                  </Language>
+                  <Language id="Arabic">
+                     وطهِّرْنا من كلِّ دنسٍ، ومن كلِّ غشٍ، ومن كلِّ رياءٍ، ومن كلِّ شرٍ، ومن كلِّ مكيدَةٍ، ومن تذكارِ الشرِّ اللابسِ الموتِ.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <InsertDocument path="include/PrayerOfReconciliationResponse"/>
+            
+            <Role id="Priest">      
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh a~riten n~emp~sa t/ren penn/b: eyrener acpazecye n~nene~r/ou qen ouvi ecouab.
+                  </Language>
+                  <Language id="English">
+                     And make us all worthy, O our Master, to greet one another with a holy kiss,
+                  </Language>
+                  <Language id="Arabic">
+                     واجعلنا مستحقينَ كلَّنا يا سيدنا، أن يُقَبِّلَ بعضُنا بعضاً بقبلةٍ طاهرةٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ep~jinten[i qen oumetathitten e~p~hap: e~bol qen tekdwrea~ n~aymou ouoh n~e~pouranion.
+                  </Language>
+                  <Language id="English">
+                     that, without falling into condemnation, we may partake of Your immortal and heavenly gift
+                  </Language>
+                  <Language id="Arabic">
+                     لنتناولَ بغير طَرْحِنا في الحكمِ، من موهِبَتِكَ غيرِ المائتةِ السمائيةِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Qen v/e~te vwk n~h~mot nem p~]ma] m~Pekiwt n~a~gayoc nem ]jinerhwb n~te Pekp~neuma eyouab.
+                  </Language>
+                  <Language id="English">
+                     through Your grace and the good will of Your good Father and the work of Your Holy Spirit.
+                  </Language>
+                  <Language id="Arabic">
+                     بنعمتِكَ ومسرةِ أبيكَ الصالحِ وفِعلِ روحِكَ القدوس.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     N~yok gar pe pirefcahni ouoh v~ref] n~nia~gayon t/rou.
+                  </Language>
+                  <Language id="English">
+                     For You are the provider and giver of all goodness,
+                  </Language>
+                  <Language id="Arabic">
+                     لأنك أنتَ الرازقُ، ومُعطِي جميعَ الخيراتِ.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <Role id="Priest" silent="true">
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh n~yok petenouwrp nak e~p~swi m~piw~ou nem pitaio nem ]p~rockun/cic nem Pekiwt n~a~gayoc nem Pip~neuma eyouab n~reftanqo ouoh n~o~mooucioc nemak.
+                  </Language>
+                  <Language id="English">
+                     and to You we send up the glory, the honor, and the worship, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+                  </Language>
+                  <Language id="Arabic">
+                     وأنت الذي نرسلُ لكَ إلى فوقُ المجدَ والإكرامَ والسجودَ مع أبيكَ الصالحِ والروحِ القدسِ المحيي المساوي لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+                  </Language>         
+               </Text>            
+            </Role>
+         </Section>
+             
+         <Section>
+            <Title>
+               <Language id="English">Another Prayer of Reconciliation to the Son</Language>
+               <Language id="Arabic">صلاة صلح أخرى للابن</Language>
+            </Title>
+            
+            <Comment>
+               <Language id="English">                             
+                  By Saint Severus, patriarch of Antioch.
+               </Language>      
+               <Language id="Arabic">                             
+                  للقديس ساويرس بطريرك أنطاكية.
+               </Language>
+            </Comment>
+             
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Pi,rictoc Pennou] ]jom etoi n~ho] ouoh n~ats~ka] e~roc n~te V~nou] Viwt.
+                  </Language>
+                  <Language id="English">
+                     O Christ our God, the fearful and incomprehensible power of God the Father,
+                  </Language>
+                  <Language id="Arabic">
+                     أيها المسيحُ إلهُنا القوةُ المخوفةُ، غيرُ المفهومةِ التي للهِ الآبِ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     V/ethemci cap~swi m~piy~ronoc etoi n~sah n~te ni,eroubim: ouoh e~tousemsi m~mof hiten nijom etoi n~,~rwm: ouoh ekoi n~,~rwm efouwm hwc nou].
+                  </Language>
+                  <Language id="English">
+                     who is seated upon the flaming throne of the cherubim, who is served by the fiery powers; and You, as God, are a consuming fire.
+                  </Language>
+                  <Language id="Arabic">
+                     الجالسُ فوقَ العرشِ الملتهبِ الشاروبيمي، والمخدومُ من القواتِ الناريةِ. وأنت نارٌ آكِلَةٌ كإلهٍ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eybe tekjini~ e~q~r/i n~ats~caji m~moc nem tekmetmairwmi: m~pekrwkh m~pip~rodot/c n~refer,~rof qen p~jiny~refqwnt e~rok.
+                  </Language>
+                  <Language id="English">
+                     Because of Your ineffable condescension and love toward mankind, You did not burn the guileful traitor when he drew near to You,
+                  </Language>
+                  <Language id="Arabic">
+                     من أجل تنازُلِكَ غيرِ الموصوفِ، ومحبَّتِكَ للبشرِ، لم تَحرِقْ الدافعَ الغاشَ عندما دنا منكَ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla akeracpazecye m~mof qen ouacpacmoc m~mets~v/r: ekcwk m~mof e~oumetanoia: nem p~couen y/e~te ywf n~tolm/cic.
+                  </Language>
+                  <Language id="English">
+                     but greeted him with the greeting of fellowship, drawing him unto repentance and the recognition of his presumptuousness.
+                  </Language>
+                  <Language id="Arabic">
+                     بل قبَّلتَهُ قُبلةَ المصاحبةِ، جاذباً إياه إلى التوبةِ ومعرفةِ جسارتِه.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ariten n~emp~sa hwn penn/b: qen taiounou yai etoi n~ho]: qen oumeui~ n~ouwt: at[ne h~li m~meth/tc~nau: nem p~cwjp n~te oukakia.
+                  </Language>
+                  <Language id="English">
+                     Make us worthy, O our Master—we also at this fearsome hour, that with one mind and without a double heart and the rest of vice—
+                  </Language>
+                  <Language id="Arabic">
+                     اجعلنا مستحقينَ نحنُ أيضاً يا سيدَنا في هذه الساعةِ المخوفةِ، بفكرٍ واحدٍ بغيرِ شيءٍ من التشككِ وبقيةِ الشرِّ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Eyrenswp e~ron n~nene~r/ou qen ouvi ecouab.
+                  </Language>
+                  <Language id="English">
+                     to greet one another with a holy kiss.
+                  </Language>
+                  <Language id="Arabic">
+                     أن يُقَبِّلَ بعضُنا بعضاً بقبلةٍ مقدسةٍ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh m~perhitten e~p~hap: icje tentoub/out an qen oujwk nem kata v~r/] etecrana n~tekmeta~gayoc: e~bolha v~lwihi m~v~nobi nem ]pon/ria: nem p~erv~meui~ n~]kakia n~refqwteb.
+                  </Language>
+                  <Language id="English">
+                     And cast us not into condemnation, even if, according to the pleasure of Your goodness, we are not perfectly pure from the mire of sin, evil, and the deadly remembrance of vice.
+                  </Language>
+                  <Language id="Arabic">
+                     ولا تطرحْنا في الحكمِِ إنْ لم نكن حسبما يرضي صلاحَكَ-َ أنقياءِ بالكمالِ من حمأةِ الخطيةِ،  والخبثِ وتذكارِ الشرِ القاتلِ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Alla n~yok qen tekmetsany~maqt n~ats~caji m~moc: ouoh n~ats~viri e~roc: ekcwoun n~y~metacyen/c ouoh etjolk e~pec/t n~te penp~lacma.
+                  </Language>
+                  <Language id="English">
+                     But rather through Your ineffable and indestructible compassion, knowing the frailty and fallenness of our form,
+                  </Language>
+                  <Language id="Arabic">
+                     لكن أنتَ بتعطفِكَ غيرِ الموصوفِ، ولا مُخَبَّرٍ به إذ تعرفُ ضعفَ وانغماسَ جبلتِنا إلى أسفلِ.
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Fw] e~bol n~[wqem niben n~te nenparaptwma.
+                  </Language>
+                  <Language id="English">
+                     wipe away all the stain of our trespasses,
+                  </Language>
+                  <Language id="Arabic">
+                     امحُ كلَّ أدناسِ سيئاتِنا. 
+                  </Language>         
+               </Text>  
+               
+               <Text>
+                  <Language id="Coptic">
+                     Hina n~tefs~temswpi nan euhap: oude ouhioui e~p~hap: n~je paimuct/rion vai n~te tekmeynou].  
+                  </Language>
+                  <Language id="English">
+                     that we may not be under condemnation nor fall into judgment concerning this Mystery of Your divinity.
+                  </Language>
+                  <Language id="Arabic">
+                     لكي لا يكونَ لنا دينونةً ولا وقوعاً في دينونةٍ هذا السرُّ الذي للاهوتِكَ.
+                  </Language>         
+               </Text>       
+            </Role>
+            
+            <InsertDocument path="include/PrayerOfReconciliationResponse"/>
+            
+            <Role id="Priest">
+               <Text>
+                  <Language id="Coptic">
+                     Nyok gar e~te ouon s~jom m~mok e~w~li n~nobi niben: ouoh e~ouw~teb n~nia~dikia nem nia~nomia: n~te nirwmi n~talepwroc: eksop m~mantoubo m~pikocmoc t/rf.
+                  </Language>
+                  <Language id="English">
+                     For You are He who is able to take away all sins and to remove all the unrighteousness and iniquity of wretched men. Behold, You are the purity of the whole world.
+                  </Language>
+                  <Language id="Arabic">
+                     لأنكَ أنتَ القادرُ أن ترفعَ كلَّ الخطايا، وتنقُلَ الظلمَ والآثامَ التي للناسِ الأشقياءِ، إذ أنتَ طهرُ العالمَِ كلِّهِ.
+                  </Language>         
+               </Text>
+            </Role>
+            
+            <Role id="Priest" silent="true">
+               <Text>
+                  <Language id="Coptic">
+                     Ouoh n~yok pe e~tecerp~repi nak n~je ]doxologia qen ouc~m/ n~ouwt n~te ouon niben.
+                  </Language>
+                  <Language id="English">
+                     And unto You is due the glorification with one voice from everyone:
+                  </Language>
+                  <Language id="Arabic">
+                     وأنتَ الذي ينبغي لكَ التمجيدُ، بصوتٍ واحدٍ من كلِّ أحدٍ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     Piw~ou pitaio~ ]metnis] ]p~rockun/cic: nem Pekiwt n~a~gayoc: nem Pip~neuma eyouab: n~reftanqo ouoh n~o~mooucioc nemak.
+                  </Language>
+                  <Language id="English">
+                     glory, honor, might, and worship, with Your good Father and the Holy Spirit, the Giver of Life, who is of one essence with You,
+                  </Language>
+                  <Language id="Arabic">
+                     المجدُ والكرامةُ والعظمةُ والسجودُ، مع أبيكَ الصالحِ والروحِ القدس المحيي المساوِي لكَ.
+                  </Language>         
+               </Text>
+               
+               <Text>
+                  <Language id="Coptic">
+                     }nou nem n~c/ou niben nem sa e~neh n~te nie~neh t/rou: a~m/n.
+                  </Language>
+                  <Language id="English">
+                     now and at all times and unto the age of all ages. Amen.
+                  </Language>
+                  <Language id="Arabic">
+                     الآنَ وكلَّ أوانٍ وإلى دهرِ الدهورِ كلِّها. آمين.
+                  </Language>         
+               </Text>
+            </Role>
+         </Section>
+      </Season>
+      
+      <Season id="StCyrilLiturgy">
+         <Section expanded="true">
+            <Title>
+               <Language id="English">Prayer of Reconciliation</Language>
+               <Language id="Arabic">صلاة الصلح</Language>
+            </Title>
+            
+            <InsertDocument path="include/PrayerOfReconciliationStCyril1"/>
+         </Section>
+         
+         <Section>
+            <Title>
+               <Language id="English">Another Prayer of Reconciliation to the Father</Language>
+               <Language id="Arabic">صلاة صلح أخرى للآب</Language>
+            </Title>
+            
+            <InsertDocument path="include/PrayerOfReconciliationStCyril2"/>
+         </Section>
+      </Season>
+   </Group>
+</Document>

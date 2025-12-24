@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Title>
+      <Language id="English">Hymn of the Intercessions</Language>
+      <Language id="Coptic">Hiten nip~recbia...</Language>
+   </Title>
+
+   <InsertDocument path="include/hiten/StMary"/>
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.1"/>
+     
+   <Text>
+      <Language id="Coptic">
+         Hiten nip~recbia n~te pisasf n~ar,iaggeloc nem nitagma n~e~pouranion: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the intercessions of the seven archangels, and the heavenly orders, O Lord, grant us the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بشفاعات رؤساء الملائكة السبعة والطغمات السمائية، ياربُ أنعم علينا بمغفرة خطايانا.
+      </Language>         
+   </Text>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.2"/>
+   
+   <Text>
+      <Language id="Coptic">
+         Hiten nieu,/ n~te na[oic n~io] n~a~poctoloc nem p~cepi n~te nimay/t/c: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the prayers of my lords and fathers, the apostles, and the rest of the disciples, O Lord, grant us the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بصلوات سادتي الآباء الرسل وبقية التلاميذ، ياربُ أنعم علينا بمغفرة خطايانا.
+      </Language>         
+   </Text>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.3"/>
+   
+   <Group>
+      <Season id="DisplayNonCustomaryPrayers">
+         <Section>
+            <Title>
+               <Language id="English">Combined Intercessions for the Male Martyrs</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten nieu,/ n~te niaylovoroc m~marturoc pa[oic p~ouro Gew~rgioc: Yeo~dwroc pic~tratilat/c: Vilopat/r Merkourioc: Abba M/na n~te niVaiat: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+               </Language>
+               <Language id="English">
+                  Through the prayers of the struggle-bearers and martyrs, my lord the prince George, Theodorus the general, The Lover of the Father Mercurius, Abba Mena of Vayat: O Lord, grant us the forgiveness of our sins.
+               </Language>
+               <Language id="Arabic">
+                  بصلوات الشهداء المجاهدين، سيدي الملك جاورجيوس، الأمير تادرس محب الأب مرقوريوس وآفا مينا البياضي، ياربُ أنعم علينا بمغفرة خطايانا.
+               </Language>    
+            </Text>     
+         </Section>      
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.4"/>
+   
+   <Group>
+      <Season id="DisplayNonCustomaryPrayers">
+         <Section>
+            <Title>
+               <Language id="English">Combined Intercessions for the Female Martyrs</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten nieu,/ n~te niselet n~te Pi,~rictoc ]a~gia Barbara nem Iolia~n/ nem Dumian/ nem Marin/ nem Ir/n/ nem Anacimon nem Ar'~ima nem Anactacia: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+               </Language>
+               <Language id="English">
+                  Through the prayers of the brides of Christ, Saints Barbara and Juliana and Demiana and Marina and Irene and Anasimon and Aripsima and Anastasia: O Lord, grant us the forgiveness of our sins.
+               </Language>
+               <Language id="Arabic">
+                  بصلوات عرائس المسيح القديسة بربارة ويوليانة ودميانة ومارينا وايريني وآنا سيمون واريبسيما واناسطاسيا، ياربُ أنعم علينا بمغفرة خطايانا.
+               </Language>    
+            </Text>     
+         </Section>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.5"/>
+   
+   <Group>
+      <Season id="DisplayNonCustomaryPrayers">
+         <Section>
+            <Title>
+               <Language id="English">Combined Intercessions for the Saints</Language>
+            </Title>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten nieu,/ n~te nenio] eyouab m~patriar,/c a~bba Ayanacioc pia~poctolikoc: nem a~bba Kurilloc pic~tulloc n~te pinah]: nem Diockoroc t~q/bc n~]O~ryodoxia: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+               </Language>
+               <Language id="English">
+                  Through the prayers of our holy fathers the patriarchs, Abba Athanasius the apostolic  and Abba Cyril the pillar of faith and Dioscorus the lamp of Orthodoxy: O Lord, grant us the forgiveness of our sins.
+               </Language>
+               <Language id="Arabic">
+                  بصلوات اأباء القديسين البطاركة اأنبا اثناسيوس الرسولي واأنبا كيرلس عمود االيمان واالنبا ديوسقورس مصباح االرثوذوكسية، ياربُ أنعم علينا بمغفرة خطايانا.
+               </Language>    
+            </Text>
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten nieu,/ n~te na[oic n~io] m~mainous/ri: a~bba Antwnioc nem a~bba Paule: nem Paqwmioc: nem pisomt eyouab Makarioc: a~bba Senou] pia~r,/mand~rit/c: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+               </Language>
+               <Language id="English">
+                  Through the prayers of my masters the fathers who loved their children, Abba Antony, and Abba Paul, and Pachomius, the three saints Makarios, Abba Shenouda the archimandrite: O Lord, grant us the forgiveness of our sins.
+               </Language>
+               <Language id="Arabic">
+                  بصلوات سادتي االباء محبي اوالدهم، االنبا انطونيوس واالنبا بوال وباخوميوس والثالثة مقارات القديسين واالنبا شنودة رئيس المتوحدين، ياربُ أنعم علينا بمغفرة خطايانا.
+               </Language>    
+            </Text>     
+            
+            <Text>
+               <Language id="Coptic">
+                  Hiten nieu,/ n~te na[oic n~io] m~mainous/ri abba Piswi nem abba Paule nem pijwri eyouab abba Mwc/ nem ?c/dwroc Maximoc nem Dometioc abba Arcenioc nem Iwann/c pikoloboc nem abba Camou/l pio~mologit/c: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+               </Language>
+               <Language id="English">
+                  Through the prayers, of my masters and fathers who loved their children, Abba Pishoy and Abba Paul, the strong Saint Abba Moses, Abba Isidore, Maximus and Dometius, Abba Arsanios, Abba John the short, and Abba Samuel the Confessor: O Lord, grant us the forgiveness of our sins.
+               </Language>
+               <Language id="Arabic">
+                  بصلوات اوالدهم محبي االباء سادتي بصلو االنبا بيشوي واالنبا بوال والقوي القديس االنبا موسى وايسيذوروس، مكسيموس ودوماديوس، االنبا ارسانيوس، ويوحنا القصير واالنبا صموئيل المعترف، ياربُ أنعم علينا بمغفرة خطايانا.
+               </Language>    
+            </Text>     
+         </Section>
+      </Season>
+   </Group>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.6"/>
+   
+   <Comment>
+      <Language id="English">         
+         The verse for the saint of the church is added here, if not already mentioned above.
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Hiten nieu,/ n~te n/eyouab n~te paie~hoou piouai piouai kata pefran: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through the prayers of the saints of this day, each one, according to his name, O Lord, grant us the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بصلوات قديسي هذا اليوم، كل واحد باسمِه، ياربُ أنعم علينا بمغفرة خطايانا.
+      </Language>         
+   </Text>
+   
+   <InsertDocument path="include/hiten/HymnOfTheIntercessions.7"/>
+   
+   <Comment>
+      <Language id="English">         
+         In the presence of a bishop or metropolitan, the following verse is added.
+      </Language>
+   </Comment>
+   
+   <Text>
+      <Language id="Coptic">
+         Hiten noueu,/ a~reh e~p~wnq m~peniwt ettai/out n~dikeoc abba (nim) pie~pickopoc (pim/tropolit/c): P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+      </Language>
+      <Language id="English">
+         Through their prayers, keep the life of our honored and righteous father, Abba (…) the bishop (metropolitan), O Lord, grant us the forgiveness of our sins.
+      </Language>
+      <Language id="Arabic">
+         بصلواتهم إحفظ حياة أبينا المكرم البار أنبا (…) الاسقف (المطران) ياربُ أنعم علينا بمغفرة خطايانا.
+      </Language>         
+   </Text>
+   
+   <InsertDocument path="include/TenouwstSeasonalResponse"/>
+</Document>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Ordination="true">
+   <Title>
+      <Language id="English">Concerning A Subdeacon Who is to be Set Apart</Language>
+      <Language id="Arabic">لأجل إقامة الأيبوذياكون</Language>
+   </Title>    
+   
+   <InsertDocument path="consecrations/ordinations/include/Intro"/>
+   
+   <Comment>
+      <Language id="English">
+         When a subdeacon is to be ordained, he is placed before the altar without vestment, with his head bowed down.  He shall kneel with those who brought him into the midst before the bishop on the steps of the altar.  Then the bishop offers incense and says the Thanksgiving and the Prayer of Incense  
+      </Language>
+      <Language id="Arabic">
+         إذا دعى أيبوذ ياكون يقام أمام المذبح بغير تونيه وهو مطامن الرأس راكعاً مع الذين قدموه إلى الوسط أمام الأسقف على درج المذبح. حينئذ يرفع الأسقف البخور ويقول صلاة الشكر. وصلاة البخور.  
+      </Language>
+   </Comment>
+      
+   <InsertDocument path="include/ThanksgivingPrayer"/>
+   <InsertDocument path="include/versesofthecymbals/VersesOfTheCymbals"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               and this prayer, with his face turned toward the east:  
+            </Language>
+            <Language id="Arabic">
+                ويقول هذه الصلاة ووجهة للشرق.  
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="consecrations/ordinations/include/Deacon.1"/>
+      
+         <Text>
+            <Language id="English">
+               and accept as a subdeacon and make perfect this Your servant (...) who is here present and awaits Your heavenly gift; for You are kind and very merciful toward all who call upon You, and strong is Your power and that of Your only Son and of Your most-holy Spirit, both now …     
+            </Language>
+            <Language id="Arabic">
+               واقبل إليك أبود ياكنية عبدك (فلان) الواقف هاهنا كاملاً ينتظر مواهبك السمائية. لانك صالح كثير الرحمة لكل الذين يدعون اسمك القدوس. وقوى هو سلطانك مع ابنك الوحيد يسوع المسيح ربنا مع الروح القدس: الخ..
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               The grace which fills our deficiency shall come upon this brother whom we have nominated for this rank and order of the subdeaconate in the holy Church of God which has escaped from dangers and afflictions.  Pray, all of you, that the Holy Spirit might come upon him as we say all together, “Lord, have mercy.”      
+            </Language>
+            <Language id="Arabic">
+               النعمة المكملة لنقصنا تأتي على الاخ الذي سبقنا أن نذكر اسمه لهذه الدرجة والرتبة التي للابود ياكنية في كنيسة الله المقدسة. هذه التي خلصت من الشدائد والاتعاب. اطلبوا كلكم لكي ياتي عليه الروح القدس بقولنا أجمعين يا رب أرحم.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Bishop">
+         <Comment>
+            <Language id="English">
+               The bishop prays, facing the east:
+            </Language>
+            <Language id="Arabic">
+               يصلى الأسقف ووجهه إلى الشرق:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               Yea, Lord, make him worthy of the calling of the subdeaconate, so that he may deserve through your kindness, as befits your holy name, to labor and serve in the temple of your glory, and find mercy before you;     
+            </Language>
+            <Language id="Arabic">
+               نعم يا رب أجهله أهلا لدعوة الأبودياكنية لكي باستحقاق من قبل محبتك للبشر يستحق اسمك ويتعبد لك ويخدم مذبحك المقدس ويجد رحمة أمامك. 
+            </Language>
+         </Text>
+      
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="English">
+               for you are a merciful and compassionate God, and to you is due glory, honor, and dominion, and to the Son and to the Holy Spirit.     
+            </Language>
+            <Language id="Arabic">
+               لأن الرحمة والرأفة تكونان من قبلك يا الله. ويليق بك المجد مع ابنك الوحيد والروح القدس الآن.. الخ 
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The bishop turns to the west and takes hold of his temples and prays:
+            </Language>
+            <Language id="Arabic">
+               يلتفت الأسقف إلى الغرب ويمسك صدغيه ويصلي: 
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Our Master and Lord, God Almighty, who in the tent of testimony revealed those who adorn the temple as guardians of the holy vessels; now, our master, make your face shine upon your servant (...), who has been granted to be a subdeacon by the discriminating vote of those who have brought him into the midst.  Fill him with holy spirit so that he might worthily handle the liturgical vessels, that he might stand at the doors of the temple and might light the lamp of the house of your prayers.  You shall plant him in your Church as an olive tree laden with fruit, which produces at all times fruit of righteousness, through the grace…      
+            </Language>
+            <Language id="Arabic">
+               أيها السيد الرب الله ضابط الكل. الذي أظهر في قبة الشهادة مزينين الهيكل ليحفظوا الأواني المقدسة. أنت الآن أيضاً يا ملكنا أظهر وجهك على عبدك (فلان) الذي قدموه ليصير أبوذياكناً بحكم التزكية من قبل الذين قدموه في الوسط املأه من روحك القدوس لكي يستحق أن يلمس أواني الخدمة ويقف على أبواب الهيكل ويوقد سراج بيت صلواتك. أغرسه في كنيستك مثل شجرة الزيتون الموسقة ثمرة كل حين ثمرة البر بالنعمة.. الخ  
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               He turns his face to the altar:
+            </Language>
+            <Language id="Arabic">
+               يحول وجهه إلى المذبح ويقول هذه الصلاة:   
+            </Language>
+         </Comment>
+         
+         <InsertDocument path="consecrations/ordinations/include/Deacon.2"/>
+         
+         <Comment>
+            <Language id="English">
+               Sign his forehead with your thumb, saying: 
+            </Language>
+            <Language id="Arabic">
+               ثم ترشم جبهته بإبهامك وتقول:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We ordain you in the holy Church of God. Amen.        
+            </Language>
+            <Language id="Arabic">
+               ندعوك في كنيسة الله المقدسة أمين.
+            </Language>
+         </Text>
+      </Role>
+      
+      <Role id="Archdeacon">
+         <Text>
+            <Language id="English">
+               (...), a subdeacon of the holy Church of God. Amen.    
+            </Language>
+            <Language id="Arabic">
+               (فلان) أبوذياكن لبيعة الله المقدسة أمين.
+            </Language>
+         </Text>      
+      </Role>
+      
+      <Role id="Bishop">
+         <Text>
+            <Language id="English">
+               We ordain you, (...), subdeacon of the church of (...) in the city of (...), in the name of the Father and of the Son and of the Holy Spirit. Amen.     
+            </Language>
+            <Language id="Arabic">
+               ندعوك يا (فلان) أبوذياكناً للكنيسة (الفلانية) التي للمدينة (الفلانية): باسم الأب والابن والروح القدس آمين. 
+            </Language>
+         </Text>      
+   
+         <Comment>
+            <Language id="English">
+               Turn to the west, make three crosses on him, saying:   
+            </Language>
+            <Language id="Arabic">
+               تلتفت للغرب وتصلب عليه ثلاث مرات قائلاً:      
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We ordain you, (...), subdeacon of the church of (...) in the city of (...), in the name of the Father and of the Son and of the Holy Spirit. Amen.      
+            </Language>
+            <Language id="Arabic">
+               ندعوك يا (فلان) أبوذياكناً للكنيسة (الفلانية) التي للمدينة الفلانية باسم الأب والابن والروح القدس أمين.  
+            </Language>
+         </Text>      
+         
+         <Comment>
+            <Language id="English">
+               Make three crosses on him. Say this prayer, turning to the east:   
+            </Language>
+            <Language id="Arabic">
+               تصلب على ثلاثة صلبان وتقول هذه الصلاة للشرق:       
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               We give thanks to You, our almighty Lord, and we praise and glorify Your holy name, because You have deigned to do with us, and poured out Your gift on this Your servant. Again we ask and beseech You, O Lord, hear us according to the multitude of Your mercies, and may the blessing of the subdeaconate be pleasing to You which has been performed on this Your servant through your kindness; gran to him that purely and innocently he may fulfill all his ministry;       
+            </Language>
+            <Language id="Arabic">
+               نشكرك أيها السيد ضابط الكل من أجل كل حال وفي كل حال ونباركك ونمجد اسمك القدوس لانك صنعت معنا عظائماً. وأفضت بركتك على عبدك (فلان) نسأل ونضرع إليك يا ملكنا اسمعنا من أجل كثرة رأفتك وسر بالحلول في تبريك أبوذياكنية عبدك (فلان) من جهة محبتك للبشر. امنحه المخافة والطهارة ليكون كاملاً في كل أعمال الخدمة  
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               And he raises his voice:  
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               so that he may find your peace through the mercy of your only Son, through whom and with whom is due to you glory…        
+            </Language>
+            <Language id="Arabic">
+               وليفز أيضاً بالصبر الجميل بتحنن ابنك الوحيد يسوع المسيح ربنا هذا الذي.. الخ  
+            </Language>
+         </Text>
+         
+         <Comment>
+            <Language id="English">
+               The bishop turns to him and places the oration on his shoulder, saying:   
+            </Language>
+            <Language id="Arabic">
+               يلتفت إليه الأسقف ويجعل البلاريا في عنقه قائلاً:        
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="English">
+               Glory and honor be to your holy name, Father and Son and consubstantial Holy Spirit.  Peace and upbuilding of the holy Church. Amen.         
+            </Language>
+            <Language id="Arabic">
+               مجداً وإكراماً لاسمك القدوس أيها الأب والابن والروح القدس المساوي سلاماً وبنياناً للكنيسة المقدسة. آمين.   
+            </Language>
+         </Text>
+      </Role>
+      
+      <Comment>
+         <Language id="English">
+            He kisses the altar and the bishop and those who stand with him for the communion of the mysteries.  Hands shall not be laid on him.  Then instruct him with this catechesis.    
+         </Language>
+         <Language id="Arabic">
+            ثم يقبل المذبح ويد الأسقف والحاضرين معه لشركة السراير ولا يوضع عليه يد ثم يعظه بهذه الوصية.         
+         </Language>
+      </Comment>
+   </Section>
+   
+   <Role id="Archdeacon">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">Catechesis</Language>
+            <Language id="Arabic">الوصية</Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               My son, you have been entrusted with a good grade which is the subdeaconate.  Therefore, you shall perform those things which have been assigned to you.  They are: that you should follow after the deacon to assist him in the work of ministry, as he follows after the presbyter.  It is necessary for you, therefore, to watch over the doors of the house of God, which is the church, so as not to allow a beast to enter it, neither a dog nor the heretics, at the time of the holy services.  When the deacon proclaims, “Let none of the catechumens stand here nor anyone who does not receive of the holy mysteries,” then you shall pay attention to watch with great care over the doors of the church.  Since, therefore, you have been trusted to touch that which is holy, the holy liturgical vessels, therefore you should realize the measure of the honor and the gift which has been given you as a wise and faithful servant who eagerly does the will of his lord, so that you may receive the fruit of the heavenly calling, through Christ Jesus our Lord, who…           
+            </Language>
+            <Language id="Arabic">
+               يا بني ائتمنت على درجة حسنة التي هي الأبوذياكنية وما رسم لك أفعله. الذي هو أن تكون تابعاً للشماس وتساعده في عمل الخدمة كما أنه هو أيضاً تابع للقسيس يجب عليك أن تحرس أبواب بيت الله التي هي البيعة ولا تحتمل أن يدخل إليها دابة ولا كلب ولا مخالف وفي وقت الخدمة الطاهرة إذا ما صرخ الشماس قائلاً لا يقف موعوظ في هذا الموضع ولا أحد ممن لا يتناول من السرائر المقدسة. واحرس أن تحفظ بحفظ عظيم أبواب البيعة لانك قد ائتمنت أن تلمس الأواني المقدسة التي للخدمة الطاهرة. من أجل هذا اعرف مقدار الكرامة والموهبة التي أعطيت لك. كالعبد الحكيم الآمين الذي يصنع إرادة سيده بكل اجتهاد لتنال ثمرة الدعوة العالية بالمسيح يسوع ربنا هذا الذي.. الخ    
+            </Language>
+         </Text>
+      </Section>
+      
+      <Comment>
+         <Language id="English">
+            The seventh canon of Hippolytus:     
+         </Language>
+         <Language id="Arabic">
+            القانون السابع لهيبوليتس:          
+         </Language>
+      </Comment>
+      
+      <Text>
+         <Language id="English">
+            He is to have the virtues of the deacon, and hands are not to be laid on him, and he is not to be ordained; and if he is to remain without a wife, let him be accepted after testimony is given for him and it is certified by his neighbors that he has kept himself away from women.            
+         </Language>
+         <Language id="Arabic">
+            ليكن له فضائل الشماس ولا تجعل عليه اليد ولا يقسم، وإن كان ليس له زوجة وقد شهد له وزكاه جيرانه على أنه بعيد عن النساء في زمان إقامته فليقبل
+         </Language>
+      </Text>
+   </Role>
+</Document>

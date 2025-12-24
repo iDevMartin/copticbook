@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Group>
+      <Season id="Joyful29thOfTheMonth | PentecostPeriod">
+         <Comment>
+            <Language id="English">         
+               For the Feast of the Resurrection and the Holy Fifty Days:
+            </Language>
+         </Comment>
+         
+         <Text>
+            <Language id="Coptic">
+               Hiten nieu,/ n~te niy~m/i nirwmi n~telioc Iwc/v nem Nikod/moc nem ]agia Maria ]Magdalin/: P~[oic arih~mot nan m~pi,w e~bol n~te nennobi.
+            </Language>
+            <Language id="English">
+               Through the prayers of the righteous, the perfect men, Joseph and Nicodemus, and Saint Mary Magdalene: O Lord, grant us the forgiveness of our sins.
+            </Language>
+            <Language id="Arabic">
+               بصلوات البارين الرجلين الكاملين يوسف ونيقوديموس والقديسة مريم المجدلية ياربُ أنعم علينا بمغفرة خطايانا.
+            </Language>         
+         </Text>
+      </Season>
+   </Group>
+</Document>

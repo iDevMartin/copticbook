@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">   
+   <Group>
+      <Season id="NativityParamoun">
+         <Group>
+            <Season id="Saturdays">               
+               <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnFridayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/nativityparamoun/WatosPsaliOnSaturdayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <Season id="Nativity">
+         <Group>
+            <Season id="Saturdays">               
+               <InsertDocument path="include/praises/nativity/WatosPsaliOnFridayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/nativity/WatosPsaliOnSaturdayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <Season id="Theophany">
+         <Group>
+            <Season id="Saturdays">               
+               <InsertDocument path="include/praises/theophany/WatosPsaliOnFridayTheotokia"/>
+            </Season>
+            
+            <Season id="Other">
+               <InsertDocument path="include/praises/theophany/WatosPsaliOnSaturdayTheotokia"/>
+            </Season>
+         </Group>      
+      </Season>
+      
+      <InsertDocument path="include/praises/lent/PsaliAdamOnFourthHoos"/>
+      <InsertDocument path="include/praises/hosannasunday/PsaliAdamOnFourthHoos"/>
+      <InsertDocument path="include/praises/pentecost/PsaliAdamOnFourthHoos"/>
+   </Group>
+</Document>

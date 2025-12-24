@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StRebecca:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Rebecca</Language>
+            <Language id="Arabic">ذوكصولوجية رفقة</Language>
+            <Language id="Coptic">Ni pictoc m~marturoc...</Language>
+         </Title>
+      
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Rebecca:
+            </Language>
+         </Comment>
+      
+         <Text>
+            <Language id="Coptic">
+               Ni pictoc m~marturoc: etaufai qa nidiwgmoc: eybe piran m~pin/b P,#c#: IereBekka nem necs/ri.
+            </Language>
+            <Language id="English">
+               The faithful martyrs, who endured persecution, for the name of Christ the Lord, Rebecca and her children.
+            </Language>
+            <Language id="Arabic">
+               الشهداء الأمناء، الذين تحملوا الأضطهادات، من أجل أسم السيد المسيح، رفقة وأولادها.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Enaus~l/l afouwnh nwou: e~bol n~je p~aggeloc m~Poc?: auounof m~mwou etaf hisennoufi: nwou qen ]metmarturoc.
+            </Language>
+            <Language id="English">
+               While they were praying, the Lord’s angel appeared to them, they rejoiced when he announced, to them their martyrdom.
+            </Language>
+            <Language id="Arabic">
+               لما كانوا يصلون، ظهر لهم ملاك الرب، وفرحوا لما بشرهم، بالأستشهاد.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Au] n~nouhupar,onta: n~nih/ki aut/itou m~v~mou: m~pouywt n~tououwst n~ni~dwlon: auhitou e~pi,~rwm m~poumoh.
+            </Language>
+            <Language id="English">
+               They gave their wealth to the poor, they gave up themselves to death, and refused to worship the idols, they threw them into fire but did not burn.
+            </Language>
+            <Language id="Arabic">
+               أعطوا أموالهم للفقراء، وسلموا أنفسهم للموت، ولم يرضوا أن يسجدوا للأصنام وألقوهم فى النار ولم يحترقوا.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Qen Rako] aucepcwpou qen: p~swou m~piyo n~tou,a pounou]: ouoh auerayetin n~noujin]: auasou de euoi n~rabnahbi.
+            </Language>
+            <Language id="English">
+               In Alexandria they tempted them, with the glory of the world to deny their God, they rejected their offerings, and were crucified heads down.
+            </Language>
+            <Language id="Arabic">
+               وفى أسكندرية أغووهم، بمجد الدنيا ليتركوا إلههم، فأحتقروا عطاياهم، فصلبوهم منكسين.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               Menenca somt n~e~hoou euj/k: auo~hi eratou eutouj/out: au,atou qen ouneh efberber: m~pou[iywbs nimatoi ausahseh.
+            </Language>
+            <Language id="English">
+               After three full days, they were raised in good health, then they put them in boiling oil, they were not harmed the soldiers were inflamed.
+            </Language>
+            <Language id="Arabic">
+               وبعد ثلاثة أيام كاملة، قاموا معافين، ووضعوا فى زيت مغلى، لم يتأثروا وألتهبوا الجنود.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               Ausat nia~v/ou n~nis/ri qen: p~am/r n~toumau i~ta teca~ve: nipictoc auket ouekkl/ecia: nwou auouwnh n~je nous~v/ri e~bol.
+            </Language>
+            <Language id="English">
+               They beheaded the children, on the lap of their mother and then her head, the believers built a church for them their miracles appeared.
+            </Language>
+            <Language id="Arabic">
+               قطعت رؤوس الأبناء، فى حجر أمهم ثم رأسها، وبنى المؤمنون كنيسة لهم، فظهرت عجائبهم.
+            </Language>
+         </Text>
+      
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nwten w~ nimarturoc: etausep hanm/s m~bacanoc: eybe poumei m~P,#c#: rasi m~mwten qen piparadicoc.
+            </Language>
+            <Language id="English">
+               Hail to you O martyrs, who accepted many sufferings, for their love to Christ, rejoice in the Paradise.
+            </Language>
+            <Language id="Arabic">
+               السلام لكم أيها الشهداء، الذين قبلوا آلامات كثيرة، من أجل محبتهم للمسيح، إفرحوا فى الفردوس.
+            </Language>
+         </Text>
+      
+         <InsertDocument path="include/doxologies/conclusions/StRebecca"/>
+      </Section>
+   </Season>
+</Document>

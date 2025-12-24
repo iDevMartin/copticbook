@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/" Agpeya="true">
+   <Title>
+      <Language id="English">The Midnight Prayer</Language>
+      <Language id="Arabic">صلاة نصف الليل</Language>
+   </Title>
+   
+   <Comment>
+      <Language id="English">
+         12:00 AM: To commemorate the three times our Lord Jesus Christ prayed in Gethsemane.
+      </Language>
+      <Language id="Arabic">
+         رُتِّبت بمناسبة الصلوات الثلاث لفادينا في بستان جثسيماني. وهيَ تُطابق قول النبي في المزمور: "في نصف الليل نهضت لأشكرك على أحكام عدلك."
+      </Language>
+   </Comment>
+            
+   <InsertDocument path="include/agpeya/Introduction"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Arise, You, O Children of the Light</Language>
+         <Language id="Arabic">قوموا يا بني النور</Language>
+      </Title>
+      
+      <Text>
+         <Language id="English">
+            Arise, you, O children of the light, to praise the Lord of Hosts, that He may grant us the salvation of our souls. When we stand in the flesh before You, take away from our minds the sleep of forgetfulness. Grant us alertness, O Lord, in order that we may understand how to stand up before You at the time of prayer, and send up to You the appropriate doxology, and win the forgiveness of our many sins.
+         </Language>
+         <Language id="Arabic">
+            قوموا يا بني النور لنسبح رب القوات، لكي ينعم علينا بخلاص نفوسنا، عندما نقف أمامك جسديا انزع من عقولنا نوم الغفلة. أعطنا يا رب يقظة لكي نفهمَ كيف نقف أمامك وقت الصلاة، ونرسلَ لك إلي فوقُ التمجيدَ اللائق، ونفوزَ بغفران خطايانا الكثيرة.
+         </Language>
+      </Text>
+            
+      <InsertDocument path="include/agpeya/DoxaciFilanithrope"/>   
+      
+      <Text>
+         <Language id="English">
+            Behold, bless the Lord, O you the servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God. In the nights lift up your hands O you saints, and bless the Lord. The Lord shall bless you out of Zion, He who made heaven and earth.
+         </Language>
+         <Language id="Arabic">
+            ها باركوا الربَّ يا عبيدَ الرب، القائمين في بيت الرب في ديار إلهنا. في الليالي ارفعوا أيديكم أيها القديسون وباركوا الرب. يبارككم الرب من صهيون الذي خلق السماء والأرض.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/DoxaciFilanithrope"/>
+         
+      <Text>
+         <Language id="English">
+            Let my supplication come near before You; O Lord give me understanding according to Your word. Let my petition come before You; revive me according to Your word. Let my lips flow with praise, when You have taught me Your ordinances. Let my tongue speak of Your words, for all Your commandments are righteous. Let Your hand be for saving me, for I have desired Your commandments. I have longed for Your salvation, O Lord, and Your law is my meditation. My soul shall live and praise You, and Your judgments shall help me. I have gone astray like a lost sheep; seek Your servant, for I have not forgotten Your commandments. 
+         </Language>
+         <Language id="Arabic">
+            فليدن توسلي قدامك يا رب، كقولك فهمني. فلتدخل طلبتي إلى حضرتك يا رب، ككلمتك أحيني. تفيض شفتاي السبح، إذا ما علمتني حقوقك. لساني ينطق بأقوالك، لأن جميع وصاياك عادلة. لتكن يدك لتخلصني لأنني اشتهيت وصاياك. اشتقت إلي خلاصك يا رب، وناموسك هو تلاوتي. تحيا نفسي وتسبحك، وأحكامك تعينني. ضللتُ مثل الخروف الضال، فاطلب عبدك، فإني لوصاياك لم أنسَ.
+         </Language>
+      </Text>
+      
+      <InsertDocument path="include/agpeya/GloryBeToTheFather"/>
+      
+      <Text>
+         <Language id="English">
+            Glory be to the Father, and the Son and the Holy Spirit, from now and unto the age of all ages, Amen.
+         </Language>
+         <Language id="Arabic">
+            المجد للآب والأبن والروح القدس منذ الآن وإلى أبد الابدين كلها أمين.
+         </Language>
+      </Text>
+      
+      <Text>
+         <Language id="English">
+            Glory be to You O the Good and Lover of Mankind. Hail to Your mother the Virgin and to all Your Saints. Glory be to You, O Holy Trinity; have mercy upon us.
+         </Language>
+         <Language id="Arabic">
+            المجد لك يا محب البشر الصالح. السلام لأمك العذراء مع جميع قديسيك. المجد لك أيها الثالوث القدوس ارحمنا.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            Let God arise, and let His enemies be scattered, and let all who hate His holy name flee before His face. But let Your people be in blessing, thousands of thousands, and ten thousand times ten thousands, doing Your will. O Lord, You shall open my lips, and my mouth shall declare Your praise. Amen. ALLELUIA.
+         </Language>
+         <Language id="Arabic">
+            فليقم الله، وليتبدد جميع أعدائه، وليهرب من قدام وجهه كل مبغضي اسمه القدوس. وأما شعبك فليكن بالبركة ألوف ألوف وربوات ربوات، يصنعون إرادتك. يا رب افتح شفتي ولينطق فمي بتسبيحك. أمين. هلليلويا.
+         </Language>
+      </Text>
+   </Section>
+        
+   <Title>
+      <Language id="English">
+         First Watch
+      </Language>
+      <Language id="Arabic">
+         الخدمة الأولى
+      </Language>
+   </Title>
+         
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The praise of the first watch of the blessed Midnight Hour, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة الخدمة الأولى من نصف الليل المبارك، أقدمها للمسيح ملكي والهي، وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 3</li>
+            <li>Psalm 116</li>
+            <li>Psalm 117</li>
+            <li>Psalm 118 (20)</li>
+            <li>Psalm 118 (21)</li>
+            <li>Psalm 118 (22)</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/3"/>
+   <InsertDocument path="include/agpeya/psalms/6"/>
+   <InsertDocument path="include/agpeya/psalms/12"/>
+   <InsertDocument path="include/agpeya/psalms/69"/>
+   <InsertDocument path="include/agpeya/psalms/85"/>
+   <InsertDocument path="include/agpeya/psalms/90"/>
+   <InsertDocument path="include/agpeya/psalms/116"/>
+   <InsertDocument path="include/agpeya/psalms/117"/>
+   <InsertDocument path="include/agpeya/psalms/118"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Matthew, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار متى البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Matthew 25:1-13)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا متى ص 25: 1 -13
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Then the kingdom of heaven shall be likened to ten virgins, who took their lamps, and went forth to meet the bridegroom. And five of them were wise, and five were foolish. Those who were foolish took their lamps, and took no oil with them. But the wise took oil in their vessels with their lamps. While the bridegroom was delayed, they all slumbered and slept. And at midnight there was a cry made, “Behold, the bridegroom is coming; arise and go out to meet him.” Then all those virgins arose, and trimmed their lamps. And the foolish said unto the wise, “Give us of your oil, for our lamps are going out.” But the wise answered, saying, “No, lest there should not be enough for us and you, but go rather to those who sell, and buy for yourselves.” And while they went to buy, the bridegroom came, and those who were ready went in with him to the marriage, and the door was shut. Afterward, the other virgins came also, saying, “Lord, Lord, open to us.” But he answered and said, “Verily I say unto you, I do not know you.” Watch therefore, for you know neither the day nor the hour in which the Son of Man is coming.
+            </Language>
+            <Language id="Arabic">
+               حينئذٍ، يشبه ملكوت السموات عشر عذارى أخذن مصابيحهن وخرجن لاستقبال العريس. خمس منهن كن جاهلات وخمس حكيمات. فأخذت الجاهلات مصابيحَهن ولم يأخذن معهن زيتا. وأما الحكيمات فأخذن زيتا في آنيتهن مع مصابيحهن. ولما أبطأ العريس نعسن كلهن ونمن. ولما انتصف الليل صار صراخ: هوذا العريس قد أقبل فقمن وأخرجن للقائه. حينئذ قامت أولئك العذارى جميعا وزينَّ مصابيحهن. فقالت الجاهلات للحكيمات أعطيننا من زيتكن فإن مصابيحنا تنطفئ. فأجابت الحكيمات قائلات: لعله لا يكفينا وإياكن، فاذهبن بالحري إلى الباعة وابتعن لكن. فلما ذهبن ليبتعن جاء العريس والمستعدات دخلن معه إلى العرس وأغلِق الباب. وأخيرا جاءت بقية العذارى أيضا قائلات: ربنا ربنا افتح لنا. أما هو فأجاب وقال: الحق أقول لكن إني لا أعرفكن. فاسهروا إذن لأنكم لا تعرفون اليوم ولا الساعة التي يأتي فيها ابن الإنسان.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+         
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. Behold, the Bridegroom is coming at midnight, blessed is the servant whom He finds watching. But he whom He finds sleeping is unworthy of going with Him. Therefore, take heed, O my soul, that you may not fall into deep sleep, and then be cast out of the Kingdom. But watch and cry out saying “Holy, Holy, Holy are You, O God, for the sake of the Mother of God (Theotokos), have mercy on us.”
+            </Language>
+            <Language id="Arabic">
+               1. ها هو ذا العريس يأتي في نصف الليل، طوبى للعبد الذي يجده مستيقظا. أما الذي يجده متغافلا، فإنه غير مستحق المضي معه. فانظري يا نفسي لئلا تثقلي نوما، فتلقي خارج الملكوت. بل اسهري واصرخي قائلة: قدوس قدوس قدوس أنت يا الله، من أجل والدة الإله ارحمنا
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. O my soul, be mindful of that awesome day, and wake up and light your lamp with the oil of joy, for you do not know when the voice will call upon you saying: “Behold, the Bridegroom is coming.” So, take heed, my soul, not to fall asleep, lest you stand outside knocking like the five foolish virgins. But watch, entreating that you may meet Christ the Lord with rich oil, and He may grant you the wedding of His true and heavenly glory.
+            </Language>
+            <Language id="Arabic">
+               2. تفهمي يا نفسي ذلك اليومَ الرهيب واستيقظي، وأضيئي مصباحك بزيت البهجة. لأنك لا تعلمين متى يأتي نحوك الصوت القائل: ها هو ذا العريس قد أقبل. فانظري يا نفسي لا تنعسي، لئلا تقفي خارجا قارعة مثل الخمس العذارى الجاهلات، بل اسهري متضرعة لكي تلتقي المسيح الرب بدهن دسم، وينعم عليك بعرس مجده الإلهي الحقيقي
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. You are the rampart of our salvation, O Mother of God (Theotokos) the Virgin, the mighty and impregnable fortress. Abolish the counsel of the adversaries, and transform the sorrow of your servants into joy. Fortify our city (monastery), defend our kings (governors), and intercede for the peace of the world, for you are our hope, O Mother of God (Theotokos).
+            </Language>
+            <Language id="Arabic">
+               3. أنت هي سور خلاصنا يا والدة الإله العذراء الحصن المنيع غير المنثلم أبطلي مشورة المعاندين، وحزن عبيدك رديه إلى فرح وحصني مدينتنا (ديرنا) وعن ملوكنا (رؤسائنا) حاربي، وتشفعي عن سلام العالم، لأنك أنت هي رجاؤنا يا والدة الإله
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>         
+      <InsertDocument path="include/agpeya/OHeavenlyKing"/>
+   </Section>
+
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Title>
+      <Language id="English">
+         Second Watch
+      </Language>
+      <Language id="Arabic">
+         الخدمة الثانية
+      </Language>
+   </Title>
+         
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The service of the second watch of the blessed Midnight Hour, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة الخدمة الثانية من نصف الليل المبارك، أقدمها للمسيح ملكي والهي، وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 119</li>
+            <li>Psalm 128</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/119"/>
+   <InsertDocument path="include/agpeya/psalms/120"/>
+   <InsertDocument path="include/agpeya/psalms/121"/>
+   <InsertDocument path="include/agpeya/psalms/122"/>
+   <InsertDocument path="include/agpeya/psalms/123"/>
+   <InsertDocument path="include/agpeya/psalms/124"/>
+   <InsertDocument path="include/agpeya/psalms/125"/>
+   <InsertDocument path="include/agpeya/psalms/126"/>
+   <InsertDocument path="include/agpeya/psalms/127"/>
+   <InsertDocument path="include/agpeya/psalms/128"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Luke 7:36-50)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا لوقا ص 7: 36- 50
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               Then one of the Pharisees asked Him to eat with him. And He went unto the Pharisee's house, and sat down to eat. And, behold, a woman in the city, who was a sinner, when she knew that Jesus sat to eat in the Pharisee's house, brought an alabaster box of ointment, and stood at His feet behind Him weeping, and began to wash His feet with tears, and wiped them with the hairs of her head, and kissed His feet, and anointed them with the ointment. Now when the Pharisee who had invited Him saw this, he spoke within himself, saying “This man, if He were a prophet, would have known who and what manner of woman this is who touched Him, for she is a sinner.” And Jesus answered and said to him, “Simon, I have something to say to you.” And he said, “Master, say it.” “There was a certain creditor who had two debtors. One owed five hundred denarii, and the other fifty. And when they had nothing to pay, he freely forgave them both. Tell me therefore, which of them will love him more?” Simon answered and said, “I suppose that he, to whom he forgave more.” And He said unto him, “You have rightly judged.” And He turned to the woman, and said unto Simon, “Do you see this woman? I entered into your house; you gave Me no water for My feet, but she has washed My feet with tears, and wiped them with the hairs of her head. You gave Me no kiss, but this woman since the time I came in has not ceased to kiss My feet. My head with oil you did not anoint, but this woman has anointed My feet with ointment. Therefore I say unto you, 'Her sins, which are many, are forgiven, for she loved much, but to whom little is forgiven, the same loves little.'” And He said unto her, “Your sins are forgiven.” And those who sat to eat with Him began to say within themselves, “Who is this who forgives sins also?” And He said to the woman, “Your faith has saved you; go in peace.”
+            </Language>
+            <Language id="Arabic">
+               ثم سأله أحد الفريسيين أن يأكل معه. فلما دخل بيت الفريسي اتكأ. وإذا امرأة في المدينة كانت خاطئة. فلما علمتْ أنه متكئ في بيت الفريسي، أخذت قارورة طيب ووقفتْ من ورائه عند رجليه باكية، وبدأت تبل قدميه بدموعها وتمسحهما بشعر رأسها، وكانت تقبل قدميه وتدهنهما بالطيب. فلما رأى الفريسي الذي دعاه ذلك قال محدثا نفسه: لو كان هذا نبيا لعلم من هي هذه المرأة التي لمسته، وما حالها، إنها خاطئة. فأجاب يسوع وقال له: يا سمعان عندي كلمة أقولها لك. فقال: قل يا معلم. قال: كان لدائن مدينان على الواحد خمسمائة دينار وعلى الآخر خمسون، وإذ لم يكن لهما ما يوفيان سامحهما كليهما. فمن منهما يحبه أكثر؟ أجاب سمعان وقال: أظنُّ الذي سامحه بالأكثر. فقال له: بالصواب حكمتَ. ثم التفت إلى المرأة وقال لسمعان: أترى هذه المرأة؟ دخلتُ بيتك وماء لرجلي لم تعطِ، أما هي فقد غسلتْ بالدموع رجلي ومسحتهما بشعرها. لم تقبل فمي، أما هي فمنذ دخلتُ بيتك لم تكف عن تقبيل قدمي. بزيت لم تدهن رأسي، أما هي فقد دهنت بالطيب قدمي. من أجل ذلك أقول لك إن خطاياها الكثيرة مغفورة لها، لأنها أحبت كثيرا. والذي يغفر له قليل يحب قليلا. ثم قال لها: مغفورة لك خطاياك. فبدأ المتكئون يقولون في نفوسهم: من هو هذا الآخر الذي يغفر الخطايا؟! فقال للمرأة: إن إيمانك قد خلصكِ، فاذهبي بسلام.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1.  Give me, O Lord, many fountains of tears, as You gave, in the past, the sinful woman. Make me worthy to wash Your Feet which liberated me from the path of straying, and to offer You a precious fragrant oil, and gain, through repentance, a pure life, so that I may hear that voice full of joy: “Your faith has saved you.”
+            </Language>
+            <Language id="Arabic">
+               1. أعطني يا رب ينابيع دموع كثيرة، كما أعطيت منذ القديم للمرأة الخاطئة. واجعلني مستحقا أن أبل قدميك اللتين أعتقتاني من طريق الضلالة. وأقدم لك طيبا فائقا، وأقتني لي عمرا نقيا بالتوبة. لكي أسمع أنا ذلك الصوت الممتلئ فرحا: إن إيمانك خلصك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2.  When I realize my many wicked deeds, and the thought of that awesome judgment comes to my heart, a tremble takes hold of me, and I take refuge in You, O God, the Lover of Mankind. So do not turn away Your face from me, I entreat You, Who alone are without sin. Grant humbleness to my poor soul before the end comes, and save me.
+            </Language>
+            <Language id="Arabic">
+               2. إذا ما تفطنت في كثرة أعمالي الرديئة ويأتي على قلبي فكر تلك الدينونة الرهيبة تأخذني رعدة، فأهرب إليك يا الله محب البشر. فلا تصرف وجهك عني، متضرعا إليك يا من أنت وحدك بلا خطية، أنعم على نفسي المسكينة بتخشع قبل أن يأتي الانقضاء وخلصني
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3.  The Heavens bless you, O full of grace, the Bride who was never married. And we, too, glorify your incomprehensible giving birth. O Mother of God (Theotokos), the mother of mercy and salvation, intercede for the salvation of our souls.
+            </Language>
+            <Language id="Arabic">
+               3. السموات تطوبك أيتها الممتلئة نعمة، العروس التي بلا زواج. ونحن أيضا نمجد ميلادك (للمسيح) غير المدرك. يا والدة الإله يا أم الرحمة والخلاص، تشفعي من أجل خلاص نفوسنا
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      <InsertDocument path="include/agpeya/OHeavenlyKing"/>
+   </Section>
+
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Title>
+      <Language id="English">
+         Third Watch
+      </Language>
+      <Language id="Arabic">
+         الخدمة الثالثة
+      </Language>
+   </Title>
+         
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            The service of the third watch of the blessed Midnight Hour, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+         </Language>
+         <Language id="Arabic">
+            تسبحة الخدمة الثالثة من نصف الليل المبارك، أقدمها للمسيح ملكي والهي، وأرجوه أن يغفر لي خطاياي.
+         </Language>
+      </Text>
+   </Role>
+         
+   <InsertDocument path="include/agpeya/FromThePsalms"/>
+   
+   <Comment>
+      <Language id="English">
+         The following psalms are reserved to be prayed by the priest:
+         <ul>
+            <li>Psalm 129</li>
+            <li>Psalm 140</li>
+            <li>Psalm 147</li>
+         </ul>
+      </Language>
+   </Comment>
+   
+   <InsertDocument path="include/agpeya/psalms/129"/>
+   <InsertDocument path="include/agpeya/psalms/130"/>
+   <InsertDocument path="include/agpeya/psalms/131"/>
+   <InsertDocument path="include/agpeya/psalms/132"/>
+   <InsertDocument path="include/agpeya/psalms/133"/>
+   <InsertDocument path="include/agpeya/psalms/136"/>
+   <InsertDocument path="include/agpeya/psalms/137"/>
+   <InsertDocument path="include/agpeya/psalms/140"/>
+   <InsertDocument path="include/agpeya/psalms/141"/>
+   <InsertDocument path="include/agpeya/psalms/145"/>
+   <InsertDocument path="include/agpeya/psalms/146"/>
+   <InsertDocument path="include/agpeya/psalms/147"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <Section expanded="true">
+         <Title>
+            <Language id="English">
+               Gospel (Luke 12:32-46)
+            </Language>
+            <Language id="Arabic">
+               الإنجيل لمعلمنا لوقا ص 12: 32- 46
+            </Language>
+         </Title>
+         
+         <Text>
+            <Language id="English">
+               “Do not fear, little flock, for it is your Father's good pleasure to give you the kingdom. Sell what you have, and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches, nor moth corrupts. For where your treasure is, there your heart will be also. Let your loins be girded, and your lamps burning. And you yourselves be like men who wait for their master, when he will return from the wedding, that when he comes and knocks, they may open to him immediately. Blessed are those servants, whom their master, when he comes will find them watching. Assuredly I say to you, that he shall gird himself, and have them sit down to eat, and will come and serve them. And if he shall come in the second watch, or come in the third watch, and finds them so, blessed are those servants. But know this, that if the master of the house had known what hour the thief would come, he would have watched, and not have allowed his house to be broken into. You therefore be ready also, for the Son of Man is coming at an hour when you do not think.”
+            </Language>
+            <Language id="Arabic">
+               لا تخف أيها القطيع الصغير، فإن أباكم قد سر أن يعطيكم الملكوت. بيعوا أمتعتكم وأعطوا صدقة، واصنعوا لكم أكياسا لا تبلى، وكنزا في السموات لا يفنى، حيث لا يدنو منه سارق ولا يفسده سوس. لأنه حيث يكون كنزكم، هناك يكون قلبكم أيضا. لتكن أحقاؤكم ممنطقة ومصابيحكم موقدة وأنتم أيضا تشبهون أناسا ينتظرون سيدهم، متى يرجع من العرس، حتى إذا جاء وقرع يفتحون له للوقت. طوبى لأولئك العبيد الذين إذا جاء سيدهم يجدهم ساهرين. الحق أقول لكم إنه يتمنطق ويتكئهم ويقوم فيخدمهم. وإذا جاء في الهزيع الثاني أو جاء في الهزيع الثالث ووجدهم يصنعون هكذا، فطوبى لأولئك العبيد. وهذا اعلموه: أنه لو كان رب البيت يعلم في أية ساعة يأتي السارق، لكان يسهر ولا يدع بيته يُنقب. فكونوا أنتم أيضا مستعدين. فإنه في ساعة لا تعرفونها يأتي ابن الإنسان.
+            </Language>
+         </Text>
+               
+         <Text>
+            <Language id="English">
+               Then Peter said to Him, “Lord, do you speak this parable only to us, or to all people?” And the Lord said, “Who then is that faithful and wise steward, whom his master will make ruler over his household, to give them their portion of food in due season? Blessed is that servant, whom his master when he comes will find so doing. Truly I say to you, that he will make him ruler over all that he has. But if that servant says in his heart, `My master is delaying his coming,' and begins to beat the menservants and maidens, and to eat and drink, and be drunk, the master of that servant will come in a day when he is not looking for him, and at an hour when he is not aware, and will cut him in two, and appoint him his portion with the unbelievers.”
+            </Language>
+            <Language id="Arabic">
+               فقال له بطرس: يا رب ألنا قلتَ هذا أم قلته للجميع ؟ فقال الرب: من هو الوكيل الأمين الحكيم الذي يقيمه سيده على عبيده ليعطيهم طعامهم في حينه ؟ طوبى لذلك العبد الذي إذا جاء سيده يجده يفعل هكذا. حقا أقول لكم إنه يقيمه على جميع أمواله. ولكن إن قال ذلك العبد الرديء في قلبه إن سيدي يبطئ في قدومه، فيبدأ يضرب العبيد والإماء ويأكل ويشرب ويسكر، يأتي سيد ذلك العبد في اليوم الذي لا يتوقعه وفي الساعة التي لا يعرفها، فيشقه من وسطه، ويجعل نصيبه مع عديمي الإيمان.
+            </Language>
+         </Text>
+      </Section>
+   </Role>
+   
+   <InsertDocument path="include/agpeya/GospelConclusion"/>
+   
+   <Section expanded="true">
+      <Title>
+         <Language id="English">Litanies</Language>
+         <Language id="Arabic">طلبة</Language>
+      </Title>
+         
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               1. With a compassionate eye, O Lord, look at my weakness, for shortly my life will end, and in my deeds I shall have no salvation. Therefore, I beseech You, O Lord, with a merciful eye look at my weakness, my humility, my poverty and my sojourn, and save me.
+            </Language>
+            <Language id="Arabic">
+               1. بعين متحننة يا رب انظر إلى ضعفى، فعما قليل تفنى حياتي، وبأعمالي ليس لي خلاص. فلهذا أسال: بعين رحيمة يا رب انظر إلى ضعفى وذلي ومسكنتي وغربتي، ونجني
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/DoxaPatri"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               2. As the Judge is present, take heed, O my soul, awake and consider that awesome hour, for in the day of judgment, there will be no mercy on those who were not merciful. Therefore, have compassion on me, O Savior, for You alone are the Lover of Mankind.
+            </Language>
+            <Language id="Arabic">
+               2. بما أن الديان حاضر، اهتمي يا نفسي وتيقظي وتفهمي تلك الساعة المخوفة. فإنه ليس رحمة في الدينونة لمن لم يستعمل الرحمة. فلهذا أشفق عليّ أيها المخلص، فإنك أنت هو محب البشر وحدك
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      
+      <Role id="Reader">
+         <Text>
+            <Language id="English">
+               3. O the reasonable gate of life, the honored Mother of God (Theotokos), deliver from hardships those who, in faith, take refuge in you, so that we might glorify your immaculate birth of Christ for the salvation of our souls.
+            </Language>
+            <Language id="Arabic">
+               3. يا باب الحياة العقلي، يا والدة الإله المكرمة، خلصي الذين التجأوا إليك بإيمان من الشدائد، لكي نمجد ميلادك (للمسيح) الطاهر في كل شئ من أجل خلاص نفوسنا.
+            </Language>
+         </Text>
+      </Role>
+            
+      <InsertDocument path="include/agpeya/KeNin"/>
+      <InsertDocument path="include/agpeya/OHeavenlyKing"/>
+   </Section>
+
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Role id="Introduction">
+      <Text>
+         <Language id="English">
+            Holy, Holy, Holy. A passage from the Holy Gospel according to Saint Luke, may his blessings be with us all. Amen.
+         </Language>
+         <Language id="Arabic">
+            قدوس، قدوس، قدوس، فصل من بشارة الإنجيل لمعلمنا مار لوقا البشير بركته علي جميعنا أمين.
+         </Language>
+      </Text>
+   </Role>
+   
+   <Role id="Reader">
+      <BibleReference reference="Luke 2:29-32" type="section" hideIntro="true"/>
+   </Role>
+         
+   <InsertDocument path="include/MayTheSayingsOfGod"/>
+   <InsertDocument path="include/agpeya/IntroductionToCreed"/>
+   <InsertDocument path="include/Creed"/>
+   <InsertDocument path="include/agpeya/LordHaveMercy"/>
+   
+   <Section expanded="true">      
+      <Title>
+         <Language id="English">
+            Absolution
+         </Language>
+         <Language id="Arabic">
+            التحليل
+         </Language>
+      </Title>
+            
+      <Text>
+         <Language id="English">
+            O Lord and Master, Jesus Christ, the Living and Eternal Son of God, enlighten our minds to understand Your life-giving words. Raise us up from the darkness of sin which ruins the soul.
+         </Language>
+         <Language id="Arabic">
+            أيها السيد الرب يسوع المسيح، ابن الله الحي الأزلي، أنر عقولنا لنفهم أقوالك المحيية. وأنهضنا من ظلمة الخطية القاتلة للنفس.
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            Make us worthy to become upright in good deeds. At the time of Your coming to judge the world, make us worthy of hearing that voice full of joy saying, “Come to Me you blessed of My Father, inherit the Kingdom prepared for you before the foundation of the world.”
+         </Language>
+         <Language id="Arabic">
+            واجعلنا أهلا أن نكون مستقيمين في عمل الخير. وفى وقت مجيئك لتدين العالم، فلنستحق سماع ذلك الصوت المملوء فرحا، القائل: تعالوا إلى يا مبارَكي أبى، رثوا الملك المعد لكم من قبل إنشاء العالم. نعم يا رب،
+         </Language>
+      </Text>
+       
+      <Text>
+         <Language id="English">
+            Yes, Lord, grant us in that Hour to be without fear, anxiety or condemnation; and do not judge us according to our many iniquities. For You alone are compassionate, longsuffering and exceedingly merciful.
+         </Language>
+         <Language id="Arabic">
+            سهل لنا أن نكون في تلك الساعة بغير خوف ولا اضطراب ولا سقوط في الدينونة. ولا تجازنا من أجل كثرة آثامنا، لأنك وحدك المتحنن الطويل الأناة الكثير الرحمة،
+         </Language>
+      </Text>
+            
+      <Text>
+         <Language id="English">
+            We ask this, through the intercession of our Lady, the Mother of God (Theotokos), Saint Mary, and the intercession of all the choir of Your saints. Amen.
+         </Language>
+         <Language id="Arabic">
+            بشفاعة سيدتنا والدة الإله القديسة مريم، وشفاعة جميع مصاف قديسيك. أمين.
+         </Language>
+      </Text>
+   </Section>      
+   
+   <InsertDocument path="include/agpeya/Conclusion"/>
+</Document>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="KoiahkSeason">
+      <Text>
+         <Language id="Coptic">
+            Pimici e~bol qen v~iwt: qajwou n~nie~wn t/rou:
+         </Language>
+         <Language id="English">
+            The begotten of the Father, before all ages
+         </Language>
+         <Language id="Arabic">
+            المولود من الاب قبل كل الدهور
+         </Language>
+      </Text>         
+   </Season>
+</Document>

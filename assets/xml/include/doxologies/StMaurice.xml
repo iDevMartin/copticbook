@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="StMaurice:Doxology">
+      <Section expanded="true" antiphonePitch="1">
+         <Title>
+            <Language id="English">Doxology for St. Maurice</Language>
+            <Language id="Arabic">ذوكصولوجية القديس موريس</Language>
+            <Language id="Coptic">Mour/c pijwri...</Language>
+         </Title>
+         
+         <Comment>
+            <Language id="English">
+               For the Commemoration of St. Maurice:
+            </Language>
+         </Comment>
+          
+         <Text>
+            <Language id="Coptic">
+               Mour/c pijwri m~marturoc: piswij m~m/i qen nibwtc: pianjwj n~nimatoi: n~te ]parabol/ n~remn~tiba. 
+            </Language>
+            <Language id="English">
+               Maurice the strong martyr, truly brave in the wars, the head of the soldiers, of the Theban legion.
+            </Language>
+            <Language id="Arabic">
+               موريس الشهيد القوي،  الشجاع في الحروب،  رئيس الستمائة والستين جندياً،  للكتيبة الطيبية.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Ouran  n~sousou pe pekran: w~ v/eyouab Mour/c n~tan: Maximianoc piouro: afrasi je e~tak[~ro.
+            </Language>
+            <Language id="English">
+               A name of pride is your name, O our Saint Maurice, King Maximianos was delighted, in your victory.
+            </Language>
+            <Language id="Arabic">
+               إسمك إسم فخر،  يا قديس موريس،  يا من أبهجت الملك مكسيميانوس،  بإنتصاراتك.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Umnologia niben: cetwmi e~rok n~c/ou niben: je akhip~ho m~p~ouro ethoou: ouoh akermeyre qa v~nou]. 
+            </Language>
+            <Language id="English">
+               All glory is due to you, at all times, for you have opposed the evil king, and bore witness to the God of glory.
+            </Language>
+            <Language id="Arabic">
+               لك كل التمجيد،  في كل الأوقات، لأنك تصديت للملك الشرير، وشهدت لإله المجد.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Rasi  Mour/c ouoh yel/l: w~ pimenrit n~Emmanou/l: je aksasni n~ounis] n~h~mot: w~ peniwt eyouab etenhot. 
+            </Language>
+            <Language id="English">
+               Be joyful Maurice and delight, O beloved of Emmanuel, for you have received great grace, O honest father and saint.
+            </Language>
+            <Language id="Arabic">
+               إفرح وإبتهج يا موريس،  حبيب عمانوئيل،  لأنك وجدت نعمة،  أيها القديس والأب الأمين.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               ?ppe ic nikematoi: n/etau[im~kah nemak: au[i on m~pi,~lom n~aylwm: qen ]prompi c~nau se pic~tau. 
+            </Language>
+            <Language id="English">
+               Behold your soldiers also, who suffered with you, have receive unfading crowns, in the year two-hundred-ninety.
+            </Language>
+            <Language id="Arabic">
+               وأيضاً جنودك،  الذين تألموا معك، حصلوا علي أكاليل لا تضمحل، سنة مائتان وتسعين ميلادية.
+            </Language>
+         </Text>
+            
+         <Text>
+            <Language id="Coptic">
+               Cwten e~ t~c~m/ eymeh n~rasi: n~te Pen[oic I/couc Pennou]: je a~mou e~qoun e~v~rasi: n~te pek[oic n~refnas].
+            </Language>
+            <Language id="English">
+               Listen to the voice full of joy, of our Lord Jesus our God, saying enter into the joy, of your Lord Giver of victory.
+            </Language>
+            <Language id="Arabic">
+               إسمع صوت الفرح،  لربنا يسوع المسيح،  قائلاً إدخل الي فرح سيدك،  معطي النصرة.
+            </Language>
+         </Text>
+         
+         <Text>
+            <Language id="Coptic">
+               &lt;ere nak w~ pimarturoc: ,ere piswij n~genneoc: ,ere piaylovoroc: abba Mour/c n~te Tiba. 
+            </Language>
+            <Language id="English">
+               Hail to you  O martyr: Hail to the courageous hero: Hail to the struggle-bearer: Saint Maurice the Theban.
+            </Language>
+            <Language id="Arabic">
+               السلام لك أيها الشهيد، السلام للبطـل الشجاع، السلام للابس الجهاد، القديس آفا موريس.
+            </Language>
+         </Text>
+         
+         <InsertDocument path="include/doxologies/conclusions/StMaurice"/>
+      </Section>
+   </Season>
+</Document>

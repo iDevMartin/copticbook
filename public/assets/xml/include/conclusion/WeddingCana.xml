@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Document xmlns="http://book.copticlingo.com/">
+   <Season id="WeddingCana">
+      <Comment>
+         <Language id="English">
+            On the Feast of the Wedding of Cana at Galilee:
+         </Language>
+      </Comment> 
+      
+      <Text>
+         <Language id="Coptic">
+            Ps/ri m~V] afc~mou e~nimwou afaitou n~/rp: Cw] m~mon ouoh nai nan.
+         </Language>
+         <Language id="English">
+            The Son of God blessed the water and converted it to wine. Save us and have mercy on us.
+         </Language>
+         <Language id="Arabic">
+            ابن الله بارك المياه فصيرها خمرا. خَلِّصْنا وارحَمْنا.ً
+         </Language>
+      </Text>
+   </Season>
+</Document>
