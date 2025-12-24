@@ -33,7 +33,7 @@ export class DatabaseService {
         });
 
         // Load the database file
-        const response = await fetch('http://localhost:8082/assets/databases/bible_psalms.db');
+        const response = await fetch('/assets/databases/bible_psalms.db');
         const arrayBuffer = await response.arrayBuffer();
         const uint8Array = new Uint8Array(arrayBuffer);
 
