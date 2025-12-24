@@ -40,8 +40,5 @@
     "@types/react": "~18.3.12",
     "typescript": "^5.3.0"
   },
-  "engines": {
-    "node": "24.x"
-  },
   "private": true
 }
