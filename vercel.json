@@ -2,6 +2,7 @@
   "buildCommand": "expo export -p web",
   "outputDirectory": "dist",
   "framework": null,
+  "installCommand": "npm install --legacy-peer-deps",
   "rewrites": [
     {
       "source": "/(.*)",
