@@ -44,17 +44,21 @@ export default function App() {
       try {
         // Load Coptic fonts for web
         if (Platform.OS === 'web' && typeof document !== 'undefined') {
+          // In development, use static server on port 8082. In production, use relative path.
+          const isDevelopment = window.location.hostname === 'localhost';
+          const baseUrl = isDevelopment ? 'http://localhost:8082' : '';
+
           const style = document.createElement('style');
           style.textContent = `
             @font-face {
               font-family: 'Coptic';
-              src: url('/assets/fonts/Coptic.ttf') format('truetype');
+              src: url('${baseUrl}/assets/fonts/Coptic.ttf') format('truetype');
               font-weight: normal;
               font-style: normal;
             }
             @font-face {
               font-family: 'CS New Athanasius';
-              src: url('/assets/fonts/CS New Athanasius.ttf') format('truetype');
+              src: url('${baseUrl}/assets/fonts/CS New Athanasius.ttf') format('truetype');
               font-weight: normal;
               font-style: normal;
             }

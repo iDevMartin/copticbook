@@ -126,8 +126,10 @@ export class CopticXMLParser {
 
   private async loadXMLFile(filePath: string): Promise<string> {
     try {
-      // Load from relative path (works for both dev and production)
-      const url = `/${filePath}`;
+      // In development, use static server on port 8082. In production, use relative path.
+      const isDevelopment = typeof window !== 'undefined' && window.location.hostname === 'localhost';
+      const baseUrl = isDevelopment ? 'http://localhost:8082' : '';
+      const url = `${baseUrl}/${filePath}`;
 
       console.log(`Loading XML file from: ${url}`);
 

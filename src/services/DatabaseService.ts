@@ -33,7 +33,12 @@ export class DatabaseService {
         });
 
         // Load the database file
-        const response = await fetch('/assets/databases/bible_psalms.db');
+        // In development, use static server on port 8082. In production, use relative path.
+        const isDevelopment = window.location.hostname === 'localhost';
+        const dbUrl = isDevelopment
+          ? 'http://localhost:8082/assets/databases/bible_psalms.db'
+          : '/assets/databases/bible_psalms.db';
+        const response = await fetch(dbUrl);
         const arrayBuffer = await response.arrayBuffer();
         const uint8Array = new Uint8Array(arrayBuffer);
 
