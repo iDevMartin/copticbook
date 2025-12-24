@@ -8,7 +8,9 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "node static-server.js & expo start --web",
-    "static-server": "node static-server.js"
+    "static-server": "node static-server.js",
+    "build": "expo export -p web && node copy-assets.js",
+    "vercel-build": "expo export -p web && node copy-assets.js"
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",

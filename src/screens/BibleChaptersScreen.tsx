@@ -6,10 +6,12 @@ import {
   FlatList,
   StyleSheet,
   useWindowDimensions,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList } from '@/types';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type BibleChaptersScreenNavigationProp = StackNavigationProp<RootStackParamList, 'BibleChapters'>;
 type BibleChaptersScreenRouteProp = RouteProp<RootStackParamList, 'BibleChapters'>;
@@ -45,17 +47,24 @@ export const BibleChaptersScreen: React.FC<Props> = ({ navigation, route }) => {
   }, [width]);
 
   useEffect(() => {
-    // Add settings button to header
-    navigation.setOptions({
-      headerRight: () => (
-        <TouchableOpacity
-          style={styles.headerButton}
-          onPress={() => navigation.navigate('Settings')}
-        >
-          <Text style={styles.headerButtonText}>⚙</Text>
-        </TouchableOpacity>
-      ),
-    });
+    // Hide React Navigation header on web, use custom header instead
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    } else {
+      // Add settings button to header on mobile
+      navigation.setOptions({
+        headerRight: () => (
+          <TouchableOpacity
+            style={styles.headerButton}
+            onPress={() => navigation.navigate('Settings')}
+          >
+            <Text style={styles.headerButtonText}>⚙</Text>
+          </TouchableOpacity>
+        ),
+      });
+    }
   }, [navigation]);
 
   const handleChapterPress = (chapter: number) => {
@@ -83,6 +92,14 @@ export const BibleChaptersScreen: React.FC<Props> = ({ navigation, route }) => {
 
   return (
     <View style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title={bookName}
+          navigation={navigation}
+          showBack={true}
+          showSettings={true}
+        />
+      )}
       <FlatList
         key={numColumns} // Force re-render when columns change
         data={chapters}

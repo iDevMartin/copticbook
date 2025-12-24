@@ -7,6 +7,7 @@ import {
   StyleSheet,
   Alert,
   ActivityIndicator,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
@@ -14,6 +15,7 @@ import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList, CopticContent } from '@/types';
 import { CopticXMLParser } from '@/services/CopticXMLParser';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type ReadContentScreenNavigationProp = StackNavigationProp<RootStackParamList, 'ReadContent'>;
 type ReadContentScreenRouteProp = RouteProp<RootStackParamList, 'ReadContent'>;
@@ -34,17 +36,24 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
   useEffect(() => {
     loadContent();
 
-    // Add settings button to header
-    navigation.setOptions({
-      headerRight: () => (
-        <TouchableOpacity
-          style={styles.headerButton}
-          onPress={() => navigation.navigate('Settings')}
-        >
-          <Text style={styles.headerButtonText}>⚙</Text>
-        </TouchableOpacity>
-      ),
-    });
+    // Hide React Navigation header on web, use custom header instead
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    } else {
+      // Add settings button to header on mobile
+      navigation.setOptions({
+        headerRight: () => (
+          <TouchableOpacity
+            style={styles.headerButton}
+            onPress={() => navigation.navigate('Settings')}
+          >
+            <Text style={styles.headerButtonText}>⚙</Text>
+          </TouchableOpacity>
+        ),
+      });
+    }
   }, [fileName, readerType, navigation]);
 
   useEffect(() => {
@@ -336,6 +345,14 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
 
   return (
     <View style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title={title}
+          navigation={navigation}
+          showBack={true}
+          showSettings={true}
+        />
+      )}
       <FlatList
         data={content}
         renderItem={renderContentItem}

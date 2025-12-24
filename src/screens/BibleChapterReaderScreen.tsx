@@ -7,6 +7,7 @@ import {
   Alert,
   ActivityIndicator,
   TouchableOpacity,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp } from '@react-navigation/native';
@@ -14,6 +15,7 @@ import { RouteProp } from '@react-navigation/native';
 import { RootStackParamList, BibleVerse } from '@/types';
 import { DatabaseService } from '@/services/DatabaseService';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type BibleChapterReaderScreenNavigationProp = StackNavigationProp<RootStackParamList, 'BibleChapterReader'>;
 type BibleChapterReaderScreenRouteProp = RouteProp<RootStackParamList, 'BibleChapterReader'>;
@@ -34,17 +36,24 @@ export const BibleChapterReaderScreen: React.FC<Props> = ({ navigation, route })
   useEffect(() => {
     loadChapter();
 
-    // Add settings button to header
-    navigation.setOptions({
-      headerRight: () => (
-        <TouchableOpacity
-          style={styles.headerButton}
-          onPress={() => navigation.navigate('Settings')}
-        >
-          <Text style={styles.headerButtonText}>⚙</Text>
-        </TouchableOpacity>
-      ),
-    });
+    // Hide React Navigation header on web, use custom header instead
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    } else {
+      // Add settings button to header on mobile
+      navigation.setOptions({
+        headerRight: () => (
+          <TouchableOpacity
+            style={styles.headerButton}
+            onPress={() => navigation.navigate('Settings')}
+          >
+            <Text style={styles.headerButtonText}>⚙</Text>
+          </TouchableOpacity>
+        ),
+      });
+    }
 
     const handleSettingsChange = () => {
       // Trigger re-render when settings change using functional update to avoid stale closure
@@ -191,6 +200,14 @@ export const BibleChapterReaderScreen: React.FC<Props> = ({ navigation, route })
 
   return (
     <View style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title={`${bookName} ${chapter}`}
+          navigation={navigation}
+          showBack={true}
+          showSettings={true}
+        />
+      )}
       <FlatList
         data={verses}
         renderItem={renderVerse}

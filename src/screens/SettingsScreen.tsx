@@ -9,12 +9,14 @@ import {
   Switch,
   Modal,
   TextInput,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { useFocusEffect } from '@react-navigation/native';
 
 import { RootStackParamList, LiturgicalInfo, CopticLanguage, ColorTheme, SilentRoleStyle } from '@/types';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type SettingsScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Settings'>;
 
@@ -54,6 +56,15 @@ export const SettingsScreen: React.FC<Props> = ({ navigation }) => {
       settings.removeChangeListener(handleSettingsChange);
     };
   }, []);
+
+  useEffect(() => {
+    // Hide React Navigation header on web, use custom header instead
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    }
+  }, [navigation]);
 
   const loadSettings = () => {
     setFontSize(settings.fontSize);
@@ -151,6 +162,14 @@ export const SettingsScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title="Settings"
+          navigation={navigation}
+          showBack={true}
+          showSettings={false}
+        />
+      )}
       <ScrollView
         contentContainerStyle={styles.scrollContent}
         showsVerticalScrollIndicator={false}

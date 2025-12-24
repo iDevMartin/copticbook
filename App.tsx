@@ -48,46 +48,15 @@ export default function App() {
           style.textContent = `
             @font-face {
               font-family: 'Coptic';
-              src: url('http://localhost:8082/assets/fonts/Coptic.ttf') format('truetype');
+              src: url('/assets/fonts/Coptic.ttf') format('truetype');
               font-weight: normal;
               font-style: normal;
             }
             @font-face {
               font-family: 'CS New Athanasius';
-              src: url('http://localhost:8082/assets/fonts/CS New Athanasius.ttf') format('truetype');
+              src: url('/assets/fonts/CS New Athanasius.ttf') format('truetype');
               font-weight: normal;
               font-style: normal;
-            }
-            /* Fix navigation structure for proper scrolling */
-            html, body {
-              height: 100%;
-              overflow: hidden;
-              margin: 0;
-              padding: 0;
-            }
-            #root {
-              height: 100%;
-              display: flex;
-              flex-direction: column;
-            }
-            /* Ensure React Navigation container fills height */
-            #root > div {
-              height: 100%;
-              display: flex;
-              flex-direction: column;
-            }
-            /* Target React Navigation web structure */
-            #root > div > div {
-              height: 100%;
-              display: flex;
-              flex-direction: column;
-            }
-            /* Make screen content scrollable */
-            #root > div > div > div:last-child {
-              flex: 1;
-              overflow-y: auto;
-              overflow-x: hidden;
-              -webkit-overflow-scrolling: touch;
             }
           `;
           document.head.appendChild(style);

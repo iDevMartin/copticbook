@@ -9,12 +9,14 @@ import {
   SafeAreaView,
   Modal,
   TextInput,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 
 import { RootStackParamList, LiturgicalInfo } from '@/types';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
 import { DatabaseService } from '@/services/DatabaseService';
+import { MainMenuHeader } from '@/components/MainMenuHeader';
 
 type MainMenuScreenNavigationProp = StackNavigationProp<RootStackParamList, 'MainMenu'>;
 
@@ -174,24 +176,41 @@ export const MainMenuScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <SafeAreaView style={styles.container}>
-      <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
-        {/* Title */}
-        <Text style={styles.title}>CopticBook</Text>
+      {Platform.OS === 'web' && (
+        <MainMenuHeader
+          liturgicalInfo={liturgicalInfo}
+          onDatePress={handleDateContainerPress}
+        />
+      )}
+      <ScrollView
+        contentContainerStyle={[
+          styles.scrollContent,
+          Platform.OS === 'web' && styles.scrollContentWeb
+        ]}
+        showsVerticalScrollIndicator={false}
+      >
+        {/* Show title and date only on mobile */}
+        {Platform.OS !== 'web' && (
+          <>
+            {/* Title */}
+            <Text style={styles.title}>CopticBook</Text>
 
-        {/* Date and Season Display */}
-        <TouchableOpacity style={styles.dateSeasonContainer} onPress={handleDateContainerPress}>
-          <Text style={styles.copticDateLabel}>{liturgicalInfo.copticDate}</Text>
-          <Text style={styles.seasonLabel}>{liturgicalInfo.season}</Text>
-          <Text style={[
-            styles.simulationIndicator,
-            { color: liturgicalInfo.isSimulating ? '#FF9900' : '#33CC33' }
-          ]}>
-            {liturgicalInfo.isSimulating ? '📅 Custom Date' : 'Live'}
-          </Text>
-        </TouchableOpacity>
+            {/* Date and Season Display */}
+            <TouchableOpacity style={styles.dateSeasonContainer} onPress={handleDateContainerPress}>
+              <Text style={styles.copticDateLabel}>{liturgicalInfo.copticDate}</Text>
+              <Text style={styles.seasonLabel}>{liturgicalInfo.season}</Text>
+              <Text style={[
+                styles.simulationIndicator,
+                { color: liturgicalInfo.isSimulating ? '#FF9900' : '#33CC33' }
+              ]}>
+                {liturgicalInfo.isSimulating ? '📅 Custom Date' : 'Live'}
+              </Text>
+            </TouchableOpacity>
 
-        {/* Separator */}
-        <View style={styles.separator} />
+            {/* Separator */}
+            <View style={styles.separator} />
+          </>
+        )}
 
         {/* Menu Buttons */}
         <View style={styles.menuContainer}>
@@ -293,6 +312,9 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingTop: 20,
     paddingBottom: 20,
+  },
+  scrollContentWeb: {
+    paddingTop: 10, // Reduced padding on web since header is separate
   },
   title: {
     fontSize: 52,

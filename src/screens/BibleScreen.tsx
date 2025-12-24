@@ -7,12 +7,14 @@ import {
   StyleSheet,
   Alert,
   ActivityIndicator,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 
 import { RootStackParamList, Book } from '@/types';
 import { DatabaseService } from '@/services/DatabaseService';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type BibleScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Bible'>;
 
@@ -29,18 +31,25 @@ export const BibleScreen: React.FC<Props> = ({ navigation }) => {
 
   useEffect(() => {
     loadBibleBooks();
-    
-    // Add settings button to header
-    navigation.setOptions({
-      headerRight: () => (
-        <TouchableOpacity
-          style={styles.headerButton}
-          onPress={() => navigation.navigate('Settings')}
-        >
-          <Text style={styles.headerButtonText}>⚙</Text>
-        </TouchableOpacity>
-      ),
-    });
+
+    // Hide React Navigation header on web, use custom header instead
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    } else {
+      // Add settings button to header on mobile
+      navigation.setOptions({
+        headerRight: () => (
+          <TouchableOpacity
+            style={styles.headerButton}
+            onPress={() => navigation.navigate('Settings')}
+          >
+            <Text style={styles.headerButtonText}>⚙</Text>
+          </TouchableOpacity>
+        ),
+      });
+    }
   }, [navigation]);
 
   const loadBibleBooks = async () => {
@@ -91,6 +100,14 @@ export const BibleScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title="Bible"
+          navigation={navigation}
+          showBack={true}
+          showSettings={true}
+        />
+      )}
       <FlatList
         data={books}
         renderItem={renderBookItem}

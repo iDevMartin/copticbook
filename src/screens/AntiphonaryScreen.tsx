@@ -6,9 +6,11 @@ import {
   FlatList,
   StyleSheet,
   SafeAreaView,
+  Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RootStackParamList } from '@/types';
+import { FixedHeader } from '@/components/FixedHeader';
 
 type AntiphonaryScreenNavigationProp = StackNavigationProp<RootStackParamList, 'Antiphonary'>;
 
@@ -39,26 +41,32 @@ const antiphonaryFiles = [
 
 export const AntiphonaryScreen: React.FC<Props> = ({ navigation }) => {
   useLayoutEffect(() => {
-    navigation.setOptions({
-      title: 'Antiphonary',
-      headerStyle: {
-        backgroundColor: '#000000',
-      },
-      headerTintColor: '#FFFFFF',
-      headerTitleStyle: {
-        fontWeight: '300',
-        fontSize: 18,
-      },
-      headerRight: () => (
-        <TouchableOpacity
-          style={styles.settingsButton}
-          onPress={() => navigation.navigate('Settings')}
-          activeOpacity={0.7}
-        >
-          <Text style={styles.settingsButtonText}>⚙</Text>
-        </TouchableOpacity>
-      ),
-    });
+    if (Platform.OS === 'web') {
+      navigation.setOptions({
+        headerShown: false,
+      });
+    } else {
+      navigation.setOptions({
+        title: 'Antiphonary',
+        headerStyle: {
+          backgroundColor: '#000000',
+        },
+        headerTintColor: '#FFFFFF',
+        headerTitleStyle: {
+          fontWeight: '300',
+          fontSize: 18,
+        },
+        headerRight: () => (
+          <TouchableOpacity
+            style={styles.settingsButton}
+            onPress={() => navigation.navigate('Settings')}
+            activeOpacity={0.7}
+          >
+            <Text style={styles.settingsButtonText}>⚙</Text>
+          </TouchableOpacity>
+        ),
+      });
+    }
   }, [navigation]);
 
   const handleFilePress = (fileName: string) => {
@@ -81,6 +89,14 @@ export const AntiphonaryScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <SafeAreaView style={styles.container}>
+      {Platform.OS === 'web' && (
+        <FixedHeader
+          title="Antiphonary"
+          navigation={navigation}
+          showBack={true}
+          showSettings={true}
+        />
+      )}
       <FlatList
         data={antiphonaryFiles}
         renderItem={renderFileItem}
