@@ -50,6 +50,10 @@ export default function App() {
 
           const style = document.createElement('style');
           style.textContent = `
+            html, body, #root {
+              height: 100%;
+              overflow: auto;
+            }
             @font-face {
               font-family: 'Coptic';
               src: url('${baseUrl}/assets/fonts/Coptic.ttf') format('truetype');
