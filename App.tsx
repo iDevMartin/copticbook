@@ -53,6 +53,9 @@ export default function App() {
             html, body, #root {
               height: 100%;
               overflow: auto;
+              background-color: #000000;
+              margin: 0;
+              padding: 0;
             }
             @font-face {
               font-family: 'Coptic';
@@ -68,6 +71,15 @@ export default function App() {
             }
           `;
           document.head.appendChild(style);
+
+          // Set theme-color meta tag for iOS Safari toolbar/notch area
+          let themeColorMeta = document.querySelector('meta[name="theme-color"]');
+          if (!themeColorMeta) {
+            themeColorMeta = document.createElement('meta');
+            themeColorMeta.setAttribute('name', 'theme-color');
+            document.head.appendChild(themeColorMeta);
+          }
+          themeColorMeta.setAttribute('content', '#000000');
         }
 
         // Initialize settings from storage
