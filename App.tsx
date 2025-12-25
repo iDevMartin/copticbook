@@ -80,6 +80,56 @@ export default function App() {
             document.head.appendChild(themeColorMeta);
           }
           themeColorMeta.setAttribute('content', '#000000');
+
+          // Add iOS home screen icons
+          const addAppleIcon = (sizes: string, href: string) => {
+            const link = document.createElement('link');
+            link.rel = 'apple-touch-icon';
+            link.sizes = sizes;
+            link.href = href;
+            document.head.appendChild(link);
+          };
+
+          // iOS home screen icons (various sizes)
+          addAppleIcon('180x180', `${baseUrl}/assets/icons/Icon-App-60x60@3x.png`); // iPhone 6 Plus and later
+          addAppleIcon('167x167', `${baseUrl}/assets/icons/Icon-App-83.5x83.5@2x.png`); // iPad Pro
+          addAppleIcon('152x152', `${baseUrl}/assets/icons/Icon-App-76x76@2x.png`); // iPad Retina
+          addAppleIcon('144x144', `${baseUrl}/assets/icons/Icon-App-72x72@2x.png`); // iPad Retina
+          addAppleIcon('120x120', `${baseUrl}/assets/icons/Icon-App-60x60@2x.png`); // iPhone Retina
+          addAppleIcon('114x114', `${baseUrl}/assets/icons/Icon-App-57x57@2x.png`); // iPhone 4
+          addAppleIcon('76x76', `${baseUrl}/assets/icons/Icon-App-76x76@1x.png`); // iPad
+          addAppleIcon('72x72', `${baseUrl}/assets/icons/Icon-App-72x72@1x.png`); // iPad
+          addAppleIcon('60x60', `${baseUrl}/assets/icons/Icon-App-60x60@1x.png`); // iPhone
+          addAppleIcon('57x57', `${baseUrl}/assets/icons/Icon-App-57x57@1x.png`); // iPhone
+
+          // Favicon for desktop browsers
+          const addFavicon = (rel: string, type: string, sizes: string, href: string) => {
+            const link = document.createElement('link');
+            link.rel = rel;
+            link.type = type;
+            link.sizes = sizes;
+            link.href = href;
+            document.head.appendChild(link);
+          };
+
+          addFavicon('icon', 'image/png', '180x180', `${baseUrl}/assets/icons/Icon-App-60x60@3x.png`);
+          addFavicon('icon', 'image/png', '120x120', `${baseUrl}/assets/icons/Icon-App-60x60@2x.png`);
+
+          // Web app manifest meta
+          const appleWebAppCapable = document.createElement('meta');
+          appleWebAppCapable.setAttribute('name', 'apple-mobile-web-app-capable');
+          appleWebAppCapable.setAttribute('content', 'yes');
+          document.head.appendChild(appleWebAppCapable);
+
+          const appleWebAppStatus = document.createElement('meta');
+          appleWebAppStatus.setAttribute('name', 'apple-mobile-web-app-status-bar-style');
+          appleWebAppStatus.setAttribute('content', 'black-translucent');
+          document.head.appendChild(appleWebAppStatus);
+
+          const appleWebAppTitle = document.createElement('meta');
+          appleWebAppTitle.setAttribute('name', 'apple-mobile-web-app-title');
+          appleWebAppTitle.setAttribute('content', 'CopticBook');
+          document.head.appendChild(appleWebAppTitle);
         }
 
         // Initialize settings from storage
