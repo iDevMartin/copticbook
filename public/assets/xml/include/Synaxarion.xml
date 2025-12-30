@@ -28,19 +28,19 @@
       
       <Season id="Other">
          <Comment>
-            <Language id="English">         
+            <Language id="English">
                The Synaxarion (chronicle of the saints) is read:
             </Language>
          </Comment>
-         
+
+         <!-- <InsertDocument path="readings/Synaxarion"/> -->
          <LinkDocument path="readings/Synaxarion">
             <Language id="English">
                Synaxarion
             </Language>
             <Language id="Arabic">
-               السنكسار
+               راسكنس لا
             </Language>
-         </LinkDocument>
       </Season>
     </Group>
 </Document>

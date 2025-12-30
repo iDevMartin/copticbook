@@ -127,14 +127,30 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
 
     if (item.type === 'LinkDocument' && item.linkPath) {
       // Navigate to linked content
+      // Parse the linkPath to extract readerType and fileName
+      // Example: "readings/Chanted Psalm" -> readerType: "readings", fileName: "Chanted Psalm"
       const pathComponents = item.linkPath.split('/');
-      const linkedFileName = pathComponents[pathComponents.length - 1];
-      const displayTitle = linkedFileName.replace('Content', '').trim() || item.linkPath;
-      
+
+      let linkedReaderType = readerType; // Default to current readerType
+      let linkedFileName = item.linkPath;
+
+      if (pathComponents.length >= 2) {
+        // First component is the reader type (e.g., "readings", "veneration")
+        linkedReaderType = pathComponents[0];
+        // Rest of the path is the file name
+        linkedFileName = pathComponents.slice(1).join('/');
+      } else {
+        // No slash, just a file name - use current readerType
+        linkedFileName = item.linkPath;
+      }
+
+      // Use the LinkDocument's language text as title if available, otherwise use fileName
+      const displayTitle = item.english || item.arabic || linkedFileName;
+
       navigation.push('ReadContent', {
         fileName: linkedFileName,
         title: displayTitle,
-        readerType: readerType
+        readerType: linkedReaderType
       });
     }
   };
@@ -145,9 +161,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
     const enabledLangs = settings.enabledLanguages;
 
     if (item.type === 'LinkDocument') {
-      const displayText = item.linkPath
-        ? item.linkPath.split('/').pop()?.replace('Content', '').trim() || 'Link Document'
-        : 'Link Document';
+      // Use the LinkDocument's language text as the display text
+      const displayText = item.english || item.arabic || item.coptic || 'Link Document';
 
       return (
         <TouchableOpacity

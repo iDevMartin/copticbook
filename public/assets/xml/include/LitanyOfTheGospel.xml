@@ -281,9 +281,9 @@
          </Section>
       </Season>
    </Group>
-   
-   <InsertDocument path="readings/Psalm and Gospel"/>         
-   
+
+   <InsertDocument path="readings/Liturgy Psalm and Gospel"/>
+
    <Role id="Priest" silent="true">
       <Comment>
          <Language id="English">

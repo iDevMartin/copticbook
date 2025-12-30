@@ -161,13 +161,40 @@ export class CopticLiturgicalCalendar {
   /**
    * Evaluate season condition for XML parsing
    */
-  public evaluateSeasonCondition(condition: string, documentContexts: { [key: string]: boolean } = {}): boolean {
-    const currentDate = new Date();
+  public evaluateSeasonCondition(condition: string, documentContexts: { [key: string]: boolean } = {}, date?: Date): boolean {
+    const currentDate = date || new Date();
     const currentSeason = this.getCurrentSeason(currentDate);
 
     console.log('DEBUG: evaluateSeasonCondition - condition:', condition);
     console.log('DEBUG: evaluateSeasonCondition - currentSeason:', currentSeason);
     console.log('DEBUG: evaluateSeasonCondition - documentContexts:', documentContexts);
+
+    // IMPORTANT: Check for OR operator FIRST before checking for date-based conditions
+    // This allows us to handle conditions like "Thoout.21 | Thoout.23" correctly
+    if (condition.includes('|')) {
+      const seasons = condition.split('|').map(s => s.trim());
+      // Recursively evaluate each season condition to handle date-based conditions
+      const result = seasons.some(season => this.evaluateSeasonCondition(season, documentContexts, date));
+      console.log('DEBUG: OR condition evaluated to:', result);
+      return result;
+    }
+
+    // Check if this is a date-based condition (e.g., "Thoout.1" for Synaxarion)
+    // Format: [MonthName].[DayNumber]
+    if (condition.includes('.')) {
+      const [monthName, dayStr] = condition.split('.');
+      const dayNumber = parseInt(dayStr, 10);
+
+      if (!isNaN(dayNumber)) {
+        // Get current Coptic date
+        const copticDate = this.gregorianToCoptic(currentDate);
+
+        // Compare with the condition
+        const matches = copticDate.copticMonth === monthName && copticDate.copticDay === dayNumber;
+        console.log('DEBUG: Date-based condition - copticMonth:', copticDate.copticMonth, 'copticDay:', copticDate.copticDay, 'matches:', matches);
+        return matches;
+      }
+    }
 
     // Special case: "Other" means "not any of the special seasons above"
     // In practice, this should match during regular fasting days and standard days
@@ -246,15 +273,10 @@ export class CopticLiturgicalCalendar {
       return result;
     }
 
-    if (condition.includes('|')) {
-      const seasons = condition.split('|').map(s => s.trim());
-      const result = seasons.some(season => currentSeason.includes(season));
-      console.log('DEBUG: OR condition evaluated to:', result);
-      return result;
-    }
-
-    const result = currentSeason.includes(condition);
-    console.log('DEBUG: Simple condition evaluated to:', result);
+    // Use exact matching to avoid false positives
+    // For example, "Nativity" should NOT match "Nativity Fast" - they are different seasons
+    const result = currentSeason === condition;
+    console.log('DEBUG: Simple condition evaluated to:', result, '(currentSeason:', currentSeason, 'condition:', condition, ')');
     return result;
   }
 

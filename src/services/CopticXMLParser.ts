@@ -45,6 +45,13 @@ export class CopticXMLParser {
     this.databaseService = DatabaseService.getInstance();
   }
 
+  // Helper to get the current date (respects simulated date)
+  private getCurrentDate(): Date {
+    return this.settings.isDateSimulationEnabled && this.settings.simulatedDate
+      ? this.settings.simulatedDate
+      : new Date();
+  }
+
   // Reset parser for new document
   public resetForNewDocument(): void {
     this.contentArray = [];
@@ -463,7 +470,13 @@ export class CopticXMLParser {
   }
 
   private async handleSectionElement(attributes: { [key: string]: string }): Promise<void> {
-    const isExpandedAttribute = attributes.expanded || 'true';
+    // If in a silent role, default to collapsed unless explicitly set to expanded
+    let defaultExpanded = 'true';
+    if (this.currentRoleIsSilent && !attributes.expanded) {
+      defaultExpanded = 'false';
+    }
+
+    const isExpandedAttribute = attributes.expanded || defaultExpanded;
     const isExpanded = isExpandedAttribute.toLowerCase() === 'true';
 
     // Create a new unique section ID using the counter
@@ -473,7 +486,7 @@ export class CopticXMLParser {
     this.currentCollapsibleSection = newSectionID;
     this.collapsibleSections[newSectionID] = isExpanded;
 
-    console.log('DEBUG: ***** SECTION STARTED - ID:', newSectionID, 'expanded:', isExpanded, 'at contentArray index:', this.contentArray.length);
+    console.log('DEBUG: ***** SECTION STARTED - ID:', newSectionID, 'expanded:', isExpanded, 'isSilentRole:', this.currentRoleIsSilent, 'at contentArray index:', this.contentArray.length);
   }
 
   private async handleLanguageElement(attributes: { [key: string]: string }): Promise<void> {
@@ -483,6 +496,11 @@ export class CopticXMLParser {
   }
 
   private async handleInsertDocumentElement(attributes: { [key: string]: string }): Promise<void> {
+    // Skip processing if we're in a non-matching season
+    if (this.skipContent) {
+      return;
+    }
+
     const path = attributes.path;
     if (path) {
       console.log('DEBUG: ===== Processing InsertDocument:', path, 'at contentArray index', this.contentArray.length, 'currentSection:', this.currentCollapsibleSection);
@@ -509,13 +527,50 @@ export class CopticXMLParser {
   }
 
   private async handleBibleReferenceElement(attributes: { [key: string]: string }): Promise<void> {
+    // Skip processing if we're in a non-matching season
+    if (this.skipContent) {
+      return;
+    }
+
     const reference = attributes.reference;
     if (reference) {
       const bibleContent = await this.fetchBibleReference(reference);
       if (bibleContent.length > 0) {
         this.createRoleHeaderIfNeeded(); // Create role header before adding content
+
+        // Create a collapsible section for this Bible reference
+        const sectionID = this.nextSectionID;
+        this.nextSectionID++;
+        this.collapsibleSections[sectionID] = true; // Start expanded
+
+        // Create section title with the reference
+        const sectionTitle: CopticContent = {
+          id: this.currentID,
+          section: this.currentSection,
+          type: 'Title',
+          english: reference,
+          isCollapsibleSection: true,
+          isExpanded: true,
+          belongsToSection: sectionID,
+          roleID: this.currentRole,
+          isRoleHeader: false,
+          isSilentRole: this.currentRoleIsSilent,
+          useHistory: true,
+          hasAttributedText: false
+        };
+
+        this.contentArray.push(sectionTitle);
+        this.sectionTitles[sectionID] = reference;
+        this.currentID++;
+
+        // Add bible content items, marking them as belonging to this section
         for (const content of bibleContent) {
+          content.id = this.currentID;
+          content.belongsToSection = sectionID;
+          content.roleID = this.currentRole;
+          content.isSilentRole = this.currentRoleIsSilent;
           this.contentArray.push(content);
+          this.currentID++;
         }
       }
     }
@@ -524,7 +579,7 @@ export class CopticXMLParser {
   private async handleSeasonElement(attributes: { [key: string]: string }): Promise<void> {
     const seasonCondition = attributes.id;
     if (seasonCondition) {
-      const shouldIncludeContent = this.liturgicalCalendar.evaluateSeasonCondition(seasonCondition, this.documentContexts);
+      const shouldIncludeContent = this.liturgicalCalendar.evaluateSeasonCondition(seasonCondition, this.documentContexts, this.getCurrentDate());
 
       console.log('DEBUG: Season START - condition:', seasonCondition);
       console.log('DEBUG: Document contexts:', this.documentContexts);
@@ -549,7 +604,7 @@ export class CopticXMLParser {
     if (forcedSeason) {
       // This would need more complex implementation to temporarily change context
       // For now, we'll treat it similar to Season but with higher priority
-      const shouldIncludeContent = this.liturgicalCalendar.evaluateSeasonCondition(forcedSeason, this.documentContexts);
+      const shouldIncludeContent = this.liturgicalCalendar.evaluateSeasonCondition(forcedSeason, this.documentContexts, this.getCurrentDate());
 
       this.seasonConditionStack.push(forcedSeason);
       if (!shouldIncludeContent) {
@@ -598,7 +653,7 @@ export class CopticXMLParser {
         } else {
           // Re-evaluate the remaining season conditions
           this.skipContent = !this.seasonConditionStack.every(condition =>
-            this.liturgicalCalendar.evaluateSeasonCondition(condition)
+            this.liturgicalCalendar.evaluateSeasonCondition(condition, this.documentContexts, this.getCurrentDate())
           );
           console.log('DEBUG: Stack not empty, re-evaluated skipContent to', this.skipContent);
         }
@@ -706,10 +761,18 @@ export class CopticXMLParser {
 
   private async resolveInsertDocument(path: string): Promise<CopticContent[]> {
     let resolvedPath = path;
-    if (!resolvedPath.startsWith('include/')) {
-      resolvedPath = `${this.basePath}/${path}`;
+
+    // Check if path already starts with a reader type directory (readings/, liturgies/, etc.)
+    // These paths are relative to assets/xml/ base directory
+    if (path.startsWith('readings/') || path.startsWith('liturgies/') || path.startsWith('agpeya/')) {
+      // Use the path as-is from assets/xml base
+      resolvedPath = `assets/xml/${path}`;
+    } else if (path.startsWith('include/')) {
+      // include/ paths always point to the global assets/xml/include/ directory
+      resolvedPath = `assets/xml/${path}`;
     } else {
-      resolvedPath = `${this.basePath}/../${path}`;
+      // Path is relative to current basePath
+      resolvedPath = `${this.basePath}/${path}`;
     }
 
     try {

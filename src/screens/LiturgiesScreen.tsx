@@ -1,4 +1,4 @@
-import React, { useLayoutEffect } from 'react';
+import React, { useLayoutEffect, useState } from 'react';
 import {
   View,
   Text,
@@ -18,16 +18,43 @@ interface Props {
   navigation: LiturgiesScreenNavigationProp;
 }
 
-const liturgiesFiles = [
-  { name: 'St Basil - Offering of the Lamb', path: 'basil/Offering of the Lamb' },
-  { name: 'St Basil - Liturgy of the Word', path: 'basil/Liturgy of the Word' },
-  { name: 'St Basil - Liturgy of the Faithful', path: 'basil/Liturgy of the Faithful' },
-  { name: 'St Basil - Distribution', path: 'basil/Distribution of the Holy Mysteries' },
-  { name: 'St Gregory Liturgy', path: 'St Gregory Liturgy' },
-  { name: 'Standard Fractions', path: 'Standard Fractions' },
+type MenuItem = {
+  title: string;
+  path?: string;
+  submenu?: string;
+};
+
+const mainMenuItems: MenuItem[] = [
+  { title: 'St. Basil', submenu: 'basil' },
+  { title: 'St. Gregory', submenu: 'gregory' },
+  { title: 'St. Cyril', submenu: 'cyril' },
+  { title: 'Matins', path: 'include/ProcessionOfIncense_Matins' },
+  { title: 'Vespers', path: 'include/ProcessionOfIncense_Vespers' },
+];
+
+const basilSubmenu: MenuItem[] = [
+  { title: 'Offering of the Lamb', path: 'basil/Offering of the Lamb' },
+  { title: 'Liturgy of the Word', path: 'basil/Liturgy of the Word' },
+  { title: 'Liturgy of the Faithful', path: 'basil/Liturgy of the Faithful' },
+  { title: 'Distribution', path: 'basil/Distribution of the Holy Mysteries' },
+];
+
+const gregorySubmenu: MenuItem[] = [
+  { title: 'Offering of the Lamb', path: 'gregory/Offering of the Lamb' },
+  { title: 'Liturgy of the Word', path: 'gregory/Liturgy of the Word' },
+  { title: 'Liturgy of the Faithful', path: 'gregory/Liturgy of the Faithful' },
+  { title: 'Distribution', path: 'gregory/Distribution of the Holy Mysteries' },
+];
+
+const cyrilSubmenu: MenuItem[] = [
+  { title: 'Offering of the Lamb', path: 'cyril/Offering of the Lamb' },
+  { title: 'Liturgy of the Word', path: 'cyril/Liturgy of the Word' },
+  { title: 'Liturgy of the Faithful', path: 'cyril/Liturgy of the Faithful' },
+  { title: 'Distribution', path: 'cyril/Distribution of the Holy Mysteries' },
 ];
 
 export const LiturgiesScreen: React.FC<Props> = ({ navigation }) => {
+  const [expandedSection, setExpandedSection] = useState<string | null>(null);
   useLayoutEffect(() => {
     if (Platform.OS === 'web') {
       navigation.setOptions({
@@ -57,23 +84,63 @@ export const LiturgiesScreen: React.FC<Props> = ({ navigation }) => {
     }
   }, [navigation]);
 
-  const handleFilePress = (fileName: string, displayName: string) => {
-    navigation.navigate('ReadContent', {
-      fileName: fileName,
-      title: displayName,
-      readerType: 'liturgies',
-    });
+  const handleMenuItemPress = (item: MenuItem) => {
+    if (item.submenu) {
+      // Toggle dropdown
+      setExpandedSection(expandedSection === item.submenu ? null : item.submenu);
+    } else if (item.path) {
+      // Navigate to content
+      navigation.navigate('ReadContent', {
+        fileName: item.path,
+        title: item.title,
+        readerType: 'liturgies',
+      });
+    }
   };
 
-  const renderFileItem = ({ item }: { item: { name: string; path: string } }) => (
-    <TouchableOpacity
-      style={styles.fileButton}
-      onPress={() => handleFilePress(item.path, item.name)}
-      activeOpacity={0.7}
-    >
-      <Text style={styles.fileButtonText}>{item.name}</Text>
-    </TouchableOpacity>
-  );
+  const getSubmenuItems = (submenuKey: string): MenuItem[] => {
+    switch (submenuKey) {
+      case 'basil':
+        return basilSubmenu;
+      case 'gregory':
+        return gregorySubmenu;
+      case 'cyril':
+        return cyrilSubmenu;
+      default:
+        return [];
+    }
+  };
+
+  const renderMenuItem = (item: MenuItem, isSubmenuItem: boolean = false) => {
+    const isExpanded = expandedSection === item.submenu;
+    const hasSubmenu = !!item.submenu;
+
+    return (
+      <View key={item.title}>
+        <TouchableOpacity
+          style={[
+            styles.fileButton,
+            isSubmenuItem && styles.submenuItem,
+          ]}
+          onPress={() => handleMenuItemPress(item)}
+          activeOpacity={0.7}
+        >
+          <Text style={styles.fileButtonText}>
+            {hasSubmenu && (isExpanded ? '▼ ' : '▶ ')}
+            {item.title}
+          </Text>
+        </TouchableOpacity>
+
+        {hasSubmenu && isExpanded && (
+          <View style={styles.submenuContainer}>
+            {getSubmenuItems(item.submenu!).map((subItem) =>
+              renderMenuItem(subItem, true)
+            )}
+          </View>
+        )}
+      </View>
+    );
+  };
 
   return (
     <SafeAreaView style={styles.container}>
@@ -86,9 +153,9 @@ export const LiturgiesScreen: React.FC<Props> = ({ navigation }) => {
         />
       )}
       <FlatList
-        data={liturgiesFiles}
-        renderItem={renderFileItem}
-        keyExtractor={(item) => item.path}
+        data={mainMenuItems}
+        renderItem={({ item }) => renderMenuItem(item, false)}
+        keyExtractor={(item) => item.title}
         contentContainerStyle={styles.listContainer}
         showsVerticalScrollIndicator={false}
       />
@@ -128,5 +195,14 @@ const styles = StyleSheet.create({
   settingsButtonText: {
     color: '#FFFFFF',
     fontSize: 18,
+  },
+  submenuContainer: {
+    marginLeft: 16,
+    marginTop: 4,
+  },
+  submenuItem: {
+    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+    borderColor: 'rgba(255, 255, 255, 0.2)',
+    marginBottom: 4,
   },
 });

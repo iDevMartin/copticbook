@@ -35,14 +35,20 @@ export const MainMenuScreen: React.FC<Props> = ({ navigation }) => {
   const [dateInputYear, setDateInputYear] = useState('');
   const [dateInputMonth, setDateInputMonth] = useState('');
   const [dateInputDay, setDateInputDay] = useState('');
+  const [showOtherMenu, setShowOtherMenu] = useState(false);
 
   const settings = CopticBookSettings.getInstance();
   const databaseService = DatabaseService.getInstance();
 
-  const menuItems = [
+  const mainMenuItems = [
     { title: 'Bible', screen: 'Bible' as keyof RootStackParamList },
     { title: 'Agpeya', screen: 'Agpeya' as keyof RootStackParamList },
     { title: 'Liturgies', screen: 'Liturgies' as keyof RootStackParamList },
+    { title: 'Readings', screen: 'Readings' as keyof RootStackParamList },
+    { title: 'Psalmody', screen: 'Praises' as keyof RootStackParamList },
+  ];
+
+  const otherMenuItems = [
     { title: 'Antiphonary', screen: 'Antiphonary' as keyof RootStackParamList },
     { title: 'Baptism', screen: 'Baptism' as keyof RootStackParamList },
     { title: 'Clergy', screen: 'Clergy' as keyof RootStackParamList },
@@ -53,13 +59,10 @@ export const MainMenuScreen: React.FC<Props> = ({ navigation }) => {
     { title: 'Melodies', screen: 'Melodies' as keyof RootStackParamList },
     { title: 'Papal', screen: 'Papal' as keyof RootStackParamList },
     { title: 'Pascha', screen: 'Pascha' as keyof RootStackParamList },
-    { title: 'Praises', screen: 'Praises' as keyof RootStackParamList },
     { title: 'Prostration', screen: 'Prostration' as keyof RootStackParamList },
     { title: 'Raising of Incense', screen: 'RaisingOfIncense' as keyof RootStackParamList },
-    { title: 'Readings', screen: 'Readings' as keyof RootStackParamList },
     { title: 'Unction', screen: 'Unction' as keyof RootStackParamList },
     { title: 'Veneration', screen: 'Veneration' as keyof RootStackParamList },
-    { title: 'Settings', screen: 'Settings' as keyof RootStackParamList },
   ];
 
   useEffect(() => {
@@ -105,6 +108,14 @@ export const MainMenuScreen: React.FC<Props> = ({ navigation }) => {
 
   const handleMenuItemPress = (screen: keyof RootStackParamList) => {
     navigation.navigate(screen);
+  };
+
+  const handleOtherPress = () => {
+    setShowOtherMenu(true);
+  };
+
+  const handleBackPress = () => {
+    setShowOtherMenu(false);
   };
 
   const handleDateContainerPress = () => {
@@ -214,7 +225,36 @@ export const MainMenuScreen: React.FC<Props> = ({ navigation }) => {
 
         {/* Menu Buttons */}
         <View style={styles.menuContainer}>
-          {menuItems.map((item, index) => renderMenuButton(item, index))}
+          {showOtherMenu ? (
+            <>
+              {otherMenuItems.map((item, index) => renderMenuButton(item, index))}
+              <TouchableOpacity
+                style={[styles.menuButton, styles.backButton]}
+                onPress={handleBackPress}
+                activeOpacity={0.7}
+              >
+                <Text style={styles.menuButtonText}>Back</Text>
+              </TouchableOpacity>
+            </>
+          ) : (
+            <>
+              {mainMenuItems.map((item, index) => renderMenuButton(item, index))}
+              <TouchableOpacity
+                style={styles.menuButton}
+                onPress={handleOtherPress}
+                activeOpacity={0.7}
+              >
+                <Text style={styles.menuButtonText}>More...</Text>
+              </TouchableOpacity>
+              <TouchableOpacity
+                style={[styles.menuButton, styles.settingsButton]}
+                onPress={() => handleMenuItemPress('Settings')}
+                activeOpacity={0.7}
+              >
+                <Text style={styles.menuButtonText}>Settings</Text>
+              </TouchableOpacity>
+            </>
+          )}
         </View>
       </ScrollView>
 
@@ -378,6 +418,16 @@ const styles = StyleSheet.create({
     fontWeight: '100',
     color: '#FFFFFF',
     textAlign: 'center',
+  },
+  backButton: {
+    marginTop: 16,
+    backgroundColor: 'rgba(255, 255, 255, 0.15)',
+    borderColor: 'rgba(255, 255, 255, 0.4)',
+  },
+  settingsButton: {
+    marginTop: 16,
+    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+    borderColor: 'rgba(255, 255, 255, 0.2)',
   },
   modalOverlay: {
     flex: 1,

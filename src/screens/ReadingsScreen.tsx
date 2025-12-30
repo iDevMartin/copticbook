@@ -1,4 +1,4 @@
-import React, { useLayoutEffect } from 'react';
+import React, { useLayoutEffect, useState } from 'react';
 import {
   View,
   Text,
@@ -18,35 +18,34 @@ interface Props {
   navigation: ReadingsScreenNavigationProp;
 }
 
-const readingsFiles = [
-  'Psalm',
-  'Psalm and Gospel',
-  'Chanted Psalm',
-  'Catholic Epistle',
-  'Pauline Epistle',
-  'Praxis',
-  'Synaxarion',
-  'Gospel',
-  'Matins Psalm',
-  'Matins Psalm and Gospel',
-  'Matins Gospel',
-  'Vespers Psalm',
-  'Vespers Psalm and Gospel',
-  'Vespers Gospel',
-  'Liturgy Psalm',
-  'Liturgy Psalm and Gospel',
-  'Liturgy Gospel',
-  'Other Psalm',
-  'Other Gospel',
-  'Prophecies',
-  'FromThePsalms',
-  'ActsConclusion',
-  'GospelIntro',
-  'HosannaSundayFirstLiturgyPsalm',
-  'StandInTheFear',
+type MenuItem = {
+  title: string;
+  fileName?: string;
+  submenu?: string;
+};
+
+const mainMenuItems: MenuItem[] = [
+  { title: 'Vespers', fileName: 'Vespers Psalm and Gospel' },
+  { title: 'Matins', submenu: 'matins' },
+  { title: 'Liturgy', submenu: 'liturgy' },
+  { title: 'Antiphonary', fileName: 'Psalm and Gospel' },
+];
+
+const matinsSubmenu: MenuItem[] = [
+  { title: 'Prophecies', fileName: 'Prophecies' },
+  { title: 'Psalm & Gospel', fileName: 'Matins Psalm and Gospel' },
+];
+
+const liturgySubmenu: MenuItem[] = [
+  { title: 'Pauline Epistle', fileName: 'Pauline Epistle' },
+  { title: 'Catholic Epistle', fileName: 'Catholic Epistle' },
+  { title: 'Praxis', fileName: 'Praxis' },
+  { title: 'Synaxarion', fileName: 'Synaxarion' },
+  { title: 'Psalm & Gospel', fileName: 'Liturgy Psalm and Gospel' },
 ];
 
 export const ReadingsScreen: React.FC<Props> = ({ navigation }) => {
+  const [expandedSection, setExpandedSection] = useState<string | null>(null);
   useLayoutEffect(() => {
     if (Platform.OS === 'web') {
       navigation.setOptions({
@@ -76,23 +75,61 @@ export const ReadingsScreen: React.FC<Props> = ({ navigation }) => {
     }
   }, [navigation]);
 
-  const handleFilePress = (fileName: string) => {
-    navigation.navigate('ReadContent', {
-      fileName: fileName,
-      title: fileName,
-      readerType: 'readings',
-    });
+  const handleMenuItemPress = (item: MenuItem) => {
+    if (item.submenu) {
+      // Toggle dropdown
+      setExpandedSection(expandedSection === item.submenu ? null : item.submenu);
+    } else if (item.fileName) {
+      // Navigate to content
+      navigation.navigate('ReadContent', {
+        fileName: item.fileName,
+        title: item.title,
+        readerType: 'readings',
+      });
+    }
   };
 
-  const renderFileItem = ({ item }: { item: string }) => (
-    <TouchableOpacity
-      style={styles.fileButton}
-      onPress={() => handleFilePress(item)}
-      activeOpacity={0.7}
-    >
-      <Text style={styles.fileButtonText}>{item}</Text>
-    </TouchableOpacity>
-  );
+  const getSubmenuItems = (submenuKey: string): MenuItem[] => {
+    switch (submenuKey) {
+      case 'matins':
+        return matinsSubmenu;
+      case 'liturgy':
+        return liturgySubmenu;
+      default:
+        return [];
+    }
+  };
+
+  const renderMenuItem = (item: MenuItem, isSubmenuItem: boolean = false) => {
+    const isExpanded = expandedSection === item.submenu;
+    const hasSubmenu = !!item.submenu;
+
+    return (
+      <View key={item.title}>
+        <TouchableOpacity
+          style={[
+            styles.fileButton,
+            isSubmenuItem && styles.submenuItem,
+          ]}
+          onPress={() => handleMenuItemPress(item)}
+          activeOpacity={0.7}
+        >
+          <Text style={styles.fileButtonText}>
+            {hasSubmenu && (isExpanded ? '▼ ' : '▶ ')}
+            {item.title}
+          </Text>
+        </TouchableOpacity>
+
+        {hasSubmenu && isExpanded && (
+          <View style={styles.submenuContainer}>
+            {getSubmenuItems(item.submenu!).map((subItem) =>
+              renderMenuItem(subItem, true)
+            )}
+          </View>
+        )}
+      </View>
+    );
+  };
 
   return (
     <SafeAreaView style={styles.container}>
@@ -105,9 +142,9 @@ export const ReadingsScreen: React.FC<Props> = ({ navigation }) => {
         />
       )}
       <FlatList
-        data={readingsFiles}
-        renderItem={renderFileItem}
-        keyExtractor={(item) => item}
+        data={mainMenuItems}
+        renderItem={({ item }) => renderMenuItem(item, false)}
+        keyExtractor={(item) => item.title}
         contentContainerStyle={styles.listContainer}
         showsVerticalScrollIndicator={false}
       />
@@ -148,5 +185,14 @@ const styles = StyleSheet.create({
   settingsButtonText: {
     color: '#FFFFFF',
     fontSize: 18,
+  },
+  submenuContainer: {
+    marginLeft: 16,
+    marginTop: 4,
+  },
+  submenuItem: {
+    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+    borderColor: 'rgba(255, 255, 255, 0.2)',
+    marginBottom: 4,
   },
 });

@@ -61,13 +61,56 @@ export class DatabaseService {
     }
 
     try {
-      // Parse reference like "Genesis 1:1-3" or "Matthew 5:6" or "Psalms 23:1"
-      const match = reference.match(/^(\d*\s*\w+)\s+(\d+):(\d+)(?:-(\d+))?$/);
+      // Parse reference like "Genesis 1:1-3" or "Matthew 5:6" or "Psalms 19:1, 4"
+      // First try: range format (e.g., "Psalms 19:1-4")
+      let match = reference.match(/^(\d*\s*\w+)\s+(\d+):(\d+)(?:-(\d+))?$/);
+
       if (!match) {
+        // Second try: comma-separated verses (e.g., "Psalms 19:1, 4")
+        match = reference.match(/^(\d*\s*\w+)\s+(\d+):(.+)$/);
+        if (match) {
+          const [, book, chapter, versePart] = match;
+          const verses = versePart.split(',').map(v => v.trim());
+
+          // Build a query that fetches specific verses
+          const versePlaceholders = verses.map(() => '?').join(',');
+          const query = `
+            SELECT Verse, English, Arabic, Coptic
+            FROM Bible
+            WHERE Book = ? AND Chapter = ? AND CAST(Verse AS INTEGER) IN (${versePlaceholders})
+            ORDER BY CAST(Verse AS INTEGER)
+          `;
+
+          const results = this.db.exec(query, [book, chapter, ...verses]);
+
+          if (!results.length || !results[0].values.length) {
+            return [];
+          }
+
+          return results[0].values.map((row, index) => ({
+            id: index + 1,
+            section: 1,
+            type: 'BibleReference',
+            english: row[1] as string,
+            arabic: row[2] as string,
+            coptic: row[3] as string,
+            isCollapsibleSection: false,
+            isExpanded: true,
+            isRoleHeader: false,
+            isSilentRole: false,
+            useHistory: true,
+            hasAttributedText: false,
+            belongsToSection: null,
+            roleID: null,
+          }));
+        }
+
+        // Neither format matched
         console.warn('Invalid reference format:', reference);
         return this.getMockBibleReference(reference);
       }
 
+      // Handle range format
       const [, book, chapter, startVerse, endVerse] = match;
       const end = endVerse || startVerse;
 
