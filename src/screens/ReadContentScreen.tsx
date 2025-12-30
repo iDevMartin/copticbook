@@ -196,15 +196,32 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   const scrollToSection = (sectionId: number) => {
-    // Find the index of the first item in this section
-    const sectionIndex = content.findIndex(item => item.belongsToSection === sectionId);
+    // Find the section header by its ID
+    const sectionIndex = content.findIndex(item => item.id === sectionId);
 
-    if (sectionIndex !== -1 && flatListRef.current) {
-      flatListRef.current.scrollToIndex({
-        index: sectionIndex,
-        animated: true,
-      });
+    console.log('Scrolling to section:', sectionId, 'found at index:', sectionIndex);
+
+    if (sectionIndex !== -1) {
+      if (Platform.OS === 'web') {
+        // On web, use DOM scrolling for reliability
+        const element = document.getElementById(`section-${sectionId}`);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          console.log('Scrolled to element:', element);
+        } else {
+          console.error('DOM element not found for section:', sectionId);
+        }
+      } else if (flatListRef.current) {
+        // On native, use scrollToIndex
+        flatListRef.current.scrollToIndex({
+          index: sectionIndex,
+          animated: true,
+          viewPosition: 0,
+        });
+      }
       toggleSidePane(); // Close pane after navigation
+    } else {
+      console.error('Section not found:', sectionId);
     }
   };
 
@@ -213,15 +230,16 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
     const seenSections = new Set<number>();
 
     content.forEach(item => {
-      if (item.isCollapsibleSection && item.belongsToSection !== null && !seenSections.has(item.belongsToSection)) {
-        seenSections.add(item.belongsToSection);
+      if (item.isCollapsibleSection && !seenSections.has(item.id)) {
+        seenSections.add(item.id);
         sections.push({
-          id: item.belongsToSection,
-          title: item.english || item.arabic || item.coptic || `Section ${item.belongsToSection}`,
+          id: item.id,
+          title: item.english || item.arabic || item.coptic || `Section ${item.id}`,
         });
       }
     });
 
+    console.log('Section headers found:', sections);
     return sections;
   };
 
@@ -360,6 +378,7 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
           style={[styles.contentItem, itemStyle.container]}
           onPress={() => handleItemPress(item)}
           activeOpacity={0.7}
+          nativeID={`section-${item.id}`}
         >
           <Text style={[
             styles.contentText,
@@ -554,6 +573,18 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
           console.log(`[${screenKey}] NATIVE Scroll position saved:`, yOffset);
         }}
         scrollEventThrottle={100}
+        onScrollToIndexFailed={(info) => {
+          // If scrollToIndex fails, scroll to the approximate offset instead
+          const wait = new Promise(resolve => setTimeout(resolve, 100));
+          wait.then(() => {
+            if (flatListRef.current) {
+              flatListRef.current.scrollToOffset({
+                offset: info.averageItemLength * info.index,
+                animated: true,
+              });
+            }
+          });
+        }}
       />
 
       {/* Side Pane */}
