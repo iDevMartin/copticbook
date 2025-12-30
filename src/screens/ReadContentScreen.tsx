@@ -10,7 +10,7 @@ import {
   Platform,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
-import { RouteProp } from '@react-navigation/native';
+import { RouteProp, useFocusEffect } from '@react-navigation/native';
 
 import { RootStackParamList, CopticContent } from '@/types';
 import { CopticXMLParser } from '@/services/CopticXMLParser';
@@ -25,13 +25,137 @@ interface Props {
   route: ReadContentScreenRouteProp;
 }
 
+// Store scroll positions globally across all screen instances
+const scrollPositions = new Map<string, number>();
+
 export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
   const { fileName, title, readerType } = route.params;
   const [content, setContent] = useState<CopticContent[]>([]);
   const [loading, setLoading] = useState(true);
   const [xmlParser, setXmlParser] = useState<CopticXMLParser | null>(null);
+  const [settingsVersion, setSettingsVersion] = useState(0);
 
   const settings = CopticBookSettings.getInstance();
+  const flatListRef = React.useRef<FlatList>(null);
+  const screenKey = `${readerType}::${fileName}`;
+  const scrollViewRef = React.useRef<any>(null);
+  const scrollHandlerRef = React.useRef<any>(null);
+
+  // Restore scroll position when screen gains focus
+  useFocusEffect(
+    React.useCallback(() => {
+      console.log(`[${screenKey}] Screen focused`);
+
+      // Attach web scroll listener on focus
+      if (Platform.OS === 'web') {
+        const handleScroll = (e: any) => {
+          const scrollTop = e.target?.scrollTop || window.pageYOffset || document.documentElement.scrollTop || 0;
+          scrollPositions.set(screenKey, scrollTop);
+          console.log(`[${screenKey}] WEB Scroll position saved:`, scrollTop);
+        };
+
+        scrollHandlerRef.current = handleScroll;
+
+        // Find and attach to scroll container
+        const attemptAttach = () => {
+          let container = document.querySelector('[data-testid="flat-list"]');
+
+          if (!container) {
+            const allDivs = document.querySelectorAll('div');
+            for (const div of Array.from(allDivs)) {
+              const style = window.getComputedStyle(div);
+              const hasScroll = style.overflowY === 'scroll' ||
+                              style.overflowY === 'auto' ||
+                              style.overflow === 'scroll' ||
+                              style.overflow === 'auto';
+              if (hasScroll && div.scrollHeight > 100) {
+                container = div;
+                console.log(`[${screenKey}] Found scrollable container by overflow check`);
+                break;
+              }
+            }
+          }
+
+          if (!container) {
+            container = document.body;
+            console.log(`[${screenKey}] Falling back to document.body`);
+          }
+
+          if (container) {
+            scrollViewRef.current = container;
+            container.addEventListener('scroll', handleScroll, { passive: true });
+            window.addEventListener('scroll', handleScroll, { passive: true });
+            console.log(`[${screenKey}] Web scroll listener attached to:`, container.tagName, container.className);
+          }
+        };
+
+        setTimeout(attemptAttach, 50);
+      }
+
+      const savedPosition = scrollPositions.get(screenKey);
+      console.log(`[${screenKey}] Saved position:`, savedPosition);
+
+      // Always attempt restoration if we have a saved position
+      if (savedPosition && savedPosition > 0) {
+        console.log(`[${screenKey}] Will attempt to restore to:`, savedPosition);
+
+        if (Platform.OS === 'web') {
+          // Web-specific restoration - try multiple strategies
+          const attempts = [100, 200, 300, 400, 500];
+          attempts.forEach(delay => {
+            setTimeout(() => {
+              // Try multiple scroll targets
+              if (scrollViewRef.current) {
+                console.log(`[${screenKey}] WEB Restoring via scrollViewRef to:`, savedPosition);
+                scrollViewRef.current.scrollTop = savedPosition;
+              }
+
+              window.scrollTo(0, savedPosition);
+              document.documentElement.scrollTop = savedPosition;
+              document.body.scrollTop = savedPosition;
+
+              // Also try any scrollable div
+              const allDivs = document.querySelectorAll('div');
+              for (const div of Array.from(allDivs)) {
+                const style = window.getComputedStyle(div);
+                const hasScroll = style.overflowY === 'scroll' || style.overflowY === 'auto';
+                if (hasScroll && div.scrollHeight > savedPosition) {
+                  div.scrollTop = savedPosition;
+                  console.log(`[${screenKey}] WEB Restored via div.scrollTop at ${delay}ms`);
+                  break;
+                }
+              }
+            }, delay);
+          });
+        } else {
+          // Native restoration
+          const attempts = [0, 50, 100, 200, 300];
+          attempts.forEach(delay => {
+            setTimeout(() => {
+              console.log(`[${screenKey}] NATIVE Attempt at ${delay}ms delay`);
+              flatListRef.current?.scrollToOffset({
+                offset: savedPosition,
+                animated: false,
+              });
+            }, delay);
+          });
+        }
+      }
+
+      setSettingsVersion(prev => prev + 1);
+
+      // Cleanup when screen loses focus
+      return () => {
+        if (Platform.OS === 'web' && scrollHandlerRef.current) {
+          console.log(`[${screenKey}] Cleaning up scroll listeners`);
+          if (scrollViewRef.current) {
+            scrollViewRef.current.removeEventListener('scroll', scrollHandlerRef.current);
+          }
+          window.removeEventListener('scroll', scrollHandlerRef.current);
+        }
+      };
+    }, [screenKey])
+  );
 
   useEffect(() => {
     loadContent();
@@ -62,6 +186,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
         const visibleContent = xmlParser.getVisibleContent();
         setContent(visibleContent);
       }
+      // Force re-render to pick up language and other settings changes
+      setSettingsVersion(prev => prev + 1);
     };
 
     settings.addChangeListener(handleSettingsChange);
@@ -166,13 +292,16 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
 
       return (
         <TouchableOpacity
-          style={[styles.contentItem, itemStyle.container]}
+          style={[styles.contentItem, styles.linkDocumentButton]}
           onPress={() => handleItemPress(item)}
           activeOpacity={0.7}
         >
-          <Text style={[styles.contentText, itemStyle.text]}>
-            {displayText} ›
-          </Text>
+          <View style={styles.linkDocumentContent}>
+            <Text style={[styles.linkDocumentText, itemStyle.text]}>
+              {displayText}
+            </Text>
+            <Text style={styles.linkDocumentArrow}>›</Text>
+          </View>
         </TouchableOpacity>
       );
     }
@@ -208,10 +337,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
       const showEnglishColumn = enabledLangs.includes('English');
 
       return (
-        <TouchableOpacity
+        <View
           style={[styles.contentItem, itemStyle.container]}
-          onPress={() => handleItemPress(item)}
-          activeOpacity={item.isCollapsibleSection ? 0.7 : 1}
         >
           <View style={styles.columnsContainer}>
             {showEnglishColumn && (item.english || item.arabic || item.coptic) && (
@@ -257,7 +384,7 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
               </View>
             )}
           </View>
-        </TouchableOpacity>
+        </View>
       );
     }
 
@@ -266,10 +393,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
     const isCopticOnly = enabledLangs.length === 1 && enabledLangs.includes('Coptic');
 
     return (
-      <TouchableOpacity
+      <View
         style={[styles.contentItem, itemStyle.container]}
-        onPress={() => handleItemPress(item)}
-        activeOpacity={item.isCollapsibleSection ? 0.7 : 1}
       >
         <Text
           style={[
@@ -284,7 +409,7 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
         >
           {textContent}
         </Text>
-      </TouchableOpacity>
+      </View>
     );
   };
 
@@ -369,11 +494,20 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
         />
       )}
       <FlatList
+        ref={flatListRef}
+        testID="flat-list"
         data={content}
         renderItem={renderContentItem}
         keyExtractor={(item, index) => `${item.id}-${index}`}
         contentContainerStyle={styles.listContainer}
         showsVerticalScrollIndicator={false}
+        maintainVisibleContentPosition={null}
+        onScroll={(event) => {
+          const yOffset = event.nativeEvent.contentOffset.y;
+          scrollPositions.set(screenKey, yOffset);
+          console.log(`[${screenKey}] NATIVE Scroll position saved:`, yOffset);
+        }}
+        scrollEventThrottle={100}
       />
     </View>
   );
@@ -383,6 +517,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#000000',
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
   },
   loadingContainer: {
     flex: 1,
@@ -397,26 +533,37 @@ const styles = StyleSheet.create({
   },
   listContainer: {
     paddingVertical: 10,
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
   },
   contentItem: {
     paddingVertical: 8,
     paddingHorizontal: 16,
     minHeight: 44,
     justifyContent: 'center',
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
   },
   contentText: {
     lineHeight: 22,
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
+    cursor: 'text',
   },
   columnsContainer: {
     flexDirection: 'row',
     gap: 12,
     flex: 1,
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
   },
   languageColumn: {
     flex: 1,
     paddingHorizontal: 8,
     borderLeftWidth: 1,
     borderLeftColor: 'rgba(255, 255, 255, 0.2)',
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
   },
   headerButton: {
     paddingHorizontal: 15,
@@ -424,5 +571,34 @@ const styles = StyleSheet.create({
   headerButtonText: {
     color: '#FFFFFF',
     fontSize: 18,
+  },
+  linkDocumentButton: {
+    backgroundColor: 'rgba(0, 122, 255, 0.15)',
+    borderWidth: 1,
+    borderColor: 'rgba(0, 122, 255, 0.4)',
+    borderRadius: 8,
+    marginVertical: 4,
+    marginHorizontal: 16,
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+  },
+  linkDocumentContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  linkDocumentText: {
+    flex: 1,
+    color: '#007AFF',
+    fontSize: 16,
+    fontWeight: '500',
+    userSelect: 'text',
+    WebkitUserSelect: 'text',
+  },
+  linkDocumentArrow: {
+    color: '#007AFF',
+    fontSize: 20,
+    fontWeight: 'bold',
+    marginLeft: 8,
   },
 });

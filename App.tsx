@@ -4,6 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { View, ActivityIndicator, StyleSheet, Platform } from 'react-native';
+import { Analytics } from '@vercel/analytics/react';
 
 import { RootStackParamList } from '@/types';
 import { CopticBookSettings } from '@/services/CopticBookSettings';
@@ -158,7 +159,7 @@ export default function App() {
       <NavigationContainer>
         <StatusBar style="light" backgroundColor="#000000" />
         <Stack.Navigator
-          initialRouteName="MainMenu"
+          initialRouteName="CopticBook"
           screenOptions={{
             headerStyle: {
               backgroundColor: '#000000',
@@ -172,18 +173,18 @@ export default function App() {
             },
           }}
         >
-          <Stack.Screen 
-            name="MainMenu" 
+          <Stack.Screen
+            name="CopticBook"
             component={MainMenuScreen}
             options={{ headerShown: false }}
           />
-          <Stack.Screen 
-            name="Settings" 
+          <Stack.Screen
+            name="Settings"
             component={SettingsScreen}
             options={{ title: 'Settings' }}
           />
-          <Stack.Screen 
-            name="ReadContent" 
+          <Stack.Screen
+            name="ReadContent"
             component={ReadContentScreen}
             options={({ route }) => ({ title: route.params.title })}
           />
@@ -202,98 +203,99 @@ export default function App() {
             component={BibleChapterReaderScreen}
             options={({ route }) => ({ title: `${route.params.bookName} ${route.params.chapter}` })}
           />
-          <Stack.Screen 
-            name="Agpeya" 
+          <Stack.Screen
+            name="Agpeya"
             component={AgpeyaScreen}
             options={{ title: 'Agpeya' }}
           />
-          <Stack.Screen 
-            name="Liturgies" 
+          <Stack.Screen
+            name="Liturgies"
             component={LiturgiesScreen}
             options={{ title: 'Liturgies' }}
           />
-          <Stack.Screen 
-            name="Antiphonary" 
+          <Stack.Screen
+            name="Antiphonary"
             component={AntiphonaryScreen}
             options={{ title: 'Antiphonary' }}
           />
-          <Stack.Screen 
-            name="Baptism" 
+          <Stack.Screen
+            name="Baptism"
             component={BaptismScreen}
             options={{ title: 'Baptism' }}
           />
-          <Stack.Screen 
-            name="Clergy" 
+          <Stack.Screen
+            name="Clergy"
             component={ClergyScreen}
             options={{ title: 'Clergy' }}
           />
-          <Stack.Screen 
-            name="Consecrations" 
+          <Stack.Screen
+            name="Consecrations"
             component={ConsecrationsScreen}
             options={{ title: 'Consecrations' }}
           />
-          <Stack.Screen 
-            name="Crowning" 
+          <Stack.Screen
+            name="Crowning"
             component={CrowningScreen}
             options={{ title: 'Crowning' }}
           />
-          <Stack.Screen 
-            name="Funeral" 
+          <Stack.Screen
+            name="Funeral"
             component={FuneralScreen}
             options={{ title: 'Funeral' }}
           />
-          <Stack.Screen 
-            name="Lakkan" 
+          <Stack.Screen
+            name="Lakkan"
             component={LakkanScreen}
             options={{ title: 'Lakkan' }}
           />
-          <Stack.Screen 
-            name="Melodies" 
+          <Stack.Screen
+            name="Melodies"
             component={MelodiesScreen}
             options={{ title: 'Melodies' }}
           />
-          <Stack.Screen 
-            name="Papal" 
+          <Stack.Screen
+            name="Papal"
             component={PapalScreen}
             options={{ title: 'Papal' }}
           />
-          <Stack.Screen 
-            name="Pascha" 
+          <Stack.Screen
+            name="Pascha"
             component={PaschaScreen}
             options={{ title: 'Pascha' }}
           />
-          <Stack.Screen 
-            name="Praises" 
+          <Stack.Screen
+            name="Praises"
             component={PraisesScreen}
             options={{ title: 'Praises' }}
           />
-          <Stack.Screen 
-            name="Prostration" 
+          <Stack.Screen
+            name="Prostration"
             component={ProstrationScreen}
             options={{ title: 'Prostration' }}
           />
-          <Stack.Screen 
-            name="RaisingOfIncense" 
+          <Stack.Screen
+            name="RaisingOfIncense"
             component={RaisingOfIncenseScreen}
             options={{ title: 'Raising of Incense' }}
           />
-          <Stack.Screen 
-            name="Readings" 
+          <Stack.Screen
+            name="Readings"
             component={ReadingsScreen}
             options={{ title: 'Readings' }}
           />
-          <Stack.Screen 
-            name="Unction" 
+          <Stack.Screen
+            name="Unction"
             component={UnctionScreen}
             options={{ title: 'Unction' }}
           />
-          <Stack.Screen 
-            name="Veneration" 
+          <Stack.Screen
+            name="Veneration"
             component={VenerationScreen}
             options={{ title: 'Veneration' }}
           />
         </Stack.Navigator>
       </NavigationContainer>
+      <Analytics />
     </SafeAreaProvider>
   );
 }
