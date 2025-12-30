@@ -7,6 +7,7 @@ interface FixedHeaderProps {
   navigation: StackNavigationProp<any>;
   showBack?: boolean;
   showSettings?: boolean;
+  onMenuPress?: () => void;
 }
 
 export const FixedHeader: React.FC<FixedHeaderProps> = ({
@@ -14,6 +15,7 @@ export const FixedHeader: React.FC<FixedHeaderProps> = ({
   navigation,
   showBack = true,
   showSettings = true,
+  onMenuPress,
 }) => {
   return (
     <View style={styles.header}>
@@ -27,7 +29,7 @@ export const FixedHeader: React.FC<FixedHeaderProps> = ({
         </TouchableOpacity>
       )}
       <Text style={styles.title}>{title}</Text>
-      {showSettings && (
+      {showSettings ? (
         <TouchableOpacity
           style={styles.settingsButton}
           onPress={() => navigation.navigate('Settings')}
@@ -35,6 +37,16 @@ export const FixedHeader: React.FC<FixedHeaderProps> = ({
         >
           <Text style={styles.settingsButtonText}>⚙</Text>
         </TouchableOpacity>
+      ) : onMenuPress ? (
+        <TouchableOpacity
+          style={styles.menuButton}
+          onPress={onMenuPress}
+          activeOpacity={0.7}
+        >
+          <Text style={styles.menuButtonText}>☰</Text>
+        </TouchableOpacity>
+      ) : (
+        <View style={styles.placeholder} />
       )}
     </View>
   );
@@ -77,5 +89,16 @@ const styles = StyleSheet.create({
   settingsButtonText: {
     color: '#FFFFFF',
     fontSize: 18,
+  },
+  menuButton: {
+    paddingHorizontal: 15,
+  },
+  menuButtonText: {
+    color: '#FFFFFF',
+    fontSize: 24,
+    fontWeight: '300',
+  },
+  placeholder: {
+    width: 45,
   },
 });

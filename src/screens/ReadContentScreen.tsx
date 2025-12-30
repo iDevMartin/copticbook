@@ -8,6 +8,8 @@ import {
   Alert,
   ActivityIndicator,
   Platform,
+  Animated,
+  ScrollView,
 } from 'react-native';
 import { StackNavigationProp } from '@react-navigation/stack';
 import { RouteProp, useFocusEffect } from '@react-navigation/native';
@@ -34,6 +36,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
   const [loading, setLoading] = useState(true);
   const [xmlParser, setXmlParser] = useState<CopticXMLParser | null>(null);
   const [settingsVersion, setSettingsVersion] = useState(0);
+  const [sidePaneVisible, setSidePaneVisible] = useState(false);
+  const sidePaneAnim = React.useRef(new Animated.Value(0)).current;
 
   const settings = CopticBookSettings.getInstance();
   const flatListRef = React.useRef<FlatList>(null);
@@ -166,19 +170,60 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
         headerShown: false,
       });
     } else {
-      // Add settings button to header on mobile
+      // Add menu button to header on mobile
       navigation.setOptions({
         headerRight: () => (
           <TouchableOpacity
             style={styles.headerButton}
-            onPress={() => navigation.navigate('Settings')}
+            onPress={toggleSidePane}
           >
-            <Text style={styles.headerButtonText}>⚙</Text>
+            <Text style={styles.headerButtonText}>☰</Text>
           </TouchableOpacity>
         ),
       });
     }
   }, [fileName, readerType, navigation]);
+
+  const toggleSidePane = () => {
+    const toValue = sidePaneVisible ? 0 : 1;
+    setSidePaneVisible(!sidePaneVisible);
+
+    Animated.timing(sidePaneAnim, {
+      toValue,
+      duration: 300,
+      useNativeDriver: true,
+    }).start();
+  };
+
+  const scrollToSection = (sectionId: number) => {
+    // Find the index of the first item in this section
+    const sectionIndex = content.findIndex(item => item.belongsToSection === sectionId);
+
+    if (sectionIndex !== -1 && flatListRef.current) {
+      flatListRef.current.scrollToIndex({
+        index: sectionIndex,
+        animated: true,
+      });
+      toggleSidePane(); // Close pane after navigation
+    }
+  };
+
+  const getSectionHeaders = () => {
+    const sections: { id: number; title: string }[] = [];
+    const seenSections = new Set<number>();
+
+    content.forEach(item => {
+      if (item.isCollapsibleSection && item.belongsToSection !== null && !seenSections.has(item.belongsToSection)) {
+        seenSections.add(item.belongsToSection);
+        sections.push({
+          id: item.belongsToSection,
+          title: item.english || item.arabic || item.coptic || `Section ${item.belongsToSection}`,
+        });
+      }
+    });
+
+    return sections;
+  };
 
   useEffect(() => {
     const handleSettingsChange = () => {
@@ -490,7 +535,8 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
           title={title}
           navigation={navigation}
           showBack={true}
-          showSettings={true}
+          showSettings={false}
+          onMenuPress={toggleSidePane}
         />
       )}
       <FlatList
@@ -509,6 +555,61 @@ export const ReadContentScreen: React.FC<Props> = ({ navigation, route }) => {
         }}
         scrollEventThrottle={100}
       />
+
+      {/* Side Pane */}
+      {sidePaneVisible && (
+        <TouchableOpacity
+          style={styles.overlay}
+          activeOpacity={1}
+          onPress={toggleSidePane}
+        />
+      )}
+      <Animated.View
+        style={[
+          styles.sidePane,
+          {
+            transform: [
+              {
+                translateX: sidePaneAnim.interpolate({
+                  inputRange: [0, 1],
+                  outputRange: [300, 0],
+                }),
+              },
+            ],
+          },
+        ]}
+      >
+        <View style={styles.sidePaneHeader}>
+          <Text style={styles.sidePaneTitle}>Contents</Text>
+          <TouchableOpacity onPress={toggleSidePane} style={styles.closeButton}>
+            <Text style={styles.closeButtonText}>✕</Text>
+          </TouchableOpacity>
+        </View>
+
+        <ScrollView style={styles.sidePaneContent}>
+          {getSectionHeaders().map((section) => (
+            <TouchableOpacity
+              key={section.id}
+              style={styles.sectionItem}
+              onPress={() => scrollToSection(section.id)}
+            >
+              <Text style={styles.sectionItemText}>{section.title}</Text>
+            </TouchableOpacity>
+          ))}
+        </ScrollView>
+
+        <View style={styles.sidePaneFooter}>
+          <TouchableOpacity
+            style={styles.settingsButton}
+            onPress={() => {
+              toggleSidePane();
+              navigation.navigate('Settings');
+            }}
+          >
+            <Text style={styles.settingsButtonText}>⚙ Settings</Text>
+          </TouchableOpacity>
+        </View>
+      </Animated.View>
     </View>
   );
 };
@@ -600,5 +701,89 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
     marginLeft: 8,
+  },
+  overlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: 'rgba(0, 0, 0, 0.5)',
+    zIndex: 998,
+    ...(Platform.OS === 'web' && {
+      position: 'fixed' as any,
+      height: '100vh',
+    }),
+  },
+  sidePane: {
+    position: 'absolute',
+    top: 0,
+    right: 0,
+    bottom: 0,
+    width: 300,
+    backgroundColor: '#1C1C1E',
+    zIndex: 999,
+    shadowColor: '#000',
+    shadowOffset: { width: -2, height: 0 },
+    shadowOpacity: 0.3,
+    shadowRadius: 8,
+    elevation: 5,
+    flexDirection: 'column',
+    ...(Platform.OS === 'web' && {
+      position: 'fixed' as any,
+      height: '100vh',
+    }),
+  },
+  sidePaneHeader: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingHorizontal: 20,
+    paddingVertical: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(255, 255, 255, 0.1)',
+  },
+  sidePaneTitle: {
+    color: '#FFFFFF',
+    fontSize: 20,
+    fontWeight: 'bold',
+  },
+  closeButton: {
+    padding: 8,
+  },
+  closeButtonText: {
+    color: '#FFFFFF',
+    fontSize: 24,
+    fontWeight: '300',
+  },
+  sidePaneContent: {
+    flex: 1,
+  },
+  sectionItem: {
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderBottomWidth: 1,
+    borderBottomColor: 'rgba(255, 255, 255, 0.05)',
+  },
+  sectionItemText: {
+    color: '#FFFFFF',
+    fontSize: 16,
+  },
+  sidePaneFooter: {
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(255, 255, 255, 0.1)',
+    padding: 16,
+  },
+  settingsButton: {
+    backgroundColor: '#007AFF',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+    alignItems: 'center',
+  },
+  settingsButtonText: {
+    color: '#FFFFFF',
+    fontSize: 16,
+    fontWeight: '600',
   },
 });
